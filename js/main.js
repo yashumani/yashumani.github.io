@@ -6,8 +6,7 @@
   var toggle = document.querySelector('.theme-toggle');
   if (toggle) {
     toggle.addEventListener('click', function () {
-      var systemDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-      var current = root.getAttribute('data-theme') || (systemDark ? 'dark' : 'light');
+      var current = root.getAttribute('data-theme') || 'light';
       var next = current === 'dark' ? 'light' : 'dark';
       root.setAttribute('data-theme', next);
       localStorage.setItem('theme', next);

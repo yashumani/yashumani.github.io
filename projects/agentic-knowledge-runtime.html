@@ -38,10 +38,61 @@
 
     <p class="stats-line reveal"><strong data-count="92">0</strong> commits<span class="sep">·</span><strong data-count="98" data-suffix="%">0</strong> solo-authored<span class="sep">·</span><strong data-count="200" data-suffix="+">0</strong> automated tests passing<span class="sep">·</span><strong data-count="13">0</strong> source connectors</p>
 
+    <h2 class="reveal">Demo</h2>
+    <figure class="media-figure reveal">
+      <video controls preload="metadata" width="1280" height="720" src="../assets/video/agentic-knowledge-runtime/demo.mp4"></video>
+      <figcaption class="media-caption">Walkthrough: ingesting a source set, querying the evidence graph, and reviewing a critique-gated research artifact.</figcaption>
+    </figure>
+
     <h2 class="reveal">What it does</h2>
     <p>Most "AI research assistant" tools take a prompt and hallucinate an answer in one shot. This platform instead treats research as a pipeline with an auditable paper trail: every claim it publishes has to trace back to a specific chunk of a specific source document, and every output passes through an automated review stage before it's considered final.</p>
 
     <h2 class="reveal">How it works</h2>
+    <div class="diagram reveal">
+      <svg viewBox="0 0 700 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="pipeline-diagram-title pipeline-diagram-desc">
+        <title id="pipeline-diagram-title">Ingestion and query pipeline</title>
+        <desc id="pipeline-diagram-desc">Top row: source adapters flow into extraction and parsing, then into the evidence graph, then into the Weaviate vector index. Bottom row: a query flows into hybrid retrieval and reranking, then the knowledge compiler, then critique and repair review, then a published artifact.</desc>
+        <defs>
+          <marker id="arrowhead" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <path d="M0,0 L10,5 L0,10 z" fill="var(--link)"></path>
+          </marker>
+        </defs>
+
+        <rect x="0" y="20" width="160" height="50" rx="6" fill="none" stroke="var(--border)"></rect>
+        <text x="80" y="38" text-anchor="middle" font-size="11" fill="var(--text)"><tspan x="80" dy="0">Source</tspan><tspan x="80" dy="14">adapters</tspan></text>
+        <line x1="160" y1="45" x2="178" y2="45" stroke="var(--link)" stroke-width="1.5" marker-end="url(#arrowhead)"></line>
+
+        <rect x="180" y="20" width="160" height="50" rx="6" fill="none" stroke="var(--border)"></rect>
+        <text x="260" y="38" text-anchor="middle" font-size="11" fill="var(--text)"><tspan x="260" dy="0">Extraction &amp;</tspan><tspan x="260" dy="14">parsing</tspan></text>
+        <line x1="340" y1="45" x2="358" y2="45" stroke="var(--link)" stroke-width="1.5" marker-end="url(#arrowhead)"></line>
+
+        <rect x="360" y="20" width="160" height="50" rx="6" fill="none" stroke="var(--border)"></rect>
+        <text x="440" y="38" text-anchor="middle" font-size="11" fill="var(--text)"><tspan x="440" dy="0">Evidence</tspan><tspan x="440" dy="14">graph</tspan></text>
+        <line x1="520" y1="45" x2="538" y2="45" stroke="var(--link)" stroke-width="1.5" marker-end="url(#arrowhead)"></line>
+
+        <rect x="540" y="20" width="160" height="50" rx="6" fill="none" stroke="var(--border)"></rect>
+        <text x="620" y="38" text-anchor="middle" font-size="11" fill="var(--text)"><tspan x="620" dy="0">Vector index</tspan><tspan x="620" dy="14">(Weaviate)</tspan></text>
+
+        <rect x="0" y="140" width="126" height="50" rx="6" fill="none" stroke="var(--border)"></rect>
+        <text x="63" y="169" text-anchor="middle" font-size="11" fill="var(--text)">Query</text>
+        <line x1="126" y1="165" x2="140" y2="165" stroke="var(--link)" stroke-width="1.5" marker-end="url(#arrowhead)"></line>
+
+        <rect x="142" y="140" width="126" height="50" rx="6" fill="none" stroke="var(--border)"></rect>
+        <text x="205" y="158" text-anchor="middle" font-size="11" fill="var(--text)"><tspan x="205" dy="0">Hybrid</tspan><tspan x="205" dy="14">retrieval+rerank</tspan></text>
+        <line x1="268" y1="165" x2="282" y2="165" stroke="var(--link)" stroke-width="1.5" marker-end="url(#arrowhead)"></line>
+
+        <rect x="284" y="140" width="126" height="50" rx="6" fill="none" stroke="var(--border)"></rect>
+        <text x="347" y="158" text-anchor="middle" font-size="11" fill="var(--text)"><tspan x="347" dy="0">Knowledge</tspan><tspan x="347" dy="14">compiler</tspan></text>
+        <line x1="410" y1="165" x2="424" y2="165" stroke="var(--link)" stroke-width="1.5" marker-end="url(#arrowhead)"></line>
+
+        <rect x="426" y="140" width="126" height="50" rx="6" fill="none" stroke="var(--border)"></rect>
+        <text x="489" y="158" text-anchor="middle" font-size="11" fill="var(--text)"><tspan x="489" dy="0">Critique /</tspan><tspan x="489" dy="14">repair</tspan></text>
+        <line x1="552" y1="165" x2="566" y2="165" stroke="var(--link)" stroke-width="1.5" marker-end="url(#arrowhead)"></line>
+
+        <rect x="568" y="140" width="126" height="50" rx="6" fill="none" stroke="var(--border)"></rect>
+        <text x="631" y="158" text-anchor="middle" font-size="11" fill="var(--text)"><tspan x="631" dy="0">Published</tspan><tspan x="631" dy="14">artifact</tspan></text>
+      </svg>
+    </div>
     <p class="sequence reveal"><strong>Source adapters</strong> (web, YouTube, GitHub, arXiv, X/Twitter, RSS) &rarr; extraction &amp; parsing &rarr; evidence graph &rarr; vector index (Weaviate)</p>
     <p class="sequence reveal">Query &rarr; hybrid retrieval + rerank &rarr; knowledge compiler &rarr; <strong>critique / repair review</strong> &rarr; published artifact</p>
 
@@ -53,6 +104,22 @@
       <li class="reveal"><strong>Durable orchestration</strong> — long-running research jobs are built on a workflow engine (Temporal) so they survive crashes and restarts instead of losing hours of work.</li>
       <li class="reveal"><strong>Typed programs and evaluation gates</strong> — the AI reasoning steps are written as typed, testable programs (DSPy) rather than loose prompt strings, and every change has to pass an automated evaluation suite (Promptfoo) before it ships, with full run history in MLflow.</li>
     </ul>
+
+    <h2 class="reveal">Screenshots</h2>
+    <div class="media-gallery">
+      <figure class="media-figure reveal">
+        <img loading="lazy" width="800" height="500" src="../assets/images/agentic-knowledge-runtime/screenshot-1.jpg" alt="Evidence graph explorer showing linked claims, sources, and chunks" onerror="this.closest('figure').style.display='none'">
+        <figcaption class="media-caption">Evidence graph explorer</figcaption>
+      </figure>
+      <figure class="media-figure reveal">
+        <img loading="lazy" width="800" height="500" src="../assets/images/agentic-knowledge-runtime/screenshot-2.jpg" alt="Temporal workflow view of a running research job" onerror="this.closest('figure').style.display='none'">
+        <figcaption class="media-caption">Durable workflow run</figcaption>
+      </figure>
+      <figure class="media-figure reveal">
+        <img loading="lazy" width="800" height="500" src="../assets/images/agentic-knowledge-runtime/screenshot-3.jpg" alt="MLflow experiment run history for a DSPy program" onerror="this.closest('figure').style.display='none'">
+        <figcaption class="media-caption">MLflow run history</figcaption>
+      </figure>
+    </div>
 
     <h2 class="reveal">Engineering discipline</h2>
     <p>This wasn't built as a weekend prototype. The repository has 92 commits, 98% of them authored solo, delivered through 14 phased, evidence-gated releases — each phase required passing acceptance tests before the next could start. It's deployed on Azure Container Apps behind a VPN-gated, fail-closed security posture, with 200+ automated tests currently passing and real (metered, capped) API usage in its live runs.</p>
