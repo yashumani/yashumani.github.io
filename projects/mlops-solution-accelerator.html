@@ -23,41 +23,17 @@
 
     <a class="back-link" href="../index.html">&larr; All projects</a>
 
-    <section class="reveal">
-      <span class="eyebrow">Project</span>
-      <h1>Automated ML Pipeline Platform</h1>
-      <p class="tagline">An end-to-end Azure ML pipeline that automatically finds, tunes, and registers the best model for a dataset — classification, regression, or clustering — with no manual model selection.</p>
-    </section>
+    <h1>Automated ML Pipeline Platform</h1>
+    <p>An end-to-end Azure ML pipeline that automatically finds, tunes, and registers the best model for a dataset — classification, regression, or clustering — with no manual model selection.</p>
 
-    <div class="stat-row reveal">
-      <div class="stat"><span class="num">457</span><span class="label">candidate model recipes</span></div>
-      <div class="stat"><span class="num">18</span><span class="label">reusable pipeline components</span></div>
-      <div class="stat"><span class="num">19</span><span class="label">modular pipeline steps</span></div>
-      <div class="stat"><span class="num">3</span><span class="label">task types supported</span></div>
-    </div>
+    <p class="stats-line"><strong>457</strong> candidate recipes<span class="sep">·</span><strong>18</strong> reusable components<span class="sep">·</span><strong>19</strong> pipeline steps<span class="sep">·</span><strong>3</strong> task types</p>
 
     <h2>What it does</h2>
     <p>Feed it a dataset and a config file. It runs a tournament between hundreds of candidate model configurations, tunes the best one, evaluates it on held-out data, and registers the winner in Azure ML's model registry — the same decisions a data science team would make by hand, but systematic and reproducible.</p>
 
     <h2>How it works</h2>
-    <div class="flow reveal">
-      <div class="step">Data validation &amp; ingestion</div>
-      <span class="arrow">&rarr;</span>
-      <div class="step">Preprocessing &amp; feature engineering</div>
-      <span class="arrow">&rarr;</span>
-      <div class="step">Baseline tournament<small>PyCaret + FLAML, parallel</small></div>
-    </div>
-    <div class="flow reveal">
-      <div class="step">Phase A champion</div>
-      <span class="arrow">&rarr;</span>
-      <div class="step">Variant search<small>457 data-profiled recipes</small></div>
-      <span class="arrow">&rarr;</span>
-      <div class="step">Optuna HPO</div>
-      <span class="arrow">&rarr;</span>
-      <div class="step">Holdout evaluation</div>
-      <span class="arrow">&rarr;</span>
-      <div class="step">Model registration</div>
-    </div>
+    <p class="sequence">Data validation &amp; ingestion &rarr; preprocessing &amp; feature engineering &rarr; <strong>baseline tournament</strong> (PyCaret + FLAML, parallel)</p>
+    <p class="sequence">Phase A champion &rarr; variant search (457 data-profiled recipes) &rarr; Optuna HPO &rarr; holdout evaluation &rarr; model registration</p>
 
     <ul class="clean">
       <li><strong>Three-phase tournament</strong> — a fast multi-engine baseline round (PyCaret and FLAML running in parallel) picks a Phase A champion; a variant-search round scores 457 auto-generated model/preprocessing recipes against the data's own profile to pick a Phase B champion; Optuna hyperparameter optimization refines the winner before a final holdout evaluation.</li>
@@ -71,25 +47,17 @@
     <p>One of the platform's configs is built for telecom customer-churn prediction: dual-engine baselines, Boruta feature selection, SMOTE class-imbalance handling, and a 50-trial Optuna hyperparameter search — a direct application of the platform to a real churn-prediction problem.</p>
 
     <h2>Stack</h2>
-    <div class="pill-row">
-      <span class="pill">Python</span>
-      <span class="pill">Azure ML</span>
-      <span class="pill">PyCaret</span>
-      <span class="pill">FLAML</span>
-      <span class="pill">Optuna</span>
-      <span class="pill">MLflow</span>
-    </div>
+    <p>Python, Azure ML, PyCaret, FLAML, Optuna, MLflow.</p>
 
-    <div class="contact-block">
-      <p>Want the technical deep-dive or a walkthrough? <a href="mailto:yashusharma800@gmail.com">Get in touch</a>.</p>
-    </div>
+    <hr class="hr">
+
+    <p>Want the technical deep-dive or a walkthrough? <a href="mailto:yashusharma800@gmail.com">Get in touch</a>.</p>
 
     <footer class="site-footer">
-      <p>&copy; 2026 Yashu Sharma</p>
+      <p class="footer-note">&copy; 2026 Yashu Sharma</p>
     </footer>
 
   </main>
 
-  <script src="../js/main.js"></script>
 </body>
 </html>
