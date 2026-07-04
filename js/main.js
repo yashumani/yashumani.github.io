@@ -16,6 +16,23 @@
 })();
 
 (function () {
+  var header = document.querySelector('.site-header');
+  if (!header) return;
+  var ticking = false;
+  function update() {
+    header.classList.toggle('scrolled', window.scrollY > 4);
+    ticking = false;
+  }
+  update();
+  window.addEventListener('scroll', function () {
+    if (!ticking) {
+      requestAnimationFrame(update);
+      ticking = true;
+    }
+  }, { passive: true });
+})();
+
+(function () {
   var prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   var targets = document.querySelectorAll('.reveal');
 

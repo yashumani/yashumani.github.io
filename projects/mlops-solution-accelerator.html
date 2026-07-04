@@ -31,32 +31,32 @@
 
   <main class="wrap">
 
-    <a class="back-link" href="../index.html">&larr; All projects</a>
+    <a class="back-link" href="../index.html"><span class="back-arrow">&larr;</span> All projects</a>
 
     <h1 class="reveal">Automated ML Pipeline Platform</h1>
     <p class="reveal">An end-to-end Azure ML pipeline that automatically finds, tunes, and registers the best model for a dataset — classification, regression, or clustering — with no manual model selection.</p>
 
     <p class="stats-line reveal"><strong data-count="457">0</strong> candidate recipes<span class="sep">·</span><strong data-count="18">0</strong> reusable components<span class="sep">·</span><strong data-count="19">0</strong> pipeline steps<span class="sep">·</span><strong data-count="3">0</strong> task types</p>
 
-    <h2>What it does</h2>
+    <h2 class="reveal">What it does</h2>
     <p>Feed it a dataset and a config file. It runs a tournament between hundreds of candidate model configurations, tunes the best one, evaluates it on held-out data, and registers the winner in Azure ML's model registry — the same decisions a data science team would make by hand, but systematic and reproducible.</p>
 
-    <h2>How it works</h2>
-    <p class="sequence">Data validation &amp; ingestion &rarr; preprocessing &amp; feature engineering &rarr; <strong>baseline tournament</strong> (PyCaret + FLAML, parallel)</p>
-    <p class="sequence">Phase A champion &rarr; variant search (457 data-profiled recipes) &rarr; Optuna HPO &rarr; holdout evaluation &rarr; model registration</p>
+    <h2 class="reveal">How it works</h2>
+    <p class="sequence reveal">Data validation &amp; ingestion &rarr; preprocessing &amp; feature engineering &rarr; <strong>baseline tournament</strong> (PyCaret + FLAML, parallel)</p>
+    <p class="sequence reveal">Phase A champion &rarr; variant search (457 data-profiled recipes) &rarr; Optuna HPO &rarr; holdout evaluation &rarr; model registration</p>
 
     <ul class="clean">
-      <li><strong>Three-phase tournament</strong> — a fast multi-engine baseline round (PyCaret and FLAML running in parallel) picks a Phase A champion; a variant-search round scores 457 auto-generated model/preprocessing recipes against the data's own profile to pick a Phase B champion; Optuna hyperparameter optimization refines the winner before a final holdout evaluation.</li>
-      <li><strong>Config-driven, not hardcoded</strong> — every dataset, task type, compute target, and stage parameter is controlled by a YAML config, so adding a new use case doesn't require touching pipeline code.</li>
-      <li><strong>Supports three task families</strong> — classification, regression, and clustering, each with task-specific preprocessing and scoring recipes, including built-in handling for class imbalance (SMOTE) and feature selection (Boruta) on classification tasks.</li>
-      <li><strong>Full reproducibility</strong> — every run is tracked in nested MLflow experiments (parent pipeline run, per-step and per-model child runs), so any registered model can be traced back to the exact data, config, and hyperparameters that produced it.</li>
-      <li><strong>Real Azure ML deployment</strong> — runs against an actual Azure ML workspace and compute cluster, not a local notebook simulation, with operational tooling to monitor running jobs and extract results.</li>
+      <li class="reveal"><strong>Three-phase tournament</strong> — a fast multi-engine baseline round (PyCaret and FLAML running in parallel) picks a Phase A champion; a variant-search round scores 457 auto-generated model/preprocessing recipes against the data's own profile to pick a Phase B champion; Optuna hyperparameter optimization refines the winner before a final holdout evaluation.</li>
+      <li class="reveal"><strong>Config-driven, not hardcoded</strong> — every dataset, task type, compute target, and stage parameter is controlled by a YAML config, so adding a new use case doesn't require touching pipeline code.</li>
+      <li class="reveal"><strong>Supports three task families</strong> — classification, regression, and clustering, each with task-specific preprocessing and scoring recipes, including built-in handling for class imbalance (SMOTE) and feature selection (Boruta) on classification tasks.</li>
+      <li class="reveal"><strong>Full reproducibility</strong> — every run is tracked in nested MLflow experiments (parent pipeline run, per-step and per-model child runs), so any registered model can be traced back to the exact data, config, and hyperparameters that produced it.</li>
+      <li class="reveal"><strong>Real Azure ML deployment</strong> — runs against an actual Azure ML workspace and compute cluster, not a local notebook simulation, with operational tooling to monitor running jobs and extract results.</li>
     </ul>
 
-    <h2>Applied to telecom churn</h2>
+    <h2 class="reveal">Applied to telecom churn</h2>
     <p>One of the platform's configs is built for telecom customer-churn prediction: dual-engine baselines, Boruta feature selection, SMOTE class-imbalance handling, and a 50-trial Optuna hyperparameter search — a direct application of the platform to a real churn-prediction problem.</p>
 
-    <h2>Stack</h2>
+    <h2 class="reveal">Stack</h2>
     <p>Python, Azure ML, PyCaret, FLAML, Optuna, MLflow.</p>
 
     <hr class="hr">

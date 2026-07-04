@@ -31,33 +31,33 @@
 
   <main class="wrap">
 
-    <a class="back-link" href="../index.html">&larr; All projects</a>
+    <a class="back-link" href="../index.html"><span class="back-arrow">&larr;</span> All projects</a>
 
     <h1 class="reveal">Agentic Knowledge &amp; Research Runtime</h1>
     <p class="reveal">A multi-agent platform that turns scattered source material — web pages, video, code repositories, research feeds, social posts — into cited, fact-checked research artifacts.</p>
 
     <p class="stats-line reveal"><strong data-count="92">0</strong> commits<span class="sep">·</span><strong data-count="98" data-suffix="%">0</strong> solo-authored<span class="sep">·</span><strong data-count="200" data-suffix="+">0</strong> automated tests passing<span class="sep">·</span><strong data-count="13">0</strong> source connectors</p>
 
-    <h2>What it does</h2>
+    <h2 class="reveal">What it does</h2>
     <p>Most "AI research assistant" tools take a prompt and hallucinate an answer in one shot. This platform instead treats research as a pipeline with an auditable paper trail: every claim it publishes has to trace back to a specific chunk of a specific source document, and every output passes through an automated review stage before it's considered final.</p>
 
-    <h2>How it works</h2>
-    <p class="sequence"><strong>Source adapters</strong> (web, YouTube, GitHub, arXiv, X/Twitter, RSS) &rarr; extraction &amp; parsing &rarr; evidence graph &rarr; vector index (Weaviate)</p>
-    <p class="sequence">Query &rarr; hybrid retrieval + rerank &rarr; knowledge compiler &rarr; <strong>critique / repair review</strong> &rarr; published artifact</p>
+    <h2 class="reveal">How it works</h2>
+    <p class="sequence reveal"><strong>Source adapters</strong> (web, YouTube, GitHub, arXiv, X/Twitter, RSS) &rarr; extraction &amp; parsing &rarr; evidence graph &rarr; vector index (Weaviate)</p>
+    <p class="sequence reveal">Query &rarr; hybrid retrieval + rerank &rarr; knowledge compiler &rarr; <strong>critique / repair review</strong> &rarr; published artifact</p>
 
     <ul class="clean">
-      <li><strong>13 source adapters</strong> — web pages, YouTube, X/Twitter, GitHub repos, arXiv, Crossref, Hacker News, RSS/Atom, PDFs/Office documents, images/screenshots — each with a discover &rarr; fetch &rarr; extract contract so new sources plug in without touching the core pipeline.</li>
-      <li><strong>Evidence graph, not a flat vector store</strong> — source documents, extracted chunks, tables, and media are modeled as a graph of claims and concepts with explicit references, so an answer can be traced back to exactly which chunk of which document supports it.</li>
-      <li><strong>Hybrid retrieval</strong> — keyword search, vector search, and a reranking pass are combined rather than relying on vector similarity alone, which materially reduces irrelevant or off-topic results.</li>
-      <li><strong>Critique / repair / council loop</strong> — before an artifact is published, a separate reviewing agent checks it for unsupported claims; weak sections get automatically repaired or, for high-stakes outputs, compared across multiple independent drafts before one is accepted.</li>
-      <li><strong>Durable orchestration</strong> — long-running research jobs are built on a workflow engine (Temporal) so they survive crashes and restarts instead of losing hours of work.</li>
-      <li><strong>Typed programs and evaluation gates</strong> — the AI reasoning steps are written as typed, testable programs (DSPy) rather than loose prompt strings, and every change has to pass an automated evaluation suite (Promptfoo) before it ships, with full run history in MLflow.</li>
+      <li class="reveal"><strong>13 source adapters</strong> — web pages, YouTube, X/Twitter, GitHub repos, arXiv, Crossref, Hacker News, RSS/Atom, PDFs/Office documents, images/screenshots — each with a discover &rarr; fetch &rarr; extract contract so new sources plug in without touching the core pipeline.</li>
+      <li class="reveal"><strong>Evidence graph, not a flat vector store</strong> — source documents, extracted chunks, tables, and media are modeled as a graph of claims and concepts with explicit references, so an answer can be traced back to exactly which chunk of which document supports it.</li>
+      <li class="reveal"><strong>Hybrid retrieval</strong> — keyword search, vector search, and a reranking pass are combined rather than relying on vector similarity alone, which materially reduces irrelevant or off-topic results.</li>
+      <li class="reveal"><strong>Critique / repair / council loop</strong> — before an artifact is published, a separate reviewing agent checks it for unsupported claims; weak sections get automatically repaired or, for high-stakes outputs, compared across multiple independent drafts before one is accepted.</li>
+      <li class="reveal"><strong>Durable orchestration</strong> — long-running research jobs are built on a workflow engine (Temporal) so they survive crashes and restarts instead of losing hours of work.</li>
+      <li class="reveal"><strong>Typed programs and evaluation gates</strong> — the AI reasoning steps are written as typed, testable programs (DSPy) rather than loose prompt strings, and every change has to pass an automated evaluation suite (Promptfoo) before it ships, with full run history in MLflow.</li>
     </ul>
 
-    <h2>Engineering discipline</h2>
+    <h2 class="reveal">Engineering discipline</h2>
     <p>This wasn't built as a weekend prototype. The repository has 92 commits, 98% of them authored solo, delivered through 14 phased, evidence-gated releases — each phase required passing acceptance tests before the next could start. It's deployed on Azure Container Apps behind a VPN-gated, fail-closed security posture, with 200+ automated tests currently passing and real (metered, capped) API usage in its live runs.</p>
 
-    <h2>Stack</h2>
+    <h2 class="reveal">Stack</h2>
     <p>Python, Temporal, Weaviate, DSPy, MLflow, Promptfoo, Azure Container Apps, Docling.</p>
 
     <hr class="hr">
