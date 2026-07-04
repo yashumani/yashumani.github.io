@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Agentic Knowledge &amp; Research Runtime — Yashu Sharma</title>
+<meta name="description" content="A multi-agent research platform: source ingestion, evidence graph, hybrid retrieval, and critique-gated publishing.">
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+<div class="wrap">
+
+  <header class="site-header">
+    <a class="home-link" href="../index.html">Yashu Sharma</a>
+    <nav class="site-nav">
+      <a href="../index.html#projects">Projects</a>
+      <a href="../index.html#contact">Contact</a>
+    </nav>
+  </header>
+
+  <a class="back-link" href="../index.html">&larr; All projects</a>
+
+  <h1>Agentic Knowledge &amp; Research Runtime</h1>
+  <p class="tagline">A multi-agent platform that turns scattered source material — web pages, video, code repositories, research feeds, social posts — into cited, fact-checked research artifacts.</p>
+
+  <div class="stat-row">
+    <div class="stat"><span class="num">92</span><span class="label">commits</span></div>
+    <div class="stat"><span class="num">98%</span><span class="label">solo-authored</span></div>
+    <div class="stat"><span class="num">200+</span><span class="label">automated tests passing</span></div>
+    <div class="stat"><span class="num">13</span><span class="label">source connectors</span></div>
+  </div>
+
+  <h2>What it does</h2>
+  <p>Most "AI research assistant" tools take a prompt and hallucinate an answer in one shot. This platform instead treats research as a pipeline with an auditable paper trail: every claim it publishes has to trace back to a specific chunk of a specific source document, and every output passes through an automated review stage before it's considered final.</p>
+
+  <h2>How it works</h2>
+  <div class="flow">
+    <div class="step">Source adapters<br><small>web, YouTube, GitHub, arXiv, X/Twitter, RSS…</small></div>
+    <span class="arrow">&rarr;</span>
+    <div class="step">Extraction &amp; parsing</div>
+    <span class="arrow">&rarr;</span>
+    <div class="step">Evidence graph</div>
+    <span class="arrow">&rarr;</span>
+    <div class="step">Vector index (Weaviate)</div>
+  </div>
+  <div class="flow">
+    <div class="step">Query</div>
+    <span class="arrow">&rarr;</span>
+    <div class="step">Hybrid retrieval + rerank</div>
+    <span class="arrow">&rarr;</span>
+    <div class="step">Knowledge compiler</div>
+    <span class="arrow">&rarr;</span>
+    <div class="step">Critique / repair review</div>
+    <span class="arrow">&rarr;</span>
+    <div class="step">Published artifact</div>
+  </div>
+
+  <ul class="clean">
+    <li><strong>13 source adapters</strong> — web pages, YouTube, X/Twitter, GitHub repos, arXiv, Crossref, Hacker News, RSS/Atom, PDFs/Office documents, images/screenshots — each with a discover → fetch → extract contract so new sources plug in without touching the core pipeline.</li>
+    <li><strong>Evidence graph, not a flat vector store</strong> — source documents, extracted chunks, tables, and media are modeled as a graph of claims and concepts with explicit references, so an answer can be traced back to exactly which chunk of which document supports it.</li>
+    <li><strong>Hybrid retrieval</strong> — keyword search, vector search, and a reranking pass are combined rather than relying on vector similarity alone, which materially reduces irrelevant or off-topic results.</li>
+    <li><strong>Critique / repair / council loop</strong> — before an artifact is published, a separate reviewing agent checks it for unsupported claims; weak sections get automatically repaired or, for high-stakes outputs, compared across multiple independent drafts before one is accepted.</li>
+    <li><strong>Durable orchestration</strong> — long-running research jobs are built on a workflow engine (Temporal) so they survive crashes and restarts instead of losing hours of work.</li>
+    <li><strong>Typed programs and evaluation gates</strong> — the AI reasoning steps are written as typed, testable programs (DSPy) rather than loose prompt strings, and every change has to pass an automated evaluation suite (Promptfoo) before it ships, with full run history in MLflow.</li>
+  </ul>
+
+  <h2>Engineering discipline</h2>
+  <p>This wasn't built as a weekend prototype. The repository has 92 commits, 98% of them authored solo, delivered through 14 phased, evidence-gated releases — each phase required passing acceptance tests before the next could start. It's deployed on Azure Container Apps behind a VPN-gated, fail-closed security posture, with 200+ automated tests currently passing and real (metered, capped) API usage in its live runs.</p>
+
+  <h2>Stack</h2>
+  <p>Python · Temporal · Weaviate · DSPy · MLflow · Promptfoo · Azure Container Apps · Docling</p>
+
+  <div class="contact-block">
+    <p>Want the technical deep-dive or a walkthrough? <a href="mailto:yashusharma800@gmail.com">Get in touch</a>.</p>
+  </div>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 Yashu Sharma</p>
+  </footer>
+
+</div>
+</body>
+</html>
