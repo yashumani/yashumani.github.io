@@ -8,50 +8,71 @@
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<div class="wrap">
 
   <header class="site-header">
-    <a class="home-link" href="index.html">Yashu Sharma</a>
-    <nav class="site-nav">
-      <a href="#projects">Projects</a>
-      <a href="#contact">Contact</a>
-    </nav>
+    <div class="wrap">
+      <a class="brand" href="index.html">Yashu Sharma</a>
+      <nav class="site-nav">
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
   </header>
 
-  <h1>Yashu Sharma</h1>
-  <p class="tagline">Data scientist and AI engineer. I design and build production-grade AI orchestration platforms and automated machine learning pipelines — not prototypes, systems with real deployments, tests, and evidence-gated release discipline.</p>
+  <main class="wrap">
 
-  <h2 id="projects">Projects</h2>
-  <div class="card-list">
+    <section class="reveal">
+      <span class="eyebrow">Data Scientist &amp; AI Engineer</span>
+      <h1>Yashu Sharma</h1>
+      <p class="tagline">I design and build production-grade AI orchestration platforms and automated machine learning pipelines — systems with real deployments, automated tests, and evidence-gated release discipline, not prototypes.</p>
+    </section>
 
-    <a class="card" href="projects/agentic-knowledge-runtime.html">
-      <h3>Agentic Knowledge &amp; Research Runtime</h3>
-      <p>A multi-agent platform that ingests content from the web, video, code repositories, and research feeds, turns it into a structured evidence graph, and answers questions with cited, critique-reviewed research artifacts.</p>
-      <div class="stack">Temporal · Weaviate · DSPy · MLflow · Promptfoo · Azure Container Apps</div>
-    </a>
+    <h2 id="projects">Projects</h2>
+    <div class="card-list">
 
-    <a class="card" href="projects/mlops-solution-accelerator.html">
-      <h3>Automated ML Pipeline Platform</h3>
-      <p>An end-to-end Azure ML pipeline that runs a three-phase model tournament — baseline, variant search, hyperparameter optimization — to automatically find and register the best model for a given dataset.</p>
-      <div class="stack">Azure ML · PyCaret · FLAML · Optuna · MLflow</div>
-    </a>
+      <a class="card reveal" href="projects/agentic-knowledge-runtime.html">
+        <h3>Agentic Knowledge &amp; Research Runtime</h3>
+        <p>A multi-agent platform that ingests content from the web, video, code repositories, and research feeds, turns it into a structured evidence graph, and answers questions with cited, critique-reviewed research artifacts.</p>
+        <div class="stack">
+          <span class="pill">Temporal</span>
+          <span class="pill">Weaviate</span>
+          <span class="pill">DSPy</span>
+          <span class="pill">MLflow</span>
+          <span class="pill">Promptfoo</span>
+          <span class="pill">Azure Container Apps</span>
+        </div>
+      </a>
 
-  </div>
+      <a class="card reveal" href="projects/mlops-solution-accelerator.html">
+        <h3>Automated ML Pipeline Platform</h3>
+        <p>An end-to-end Azure ML pipeline that runs a three-phase model tournament — baseline, variant search, hyperparameter optimization — to automatically find and register the best model for a given dataset.</p>
+        <div class="stack">
+          <span class="pill">Azure ML</span>
+          <span class="pill">PyCaret</span>
+          <span class="pill">FLAML</span>
+          <span class="pill">Optuna</span>
+          <span class="pill">MLflow</span>
+        </div>
+      </a>
 
-  <h2 id="contact">Contact</h2>
-  <div class="contact-block">
-    <p>
-      New Jersey, United States<br>
-      <a href="mailto:yashusharma800@gmail.com">yashusharma800@gmail.com</a><br>
-      (929) 413-5472<br>
-      <a href="https://linkedin.com/in/yashumani/" target="_blank" rel="noopener">linkedin.com/in/yashumani</a>
-    </p>
-  </div>
+    </div>
 
-  <footer class="site-footer">
-    <p>&copy; 2026 Yashu Sharma</p>
-  </footer>
+    <h2 id="contact">Contact</h2>
+    <div class="contact-block reveal">
+      <p>New Jersey, United States</p>
+      <div class="contact-grid">
+        <a href="mailto:yashusharma800@gmail.com">yashusharma800@gmail.com</a>
+        <span>(929) 413-5472</span>
+        <a href="https://linkedin.com/in/yashumani/" target="_blank" rel="noopener">linkedin.com/in/yashumani</a>
+      </div>
+    </div>
 
-</div>
+    <footer class="site-footer">
+      <p>&copy; 2026 Yashu Sharma</p>
+    </footer>
+
+  </main>
+
+  <script src="js/main.js"></script>
 </body>
 </html>
