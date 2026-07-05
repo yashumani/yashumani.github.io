@@ -1,0 +1,7 @@
+# Local-only drafts and notes — never publish these publicly.
+# May contain unvetted content, internal audit language, or references
+# to projects that haven't had a public-safety pass yet.
+local-drafts/
+
+# Local editor/tool config, not part of the published site.
+.claude/
