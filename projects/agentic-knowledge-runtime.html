@@ -13,6 +13,7 @@
 <meta name="twitter:title" content="Agentic Knowledge & Research Runtime — Yashu Sharma">
 <meta name="twitter:description" content="A multi-agent research platform: source ingestion, evidence graph, hybrid retrieval, and critique-gated publishing.">
 <link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="../css/media.css">
 <script>
   (function () {
     var t = localStorage.getItem('theme');
@@ -45,6 +46,17 @@
     <p class="reveal">A multi-agent platform that turns scattered source material — web pages, video, code repositories, research feeds, social posts — into cited, fact-checked research artifacts.</p>
 
     <p class="stats-line reveal"><strong data-count="92">0</strong> commits<span class="sep">·</span><strong data-count="98" data-suffix="%">0</strong> solo-authored<span class="sep">·</span><strong data-count="200" data-suffix="+">0</strong> automated tests passing<span class="sep">·</span><strong data-count="13">0</strong> source connectors</p>
+
+    <h2 class="reveal">Visual overview</h2>
+    <figure class="media-figure diagram-figure reveal">
+      <img loading="lazy" width="1200" height="720" src="../assets/diagrams/agentic-knowledge-runtime.svg" alt="Architecture diagram for the Agentic Knowledge and Research Runtime, showing source adapters, extraction, evidence graph, retrieval, knowledge compilation, critique and repair, and cited artifact publishing.">
+      <figcaption class="media-caption">Architecture map for the public case study: from source ingestion to critique-reviewed, cited artifact publishing.</figcaption>
+    </figure>
+    <p class="media-note reveal">NotebookLM-ready source material is included so this project can generate a narrated Video Overview, short vertical explainer, infographic, or slide deck from the same public-safe case-study packet.</p>
+    <p class="media-action-links reveal">
+      <a href="../media/notebooklm/agentic-knowledge-runtime-source.md">NotebookLM source packet</a>
+      <a href="../media/notebooklm/agentic-knowledge-runtime-prompts.md">Video &amp; infographic prompts</a>
+    </p>
 
     <h2 class="reveal">What it does</h2>
     <p>Most "AI research assistant" tools take a prompt and hallucinate an answer in one shot. This platform instead treats research as a pipeline with an auditable paper trail: every claim it publishes has to trace back to a specific chunk of a specific source document, and every output passes through an automated review stage before it's considered final.</p>
@@ -106,6 +118,9 @@
       <li class="reveal"><strong>Durable orchestration</strong> — long-running research jobs are built on a workflow engine (Temporal) so they survive crashes and restarts instead of losing hours of work.</li>
       <li class="reveal"><strong>Typed programs and evaluation gates</strong> — the AI reasoning steps are written as typed, testable programs (DSPy) rather than loose prompt strings, and every change has to pass an automated evaluation suite (Promptfoo) before it ships, with full run history in MLflow.</li>
     </ul>
+
+    <h2 class="reveal">Media direction</h2>
+    <p>The public media package is structured for NotebookLM generation: a portfolio Video Overview, short vertical explainer, one-page infographic, and five-slide project deck can all be generated from the same sanitized source packet.</p>
 
     <h2 class="reveal">Engineering discipline</h2>
     <p>This wasn't built as a weekend prototype. The repository has 92 commits, 98% of them authored solo, delivered through 14 phased, evidence-gated releases — each phase required passing acceptance tests before the next could start. It's deployed on Azure Container Apps behind a VPN-gated, fail-closed security posture, with 200+ automated tests currently passing and real (metered, capped) API usage in its live runs.</p>
