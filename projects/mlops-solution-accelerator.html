@@ -38,11 +38,16 @@
 
     <p class="stats-line reveal"><strong data-count="457">0</strong> candidate recipes<span class="sep">·</span><strong data-count="18">0</strong> reusable components<span class="sep">·</span><strong data-count="19">0</strong> pipeline steps<span class="sep">·</span><strong data-count="3">0</strong> task types</p>
 
-    <h2 class="reveal">Demo</h2>
-    <figure class="media-figure reveal">
-      <video controls preload="metadata" width="1280" height="720" src="../assets/video/mlops-solution-accelerator/demo.mp4"></video>
-      <figcaption class="media-caption">Walkthrough: kicking off a run, watching the tournament progress, and inspecting the registered model in Azure ML.</figcaption>
+    <h2 class="reveal">Visual overview</h2>
+    <figure class="media-figure diagram-figure reveal">
+      <img loading="lazy" width="1200" height="720" src="../assets/diagrams/mlops-solution-accelerator.svg" alt="Architecture diagram for the Automated ML Pipeline Platform, showing dataset and YAML config, validation, preprocessing, PyCaret and FLAML baselines, 457 recipe search, Optuna tuning, holdout evaluation, and Azure ML registration.">
+      <figcaption class="media-caption">Architecture map for the public case study: from dataset and YAML config to repeatable model tournament and Azure ML registration.</figcaption>
     </figure>
+    <p class="media-note reveal">NotebookLM-ready source material is included so this project can generate a narrated Video Overview, short vertical explainer, infographic, or slide deck from the same public-safe case-study packet.</p>
+    <p class="media-action-links reveal">
+      <a href="../media/notebooklm/mlops-solution-accelerator-source.md">NotebookLM source packet</a>
+      <a href="../media/notebooklm/mlops-solution-accelerator-prompts.md">Video &amp; infographic prompts</a>
+    </p>
 
     <h2 class="reveal">What it does</h2>
     <p>Feed it a dataset and a config file. It runs a tournament between hundreds of candidate model configurations, tunes the best one, evaluates it on held-out data, and registers the winner in Azure ML's model registry — the same decisions a data science team would make by hand, but systematic and reproducible.</p>
@@ -100,21 +105,8 @@
       <li class="reveal"><strong>Real Azure ML deployment</strong> — runs against an actual Azure ML workspace and compute cluster, not a local notebook simulation, with operational tooling to monitor running jobs and extract results.</li>
     </ul>
 
-    <h2 class="reveal">Screenshots</h2>
-    <div class="media-gallery">
-      <figure class="media-figure reveal">
-        <img loading="lazy" width="800" height="500" src="../assets/images/mlops-solution-accelerator/screenshot-1.jpg" alt="Azure ML pipeline DAG showing the three-phase tournament stages" onerror="this.closest('figure').style.display='none'">
-        <figcaption class="media-caption">Azure ML pipeline DAG</figcaption>
-      </figure>
-      <figure class="media-figure reveal">
-        <img loading="lazy" width="800" height="500" src="../assets/images/mlops-solution-accelerator/screenshot-2.jpg" alt="MLflow run comparison across candidate model recipes" onerror="this.closest('figure').style.display='none'">
-        <figcaption class="media-caption">MLflow run comparison</figcaption>
-      </figure>
-      <figure class="media-figure reveal">
-        <img loading="lazy" width="800" height="500" src="../assets/images/mlops-solution-accelerator/screenshot-3.jpg" alt="Optuna hyperparameter optimization trial history chart" onerror="this.closest('figure').style.display='none'">
-        <figcaption class="media-caption">Optuna trial history</figcaption>
-      </figure>
-    </div>
+    <h2 class="reveal">Media direction</h2>
+    <p>The public media package is structured for NotebookLM generation: a short portfolio Video Overview, a 60-second vertical explainer, a one-page infographic, and a five-slide project deck can all be generated from the same sanitized source packet.</p>
 
     <h2 class="reveal">Applied to telecom churn</h2>
     <p>One of the platform's configs is built for telecom customer-churn prediction: dual-engine baselines, Boruta feature selection, SMOTE class-imbalance handling, and a 50-trial Optuna hyperparameter search — a direct application of the platform to a real churn-prediction problem.</p>
