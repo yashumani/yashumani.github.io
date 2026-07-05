@@ -6,7 +6,8 @@ This folder contains public-safe source packets and prompts for generating portf
 
 Use NotebookLM to create polished visual assets for each project page:
 
-- a short narrated Video Overview for the website
+- a narrated Video Overview for the website
+- a short vertical Video Overview for LinkedIn-style sharing, where available
 - a one-page infographic for LinkedIn / portfolio screenshots
 - optionally, a slide deck for presentations or EB1-A evidence packaging
 
@@ -23,6 +24,14 @@ Use NotebookLM to create polished visual assets for each project page:
 |---|---|---|
 | Agentic Knowledge & Research Runtime | `assets/video/agentic-knowledge-runtime/notebooklm-overview.mp4` | `assets/images/agentic-knowledge-runtime/notebooklm-infographic.png` |
 | Automated ML Pipeline Platform | `assets/video/mlops-solution-accelerator/notebooklm-overview.mp4` | `assets/images/mlops-solution-accelerator/notebooklm-infographic.png` |
+
+## NotebookLM output notes
+
+- Video Overviews are generated from notebook sources in the Studio panel. Use `Explainer` for the website version because it is more structured and easier to understand as a technical case study.
+- `Short` and `Cinematic` Video Overviews may require Google AI Pro / Ultra, English output, and an 18+ account depending on your NotebookLM access.
+- Infographics can be generated from the Studio panel and downloaded as PNG files.
+- Slide Decks can be generated from the Studio panel and downloaded as PDF or PowerPoint files.
+- All outputs are AI-generated, so validate text, diagrams, labels, and claims before publishing.
 
 ## Public-safety rule
 
