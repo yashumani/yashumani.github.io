@@ -5,6 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Automated ML Pipeline Platform — Yashu Sharma</title>
 <meta name="description" content="An Azure ML pipeline that runs a three-phase model tournament to automatically find and register the best model.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Automated ML Pipeline Platform — Yashu Sharma">
+<meta property="og:description" content="An Azure ML pipeline that runs a three-phase model tournament to automatically find and register the best model.">
+<meta property="og:url" content="https://yashumani.github.io/projects/mlops-solution-accelerator.html">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Automated ML Pipeline Platform — Yashu Sharma">
+<meta name="twitter:description" content="An Azure ML pipeline that runs a three-phase model tournament to automatically find and register the best model.">
 <link rel="stylesheet" href="../css/style.css">
 <script>
   (function () {
@@ -38,12 +45,6 @@
     <p class="reveal">An end-to-end Azure ML pipeline that automatically finds, tunes, and registers the best model for a dataset — classification, regression, or clustering — with no manual model selection.</p>
 
     <p class="stats-line reveal"><strong data-count="457">0</strong> candidate recipes<span class="sep">·</span><strong data-count="18">0</strong> reusable components<span class="sep">·</span><strong data-count="19">0</strong> pipeline steps<span class="sep">·</span><strong data-count="3">0</strong> task types</p>
-
-    <h2 class="reveal">Demo</h2>
-    <figure class="media-figure reveal">
-      <video controls preload="metadata" width="1280" height="720" src="../assets/video/mlops-solution-accelerator/demo.mp4"></video>
-      <figcaption class="media-caption">Walkthrough: kicking off a run, watching the tournament progress, and inspecting the registered model in Azure ML.</figcaption>
-    </figure>
 
     <h2 class="reveal">What it does</h2>
     <p>Feed it a dataset and a config file. It runs a tournament between hundreds of candidate model configurations, tunes the best one, evaluates it on held-out data, and registers the winner in Azure ML's model registry — the same decisions a data science team would make by hand, but systematic and reproducible.</p>
@@ -100,22 +101,6 @@
       <li class="reveal"><strong>Full reproducibility</strong> — every run is tracked in nested MLflow experiments (parent pipeline run, per-step and per-model child runs), so any registered model can be traced back to the exact data, config, and hyperparameters that produced it.</li>
       <li class="reveal"><strong>Real Azure ML deployment</strong> — runs against an actual Azure ML workspace and compute cluster, not a local notebook simulation, with operational tooling to monitor running jobs and extract results.</li>
     </ul>
-
-    <h2 class="reveal">Screenshots</h2>
-    <div class="media-gallery">
-      <figure class="media-figure reveal">
-        <img loading="lazy" width="800" height="500" src="../assets/images/mlops-solution-accelerator/screenshot-1.jpg" alt="Azure ML pipeline DAG showing the three-phase tournament stages" onerror="this.closest('figure').style.display='none'">
-        <figcaption class="media-caption">Azure ML pipeline DAG</figcaption>
-      </figure>
-      <figure class="media-figure reveal">
-        <img loading="lazy" width="800" height="500" src="../assets/images/mlops-solution-accelerator/screenshot-2.jpg" alt="MLflow run comparison across candidate model recipes" onerror="this.closest('figure').style.display='none'">
-        <figcaption class="media-caption">MLflow run comparison</figcaption>
-      </figure>
-      <figure class="media-figure reveal">
-        <img loading="lazy" width="800" height="500" src="../assets/images/mlops-solution-accelerator/screenshot-3.jpg" alt="Optuna hyperparameter optimization trial history chart" onerror="this.closest('figure').style.display='none'">
-        <figcaption class="media-caption">Optuna trial history</figcaption>
-      </figure>
-    </div>
 
     <h2 class="reveal">Applied to telecom churn</h2>
     <p>One of the platform's configs is built for telecom customer-churn prediction: dual-engine baselines, Boruta feature selection, SMOTE class-imbalance handling, and a 50-trial Optuna hyperparameter search — a direct application of the platform to a real churn-prediction problem.</p>

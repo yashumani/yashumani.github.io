@@ -5,6 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Agentic Knowledge &amp; Research Runtime — Yashu Sharma</title>
 <meta name="description" content="A multi-agent research platform: source ingestion, evidence graph, hybrid retrieval, and critique-gated publishing.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Agentic Knowledge & Research Runtime — Yashu Sharma">
+<meta property="og:description" content="A multi-agent research platform: source ingestion, evidence graph, hybrid retrieval, and critique-gated publishing.">
+<meta property="og:url" content="https://yashumani.github.io/projects/agentic-knowledge-runtime.html">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Agentic Knowledge & Research Runtime — Yashu Sharma">
+<meta name="twitter:description" content="A multi-agent research platform: source ingestion, evidence graph, hybrid retrieval, and critique-gated publishing.">
 <link rel="stylesheet" href="../css/style.css">
 <script>
   (function () {
@@ -38,12 +45,6 @@
     <p class="reveal">A multi-agent platform that turns scattered source material — web pages, video, code repositories, research feeds, social posts — into cited, fact-checked research artifacts.</p>
 
     <p class="stats-line reveal"><strong data-count="92">0</strong> commits<span class="sep">·</span><strong data-count="98" data-suffix="%">0</strong> solo-authored<span class="sep">·</span><strong data-count="200" data-suffix="+">0</strong> automated tests passing<span class="sep">·</span><strong data-count="13">0</strong> source connectors</p>
-
-    <h2 class="reveal">Demo</h2>
-    <figure class="media-figure reveal">
-      <video controls preload="metadata" width="1280" height="720" src="../assets/video/agentic-knowledge-runtime/demo.mp4"></video>
-      <figcaption class="media-caption">Walkthrough: ingesting a source set, querying the evidence graph, and reviewing a critique-gated research artifact.</figcaption>
-    </figure>
 
     <h2 class="reveal">What it does</h2>
     <p>Most "AI research assistant" tools take a prompt and hallucinate an answer in one shot. This platform instead treats research as a pipeline with an auditable paper trail: every claim it publishes has to trace back to a specific chunk of a specific source document, and every output passes through an automated review stage before it's considered final.</p>
@@ -105,22 +106,6 @@
       <li class="reveal"><strong>Durable orchestration</strong> — long-running research jobs are built on a workflow engine (Temporal) so they survive crashes and restarts instead of losing hours of work.</li>
       <li class="reveal"><strong>Typed programs and evaluation gates</strong> — the AI reasoning steps are written as typed, testable programs (DSPy) rather than loose prompt strings, and every change has to pass an automated evaluation suite (Promptfoo) before it ships, with full run history in MLflow.</li>
     </ul>
-
-    <h2 class="reveal">Screenshots</h2>
-    <div class="media-gallery">
-      <figure class="media-figure reveal">
-        <img loading="lazy" width="800" height="500" src="../assets/images/agentic-knowledge-runtime/screenshot-1.jpg" alt="Evidence graph explorer showing linked claims, sources, and chunks" onerror="this.closest('figure').style.display='none'">
-        <figcaption class="media-caption">Evidence graph explorer</figcaption>
-      </figure>
-      <figure class="media-figure reveal">
-        <img loading="lazy" width="800" height="500" src="../assets/images/agentic-knowledge-runtime/screenshot-2.jpg" alt="Temporal workflow view of a running research job" onerror="this.closest('figure').style.display='none'">
-        <figcaption class="media-caption">Durable workflow run</figcaption>
-      </figure>
-      <figure class="media-figure reveal">
-        <img loading="lazy" width="800" height="500" src="../assets/images/agentic-knowledge-runtime/screenshot-3.jpg" alt="MLflow experiment run history for a DSPy program" onerror="this.closest('figure').style.display='none'">
-        <figcaption class="media-caption">MLflow run history</figcaption>
-      </figure>
-    </div>
 
     <h2 class="reveal">Engineering discipline</h2>
     <p>This wasn't built as a weekend prototype. The repository has 92 commits, 98% of them authored solo, delivered through 14 phased, evidence-gated releases — each phase required passing acceptance tests before the next could start. It's deployed on Azure Container Apps behind a VPN-gated, fail-closed security posture, with 200+ automated tests currently passing and real (metered, capped) API usage in its live runs.</p>
