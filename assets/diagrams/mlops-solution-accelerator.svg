@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Automated ML Pipeline Platform architecture</title>
+  <desc id="desc">A visual workflow showing data and YAML config entering validation, preprocessing, a PyCaret and FLAML tournament, variant search, Optuna tuning, holdout evaluation, and Azure ML model registration.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" class="arrow-fill" />
+    </marker>
+    <style>
+      :root {
+        --bg: #ffffff;
+        --text: #1a1a1a;
+        --muted: #656575;
+        --border: #dfe2f2;
+        --panel: #f8f9ff;
+        --accent: #5468d4;
+        --accent-soft: #eef0ff;
+        --winner: #f5f0ff;
+        --rail: #f5f6fb;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #111113;
+          --text: #e9e9ea;
+          --muted: #a3a3ad;
+          --border: #343748;
+          --panel: #181a23;
+          --accent: #8b9bf0;
+          --accent-soft: #202438;
+          --winner: #241f36;
+          --rail: #171820;
+        }
+      }
+      .bg { fill: var(--bg); }
+      .title { fill: var(--text); font: 700 34px Inter, Segoe UI, Arial, sans-serif; }
+      .subtitle { fill: var(--muted); font: 500 17px Inter, Segoe UI, Arial, sans-serif; }
+      .label { fill: var(--text); font: 700 18px Inter, Segoe UI, Arial, sans-serif; }
+      .small { fill: var(--muted); font: 500 13px Inter, Segoe UI, Arial, sans-serif; }
+      .tiny { fill: var(--muted); font: 600 12px Inter, Segoe UI, Arial, sans-serif; letter-spacing: .08em; text-transform: uppercase; }
+      .panel { fill: var(--panel); stroke: var(--border); stroke-width: 1.5; }
+      .input { fill: var(--accent-soft); stroke: var(--border); stroke-width: 1.2; }
+      .winner { fill: var(--winner); stroke: var(--accent); stroke-width: 1.8; }
+      .accent { fill: var(--accent); }
+      .line { stroke: var(--accent); stroke-width: 2.2; fill: none; marker-end: url(#arrow); }
+      .arrow-fill { fill: var(--accent); }
+      .rail { fill: var(--rail); stroke: var(--border); stroke-width: 1.2; }
+      .branch { stroke: var(--border); stroke-width: 1.6; fill: none; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1200" height="720" rx="28"/>
+
+  <text x="70" y="70" class="title">Automated ML Pipeline Platform</text>
+  <text x="70" y="104" class="subtitle">Config-driven Azure ML pipeline that searches, tunes, evaluates, and registers the best model.</text>
+
+  <g transform="translate(70 155)">
+    <rect width="180" height="82" rx="18" class="input"/>
+    <text x="90" y="37" text-anchor="middle" class="label">Dataset</text>
+    <text x="90" y="61" text-anchor="middle" class="small">features + target</text>
+  </g>
+  <g transform="translate(70 255)">
+    <rect width="180" height="82" rx="18" class="input"/>
+    <text x="90" y="37" text-anchor="middle" class="label">YAML config</text>
+    <text x="90" y="61" text-anchor="middle" class="small">task, compute, stages</text>
+  </g>
+
+  <path d="M250 196 C285 196, 285 248, 315 248" class="line"/>
+  <path d="M250 296 C285 296, 285 248, 315 248" class="line"/>
+
+  <g transform="translate(315 190)">
+    <rect width="210" height="116" rx="20" class="panel"/>
+    <text x="30" y="42" class="label">Data validation</text>
+    <text x="30" y="68" class="small">schema checks, profiling, ingestion</text>
+    <text x="30" y="93" class="small">reproducible MLTable inputs</text>
+  </g>
+  <path d="M525 248 C560 248, 560 248, 595 248" class="line"/>
+
+  <g transform="translate(595 190)">
+    <rect width="210" height="116" rx="20" class="panel"/>
+    <text x="30" y="42" class="label">Preprocessing</text>
+    <text x="30" y="68" class="small">feature engineering + cleaning</text>
+    <text x="30" y="93" class="small">task-specific transformations</text>
+  </g>
+  <path d="M805 248 C840 248, 840 248, 875 248" class="line"/>
+
+  <g transform="translate(875 162)">
+    <rect width="250" height="172" rx="22" class="panel"/>
+    <text x="30" y="42" class="tiny">Phase A</text>
+    <text x="30" y="75" class="label">Parallel baseline</text>
+    <text x="30" y="103" class="small">PyCaret and FLAML run side-by-side</text>
+    <path d="M45 128 H205" class="branch"/>
+    <circle cx="70" cy="128" r="16" class="accent" opacity=".16"/>
+    <text x="70" y="133" text-anchor="middle" class="small">P</text>
+    <circle cx="180" cy="128" r="16" class="accent" opacity=".16"/>
+    <text x="180" y="133" text-anchor="middle" class="small">F</text>
+  </g>
+
+  <path d="M1000 334 C1000 385, 930 410, 835 410" class="line"/>
+  <g transform="translate(585 360)">
+    <rect width="250" height="100" rx="20" class="winner"/>
+    <text x="30" y="43" class="label">Phase A champion</text>
+    <text x="30" y="68" class="small">best baseline becomes search seed</text>
+  </g>
+  <path d="M585 410 C550 410, 550 410, 515 410" class="line"/>
+
+  <g transform="translate(285 360)">
+    <rect width="230" height="100" rx="20" class="panel"/>
+    <text x="30" y="38" class="tiny">Phase B</text>
+    <text x="30" y="66" class="label">457 recipe search</text>
+    <text x="30" y="88" class="small">data-profiled model variants</text>
+  </g>
+  <path d="M285 410 C250 410, 250 410, 215 410" class="line"/>
+
+  <g transform="translate(70 372)">
+    <rect width="145" height="76" rx="18" class="panel"/>
+    <text x="72.5" y="34" text-anchor="middle" class="label">Optuna</text>
+    <text x="72.5" y="56" text-anchor="middle" class="small">HPO trials</text>
+  </g>
+
+  <path d="M142 448 C142 520, 320 555, 455 555" class="line"/>
+  <g transform="translate(455 510)">
+    <rect width="220" height="90" rx="20" class="panel"/>
+    <text x="30" y="40" class="label">Holdout evaluation</text>
+    <text x="30" y="65" class="small">final scorecard + artifacts</text>
+  </g>
+  <path d="M675 555 C715 555, 715 555, 755 555" class="line"/>
+
+  <g transform="translate(755 510)">
+    <rect width="250" height="90" rx="20" class="winner"/>
+    <text x="30" y="40" class="label">Azure ML registry</text>
+    <text x="30" y="65" class="small">winning model registered for use</text>
+  </g>
+
+  <g transform="translate(70 635)">
+    <rect width="1060" height="52" rx="16" class="rail"/>
+    <text x="32" y="32" class="tiny">Platform discipline</text>
+    <text x="240" y="32" class="small">18 reusable components</text>
+    <text x="455" y="32" class="small">19 pipeline steps</text>
+    <text x="640" y="32" class="small">nested MLflow tracking</text>
+    <text x="870" y="32" class="small">Azure ML compute cluster</text>
+  </g>
+</svg>
