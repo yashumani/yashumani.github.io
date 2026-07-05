@@ -38,11 +38,16 @@
 
     <p class="stats-line reveal"><strong data-count="92">0</strong> commits<span class="sep">·</span><strong data-count="98" data-suffix="%">0</strong> solo-authored<span class="sep">·</span><strong data-count="200" data-suffix="+">0</strong> automated tests passing<span class="sep">·</span><strong data-count="13">0</strong> source connectors</p>
 
-    <h2 class="reveal">Demo</h2>
-    <figure class="media-figure reveal">
-      <video controls preload="metadata" width="1280" height="720" src="../assets/video/agentic-knowledge-runtime/demo.mp4"></video>
-      <figcaption class="media-caption">Walkthrough: ingesting a source set, querying the evidence graph, and reviewing a critique-gated research artifact.</figcaption>
+    <h2 class="reveal">Visual overview</h2>
+    <figure class="media-figure diagram-figure reveal">
+      <img loading="lazy" width="1200" height="720" src="../assets/diagrams/agentic-knowledge-runtime.svg" alt="Architecture diagram for the Agentic Knowledge and Research Runtime, showing source adapters, extraction, evidence graph, retrieval, knowledge compilation, critique and repair, and cited artifact publishing.">
+      <figcaption class="media-caption">Architecture map for the public case study: from source ingestion to critique-reviewed, cited artifact publishing.</figcaption>
     </figure>
+    <p class="media-note reveal">NotebookLM-ready source material is included so this project can generate a narrated Video Overview, short vertical explainer, infographic, or slide deck from the same public-safe case-study packet.</p>
+    <p class="media-action-links reveal">
+      <a href="../media/notebooklm/agentic-knowledge-runtime-source.md">NotebookLM source packet</a>
+      <a href="../media/notebooklm/agentic-knowledge-runtime-prompts.md">Video &amp; infographic prompts</a>
+    </p>
 
     <h2 class="reveal">What it does</h2>
     <p>Most "AI research assistant" tools take a prompt and hallucinate an answer in one shot. This platform instead treats research as a pipeline with an auditable paper trail: every claim it publishes has to trace back to a specific chunk of a specific source document, and every output passes through an automated review stage before it's considered final.</p>
@@ -105,21 +110,8 @@
       <li class="reveal"><strong>Typed programs and evaluation gates</strong> — the AI reasoning steps are written as typed, testable programs (DSPy) rather than loose prompt strings, and every change has to pass an automated evaluation suite (Promptfoo) before it ships, with full run history in MLflow.</li>
     </ul>
 
-    <h2 class="reveal">Screenshots</h2>
-    <div class="media-gallery">
-      <figure class="media-figure reveal">
-        <img loading="lazy" width="800" height="500" src="../assets/images/agentic-knowledge-runtime/screenshot-1.jpg" alt="Evidence graph explorer showing linked claims, sources, and chunks" onerror="this.closest('figure').style.display='none'">
-        <figcaption class="media-caption">Evidence graph explorer</figcaption>
-      </figure>
-      <figure class="media-figure reveal">
-        <img loading="lazy" width="800" height="500" src="../assets/images/agentic-knowledge-runtime/screenshot-2.jpg" alt="Temporal workflow view of a running research job" onerror="this.closest('figure').style.display='none'">
-        <figcaption class="media-caption">Durable workflow run</figcaption>
-      </figure>
-      <figure class="media-figure reveal">
-        <img loading="lazy" width="800" height="500" src="../assets/images/agentic-knowledge-runtime/screenshot-3.jpg" alt="MLflow experiment run history for a DSPy program" onerror="this.closest('figure').style.display='none'">
-        <figcaption class="media-caption">MLflow run history</figcaption>
-      </figure>
-    </div>
+    <h2 class="reveal">Media direction</h2>
+    <p>The public media package is structured for NotebookLM generation: a short portfolio Video Overview, a 60-second vertical explainer, a one-page infographic, and a five-slide project deck can all be generated from the same sanitized source packet.</p>
 
     <h2 class="reveal">Engineering discipline</h2>
     <p>This wasn't built as a weekend prototype. The repository has 92 commits, 98% of them authored solo, delivered through 14 phased, evidence-gated releases — each phase required passing acceptance tests before the next could start. It's deployed on Azure Container Apps behind a VPN-gated, fail-closed security posture, with 200+ automated tests currently passing and real (metered, capped) API usage in its live runs.</p>
