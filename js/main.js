@@ -56,6 +56,15 @@
 })();
 
 (function () {
+  document.querySelectorAll('video[src]').forEach(function (video) {
+    video.addEventListener('error', function () {
+      var figure = video.closest('figure');
+      if (figure) figure.style.display = 'none';
+    });
+  });
+})();
+
+(function () {
   var prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   var counters = document.querySelectorAll('[data-count]');
   if (!counters.length) return;
