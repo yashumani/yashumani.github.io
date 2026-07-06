@@ -55,7 +55,11 @@
 .proof-grid article,
 .impact-grid article,
 .positioning-panel,
-.placeholder-callout {
+.placeholder-callout,
+.blog-card,
+.paper-note,
+.paper-framework,
+.paper-callout {
   border: 1px solid var(--border);
   border-radius: 18px;
   background: color-mix(in srgb, var(--surface, var(--avatar-bg)) 72%, var(--bg));
@@ -149,8 +153,99 @@
   font-size: 0.78rem;
 }
 
+/* Blog and paper pages */
+.blog-list {
+  display: grid;
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.blog-card {
+  display: block;
+  padding: 1.25rem;
+  color: var(--text);
+  transition: border-color 0.2s ease, transform 0.2s ease, background 0.2s ease;
+}
+
+.blog-card:hover {
+  border-color: var(--link);
+  background: var(--avatar-bg);
+  transform: translateY(-2px);
+}
+
+.blog-card h2,
+.blog-card h3 {
+  margin-top: 0;
+}
+
+.paper-meta,
+.paper-kicker {
+  color: var(--text-muted);
+  font-family: -apple-system, "Segoe UI", sans-serif;
+  font-size: 0.92rem;
+}
+
+.paper-kicker {
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.76rem;
+  margin-bottom: 0.75rem;
+}
+
+.paper-note,
+.paper-callout {
+  padding: 1rem 1.1rem;
+  margin: 1.25rem 0 1.5rem;
+}
+
+.paper-note p,
+.paper-callout p {
+  margin-bottom: 0;
+}
+
+.paper-framework {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+  margin: 1.25rem 0 1.75rem;
+  font-family: -apple-system, "Segoe UI", sans-serif;
+  font-size: 0.9rem;
+}
+
+.paper-framework th,
+.paper-framework td {
+  border-bottom: 1px solid var(--border);
+  padding: 0.85rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.paper-framework tr:last-child td {
+  border-bottom: none;
+}
+
+.paper-framework th {
+  color: var(--text);
+  background: color-mix(in srgb, var(--avatar-bg) 65%, transparent);
+  font-weight: 600;
+}
+
+.paper-framework td {
+  color: var(--text-muted);
+}
+
+.paper-section-number {
+  color: var(--link);
+  font-family: -apple-system, "Segoe UI", sans-serif;
+  font-size: 0.82rem;
+  font-weight: 700;
+  margin-right: 0.35rem;
+}
+
 @media (max-width: 760px) {
   .impact-strip { grid-template-columns: repeat(2, minmax(0, 1fr)); margin-top: 0; }
+  .paper-framework { display: block; overflow-x: auto; }
 }
 
 @media (max-width: 560px) {
