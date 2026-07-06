@@ -118,42 +118,36 @@
       "impact_statement": "Replaces manual notebook-based model selection with a reproducible, MLflow-tracked model tournament."
     }
   },
-  "project_backlog": [
+  "draft_placeholders": [
     {
-      "slug": "agentic-workflow-visual-prototype",
-      "title": "Agentic Workflow Visual Prototype",
+      "slug": "architecture-visual-prototype",
       "status": "private_candidate",
-      "reason": "Design artifact; should be paired with implementation evidence and exported as clean diagrams/PDF before publishing."
+      "reason": "Design artifact; publish only after exporting clean diagrams/PDF and pairing with implementation evidence."
     },
     {
-      "slug": "discord-workflow",
-      "title": "Discord Workflow",
+      "slug": "workflow-integration-project",
       "status": "private_candidate",
-      "reason": "Needs documentation and test/CI surface before being a strong public exhibit."
+      "reason": "Needs documentation and test/CI surface before becoming a strong public exhibit."
     },
     {
-      "slug": "voice-training",
-      "title": "French Accent Voice Training",
+      "slug": "voice-training-project",
       "status": "private_candidate",
-      "reason": "Needs before/after audio samples and evaluation notes before publishing."
+      "reason": "Needs before/after samples and evaluation notes before publishing."
     },
     {
-      "slug": "whiteshadow-local-ai-workspace",
-      "title": "WhiteShadow Local AI Workspace",
+      "slug": "local-ai-workspace-project",
       "status": "private_candidate",
-      "reason": "Keep architecture-level only until public README, CI, and safe packaging are ready."
+      "reason": "Keep architecture-level until public README, CI, and safe packaging are complete."
     },
     {
-      "slug": "insight-engine",
-      "title": "Gen-AI Insight Engine",
+      "slug": "security-blocked-project-a",
       "status": "blocked_security",
-      "reason": "Do not publish until the flagged hardcoded Google API key has been rotated and the project is sanitized."
+      "reason": "Do not publish project name or specifics until flagged credential/API-key issue is resolved."
     },
     {
-      "slug": "docling-extractor",
-      "title": "Agentic AI Docling Extractor",
+      "slug": "security-blocked-project-b",
       "status": "blocked_security",
-      "reason": "Do not publish until the flagged credential exposure is resolved and benchmark claims are supported."
+      "reason": "Do not publish project name or specifics until flagged credential/API-key issue is resolved and claims have evidence."
     }
   ]
 }
