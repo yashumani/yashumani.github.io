@@ -1,0 +1,153 @@
+{
+  "profile": {
+    "name": "Yashu Sharma",
+    "headline": "I build AI-powered systems, not AI-generated demos.",
+    "summary": "Production-minded AI, BI, and MLOps systems with measurable proof, traceable outputs, and reviewable release discipline.",
+    "metrics": [
+      {
+        "label": "Years of experience",
+        "value": "TBD",
+        "placeholder": true,
+        "needs_confirmation": true,
+        "notes": "Replace with confirmed number, for example 5+ yrs or 6+ yrs."
+      },
+      {
+        "label": "Executive / BI workflows automated",
+        "value": "TBD",
+        "placeholder": true,
+        "needs_confirmation": true,
+        "notes": "Use only a public-safe count or wording. Avoid confidential internal names if needed."
+      },
+      {
+        "label": "Estimated manual hours saved",
+        "value": "TBD",
+        "placeholder": true,
+        "needs_confirmation": true,
+        "notes": "Use a defensible weekly/monthly estimate only after validation."
+      },
+      {
+        "label": "Public systems documented",
+        "value": "2",
+        "placeholder": false,
+        "needs_confirmation": false,
+        "notes": "Current public case studies on the site."
+      }
+    ]
+  },
+  "featured_metrics": [
+    {
+      "value": "TBD",
+      "label": "Years analytics, BI, and automation experience",
+      "status": "placeholder"
+    },
+    {
+      "value": "200+",
+      "label": "Automated tests across the agentic runtime",
+      "status": "supported_by_project_draft"
+    },
+    {
+      "value": "457",
+      "label": "Model/preprocessing recipes in the MLOps tournament",
+      "status": "supported_by_project_draft"
+    },
+    {
+      "value": "18",
+      "label": "Reusable Azure ML pipeline components",
+      "status": "supported_by_project_draft"
+    }
+  ],
+  "projects": {
+    "agentic-knowledge-runtime": {
+      "title": "Agentic Knowledge & Research Runtime",
+      "status": "public",
+      "proof_metrics": [
+        { "value": "92", "label": "commits" },
+        { "value": "98%", "label": "solo-authored" },
+        { "value": "200+", "label": "automated tests" },
+        { "value": "13", "label": "source adapters" },
+        { "value": "14", "label": "evidence-gated releases" }
+      ],
+      "impact_metrics": [
+        {
+          "value": "TBD",
+          "label": "Research review time reduced",
+          "placeholder": true,
+          "notes": "Needs a before/after estimate before publishing as a real number."
+        },
+        {
+          "value": "Traceable claims",
+          "label": "Every published claim designed to link back to source evidence",
+          "placeholder": false
+        },
+        {
+          "value": "Governed publishing",
+          "label": "Critique/repair gate blocks unsupported high-confidence claims",
+          "placeholder": false
+        }
+      ],
+      "impact_statement": "Makes AI-assisted research traceable, reviewable, and source-grounded before publication."
+    },
+    "mlops-solution-accelerator": {
+      "title": "Automated ML Pipeline Platform",
+      "status": "public",
+      "proof_metrics": [
+        { "value": "457", "label": "candidate recipes" },
+        { "value": "18", "label": "Azure ML components" },
+        { "value": "5", "label": "pipeline stages" },
+        { "value": "3", "label": "task families" },
+        { "value": "50", "label": "Optuna trials in churn config" }
+      ],
+      "impact_metrics": [
+        {
+          "value": "TBD",
+          "label": "Manual model-selection effort reduced",
+          "placeholder": true,
+          "notes": "Needs a measured or estimated before/after baseline."
+        },
+        {
+          "value": "Reproducible lineage",
+          "label": "Registered model traceable to data, config, candidates, and hyperparameters",
+          "placeholder": false
+        },
+        {
+          "value": "Reusable platform",
+          "label": "New use cases can be added through config rather than code rewrite",
+          "placeholder": false
+        }
+      ],
+      "impact_statement": "Replaces manual notebook-based model selection with a reproducible, MLflow-tracked model tournament."
+    }
+  },
+  "draft_placeholders": [
+    {
+      "slug": "architecture-visual-prototype",
+      "status": "private_candidate",
+      "reason": "Design artifact; publish only after exporting clean diagrams/PDF and pairing with implementation evidence."
+    },
+    {
+      "slug": "workflow-integration-project",
+      "status": "private_candidate",
+      "reason": "Needs documentation and test/CI surface before becoming a strong public exhibit."
+    },
+    {
+      "slug": "voice-training-project",
+      "status": "private_candidate",
+      "reason": "Needs before/after samples and evaluation notes before publishing."
+    },
+    {
+      "slug": "local-ai-workspace-project",
+      "status": "private_candidate",
+      "reason": "Keep architecture-level until public README, CI, and safe packaging are complete."
+    },
+    {
+      "slug": "security-blocked-project-a",
+      "status": "blocked_security",
+      "reason": "Do not publish project name or specifics until flagged credential/API-key issue is resolved."
+    },
+    {
+      "slug": "security-blocked-project-b",
+      "status": "blocked_security",
+      "reason": "Do not publish project name or specifics until flagged credential/API-key issue is resolved and claims have evidence."
+    }
+  ]
+}

@@ -1,92 +1,108 @@
-# NotebookLM source packet: Agentic Knowledge & Research Runtime
+# Agentic Knowledge & Research Runtime — NotebookLM Source Packet
 
-## Project name
+Source material for generating video overviews, infographics, and study guides in NotebookLM. Written for narration/summarization, not as a public web page.
 
-Agentic Knowledge & Research Runtime
+## Project summary
 
-## One-line description
+A multi-agent research platform that turns scattered, messy source material into cited, fact-checked artifacts. The system is built as a governed research pipeline: every published claim is designed to trace back to a specific chunk of a specific source document, and every output passes through automated review before publication.
 
-A multi-agent research platform that turns scattered source material into cited, critique-reviewed research artifacts with an auditable evidence trail.
+## Problem
 
-## Audience
+Most AI research assistant tools produce an answer in one shot. There is often no paper trail. If the answer is wrong, it is difficult to determine which source it came from, whether the source was reliable, or whether the model invented the claim.
 
-Technical recruiters, AI/ML leaders, data platform leaders, research engineering reviewers, and EB1-A-style evidence reviewers who need to understand the project's originality, engineering discipline, and production-readiness.
+This system treats research as a governed pipeline rather than a single model call. The core question it is designed to answer is: "Where did this claim come from?"
 
-## Core problem
+## What it does
 
-Most AI research assistant tools produce a one-shot answer from a prompt. That creates risk because the answer may contain unsupported claims, weak citations, or untraceable reasoning. The goal of this platform is to treat AI-assisted research as a controlled pipeline instead of a chatbot response.
+Given a research question, the system:
 
-## Solution summary
+1. Pulls in raw material from source types such as web pages, YouTube videos, GitHub repositories, academic sources, Hacker News, RSS feeds, PDFs, Office documents, and images/screenshots.
+2. Extracts and normalizes that raw material into structured evidence: text chunks, tables, and media, each with a source reference.
+3. Stores the evidence in a graph structure that models relationships between sources, chunks, claims, and concepts.
+4. Indexes the evidence for retrieval using Weaviate.
+5. Retrieves candidate evidence using keyword search, vector similarity, and reranking.
+6. Assembles evidence into a bundle and passes it to a knowledge compiler.
+7. Drafts an answer or artifact.
+8. Runs the draft through critique and repair before publication.
 
-The runtime ingests source material from multiple adapters, extracts structured content, builds an evidence graph, retrieves relevant supporting material, compiles a cited artifact, and then sends that artifact through critique and repair before publication.
+## Architecture
 
-## Visual architecture
+Source adapters → extraction and parsing → evidence graph → vector index → hybrid retrieval and reranking → knowledge compiler → critique / repair / council loop → cited artifact.
 
-Source adapters → extraction and parsing → evidence graph → vector index → hybrid retrieval and reranking → knowledge compiler → critique / repair / council loop → cited research artifact.
+## Why the architecture matters
 
-## Source adapters
+### Source adapters, not scrapers
 
-The platform supports a discover → fetch → extract contract across thirteen source types, including web pages, YouTube, GitHub repositories, arXiv, Crossref, Hacker News, RSS/Atom, PDFs, Office documents, images, and screenshots.
+The source layer uses adapter contracts rather than ad-hoc scraping scripts. Each adapter is responsible for discovering, estimating cost, fetching, extracting assets, normalizing, deduplicating, checking policy, and reporting health. This makes new source types pluggable without rewriting the rest of the pipeline.
 
-## Evidence model
+### Evidence graph, not just a vector store
 
-The project uses an evidence graph rather than a flat vector store. Source documents, extracted chunks, tables, media, claims, and concepts are modeled with explicit references. This allows each generated answer to trace back to the specific source chunk that supports it.
+Most RAG systems chunk documents and embed them. This system models an explicit graph: source documents, evidence chunks, media assets, table artifacts, claims, and concepts. The vector database is a projection used for retrieval, not the source of truth. This is what makes claim-level traceability possible.
 
-## Retrieval strategy
+### Hybrid retrieval
 
-The runtime combines keyword search, vector search, and reranking. This hybrid retrieval approach is designed to reduce irrelevant matches and improve grounding compared with relying only on vector similarity.
+Pure vector similarity is weak for exact facts, rare terms, and precise source matching. The runtime combines exact lookup, BM25 keyword search, vector search, and reranking. This reduces irrelevant retrieval compared with vector-only search.
 
-## Critique and repair
+### Critique / repair / council loop
 
-A separate reviewing agent checks generated artifacts for unsupported claims. Weak sections are repaired automatically. For higher-risk outputs, multiple independent drafts can be compared before a final artifact is accepted.
+A separate reviewing stage checks drafts against cited evidence. Unsupported sections can be repaired automatically. Higher-stakes outputs can be compared across multiple drafts. Unsupported high-confidence claims are blocked from publishing.
 
-## Durable orchestration
+### Durable orchestration
 
-Long-running research jobs use Temporal so they can survive crashes and restarts instead of losing work mid-pipeline.
+Research jobs can take a long time and involve many sources. Temporal gives the pipeline durable orchestration so jobs can be retried, replayed, and resumed after failure rather than starting over.
 
-## Engineering discipline
+### Typed programs and evaluation gates
 
-The project uses typed, testable AI programs through DSPy, automated evaluation gates through Promptfoo, and run history through MLflow. It is positioned as a production-grade system, not a weekend prototype.
+Reasoning steps are written as typed, testable programs using DSPy rather than loose prompt strings. Changes are checked through Promptfoo evaluation gates and logged in MLflow for run history.
 
-## Public proof metrics
+## Proof metrics
 
 - 92 commits
 - 98% solo-authored
-- 200+ automated tests passing
-- 13 source connectors
 - 14 phased, evidence-gated releases
-- Azure Container Apps deployment
+- 200+ automated tests passing
+- 13 source adapters
+- Real cloud deployment on Azure Container Apps
 - VPN-gated, fail-closed security posture
-- metered and capped API usage in live runs
+- Metered/capped live API usage
 
-## Technology stack
+## Impact framing
+
+The impact is not "AI writes summaries." The impact is converting research from one-shot generation into a traceable, reviewable workflow. The system makes claims source-grounded, exposes contradictions and gaps, and adds a critique gate before an artifact is considered publishable.
+
+Placeholder impact metrics to confirm later:
+
+- Research review time reduced
+- Analyst hours saved
+- Number of research workflows supported
+- Number of source sets processed
+- Stakeholders or users served
+
+## Tech stack
 
 Python, Temporal, Weaviate, DSPy, MLflow, Promptfoo, Azure Container Apps, Docling.
 
-## Suggested video narrative
+## Use-case scenarios
 
-1. Open with the risk: AI research tools often answer without a trustworthy audit trail.
-2. Introduce the solution: a multi-agent runtime that treats research as a pipeline.
-3. Show the source layer: web, video, code, research feeds, and documents.
-4. Show the evidence graph: every answer is tied to source chunks and citations.
-5. Show the retrieval and compiler stages: hybrid retrieval, reranking, and cited artifact drafting.
-6. Show critique and repair: unsupported claims are challenged before publication.
-7. Close with engineering proof: tests, commits, Temporal, MLflow, Promptfoo, and Azure deployment.
+- Competitive or market research with source-linked claim maps.
+- Technical due diligence across public GitHub repos, docs, talks, and public materials.
+- Ongoing topic monitoring with repeated refreshes over time.
+- Literature or prior-art synthesis across academic and community sources.
 
-## Suggested infographic layout
+## FAQ
 
-Title: Agentic Knowledge & Research Runtime
+### How is this different from asking ChatGPT or Perplexity a question?
 
-Subtitle: From scattered sources to cited, critique-reviewed research artifacts.
+Those tools generate an answer in one pass with limited visibility into which exact source justified each sentence. This system builds an evidence graph first, drafts from retrieved evidence, and then checks the draft against evidence before publishing.
 
-Top row: source adapters, extraction, evidence graph.
+### What happens if a source contradicts another source?
 
-Middle row: hybrid retrieval, knowledge compiler, critique / repair.
+The evidence graph can model support and contradiction. The evidence bundle can include conflicts and gaps rather than silently choosing one source.
 
-Bottom row: proof metrics and technology stack.
+### What stops it from hallucinating when evidence is thin?
 
-Callout: Every published claim must trace back to source evidence.
+The publish gate blocks unsupported high-confidence claims. If evidence does not support a claim, the critique/repair stage fixes or blocks it.
 
-## Tone
+## One-sentence summary
 
-Confident, technical, and evidence-based. Avoid exaggerated AI hype. Make it sound like a serious engineering case study.
+A multi-agent research platform that turns scattered source material into cited, fact-checked artifacts with the release discipline, evaluation gates, and durability expected from production infrastructure.
