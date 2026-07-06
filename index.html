@@ -13,6 +13,7 @@
 <meta name="twitter:title" content="Yashu Sharma — AI &amp; Data Systems">
 <meta name="twitter:description" content="AI orchestration and MLOps systems built by Yashu Sharma.">
 <link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/media.css">
 <script>
   (function () {
     var t = localStorage.getItem('theme');
@@ -27,6 +28,7 @@
       <a class="brand" href="index.html">Yashu Sharma</a>
       <nav class="site-nav">
         <a href="#systems">Systems</a>
+        <a href="#impact">Impact</a>
         <a href="#capabilities">Capabilities</a>
         <a href="#roadmap">Roadmap</a>
         <a href="#contact">Contact</a>
@@ -47,7 +49,7 @@
         <p class="deck-lede">I'm Yashu Sharma, based in New Jersey. I design and build production-grade AI systems — the kind with real deployments, automated tests, and evidence-gated release discipline, not weekend prototypes.</p>
         <div class="deck-actions" aria-label="Primary navigation">
           <a href="#systems">View systems</a>
-          <a href="#capabilities">Explore capabilities</a>
+          <a href="#impact">See impact model</a>
           <a href="mailto:yashusharma800@gmail.com">Start a conversation</a>
         </div>
       </div>
@@ -65,13 +67,33 @@
       </aside>
     </section>
 
+    <section class="impact-strip reveal" aria-label="Portfolio metrics">
+      <article class="metric-placeholder">
+        <strong>TBD</strong>
+        <span>Years analytics, BI, and automation experience. Replace after confirming exact number.</span>
+      </article>
+      <article>
+        <strong>200+</strong>
+        <span>Automated tests across the agentic research runtime.</span>
+      </article>
+      <article>
+        <strong>457</strong>
+        <span>Model/preprocessing recipes in the MLOps tournament.</span>
+      </article>
+      <article>
+        <strong>18</strong>
+        <span>Reusable Azure ML pipeline components.</span>
+      </article>
+    </section>
+
     <nav class="route-strip reveal" aria-label="Quick routes">
       <a href="#systems"><span>01</span> Systems</a>
       <a href="projects/mlops-solution-accelerator.html"><span>02</span> MLOps case study</a>
       <a href="projects/agentic-knowledge-runtime.html"><span>03</span> Agentic runtime case study</a>
-      <a href="#capabilities"><span>04</span> Capabilities</a>
-      <a href="#roadmap"><span>05</span> Roadmap</a>
-      <a href="#contact"><span>06</span> Contact</a>
+      <a href="#impact"><span>04</span> Impact model</a>
+      <a href="#capabilities"><span>05</span> Capabilities</a>
+      <a href="#roadmap"><span>06</span> Roadmap</a>
+      <a href="#contact"><span>07</span> Contact</a>
     </nav>
 
     <section class="deck-slide reveal" id="systems">
@@ -80,7 +102,13 @@
       <div class="system-grid">
         <article class="system-card">
           <h3>Agentic Knowledge &amp; Research Runtime</h3>
-          <p>A multi-agent platform that turns scattered source material — web pages, video, code repositories, research feeds — into cited, critique-reviewed research artifacts. 92 commits, 98% solo-authored, 200+ automated tests passing.</p>
+          <p>A multi-agent platform that turns scattered source material — web pages, video, code repositories, research feeds — into cited, critique-reviewed research artifacts.</p>
+          <ul class="proof-pills" aria-label="Agentic runtime proof metrics">
+            <li>92 commits</li>
+            <li>200+ tests</li>
+            <li>13 adapters</li>
+            <li>14 phased releases</li>
+          </ul>
           <span class="stack-line">Temporal · Weaviate · DSPy · MLflow · Promptfoo · Azure Container Apps</span>
           <div class="card-links">
             <a href="projects/agentic-knowledge-runtime.html">Read the case study</a>
@@ -88,7 +116,13 @@
         </article>
         <article class="system-card">
           <h3>Automated ML Pipeline Platform</h3>
-          <p>An Azure ML system that runs a three-phase model tournament to automatically find, tune, and register the best model for classification, regression, or clustering tasks — including a direct application to telecom churn prediction.</p>
+          <p>An Azure ML system that runs a three-phase model tournament to automatically find, tune, and register the best model for classification, regression, or clustering tasks.</p>
+          <ul class="proof-pills" aria-label="MLOps platform proof metrics">
+            <li>457 recipes</li>
+            <li>18 components</li>
+            <li>5 stages</li>
+            <li>3 task families</li>
+          </ul>
           <span class="stack-line">Azure ML · PyCaret · FLAML · Optuna · MLflow</span>
           <div class="card-links">
             <a href="projects/mlops-solution-accelerator.html">Read the case study</a>
@@ -97,8 +131,31 @@
       </div>
     </section>
 
+    <section class="deck-slide reveal" id="impact">
+      <div class="slide-kicker">02 / Impact model</div>
+      <h2>AI-powered systems, not AI-generated demos</h2>
+      <div class="positioning-panel">
+        <p><strong>AI-generated</strong> means a model produced an artifact. <strong>AI-powered</strong> means AI is one component inside an accountable system with defined inputs, outputs, owners, tests, metrics, and audit trails.</p>
+        <p>The systems here are positioned as the second kind: governed pipelines where value is proven through traceability, reproducibility, evaluation gates, and deployment discipline — not output quality alone.</p>
+      </div>
+      <div class="impact-grid">
+        <article>
+          <strong>Traceability</strong>
+          <span>Research claims are designed to connect back to source evidence rather than standing as unverified summaries.</span>
+        </article>
+        <article>
+          <strong>Reproducibility</strong>
+          <span>Model-selection work is tracked through dataset, config, candidate, hyperparameter, and registry lineage.</span>
+        </article>
+        <article class="metric-placeholder">
+          <strong>TBD</strong>
+          <span>Business impact placeholders are ready for hours saved, stakeholders served, adoption, and workflow counts.</span>
+        </article>
+      </div>
+    </section>
+
     <section class="deck-slide reveal" id="capabilities">
-      <div class="slide-kicker">02 / Capabilities</div>
+      <div class="slide-kicker">03 / Capabilities</div>
       <h2>What the work demonstrates</h2>
       <div class="capability-grid">
         <article><strong>MLOps &amp; model lifecycle</strong><span>Config-driven pipelines, model tournaments, hyperparameter optimization, MLflow tracking, registry promotion.</span></article>
@@ -109,26 +166,26 @@
     </section>
 
     <section class="deck-slide reveal" id="roadmap">
-      <div class="slide-kicker">03 / Roadmap</div>
+      <div class="slide-kicker">04 / Roadmap</div>
       <h2>What's next</h2>
       <div class="case-stack">
         <article class="case-row">
-          <h3>Execution-proof media</h3>
-          <p>Add walkthrough videos, architecture diagrams, and screenshots to both case studies so the systems can be seen running, not just described.</p>
+          <h3>Confirm public business metrics</h3>
+          <p>Replace the TBD placeholders for years of experience, workflows automated, hours saved, stakeholders served, and adoption once the numbers are confirmed and safe to publish.</p>
         </article>
         <article class="case-row">
-          <h3>Deeper architecture write-ups</h3>
-          <p>Expand each case study with implementation-level detail on the pipeline and orchestration design.</p>
+          <h3>Execution-proof media</h3>
+          <p>Add walkthrough videos, NotebookLM infographics, and screenshots to both case studies so the systems can be seen running, not just described.</p>
         </article>
         <article class="case-row">
           <h3>A growing catalog</h3>
-          <p>More systems get added here as they reach the same bar of public-safe, evidence-backed presentation as these two.</p>
+          <p>Future project drafts stay private until documentation, testing, evidence, and security-readiness checks are complete.</p>
         </article>
       </div>
     </section>
 
     <section class="deck-slide reveal" id="contact">
-      <div class="slide-kicker">04 / Contact</div>
+      <div class="slide-kicker">05 / Contact</div>
       <div class="contact-panel">
         <div>
           <h2>Let's talk systems.</h2>
@@ -152,6 +209,7 @@
           <nav class="site-map" aria-label="Footer sitemap">
             <a href="#top">Top</a>
             <a href="#systems">Systems</a>
+            <a href="#impact">Impact</a>
             <a href="#capabilities">Capabilities</a>
             <a href="projects/mlops-solution-accelerator.html">MLOps</a>
             <a href="projects/agentic-knowledge-runtime.html">Knowledge runtime</a>
