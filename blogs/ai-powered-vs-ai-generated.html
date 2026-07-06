@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI-Powered Systems vs. AI-Generated Outputs — Yashu Sharma</title>
+<meta name="description" content="A working paper defining the distinction between AI-generated outputs and AI-powered accountable systems.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="AI-Powered Systems vs. AI-Generated Outputs — Yashu Sharma">
+<meta property="og:description" content="A working paper defining the distinction between AI-generated outputs and AI-powered accountable systems.">
+<meta property="og:url" content="https://yashumani.github.io/blogs/ai-powered-vs-ai-generated.html">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="AI-Powered Systems vs. AI-Generated Outputs — Yashu Sharma">
+<meta name="twitter:description" content="A working paper defining the distinction between AI-generated outputs and AI-powered accountable systems.">
+<link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="../css/media.css">
+<script>
+  (function () {
+    var t = localStorage.getItem('theme');
+    if (t) document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="wrap deck-nav-wrap">
+      <a class="brand" href="../index.html">Yashu Sharma</a>
+      <nav class="site-nav">
+        <a href="../index.html#systems">Systems</a>
+        <a href="../index.html#impact">Impact</a>
+        <a href="index.html">Blogs</a>
+        <a href="../index.html#capabilities">Capabilities</a>
+        <a href="../index.html#contact">Contact</a>
+        <button class="theme-toggle" type="button" aria-label="Toggle dark mode">
+          <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+          <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3 7 7 0 0 0 21 12.8z"/></svg>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap case-study-wrap blog-article">
+
+    <a class="back-link" href="index.html"><span class="back-arrow">&larr;</span> All blogs</a>
+
+    <p class="paper-kicker reveal">Working paper</p>
+    <h1 class="reveal">AI-Powered Systems vs. AI-Generated Outputs</h1>
+    <p class="paper-meta reveal">A practical framework for separating one-shot generated artifacts from accountable AI-enabled systems.</p>
+
+    <div class="paper-note reveal">
+      <p><strong>Thesis.</strong> AI-generated is an output. AI-powered is a system. The difference is not the model used; it is whether the work has defined inputs, accountable ownership, measurable outcomes, and evidence that it worked.</p>
+    </div>
+
+    <h2 class="reveal"><span class="paper-section-number">01</span>Abstract</h2>
+    <p>As organizations adopt generative models, two different forms of work are often described with the same language: an artifact produced by a model and a system that uses AI as one component inside a governed process. This paper proposes a practical distinction between <strong>AI-generated outputs</strong> and <strong>AI-powered systems</strong>. The distinction matters because output quality alone is not enough to evaluate production AI work. Accountable AI systems must be judged by process ownership, traceability, reproducibility, evaluation, deployment discipline, and measurable impact.</p>
+
+    <h2 class="reveal"><span class="paper-section-number">02</span>Why the distinction matters</h2>
+    <p>Most people already understand what an AI-generated output is. A model writes text, produces code, creates an image, summarizes a document, or drafts a presentation. The output may be useful, but once it exists the AI's job is essentially finished. The artifact is the product.</p>
+    <p>AI-powered work is different. In an AI-powered system, the model is not the whole product. The model is one component inside a workflow that has inputs, outputs, owners, safety constraints, monitoring, tests, evidence, and a measurable purpose. The system is the product. AI is the engine inside it, not the whole car.</p>
+    <p>This matters because the current market often calls both things "AI-powered." A paragraph generator and a production ML platform can share the same label even though only one has accountability for an operational outcome. That imprecision makes it harder to evaluate engineering depth, business value, and risk.</p>
+
+    <h2 class="reveal"><span class="paper-section-number">03</span>Definitions</h2>
+    <p><strong>AI-generated output</strong> means a model directly produces an artifact: a summary, answer, image, code snippet, or draft. The artifact is judged mainly by its immediate quality.</p>
+    <p><strong>AI-powered system</strong> means AI performs one or more roles inside a broader process: assisting, routing, evaluating, automating, predicting, monitoring, checking, or optimizing. The process is judged by whether it reliably produces a useful outcome under real constraints.</p>
+
+    <table class="paper-framework reveal">
+      <thead>
+        <tr>
+          <th>Axis</th>
+          <th>Question</th>
+          <th>AI-generated</th>
+          <th>AI-powered</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Origin</td>
+          <td>Who produced the artifact?</td>
+          <td>The model, usually in one pass.</td>
+          <td>A workflow or system that uses the model as one step.</td>
+        </tr>
+        <tr>
+          <td>Function</td>
+          <td>What does AI actually do?</td>
+          <td>Generate text, code, image, answer, or summary.</td>
+          <td>Assist, route, evaluate, automate, predict, monitor, or optimize.</td>
+        </tr>
+        <tr>
+          <td>Accountability</td>
+          <td>Who owns the result?</td>
+          <td>Often nobody beyond the person who prompted it.</td>
+          <td>A defined process, owner, workflow, or system boundary is responsible.</td>
+        </tr>
+        <tr>
+          <td>Evidence</td>
+          <td>How is value proven?</td>
+          <td>Output quality alone.</td>
+          <td>Metrics, tests, audit logs, adoption, deployment, and operational results.</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2 class="reveal"><span class="paper-section-number">04</span>The accountability test</h2>
+    <p>A useful test is simple: <strong>if the model were removed, would the remaining system still have a defined process, a defined owner, and a way to check whether it worked?</strong></p>
+    <p>If the answer is no, the work is probably an AI-generated artifact. If the answer is yes, the work may be an AI-powered system. The model improves or enables the process, but it does not replace the need for structure around the process.</p>
+
+    <div class="paper-callout reveal">
+      <p><strong>Rule of thumb:</strong> AI-generated work asks, "Is the output good?" AI-powered work also asks, "Can the process be trusted, repeated, measured, and owned?"</p>
+    </div>
+
+    <h2 class="reveal"><span class="paper-section-number">05</span>Case application: Agentic Knowledge &amp; Research Runtime</h2>
+    <p>An AI-generated research assistant produces a summary. The user then has to decide whether the summary is accurate, whether citations are real, and whether unsupported claims slipped through.</p>
+    <p>The Agentic Knowledge &amp; Research Runtime is designed as an AI-powered system instead. It treats research as a governed pipeline: source ingestion, extraction, evidence graph construction, hybrid retrieval, knowledge compilation, critique/repair, and publishing. The important unit is not the paragraph the model writes; it is the full evidence pipeline that explains where every claim came from.</p>
+    <p>This changes accountability. If a claim is unsupported, there is a stage responsible for catching it. If a source contradicts another source, the evidence graph can represent the conflict. If a long-running job fails, durable orchestration can retry or resume. The system is evaluated by traceability, review gates, tests, and run history, not just by whether the final prose sounds convincing.</p>
+
+    <h2 class="reveal"><span class="paper-section-number">06</span>Case application: Automated ML Pipeline Platform</h2>
+    <p>An AI-generated framing of model selection would be: "AI recommends the best model." That is a weak description because it sounds like a single answer produced by a black box.</p>
+    <p>The Automated ML Pipeline Platform is better understood as an AI-powered MLOps system. It takes a dataset and configuration, validates and preprocesses data, runs baseline engines, searches hundreds of candidate recipes, tunes the winner, evaluates it on holdout data, and registers the final model. The AI/AutoML pieces are components inside a controlled model-selection process.</p>
+    <p>This also changes accountability. The question is not only which model won. The question is whether the winning model can be traced back to the data, preprocessing choices, candidate set, hyperparameters, evaluation metrics, and registry record that produced it. In that context, evidence is lineage, not prose.</p>
+
+    <h2 class="reveal"><span class="paper-section-number">07</span>Implications for evaluation</h2>
+    <p>AI-generated outputs can be evaluated by quality, usefulness, style, and correctness. Those criteria matter, but they are not enough for AI-powered systems.</p>
+    <p>AI-powered systems require additional evaluation dimensions:</p>
+    <ul class="clean">
+      <li><strong>Reliability:</strong> Does the workflow behave consistently under expected inputs?</li>
+      <li><strong>Traceability:</strong> Can outputs be connected back to sources, data, configs, or decisions?</li>
+      <li><strong>Reproducibility:</strong> Can the same process be rerun and inspected later?</li>
+      <li><strong>Governance:</strong> Are there checks before risky or unsupported outputs are published?</li>
+      <li><strong>Impact:</strong> Did the system reduce manual effort, improve quality, support users, or create measurable operational value?</li>
+    </ul>
+
+    <h2 class="reveal"><span class="paper-section-number">08</span>Why this matters for portfolios</h2>
+    <p>In a portfolio, the distinction helps reviewers separate prompt experiments from systems engineering. A screenshot of an AI-generated artifact may show creativity, but it does not prove system design. A case study with architecture, tests, metrics, release discipline, and impact shows something stronger: the ability to build AI into a process that other people can rely on.</p>
+    <p>That is why the strongest evidence is not a polished output alone. The strongest evidence is a combination of design, implementation, validation, and impact: architecture diagrams, test counts, source adapters, reusable components, model lineage, deployment posture, and honest placeholders for metrics that still need confirmation.</p>
+
+    <h2 class="reveal"><span class="paper-section-number">09</span>Conclusion</h2>
+    <p>AI-generated outputs are useful, but they are not the same as AI-powered systems. The former produces an artifact. The latter owns a process. The difference becomes visible through accountability: defined inputs, defined outputs, governance, evidence, monitoring, evaluation, and measurable impact.</p>
+    <p>For serious AI work, the question should not be only "Did AI produce something impressive?" It should be "Did AI power a system that can be trusted, repeated, measured, and improved?"</p>
+
+    <div class="paper-callout reveal">
+      <p><strong>One-sentence summary:</strong> AI-generated is an output with no accountability attached; AI-powered is a system where AI is a component inside a process that is tested, monitored, and owned.</p>
+    </div>
+
+    <footer class="site-footer">
+      <p class="footer-note">&copy; 2026 Yashu Sharma</p>
+    </footer>
+
+  </main>
+
+  <script src="../js/main.js"></script>
+</body>
+</html>
