@@ -1,96 +1,113 @@
-# NotebookLM source packet: Automated ML Pipeline Platform
+# Automated ML Pipeline Platform — NotebookLM Source Packet
 
-## Project name
+Source material for generating video overviews, infographics, and study guides in NotebookLM. Written for narration/summarization, not as a public web page.
 
-Automated ML Pipeline Platform
+## Project summary
 
-## One-line description
+An Azure ML platform that replaces manual, one-off model selection with a systematic, config-driven tournament. Given a dataset and YAML config, it validates data, runs baseline AutoML engines, searches hundreds of model/preprocessing recipes, tunes the winner, evaluates it properly, and registers the final model with traceable lineage.
 
-An end-to-end Azure ML pipeline that automatically finds, tunes, evaluates, and registers the best model for classification, regression, or clustering tasks.
+## Problem
 
-## Audience
+Building a machine learning model often means manually trying algorithms, tuning hyperparameters by hand, comparing notebook results, and eventually picking a winner. That process is slow, inconsistent, and hard to reproduce later when someone asks why a model was chosen.
 
-Technical recruiters, AI/ML platform leaders, MLOps engineers, data science leaders, and EB1-A-style evidence reviewers who need to understand the project's system design, automation, and engineering discipline.
+This platform turns model selection into a repeatable MLOps pipeline with full experiment history.
 
-## Core problem
+## What it does
 
-Manual model selection is slow, inconsistent, and difficult to reproduce. Data science teams often test models in notebooks, compare results informally, and rely on hand-selected winners. The goal of this platform is to make model selection systematic, repeatable, and production-ready.
+Given a dataset and YAML config, the pipeline runs through five stages:
 
-## Solution summary
+1. **Data validation and ingestion** — schema, type, and quality checks, then loading from the configured Azure ML datastore.
+2. **Preprocessing and feature engineering** — encoding, scaling, imputation, feature selection, dimensionality reduction, and task-specific transformations.
+3. **Baseline tournament / Phase A** — PyCaret and FLAML run in parallel against the prepared data; the best baseline becomes the Phase A champion.
+4. **Variant search / Phase B** — a library of 457 candidate model/preprocessing recipes is scored against the dataset profile and the most promising candidates are run and compared.
+5. **Hyperparameter optimization and final evaluation / Phase C** — Optuna tunes the selected model, the final candidate is evaluated on holdout data, and the model is registered in Azure ML.
 
-The platform accepts a dataset and YAML configuration, validates and profiles the data, runs a three-phase model tournament, tunes the winning candidate, evaluates it on holdout data, and registers the winner in Azure ML.
+The implementation is an Azure ML pipeline made of 18 reusable, independently versioned components, not one monolithic script.
 
-## Visual architecture
+## Architecture
 
-Dataset + YAML config → data validation and ingestion → preprocessing and feature engineering → parallel baseline tournament using PyCaret and FLAML → Phase A champion → 457 recipe variant search → Optuna hyperparameter optimization → holdout evaluation → Azure ML model registration.
+Dataset + YAML config → data validation and ingestion → preprocessing and feature engineering → PyCaret + FLAML baseline tournament → Phase A champion → 457 recipe variant search → Optuna HPO → holdout evaluation → Azure ML model registration.
 
-## Three-phase tournament
+## Why the architecture matters
 
-Phase A runs a fast baseline tournament using PyCaret and FLAML in parallel. The best baseline becomes the Phase A champion.
+### A real tournament
 
-Phase B scores 457 auto-generated model and preprocessing recipes against the profile of the dataset. The strongest recipe becomes the Phase B champion.
+The three-phase tournament mirrors how a strong data science team works: fast baselines, curated variant search, and focused hyperparameter tuning. The 457-recipe library expands the search beyond whatever one engineer would manually try.
 
-Phase C uses Optuna hyperparameter optimization to refine the winning candidate before final holdout evaluation.
+### Config-driven design
 
-## Config-driven design
+Datasets, task type, compute target, and stage parameters live in YAML config. Adding a new use case means creating a new config, not rewriting pipeline code.
 
-Datasets, task types, compute targets, and stage parameters are controlled by YAML configuration. New use cases can be added without hardcoding pipeline logic.
+### Component contracts
 
-## Supported task families
+The pipeline is built from 18 Azure ML components, each with an explicit input/output contract. This makes each stage easier to test, version, and reason about independently.
 
-The platform supports classification, regression, and clustering. It includes task-specific preprocessing and scoring. For classification, it can handle class imbalance with SMOTE and feature selection with Boruta.
+### Reproducibility through MLflow
 
-## Reproducibility
+Every run creates a parent MLflow experiment with child runs for steps and models. A registered model can be traced back to the exact dataset version, config, preprocessing choices, model candidates, and hyperparameters that produced it.
 
-Every run is tracked in nested MLflow experiments. The parent pipeline run connects to per-step and per-model child runs, so each registered model can be traced back to its exact data, config, metrics, and hyperparameters.
+### Real-world dataset handling
 
-## Azure ML deployment
+The platform supports messy business data patterns, including class imbalance through SMOTE and feature selection through Boruta for classification tasks.
 
-The platform runs against an actual Azure ML workspace and compute cluster, not only a local notebook simulation. It includes operational tooling to monitor jobs and extract results.
+### Runs on real infrastructure
 
-## Public proof metrics
+The pipeline submits to an Azure ML workspace and compute cluster, with operational tooling for monitoring jobs and extracting results.
 
-- 457 candidate recipes
-- 18 reusable components
-- 19 pipeline steps
+## Proof metrics
+
+- 457 candidate model/preprocessing recipes
+- 18 reusable Azure ML components
+- 5 pipeline stages
 - 3 task families: classification, regression, clustering
 - PyCaret and FLAML baseline engines
 - Optuna hyperparameter optimization
-- MLflow nested experiment tracking
+- Nested MLflow tracking
 - Azure ML workspace and compute cluster execution
+- 50-trial Optuna search in the telecom churn configuration
 
-## Applied example
+## Applied telecom churn use case
 
-One configuration applies the platform to telecom customer-churn prediction. It uses dual-engine baselines, Boruta feature selection, SMOTE class-imbalance handling, and a 50-trial Optuna search.
+One production config applies the platform to telecom customer-churn prediction. It uses dual baseline engines, Boruta feature selection, SMOTE for class imbalance, and a 50-trial Optuna search. This demonstrates the general platform applied to a real high-value business problem pattern.
 
-## Technology stack
+## Impact framing
 
-Python, Azure ML, PyCaret, FLAML, Optuna, MLflow.
+The impact is replacing manual notebook-based model selection with a reproducible model tournament. The system creates governance evidence: what data was used, what candidates were tried, what won, how it was tuned, and what model was registered.
 
-## Suggested video narrative
+Placeholder impact metrics to confirm later:
 
-1. Open with the problem: manual model selection is slow and hard to reproduce.
-2. Introduce the solution: a config-driven Azure ML pipeline that runs a model tournament automatically.
-3. Show the data and YAML config entering the platform.
-4. Show validation, preprocessing, and feature engineering.
-5. Show the three-phase tournament: baseline engines, 457 recipe search, and Optuna tuning.
-6. Show holdout evaluation and Azure ML registration.
-7. Close with engineering proof: reusable components, pipeline steps, task-family support, MLflow tracking, and Azure compute execution.
+- Manual model-selection effort reduced
+- Data scientist hours saved
+- Number of recurring retraining runs
+- Number of use cases/configs supported
+- Stakeholders or teams served
+- Model governance review time reduced
 
-## Suggested infographic layout
+## Tech stack
 
-Title: Automated ML Pipeline Platform
+Python 3.10, Azure ML SDK v2, Azure ML component YAMLs, MLflow, PyCaret, FLAML, Optuna, SHAP.
 
-Subtitle: From dataset and config to registered production-ready model.
+## Use-case scenarios
 
-Top row: dataset, YAML config, data validation, preprocessing.
+- New dataset / new business problem: create a config and let the tournament run.
+- Model governance and audit: inspect the full trail from raw data to registered model.
+- Recurring retraining: rerun the same config as data changes and compare winners over time.
+- Build-vs-buy benchmarking: compare in-house automated model selection against external platforms.
 
-Middle row: PyCaret + FLAML baseline tournament, Phase A champion, 457 recipe search, Optuna HPO.
+## FAQ
 
-Bottom row: holdout evaluation, Azure ML registry, proof metrics.
+### How is this different from just using PyCaret or FLAML directly?
 
-Callout: The platform replaces manual model choice with repeatable, tracked, config-driven automation.
+PyCaret and FLAML are baseline engines inside Phase A. The platform adds the orchestration around them: data validation, 457-recipe variant search, HPO, lineage, and model registration.
 
-## Tone
+### Why not stop after the baseline model?
 
-Confident, practical, and systems-oriented. Avoid exaggerated claims. Make it feel like a serious MLOps platform built for reproducibility and scale.
+Baseline AutoML tools are fast but generic. The variant search scores hundreds of curated recipes against the dataset profile, then Optuna tunes the best candidate.
+
+### What happens if the champion changes between runs?
+
+Each run is independently tracked with an MLflow experiment, config snapshot, and candidate ledger. Changes between runs remain inspectable.
+
+## One-sentence summary
+
+A config-driven Azure ML platform that turns manual model selection into a reproducible tournament from dataset to registered model.
