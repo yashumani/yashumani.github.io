@@ -376,7 +376,10 @@ footer.site-footer {
 @media (max-width: 560px) {
   body { font-size: 17px; }
   .avatar { width: 96px; height: 96px; margin-left: 1rem; }
-  header.site-header .wrap { height: auto; padding: 1rem 1.5rem; }
+  header.site-header .wrap { height: auto; padding: 1rem 1.5rem; align-items: flex-start; }
+  nav.site-nav { width: 100%; flex-wrap: wrap; gap: 0.65rem 1rem; }
+  nav.site-nav a { font-size: 0.92rem; }
+  .theme-toggle { width: 28px; height: 28px; margin-left: auto; }
 }
 
 /* Rich navigational home layout ("deck") */
@@ -553,6 +556,71 @@ header.site-header .deck-nav-wrap { max-width: 1120px; }
 }
 .card-links a { border-bottom: 1px solid currentColor; }
 
+.section-lede {
+  max-width: 780px;
+  color: var(--ink-soft);
+  font-size: clamp(1rem, 1.6vw, 1.14rem);
+  line-height: 1.6;
+}
+
+.evidence-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.evidence-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 1.1rem;
+  background: color-mix(in srgb, var(--bg) 78%, var(--surface));
+  box-shadow: 0 18px 50px -42px rgba(0, 0, 0, 0.45);
+}
+
+.evidence-card h3 {
+  font-size: clamp(1.08rem, 1.6vw, 1.28rem);
+  line-height: 1.2;
+  margin-bottom: 0.75rem;
+}
+
+.evidence-label {
+  margin: 0 0 0.45rem;
+  color: var(--text-muted);
+  font-family: -apple-system, "Segoe UI", sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.evidence-list {
+  display: grid;
+  gap: 0.85rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.evidence-list li {
+  border-top: 1px solid var(--border);
+  padding-top: 0.8rem;
+}
+
+.evidence-list strong,
+.evidence-list span {
+  display: block;
+}
+
+.evidence-list span {
+  color: var(--text-muted);
+  font-family: -apple-system, "Segoe UI", sans-serif;
+  font-size: 0.9rem;
+  line-height: 1.52;
+  margin-top: 0.25rem;
+}
+
 .capability-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -639,7 +707,7 @@ header.site-header .deck-nav-wrap { max-width: 1120px; }
 @media (max-width: 880px) {
   .slide-grid, .profile-hero, .contact-panel { grid-template-columns: 1fr; }
   .route-strip { grid-template-columns: repeat(3, minmax(0, 1fr)); }
-  .system-grid { grid-template-columns: 1fr; }
+  .system-grid, .evidence-grid { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 560px) {

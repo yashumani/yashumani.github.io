@@ -56,6 +56,72 @@
       "status": "supported_by_project_draft"
     }
   ],
+  "github_review": {
+    "reviewed_at": "2026-08-01",
+    "access": {
+      "website_repository": "Admin and push access confirmed through the GitHub app.",
+      "public_inventory_source": "GitHub public user repositories API.",
+      "authenticated_private_metadata_source": "GitHub app repository metadata and commit search."
+    },
+    "public_repositories_reviewed": [
+      {
+        "name": "yashumani.github.io",
+        "role": "public_presentation_layer",
+        "publish_decision": "keep_promoted",
+        "notes": "Public site carries case studies and July 2026 working papers."
+      },
+      {
+        "name": "MLOPS_SOLUTION_ACCELRATOR",
+        "role": "public_case_study",
+        "publish_decision": "keep_promoted",
+        "notes": "Strongest public engineering repo: Azure ML pipeline, 457 recipes, 18 components, task-family coverage, MLflow lineage."
+      },
+      {
+        "name": "french-accent-training",
+        "role": "applied_ai_candidate",
+        "publish_decision": "hold_until_evaluated",
+        "notes": "Needs samples, evaluation notes, and outcome evidence before promotion."
+      },
+      {
+        "name": "Stocks_analysis",
+        "role": "older_public_prototype",
+        "publish_decision": "deemphasize",
+        "notes": "Older and weaker for the current AI systems narrative."
+      },
+      {
+        "name": "Wedding-countdown",
+        "role": "off_domain_public_project",
+        "publish_decision": "deemphasize",
+        "notes": "Off-domain for EB-1A AI architecture positioning."
+      },
+      {
+        "name": "pavbhaji",
+        "role": "empty_or_inactive_public_repo",
+        "publish_decision": "deemphasize",
+        "notes": "No useful portfolio signal in current form."
+      }
+    ],
+    "private_repositories_reviewed": [
+      {
+        "name": "private-local-ai-workspace",
+        "role": "private_ai_runtime_evidence",
+        "publish_decision": "architecture_summary_only",
+        "notes": "Recent commits show a local operator platform, custom agent runtime, Hermes integration, synthetic tool-calling data, and LoRA/GGUF/Ollama deployment work."
+      },
+      {
+        "name": "private-workflow-integration",
+        "role": "private_workflow_integration_evidence",
+        "publish_decision": "hold_until_documented",
+        "notes": "Useful supporting integration signal; needs public-safe README, tests, and demo path before promotion."
+      },
+      {
+        "name": "private-petition-workspace",
+        "role": "private_petition_workspace",
+        "publish_decision": "do_not_promote_as_portfolio_project",
+        "notes": "Use for petition planning and documentation, not as public technical proof."
+      }
+    ]
+  },
   "projects": {
     "agentic-knowledge-runtime": {
       "title": "Agentic Knowledge & Research Runtime",

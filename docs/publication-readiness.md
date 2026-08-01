@@ -11,6 +11,30 @@ These are wired into the public site and can receive metrics/media upgrades:
 | Agentic Knowledge & Research Runtime | Public | Confirm research time saved, review-cycle reduction, adoption, and stakeholder count if safe. |
 | Automated ML Pipeline Platform | Public | Confirm manual model-selection time reduced, retraining cadence, model governance usage, and business/user adoption if safe. |
 
+## 2026-08-01 GitHub review decision
+
+GitHub was reviewed with owner-authorized access on 2026-08-01. The website
+repository is accessible for push/admin operations. Public GitHub shows six
+public repositories; authenticated metadata also confirms private repositories
+used for petition planning and private engineering work.
+
+Promotion decisions:
+
+- Keep `MLOPS_SOLUTION_ACCELRATOR` as the strongest public engineering case
+  study.
+- Keep `yashumani.github.io` as the public presentation layer for case studies
+  and working papers.
+- Treat the local AI workspace as private evidence reviewed: summarize at the
+  architecture level only until public README, test proof, demo media, and
+  security review are ready.
+- Treat the Discord workflow integration as supporting private evidence only
+  until public-safe documentation and tests exist.
+- Hold `french-accent-training` until before/after samples, evaluation notes,
+  and outcome evidence exist.
+- De-emphasize `Stocks_analysis`, `Wedding-countdown`, and `pavbhaji` for the
+  EB-1A public narrative because they are older, off-domain, or empty in their
+  current form.
+
 ## Safe placeholder metrics
 
 Use `TBD` for any metric that is not confirmed yet. Replace only after validation.
