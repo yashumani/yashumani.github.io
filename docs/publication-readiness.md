@@ -15,8 +15,8 @@ These are wired into the public site and can receive metrics/media upgrades:
 
 GitHub was reviewed with owner-authorized access on 2026-08-01. The website
 repository is accessible for push/admin operations. Public GitHub shows six
-public repositories; authenticated metadata also confirms private repositories
-used for petition planning and private engineering work.
+public repositories; authenticated metadata confirms six private repositories,
+for a current inventory of twelve.
 
 Promotion decisions:
 
@@ -29,6 +29,13 @@ Promotion decisions:
   security review are ready.
 - Treat the Discord workflow integration as supporting private evidence only
   until public-safe documentation and tests exist.
+- Treat the governed analytics platform and chatbot as one private supporting
+  architecture story. Direct validation passed 22 Python tests and both
+  frontend builds, but production identity, integrated deployment, and external
+  adoption remain pending.
+- Keep the local Gemini browser companion experimental and private until live
+  response extraction, documentation drift, and diagnostic-file hygiene are
+  resolved.
 - Hold `french-accent-training` until before/after samples, evaluation notes,
   and outcome evidence exist.
 - De-emphasize `Stocks_analysis`, `Wedding-countdown`, and `pavbhaji` for the

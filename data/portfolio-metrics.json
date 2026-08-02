@@ -126,6 +126,24 @@
         "notes": "Useful supporting integration signal; needs public-safe README, tests, and demo path before promotion."
       },
       {
+        "name": "private-governed-analytics-platform",
+        "role": "private_enterprise_analytics_evidence",
+        "publish_decision": "architecture_summary_only",
+        "notes": "FastAPI and React platform separates ingestion, governed knowledge, deterministic metrics, and consumer APIs. Direct review passed 13 Python tests, knowledge validation, insight precompute, and the frontend build; deployment and adoption remain unproven."
+      },
+      {
+        "name": "private-analytics-chatbot",
+        "role": "private_conversation_layer_evidence",
+        "publish_decision": "pair_with_platform_after_hardening",
+        "notes": "Separate gateway and React consumer encrypts sessions and enforces user ownership. Direct review passed 9 Python tests and the frontend build; production identity and integrated deployment proof remain pending."
+      },
+      {
+        "name": "private-gemini-browser-companion",
+        "role": "private_browser_automation_experiment",
+        "publish_decision": "hold_experimental",
+        "notes": "Localhost Playwright experiment with bounded safety rules. Lint and 3 tests pass, but live response extraction, documentation drift, and diagnostic-file hygiene remain unresolved."
+      },
+      {
         "name": "private-petition-workspace",
         "role": "private_petition_workspace",
         "publish_decision": "do_not_promote_as_portfolio_project",
