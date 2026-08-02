@@ -35,9 +35,25 @@ Promotion decisions:
   EB-1A public narrative because they are older, off-domain, or empty in their
   current form.
 
+## 2026-08-01 design and pending-state review
+
+- Completed the shared Apple-inspired editorial redesign across the homepage,
+  public case studies, and working-paper pages without adding new portfolio
+  claims.
+- Kept every unverified business metric pending. No workplace number was
+  inferred from the old resume or substituted from self-authored material.
+- Replaced raw `TBD` presentation labels with `Pending` or
+  `Pending verification` so incomplete items are clear without making the
+  public site look broken.
+- Kept the four existing roadmap items open: public-safe metrics,
+  execution-proof media, future catalog promotion gates, and GitHub cleanup.
+- Made visible content independent of scroll-triggered JavaScript so full-page
+  captures, crawlers, print, and no-JavaScript rendering do not appear blank.
+
 ## Safe placeholder metrics
 
-Use `TBD` for any metric that is not confirmed yet. Replace only after validation.
+Use `Pending verification` for any metric that is not confirmed yet. Replace
+only after validation.
 
 Recommended placeholders:
 
@@ -91,4 +107,4 @@ Better:
 - 457 candidate recipes
 - 18 reusable Azure ML components
 - 13 source adapters
-- TBD hours saved, pending validation
+- Pending verification: hours saved

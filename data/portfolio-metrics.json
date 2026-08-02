@@ -1,4 +1,15 @@
 {
+  "site_status": {
+    "reviewed_at": "2026-08-01",
+    "design_revision": "Apple-inspired editorial redesign",
+    "content_policy": "Existing portfolio content retained; unverified metrics remain explicitly pending.",
+    "pending_items": [
+      "Confirm public-safe business and experience metrics.",
+      "Add execution-proof media for both public case studies.",
+      "Keep private systems private until documentation, tests, demos, and security review are complete.",
+      "Clean or de-emphasize older public repositories that weaken the AI systems narrative."
+    ]
+  },
   "profile": {
     "name": "Yashu Sharma",
     "headline": "I build AI-powered systems, not AI-generated demos.",
@@ -6,21 +17,21 @@
     "metrics": [
       {
         "label": "Years of experience",
-        "value": "TBD",
+        "value": "Pending verification",
         "placeholder": true,
         "needs_confirmation": true,
         "notes": "Replace with confirmed number, for example 5+ yrs or 6+ yrs."
       },
       {
         "label": "Executive / BI workflows automated",
-        "value": "TBD",
+        "value": "Pending verification",
         "placeholder": true,
         "needs_confirmation": true,
         "notes": "Use only a public-safe count or wording. Avoid confidential internal names if needed."
       },
       {
         "label": "Estimated manual hours saved",
-        "value": "TBD",
+        "value": "Pending verification",
         "placeholder": true,
         "needs_confirmation": true,
         "notes": "Use a defensible weekly/monthly estimate only after validation."
@@ -36,9 +47,9 @@
   },
   "featured_metrics": [
     {
-      "value": "TBD",
+      "value": "Pending",
       "label": "Years analytics, BI, and automation experience",
-      "status": "placeholder"
+      "status": "pending_verification"
     },
     {
       "value": "200+",
@@ -135,7 +146,7 @@
       ],
       "impact_metrics": [
         {
-          "value": "TBD",
+          "value": "Pending verification",
           "label": "Research review time reduced",
           "placeholder": true,
           "notes": "Needs a before/after estimate before publishing as a real number."
@@ -165,7 +176,7 @@
       ],
       "impact_metrics": [
         {
-          "value": "TBD",
+          "value": "Pending verification",
           "label": "Manual model-selection effort reduced",
           "placeholder": true,
           "notes": "Needs a measured or estimated before/after baseline."

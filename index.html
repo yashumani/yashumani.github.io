@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -12,6 +12,8 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Yashu Sharma — AI &amp; Data Systems">
 <meta name="twitter:description" content="AI orchestration and MLOps systems built by Yashu Sharma.">
+<meta name="theme-color" content="#000000">
+<link rel="icon" href="assets/images/avatar.jpg" type="image/jpeg">
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/media.css">
 <script>
@@ -26,7 +28,7 @@
   <header class="site-header">
     <div class="wrap deck-nav-wrap">
       <a class="brand" href="index.html">Yashu Sharma</a>
-      <nav class="site-nav">
+      <nav class="site-nav" aria-label="Primary navigation">
         <a href="#systems">Systems</a>
         <a href="#evidence">Evidence</a>
         <a href="#impact">Impact</a>
@@ -45,11 +47,12 @@
   <main class="deck-wrap">
 
     <section class="profile-hero reveal" id="top">
-      <div>
+      <div class="hero-copy">
         <p class="eyebrow">Data scientist &middot; AI engineer &middot; MLOps &amp; agentic systems</p>
-        <h1>I build AI systems with the engineering discipline to back their claims.</h1>
+        <h1>Yashu Sharma</h1>
+        <p class="hero-thesis">I build AI systems with the engineering discipline to back their claims.</p>
         <p class="deck-lede">I'm Yashu Sharma, based in New Jersey. I design and build production-grade AI systems — the kind with real deployments, automated tests, and evidence-gated release discipline, not weekend prototypes.</p>
-        <div class="deck-actions" aria-label="Primary navigation">
+        <div class="deck-actions" role="group" aria-label="Featured links">
           <a href="#systems">View systems</a>
           <a href="#impact">See impact model</a>
           <a href="blogs/ai-powered-vs-ai-generated.html">Read the paper</a>
@@ -57,22 +60,24 @@
       </div>
       <aside class="profile-signal-card" aria-label="Current focus">
         <div class="avatar profile-avatar">
-          <img src="assets/images/avatar.jpg" alt="Yashu Sharma" width="130" height="130" loading="lazy" onerror="this.remove()">
+          <img src="assets/images/avatar.jpg" alt="Yashu Sharma" width="220" height="220" fetchpriority="high" onerror="this.remove()">
           <span aria-hidden="true">YS</span>
         </div>
-        <p class="slide-kicker">Current focus</p>
-        <ul class="signal-list">
-          <li><strong>MLOps architecture</strong><span>Azure ML, model tournaments, registry, evaluation.</span></li>
-          <li><strong>Agent orchestration</strong><span>Evidence graphs, hybrid retrieval, critique-gated publishing.</span></li>
-          <li><strong>Production discipline</strong><span>Automated tests, phased evidence-gated releases.</span></li>
-        </ul>
+        <div class="focus-copy">
+          <p class="slide-kicker">Current focus</p>
+          <ul class="signal-list">
+            <li><strong>MLOps architecture</strong><span>Azure ML, model tournaments, registry, evaluation.</span></li>
+            <li><strong>Agent orchestration</strong><span>Evidence graphs, hybrid retrieval, critique-gated publishing.</span></li>
+            <li><strong>Production discipline</strong><span>Automated tests, phased evidence-gated releases.</span></li>
+          </ul>
+        </div>
       </aside>
     </section>
 
     <section class="impact-strip reveal" aria-label="Portfolio metrics">
       <article class="metric-placeholder">
-        <strong>TBD</strong>
-        <span>Years analytics, BI, and automation experience. Replace after confirming exact number.</span>
+        <strong>Pending</strong>
+        <span>Years analytics, BI, and automation experience. Exact number awaiting confirmation.</span>
       </article>
       <article>
         <strong>200+</strong>
@@ -105,6 +110,9 @@
       <h2>Two systems, built end to end</h2>
       <div class="system-grid">
         <article class="system-card">
+          <figure class="system-visual" aria-hidden="true">
+            <img src="assets/diagrams/agentic-knowledge-runtime.svg" alt="" width="1200" height="720" loading="lazy">
+          </figure>
           <h3>Agentic Knowledge &amp; Research Runtime</h3>
           <p>A multi-agent platform that turns scattered source material — web pages, video, code repositories, research feeds — into cited, critique-reviewed research artifacts.</p>
           <ul class="proof-pills" aria-label="Agentic runtime proof metrics">
@@ -119,6 +127,9 @@
           </div>
         </article>
         <article class="system-card">
+          <figure class="system-visual" aria-hidden="true">
+            <img src="assets/diagrams/mlops-solution-accelerator.svg" alt="" width="1200" height="720" loading="lazy">
+          </figure>
           <h3>Automated ML Pipeline Platform</h3>
           <p>An Azure ML system that runs a three-phase model tournament to automatically find, tune, and register the best model for classification, regression, or clustering tasks.</p>
           <ul class="proof-pills" aria-label="MLOps platform proof metrics">
@@ -140,7 +151,7 @@
       <h2>Recent GitHub work, separated by proof strength</h2>
       <p class="section-lede">Reviewed on August 1, 2026 using owner-authorized GitHub access. The portfolio now separates public case studies from private systems that can support interviews or future exhibits after a public-safety pass.</p>
       <div class="evidence-grid">
-        <article class="evidence-card">
+        <article class="evidence-card" data-proof="public">
           <p class="evidence-label">Public and publishable</p>
           <h3>Visible case-study material</h3>
           <ul class="evidence-list">
@@ -148,7 +159,7 @@
             <li><strong>Portfolio site and working papers</strong><span>GitHub Pages repository now carries the case studies plus two July 2026 essays on AI-powered systems and neurodivergent AI architecture.</span></li>
           </ul>
         </article>
-        <article class="evidence-card">
+        <article class="evidence-card" data-proof="private">
           <p class="evidence-label">Private evidence reviewed</p>
           <h3>Strong technical signals, not public links yet</h3>
           <ul class="evidence-list">
@@ -156,7 +167,7 @@
             <li><strong>Discord workflow integration</strong><span>Private MCP integration work is useful as a supporting engineering signal, but needs public-safe documentation and tests before it becomes a portfolio case study.</span></li>
           </ul>
         </article>
-        <article class="evidence-card">
+        <article class="evidence-card" data-proof="hold">
           <p class="evidence-label">Hold back</p>
           <h3>Do not make these the EB-1A story</h3>
           <ul class="evidence-list">
@@ -184,8 +195,8 @@
           <span>Model-selection work is tracked through dataset, config, candidate, hyperparameter, and registry lineage.</span>
         </article>
         <article class="metric-placeholder">
-          <strong>TBD</strong>
-          <span>Business impact placeholders are ready for hours saved, stakeholders served, adoption, and workflow counts.</span>
+          <strong>Pending</strong>
+          <span>Business impact fields are ready for hours saved, stakeholders served, adoption, and workflow counts.</span>
         </article>
       </div>
       <p class="media-action-links reveal">
@@ -208,19 +219,19 @@
       <div class="slide-kicker">05 / Roadmap</div>
       <h2>What's next</h2>
       <div class="case-stack">
-        <article class="case-row">
+        <article class="case-row" data-status="Pending">
           <h3>Confirm public business metrics</h3>
-          <p>Replace the TBD placeholders for years of experience, workflows automated, hours saved, stakeholders served, and adoption once the numbers are confirmed and safe to publish.</p>
+          <p>Replace the pending verification labels for years of experience, workflows automated, hours saved, stakeholders served, and adoption once the numbers are confirmed and safe to publish.</p>
         </article>
-        <article class="case-row">
+        <article class="case-row" data-status="Pending">
           <h3>Execution-proof media</h3>
           <p>Add walkthrough videos, NotebookLM infographics, and screenshots to both case studies so the systems can be seen running, not just described.</p>
         </article>
-        <article class="case-row">
+        <article class="case-row" data-status="Pending">
           <h3>A growing catalog</h3>
           <p>Future project drafts stay private until documentation, testing, evidence, and security-readiness checks are complete.</p>
         </article>
-        <article class="case-row">
+        <article class="case-row" data-status="Pending">
           <h3>Public-safe GitHub cleanup</h3>
           <p>Keep older/off-domain repositories out of the EB-1A narrative, and promote private AI systems only after README, test, demo, and security review are ready for public inspection.</p>
         </article>
