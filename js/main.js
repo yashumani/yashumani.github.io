@@ -6,6 +6,7 @@
   var header = document.querySelector('.site-header');
   var filterButtons = Array.prototype.slice.call(document.querySelectorAll('[data-filter]'));
   var projectCards = Array.prototype.slice.call(document.querySelectorAll('[data-category]'));
+  var mainScriptUrl = document.currentScript && document.currentScript.src;
 
   function currentTheme() {
     return root.getAttribute('data-theme') || 'light';
@@ -95,4 +96,38 @@
   document.querySelectorAll('.reveal').forEach(function (node) {
     node.classList.add('in');
   });
+
+  function loadProjectFlowDiagrams() {
+    var projectSlugs = {
+      'mangrok-recipe-vault.html': true,
+      'where-it-happened.html': true,
+      'my-seventh-meal.html': true,
+      'mlops-solution-accelerator.html': true,
+      'agentic-knowledge-runtime.html': true
+    };
+    var slug = window.location.pathname.split('/').pop() || '';
+    if (!projectSlugs[slug]) return;
+
+    var assetRoot = mainScriptUrl
+      ? mainScriptUrl.replace(/js\/main\.js(?:\?.*)?$/, '')
+      : (window.location.pathname.indexOf('/projects/') !== -1 ? '../' : '');
+
+    if (!document.querySelector('link[data-project-flows]')) {
+      var stylesheet = document.createElement('link');
+      stylesheet.rel = 'stylesheet';
+      stylesheet.href = assetRoot + 'css/flow-diagrams.css';
+      stylesheet.setAttribute('data-project-flows', 'true');
+      document.head.appendChild(stylesheet);
+    }
+
+    if (!document.querySelector('script[data-project-flows]')) {
+      var script = document.createElement('script');
+      script.src = assetRoot + 'js/flow-diagrams.js';
+      script.async = true;
+      script.setAttribute('data-project-flows', 'true');
+      document.body.appendChild(script);
+    }
+  }
+
+  loadProjectFlowDiagrams();
 })();

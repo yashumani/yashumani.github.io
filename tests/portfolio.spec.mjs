@@ -12,6 +12,14 @@ const publicRoutes = [
   '/blogs/neurodivergent-ai-architect.html'
 ];
 
+const projectRoutes = [
+  '/projects/mangrok-recipe-vault.html',
+  '/projects/where-it-happened.html',
+  '/projects/my-seventh-meal.html',
+  '/projects/mlops-solution-accelerator.html',
+  '/projects/agentic-knowledge-runtime.html'
+];
+
 for (const route of publicRoutes) {
   test(`${route} loads with a stable document structure`, async ({ page }) => {
     const pageErrors = [];
@@ -30,6 +38,36 @@ for (const route of publicRoutes) {
       Math.max(0, document.documentElement.scrollWidth - document.documentElement.clientWidth)
     );
     expect(horizontalOverflow, `${route} has document-level horizontal overflow`).toBeLessThanOrEqual(2);
+  });
+}
+
+for (const route of projectRoutes) {
+  test(`${route} exposes an animated logic, code, and data flow`, async ({ page }) => {
+    await page.goto(route, { waitUntil: 'domcontentloaded' });
+
+    const diagram = page.locator('.flow-showcase');
+    await expect(diagram).toBeVisible({ timeout: 8_000 });
+    await diagram.scrollIntoViewIfNeeded();
+
+    await expect(diagram.locator('.flow-lane:not([hidden])')).toHaveCount(3);
+    await expect(diagram.getByRole('button', { name: 'Pause animation' })).toHaveAttribute('aria-pressed', 'false');
+
+    const firstActive = await diagram.locator('.flow-step.is-current h4').first().textContent();
+    await page.waitForTimeout(1_550);
+    const nextActive = await diagram.locator('.flow-step.is-current h4').first().textContent();
+    expect(nextActive).not.toBe(firstActive);
+
+    await diagram.getByRole('button', { name: 'Code flow' }).click();
+    await expect(diagram.locator('.flow-lane[data-flow-kind="code"]')).toBeVisible();
+    await expect(diagram.locator('.flow-lane:not([hidden])')).toHaveCount(1);
+
+    await diagram.getByRole('button', { name: 'Pause animation' }).click();
+    await expect(diagram.getByRole('button', { name: 'Play animation' })).toHaveAttribute('aria-pressed', 'true');
+
+    const horizontalOverflow = await page.evaluate(() =>
+      Math.max(0, document.documentElement.scrollWidth - document.documentElement.clientWidth)
+    );
+    expect(horizontalOverflow, `${route} flow diagram causes horizontal overflow`).toBeLessThanOrEqual(2);
   });
 }
 
@@ -111,6 +149,21 @@ test('attach full-page homepage screenshots for review', async ({ page }, testIn
     animations: 'disabled'
   });
   await testInfo.attach(`homepage-${testInfo.project.name}`, {
+    path: screenshotPath,
+    contentType: 'image/png'
+  });
+});
+
+test('attach Mangrok animated flow screenshot for review', async ({ page }, testInfo) => {
+  await page.goto('/projects/mangrok-recipe-vault.html', { waitUntil: 'domcontentloaded' });
+  const diagram = page.locator('.flow-showcase');
+  await expect(diagram).toBeVisible({ timeout: 8_000 });
+  await diagram.scrollIntoViewIfNeeded();
+  await diagram.getByRole('button', { name: 'Pause animation' }).click();
+
+  const screenshotPath = testInfo.outputPath('mangrok-flow.png');
+  await diagram.screenshot({ path: screenshotPath, animations: 'disabled' });
+  await testInfo.attach(`mangrok-flow-${testInfo.project.name}`, {
     path: screenshotPath,
     contentType: 'image/png'
   });
