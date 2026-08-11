@@ -1,0 +1,5 @@
+/* Compatibility corrections for the published split stylesheet. */
+.contact-links strong { overflow-wrap: anywhere; }
+@media (max-width: 700px) {
+  .process-list li { grid-template-columns: 42px minmax(0, 1fr); }
+}
