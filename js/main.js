@@ -61,6 +61,24 @@
     });
   }
 
+  var legacyRoutes = {
+    evidence: 'work',
+    impact: 'capabilities',
+    roadmap: 'about'
+  };
+
+  function resolveLegacyHash() {
+    var hash = window.location.hash.slice(1);
+    var targetId = legacyRoutes[hash];
+    if (!targetId || document.getElementById(hash)) return;
+
+    var target = document.getElementById(targetId);
+    if (target) target.scrollIntoView({ block: 'start' });
+  }
+
+  resolveLegacyHash();
+  window.addEventListener('hashchange', resolveLegacyHash);
+
   var currentYear = String(new Date().getFullYear());
   document.querySelectorAll('[data-current-year]').forEach(function (node) {
     node.textContent = currentYear;
