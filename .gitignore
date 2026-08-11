@@ -1,7 +1,12 @@
 # Local-only drafts and notes — never publish these publicly.
 # May contain unvetted content, internal audit language, or references
-# to projects that haven't had a public-safety pass yet.
+# to projects that have not had a public-safety pass yet.
 local-drafts/
 
 # Local editor/tool config, not part of the published site.
 .claude/
+
+# Local quality-check dependencies and artifacts.
+node_modules/
+playwright-report/
+test-results/

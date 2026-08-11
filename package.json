@@ -1,0 +1,19 @@
+{
+  "name": "yashumani-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static portfolio for product, data, and applied AI systems.",
+  "type": "module",
+  "scripts": {
+    "check:static": "node scripts/validate-site.mjs",
+    "check:syntax": "node --check js/main.js && node --check scripts/validate-site.mjs && node --check tests/portfolio.spec.mjs && node --check playwright.config.mjs",
+    "test:e2e": "playwright test",
+    "check": "npm run check:static && npm run check:syntax && npm run test:e2e"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.56.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
