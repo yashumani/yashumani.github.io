@@ -70,13 +70,21 @@
   function resolveLegacyHash() {
     var hash = window.location.hash.slice(1);
     var targetId = legacyRoutes[hash];
-    if (!targetId || document.getElementById(hash)) return;
+    if (!targetId) return;
 
     var target = document.getElementById(targetId);
-    if (target) target.scrollIntoView({ block: 'start' });
+    if (!target) return;
+
+    /* Bookmarked legacy routes should land immediately instead of animating
+       through several screens under the site's global smooth-scroll rule. */
+    var previousScrollBehavior = root.style.scrollBehavior;
+    root.style.scrollBehavior = 'auto';
+    target.scrollIntoView({ block: 'start' });
+    root.style.scrollBehavior = previousScrollBehavior;
   }
 
   resolveLegacyHash();
+  window.addEventListener('load', resolveLegacyHash, { once: true });
   window.addEventListener('hashchange', resolveLegacyHash);
 
   var currentYear = String(new Date().getFullYear());

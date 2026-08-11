@@ -1,5 +1,46 @@
 /* Compatibility corrections for the published split stylesheet. */
-.contact-links strong { overflow-wrap: anywhere; }
+.contact-links strong {
+  overflow-wrap: anywhere;
+}
+
+/* Legacy essays contain wide comparison tables. Keep their intrinsic table
+   width available while containing horizontal scrolling inside the article. */
+.blog-article {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.blog-article table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+  -webkit-overflow-scrolling: touch;
+}
+
+.blog-article th,
+.blog-article td {
+  min-width: 10rem;
+}
+
 @media (max-width: 700px) {
-  .process-list li { grid-template-columns: 42px minmax(0, 1fr); }
+  .process-list li {
+    grid-template-columns: 42px minmax(0, 1fr);
+  }
+
+  .site-header .wrap,
+  .nav-shell,
+  .case-study-wrap {
+    min-width: 0;
+  }
+
+  .site-nav {
+    flex: 1 1 0;
+    max-width: 100%;
+  }
+
+  .blog-article > h1 {
+    overflow-wrap: anywhere;
+  }
 }
