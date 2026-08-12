@@ -1,0 +1,24 @@
+/* Final presentation safeguards: motion enhances content but never conceals it. */
+.reveal.reveal-pending {
+  opacity: 1;
+  transform: translateY(14px);
+  filter: none;
+  will-change: transform;
+}
+
+.flow-showcase {
+  scroll-margin-top: calc(var(--header-height, 66px) + 18px);
+}
+
+@media (max-width: 600px) {
+  .architecture-node strong {
+    font-size: 0.75rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal.reveal-pending {
+    transform: none;
+    will-change: auto;
+  }
+}
