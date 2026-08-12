@@ -97,6 +97,14 @@ test('Mangrok case study reflects the current Alchemy scope', async ({ page }) =
   await expect(diagram.getByText('Alchemy Lab interface', { exact: true })).toBeVisible();
 });
 
+test('below-fold content remains readable before scrolling', async ({ page }) => {
+  await page.goto('/', { waitUntil: 'domcontentloaded' });
+  const entry = page.locator('#writing .writing-entry').first();
+  await expect(entry).toHaveCount(1);
+  const opacity = await entry.evaluate(node => Number.parseFloat(getComputedStyle(node).opacity));
+  expect(opacity).toBe(1);
+});
+
 test('scroll reveal, theme persistence, legacy hashes, and landmarks remain intact', async ({ page }) => {
   await page.goto('/');
   const writing = page.locator('#writing');
@@ -133,6 +141,8 @@ test('attach homepage, paper index, and Mangrok screenshots', async ({ page }, t
       await target.scrollIntoViewIfNeeded();
       const pause = target.getByRole('button', { name: 'Pause animation' });
       if (await pause.count()) await pause.click();
+      const stickyHeader = page.locator('.site-header');
+      if (await stickyHeader.count()) await stickyHeader.evaluate(node => { node.style.display = 'none'; });
       await target.screenshot({ path, animations: 'disabled' });
     } else {
       await page.screenshot({ path, fullPage: true, animations: 'disabled' });
