@@ -42,24 +42,31 @@ for (const route of publicRoutes) {
 }
 
 for (const route of projectRoutes) {
-  test(`${route} exposes an animated logic, code, and data flow`, async ({ page }) => {
+  test(`${route} exposes system architecture and animated logic, code, and data flows`, async ({ page }) => {
     await page.goto(route, { waitUntil: 'domcontentloaded' });
 
     const diagram = page.locator('.flow-showcase');
     await expect(diagram).toBeVisible({ timeout: 8_000 });
     await diagram.scrollIntoViewIfNeeded();
 
+    await expect(diagram.locator('.architecture-overview')).toBeVisible();
+    await expect(diagram.locator('.architecture-stage')).toHaveCount(4);
+    await expect(diagram.locator('.architecture-node')).toHaveCount(16);
     await expect(diagram.locator('.flow-lane:not([hidden])')).toHaveCount(3);
     await expect(diagram.getByRole('button', { name: 'Pause animation' })).toHaveAttribute('aria-pressed', 'false');
 
-    const firstActive = await diagram.locator('.flow-step.is-current h4').first().textContent();
+    const firstFlowStep = await diagram.locator('.flow-step.is-current h4').first().textContent();
+    const firstArchitectureStage = await diagram.locator('.architecture-stage.is-current h3').first().textContent();
     await page.waitForTimeout(1_550);
-    const nextActive = await diagram.locator('.flow-step.is-current h4').first().textContent();
-    expect(nextActive).not.toBe(firstActive);
+    const nextFlowStep = await diagram.locator('.flow-step.is-current h4').first().textContent();
+    const nextArchitectureStage = await diagram.locator('.architecture-stage.is-current h3').first().textContent();
+    expect(nextFlowStep).not.toBe(firstFlowStep);
+    expect(nextArchitectureStage).not.toBe(firstArchitectureStage);
 
     await diagram.getByRole('button', { name: 'Code flow' }).click();
     await expect(diagram.locator('.flow-lane[data-flow-kind="code"]')).toBeVisible();
     await expect(diagram.locator('.flow-lane:not([hidden])')).toHaveCount(1);
+    await expect(diagram.locator('.architecture-stage')).toHaveCount(4);
 
     await diagram.getByRole('button', { name: 'Pause animation' }).click();
     await expect(diagram.getByRole('button', { name: 'Play animation' })).toHaveAttribute('aria-pressed', 'true');
@@ -67,33 +74,52 @@ for (const route of projectRoutes) {
     const horizontalOverflow = await page.evaluate(() =>
       Math.max(0, document.documentElement.scrollWidth - document.documentElement.clientWidth)
     );
-    expect(horizontalOverflow, `${route} flow diagram causes horizontal overflow`).toBeLessThanOrEqual(2);
+    expect(horizontalOverflow, `${route} architecture diagram causes horizontal overflow`).toBeLessThanOrEqual(2);
   });
 }
 
-test('homepage communicates implementation state without conflating maturity', async ({ page }) => {
+test('homepage uses profile-level metrics and keeps project titles primary', async ({ page }) => {
   await page.goto('/');
 
   await expect(page.getByRole('heading', { level: 1 })).toContainText('data, AI, and trust');
-  await expect(page.getByText('Source complete', { exact: true })).toBeVisible();
-  await expect(page.getByText('Live storefront', { exact: true })).toBeVisible();
-  await expect(page.getByText('Architecture & validation', { exact: true })).toBeVisible();
-  await expect(page.locator('[data-category]:not([hidden])')).toHaveCount(5);
+  await expect(page.locator('.profile-metrics article')).toHaveCount(4);
+  await expect(page.getByText('showcased systems', { exact: true })).toBeVisible();
+  await expect(page.getByText('technologies represented', { exact: true })).toBeVisible();
+  await expect(page.getByText('core disciplines', { exact: true })).toBeVisible();
+  await expect(page.getByText('published working papers', { exact: true })).toBeVisible();
+
+  await expect(page.locator('.work-entry')).toHaveCount(5);
+  for (const title of [
+    'Mangrok Recipe Vault',
+    'Where It Happened',
+    'My Seventh Meal',
+    'Automated ML Pipeline Platform',
+    'Agentic Knowledge & Research Runtime'
+  ]) {
+    await expect(page.getByRole('heading', { name: title, exact: true })).toBeVisible();
+  }
+
+  await expect(page.getByText('457', { exact: true })).toHaveCount(0);
+  await expect(page.getByText('200+', { exact: true })).toHaveCount(0);
+  await expect(page.locator('.filter-bar')).toHaveCount(0);
 });
 
-test('project filters expose the intended project groups', async ({ page }) => {
+test('homepage exposes organized skill groups without hiding content', async ({ page }) => {
   await page.goto('/');
+  await expect(page.locator('.skill-group')).toHaveCount(4);
+  await expect(page.locator('.work-entry[hidden]')).toHaveCount(0);
+  await expect(page.getByText('Product & experience', { exact: true })).toBeVisible();
+  await expect(page.getByText('Data & backend', { exact: true })).toBeVisible();
+  await expect(page.getByText('Applied AI & ML', { exact: true })).toBeVisible();
+  await expect(page.getByText('Trust, quality & orchestration', { exact: true })).toBeVisible();
+});
 
-  await page.getByRole('button', { name: 'AI & ML platforms' }).click();
-  await expect(page.locator('[data-category~="platform"]:not([hidden])')).toHaveCount(2);
-  await expect(page.locator('[data-category~="product"]:not([hidden])')).toHaveCount(0);
-
-  await page.getByRole('button', { name: 'Product apps' }).click();
-  await expect(page.locator('[data-category~="product"]:not([hidden])')).toHaveCount(3);
-  await expect(page.locator('[data-category~="platform"]:not([hidden])')).toHaveCount(0);
-
-  await page.getByRole('button', { name: 'All work' }).click();
-  await expect(page.locator('[data-category]:not([hidden])')).toHaveCount(5);
+test('scroll reveal enhancement resolves content as it enters the viewport', async ({ page }) => {
+  await page.goto('/');
+  const writing = page.locator('#writing');
+  await writing.scrollIntoViewIfNeeded();
+  await expect(writing.locator('.writing-entry').first()).toBeVisible();
+  await expect(writing.locator('.writing-entry').first()).toHaveClass(/in/);
 });
 
 test('theme choice persists across reloads', async ({ page }) => {
@@ -129,12 +155,10 @@ test('homepage provides keyboard and landmark fundamentals', async ({ page }) =>
   await expect(page.getByRole('navigation', { name: 'Primary navigation' })).toBeVisible();
 
   const unnamedButtons = await page.locator('button').evaluateAll((buttons) =>
-    buttons
-      .filter((button) => {
-        const label = button.getAttribute('aria-label') || button.textContent || '';
-        return !label.trim();
-      })
-      .length
+    buttons.filter((button) => {
+      const label = button.getAttribute('aria-label') || button.textContent || '';
+      return !label.trim();
+    }).length
   );
   expect(unnamedButtons).toBe(0);
 });
@@ -154,16 +178,16 @@ test('attach full-page homepage screenshots for review', async ({ page }, testIn
   });
 });
 
-test('attach Mangrok animated flow screenshot for review', async ({ page }, testInfo) => {
+test('attach Mangrok architecture and animated flow screenshot for review', async ({ page }, testInfo) => {
   await page.goto('/projects/mangrok-recipe-vault.html', { waitUntil: 'domcontentloaded' });
   const diagram = page.locator('.flow-showcase');
   await expect(diagram).toBeVisible({ timeout: 8_000 });
   await diagram.scrollIntoViewIfNeeded();
   await diagram.getByRole('button', { name: 'Pause animation' }).click();
 
-  const screenshotPath = testInfo.outputPath('mangrok-flow.png');
+  const screenshotPath = testInfo.outputPath('mangrok-architecture-flow.png');
   await diagram.screenshot({ path: screenshotPath, animations: 'disabled' });
-  await testInfo.attach(`mangrok-flow-${testInfo.project.name}`, {
+  await testInfo.attach(`mangrok-architecture-flow-${testInfo.project.name}`, {
     path: screenshotPath,
     contentType: 'image/png'
   });

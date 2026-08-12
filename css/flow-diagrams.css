@@ -1,4 +1,4 @@
-/* Animated project flow diagrams */
+/* Animated project architecture and flow diagrams */
 .flow-showcase {
   --flow-accent: var(--accent, #6657f2);
   margin: 72px 0;
@@ -15,7 +15,7 @@
 .flow-showcase > header {
   display: grid;
   gap: 12px;
-  margin-bottom: 22px;
+  margin-bottom: 28px;
 }
 
 .flow-kicker {
@@ -35,17 +35,273 @@
 }
 
 .flow-showcase h2 {
-  max-width: 900px;
+  max-width: 940px;
   margin-bottom: 0;
   font-size: clamp(2rem, 4vw, 3.4rem);
 }
 
 .flow-copy {
-  max-width: 76ch;
+  max-width: 78ch;
   margin: 0;
   color: var(--text-soft, #3c3f45);
 }
 
+.flow-live-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--text-muted, #696d74);
+  font-family: var(--font-mono, ui-monospace, monospace);
+  font-size: 0.68rem;
+}
+
+.flow-live-status::before {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--mint, #0f9f8f);
+  box-shadow: 0 0 0 0 color-mix(in srgb, var(--mint, #0f9f8f) 40%, transparent);
+  content: "";
+}
+
+.flow-showcase.is-running .flow-live-status::before {
+  animation: flowStatusPulse 1.8s ease-out infinite;
+}
+
+/* Architecture map */
+.architecture-overview {
+  margin: 0 0 42px;
+  padding: 24px;
+  border: 1px solid var(--line, #d4d6cf);
+  border-radius: 17px;
+  background: color-mix(in srgb, var(--surface-alt, #ebece6) 48%, var(--surface, #fff));
+}
+
+.architecture-heading {
+  display: flex;
+  margin-bottom: 22px;
+  align-items: end;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.architecture-heading h3,
+.flow-execution-heading h3 {
+  margin-bottom: 0;
+  font-size: clamp(1.55rem, 3vw, 2.2rem);
+}
+
+.architecture-legend {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+.architecture-legend-item {
+  position: relative;
+  padding: 5px 8px 5px 20px;
+  border: 1px solid var(--line, #d4d6cf);
+  border-radius: 999px;
+  background: var(--surface, #fff);
+  color: var(--text-muted, #696d74);
+  font-size: 0.65rem;
+  white-space: nowrap;
+}
+
+.architecture-legend-item::before {
+  position: absolute;
+  top: 50%;
+  left: 8px;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--node-color, #7a63ff);
+  content: "";
+  transform: translateY(-50%);
+}
+
+.architecture-legend-item--client { --node-color: #7a63ff; }
+.architecture-legend-item--service { --node-color: #1299a8; }
+.architecture-legend-item--data { --node-color: #c27616; }
+.architecture-legend-item--external { --node-color: #c34f6f; }
+
+.architecture-track {
+  display: grid;
+  grid-template-columns:
+    minmax(0, 1fr) 42px
+    minmax(0, 1fr) 42px
+    minmax(0, 1fr) 42px
+    minmax(0, 1fr);
+  align-items: stretch;
+}
+
+.architecture-stage {
+  position: relative;
+  min-width: 0;
+  padding: 18px;
+  border: 1px solid var(--line, #d4d6cf);
+  border-radius: 14px;
+  background: var(--surface, #fff);
+  transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+}
+
+.architecture-stage.is-current {
+  border-color: var(--flow-accent);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--flow-accent) 14%, transparent);
+  transform: translateY(-2px);
+}
+
+.architecture-stage-head {
+  display: flex;
+  margin-bottom: 14px;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.architecture-stage-index {
+  display: grid;
+  flex: 0 0 28px;
+  width: 28px;
+  height: 28px;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--accent-soft, #ece9ff);
+  color: var(--flow-accent);
+  font-family: var(--font-mono, ui-monospace, monospace);
+  font-size: 0.67rem;
+  font-weight: 700;
+}
+
+.architecture-stage-badge {
+  margin: 1px 0 4px;
+  color: var(--text-muted, #696d74);
+  font-family: var(--font-mono, ui-monospace, monospace);
+  font-size: 0.59rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.architecture-stage h3 {
+  margin-bottom: 0;
+  font-size: 1.04rem;
+  letter-spacing: -0.025em;
+}
+
+.architecture-node-list {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  gap: 8px;
+  list-style: none;
+}
+
+.architecture-node {
+  --node-color: #1299a8;
+  display: flex;
+  min-width: 0;
+  padding: 9px 10px;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid color-mix(in srgb, var(--node-color) 30%, var(--line, #d4d6cf));
+  border-radius: 9px;
+  background: color-mix(in srgb, var(--node-color) 7%, var(--surface, #fff));
+}
+
+.architecture-node--client { --node-color: #7a63ff; }
+.architecture-node--service { --node-color: #1299a8; }
+.architecture-node--data { --node-color: #c27616; }
+.architecture-node--external {
+  --node-color: #c34f6f;
+  border-style: dashed;
+}
+
+.architecture-node-dot {
+  flex: 0 0 7px;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--node-color);
+}
+
+.architecture-node strong {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  color: var(--text-soft, #3c3f45);
+  font-size: 0.72rem;
+  line-height: 1.35;
+}
+
+.architecture-stage-note {
+  margin: 14px 0 0;
+  padding-top: 12px;
+  border-top: 1px solid var(--line, #d4d6cf);
+  color: var(--text-muted, #696d74);
+  font-size: 0.7rem;
+  line-height: 1.45;
+}
+
+.architecture-connector {
+  position: relative;
+  display: grid;
+  min-width: 0;
+  place-items: center;
+  overflow: hidden;
+}
+
+.architecture-connector-line {
+  width: calc(100% - 8px);
+  height: 1px;
+  background: repeating-linear-gradient(90deg, var(--line-strong, #aeb2aa) 0 6px, transparent 6px 11px);
+}
+
+.architecture-connector::after {
+  position: absolute;
+  right: 2px;
+  top: 50%;
+  color: var(--flow-accent);
+  content: "›";
+  font-size: 1.35rem;
+  transform: translateY(-54%);
+}
+
+.architecture-packet {
+  position: absolute;
+  top: 50%;
+  left: 3px;
+  width: 9px;
+  height: 9px;
+  border: 2px solid var(--surface, #fff);
+  border-radius: 50%;
+  background: var(--flow-accent);
+  box-shadow: 0 0 0 4px color-mix(in srgb, var(--flow-accent) 13%, transparent);
+  transform: translateY(-50%);
+}
+
+.flow-showcase.is-running .architecture-packet {
+  animation: architecturePacket 4.8s linear infinite;
+}
+
+.architecture-connector:nth-of-type(2) .architecture-packet { animation-delay: -1.6s; }
+.architecture-connector:nth-of-type(4) .architecture-packet { animation-delay: -3.2s; }
+
+.flow-execution-heading {
+  display: grid;
+  margin: 0 0 16px;
+  grid-template-columns: minmax(0, 1fr) minmax(260px, 0.58fr);
+  align-items: end;
+  gap: 30px;
+}
+
+.flow-execution-heading > p {
+  margin: 0 0 3px;
+  color: var(--text-muted, #696d74);
+  font-size: 0.78rem;
+  line-height: 1.48;
+}
+
+/* Execution flow */
 .flow-toolbar {
   display: flex;
   flex-wrap: wrap;
@@ -105,9 +361,7 @@
 .flow-lane[data-flow-kind="code"] { --lane-accent: #1299a8; }
 .flow-lane[data-flow-kind="data"] { --lane-accent: #c27616; }
 
-.flow-lane[hidden] {
-  display: none !important;
-}
+.flow-lane[hidden] { display: none !important; }
 
 .flow-lane::before {
   position: absolute;
@@ -236,11 +490,20 @@
   font-size: 0.67rem;
 }
 
+.flow-summary-heading {
+  margin: 22px 0 10px;
+  color: var(--text-muted, #696d74);
+  font-family: var(--font-mono, ui-monospace, monospace);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
 .flow-summary {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 12px;
-  margin-top: 18px;
 }
 
 .flow-summary article {
@@ -265,26 +528,9 @@
   font-size: 0.94rem;
 }
 
-.flow-live-status {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  color: var(--text-muted, #696d74);
-  font-family: var(--font-mono, ui-monospace, monospace);
-  font-size: 0.68rem;
-}
-
-.flow-live-status::before {
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  background: var(--mint, #0f9f8f);
-  box-shadow: 0 0 0 0 color-mix(in srgb, var(--mint, #0f9f8f) 40%, transparent);
-  content: "";
-}
-
-.flow-showcase.is-running .flow-live-status::before {
-  animation: flowStatusPulse 1.8s ease-out infinite;
+@keyframes architecturePacket {
+  from { left: 3px; }
+  to { left: calc(100% - 12px); }
 }
 
 @keyframes flowTravel {
@@ -297,15 +543,73 @@
   75%, 100% { box-shadow: 0 0 0 10px transparent; }
 }
 
+@media (max-width: 1120px) {
+  .architecture-track {
+    grid-template-columns:
+      minmax(0, 1fr) 32px
+      minmax(0, 1fr) 32px
+      minmax(0, 1fr) 32px
+      minmax(0, 1fr);
+  }
+
+  .architecture-stage {
+    padding: 15px;
+  }
+}
+
 @media (max-width: 980px) {
   .flow-grid,
-  .flow-summary {
+  .flow-summary,
+  .flow-execution-heading {
     grid-template-columns: 1fr;
   }
 
-  .flow-play-toggle {
-    margin-left: 0;
+  .flow-play-toggle { margin-left: 0; }
+
+  .architecture-heading {
+    align-items: flex-start;
+    flex-direction: column;
   }
+
+  .architecture-legend { justify-content: flex-start; }
+
+  .architecture-track {
+    grid-template-columns: 1fr;
+  }
+
+  .architecture-connector {
+    min-height: 40px;
+  }
+
+  .architecture-connector-line {
+    width: 1px;
+    height: 32px;
+    background: repeating-linear-gradient(180deg, var(--line-strong, #aeb2aa) 0 6px, transparent 6px 11px);
+  }
+
+  .architecture-connector::after {
+    right: auto;
+    top: auto;
+    bottom: -2px;
+    left: 50%;
+    content: "⌄";
+    transform: translateX(-50%);
+  }
+
+  .architecture-packet {
+    top: 3px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .flow-showcase.is-running .architecture-packet {
+    animation-name: architecturePacketVertical;
+  }
+}
+
+@keyframes architecturePacketVertical {
+  from { top: 3px; }
+  to { top: calc(100% - 12px); }
 }
 
 @media (max-width: 600px) {
@@ -313,6 +617,10 @@
     margin: 54px 0;
     padding: 18px;
     border-radius: 16px;
+  }
+
+  .architecture-overview {
+    padding: 17px;
   }
 
   .flow-toolbar {
@@ -330,11 +638,13 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
+  .architecture-packet,
   .flow-track::after,
   .flow-live-status::before {
     animation: none !important;
   }
 
+  .architecture-stage,
   .flow-step {
     transform: none !important;
   }
@@ -342,11 +652,20 @@
 
 @media print {
   .flow-toolbar,
-  .flow-live-status {
+  .flow-live-status,
+  .architecture-connector {
     display: none !important;
   }
 
+  .architecture-track {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+
   .flow-showcase,
+  .architecture-overview,
+  .architecture-stage,
   .flow-lane,
   .flow-step,
   .flow-summary article {
