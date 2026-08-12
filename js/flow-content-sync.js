@@ -20,7 +20,8 @@
     stages.forEach(function (stage, index) {
       var data = stageData[index];
       if (!data) return;
-      setText(stage.querySelector('.architecture-stage-kicker, .architecture-stage-head span'), data[0]);
+      /* Keep the architecture runtime's existing stage badge. Rewriting a generic
+         stage-head span can duplicate the label over the title on narrow layouts. */
       setText(stage.querySelector('h3'), data[1]);
       stage.querySelectorAll('.architecture-node').forEach(function (node, nodeIndex) {
         var strong = node.querySelector('strong') || node;
