@@ -4,13 +4,57 @@
   var projectConfigs = {
     'mangrok-recipe-vault.html': {
       id: 'mangrok',
-      title: 'Mangrok Recipe Vault — live architecture flow',
-      copy: 'Follow how recipe capture, client-side secrecy, collaboration, printing, and human-reviewed inheritance move through the product.',
+      title: 'Mangrok Recipe Vault — system architecture and live flow',
+      copy: 'The architecture view shows where experience, trust, storage, and operations live. The execution lanes then trace user logic, runtime code, and data movement through the same system.',
+      architecture: [
+        {
+          badge: 'Experience layer',
+          title: 'Capture and offline use',
+          note: 'The product remains useful in device-only mode before cloud activation.',
+          nodes: [
+            ['Progressive web app', 'client'],
+            ['Service worker', 'client'],
+            ['IndexedDB vault', 'data'],
+            ['Recipe and media UI', 'client']
+          ]
+        },
+        {
+          badge: 'Trust and access',
+          title: 'Protect identity and secrets',
+          note: 'Sensitive notes cross the encryption boundary before durable persistence.',
+          nodes: [
+            ['Web Crypto', 'service'],
+            ['PBKDF2 key derivation', 'service'],
+            ['Supabase Auth', 'service'],
+            ['PostgreSQL RLS', 'service']
+          ]
+        },
+        {
+          badge: 'Canonical data',
+          title: 'Persist governed records',
+          note: 'Metadata, sealed notes, versions, and private files remain separated by sensitivity.',
+          nodes: [
+            ['Recipe records', 'data'],
+            ['Encrypted note payloads', 'data'],
+            ['Private object storage', 'data'],
+            ['Version and audit history', 'data']
+          ]
+        },
+        {
+          badge: 'Operations',
+          title: 'Print and legacy controls',
+          note: 'External operations are explicit release gates rather than simulated capabilities.',
+          nodes: [
+            ['Edge Functions', 'service'],
+            ['Print-provider adapter', 'external'],
+            ['Export and deletion', 'service'],
+            ['Human legacy review', 'external']
+          ]
+        }
+      ],
       lanes: [
         {
-          kind: 'logic',
-          title: 'Logic flow',
-          badge: 'User journey',
+          kind: 'logic', title: 'Logic flow', badge: 'User journey',
           steps: [
             ['Capture recipe', 'A user adds recipe content, story, media, and a visibility class.', 'Create → classify → enrich'],
             ['Protect secrets', 'Sensitive notes are sealed before durable storage and separated from general metadata.', 'Secret notes ≠ public fields'],
@@ -21,9 +65,7 @@
           ]
         },
         {
-          kind: 'code',
-          title: 'Code flow',
-          badge: 'Runtime path',
+          kind: 'code', title: 'Code flow', badge: 'Runtime path',
           steps: [
             ['PWA shell boots', 'The offline-capable client resolves local data and authenticated session state.', 'Service worker + IndexedDB'],
             ['Crypto boundary executes', 'Web Crypto derives a key and encrypts secret fields before persistence.', 'PBKDF2 → AES-256-GCM'],
@@ -33,9 +75,7 @@
           ]
         },
         {
-          kind: 'data',
-          title: 'Data flow',
-          badge: 'Storage path',
+          kind: 'data', title: 'Data flow', badge: 'Storage path',
           steps: [
             ['Form input', 'Recipe, ingredients, instructions, story, access class, and attachments enter the model.'],
             ['Split data plane', 'General metadata, encrypted notes, and binary media are separated by sensitivity and storage needs.'],
@@ -46,19 +86,64 @@
       ],
       summary: [
         ['Trust boundary', 'Client-side encryption before storage'],
-        ['Core systems', 'PWA, Web Crypto, Supabase and PostgreSQL'],
-        ['Release gate', 'Human review before legacy release']
+        ['Authorization boundary', 'RLS and scoped sharing decide access'],
+        ['Release boundary', 'Human review before legacy release']
       ]
     },
+
     'where-it-happened.html': {
       id: 'where-it-happened',
-      title: 'Where It Happened — live architecture flow',
-      copy: 'See how a place becomes a styled memory map, shareable design state, exportable artifact, and honest checkout handoff.',
+      title: 'Where It Happened — system architecture and live flow',
+      copy: 'The architecture separates the static storefront, map and state engine, browser-owned design data, and external commerce handoff before tracing each execution path.',
+      architecture: [
+        {
+          badge: 'Experience layer',
+          title: 'Editorial storefront and creator',
+          note: 'The first screen stays lightweight; the heavier studio arrives only when useful.',
+          nodes: [
+            ['Static landing page', 'client'],
+            ['Seven-step studio', 'client'],
+            ['Story presets', 'client'],
+            ['Responsive product UI', 'client']
+          ]
+        },
+        {
+          badge: 'Mapping and state',
+          title: 'Render the memory map',
+          note: 'A single design object coordinates controls, map state, poster layout, and sharing.',
+          nodes: [
+            ['MapLibre runtime', 'service'],
+            ['OpenFreeMap styles', 'external'],
+            ['Place-search adapter', 'service'],
+            ['Design state engine', 'service']
+          ]
+        },
+        {
+          badge: 'Client data plane',
+          title: 'Persist and export design state',
+          note: 'The static MVP avoids a customer database and keeps drafts transparent to the user.',
+          nodes: [
+            ['URL hash state', 'data'],
+            ['Local draft storage', 'data'],
+            ['Cart snapshots', 'data'],
+            ['PNG and PDF renderer', 'service']
+          ]
+        },
+        {
+          badge: 'Commerce boundary',
+          title: 'Handoff without false payment claims',
+          note: 'The site either reaches a configured provider or clearly falls back to an order request.',
+          nodes: [
+            ['Product catalogue', 'data'],
+            ['Hosted-checkout adapter', 'service'],
+            ['Payhip or provider', 'external'],
+            ['Manual fulfilment', 'external']
+          ]
+        }
+      ],
       lanes: [
         {
-          kind: 'logic',
-          title: 'Logic flow',
-          badge: 'Creator journey',
+          kind: 'logic', title: 'Logic flow', badge: 'Creator journey',
           steps: [
             ['Choose place', 'The user selects a city, landmark, geolocation, or exact coordinates.'],
             ['Style memory', 'Map mood, story preset, layout, caption, and output format shape the poster.'],
@@ -68,9 +153,7 @@
           ]
         },
         {
-          kind: 'code',
-          title: 'Code flow',
-          badge: 'Front-end runtime',
+          kind: 'code', title: 'Code flow', badge: 'Front-end runtime',
           steps: [
             ['Static shell loads', 'GitHub Pages serves the core UI before the heavier map runtime is requested.', 'HTML/CSS/JS → lazy map boot'],
             ['Map engine resolves', 'MapLibre initializes the map with OpenFreeMap vector styles and active theme layers.', 'MapLibre + vector tiles'],
@@ -80,9 +163,7 @@
           ]
         },
         {
-          kind: 'data',
-          title: 'Data flow',
-          badge: 'Design state',
+          kind: 'data', title: 'Data flow', badge: 'Design state',
           steps: [
             ['Place data arrives', 'Preset data, search results, geolocation, or manual coordinates form the geographic anchor.'],
             ['Design payload forms', 'Color mood, labels, layout, crop, zoom, marker state, and text become a serializable object.'],
@@ -92,20 +173,65 @@
         }
       ],
       summary: [
-        ['Rendering core', 'MapLibre, OpenFreeMap, and the poster DOM'],
-        ['State strategy', 'URL hash, local draft, and cart snapshot'],
-        ['Commerce rule', 'Real checkout or explicit fallback only']
+        ['Performance boundary', 'Map runtime and studio load only when useful'],
+        ['State boundary', 'URL hash, local draft, and cart snapshot'],
+        ['Commerce boundary', 'Real checkout or explicit fallback only']
       ]
     },
+
     'my-seventh-meal.html': {
       id: 'my-seventh-meal',
-      title: 'My Seventh Meal — live architecture flow',
-      copy: 'The flow makes the truth boundary explicit: AI proposes, the user confirms, and deterministic nutrition logic performs the final calculation.',
+      title: 'My Seventh Meal — system architecture and live flow',
+      copy: 'The architecture makes the truth boundary explicit: perception, clarification, structured mapping, deterministic calculation, and personal memory remain separate services.',
+      architecture: [
+        {
+          badge: 'Mobile experience',
+          title: 'Capture and confirmation',
+          note: 'The client collects evidence and confirmation; it does not calculate nutrition itself.',
+          nodes: [
+            ['React Native / Expo', 'client'],
+            ['Camera and upload', 'client'],
+            ['Clarification UI', 'client'],
+            ['Daily and weekly views', 'client']
+          ]
+        },
+        {
+          badge: 'Application services',
+          title: 'Orchestrate analysis',
+          note: 'Provider abstraction keeps model selection and cost routing outside the mobile client.',
+          nodes: [
+            ['FastAPI boundary', 'service'],
+            ['Multimodal router', 'service'],
+            ['Question policy', 'service'],
+            ['Structured-output validator', 'service']
+          ]
+        },
+        {
+          badge: 'Truth services',
+          title: 'Map and calculate',
+          note: 'AI output becomes a candidate input; deterministic data produces the final result.',
+          nodes: [
+            ['South Asian food ontology', 'data'],
+            ['Recipe and portion mapper', 'service'],
+            ['Nutrition engine', 'service'],
+            ['USDA-aligned references', 'external']
+          ]
+        },
+        {
+          badge: 'Data and operations',
+          title: 'Persist, learn, and govern',
+          note: 'Personal corrections improve reuse while privacy, entitlement, and quality remain auditable.',
+          nodes: [
+            ['PostgreSQL / Supabase', 'data'],
+            ['Signed photo storage', 'data'],
+            ['Household meal memory', 'data'],
+            ['RevenueCat and health APIs', 'external']
+          ]
+        }
+      ],
       lanes: [
         {
-          kind: 'logic',
-          title: 'Logic flow',
-          badge: 'Decision chain',
+          kind: 'logic', title: 'Logic flow', badge: 'Decision chain',
           steps: [
             ['Capture meal', 'The user photographs a plate or enters the meal manually.'],
             ['Generate candidates', 'A multimodal model proposes one to three plausible dishes or components.'],
@@ -116,9 +242,7 @@
           ]
         },
         {
-          kind: 'code',
-          title: 'Code flow',
-          badge: 'Service path',
+          kind: 'code', title: 'Code flow', badge: 'Service path',
           steps: [
             ['Mobile client submits', 'The React Native client uploads a photo or manual meal object to the API.', 'Expo client → FastAPI'],
             ['Inference adapter runs', 'A provider-abstracted multimodal service returns candidates and uncertainty signals.', 'Image → candidate list'],
@@ -128,9 +252,7 @@
           ]
         },
         {
-          kind: 'data',
-          title: 'Data flow',
-          badge: 'Truth boundary',
+          kind: 'data', title: 'Data flow', badge: 'Truth boundary',
           steps: [
             ['Unstructured capture', 'Photo pixels and text descriptions arrive as evidence, not as final truth.'],
             ['Structured meal object', 'Confirmation converts evidence into dishes, ingredients, yields, oils, portions, and provenance.'],
@@ -140,20 +262,65 @@
         }
       ],
       summary: [
-        ['Core principle', 'AI suggests; deterministic rules decide'],
-        ['Primary stack', 'React Native, FastAPI, PostgreSQL, multimodal AI'],
-        ['Learning loop', 'User corrections improve future recall']
+        ['Perception boundary', 'The model proposes candidates and uncertainty'],
+        ['Truth boundary', 'Confirmed structure drives deterministic calculation'],
+        ['Learning boundary', 'Private corrections improve household recall']
       ]
     },
+
     'mlops-solution-accelerator.html': {
       id: 'mlops',
-      title: 'Automated ML Pipeline Platform — live architecture flow',
-      copy: 'Track data from validation through feature preparation, model tournaments, experiment evidence, selection, and governed registration.',
+      title: 'Automated ML Pipeline Platform — system architecture and live flow',
+      copy: 'The architecture separates configuration and data, reusable Azure ML orchestration, competitive search, evaluation evidence, and governed registration.',
+      architecture: [
+        {
+          badge: 'Inputs',
+          title: 'Define the experiment',
+          note: 'A dataset and task configuration define the search without hardcoding one use case.',
+          nodes: [
+            ['Dataset asset', 'data'],
+            ['YAML configuration', 'data'],
+            ['Task-family rules', 'service'],
+            ['Validation contract', 'service']
+          ]
+        },
+        {
+          badge: 'Orchestration',
+          title: 'Run the pipeline fabric',
+          note: 'Reusable components coordinate compute, preparation, training, and evaluation.',
+          nodes: [
+            ['Azure ML pipeline', 'service'],
+            ['18 reusable components', 'service'],
+            ['Managed compute', 'external'],
+            ['MLflow run hierarchy', 'service']
+          ]
+        },
+        {
+          badge: 'Search and evaluation',
+          title: 'Compete and refine candidates',
+          note: 'Fast baselines, recipe search, hyperparameter optimization, and holdout evaluation form one tournament.',
+          nodes: [
+            ['PyCaret baseline', 'service'],
+            ['FLAML baseline', 'service'],
+            ['457-recipe search', 'service'],
+            ['Optuna and holdout', 'service']
+          ]
+        },
+        {
+          badge: 'Governance',
+          title: 'Register reproducible winners',
+          note: 'The winning model remains traceable to data, configuration, candidate, and evaluation evidence.',
+          nodes: [
+            ['Experiment artifacts', 'data'],
+            ['Model registry', 'data'],
+            ['Lineage metadata', 'data'],
+            ['Deployment handoff', 'external']
+          ]
+        }
+      ],
       lanes: [
         {
-          kind: 'logic',
-          title: 'Logic flow',
-          badge: 'ML lifecycle',
+          kind: 'logic', title: 'Logic flow', badge: 'ML lifecycle',
           steps: [
             ['Ingest and profile', 'Raw tabular data is validated, typed, and profiled before training begins.'],
             ['Assemble recipes', 'The platform generates model and preprocessing combinations for the declared task family.'],
@@ -163,9 +330,7 @@
           ]
         },
         {
-          kind: 'code',
-          title: 'Code flow',
-          badge: 'Execution path',
+          kind: 'code', title: 'Code flow', badge: 'Execution path',
           steps: [
             ['Azure ML pipeline starts', 'Reusable components orchestrate preparation, training, evaluation, and registration.', '18 reusable components'],
             ['Search engines execute', 'PyCaret, FLAML, and Optuna strategies generate candidate pipelines and hyperparameters.', 'Search + compare'],
@@ -175,9 +340,7 @@
           ]
         },
         {
-          kind: 'data',
-          title: 'Data flow',
-          badge: 'Experiment plane',
+          kind: 'data', title: 'Data flow', badge: 'Experiment plane',
           steps: [
             ['Source dataset', 'Input tables and feature candidates enter the Azure ML workspace.'],
             ['Prepared feature sets', 'Transforms produce train, validation, and test assets plus reusable preprocessing outputs.'],
@@ -187,20 +350,65 @@
         }
       ],
       summary: [
-        ['Platform scale', '457 model and preprocessing recipes'],
-        ['Execution fabric', 'Azure ML, PyCaret, FLAML, and Optuna'],
-        ['Evidence system', 'MLflow lineage and tracked artifacts']
+        ['Configuration boundary', 'New use cases enter through data and YAML'],
+        ['Evaluation boundary', 'Holdout evidence follows search and tuning'],
+        ['Governance boundary', 'Registry output retains reproducible lineage']
       ]
     },
+
     'agentic-knowledge-runtime.html': {
       id: 'agentic-runtime',
-      title: 'Agentic Knowledge & Research Runtime — live architecture flow',
-      copy: 'Follow the durable loop between task planning, hybrid retrieval, evidence graphs, drafting, critique, repair, evaluation, and publication.',
+      title: 'Agentic Knowledge & Research Runtime — system architecture and live flow',
+      copy: 'The architecture separates durable control, knowledge retrieval, evidence-aware reasoning, and evaluation/publishing before tracing the critique-and-repair loop.',
+      architecture: [
+        {
+          badge: 'Request and control',
+          title: 'Plan durable work',
+          note: 'Long-running research remains restartable, observable, and explicit about state transitions.',
+          nodes: [
+            ['Research request', 'client'],
+            ['Temporal workflow', 'service'],
+            ['Planner and task graph', 'service'],
+            ['Retry and timeout policy', 'service']
+          ]
+        },
+        {
+          badge: 'Knowledge plane',
+          title: 'Retrieve and connect evidence',
+          note: 'Lexical, semantic, vector, and graph structures support inspectable evidence collection.',
+          nodes: [
+            ['Hybrid retrieval', 'service'],
+            ['Weaviate vectors', 'data'],
+            ['Source metadata', 'data'],
+            ['Evidence graph', 'data']
+          ]
+        },
+        {
+          badge: 'Reasoning plane',
+          title: 'Draft, critique, and repair',
+          note: 'Specialized modules keep planning, writing, criticism, and repair as separate responsibilities.',
+          nodes: [
+            ['DSPy modules', 'service'],
+            ['Writer agent', 'service'],
+            ['Critic agent', 'service'],
+            ['Repair loop', 'service']
+          ]
+        },
+        {
+          badge: 'Evaluation and publish',
+          title: 'Gate the release',
+          note: 'A response becomes publishable only after groundedness, completeness, and format checks pass.',
+          nodes: [
+            ['Promptfoo evaluation', 'service'],
+            ['MLflow traces', 'data'],
+            ['200+ regression tests', 'service'],
+            ['Publishing surface', 'external']
+          ]
+        }
+      ],
       lanes: [
         {
-          kind: 'logic',
-          title: 'Logic flow',
-          badge: 'Research loop',
+          kind: 'logic', title: 'Logic flow', badge: 'Research loop',
           steps: [
             ['Accept question', 'The runtime receives a research request, required output, and quality constraints.'],
             ['Plan and retrieve', 'Agents decompose the task and gather source evidence through hybrid retrieval.'],
@@ -211,9 +419,7 @@
           ]
         },
         {
-          kind: 'code',
-          title: 'Code flow',
-          badge: 'Orchestration path',
+          kind: 'code', title: 'Code flow', badge: 'Orchestration path',
           steps: [
             ['Temporal workflow starts', 'Durable orchestration manages agent execution, state, retries, and timeouts.', 'Workflow entrypoint'],
             ['Retrieval adapters run', 'Lexical, semantic, and vector paths access indexed corpora and evidence stores.', 'Hybrid retrieval'],
@@ -223,9 +429,7 @@
           ]
         },
         {
-          kind: 'data',
-          title: 'Data flow',
-          badge: 'Evidence plane',
+          kind: 'data', title: 'Data flow', badge: 'Evidence plane',
           steps: [
             ['Source material enters', 'Documents, passages, and structured references become searchable evidence.'],
             ['Vector storage indexes', 'Embeddings and metadata support semantic retrieval and source linking.'],
@@ -235,9 +439,9 @@
         }
       ],
       summary: [
-        ['Control plane', 'Temporal durable orchestration'],
-        ['Knowledge plane', 'Hybrid retrieval, Weaviate, and evidence graphs'],
-        ['Quality gate', 'Critique and repair with 200+ tests']
+        ['Control boundary', 'Temporal owns durable execution and state'],
+        ['Evidence boundary', 'Claims remain connected to sources and retrieval'],
+        ['Release boundary', 'Evaluation gates critique, repair, and publish']
       ]
     }
   };
@@ -247,6 +451,64 @@
     if (className) node.className = className;
     if (typeof text === 'string') node.textContent = text;
     return node;
+  }
+
+  function buildArchitectureNode(node) {
+    var item = el('li', 'architecture-node architecture-node--' + (node[1] || 'service'));
+    item.appendChild(el('span', 'architecture-node-dot'));
+    item.appendChild(el('strong', '', node[0]));
+    return item;
+  }
+
+  function buildArchitectureStage(stage, index) {
+    var article = el('article', 'architecture-stage');
+    article.setAttribute('data-architecture-stage', String(index + 1));
+
+    var head = el('div', 'architecture-stage-head');
+    head.appendChild(el('span', 'architecture-stage-index', String(index + 1).padStart(2, '0')));
+    var heading = el('div');
+    heading.appendChild(el('p', 'architecture-stage-badge', stage.badge));
+    heading.appendChild(el('h3', '', stage.title));
+    head.appendChild(heading);
+    article.appendChild(head);
+
+    var list = el('ul', 'architecture-node-list');
+    stage.nodes.forEach(function (node) { list.appendChild(buildArchitectureNode(node)); });
+    article.appendChild(list);
+    article.appendChild(el('p', 'architecture-stage-note', stage.note));
+    return article;
+  }
+
+  function buildArchitecture(stages) {
+    var section = el('section', 'architecture-overview');
+    section.setAttribute('aria-label', 'System architecture');
+
+    var heading = el('div', 'architecture-heading');
+    var headingCopy = el('div');
+    headingCopy.appendChild(el('p', 'flow-kicker', 'Architecture map'));
+    headingCopy.appendChild(el('h3', '', 'How the system is divided'));
+    heading.appendChild(headingCopy);
+
+    var legend = el('div', 'architecture-legend');
+    [['client', 'Experience'], ['service', 'Service'], ['data', 'Data'], ['external', 'External / operational']].forEach(function (entry) {
+      legend.appendChild(el('span', 'architecture-legend-item architecture-legend-item--' + entry[0], entry[1]));
+    });
+    heading.appendChild(legend);
+    section.appendChild(heading);
+
+    var track = el('div', 'architecture-track');
+    stages.forEach(function (stage, index) {
+      track.appendChild(buildArchitectureStage(stage, index));
+      if (index < stages.length - 1) {
+        var connector = el('div', 'architecture-connector');
+        connector.setAttribute('aria-hidden', 'true');
+        connector.appendChild(el('span', 'architecture-connector-line'));
+        connector.appendChild(el('span', 'architecture-packet'));
+        track.appendChild(connector);
+      }
+    });
+    section.appendChild(track);
+    return section;
   }
 
   function buildStep(step, index) {
@@ -270,9 +532,7 @@
     article.appendChild(head);
 
     var list = el('ol', 'flow-track');
-    lane.steps.forEach(function (step, index) {
-      list.appendChild(buildStep(step, index));
-    });
+    lane.steps.forEach(function (step, index) { list.appendChild(buildStep(step, index)); });
     article.appendChild(list);
     return article;
   }
@@ -284,7 +544,7 @@
   function createRunner(section) {
     var timer = null;
     var index = -1;
-    var prefersReducedMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
     function stop() {
       if (timer) window.clearInterval(timer);
@@ -294,16 +554,21 @@
 
     function advance() {
       var steps = visibleSteps(section);
+      var stages = Array.prototype.slice.call(section.querySelectorAll('.architecture-stage'));
       if (!steps.length) return;
+
       steps.forEach(function (step) { step.classList.remove('is-current'); });
+      stages.forEach(function (stage) { stage.classList.remove('is-current'); });
+
       index = (index + 1) % steps.length;
       steps[index].classList.add('is-current');
+      if (stages.length) stages[index % stages.length].classList.add('is-current');
     }
 
     function start() {
       stop();
       advance();
-      if (prefersReducedMotion) return;
+      if (reduced) return;
       section.classList.add('is-running');
       timer = window.setInterval(advance, 1350);
     }
@@ -322,12 +587,22 @@
     title.id = section.id + '-title';
     header.appendChild(title);
     header.appendChild(el('p', 'flow-copy', config.copy));
-    header.appendChild(el('span', 'flow-live-status', 'Live flow playback'));
+    header.appendChild(el('span', 'flow-live-status', 'Architecture and flow playback'));
     section.appendChild(header);
+
+    section.appendChild(buildArchitecture(config.architecture));
+
+    var executionHeading = el('div', 'flow-execution-heading');
+    var executionCopy = el('div');
+    executionCopy.appendChild(el('p', 'flow-kicker', 'Live execution traces'));
+    executionCopy.appendChild(el('h3', '', 'How logic, code, and data move'));
+    executionHeading.appendChild(executionCopy);
+    executionHeading.appendChild(el('p', '', 'All three lanes remain visible by default. Filters are optional reading aids, not required navigation.'));
+    section.appendChild(executionHeading);
 
     var toolbar = el('div', 'flow-toolbar');
     toolbar.setAttribute('role', 'group');
-    toolbar.setAttribute('aria-label', 'Filter animated architecture flow');
+    toolbar.setAttribute('aria-label', 'Filter animated execution flow');
 
     ['all', 'logic', 'code', 'data'].forEach(function (filter, index) {
       var labels = { all: 'All flows', logic: 'Logic flow', code: 'Code flow', data: 'Data flow' };
@@ -348,8 +623,9 @@
     config.lanes.forEach(function (lane) { grid.appendChild(buildLane(lane)); });
     section.appendChild(grid);
 
+    section.appendChild(el('p', 'flow-summary-heading', 'Architecture rules'));
     var summary = el('div', 'flow-summary');
-    summary.setAttribute('aria-label', 'Architecture summary');
+    summary.setAttribute('aria-label', 'Architecture rules');
     config.summary.forEach(function (entry) {
       var card = el('article');
       card.appendChild(el('span', '', entry[0]));
@@ -392,7 +668,7 @@
             if (entry.isIntersecting && play.getAttribute('aria-pressed') === 'false') runner.start();
             else if (!entry.isIntersecting) runner.stop();
           });
-        }, { threshold: 0.16 })
+        }, { threshold: 0.12 })
       : null;
 
     if (observer) observer.observe(section);
