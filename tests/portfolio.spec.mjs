@@ -12,6 +12,7 @@ const projectRoutes = [
   '/projects/mangrok-recipe-vault.html',
   '/projects/where-it-happened.html',
   '/projects/my-seventh-meal.html',
+  '/projects/governed-ai-brain.html',
   '/projects/mlops-solution-accelerator.html',
   '/projects/agentic-knowledge-runtime.html'
 ];
@@ -66,14 +67,18 @@ for (const route of paperRoutes) {
   });
 }
 
-test('homepage uses profile metrics and five-paper inventory', async ({ page }) => {
+test('homepage uses six-system and five-paper inventory', async ({ page }) => {
   await page.goto('/');
   await expect(page.locator('.profile-metrics article')).toHaveCount(4);
+  await expect(page.getByText('showcased systems', { exact: true })).toBeVisible();
+  const systemMetric = page.locator('.profile-metrics article').filter({ hasText: 'showcased systems' }).locator('strong');
+  await expect(systemMetric).toHaveText('6');
   await expect(page.getByText('published working papers', { exact: true })).toBeVisible();
   const paperMetric = page.locator('.profile-metrics article').filter({ hasText: 'published working papers' }).locator('strong');
   await expect(paperMetric).toHaveText('5');
-  await expect(page.locator('.work-entry')).toHaveCount(5);
+  await expect(page.locator('.work-entry')).toHaveCount(6);
   await expect(page.locator('.writing-entry')).toHaveCount(3);
+  await expect(page.getByRole('heading', { name: 'Unified Knowledge Base — AI Brain', exact: true })).toBeVisible();
   await expect(page.getByRole('link', { name: 'View all five working papers' })).toBeVisible();
   await expect(page.getByText('457', { exact: true })).toHaveCount(0);
   await expect(page.getByText('200+', { exact: true })).toHaveCount(0);
@@ -86,6 +91,21 @@ test('writing index lists five papers and a separate roadmap', async ({ page }) 
   await expect(page.getByRole('heading', { name: 'Metric Contracts for Decision-Grade Analytics' })).toBeVisible();
   await expect(page.getByRole('heading', { name: 'From Variance to Decision' })).toBeVisible();
   await expect(page.getByRole('heading', { name: 'AI Proposes, Deterministic Systems Decide' })).toBeVisible();
+});
+
+test('AI Brain case study preserves the active-scaffold boundary', async ({ page }) => {
+  await page.goto('/projects/governed-ai-brain.html', { waitUntil: 'domcontentloaded' });
+  const main = page.locator('main.case-study-wrap');
+  await expect(main).toContainText('Active scaffold');
+  await expect(main).toContainText('The REST API is the product and platform backend');
+  await expect(main).toContainText('The MCP server is a thin adapter');
+  await expect(main).toContainText('in-memory store');
+  await expect(main).toContainText('Obsidian-style relationship graph');
+
+  const diagram = page.locator('#flow-ai-brain');
+  await expect(diagram).toHaveAttribute('data-content-reviewed', '2026-08-12');
+  await expect(diagram.getByText('Context-pack builder', { exact: true })).toBeVisible();
+  await expect(diagram.getByRole('button', { name: 'Pause animation' })).toHaveAttribute('aria-pressed', 'false');
 });
 
 test('Mangrok case study reflects the current Alchemy scope', async ({ page }) => {
@@ -127,11 +147,12 @@ test('scroll reveal, theme persistence, legacy hashes, and landmarks remain inta
   await expect(page.getByRole('navigation', { name: 'Primary navigation' })).toBeVisible();
 });
 
-test('attach homepage, paper index, and Mangrok screenshots', async ({ page }, testInfo) => {
+test('attach homepage, paper index, Mangrok, and AI Brain screenshots', async ({ page }, testInfo) => {
   for (const [route, name, locator] of [
     ['/', 'homepage-full', null],
     ['/blogs/', 'working-papers-full', null],
-    ['/projects/mangrok-recipe-vault.html', 'mangrok-current', '.flow-showcase']
+    ['/projects/mangrok-recipe-vault.html', 'mangrok-current', '.flow-showcase'],
+    ['/projects/governed-ai-brain.html', 'governed-ai-brain', '.flow-showcase']
   ]) {
     await page.goto(route, { waitUntil: 'domcontentloaded' });
     const path = testInfo.outputPath(`${name}.png`);
