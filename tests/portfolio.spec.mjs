@@ -90,8 +90,8 @@ test('writing index lists five papers and a separate roadmap', async ({ page }) 
 
 test('Mangrok case study reflects the current Alchemy scope', async ({ page }) => {
   await page.goto('/projects/mangrok-recipe-vault.html', { waitUntil: 'domcontentloaded' });
-  await expect(page.getByText('Explainable Alchemy Lab', { exact: true })).toBeVisible();
-  await expect(page.getByText('three Edge Functions')).toBeVisible();
+  await expect(page.locator('.architecture-flow .architecture-node strong', { hasText: 'Explainable Alchemy Lab' })).toBeVisible();
+  await expect(page.locator('.case-hero-meta', { hasText: 'three Edge Functions' })).toBeVisible();
   const diagram = page.locator('#flow-mangrok');
   await expect(diagram).toHaveAttribute('data-content-reviewed', '2026-08-12', { timeout: 8_000 });
   await expect(diagram.getByText('Alchemy Lab interface', { exact: true })).toBeVisible();
