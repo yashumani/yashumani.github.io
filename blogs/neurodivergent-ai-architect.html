@@ -1,181 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>The Neurodivergent AI Architect — Yashu Sharma</title>
-<meta name="description" content="A working paper on turning restless attention, precision loops, and verification habits into AI architecture discipline.">
-<meta property="og:type" content="article">
-<meta property="og:title" content="The Neurodivergent AI Architect — Yashu Sharma">
-<meta property="og:description" content="A working paper on turning restless attention, precision loops, and verification habits into AI architecture discipline.">
-<meta property="og:url" content="https://yashumani.github.io/blogs/neurodivergent-ai-architect.html">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="The Neurodivergent AI Architect — Yashu Sharma">
-<meta name="twitter:description" content="A working paper on turning restless attention, precision loops, and verification habits into AI architecture discipline.">
-<meta name="theme-color" content="#f5f5f7">
-<link rel="icon" href="../assets/images/avatar.jpg" type="image/jpeg">
-<link rel="stylesheet" href="../css/style.css">
-<link rel="stylesheet" href="../css/media.css">
-<script>
-  (function () {
-    var t = localStorage.getItem('theme');
-    if (t) document.documentElement.setAttribute('data-theme', t);
-  })();
-</script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Neurodivergent AI Architect — Yashu Sharma</title>
+  <meta name="description" content="A revised operating-style paper on externalized memory, bounded exploration, verification systems, stop rules, and accessible architecture practice.">
+  <link rel="canonical" href="https://yashumani.github.io/blogs/neurodivergent-ai-architect.html">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="The Neurodivergent AI Architect — Yashu Sharma">
+  <meta property="og:description" content="A revised operating-style paper on externalized memory, bounded exploration, verification systems, stop rules, and accessible architecture practice.">
+  <meta property="og:url" content="https://yashumani.github.io/blogs/neurodivergent-ai-architect.html">
+  <meta name="twitter:card" content="summary">
+  <meta name="theme-color" content="#0b0d10">
+  <link rel="icon" href="../assets/images/avatar.jpg" type="image/jpeg">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/media.css">
+  <script>(function(){var stored=localStorage.getItem('theme');var preferred=window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.setAttribute('data-theme',stored||preferred);})();</script>
 </head>
 <body>
-
-  <header class="site-header">
-    <div class="wrap deck-nav-wrap">
-      <a class="brand" href="../index.html">Yashu Sharma</a>
-      <nav class="site-nav" aria-label="Primary navigation">
-        <a href="../index.html#systems">Systems</a>
-        <a href="../index.html#impact">Impact</a>
-        <a href="index.html">Blogs</a>
-        <a href="../index.html#capabilities">Capabilities</a>
-        <a href="../index.html#contact">Contact</a>
-        <button class="theme-toggle" type="button" aria-label="Toggle dark mode">
-          <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
-          <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3 7 7 0 0 0 21 12.8z"/></svg>
-        </button>
-      </nav>
-    </div>
-  </header>
-
-  <main class="wrap case-study-wrap blog-article">
-
-    <a class="back-link" href="index.html"><span class="back-arrow">&larr;</span> All blogs</a>
-
-    <p class="paper-kicker reveal">Working paper / operating style</p>
-    <h1 class="reveal">The Neurodivergent AI Architect</h1>
-    <p class="paper-meta reveal">Turning restless attention, precision loops, and verification habits into system design discipline.</p>
-
-    <div class="paper-note reveal">
-      <p><strong>Note.</strong> This is not medical advice, not a diagnostic framework, and not a universal claim about ADHD or OCD. It is an operating-style reflection: how ADHD-like exploration and OCD-like verification patterns can be converted into safer AI architecture when they are bounded by process, tooling, and evidence.</p>
-    </div>
-
-    <h2 class="reveal"><span class="paper-section-number">01</span>Thesis</h2>
-    <p>Some architects think in straight lines. Others think in loops: explore, connect, doubt, verify, refactor, repeat. That loop can be exhausting when it is unmanaged. It can also be unusually useful when building AI systems, because AI architecture is full of ambiguity, false certainty, and invisible failure modes.</p>
-    <p>The point is not that ADHD or OCD traits are automatically advantages. They are not. ADHD can make task completion, attention regulation, and organization harder. OCD can turn uncertainty into distressing checking or reassurance cycles. But the same underlying pressures — restless exploration, intolerance for vague risk, and a need to know why something is true — can be redirected into architecture patterns that make systems more reliable.</p>
-    <p>The neurodivergent AI architect does not win by romanticizing friction. The win comes from designing systems that externalize the friction: memory becomes documentation, uncertainty becomes tests, anxiety becomes checklists, and overthinking becomes observability.</p>
-
-    <h2 class="reveal"><span class="paper-section-number">02</span>The two forces</h2>
-    <p><strong>Restless attention</strong> is the part that wants to scan the whole system: adjacent tools, edge cases, hidden connections, alternate workflows, "what if" paths, and the thing nobody asked about but might matter later.</p>
-    <p>In the wrong environment, restless attention becomes unfinished branches, context switching, overbuilt prototypes, and too many parallel ideas. In the right environment, it becomes systems thinking. It notices integration points early. It asks how the dashboard, API, data pipeline, user workflow, and governance loop fit together.</p>
-    <p><strong>Precision loops</strong> are the part that cannot easily accept "probably fine." They want source links, labels, naming consistency, error boundaries, rollback paths, and proof that the output is not just convincing but supported.</p>
-    <p>In the wrong environment, precision loops become perfectionism and shipping delays. In the right environment, they become verification discipline: tests, evidence graphs, model lineage, critique gates, and release criteria.</p>
-
-    <table class="paper-framework reveal">
-      <thead>
-        <tr>
-          <th>Trait pattern</th>
-          <th>Failure mode</th>
-          <th>Architecture translation</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Restless exploration</td>
-          <td>Too many ideas, weak closure</td>
-          <td>Time-boxed discovery, design docs, decision logs</td>
-        </tr>
-        <tr>
-          <td>Hyperfocus</td>
-          <td>Deep work on the wrong layer</td>
-          <td>Milestones, acceptance criteria, visible progress markers</td>
-        </tr>
-        <tr>
-          <td>Checking loops</td>
-          <td>Perfectionism, rechecking, delayed shipping</td>
-          <td>Automated tests, checklists, publish gates, objective stop rules</td>
-        </tr>
-        <tr>
-          <td>Pattern sensitivity</td>
-          <td>Over-detecting risk</td>
-          <td>Threat models, capability boundaries, fail-closed defaults</td>
-        </tr>
-        <tr>
-          <td>Memory friction</td>
-          <td>Losing context after interruption</td>
-          <td>Externalized notes, runbooks, diagrams, source packets</td>
-        </tr>
-      </tbody>
-    </table>
-
-    <h2 class="reveal"><span class="paper-section-number">03</span>Why AI architecture rewards this operating style</h2>
-    <p>AI systems are persuasive even when they are wrong. They can produce fluent answers without evidence, generate confident summaries from weak retrieval, or choose models without making the selection process inspectable. The architecture problem is not just how to make AI useful. It is how to make AI accountable.</p>
-    <p>A neurodivergent operating style can become useful here because it often refuses to accept opaque confidence. It asks the uncomfortable questions:</p>
-    <ul class="clean">
-      <li>Where did this claim come from?</li>
-      <li>Can this run be reproduced?</li>
-      <li>What happens if the tool call fails?</li>
-      <li>What if the source contradicts another source?</li>
-      <li>Who owns the output if it is wrong?</li>
-      <li>What would make us stop, repair, or roll back?</li>
-    </ul>
-    <p>Those questions are not distractions. They are architecture.</p>
-
-    <h2 class="reveal"><span class="paper-section-number">04</span>From cognitive friction to system pattern</h2>
-    <p>The trick is to stop keeping the loop inside the head. A good architecture externalizes the loop into the system itself.</p>
-    <div class="impact-grid reveal">
-      <article>
-        <strong>Externalize memory</strong>
-        <span>Use docs, diagrams, source packets, and decision logs so context survives interruption.</span>
-      </article>
-      <article>
-        <strong>Externalize trust</strong>
-        <span>Use tests, validations, and evaluation gates instead of repeatedly rechecking manually.</span>
-      </article>
-      <article>
-        <strong>Externalize doubt</strong>
-        <span>Use critique loops, model lineage, source citations, and artifact review before publishing.</span>
-      </article>
-    </div>
-    <p>When doubt stays internal, it becomes rumination. When doubt becomes a test, it becomes engineering. When checking stays internal, it becomes a loop. When checking becomes a release gate, it becomes quality control.</p>
-
-    <h2 class="reveal"><span class="paper-section-number">05</span>Case pattern: evidence-first research systems</h2>
-    <p>The Agentic Knowledge &amp; Research Runtime is an example of this pattern. It does not treat a model answer as enough. It creates a research pipeline: source adapters, extraction, an evidence graph, retrieval, knowledge compilation, critique, repair, and publishing.</p>
-    <p>The neurodivergent design instinct shows up as a refusal to leave source trust implicit. Every published claim should be able to walk backward to source evidence. Unsupported claims should be caught before a human sees them. Contradictions should be represented, not hidden. In that sense, the system converts verification pressure into architecture: evidence graph, critique gate, and test suite.</p>
-
-    <h2 class="reveal"><span class="paper-section-number">06</span>Case pattern: reproducible model selection</h2>
-    <p>The Automated ML Pipeline Platform shows the same idea in a different domain. Instead of asking a data scientist to remember why one model was chosen six months ago, the system creates lineage: dataset, config, candidate recipes, baseline tournament, Optuna tuning, holdout evaluation, and registry record.</p>
-    <p>That is what a precision loop looks like when it becomes useful. The question "are we sure this is the right model?" becomes a repeatable tournament and an inspectable experiment trail. The goal is not certainty. The goal is to make uncertainty measurable.</p>
-
-    <h2 class="reveal"><span class="paper-section-number">07</span>Guardrails against the dark side</h2>
-    <p>This operating style has risks. Restless exploration can expand scope forever. Precision loops can delay shipping. Pattern sensitivity can become risk inflation. The solution is not to suppress those traits completely; it is to give them stop rules.</p>
-    <ul class="clean">
-      <li><strong>Time-box exploration.</strong> Exploration is valuable, but it needs a deadline and an artifact.</li>
-      <li><strong>Define acceptance criteria.</strong> "Good enough" should be written before the perfection loop starts.</li>
-      <li><strong>Use objective gates.</strong> Tests passed, source cited, config saved, lineage logged.</li>
-      <li><strong>Separate design from proof.</strong> A visual prototype communicates architecture; it does not prove implementation by itself.</li>
-      <li><strong>Ship in layers.</strong> Release the safe, reviewable version; add depth after feedback.</li>
-    </ul>
-
-    <div class="paper-callout reveal">
-      <p><strong>Operating rule:</strong> Do not let the loop live only in your head. Convert it into a checklist, test, diagram, runbook, metric, or release gate.</p>
-    </div>
-
-    <h2 class="reveal"><span class="paper-section-number">08</span>What this means for AI architects</h2>
-    <p>The best AI architects are not just prompt writers. They are people who can turn ambiguous model behavior into bounded systems. They can make uncertainty visible. They can separate demonstration from deployment. They can design workflows that fail safely, leave evidence, and improve over time.</p>
-    <p>For someone with restless attention and precision loops, that can be a powerful role. The same mind that sees too many paths can map system boundaries. The same mind that checks too much can build automated checks. The same mind that struggles to hold everything internally can become very good at externalizing state into architecture.</p>
-
-    <h2 class="reveal"><span class="paper-section-number">09</span>Conclusion</h2>
-    <p>The goal is not to brand ADHD or OCD as superpowers. That framing is too simple and often disrespectful to the real difficulty of these conditions. The better framing is design discipline.</p>
-    <p>Restless attention becomes useful when it is routed into exploration and systems mapping. Precision loops become useful when they become tests, gates, and traceability. Memory friction becomes useful when it leads to better documentation and decision logs. The neurodivergent AI architect does not succeed by ignoring friction. They succeed by designing around it.</p>
-
-    <div class="paper-callout reveal">
-      <p><strong>One-sentence summary:</strong> The neurodivergent AI architect turns cognitive friction into system design: externalized memory, visible uncertainty, bounded tools, repeatable workflows, and evidence-backed release gates.</p>
-    </div>
-
-    <h2 class="reveal"><span class="paper-section-number">10</span>References and health note</h2>
-    <p>This essay is a personal operating-style reflection, not medical guidance. ADHD and OCD can cause real impairment and should be assessed or treated with qualified professionals when needed. NIMH describes ADHD as a developmental disorder involving ongoing patterns of inattention, hyperactivity, or impulsivity, and OCD as involving obsessions, compulsions, or both. See the NIMH pages for <a href="https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd" target="_blank" rel="noopener">ADHD</a> and <a href="https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd" target="_blank" rel="noopener">OCD</a> for medical context.</p>
-
-    <footer class="site-footer">
-      <p class="footer-note">&copy; 2026 Yashu Sharma</p>
-    </footer>
-
-  </main>
-
-  <script src="../js/main.js"></script>
+<a class="skip-link" href="#main-content">Skip to content</a>
+<header class="site-header">
+  <div class="wrap nav-shell">
+    <a class="brand" href="../index.html"><span class="brand-mark" aria-hidden="true">YS</span><span>Yashu Sharma</span></a>
+    <nav class="site-nav" aria-label="Primary navigation">
+      <a href="../index.html#work">Work</a>
+      <a href="../index.html#capabilities">Capabilities</a>
+      <a href="index.html">Writing</a>
+      <a href="../index.html#about">About</a>
+      <a href="../index.html#contact">Contact</a>
+      <button class="theme-toggle" type="button" aria-label="Use dark mode"><svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg><svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3 7 7 0 0 0 21 12.8z"/></svg></button>
+    </nav>
+  </div>
+</header>
+<main class="wrap case-study-wrap blog-article" id="main-content" data-paper-status="published">
+  <a class="back-link" href="index.html"><span class="back-arrow">←</span> All working papers</a>
+  <p class="paper-kicker reveal">Working paper / Operating model</p>
+  <h1 class="reveal">The Neurodivergent AI Architect</h1>
+  <p class="paper-meta reveal">A revised operating-style paper on externalized memory, bounded exploration, verification systems, stop rules, and accessible architecture practice.</p>
+  <div class="paper-byline reveal" aria-label="Paper status"><span><strong>Published</strong>August 2, 2026</span><span><strong>Last reviewed</strong>August 12, 2026</span><span><strong>Status</strong>Working paper</span></div>
+  <div class="paper-note reveal"><p><strong>Thesis.</strong> Cognitive friction should not be romanticized or hidden; architecture can externalize memory, uncertainty, checking, and stopping conditions into shared systems.</p></div>
+  <h2 class="reveal"><span class="paper-section-number">01</span><span class="paper-section-title">Scope and thesis</span></h2><p>This paper is a personal operating-style reflection, not a diagnostic framework and not a claim that ADHD or OCD produces better architects. The useful question is narrower: how can patterns such as exploration, hyperfocus, checking, uncertainty sensitivity, and memory friction be supported by external systems rather than left as private cognitive burden?</p><p>The thesis is that architecture can absorb part of that burden. Notes preserve context. Tests replace repeated manual checking. Decision records contain exploration. Stop rules limit perfection loops. Observability makes uncertainty visible to a team.</p><h2 class="reveal"><span class="paper-section-number">02</span><span class="paper-section-title">Health framing</span></h2><p>ADHD and OCD are distinct conditions with real potential for impairment. NIMH describes ADHD as a developmental disorder involving ongoing patterns of inattention, hyperactivity, impulsivity, or combinations of these symptoms. NIMH describes OCD as involving uncontrollable recurring thoughts, repetitive excessive behaviors, or both, often with significant distress or interference.</p><p>This paper therefore avoids turning diagnoses into personality brands or “superpowers.” It discusses design accommodations and operating practices that may help some people, whether or not they have a diagnosis.</p><h2 class="reveal"><span class="paper-section-number">03</span><span class="paper-section-title">Operating patterns and failure modes</span></h2><table class="paper-framework reveal"><thead><tr><th>Pattern</th><th>Possible value</th><th>Failure mode</th><th>External support</th></tr></thead><tbody><tr><td>Broad exploration</td><td>Finds dependencies and alternative paths</td><td>Scope expansion and weak closure</td><td>Time-boxes, research questions, decision logs</td></tr><tr><td>Hyperfocus</td><td>Deep technical understanding</td><td>Optimizing the wrong layer</td><td>Milestones, user outcomes, review checkpoints</td></tr><tr><td>Checking pressure</td><td>Attention to inconsistency and risk</td><td>Rechecking without a stop condition</td><td>Automated tests, acceptance criteria, delegated review</td></tr><tr><td>Memory friction</td><td>Encourages explicit state</td><td>Context loss after interruption</td><td>Runbooks, diagrams, issue templates, handoff notes</td></tr><tr><td>Uncertainty sensitivity</td><td>Challenges opaque confidence</td><td>Risk inflation or paralysis</td><td>Severity models, evidence thresholds, escalation paths</td></tr></tbody></table><h2 class="reveal"><span class="paper-section-number">04</span><span class="paper-section-title">Externalize memory</span></h2><p>Architecture work contains more state than one person can reliably hold: assumptions, system boundaries, unresolved questions, data contracts, dependencies, risks, test evidence, and release decisions. Externalization is not merely documentation. It is part of the execution system.</p><ul class="clean"><li>Use architecture diagrams for component relationships and trust boundaries.</li><li>Use decision records for choices, alternatives, and consequences.</li><li>Use issue templates for unresolved work and explicit owners.</li><li>Use runbooks for operations that must survive interruption or handoff.</li><li>Use source packets for claims that need future verification.</li></ul><h2 class="reveal"><span class="paper-section-number">05</span><span class="paper-section-title">Externalize verification</span></h2><p>Repeated checking is exhausting when the stopping condition is subjective. Engineering can convert some checking into objective evidence: static analysis, unit tests, browser tests, schema validation, lineage, quality thresholds, and release gates.</p><div class="paper-callout reveal"><p><strong>Operating rule:</strong> whenever the same doubt appears repeatedly, decide whether it can become a test, checklist item, monitoring rule, or explicit acceptance threshold.</p></div><p>This does not eliminate uncertainty. It makes the remaining uncertainty visible and bounded.</p><h2 class="reveal"><span class="paper-section-number">06</span><span class="paper-section-title">Use stop rules</span></h2><p>Exploration and precision need stopping mechanisms. Useful stop rules include:</p><ul class="clean"><li><strong>Time-box:</strong> discovery ends with a decision artifact at a defined time.</li><li><strong>Acceptance threshold:</strong> “good enough” is written before final review begins.</li><li><strong>Risk tier:</strong> higher-risk functions receive more review; low-risk details do not block release indefinitely.</li><li><strong>Escalation condition:</strong> unresolved uncertainty moves to an owner rather than remaining in a private loop.</li><li><strong>Release layer:</strong> ship a safe, clearly labeled stage instead of pretending the final operating model exists.</li></ul><h2 class="reveal"><span class="paper-section-number">07</span><span class="paper-section-title">Design the team environment</span></h2><p>The burden should not sit entirely with the individual. Teams can improve architecture quality and accessibility with explicit priorities, smaller review batches, written decisions, predictable handoffs, quiet focus time, and clear definitions of done.</p><p>These practices help many people, not only neurodivergent workers. Accessibility improvements often become general operating improvements because they reduce ambiguity and hidden coordination cost.</p><h2 class="reveal"><span class="paper-section-number">08</span><span class="paper-section-title">Applied portfolio patterns</span></h2><p>The portfolio uses several externalization patterns:</p><ul class="clean"><li>The agentic runtime turns doubt about citations into evidence graphs, critique gates, and evaluation traces.</li><li>The MLOps platform turns uncertainty about model selection into repeatable tournaments, holdout evaluation, and lineage.</li><li>Mangrok turns privacy concerns into client-side encryption, RLS, explicit sharing roles, and human legacy review.</li><li>Where It Happened turns checkout uncertainty into an honest no-payment fallback rather than a simulated success state.</li><li>The portfolio itself separates live, source-complete, and pre-validation work so presentation does not outrun evidence.</li></ul><h2 class="reveal"><span class="paper-section-number">09</span><span class="paper-section-title">What not to claim</span></h2><p>Do not claim that ADHD or OCD automatically creates creativity, precision, empathy, or technical excellence. Do not treat distressing symptoms as productivity techniques. Do not use a clinical label as a substitute for understanding an individual’s actual needs.</p><p>A safer claim is that people use different cognitive strategies, and well-designed systems can reduce avoidable cognitive load while making work more inspectable for everyone.</p><h2 class="reveal"><span class="paper-section-number">10</span><span class="paper-section-title">A practical operating system</span></h2><ol class="clean"><li>Start each initiative with one decision statement and one success measure.</li><li>Capture open questions in a visible queue instead of holding them mentally.</li><li>Separate exploration artifacts from committed architecture.</li><li>Convert recurring doubts into tests or review criteria.</li><li>Use a written definition of done and a risk-based stop rule.</li><li>End each work session with a restart note: current state, next action, blocker, and evidence location.</li></ol><h2 class="reveal"><span class="paper-section-number">11</span><span class="paper-section-title">Conclusion</span></h2><p>The useful lesson is not that neurodivergence is an advantage or disadvantage in the abstract. It is that invisible cognitive work can be redesigned.</p><p>Externalized memory, bounded exploration, objective verification, explicit stop rules, and supportive team practices turn architecture into a shared operating system. The result is not perfection. It is less hidden burden and more inspectable work.</p>
+  <h2 class="reveal"><span class="paper-section-number">12</span><span class="paper-section-title">References and revision note</span></h2>
+  <p>This paper is maintained as a public working paper. It distinguishes portfolio evidence, original framework proposals, and external guidance. Time-sensitive guidance was reviewed on August 12, 2026.</p>
+  <ol class="paper-references"><li><a href="https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd" target="_blank" rel="noopener">NIMH: Attention-Deficit/Hyperactivity Disorder</a><span>Current federal health overview reviewed August 2026.</span></li><li><a href="https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd" target="_blank" rel="noopener">NIMH: Obsessive-Compulsive Disorder</a><span>Current federal health overview reviewed August 2026.</span></li><li><a href="https://www.nist.gov/itl/ai-risk-management-framework" target="_blank" rel="noopener">NIST AI RMF</a><span>Reference for externalized governance, measurement, and management concepts.</span></li></ol>
+  <div class="paper-callout reveal"><p><strong>Revision policy:</strong> claims tied to product maturity, regulation, public guidance, or repository state should be rechecked before a new dated release.</p></div>
+  <footer class="site-footer"><p class="footer-note">&copy; <span data-current-year>2026</span> Yashu Sharma</p></footer>
+</main>
+<script src="../js/main.js"></script>
 </body>
 </html>

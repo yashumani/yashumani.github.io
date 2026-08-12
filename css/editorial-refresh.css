@@ -1,0 +1,154 @@
+/* Editorial refresh: numbered headings, paper metadata, case navigation, and paper roadmap */
+.case-section-heading {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: baseline;
+  column-gap: clamp(14px, 1.8vw, 24px);
+}
+.case-section-number,
+.paper-section-number {
+  display: inline-flex;
+  min-width: 2.4rem;
+  color: var(--accent);
+  font-family: var(--font-mono);
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .06em;
+  line-height: 1;
+}
+.paper-section-title,
+.case-section-title { min-width: 0; }
+.case-toc {
+  max-width: none !important;
+  margin: 42px 0 64px;
+  padding: 22px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: var(--surface);
+}
+.case-toc > span {
+  display: block;
+  margin-bottom: 14px;
+  color: var(--text-muted);
+  font-family: var(--font-mono);
+  font-size: .68rem;
+  font-weight: 700;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+}
+.case-toc ol {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 9px 20px;
+  list-style: none;
+}
+.case-toc a {
+  display: grid;
+  grid-template-columns: 28px minmax(0, 1fr);
+  gap: 8px;
+  color: var(--text-soft);
+  font-size: .79rem;
+  line-height: 1.35;
+}
+.case-toc a span:first-child { color: var(--accent); font-family: var(--font-mono); font-size: .68rem; }
+.case-toc a:hover { color: var(--accent); }
+.case-review-stamp {
+  max-width: none !important;
+  margin: -30px 0 44px;
+  color: var(--text-muted);
+  font-family: var(--font-mono);
+  font-size: .68rem;
+  line-height: 1.5;
+}
+.paper-byline {
+  display: flex;
+  max-width: none;
+  margin: 28px 0 34px;
+  padding: 16px 0;
+  flex-wrap: wrap;
+  gap: 12px 30px;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  color: var(--text-muted);
+  font-family: var(--font-mono);
+  font-size: .68rem;
+}
+.paper-byline span { display: grid; gap: 3px; }
+.paper-byline strong { color: var(--text); font-size: .6rem; letter-spacing: .06em; text-transform: uppercase; }
+.paper-framework-grid {
+  display: grid;
+  max-width: none !important;
+  margin: 28px 0;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+.paper-framework-grid article {
+  min-width: 0;
+  padding: 22px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--surface);
+}
+.paper-framework-grid strong,
+.paper-framework-grid span { display: block; }
+.paper-framework-grid strong { margin-bottom: 8px; font-size: 1.05rem; }
+.paper-framework-grid span { color: var(--text-muted); font-size: .84rem; }
+.paper-references {
+  max-width: none !important;
+  margin: 26px 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--line);
+}
+.paper-references li {
+  display: grid;
+  padding: 16px 0;
+  grid-template-columns: minmax(220px, .72fr) minmax(0, 1.28fr);
+  gap: 24px;
+  border-bottom: 1px solid var(--line);
+}
+.paper-references a { font-weight: 700; }
+.paper-references span { color: var(--text-muted); font-size: .82rem; }
+.paper-roadmap { margin-top: 86px; }
+.paper-roadmap > h2 { max-width: 760px; }
+.paper-roadmap-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+.paper-roadmap-item {
+  min-width: 0;
+  padding: 24px;
+  border: 1px dashed var(--line-strong);
+  border-radius: 14px;
+  background: var(--surface);
+}
+.paper-roadmap-item > span {
+  color: var(--amber);
+  font-family: var(--font-mono);
+  font-size: .65rem;
+  font-weight: 700;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+}
+.paper-roadmap-item h3 { margin: 20px 0 10px; font-size: 1.45rem; }
+.paper-roadmap-item p { margin: 0; color: var(--text-muted); font-size: .84rem; }
+.section-action { margin-top: 26px; }
+.writing-index .blog-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+@media (max-width: 760px) {
+  .case-toc ol,
+  .paper-framework-grid,
+  .paper-roadmap-grid,
+  .writing-index .blog-list { grid-template-columns: 1fr; }
+  .paper-references li { grid-template-columns: 1fr; gap: 6px; }
+  .case-section-heading { column-gap: 12px; }
+  .case-section-number,
+  .paper-section-number { min-width: 2rem; }
+}
+@media print {
+  .case-toc { display: none; }
+  .paper-roadmap-item,
+  .paper-framework-grid article { break-inside: avoid; }
+}
