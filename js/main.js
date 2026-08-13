@@ -84,6 +84,37 @@
     node.textContent = String(new Date().getFullYear());
   });
 
+  function syncHomepagePaperInventory() {
+    var section = document.querySelector('#writing');
+    if (!section || !document.body.classList.contains('profile-page')) return;
+
+    document.querySelectorAll('.profile-metrics article').forEach(function (card) {
+      if ((card.textContent || '').indexOf('published working papers') === -1) return;
+      var value = card.querySelector('strong');
+      if (value) value.textContent = '6';
+    });
+
+    var sectionSummary = section.querySelector('.section-heading > p');
+    if (sectionSummary) {
+      sectionSummary.textContent = 'Six dated papers cover technical interviewing, metric semantics, finance investigation, deterministic AI boundaries, accountable systems, and architecture operating style.';
+    }
+
+    var list = section.querySelector('.writing-list');
+    if (list && !list.querySelector('a[href="blogs/technical-interviews-in-the-ai-assisted-era.html"]')) {
+      var entry = document.createElement('a');
+      entry.className = 'writing-entry reveal';
+      entry.href = 'blogs/technical-interviews-in-the-ai-assisted-era.html';
+      entry.innerHTML = '<span>Working paper / Engineering evaluation</span><h3>What Are We Actually Testing? Technical Interviews in the AI-Assisted Era</h3><p>A measurement framework for architecture, verification, communication, and governance when AI can generate code.</p><b>Read paper ↗</b>';
+      list.insertBefore(entry, list.firstChild);
+      while (list.children.length > 3) list.removeChild(list.lastElementChild);
+    }
+
+    var action = section.querySelector('.section-action a');
+    if (action) action.textContent = 'View all six working papers';
+  }
+
+  syncHomepagePaperInventory();
+
   function slugify(value) {
     return value.toLowerCase().replace(/&/g, ' and ').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 72) || 'section';
   }
