@@ -1,6 +1,7 @@
 import { test, expect } from '@playwright/test';
 
 const paperRoutes = [
+  '/blogs/technical-interviews-in-the-ai-assisted-era.html',
   '/blogs/metric-contracts-for-decision-grade-analytics.html',
   '/blogs/from-variance-to-decision.html',
   '/blogs/ai-proposes-deterministic-systems-decide.html',
@@ -67,7 +68,7 @@ for (const route of paperRoutes) {
   });
 }
 
-test('homepage uses six-system and five-paper inventory', async ({ page }) => {
+test('homepage uses six-system and six-paper inventory', async ({ page }) => {
   await page.goto('/');
   await expect(page.locator('.profile-metrics article')).toHaveCount(4);
   await expect(page.getByText('showcased systems', { exact: true })).toBeVisible();
@@ -75,22 +76,37 @@ test('homepage uses six-system and five-paper inventory', async ({ page }) => {
   await expect(systemMetric).toHaveText('6');
   await expect(page.getByText('published working papers', { exact: true })).toBeVisible();
   const paperMetric = page.locator('.profile-metrics article').filter({ hasText: 'published working papers' }).locator('strong');
-  await expect(paperMetric).toHaveText('5');
+  await expect(paperMetric).toHaveText('6');
   await expect(page.locator('.work-entry')).toHaveCount(6);
   await expect(page.locator('.writing-entry')).toHaveCount(3);
   await expect(page.getByRole('heading', { name: 'Unified Knowledge Base — AI Brain', exact: true })).toBeVisible();
-  await expect(page.getByRole('link', { name: 'View all five working papers' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'What Are We Actually Testing? Technical Interviews in the AI-Assisted Era', exact: true })).toBeVisible();
+  await expect(page.getByRole('link', { name: 'View all six working papers' })).toBeVisible();
   await expect(page.getByText('457', { exact: true })).toHaveCount(0);
   await expect(page.getByText('200+', { exact: true })).toHaveCount(0);
 });
 
-test('writing index lists five papers and a separate roadmap', async ({ page }) => {
+test('writing index lists six papers and a separate roadmap', async ({ page }) => {
   await page.goto('/blogs/');
-  await expect(page.locator('.blog-card')).toHaveCount(5);
+  await expect(page.locator('.blog-card')).toHaveCount(6);
   await expect(page.locator('.paper-roadmap-item')).toHaveCount(4);
+  await expect(page.getByRole('heading', { name: 'What Are We Actually Testing? Technical Interviews in the AI-Assisted Era' })).toBeVisible();
   await expect(page.getByRole('heading', { name: 'Metric Contracts for Decision-Grade Analytics' })).toBeVisible();
   await expect(page.getByRole('heading', { name: 'From Variance to Decision' })).toBeVisible();
   await expect(page.getByRole('heading', { name: 'AI Proposes, Deterministic Systems Decide' })).toBeVisible();
+});
+
+test('AI-era interview paper preserves the measurement-design thesis', async ({ page }) => {
+  await page.goto('/blogs/technical-interviews-in-the-ai-assisted-era.html', { waitUntil: 'domcontentloaded' });
+  const main = page.locator('main.blog-article');
+  await expect(main).toContainText('AI policy is measurement design');
+  await expect(main).toContainText('Four interview modes');
+  await expect(main).toContainText('A staged interview design');
+  await expect(main).toContainText('The company’s data posture belongs in the interview');
+  await expect(main).toContainText('what to build, why it matters, how to evaluate it');
+  await expect(page.locator('table.paper-framework')).toHaveCount(2);
+  await expect(page.locator('.paper-references li')).toHaveCount(6);
+  await expect(page.locator('.paper-byline')).toContainText('August 13, 2026');
 });
 
 test('AI Brain case study preserves the active-scaffold boundary', async ({ page }) => {
@@ -147,10 +163,11 @@ test('scroll reveal, theme persistence, legacy hashes, and landmarks remain inta
   await expect(page.getByRole('navigation', { name: 'Primary navigation' })).toBeVisible();
 });
 
-test('attach homepage, paper index, Mangrok, and AI Brain screenshots', async ({ page }, testInfo) => {
+test('attach homepage, paper index, AI-era paper, Mangrok, and AI Brain screenshots', async ({ page }, testInfo) => {
   for (const [route, name, locator] of [
     ['/', 'homepage-full', null],
     ['/blogs/', 'working-papers-full', null],
+    ['/blogs/technical-interviews-in-the-ai-assisted-era.html', 'ai-era-interview-paper', null],
     ['/projects/mangrok-recipe-vault.html', 'mangrok-current', '.flow-showcase'],
     ['/projects/governed-ai-brain.html', 'governed-ai-brain', '.flow-showcase']
   ]) {
