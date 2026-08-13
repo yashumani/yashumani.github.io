@@ -84,37 +84,6 @@
     node.textContent = String(new Date().getFullYear());
   });
 
-  function syncHomepagePaperInventory() {
-    var section = document.querySelector('#writing');
-    if (!section || !document.body.classList.contains('profile-page')) return;
-
-    document.querySelectorAll('.profile-metrics article').forEach(function (card) {
-      if ((card.textContent || '').indexOf('published working papers') === -1) return;
-      var value = card.querySelector('strong');
-      if (value) value.textContent = '6';
-    });
-
-    var sectionSummary = section.querySelector('.section-heading > p');
-    if (sectionSummary) {
-      sectionSummary.textContent = 'Six dated papers cover technical interviewing, metric semantics, finance investigation, deterministic AI boundaries, accountable systems, and architecture operating style.';
-    }
-
-    var list = section.querySelector('.writing-list');
-    if (list && !list.querySelector('a[href="blogs/technical-interviews-in-the-ai-assisted-era.html"]')) {
-      var entry = document.createElement('a');
-      entry.className = 'writing-entry reveal';
-      entry.href = 'blogs/technical-interviews-in-the-ai-assisted-era.html';
-      entry.innerHTML = '<span>Working paper / Engineering evaluation</span><h3>What Are We Actually Testing? Technical Interviews in the AI-Assisted Era</h3><p>A measurement framework for architecture, verification, communication, and governance when AI can generate code.</p><b>Read paper ↗</b>';
-      list.insertBefore(entry, list.firstChild);
-      while (list.children.length > 3) list.removeChild(list.lastElementChild);
-    }
-
-    var action = section.querySelector('.section-action a');
-    if (action) action.textContent = 'View all six working papers';
-  }
-
-  syncHomepagePaperInventory();
-
   function slugify(value) {
     return value.toLowerCase().replace(/&/g, ' and ').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 72) || 'section';
   }
@@ -179,13 +148,30 @@
     if (window.location.pathname.indexOf('/projects/') !== -1 && !main.querySelector('.case-review-stamp')) {
       var stamp = document.createElement('p');
       stamp.className = 'case-review-stamp';
-      stamp.textContent = 'Content snapshot reviewed August 12, 2026 · Project-specific metrics and maturity claims belong to this case study, not the profile summary.';
+      stamp.textContent = 'Content snapshot reviewed August 12, 2026 · Project metrics and maturity claims apply to this case study, not the profile as a whole.';
       var anchor = main.querySelector('.case-hero-meta, .stats-line, .case-metrics');
       if (anchor && anchor.parentNode) anchor.parentNode.insertBefore(stamp, anchor.nextSibling);
     }
   }
 
   initCaseStudyStructure();
+
+  function loadPaperContentSync() {
+    var slugs = {
+      'ai-powered-vs-ai-generated.html': true,
+      'neurodivergent-ai-architect.html': true
+    };
+    var slug = window.location.pathname.split('/').pop() || '';
+    if (!slugs[slug]) return;
+    var assetRoot = mainScriptUrl ? mainScriptUrl.replace(/js\/main\.js(?:\?.*)?$/, '') : '../';
+    var script = document.createElement('script');
+    script.src = assetRoot + 'js/paper-content-sync.js';
+    script.async = true;
+    script.setAttribute('data-paper-content-sync', 'true');
+    document.body.appendChild(script);
+  }
+
+  loadPaperContentSync();
 
   function initReveals() {
     var reveals = Array.prototype.slice.call(document.querySelectorAll('.reveal'));
@@ -218,13 +204,14 @@
     var sections = links.map(function (link) { return document.querySelector(link.getAttribute('href')); }).filter(Boolean);
     if (!sections.length) return;
     var observer = new IntersectionObserver(function (entries) {
-      var visible = entries.filter(function (entry) { return entry.isIntersecting; }).sort(function (a,b) { return b.intersectionRatio - a.intersectionRatio; });
+      var visible = entries.filter(function (entry) { return entry.isIntersecting; }).sort(function (a, b) { return b.intersectionRatio - a.intersectionRatio; });
       if (!visible.length) return;
       var id = visible[0].target.id;
       links.forEach(function (link) {
         var active = link.getAttribute('href') === '#' + id;
         link.classList.toggle('is-active', active);
-        if (active) link.setAttribute('aria-current', 'location'); else link.removeAttribute('aria-current');
+        if (active) link.setAttribute('aria-current', 'location');
+        else link.removeAttribute('aria-current');
       });
     }, { threshold: [0.18, 0.35, 0.6], rootMargin: '-20% 0px -55% 0px' });
     sections.forEach(function (section) { observer.observe(section); });
@@ -232,7 +219,13 @@
   initSectionNavigation();
 
   function loadProjectFlowDiagrams() {
-    var slugs = { 'mangrok-recipe-vault.html': true, 'where-it-happened.html': true, 'my-seventh-meal.html': true, 'mlops-solution-accelerator.html': true, 'agentic-knowledge-runtime.html': true };
+    var slugs = {
+      'mangrok-recipe-vault.html': true,
+      'where-it-happened.html': true,
+      'my-seventh-meal.html': true,
+      'mlops-solution-accelerator.html': true,
+      'agentic-knowledge-runtime.html': true
+    };
     var slug = window.location.pathname.split('/').pop() || '';
     if (!slugs[slug]) return;
     var assetRoot = mainScriptUrl ? mainScriptUrl.replace(/js\/main\.js(?:\?.*)?$/, '') : '../';
@@ -258,5 +251,6 @@
       document.body.appendChild(script);
     }
   }
+
   loadProjectFlowDiagrams();
 })();
