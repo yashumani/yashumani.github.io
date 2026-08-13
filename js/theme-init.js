@@ -42,7 +42,18 @@
     toggle.className = 'theme-toggle';
     toggle.type = 'button';
     toggle.textContent = 'Theme';
-    toggle.setAttribute('aria-label', document.documentElement.getAttribute('data-theme') === 'dark' ? 'Use light mode' : 'Use dark mode');
+
+    function syncLabel() {
+      toggle.setAttribute('aria-label', document.documentElement.getAttribute('data-theme') === 'dark' ? 'Use light mode' : 'Use dark mode');
+    }
+
+    toggle.addEventListener('click', function () {
+      var next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+      syncLabel();
+    });
+    syncLabel();
     nav.appendChild(toggle);
 
     shell.appendChild(nav);
