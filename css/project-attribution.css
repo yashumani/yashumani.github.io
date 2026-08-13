@@ -1,0 +1,105 @@
+/* Project actions and source attribution */
+
+.case-links.case-links-top {
+  position: sticky;
+  z-index: 8;
+  top: calc(var(--header-height) + 10px);
+  max-width: none !important;
+  margin: 24px 0 46px;
+  padding: 15px;
+  gap: 10px;
+  border: 1px solid var(--line-strong);
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--surface) 92%, transparent);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(16px);
+}
+
+.case-links-label {
+  display: flex;
+  flex: 1 0 100%;
+  align-items: center;
+  color: var(--text-muted);
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.case-links.case-links-top a {
+  min-height: 44px;
+  padding-inline: 16px;
+}
+
+.case-links.case-links-top a:first-of-type {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: var(--accent-contrast, #ffffff);
+}
+
+.case-links.case-links-top a:first-of-type:hover {
+  filter: brightness(1.06);
+  color: var(--accent-contrast, #ffffff);
+}
+
+.source-attribution-section {
+  max-width: none;
+  margin: 88px 0 40px;
+  padding-top: 34px;
+  border-top: 1px solid var(--line);
+}
+
+.source-attribution-section > h2 {
+  margin: 0 0 16px;
+  font-size: clamp(1.85rem, 3vw, 2.65rem);
+}
+
+.project-origin-note,
+.paper-source-boundary {
+  max-width: var(--reading);
+  margin: 0 0 22px;
+  padding: 18px 20px;
+  border-left: 4px solid var(--accent);
+  background: var(--surface-alt);
+  color: var(--text-muted);
+  font-size: 0.84rem;
+  line-height: 1.62;
+}
+
+.paper-source-boundary {
+  margin-top: 24px;
+}
+
+.project-references {
+  max-width: var(--reading) !important;
+}
+
+.project-references li,
+.paper-references li {
+  scroll-margin-top: calc(var(--header-height) + 24px);
+}
+
+@media (max-width: 700px) {
+  .case-links.case-links-top {
+    position: static;
+    margin-top: 22px;
+    padding: 12px;
+    backdrop-filter: none;
+  }
+
+  .case-links.case-links-top a {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .source-attribution-section {
+    margin-top: 68px;
+  }
+}
+
+@media print {
+  .case-links.case-links-top {
+    display: none !important;
+  }
+}

@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DQ Check Platform | Yashu Sharma</title>
+  <meta name="description" content="A data-quality-aware anomaly and variance investigation platform that profiles analysis readiness before ranking drivers.">
+  <link rel="canonical" href="https://yashumani.github.io/projects/dq-check-platform.html">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="DQ Check Platform | Yashu Sharma">
+  <meta property="og:description" content="A live browser research prototype for data profiling, readiness gating, all-dimension investigation, contribution ranking, and grounded conversational analysis.">
+  <meta property="og:url" content="https://yashumani.github.io/projects/dq-check-platform.html">
+  <meta name="twitter:card" content="summary">
+  <meta name="theme-color" content="#0b0d10">
+  <script src="../js/theme-init.js"></script>
+  <link rel="icon" href="../assets/images/avatar.jpg" type="image/jpeg">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/media.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap nav-shell">
+      <a class="brand" href="../index.html"><span class="brand-mark" aria-hidden="true">YS</span><span>Yashu Sharma</span></a>
+      <nav class="site-nav" aria-label="Primary navigation">
+        <a href="../index.html#work">Work</a>
+        <a href="../index.html#capabilities">Capabilities</a>
+        <a href="../blogs/">Writing</a>
+        <a href="../index.html#about">About</a>
+        <a href="../index.html#contact">Contact</a>
+        <button class="theme-toggle" type="button" aria-label="Use dark mode">
+          <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+          <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3 7 7 0 0 0 21 12.8z"/></svg>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap case-study-wrap" id="main-content">
+    <a class="back-link" href="../index.html#work"><span class="back-arrow">←</span> Featured work</a>
+    <p class="paper-kicker">Data product / Quality engineering / Finance investigation</p>
+    <h1>DQ Check Platform</h1>
+    <p class="case-lede">I built DQ Check because an anomaly ranking is only useful when the data behind it is fit for analysis. The platform profiles the dataset first, shows what is safe to use, and recalculates the investigation every time the user narrows the cohort.</p>
+
+    <div class="case-hero-meta" aria-label="Project metadata">
+      <div><span>My role</span><strong>Product architecture, analytical design, TypeScript implementation, data-quality model</strong></div>
+      <div><span>Current state</span><strong>Live browser research prototype; production backend and warehouse-scale execution are not implemented</strong></div>
+      <div><span>Delivery</span><strong>Insights workspace, Data Quality Explorer, CSV/JSON ingestion, deterministic chat, optional BYO LLM, downloadable quality report</strong></div>
+      <div><span>Reviewed</span><strong>August 13, 2026</strong></div>
+    </div>
+
+    <div class="case-links" aria-label="DQ Check project links">
+      <a href="https://yashumani.github.io/drill-down-anamoly/" target="_blank" rel="noopener">Open live prototype</a>
+      <a href="https://github.com/yashumani/drill-down-anamoly" target="_blank" rel="noopener">View repository</a>
+      <a href="https://github.com/yashumani/drill-down-anamoly/blob/main/docs/deep-code-review-data-quality.md" target="_blank" rel="noopener">Read technical review</a>
+    </div>
+
+    <h2>Why I built it</h2>
+    <p>Finance and operations users rarely need another red dot. They need to know whether the comparison is valid, where the movement is concentrated, which slice should be tested next, and what the records do not support. I wanted one workspace that keeps those questions connected.</p>
+
+    <h2>What the platform does</h2>
+    <div class="case-grid">
+      <article>
+        <h3>Profiles before it ranks</h3>
+        <p>The Data Quality Explorer checks the dataset and identifies which measures and dimensions are ready for analysis.</p>
+      </article>
+      <article>
+        <h3>Rescans after every drill</h3>
+        <p>Each selection creates a new cohort. The engine then reruns the eligible dimensions instead of preserving a stale first-pass ranking.</p>
+      </article>
+      <article>
+        <h3>Keeps support visible</h3>
+        <p>Signed contribution, per-row movement, concentration, cardinality, and minimum support remain available beside the ranking.</p>
+      </article>
+      <article>
+        <h3>Shares one analytical state</h3>
+        <p>The charts and conversational analyst operate on the same cohort, filters, quality evidence, and semantic labels.</p>
+      </article>
+    </div>
+
+    <h2>Architecture</h2>
+    <div class="architecture-flow architecture-flow-six" role="img" aria-label="DQ Check architecture from file ingestion to quality profiling, investigation, shared state, and export">
+      <div class="architecture-node"><span>01 / Input</span><strong>CSV and JSON parser</strong><small>Preserves identifiers, flattens shallow objects, enforces public-demo size limits, and records rejected rows.</small></div>
+      <div class="architecture-node"><span>02 / Quality</span><strong>Dataset profiler</strong><small>Checks readiness, column behavior, missingness, duplicates, types, dates, outliers, variants, and PII-like fields.</small></div>
+      <div class="architecture-node"><span>03 / Semantics</span><strong>Typed analytical profile</strong><small>Identifies reliable measures, comparison fields, eligible dimensions, labels, and valid hierarchy links.</small></div>
+      <div class="architecture-node"><span>04 / Engine</span><strong>Cohort investigation</strong><small>Calculates residuals, rescans dimensions, ranks categories, and prunes supported interaction candidates.</small></div>
+      <div class="architecture-node"><span>05 / Experience</span><strong>Shared visual and chat state</strong><small>Every click or deterministic-chat instruction changes the same cohort and repeats the scan.</small></div>
+      <div class="architecture-node"><span>06 / Evidence</span><strong>Reports and hypotheses</strong><small>Exports the quality report and treats news or analyst context as hypotheses rather than causal proof.</small></div>
+    </div>
+
+    <h2>Data quality comes before ranking</h2>
+    <p>The browser profiler covers completeness, uniqueness, validity, conformity, consistency, integrity, distribution, privacy, and readiness checks that can be supported by the uploaded file. It also makes the gaps explicit. Accuracy, reference integrity, lineage, drift, and timeliness need trusted reference data, stored history, or governed business rules; the prototype does not pretend otherwise.</p>
+    <ul class="clean">
+      <li>Per-column role, type, missingness, cardinality, uniqueness, top values, quartiles, outliers, and date coverage.</li>
+      <li>Exact duplicate, ragged-row, empty-row, mixed-type, whitespace/case variant, invalid-date, future-date, constant, near-constant, high-cardinality, identifier, and PII-like detection.</li>
+      <li>Numeric correlations, candidate functional dependencies, hierarchy suggestions, and co-missingness patterns.</li>
+      <li>An analysis-readiness gate before a field can participate in driver ranking.</li>
+    </ul>
+
+    <h2>Investigation model</h2>
+    <ol class="clean">
+      <li>Exclude invalid Actual and Expected rows and show how many were removed.</li>
+      <li>Calculate <code>Actual - Expected</code>; when Expected is missing, use an explicitly labeled cohort-median fallback.</li>
+      <li>Group each remaining eligible dimension independently inside the current cohort.</li>
+      <li>Score drivers using grouped impact, distinctiveness, concentration, support, and a cardinality penalty.</li>
+      <li>Rank signed category contributions while preserving row counts and per-row movement.</li>
+      <li>Search supported two- and three-dimensional interaction segments after pruning weak candidates.</li>
+      <li>Repeat the full scan after every chart or chat drill.</li>
+    </ol>
+
+    <h2>What works today</h2>
+    <ul class="clean">
+      <li>Clean and intentionally messy demonstration datasets.</li>
+      <li>Browser upload for tabular CSV and JSON, with public-demo limits of 25 MB and 100,000 rows.</li>
+      <li>Actual-versus-Target/Expected analysis and an exploratory robust-median fallback.</li>
+      <li>All-dimension factor ranking, signed contribution charts, hierarchy navigation, and supported interaction search.</li>
+      <li>A searchable raw-data preview and downloadable JSON quality report.</li>
+      <li>Deterministic conversational analysis plus an optional user-supplied OpenAI-compatible endpoint.</li>
+      <li>Public-news context that remains separate from the numerical evidence.</li>
+    </ul>
+
+    <h2>What it does not claim</h2>
+    <div class="case-callout warning">
+      <p class="mono-label">Analytical boundary</p>
+      <p>The output is association and attribution, not proof of causation. A concentrated segment is a supported place to investigate. It is not evidence that the segment caused the movement.</p>
+    </div>
+    <p>The median fallback is not a seasonal forecast or predictive anomaly model. Additive contribution requires compatible Actual and Expected grain. Ratios and rates need numerator-and-denominator-aware attribution. External news and analyst notes are hypotheses to test against time, geography, product, channel, and unaffected comparison groups.</p>
+
+    <h2>Security and privacy boundary</h2>
+    <ul class="clean">
+      <li>Uploaded data remains in the current browser session.</li>
+      <li>The default deterministic chat does not call an outside model.</li>
+      <li>An optional user-provided LLM receives aggregated analytical and quality evidence rather than the full raw dataset.</li>
+      <li>API keys remain in page memory and are not persisted.</li>
+      <li>External text is handled as untrusted context in the model instruction.</li>
+    </ul>
+    <p>A production deployment still needs authentication, tenant isolation, a secured backend proxy, DLP controls, audit logging, secret management, and warehouse-scale execution.</p>
+
+    <h2>Current limits</h2>
+    <ul class="clean">
+      <li>Metric polarity is not yet governed; real metrics need higher-is-better or lower-is-better metadata.</li>
+      <li>Accuracy and referential integrity require trusted reference data.</li>
+      <li>Drift and volume incidents require stored historical profiles.</li>
+      <li>Browser-side combinatorial search is not designed for warehouse-scale datasets.</li>
+      <li>The repository still needs a committed package lock and broader automated unit and end-to-end coverage.</li>
+    </ul>
+
+    <h2>What I learned</h2>
+    <p>Data quality is not a side panel attached to analysis. It changes which measures can be compared, which dimensions can be ranked, how much confidence a user should place in a result, and which next question is responsible to ask.</p>
+
+    <footer class="site-footer">
+      <p class="footer-note">&copy; <span data-current-year>2026</span> Yashu Sharma</p>
+    </footer>
+  </main>
+  <script src="../js/main.js"></script>
+</body>
+</html>
