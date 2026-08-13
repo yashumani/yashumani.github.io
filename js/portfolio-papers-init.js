@@ -13,7 +13,7 @@
 
     var boundary = document.createElement('p');
     boundary.className = 'paper-source-boundary';
-    boundary.textContent = 'Attribution boundary: external references establish published guidance, standards, product behavior, or prior art. The interpretations, examples, and proposed operating choices are the author’s unless a source is named directly.';
+    boundary.textContent = 'Attribution boundary: External references establish published guidance, standards, product behavior, or prior art. The interpretations, examples, and proposed operating choices are the author’s unless a source is named directly.';
     references.parentNode.insertBefore(boundary, references);
     api.addReferences(references, (window.PORTFOLIO_PAPER_SOURCES || {})[api.slug()] || []);
     main.setAttribute('data-attribution-ready', 'true');
