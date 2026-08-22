@@ -14,13 +14,14 @@ for (const route of animatedRoutes) {
   });
 }
 
-test('homepage lists seven systems and keeps profile-level metrics', async ({ page }) => {
+test('homepage lists eight systems and keeps profile-level metrics', async ({ page }) => {
   await page.goto('/', { waitUntil: 'domcontentloaded' });
-  await expect(page.locator('.work-entry')).toHaveCount(7, { timeout: 8_000 });
+  await expect(page.locator('.work-entry')).toHaveCount(8, { timeout: 8_000 });
   const systemMetric = page.locator('.profile-metrics article').filter({ hasText: 'showcased systems' }).locator('strong');
-  await expect(systemMetric).toHaveText('7');
+  await expect(systemMetric).toHaveText('8');
   await expect(page.getByRole('heading', { name: 'DQ Check Platform', exact: true })).toBeVisible();
   await expect(page.getByRole('heading', { name: 'Unified Knowledge Base — AI Brain', exact: true })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'HarnessLab — Agentic Harness Builder', exact: true })).toBeVisible();
   await expect(page.getByText('457', { exact: true })).toHaveCount(0);
   await expect(page.getByText('200+', { exact: true })).toHaveCount(0);
 });
@@ -35,6 +36,21 @@ test('DQ Check states its analytical, privacy, scale, and production boundaries'
   await expect(page.locator('.architecture-flow .architecture-node')).toHaveCount(6);
   await expect(page.locator('.case-links-top a')).toHaveCount(3, { timeout: 8_000 });
   await expect(page.getByRole('link', { name: 'Open live prototype' })).toBeVisible();
+  await expect(page.getByRole('link', { name: 'View repository' })).toBeVisible();
+});
+
+test('HarnessLab states its executed worker and roadmap boundaries', async ({ page }) => {
+  await page.goto('/projects/agentic-harness-builder.html', { waitUntil: 'domcontentloaded' });
+  const main = page.locator('main.case-study-wrap');
+  await expect(main).toContainText('One worker. One provider call. No tools. No child agents. No external actions.');
+  await expect(main).toContainText('does not execute MCP tools, A2A peers, arbitrary code');
+  await expect(main).toContainText('not encrypted cloud storage or cross-device synchronization');
+  await expect(main).toContainText('Roadmap, not current-state claims');
+  await expect(page.locator('.flow-showcase .architecture-stage')).toHaveCount(4);
+  await expect(page.locator('.flow-showcase .architecture-node')).toHaveCount(16);
+  await expect(page.locator('.flow-showcase .flow-lane:not([hidden])')).toHaveCount(3);
+  await expect(page.locator('.case-links-top a')).toHaveCount(3, { timeout: 8_000 });
+  await expect(page.getByRole('link', { name: 'Open live application' })).toBeVisible();
   await expect(page.getByRole('link', { name: 'View repository' })).toBeVisible();
 });
 
