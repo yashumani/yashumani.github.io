@@ -15,6 +15,7 @@ export const projectRoutes = [
   '/projects/my-seventh-meal.html',
   '/projects/dq-check-platform.html',
   '/projects/governed-ai-brain.html',
+  '/projects/agentic-harness-builder.html',
   '/projects/mlops-solution-accelerator.html',
   '/projects/agentic-knowledge-runtime.html'
 ];
@@ -46,7 +47,10 @@ for (const route of projectRoutes) {
     const gap = await firstHeading.evaluate(node => Number.parseFloat(getComputedStyle(node).columnGap));
     expect(gap).toBeGreaterThan(0);
     await expect(page.locator('.case-toc')).toBeVisible();
-    await expect(page.locator('.case-review-stamp')).toContainText('August 13, 2026', { timeout: 8_000 });
+    const reviewDate = route.endsWith('/agentic-harness-builder.html')
+      ? 'August 21, 2026'
+      : 'August 13, 2026';
+    await expect(page.locator('.case-review-stamp')).toContainText(reviewDate, { timeout: 8_000 });
     await expect(page.locator('.source-attribution-section')).toBeVisible({ timeout: 8_000 });
     await expect(page.locator('.project-origin-note')).toContainText('not invention of the underlying concepts');
     expect(await page.locator('.project-references a').count()).toBeGreaterThanOrEqual(2);
