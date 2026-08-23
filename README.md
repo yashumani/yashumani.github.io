@@ -1,15 +1,27 @@
 # Yashu Sharma — Product, Data & AI Systems
 
-Static GitHub Pages portfolio for product engineering, business intelligence, data analytics, applied AI, MLOps, agent architecture, and technical writing.
+Static GitHub Pages portfolio for product engineering, business intelligence, data analytics, applied AI, MLOps, agent architecture, career history, presentations, and technical writing.
 
 ## Information architecture
 
 - **Featured work:** Mangrok Recipe Vault, Where It Happened, My Seventh Meal, DQ Check Platform, Unified Knowledge Base — AI Brain, HarnessLab — Agentic Harness Builder, Automated ML Pipeline Platform, and Agentic Knowledge & Research Runtime.
+- **Resume:** source-labeled career history from the available March 2023 resume snapshot, the owner-confirmed current title, education, certifications, skills, and a clear separation between employment and independent portfolio work.
+- **Professional presentation:** downloadable PDF and PowerPoint explaining the career record, capabilities, portfolio systems, AI philosophy, and professional direction.
 - **Engineering proof:** implementation choices, security boundaries, reproducibility, performance, safe failure behavior, and honest current-state limits.
 - **Capabilities:** product/data strategy, applied AI, agent-harness design, platform engineering, security/reliability, measurement, and delivery.
 - **Writing:** working papers on accountable AI systems, decision-grade analytics, technical interviewing, and operating discipline.
 
-The visual system is an original implementation. It uses a developer-portfolio content model—projects, technical tags, case studies, writing, and experience—without copying third-party template code or licensed assets.
+The visual system is an original implementation. It uses a developer-portfolio content model—projects, technical tags, case studies, writing, career history, and evidence—without copying third-party template code or licensed assets.
+
+## Resume source boundary
+
+The public resume page distinguishes three sources:
+
+1. Career history and education from `Yashu_Sharma_resume_exp_update.docx`, last modified March 4, 2023.
+2. The current title, Senior Manager in Business Intelligence and Data Analytics, supplied directly by the profile owner.
+3. Independent systems grounded in current repositories and case studies, and explicitly not presented as employer experience.
+
+The page does not infer the current employer, current-role dates, team scope, or business-impact metrics without a reconciled resume source. The phone number from the historical resume is not published on the website.
 
 ## Local preview
 
@@ -21,7 +33,7 @@ Open `http://localhost:8000`.
 
 ## Quality checks
 
-The published site has no runtime build dependency. Development-only checks validate metadata, local links, anchors, assets, JavaScript syntax, responsive layout, theme persistence, legacy routes, project source attribution, animated architecture views, and core accessibility landmarks.
+The published site has no runtime build dependency. Development-only checks validate metadata, local links, anchors, assets, JavaScript syntax, responsive layout, theme persistence, legacy routes, project source attribution, resume source boundaries, downloadable presentation files, animated architecture views, and core accessibility landmarks.
 
 ```bash
 npm install
@@ -35,18 +47,22 @@ Pull requests and pushes to `main` run the same checks in GitHub Actions. The br
 
 ```text
 index.html                  Portfolio homepage
+resume.html                 Source-labeled career profile and professional direction
 projects/                   Technical case studies
 blogs/                      Writing index and articles
+media/                      Downloadable professional presentation in PDF and PPTX
 css/style.css               Ordered stylesheet entrypoint
 css/base.css                Tokens, reset, navigation, and shared primitives
 css/projects.css            Project-card visuals and technical mockups
 css/sections.css            Homepage sections and content modules
 css/case.css                Case-study and writing layouts
+css/resume.css              Resume timeline, capability, project, and print layouts
 css/flow-diagrams.css       Shared animated architecture and execution visuals
 css/media.css               Responsive and print behavior
 css/fixes.css               Compatibility corrections loaded last
 js/main.js                  Ordered runtime loader
 js/main-core.js             Theme, navigation, headings, reveals, and project-flow loading
+js/portfolio-resume.js      Resume navigation and homepage career summary
 js/portfolio-projects.js    Homepage project inventory and case-study action placement
 js/portfolio-sources*.js    Project and paper source attribution
 js/flow-diagrams.js         Shared project architecture and execution diagrams
@@ -60,10 +76,11 @@ assets/                     Profile image and architecture diagrams
 ## Implementation principles
 
 - No build dependency is required for the portfolio itself.
-- Content remains usable without JavaScript; JavaScript adds inventory updates, attribution, navigation behavior, and interactive architecture views.
+- Core pages remain readable without JavaScript; JavaScript adds homepage inventory updates, resume navigation, attribution, navigation behavior, and interactive architecture views.
 - Dark/light theme preference persists locally.
+- Career history, current owner-supplied information, and independent portfolio evidence remain visibly separated.
 - Case studies distinguish live functionality, source-complete work, planned architecture, and external activation boundaries.
 - Project claims are tied to repositories, specifications, standards, or other named sources where applicable.
 - Existing project and article URLs remain in place.
 - Legacy homepage anchors route visitors to the nearest replacement section.
-- Automated checks fail on broken internal references, missing metadata, duplicate IDs, document-level mobile overflow, missing source attribution, and interaction regressions.
+- Automated checks fail on broken internal references, missing metadata, duplicate IDs, document-level mobile overflow, missing source attribution, missing resume files, and interaction regressions.
