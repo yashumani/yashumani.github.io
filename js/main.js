@@ -10,10 +10,12 @@
     document.body.appendChild(script);
   }
   load('main-core.js', function () {
-    load('portfolio-sources.js', function () {
-      load('portfolio-sources-harnesslab.js', function () {
-        load('portfolio-attribution-helpers.js', function () {
-          load('portfolio-projects.js', function () { load('portfolio-papers-init.js'); });
+    load('portfolio-resume.js', function () {
+      load('portfolio-sources.js', function () {
+        load('portfolio-sources-harnesslab.js', function () {
+          load('portfolio-attribution-helpers.js', function () {
+            load('portfolio-projects.js', function () { load('portfolio-papers-init.js'); });
+          });
         });
       });
     });
