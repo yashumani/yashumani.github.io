@@ -1,16 +1,16 @@
 (function () {
   'use strict';
 
-  function relativeResumeHref() {
-    return window.location.pathname.indexOf('/projects/') !== -1 || window.location.pathname.indexOf('/blogs/') !== -1
-      ? '../resume.html'
-      : 'resume.html';
+  function isNestedPage() {
+    return window.location.pathname.indexOf('/projects/') !== -1 || window.location.pathname.indexOf('/blogs/') !== -1;
   }
 
-  function relativeDeckHref() {
-    return window.location.pathname.indexOf('/projects/') !== -1 || window.location.pathname.indexOf('/blogs/') !== -1
-      ? '../media/Yashu_Sharma_Professional_Profile.pdf'
-      : 'media/Yashu_Sharma_Professional_Profile.pdf';
+  function relativeResumeHref() {
+    return isNestedPage() ? '../resume.html' : 'resume.html';
+  }
+
+  function relativePresentationHref() {
+    return isNestedPage() ? '../professional-profile.html' : 'professional-profile.html';
   }
 
   function addResumeNavigation() {
@@ -43,7 +43,7 @@
       '<p>Case studies demonstrate data quality, governed context, MLOps, agent harnesses, privacy, product state, and deterministic AI boundaries.</p></article>' +
       '</div>' +
       '<div class="section-action reveal"><a class="button button-primary" href="resume.html">View resume and professional direction</a>' +
-      '<a class="button button-secondary" href="' + relativeDeckHref() + '" download>Download presentation PDF</a></div>' +
+      '<a class="button button-secondary" href="' + relativePresentationHref() + '">Open professional presentation</a></div>' +
       '</div>';
     return section;
   }
