@@ -20,7 +20,7 @@ export const projectRoutes = [
   '/projects/agentic-knowledge-runtime.html'
 ];
 
-const publicRoutes = ['/', '/blogs/', ...projectRoutes, ...paperRoutes];
+const publicRoutes = ['/', '/resume.html', '/professional-profile.html', '/blogs/', ...projectRoutes, ...paperRoutes];
 
 for (const route of publicRoutes) {
   test(`${route} loads without page errors or document overflow`, async ({ page }) => {
