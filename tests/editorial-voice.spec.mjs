@@ -1,6 +1,7 @@
 import { test, expect } from '@playwright/test';
 
 const renderedCopy = [
+  ['/resume.html', 'I want to make complex work easier to understand'],
   ['/blogs/technical-interviews-in-the-ai-assisted-era.html', 'Some companies encourage candidates to use an assistant'],
   ['/blogs/metric-contracts-for-decision-grade-analytics.html', 'The definition has to exist before the chart'],
   ['/blogs/from-variance-to-decision.html', 'The analysis should end with a supported next question'],
@@ -12,6 +13,7 @@ const renderedCopy = [
   ['/projects/my-seventh-meal.html', 'A photo can suggest what is on a plate'],
   ['/projects/dq-check-platform.html', 'I built DQ Check because an anomaly ranking is only useful when the data behind it is fit for analysis'],
   ['/projects/governed-ai-brain.html', 'I started this because connecting a model to a folder of documents does not create a trustworthy organizational memory'],
+  ['/projects/agentic-harness-builder.html', 'I built HarnessLab to answer a practical question'],
   ['/projects/mlops-solution-accelerator.html', 'I built one reusable pipeline instead of repeating the same training setup for every dataset'],
   ['/projects/agentic-knowledge-runtime.html', 'I built this because a useful research answer needs more than a strong prompt']
 ];
