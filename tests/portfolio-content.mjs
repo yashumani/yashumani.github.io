@@ -26,6 +26,44 @@ test('homepage lists eight systems and keeps profile-level metrics', async ({ pa
   await expect(page.getByText('200+', { exact: true })).toHaveCount(0);
 });
 
+test('homepage adds a source-labeled resume section and navigation', async ({ page }) => {
+  await page.goto('/', { waitUntil: 'domcontentloaded' });
+  await expect(page.getByRole('link', { name: 'Resume', exact: true })).toHaveAttribute('href', 'resume.html');
+  const section = page.locator('#resume');
+  await expect(section).toBeVisible({ timeout: 8_000 });
+  await expect(section).toContainText('Senior Manager · Business Intelligence · Data Analytics');
+  await expect(section).toContainText('Resume history through March 2023');
+  await expect(section).toContainText('Eight independent systems');
+  await expect(section.getByRole('link', { name: 'View resume and professional direction' })).toHaveAttribute('href', 'resume.html');
+  await expect(page.locator('#writing .section-index')).toHaveText('04 / Working papers');
+});
+
+test('resume page separates career history, current title, and portfolio evidence', async ({ page }) => {
+  await page.goto('/resume.html', { waitUntil: 'domcontentloaded' });
+  const main = page.locator('main');
+  await expect(main).toContainText('Drawn from the resume file last modified March 4, 2023.');
+  await expect(main).toContainText('Senior Manager, Business Intelligence and Data Analytics');
+  await expect(main).toContainText('kept separate from employment history');
+  await expect(main).toContainText('Business Data Analyst I');
+  await expect(main).toContainText('Technical Support Associate, Tier 1');
+  await expect(main).toContainText('Data Analytics and Business Statistics');
+  await expect(page.locator('.resume-project')).toHaveCount(8);
+  await expect(page.getByRole('link', { name: 'Download presentation PDF' })).toHaveAttribute('href', 'media/Yashu_Sharma_Professional_Profile.pdf');
+  await expect(page.getByRole('link', { name: 'Download PowerPoint' })).toHaveAttribute('href', 'media/Yashu_Sharma_Professional_Profile.pptx');
+  await expect(page.locator('body')).not.toContainText('+1 (929) 413-5472');
+  await expect(page.locator('body')).not.toContainText('929-413-5472');
+});
+
+test('resume page remains readable on mobile and keeps downloads visible', async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto('/resume.html', { waitUntil: 'domcontentloaded' });
+  await expect(page.locator('.resume-source-card')).toBeVisible();
+  await expect(page.locator('.resume-role').first()).toBeVisible();
+  await expect(page.getByRole('link', { name: 'Download presentation PDF' })).toBeVisible();
+  const overflow = await page.evaluate(() => Math.max(0, document.documentElement.scrollWidth - document.documentElement.clientWidth));
+  expect(overflow).toBeLessThanOrEqual(2);
+});
+
 test('DQ Check states its analytical, privacy, scale, and production boundaries', async ({ page }) => {
   await page.goto('/projects/dq-check-platform.html', { waitUntil: 'domcontentloaded' });
   const main = page.locator('main.case-study-wrap');
@@ -58,6 +96,7 @@ test('project actions are promoted above the first case-study section', async ({
   await page.goto('/projects/where-it-happened.html', { waitUntil: 'domcontentloaded' });
   const actions = page.locator('.case-links-top');
   await expect(actions).toBeVisible({ timeout: 8_000 });
+  await expect(page.getByRole('link', { name: 'Resume', exact: true })).toHaveAttribute('href', '../resume.html');
   const order = await page.evaluate(() => {
     const main = document.querySelector('main.case-study-wrap');
     const action = main?.querySelector('.case-links-top');
