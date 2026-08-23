@@ -3,7 +3,7 @@ import path from 'node:path';
 import process from 'node:process';
 
 const root = process.cwd();
-const targets = ['index.html', '404.html', 'blogs', 'projects'];
+const targets = ['index.html', '404.html', 'resume.html', 'professional-profile.html', 'blogs', 'projects'];
 const blockedPhrases = [
   'this paper proposes',
   'this paper presents',
