@@ -13,8 +13,16 @@
     load('portfolio-resume.js', function () {
       load('portfolio-sources.js', function () {
         load('portfolio-sources-harnesslab.js', function () {
-          load('portfolio-attribution-helpers.js', function () {
-            load('portfolio-projects.js', function () { load('portfolio-papers-init.js'); });
+          load('portfolio-sources-visualization.js', function () {
+            load('portfolio-attribution-helpers.js', function () {
+              load('portfolio-projects.js', function () {
+                load('portfolio-papers-init.js', function () {
+                  load('echarts-sankey-safety.js', function () {
+                    load('advanced-exploration.js');
+                  });
+                });
+              });
+            });
           });
         });
       });
