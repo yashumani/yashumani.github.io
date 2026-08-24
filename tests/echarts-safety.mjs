@@ -1,33 +1,5 @@
 import { test, expect } from '@playwright/test';
 
-function containsCycle(series) {
-  const adjacency = new Map();
-  for (const link of series.links || []) {
-    const source = String(link.source || '');
-    const target = String(link.target || '');
-    if (!adjacency.has(source)) adjacency.set(source, []);
-    adjacency.get(source).push(target);
-  }
-
-  function visit(node, active, done) {
-    if (active.has(node)) return true;
-    if (done.has(node)) return false;
-    active.add(node);
-    for (const next of adjacency.get(node) || []) {
-      if (visit(next, active, done)) return true;
-    }
-    active.delete(node);
-    done.add(node);
-    return false;
-  }
-
-  const done = new Set();
-  for (const node of adjacency.keys()) {
-    if (visit(node, new Set(), done)) return true;
-  }
-  return false;
-}
-
 test('DQ investigation Sankey is converted to an acyclic rescan path', async ({ page }) => {
   await page.addInitScript(() => {
     window.echarts = {
@@ -93,12 +65,11 @@ test('safety helper leaves an already acyclic Sankey unchanged', async ({ page }
     };
     const safe = window.PORTFOLIO_ECHARTS_SAFETY.sanitizeOption(option);
     return {
-      originalCycle: false,
-      safeCycle: (${containsCycle.toString()})(safe.series[0]),
-      names: safe.series[0].data.map(item => item.name)
+      names: safe.series[0].data.map(item => item.name),
+      links: safe.series[0].links.map(link => [link.source, link.target])
     };
   });
 
-  expect(result.safeCycle).toBe(false);
   expect(result.names).toEqual(['A', 'B', 'C']);
+  expect(result.links).toEqual([['A', 'B'], ['B', 'C']]);
 });
