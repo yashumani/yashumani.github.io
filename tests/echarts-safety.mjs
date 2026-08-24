@@ -55,6 +55,11 @@ test('DQ investigation Sankey is converted to an acyclic rescan path', async ({ 
 
 test('safety helper leaves an already acyclic Sankey unchanged', async ({ page }) => {
   await page.goto('/projects/dq-check-platform.html', { waitUntil: 'domcontentloaded' });
+  await page.waitForFunction(() => Boolean(
+    window.PORTFOLIO_ECHARTS_SAFETY &&
+    typeof window.PORTFOLIO_ECHARTS_SAFETY.sanitizeOption === 'function'
+  ), null, { timeout: 8_000 });
+
   const result = await page.evaluate(() => {
     const option = {
       series: [{
