@@ -14,29 +14,39 @@ for (const route of animatedRoutes) {
   });
 }
 
-test('homepage lists eight systems and keeps profile-level metrics', async ({ page }) => {
+test('homepage presents hiring-facing positioning and role-aligned project order', async ({ page }) => {
   await page.goto('/', { waitUntil: 'domcontentloaded' });
   await expect(page.locator('.work-entry')).toHaveCount(8, { timeout: 8_000 });
-  const systemMetric = page.locator('.profile-metrics article').filter({ hasText: 'showcased systems' }).locator('strong');
-  await expect(systemMetric).toHaveText('8');
-  await expect(page.getByRole('heading', { name: 'DQ Check Platform', exact: true })).toBeVisible();
+  await expect(page.locator('.career-proof article')).toHaveCount(4);
+  await expect(page.getByRole('heading', { name: 'I build the system behind the decision.' })).toBeVisible();
+  await expect(page.getByRole('link', { name: 'View professional profile' })).toHaveAttribute('href', 'resume.html');
+  await expect(page.getByRole('link', { name: 'Explore selected systems' })).toHaveAttribute('href', '#work');
+
+  const professional = page.locator('[data-work-group="professional"]');
+  const lab = page.locator('[data-work-group="lab"]');
+  await expect(professional.locator('.work-entry')).toHaveCount(5);
+  await expect(lab.locator('.work-entry')).toHaveCount(3);
+  await expect(professional.locator('.work-entry').first().getByRole('heading', { name: 'DQ Check Platform', exact: true })).toBeVisible();
   await expect(page.getByRole('heading', { name: 'Unified Knowledge Base — AI Brain', exact: true })).toBeVisible();
   await expect(page.getByRole('heading', { name: 'HarnessLab — Agentic Harness Builder', exact: true })).toBeVisible();
+  await expect(page.locator('body')).not.toContainText('showcased systems');
   await expect(page.getByText('457', { exact: true })).toHaveCount(0);
   await expect(page.getByText('200+', { exact: true })).toHaveCount(0);
 });
 
 test('homepage adds a source-labeled resume section and navigation', async ({ page }) => {
   await page.goto('/', { waitUntil: 'domcontentloaded' });
-  await expect(page.getByRole('link', { name: 'Resume', exact: true })).toHaveAttribute('href', 'resume.html');
+  await expect(page.getByRole('link', { name: 'Resume', exact: true }).first()).toHaveAttribute('href', 'resume.html');
   const section = page.locator('#resume');
   await expect(section).toBeVisible({ timeout: 8_000 });
   await expect(section).toContainText('Senior Manager · Business Intelligence · Data Analytics');
-  await expect(section).toContainText('Resume history through March 2023');
-  await expect(section).toContainText('Eight independent systems');
-  await expect(section.getByRole('link', { name: 'View resume and professional direction' })).toHaveAttribute('href', 'resume.html');
+  await expect(section).toContainText('verified resume record');
+  await expect(section).toContainText('Eight systems with explicit maturity labels');
+  await expect(section.getByRole('link', { name: 'View resume and career evidence' })).toHaveAttribute('href', 'resume.html');
   await expect(section.getByRole('link', { name: 'Open professional presentation' })).toHaveAttribute('href', 'professional-profile.html');
-  await expect(page.locator('#writing .section-index')).toHaveText('04 / Working papers');
+  await expect(page.locator('#capabilities .section-index')).toHaveText('03 / How I create value');
+  await expect(page.locator('#writing .section-index')).toHaveText('04 / Field notes');
+  await expect(page.locator('.ai-authorship-note')).toContainText('AI assists the work; it does not own the claim.');
 });
 
 test('resume page separates career history, current title, and portfolio evidence', async ({ page }) => {

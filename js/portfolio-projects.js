@@ -63,7 +63,7 @@
     var article = document.createElement('article');
     article.className = 'work-entry reveal in';
     article.setAttribute('data-project', 'dq-check-platform');
-    article.innerHTML = '<p class="work-index">04</p>' +
+    article.innerHTML = '<p class="work-index">01</p>' +
       '<div class="work-entry-main"><div class="work-entry-meta">' +
       '<span class="status-badge status-live">Live research prototype</span>' +
       '<span>Data quality · Variance investigation · Conversational analytics</span></div>' +
@@ -79,7 +79,7 @@
     var article = document.createElement('article');
     article.className = 'work-entry reveal in';
     article.setAttribute('data-project', 'agentic-harness-builder');
-    article.innerHTML = '<p class="work-index">06</p>' +
+    article.innerHTML = '<p class="work-index">05</p>' +
       '<div class="work-entry-main"><div class="work-entry-meta">' +
       '<span class="status-badge status-live">Live platform</span>' +
       '<span>Agent architecture · Bounded agency · Evaluation</span></div>' +
@@ -91,36 +91,87 @@
     return article;
   }
 
-  function insertAfter(reference, node) {
-    if (!reference || !reference.parentNode) return false;
-    reference.parentNode.insertBefore(node, reference.nextSibling);
-    return true;
+  function entryForHref(work, href) {
+    var link = work.querySelector('a[href="' + href + '"]');
+    return link && link.closest('.work-entry');
+  }
+
+  function appendInOrder(work, list, hrefs) {
+    hrefs.forEach(function (href) {
+      var entry = entryForHref(work, href);
+      if (entry) list.appendChild(entry);
+    });
+  }
+
+  function labelEntryProjects(work) {
+    var slugs = {
+      'projects/dq-check-platform.html': 'dq-check-platform',
+      'projects/mlops-solution-accelerator.html': 'mlops-solution-accelerator',
+      'projects/governed-ai-brain.html': 'governed-ai-brain',
+      'projects/agentic-knowledge-runtime.html': 'agentic-knowledge-runtime',
+      'projects/agentic-harness-builder.html': 'agentic-harness-builder',
+      'projects/mangrok-recipe-vault.html': 'mangrok-recipe-vault',
+      'projects/my-seventh-meal.html': 'my-seventh-meal',
+      'projects/where-it-happened.html': 'where-it-happened'
+    };
+    Object.keys(slugs).forEach(function (href) {
+      var entry = entryForHref(work, href);
+      if (entry) entry.setAttribute('data-project', slugs[href]);
+    });
   }
 
   api.updateHomeInventory = function () {
     var work = document.getElementById('work');
     if (!work) return;
+
     var groups = work.querySelectorAll('.work-group');
     if (groups.length < 2) return;
 
-    var platformGroup = groups[1];
-    var list = platformGroup.querySelector('.work-list');
-    if (!list) return;
+    var professionalGroup = work.querySelector('[data-work-group="professional"]') || groups[1];
+    var labGroup = work.querySelector('[data-work-group="lab"]') || groups[0];
+    var professionalList = professionalGroup.querySelector('.work-list');
+    var labList = labGroup.querySelector('.work-list');
+    if (!professionalList || !labList) return;
 
-    if (!work.querySelector('[data-project="dq-check-platform"]')) {
-      list.insertBefore(makeDqEntry(), list.firstChild);
+    if (!entryForHref(work, 'projects/dq-check-platform.html')) {
+      professionalList.insertBefore(makeDqEntry(), professionalList.firstChild);
+    }
+    if (!entryForHref(work, 'projects/agentic-harness-builder.html')) {
+      professionalList.appendChild(makeHarnessEntry());
     }
 
-    if (!work.querySelector('[data-project="agentic-harness-builder"]')) {
-      var aiBrainLink = list.querySelector('a[href="projects/governed-ai-brain.html"]');
-      var aiBrainEntry = aiBrainLink && aiBrainLink.closest('.work-entry');
-      if (!insertAfter(aiBrainEntry, makeHarnessEntry())) list.appendChild(makeHarnessEntry());
+    labelEntryProjects(work);
+
+    appendInOrder(work, professionalList, [
+      'projects/dq-check-platform.html',
+      'projects/mlops-solution-accelerator.html',
+      'projects/governed-ai-brain.html',
+      'projects/agentic-knowledge-runtime.html',
+      'projects/agentic-harness-builder.html'
+    ]);
+
+    appendInOrder(work, labList, [
+      'projects/mangrok-recipe-vault.html',
+      'projects/my-seventh-meal.html',
+      'projects/where-it-happened.html'
+    ]);
+
+    professionalGroup.setAttribute('data-work-group', 'professional');
+    labGroup.setAttribute('data-work-group', 'lab');
+    labGroup.classList.add('work-group-lab');
+    if (professionalGroup.compareDocumentPosition(labGroup) & Node.DOCUMENT_POSITION_PRECEDING) {
+      labGroup.parentNode.insertBefore(professionalGroup, labGroup);
     }
 
-    var label = platformGroup.querySelector('.work-group-heading .mono-label');
-    if (label) label.textContent = 'Data, AI, and ML platforms';
-    var groupCopy = platformGroup.querySelector('.work-group-heading p:not(.mono-label)');
-    if (groupCopy) groupCopy.textContent = 'Reusable systems for data quality, governed context, agent-harness design, model search, evidence, orchestration, and controlled release.';
+    var professionalLabel = professionalGroup.querySelector('.work-group-heading .mono-label');
+    if (professionalLabel) professionalLabel.textContent = 'Decision, data, and AI systems';
+    var professionalCopy = professionalGroup.querySelector('.work-group-heading p:not(.mono-label)');
+    if (professionalCopy) professionalCopy.textContent = 'Role-aligned systems for analytical readiness, governed context, model search, evidence, orchestration, and bounded agency.';
+
+    var labLabel = labGroup.querySelector('.work-group-heading .mono-label');
+    if (labLabel) labLabel.textContent = 'Product Lab';
+    var labCopy = labGroup.querySelector('.work-group-heading p:not(.mono-label)');
+    if (labCopy) labCopy.textContent = 'Independent product experiments that test privacy, local-first state, multimodal uncertainty, maps, commerce boundaries, and human-centered interaction.';
 
     Array.prototype.forEach.call(work.querySelectorAll('.work-entry'), function (entry, index) {
       var number = entry.querySelector('.work-index');
@@ -128,14 +179,11 @@
     });
 
     var heading = work.querySelector('.section-heading h2');
-    if (heading) heading.textContent = 'Eight projects. Each one has a real problem and a current state.';
-    Array.prototype.forEach.call(document.querySelectorAll('.profile-metrics article'), function (metric) {
-      if ((metric.textContent || '').indexOf('showcased systems') !== -1) {
-        var value = metric.querySelector('strong');
-        if (value) value.textContent = '8';
-      }
-    });
+    if (heading) heading.textContent = 'Systems that support analytics leadership, data products, and responsible AI.';
+    var headingCopy = work.querySelector('.section-heading > p');
+    if (headingCopy) headingCopy.textContent = 'The first group is closest to the roles I am targeting. The Product Lab shows the broader product, privacy, and interaction problems I use to sharpen the same judgment.';
+
     var description = document.querySelector('meta[property="og:description"]');
-    if (description) description.setAttribute('content', 'Eight product and platform case studies, with architecture, working code, current-state boundaries, sources, and working papers.');
+    if (description) description.setAttribute('content', 'Analytics leadership, decision systems, data quality, governed AI, and evidence-backed product architecture.');
   };
 })();
