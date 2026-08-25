@@ -19,10 +19,12 @@
       var link = document.createElement('a');
       link.href = relativeResumeHref();
       link.textContent = 'Resume';
-      var writing = Array.prototype.find.call(nav.querySelectorAll('a'), function (candidate) {
-        return (candidate.textContent || '').trim() === 'Writing';
+
+      var capabilities = Array.prototype.find.call(nav.querySelectorAll('a'), function (candidate) {
+        var text = (candidate.textContent || '').trim();
+        return text === 'Capabilities' || (candidate.getAttribute('href') || '').indexOf('#capabilities') !== -1;
       });
-      nav.insertBefore(link, writing || nav.querySelector('.theme-toggle'));
+      nav.insertBefore(link, capabilities || nav.querySelector('.theme-toggle'));
     });
   }
 
@@ -31,18 +33,18 @@
     section.className = 'section section-resume';
     section.id = 'resume';
     section.innerHTML = '<div class="wrap">' +
-      '<div class="section-heading reveal"><div><p class="section-index">03 / Resume</p>' +
-      '<h2>Career history, current positioning, and independent technical evidence.</h2></div>' +
-      '<p>The resume page separates employment history from portfolio work and labels the source boundary for each claim.</p></div>' +
+      '<div class="section-heading reveal"><div><p class="section-index">02 / Professional profile</p>' +
+      '<h2>Career history, current positioning, and technical evidence—kept in the right lanes.</h2></div>' +
+      '<p>The public profile combines the available career record, the current title supplied by the profile owner, and independent systems. It does not invent current-employer, team-scope, or business-impact details.</p></div>' +
       '<div class="resume-home-grid">' +
-      '<article class="resume-home-card reveal"><p class="mono-label">Current title</p><h3>Senior Manager · Business Intelligence · Data Analytics</h3>' +
-      '<p>Title supplied directly by the profile owner. Employer-specific current-role details remain unpublished until the current resume is reconciled.</p></article>' +
-      '<article class="resume-home-card reveal"><p class="mono-label">Career source</p><h3>Resume history through March 2023</h3>' +
-      '<p>Technical support, education, internships, and the Business Data Analyst I record are drawn from the available resume snapshot.</p></article>' +
-      '<article class="resume-home-card reveal"><p class="mono-label">Technical evidence</p><h3>Eight independent systems</h3>' +
-      '<p>Case studies demonstrate data quality, governed context, MLOps, agent harnesses, privacy, product state, and deterministic AI boundaries.</p></article>' +
+      '<article class="resume-home-card reveal"><p class="mono-label">Current positioning</p><h3>Senior Manager · Business Intelligence · Data Analytics</h3>' +
+      '<p>Focused on decision intelligence, analytics products, data quality, and accountable AI-enabled workflows.</p></article>' +
+      '<article class="resume-home-card reveal"><p class="mono-label">Career foundation</p><h3>Analytics, BI, data workflows, and technical support</h3>' +
+      '<p>The verified resume record covers SQL, dashboards, ETL, automation, user support, education, and earlier technical roles through March 2023.</p></article>' +
+      '<article class="resume-home-card reveal"><p class="mono-label">Independent evidence</p><h3>Eight systems with explicit maturity labels</h3>' +
+      '<p>Case studies show architecture, implementation, tests, source attribution, live boundaries, and unfinished work separately from employment history.</p></article>' +
       '</div>' +
-      '<div class="section-action reveal"><a class="button button-primary" href="resume.html">View resume and professional direction</a>' +
+      '<div class="section-action reveal"><a class="button button-primary" href="' + relativeResumeHref() + '">View resume and career evidence</a>' +
       '<a class="button button-secondary" href="' + relativePresentationHref() + '">Open professional presentation</a></div>' +
       '</div>';
     return section;
@@ -51,12 +53,13 @@
   function addHomeResumeSection() {
     if (window.location.pathname !== '/' && !/\/index\.html$/.test(window.location.pathname)) return;
     if (document.getElementById('resume')) return;
-    var writing = document.getElementById('writing');
-    if (!writing) return;
-    writing.insertAdjacentElement('beforebegin', createResumeSection());
+    var work = document.getElementById('work');
+    if (!work) return;
+    work.insertAdjacentElement('afterend', createResumeSection());
 
     var indexes = [
-      ['#writing .section-index', '04 / Working papers'],
+      ['#capabilities .section-index', '03 / How I create value'],
+      ['#writing .section-index', '04 / Field notes'],
       ['#about .section-index', '05 / About'],
       ['#contact .section-index', '06 / Contact']
     ];
