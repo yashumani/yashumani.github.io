@@ -16,6 +16,7 @@ export const projectRoutes = [
   '/projects/dq-check-platform.html',
   '/projects/governed-ai-brain.html',
   '/projects/agentic-harness-builder.html',
+  '/projects/forkwise-open-source-reviewer.html',
   '/projects/mlops-solution-accelerator.html',
   '/projects/agentic-knowledge-runtime.html'
 ];
@@ -49,7 +50,9 @@ for (const route of projectRoutes) {
     await expect(page.locator('.case-toc')).toBeVisible();
     const reviewDate = route.endsWith('/agentic-harness-builder.html')
       ? 'August 21, 2026'
-      : 'August 13, 2026';
+      : route.endsWith('/forkwise-open-source-reviewer.html')
+        ? 'August 31, 2026'
+        : 'August 13, 2026';
     await expect(page.locator('.case-review-stamp')).toContainText(reviewDate, { timeout: 8_000 });
     await expect(page.locator('.source-attribution-section')).toBeVisible({ timeout: 8_000 });
     await expect(page.locator('.project-origin-note')).toContainText('not invention of the underlying concepts');
