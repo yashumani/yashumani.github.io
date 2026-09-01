@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ForkWise — Open Source Reviewer | Yashu Sharma</title>
+  <meta name="description" content="ForkWise is a GitHub-native, evidence-first reviewer that pins a public repository to an exact commit and returns an auditable open-source adoption recommendation.">
+  <link rel="canonical" href="https://yashumani.github.io/projects/forkwise-open-source-reviewer.html">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="ForkWise — Open Source Reviewer | Yashu Sharma">
+  <meta property="og:description" content="Commit-pinned static evidence, README claim checking, five adoption dimensions, exportable reports, and an explicitly staged hosted-runner boundary.">
+  <meta property="og:url" content="https://yashumani.github.io/projects/forkwise-open-source-reviewer.html">
+  <meta name="twitter:card" content="summary">
+  <meta name="theme-color" content="#0b0d10">
+  <script src="../js/theme-init.js"></script>
+  <link rel="icon" href="../assets/images/avatar.jpg" type="image/jpeg">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/media.css">
+  <link rel="stylesheet" href="../css/flow-diagrams.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap nav-shell">
+      <a class="brand" href="../index.html"><span class="brand-mark" aria-hidden="true">YS</span><span>Yashu Sharma</span></a>
+      <nav class="site-nav" aria-label="Primary navigation">
+        <a href="../index.html#work">Work</a>
+        <a href="../resume.html">Resume</a>
+        <a href="../index.html#capabilities">Capabilities</a>
+        <a href="../blogs/">Writing</a>
+        <a href="../index.html#about">About</a>
+        <a href="../index.html#contact">Contact</a>
+        <button class="theme-toggle" type="button" aria-label="Use dark mode">
+          <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+          <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3 7 7 0 0 0 21 12.8z"/></svg>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap case-study-wrap" id="main-content">
+    <a class="back-link" href="../index.html#work"><span class="back-arrow">←</span> Featured work</a>
+    <p class="paper-kicker">Developer tooling / Open-source due diligence / Evidence systems</p>
+    <h1>ForkWise — Open Source Reviewer</h1>
+    <p class="case-lede">I built ForkWise because adopting an open-source repository is not the same as admiring its README or star count. The practical decision is whether a specific team should adopt it, pilot it, fork it, avoid it, or gather more evidence—and why.</p>
+
+    <div class="case-hero-meta" aria-label="Project metadata">
+      <div><span>My role</span><strong>Product architecture, evidence schema, deterministic analyzer, reviewer experience, runner contracts, community and release design</strong></div>
+      <div><span>Current state</span><strong>Version 0.9.0 community preview; live browser-side static analysis; hosted analysis lifecycle not activated</strong></div>
+      <div><span>Delivery</span><strong>GitHub-native reviewer, operator console, five-dimension decision model, README claim ledger, exports, Node runner reference, PostgreSQL lease contract, CI and community governance</strong></div>
+      <div><span>Reviewed</span><strong>August 31, 2026</strong></div>
+    </div>
+
+    <nav class="case-links case-links-top" aria-label="ForkWise project links">
+      <span class="case-links-label">Project links</span>
+      <a href="https://yashumani.github.io/open-source-reviewer-app/" target="_blank" rel="noopener">Open live reviewer</a>
+      <a href="https://yashumani.github.io/open-source-reviewer-app/operator.html" target="_blank" rel="noopener">Open runner console</a>
+      <a href="https://github.com/yashumani/open-source-reviewer-app" target="_blank" rel="noopener">View repository</a>
+      <a href="https://github.com/yashumani/open-source-reviewer-app/blob/main/docs/ANALYZER_RULES.md" target="_blank" rel="noopener">Read analyzer rules</a>
+    </nav>
+
+    <h2>Why I built it</h2>
+    <p>Open-source evaluation often collapses into popularity, a quick README scan, or an unstructured security review. Those signals can be useful, but they do not answer whether the repository fits the intended use, how difficult it will be to operate, what the team will have to own, or how hard it will be to leave later.</p>
+    <p>ForkWise makes the decision context explicit, pins the review to an exact commit, separates evidence from interpretation, and keeps unsupported claims visible rather than converting them into confidence.</p>
+
+    <h2>What the decision model evaluates</h2>
+    <div class="case-grid">
+      <article><h3>Fit</h3><p>Whether the repository, documentation, packaging, and stated purpose match the intended use and contribution model.</p></article>
+      <article><h3>Trust</h3><p>License, repository state, security governance, dependencies, CI, credential signals, and supply-chain indicators.</p></article>
+      <article><h3>Run</h3><p>Runtime, database, queue, storage, credential, deployment, external-service, resilience, and operational requirements.</p></article>
+      <article><h3>Own</h3><p>Likely maintenance burden, test and documentation signals, technical breadth, and maintainer concentration.</p></article>
+      <article><h3>Exit</h3><p>Export, import, migration, API, replaceability, and lock-in signals that affect a future transition.</p></article>
+      <article><h3>Context</h3><p>The recommendation changes with the user’s purpose, deployment target, data sensitivity, team size, and external-service policy.</p></article>
+    </div>
+
+    <h2>Architecture and execution</h2>
+    <section class="flow-showcase" id="flow-forkwise" aria-labelledby="flow-forkwise-title">
+      <header>
+        <p class="flow-kicker">Interactive system view</p>
+        <h2 id="flow-forkwise-title">ForkWise — system architecture and live flow</h2>
+        <p class="flow-copy">The architecture separates user context, commit-pinned acquisition, deterministic analysis, and decision delivery. The execution lanes show how logic, code, and data move without executing repository-controlled code.</p>
+        <span class="flow-live-status">Architecture and flow playback</span>
+      </header>
+
+      <section class="architecture-overview" aria-label="System architecture">
+        <div class="architecture-heading">
+          <div><p class="flow-kicker">Architecture map</p><h3>How the reviewer is divided</h3></div>
+          <div class="architecture-legend">
+            <span class="architecture-legend-item architecture-legend-item--client">Experience</span>
+            <span class="architecture-legend-item architecture-legend-item--service">Service</span>
+            <span class="architecture-legend-item architecture-legend-item--data">Data</span>
+            <span class="architecture-legend-item architecture-legend-item--external">External / operational</span>
+          </div>
+        </div>
+        <div class="architecture-track">
+          <article class="architecture-stage" data-architecture-stage="1">
+            <div class="architecture-stage-head"><span class="architecture-stage-index">01</span><div><p class="architecture-stage-badge">Decision context</p><h3>Define the adoption question</h3></div></div>
+            <ul class="architecture-node-list">
+              <li class="architecture-node architecture-node--client"><span class="architecture-node-dot"></span><strong>GitHub repository URL</strong></li>
+              <li class="architecture-node architecture-node--client"><span class="architecture-node-dot"></span><strong>Intended use and use case</strong></li>
+              <li class="architecture-node architecture-node--client"><span class="architecture-node-dot"></span><strong>Deployment and sensitivity</strong></li>
+              <li class="architecture-node architecture-node--external"><span class="architecture-node-dot"></span><strong>Public github.com boundary</strong></li>
+            </ul>
+            <p class="architecture-stage-note">The same repository can receive a different recommendation when the purpose, operating constraints, or data sensitivity changes.</p>
+          </article>
+          <div class="architecture-connector" aria-hidden="true"><span class="architecture-connector-line"></span><span class="architecture-packet"></span></div>
+          <article class="architecture-stage" data-architecture-stage="2">
+            <div class="architecture-stage-head"><span class="architecture-stage-index">02</span><div><p class="architecture-stage-badge">Evidence acquisition</p><h3>Pin and inspect a bounded snapshot</h3></div></div>
+            <ul class="architecture-node-list">
+              <li class="architecture-node architecture-node--service"><span class="architecture-node-dot"></span><strong>GitHub URL normalizer</strong></li>
+              <li class="architecture-node architecture-node--external"><span class="architecture-node-dot"></span><strong>Read-only GitHub API</strong></li>
+              <li class="architecture-node architecture-node--data"><span class="architecture-node-dot"></span><strong>Exact default-branch commit</strong></li>
+              <li class="architecture-node architecture-node--data"><span class="architecture-node-dot"></span><strong>Tree, README and selected blobs</strong></li>
+            </ul>
+            <p class="architecture-stage-note">The browser reads repository metadata and a limited set of high-value text artifacts pinned to one commit.</p>
+          </article>
+          <div class="architecture-connector" aria-hidden="true"><span class="architecture-connector-line"></span><span class="architecture-packet"></span></div>
+          <article class="architecture-stage" data-architecture-stage="3">
+            <div class="architecture-stage-head"><span class="architecture-stage-index">03</span><div><p class="architecture-stage-badge">Deterministic review</p><h3>Turn facts into an auditable assessment</h3></div></div>
+            <ul class="architecture-node-list">
+              <li class="architecture-node architecture-node--service"><span class="architecture-node-dot"></span><strong>Artifact inventory</strong></li>
+              <li class="architecture-node architecture-node--service"><span class="architecture-node-dot"></span><strong>Fit · Trust · Run · Own · Exit</strong></li>
+              <li class="architecture-node architecture-node--service"><span class="architecture-node-dot"></span><strong>README Reality Check</strong></li>
+              <li class="architecture-node architecture-node--data"><span class="architecture-node-dot"></span><strong>Report schema and redaction</strong></li>
+            </ul>
+            <p class="architecture-stage-note">Repository facts are collected first. Context changes applicability and the recommendation rather than rewriting the underlying evidence.</p>
+          </article>
+          <div class="architecture-connector" aria-hidden="true"><span class="architecture-connector-line"></span><span class="architecture-packet"></span></div>
+          <article class="architecture-stage" data-architecture-stage="4">
+            <div class="architecture-stage-head"><span class="architecture-stage-index">04</span><div><p class="architecture-stage-badge">Decision and operations</p><h3>Deliver the recommendation and preserve the boundary</h3></div></div>
+            <ul class="architecture-node-list">
+              <li class="architecture-node architecture-node--data"><span class="architecture-node-dot"></span><strong>Adopt · Pilot · Fork · Avoid</strong></li>
+              <li class="architecture-node architecture-node--data"><span class="architecture-node-dot"></span><strong>Findings, evidence and claim ledger</strong></li>
+              <li class="architecture-node architecture-node--client"><span class="architecture-node-dot"></span><strong>JSON and Markdown exports</strong></li>
+              <li class="architecture-node architecture-node--external"><span class="architecture-node-dot"></span><strong>Hosted runner activation gate</strong></li>
+            </ul>
+            <p class="architecture-stage-note">The live reviewer stays on browser analysis until the hosted job lifecycle progresses safely beyond queued and passes its release gate.</p>
+          </article>
+        </div>
+      </section>
+
+      <div class="flow-execution-heading">
+        <div><p class="flow-kicker">Live execution traces</p><h3>How logic, code, and evidence move</h3></div>
+        <p>All three lanes remain visible by default. Filters are optional reading aids, not required navigation.</p>
+      </div>
+      <div class="flow-toolbar" role="group" aria-label="Filter animated execution flow">
+        <button class="flow-filter" type="button" data-flow-filter="all" aria-pressed="true">All flows</button>
+        <button class="flow-filter" type="button" data-flow-filter="logic" aria-pressed="false">Logic flow</button>
+        <button class="flow-filter" type="button" data-flow-filter="code" aria-pressed="false">Code flow</button>
+        <button class="flow-filter" type="button" data-flow-filter="data" aria-pressed="false">Data flow</button>
+        <button class="flow-play-toggle" type="button" aria-pressed="false">Pause animation</button>
+      </div>
+      <div class="flow-grid">
+        <article class="flow-lane" data-flow-kind="logic">
+          <div class="flow-lane-head"><h3>Logic flow</h3><span class="flow-badge">Adoption decision</span></div>
+          <ol class="flow-track">
+            <li class="flow-step"><span class="flow-step-index" aria-hidden="true">01</span><h4>Describe intended use</h4><p>The reviewer captures purpose, use case, deployment target, data sensitivity, team size, and external-service constraints.</p></li>
+            <li class="flow-step"><span class="flow-step-index" aria-hidden="true">02</span><h4>Validate repository scope</h4><p>Unsupported hosts and URL forms are rejected before evidence collection begins.</p></li>
+            <li class="flow-step"><span class="flow-step-index" aria-hidden="true">03</span><h4>Pin the exact commit</h4><p>The review records the default branch and 40-character commit SHA so the result can be reproduced.</p></li>
+            <li class="flow-step"><span class="flow-step-index" aria-hidden="true">04</span><h4>Collect bounded evidence</h4><p>Metadata, the recursive tree, README, release information, and selected high-value text artifacts form the review snapshot.</p></li>
+            <li class="flow-step"><span class="flow-step-index" aria-hidden="true">05</span><h4>Check README claims</h4><p>Claims are marked verified, partial, unverified, contradicted, or not claimed based on inspected signals.</p></li>
+            <li class="flow-step"><span class="flow-step-index" aria-hidden="true">06</span><h4>Evaluate five dimensions</h4><p>Fit, Trust, Run, Own, and Exit are evaluated against the user’s stated constraints.</p></li>
+            <li class="flow-step"><span class="flow-step-index" aria-hidden="true">07</span><h4>Return a decision path</h4><p>The report recommends Adopt, Pilot, Fork, Avoid, or Insufficient evidence and records unresolved questions and a pilot checklist.</p></li>
+          </ol>
+        </article>
+        <article class="flow-lane" data-flow-kind="code">
+          <div class="flow-lane-head"><h3>Code flow</h3><span class="flow-badge">Browser runtime</span></div>
+          <ol class="flow-track">
+            <li class="flow-step"><span class="flow-step-index" aria-hidden="true">01</span><h4>GitHub client acquires facts</h4><p><code>src/github.js</code> normalizes the URL, translates API errors, pins the commit, and retrieves bounded repository evidence.</p><span class="flow-mini">URL → metadata → SHA → tree</span></li>
+            <li class="flow-step"><span class="flow-step-index" aria-hidden="true">02</span><h4>Inventory ranks artifacts</h4><p><code>src/inventory.js</code> classifies paths and selects the most useful text files within count and size limits.</p><span class="flow-mini">Tree → artifact families → selected blobs</span></li>
+            <li class="flow-step"><span class="flow-step-index" aria-hidden="true">03</span><h4>Analyzer applies rules</h4><p><code>src/analyzer.js</code> generates deterministic evidence, findings, dimension summaries, claims, and recommendation logic.</p><span class="flow-mini">Snapshot + context → assessment</span></li>
+            <li class="flow-step"><span class="flow-step-index" aria-hidden="true">04</span><h4>Schema validates and redacts</h4><p><code>src/schema.js</code> enforces report enums, evidence references, unique identifiers, and credential-like text redaction.</p><span class="flow-mini">forkwise-report/v1</span></li>
+            <li class="flow-step"><span class="flow-step-index" aria-hidden="true">05</span><h4>Application renders safely</h4><p><code>src/app.js</code> controls progress, filters, safe text rendering, and the GitHub-native reviewer experience.</p><span class="flow-mini">No repository HTML or code execution</span></li>
+            <li class="flow-step"><span class="flow-step-index" aria-hidden="true">06</span><h4>Exports and runner stay bounded</h4><p><code>src/export.js</code> revalidates reports; runner clients and hosted adapters remain behind explicit activation and lifecycle gates.</p><span class="flow-mini">Report → JSON / Markdown / staged runner</span></li>
+          </ol>
+        </article>
+        <article class="flow-lane" data-flow-kind="data">
+          <div class="flow-lane-head"><h3>Data flow</h3><span class="flow-badge">Evidence plane</span></div>
+          <ol class="flow-track">
+            <li class="flow-step"><span class="flow-step-index" aria-hidden="true">01</span><h4>Context object</h4><p>Intent, use case, deployment target, sensitivity, team size, and external-service policy enter as normalized decision context.</p></li>
+            <li class="flow-step"><span class="flow-step-index" aria-hidden="true">02</span><h4>Repository snapshot</h4><p>Repository identity, branch, commit SHA, tree, README, release metadata, and selected text blobs form a bounded immutable reference.</p></li>
+            <li class="flow-step"><span class="flow-step-index" aria-hidden="true">03</span><h4>Evidence model</h4><p>Evidence records, finding references, severity, confidence, claim states, operational inventory, and unresolved questions remain linked.</p></li>
+            <li class="flow-step"><span class="flow-step-index" aria-hidden="true">04</span><h4>Normalized assessment</h4><p>The report records analyzer version, schema version, decision, confidence, five dimension summaries, and exact provenance.</p></li>
+            <li class="flow-step"><span class="flow-step-index" aria-hidden="true">05</span><h4>Portable output</h4><p>Validated and re-redacted JSON or Markdown can be reviewed, compared, shared, or used to plan a controlled pilot.</p></li>
+          </ol>
+        </article>
+      </div>
+      <p class="flow-summary-heading">Architecture rules</p>
+      <div class="flow-summary" aria-label="Architecture rules">
+        <article><span>Evidence boundary</span><strong>Pin facts to one commit before interpreting them</strong></article>
+        <article><span>Execution boundary</span><strong>Inspect text and metadata; never run repository-controlled code</strong></article>
+        <article><span>Release boundary</span><strong>Keep hosted mode off until the complete job lifecycle is proven</strong></article>
+      </div>
+    </section>
+
+    <h2>README Reality Check</h2>
+    <p>The reviewer does not treat documentation as either true or false. It compares common claims—such as fully self-hosted, easy container deployment, production ready, privacy focused, quick setup, or low lock-in—against the inspected repository snapshot.</p>
+    <ul class="clean">
+      <li><strong>Verified</strong> when the claim is present and supporting evidence is observed.</li>
+      <li><strong>Partial</strong> when relevant evidence exists but the full claim is not established.</li>
+      <li><strong>Unverified</strong> when the README makes the claim without enough inspected support.</li>
+      <li><strong>Contradicted</strong> when inspected evidence creates a material conflict or exception.</li>
+      <li><strong>Not claimed</strong> when the primary README does not make the claim.</li>
+    </ul>
+
+    <h2>Evidence and reproducibility</h2>
+    <p>A report records the repository owner and name, default branch, exact commit SHA and URL, analyzer version, report schema version, generation time, normalized user context, evidence identifiers, and evidence URLs. Findings reference evidence rather than appearing as unsupported prose.</p>
+    <p>Coverage is based on independent evidence families, not popularity. Large or truncated trees and a small number of readable artifacts cap the confidence rather than being silently ignored.</p>
+
+    <h2>Browser safety boundary</h2>
+    <div class="case-callout warning">
+      <p class="mono-label">Static-only inspection</p>
+      <p>The public reviewer does not install packages, run tests, execute lifecycle scripts, start containers, execute workflows, render repository HTML, or run arbitrary application code.</p>
+    </div>
+    <p>Repository text is rendered as text, credential-like values are redacted, exports are validated again before serialization, and the review is limited to public <code>github.com</code> repositories.</p>
+
+    <h2>Hosted runner and production path</h2>
+    <p>The repository also contains a request-bound Node runner reference, asynchronous job contracts, a file-backed local store, PostgreSQL migration and lease semantics, a hardened container contract, a browser runner client, and an operator console.</p>
+    <p>That work is intentionally not represented as the normal production path. The hosted service can accept a job, but the deployed lifecycle still leaves accepted jobs queued. Issue #3 tracks the request-bound deployment; issue #4 blocks public hosted-mode activation until a real repository progresses through queued, running, and completed without duplicate execution.</p>
+
+    <h2>Community preview and validation</h2>
+    <p>Version 0.9.0 adds Apache-2.0 licensing, contributor governance, security and privacy policies, structured issue forms, DCO sign-off, CODEOWNERS, a pull-request template, maintainer guidance, and a public contribution backlog.</p>
+    <p>The recorded release evidence reports 41 JavaScript files passing syntax checks, four API documents and five paths passing contract validation, six workflows and 19 external actions passing immutable-reference checks, 23 community-readiness files passing validation, and 82 automated tests passing with zero failures. Separate main-branch gates covered quality, runner contracts and hosted health, database semantics, the hardened container, and GitHub Pages deployment.</p>
+
+    <h2>What works today</h2>
+    <ul class="clean">
+      <li>Live GitHub Pages reviewer for public repositories.</li>
+      <li>GitHub-native responsive workspace and Actions-style progress experience.</li>
+      <li>Commit-pinned bounded static inspection and deterministic recommendations.</li>
+      <li>Fit, Trust, Run, Own, and Exit dimension summaries.</li>
+      <li>README claim ledger, evidence-linked findings, unresolved questions, and pilot checklist.</li>
+      <li>Validated JSON and Markdown exports.</li>
+      <li>Live operator console and hosted health/schema checks.</li>
+      <li>Public community workflow for false positives, false negatives, analyzer rules, documentation, accessibility, fixtures, and focused code contributions.</li>
+    </ul>
+
+    <h2>What it does not claim</h2>
+    <ul class="clean">
+      <li>Static indicators do not prove runtime behavior, performance, scalability, exploitability, legal compliance, or production fitness.</li>
+      <li>The reviewer is decision support, not a security certification or legal opinion.</li>
+      <li>Anonymous GitHub API limits and truncated trees can reduce evidence coverage.</li>
+      <li>Private advisories, organization settings, branch protection, and complete repository history are not comprehensively assessed.</li>
+      <li>Hosted analysis is not active for normal reviewer traffic.</li>
+      <li>Authentication, durable production workers, operational alerts, retention controls, backup and restore, and production release governance remain future work.</li>
+    </ul>
+
+    <h2>What I learned</h2>
+    <p>A useful open-source review is not a universal score. It is a traceable decision made against a particular use case and operating constraint. The most important design choice was preserving the difference between evidence, a rule-based interpretation, and a recommendation that still belongs to the team making the adoption decision.</p>
+
+    <footer class="site-footer">
+      <p class="footer-note">&copy; <span data-current-year>2026</span> Yashu Sharma</p>
+    </footer>
+  </main>
+
+  <script src="../js/forkwise-flow.js"></script>
+  <script src="../js/main.js"></script>
+</body>
+</html>
