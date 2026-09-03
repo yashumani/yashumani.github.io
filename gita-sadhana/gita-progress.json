@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "1.0",
+  "edition": {
+    "name": "Bhagavad Gita — Sri Swami Sivananda",
+    "publisher": "The Divine Life Society",
+    "numberingSystem": "Sivananda-DLS-701",
+    "verseCount": 701,
+    "numberingNote": "This journey follows the selected Divine Life Society edition, which counts 701 Sanskrit verses. Many editions count 700; the difference is commonly associated with the opening/numbering of Chapter 13."
+  },
+  "totalVerses": 701,
+  "completedSequentialVerses": 0,
+  "nextVerse": {
+    "chapter": 1,
+    "verse": 1,
+    "display": "1.1",
+    "lessonSequence": 1
+  },
+  "lastPublishedDate": null,
+  "lastPublishedLessonId": null,
+  "exploredVerseIds": [
+    "5.18"
+  ],
+  "foundationPublished": true,
+  "updatedAt": "2026-09-03"
+}

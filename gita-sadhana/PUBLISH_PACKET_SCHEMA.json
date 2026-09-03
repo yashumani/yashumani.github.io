@@ -1,0 +1,181 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://yashumani.github.io/gita-sadhana/PUBLISH_PACKET_SCHEMA.json",
+  "title": "Gita Sadhana Daily Publication Packet",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "runDate",
+    "editionNumbering",
+    "expectedCurrentState",
+    "lessons",
+    "progressAfterPublication"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": "PUBLISH_PACKET_V1"
+    },
+    "runDate": {
+      "type": "string",
+      "format": "date"
+    },
+    "editionNumbering": {
+      "const": "Sivananda-DLS-701"
+    },
+    "expectedCurrentState": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["completedSequentialVerses", "nextVerse"],
+      "properties": {
+        "completedSequentialVerses": { "type": "integer", "minimum": 0, "maximum": 701 },
+        "nextVerse": { "$ref": "#/$defs/versePointer" }
+      }
+    },
+    "lessons": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 2,
+      "items": { "$ref": "#/$defs/lesson" }
+    },
+    "progressAfterPublication": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["completedSequentialVerses", "nextVerse", "lastPublishedDate", "lastPublishedLessonId"],
+      "properties": {
+        "completedSequentialVerses": { "type": "integer", "minimum": 1, "maximum": 701 },
+        "nextVerse": {
+          "oneOf": [
+            { "$ref": "#/$defs/versePointer" },
+            { "type": "null" }
+          ]
+        },
+        "lastPublishedDate": { "type": "string", "format": "date" },
+        "lastPublishedLessonId": { "type": "string", "pattern": "^bg-[0-9]{2}-[0-9]{3}$" }
+      }
+    },
+    "generationNotes": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "$defs": {
+    "versePointer": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["chapter", "verse", "display", "lessonSequence"],
+      "properties": {
+        "chapter": { "type": "integer", "minimum": 1, "maximum": 18 },
+        "verse": { "type": "integer", "minimum": 1, "maximum": 78 },
+        "display": { "type": "string", "pattern": "^[0-9]{1,2}\\.[0-9]{1,2}$" },
+        "lessonSequence": { "type": "integer", "minimum": 1, "maximum": 701 }
+      }
+    },
+    "wordMeaning": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["term", "meaning"],
+      "properties": {
+        "term": { "type": "string", "minLength": 1 },
+        "meaning": { "type": "string", "minLength": 1 }
+      }
+    },
+    "perspective": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["label", "explanation"],
+      "properties": {
+        "label": { "type": "string", "minLength": 1 },
+        "explanation": { "type": "string", "minLength": 1 }
+      }
+    },
+    "application": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["label", "text"],
+      "properties": {
+        "label": { "type": "string", "minLength": 1 },
+        "text": { "type": "string", "minLength": 1 }
+      }
+    },
+    "sourceNote": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["label", "url", "scope"],
+      "properties": {
+        "label": { "type": "string", "minLength": 1 },
+        "url": { "type": "string", "format": "uri" },
+        "scope": { "type": "string", "minLength": 1 }
+      }
+    },
+    "lesson": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "sequenceNumber",
+        "date",
+        "chapter",
+        "verseStart",
+        "verseEnd",
+        "chapterNameSanskrit",
+        "chapterNameEnglish",
+        "theme",
+        "context",
+        "contextHindi",
+        "sanskritDevanagari",
+        "transliteration",
+        "wordByWord",
+        "spokenHindi",
+        "clearEnglish",
+        "interpretationPerspectives",
+        "practicalApplication",
+        "reflectionQuestion",
+        "reflectionQuestionHindi",
+        "sourceNotes",
+        "sequentialStatus",
+        "publishedStatus"
+      ],
+      "properties": {
+        "id": { "type": "string", "pattern": "^bg-[0-9]{2}-[0-9]{3}$" },
+        "sequenceNumber": { "type": "integer", "minimum": 1, "maximum": 701 },
+        "date": { "type": "string", "format": "date" },
+        "chapter": { "type": "integer", "minimum": 1, "maximum": 18 },
+        "verseStart": { "type": "integer", "minimum": 1, "maximum": 78 },
+        "verseEnd": { "type": "integer", "minimum": 1, "maximum": 78 },
+        "chapterNameSanskrit": { "type": "string", "minLength": 1 },
+        "chapterNameEnglish": { "type": "string", "minLength": 1 },
+        "theme": { "type": "string", "minLength": 1 },
+        "context": { "type": "string", "minLength": 1 },
+        "contextHindi": { "type": "string", "minLength": 1 },
+        "sanskritDevanagari": { "type": "string", "minLength": 1 },
+        "transliteration": { "type": "string", "minLength": 1 },
+        "wordByWord": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/wordMeaning" }
+        },
+        "spokenHindi": { "type": "string", "minLength": 1 },
+        "clearEnglish": { "type": "string", "minLength": 1 },
+        "interpretationPerspectives": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/perspective" }
+        },
+        "practicalApplication": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/application" }
+        },
+        "reflectionQuestion": { "type": "string", "minLength": 1 },
+        "reflectionQuestionHindi": { "type": "string", "minLength": 1 },
+        "sourceNotes": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/sourceNote" }
+        },
+        "sequentialStatus": { "const": "sequential" },
+        "publishedStatus": { "const": "staged" }
+      }
+    }
+  }
+}

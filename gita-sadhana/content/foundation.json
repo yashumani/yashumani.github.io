@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.0",
+  "id": "foundation-animals-dogs-brahmins",
+  "publishedDate": "2026-09-03",
+  "label": "Foundation — explored before the sequential journey",
+  "title": "Animals, dogs, Brahmins, and spiritual vision",
+  "verse": {
+    "id": "bg-05-018",
+    "reference": "Bhagavad Gita 5.18",
+    "chapterNameEnglish": "The Yoga of Renunciation of Action",
+    "sanskritDevanagari": "विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि ।\nशुनि चैव श्वपाके च पण्डिताः समदर्शिनः ॥ ५.१८ ॥",
+    "transliteration": "vidyā-vinaya-sampanne brāhmaṇe gavi hastini\nśuni caiva śvapāke ca paṇḍitāḥ sama-darśinaḥ",
+    "wordByWord": [
+      { "term": "vidyā-vinaya-sampanne", "meaning": "endowed with learning and humility" },
+      { "term": "brāhmaṇe", "meaning": "in a Brahmin" },
+      { "term": "gavi", "meaning": "in a cow" },
+      { "term": "hastini", "meaning": "in an elephant" },
+      { "term": "śuni", "meaning": "in a dog" },
+      { "term": "śvapāke", "meaning": "in a socially excluded ‘dog-cooker/eater’" },
+      { "term": "sama-darśinaḥ", "meaning": "those who see with equality" }
+    ],
+    "spokenHindi": "इस श्लोक में श्रीकृष्ण कहते हैं कि सच्चे ज्ञानी की दृष्टि केवल शरीर, जाति, पद या प्रजाति पर नहीं रुकती। वह विद्या और विनम्रता से युक्त ब्राह्मण, गाय, हाथी, कुत्ते और समाज द्वारा तिरस्कृत व्यक्ति—सबमें एक ही मूल आध्यात्मिक सत्ता को देखता है। इसका अर्थ यह नहीं कि उनके शरीर, व्यवहार या सामाजिक भूमिकाएँ एक जैसी हैं; अर्थ यह है कि किसी जीव की आध्यात्मिक गरिमा केवल उसके बाहरी रूप या सामाजिक दर्जे से कम नहीं होती।",
+    "clearEnglish": "Krishna describes the wise as equal-seeing across striking differences: a learned and humble Brahmin, a cow, an elephant, a dog, and a socially excluded person. The verse does not claim that their bodies, behavior, or social roles are identical. It teaches that spiritual vision does not measure the underlying worth of a living being by species, caste, status, or outward form.",
+    "textualScope": "The verse explicitly names a Brahmin, cow, elephant, dog, and śvapāka, and describes the wise as sama-darśinaḥ—equal-seeing. It does not provide a procedural rule for the physical boundaries of every puja."
+  },
+  "pujaConclusion": {
+    "title": "What the Gita does—and does not—say about dogs in puja",
+    "lead": "The Bhagavad Gita does not contain a verse declaring dogs spiritually evil, hated by God, or inherently incapable of being near devotion.",
+    "points": [
+      "Bhagavad Gita 5.18 teaches equal spiritual vision; it is not a ritual manual deciding whether a household dog may enter every ceremonial enclosure or touch offerings.",
+      "Restrictions voiced by some priests usually come from ritual-purity customs, household or temple discipline, concerns about saliva or contact with offerings, cleanliness, or possible disturbance—not from Gita 5.18 declaring the dog spiritually inferior.",
+      "Practical cleanliness and compassionate treatment can coexist.",
+      "A boundary such as ‘please prevent the dog from touching the altar or food offering’ is different from disgust, contempt, or treating the animal as worthless.",
+      "A priest may be faithfully applying a particular ritual code, applying it too broadly, or blending custom with personal attitude. Those possibilities should be distinguished rather than assuming either perfect authority or total ignorance."
+    ],
+    "maxim": "Ritual protocol may vary by tradition; contempt for a living being should not be confused with spiritual purity."
+  },
+  "brahmanVsBrahmin": {
+    "title": "Brahman is not Brahmin",
+    "definitions": [
+      {
+        "term": "Brahman",
+        "meaning": "The ultimate or all-pervading spiritual reality in major strands of Indian philosophy."
+      },
+      {
+        "term": "Brahmin · Brāhmaṇa",
+        "meaning": "A person or traditional social category associated historically with priestly and scholarly roles."
+      }
+    ],
+    "note": "The words are related historically but are not interchangeable in a Gita discussion."
+  },
+  "brahminIdeal": {
+    "title": "Identity, learning, and character are different questions",
+    "reference": "Bhagavad Gita 18.42",
+    "qualities": [
+      "serenity",
+      "self-restraint",
+      "discipline",
+      "purity",
+      "patience and forgiveness",
+      "integrity",
+      "knowledge",
+      "wisdom or realization",
+      "faith"
+    ],
+    "explanation": "Gita 18.42 presents a demanding ideal through qualities and dispositions. Inherited identity, learned religious expertise, and demonstrated spiritual character therefore remain three separate assessments. The Gita does not say that every person born into a Brahmin family is infallible or beyond respectful questioning."
+  },
+  "beyondGita": {
+    "title": "Beyond the Gita: Yudhishthira and the dog",
+    "scopeLabel": "Mahabharata — not a Bhagavad Gita verse",
+    "paragraphs": [
+      "In the Mahabharata’s final journey, a dog remains with Yudhishthira after the others have fallen. When Indra invites him to ascend to heaven, Yudhishthira refuses to secure his own happiness by abandoning a living being that is devoted to him.",
+      "The episode is especially important because the dialogue itself voices an exclusionary ritual claim: Indra says that there is no place in heaven for persons accompanied by dogs and raises a concern about a dog seeing sacrifices and libations. Yudhishthira still refuses to abandon the animal.",
+      "The dog is then revealed as Dharma, who praises Yudhishthira’s compassion for all creatures. The story does not pretend that purity-based exclusions were absent; it stages that claim and makes loyalty, protection, and compassion the decisive test.",
+      "In other Hindu traditions, dogs also appear in guardian and deity-associated roles, including later iconographic traditions of Bhairava. These examples are part of the wider Hindu record, not statements made inside the Bhagavad Gita."
+    ],
+    "insight": "The wider textual tradition is not one-note: dogs can be treated as ritually restricted in one context and become the very form through which dharma tests compassion in another."
+  },
+  "readingLayers": [
+    {
+      "type": "TEXT",
+      "statement": "Gita 5.18 explicitly includes a dog in its teaching on equal vision."
+    },
+    {
+      "type": "INTERPRETATION",
+      "statement": "Equal vision is generally read as seeing a common spiritual reality beneath bodily and social difference."
+    },
+    {
+      "type": "CUSTOM",
+      "statement": "A family, temple, or priestly lineage may maintain rules about animals entering a ritual area or touching offerings."
+    },
+    {
+      "type": "APPLICATION",
+      "statement": "Maintain reasonable ritual cleanliness without expressing contempt toward the animal."
+    }
+  ],
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda, Bhagavad Gita — The Divine Life Society",
+      "url": "https://www.dlshq.org/download/bhagavad-gita/",
+      "scope": "Primary reading edition and verse numbering"
+    },
+    {
+      "label": "Gita Supersite — IIT Kanpur",
+      "url": "https://www.gitasupersite.iitk.ac.in/",
+      "scope": "Sanskrit and comparative commentary reference"
+    },
+    {
+      "label": "Mahabharata, Book 17, Section III — public-domain Ganguli translation",
+      "url": "https://en.wikisource.org/wiki/The_Mahabharata/Book_17%3A_Mahaprasthanika_Parva/Section_III",
+      "scope": "Yudhishthira and the dog episode"
+    }
+  ]
+}
