@@ -1,0 +1,88 @@
+name: Gita Sadhana — One-Time Publication Repair
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/gita-publication-repair.yml
+
+concurrency:
+  group: gita-sadhana-publication
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  repair-first-publication:
+    name: Publish and verify the already-staged first lesson
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out the latest repository state
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      - name: Validate deterministic guardrails
+        run: node gita-sadhana/automation/gita-automation.mjs self-test
+
+      - name: Validate the existing staged packet and prepare publication
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          rm -f .automation-cache/publication-receipt.json
+          node gita-sadhana/automation/gita-automation.mjs publish
+          test -s .automation-cache/publication-receipt.json
+
+      - name: Commit the exact staged lesson atomically
+        run: |
+          set -euo pipefail
+          message="$(node -e "const r=require('./.automation-cache/publication-receipt.json'); const a=r.lessonIds; process.stdout.write('Publish Gita lesson '+r.packetRunDate+': '+a.join(', '));")"
+          git config user.name "Gita Sadhana Automation"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            gita-sadhana/content/lessons \
+            gita-sadhana/content/manifest.json \
+            gita-sadhana/gita-progress.json
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "$message"
+            git push origin HEAD:main
+          fi
+
+      - name: Verify the public GitHub Pages state
+        run: node gita-sadhana/automation/gita-automation.mjs verify
+
+      - name: Close the processed staging issue
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node gita-sadhana/automation/gita-automation.mjs close
+
+      - name: Preserve repair evidence
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: gita-publication-repair-${{ github.run_id }}
+          path: .automation-cache/
+          if-no-files-found: ignore
+          include-hidden-files: true
+          retention-days: 14
+
+      - name: Create a fail-safe alert
+        if: failure()
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          ALERT_STAGE: publication-repair
+          ALERT_MESSAGE: The first staged lesson could not be fully published and publicly verified. The staging issue remains open and progress must not be treated as complete.
+        run: node gita-sadhana/automation/gita-automation.mjs alert
