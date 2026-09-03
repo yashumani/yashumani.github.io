@@ -4,6 +4,7 @@ Static GitHub Pages portfolio for product engineering, business intelligence, da
 
 ## Information architecture
 
+- **Profile highlights:** DQ Check Platform remains first; the AI Enterprise Conference field report is second, presenting independent conference learning through original visual reconstructions, field notes, follow-up research, and BI/analytics implications.
 - **Featured work:** Mangrok Recipe Vault, Where It Happened, My Seventh Meal, DQ Check Platform, Unified Knowledge Base — AI Brain, HarnessLab — Agentic Harness Builder, Automated ML Pipeline Platform, and Agentic Knowledge & Research Runtime.
 - **Resume:** source-labeled career history from the available March 2023 resume snapshot, the owner-confirmed current title, education, certifications, skills, and a clear separation between employment and independent portfolio work.
 - **Professional presentation:** a fifteen-slide interactive web presentation explaining the career record, capabilities, portfolio systems, AI philosophy, and professional direction.
@@ -66,6 +67,7 @@ professional-profile.html          Fifteen-slide interactive professional presen
 projects/                          Technical case studies
 blogs/                             Writing index and articles
 css/style.css                      Ordered stylesheet entrypoint
+css/profile-highlights.css         Homepage highlight cards and mobile evidence layout
 css/base.css                       Tokens, reset, navigation, and shared primitives
 css/projects.css                   Project-card visuals and technical mockups
 css/sections.css                   Homepage sections and content modules
@@ -77,6 +79,7 @@ css/advanced-exploration.css       G6/ECharts explorer, fallback, fullscreen, an
 css/media.css                      Responsive and print behavior
 css/fixes.css                      Compatibility corrections loaded last
 js/main.js                         Ordered runtime loader
+js/portfolio-ai-enterprise-journey.js  DQ Check and conference field-report highlights
 js/main-core.js                    Theme, navigation, headings, reveals, and project-flow loading
 js/portfolio-resume.js             Resume navigation and homepage career summary
 js/presentation.js                 Slide navigation, keyboard controls, hashes, and fullscreen behavior
@@ -99,6 +102,7 @@ assets/                            Profile image and architecture diagrams
 - Every advanced explorer keeps a text alternative and survives library-load failure.
 - Dark/light theme preference persists locally and re-renders active explorers.
 - Career history, current owner-supplied information, and independent portfolio evidence remain visibly separated.
+- The conference field report is labeled as independent learning; reconstructed visuals are not presented as official conference materials or employer work.
 - The professional presentation repeats the same source boundary instead of converting portfolio projects into employer experience.
 - Case studies distinguish live functionality, source-complete work, planned architecture, and external activation boundaries.
 - Project claims are tied to repositories, specifications, standards, or other named sources where applicable.

@@ -11,7 +11,7 @@
     section.innerHTML =
       '<div class="profile-highlights-head">' +
         '<div><p class="mono-label">Profile highlights</p><h2 id="profile-highlights-title" class="sr-only">Profile highlights</h2></div>' +
-        '<p>Two fast entry points: one role-aligned technical case and one separately hosted interactive professional journey.</p>' +
+        '<p>Two ways to see how I work: a live analytics system and a field report that turns captured evidence into research and practical BI decisions.</p>' +
       '</div>' +
       '<div class="profile-highlight-grid">' +
         '<article class="profile-highlight-card" data-profile-highlight="dq-check">' +
@@ -24,13 +24,19 @@
           '</div>' +
         '</article>' +
         '<article class="profile-highlight-card profile-highlight-card--journey" data-profile-highlight="ai-enterprise-journey">' +
-          '<div class="profile-highlight-meta"><strong>02 / Interactive journey</strong><span>External profile experience</span></div>' +
-          '<h2>AI Enterprise Journey 2026</h2>' +
-          '<p>An owner-provided interactive profile experience that complements the resume, technical case studies, and professional presentation on this site. No additional employer or project claims are imported into the portfolio through this card.</p>' +
+          '<div class="profile-highlight-meta"><strong>02 / Conference learning</strong><span>Enterprise AI · New York City · 2026</span></div>' +
+          '<h2>AI Enterprise Conference — Field Report</h2>' +
+          '<p>I turned a busy conference day—sessions, booth conversations, photographs, and handwritten notes—into a structured field report. I then researched the questions I brought home and the missed “How AI Pays for AI” session, connecting the learning to governed BI and analytics.</p>' +
+          '<ul class="profile-highlight-evidence" aria-label="Conference field report contents">' +
+            '<li><strong>20</strong><span>Visual reconstructions</span></li>' +
+            '<li><strong>4</strong><span>Field-note pages</span></li>' +
+            '<li><strong>10</strong><span>Questions researched</span></li>' +
+          '</ul>' +
           '<div class="profile-highlight-actions">' +
-            '<a class="profile-highlight-link profile-highlight-link--primary" href="' + sourceUrl + '" target="_blank" rel="noopener">Open interactive journey</a>' +
-            '<a class="profile-highlight-link" href="professional-profile.html">Open portfolio presentation</a>' +
-            '<p class="profile-highlight-boundary">External hosting and availability are managed separately from this portfolio.</p>' +
+            '<a class="profile-highlight-link profile-highlight-link--primary" href="' + sourceUrl + '" target="_blank" rel="noopener">Open field report</a>' +
+            '<a class="profile-highlight-link" href="' + sourceUrl + '#learning" target="_blank" rel="noopener">Read key learnings</a>' +
+            '<a class="profile-highlight-link" href="' + sourceUrl + '#evidence" target="_blank" rel="noopener">Explore notes &amp; diagrams</a>' +
+            '<p class="profile-highlight-boundary">Independent learning project; visuals are original reconstructions based on my notes and conference photographs—not official conference materials or employer work.</p>' +
           '</div>' +
         '</article>' +
       '</div>';
