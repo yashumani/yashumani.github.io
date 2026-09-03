@@ -74,8 +74,13 @@ jobs:
           const receipt = JSON.parse(readFileSync(receiptPath, 'utf8'));
           const ids = receipt.lessonIds || [];
           if (!ids.length) throw new Error('Publication receipt has no lesson IDs.');
-          const first = ids[0].replace(/^bg-0?/, '').replace('-', '.').replace(/^0/, '');
-          const last = ids.at(-1).replace(/^bg-0?/, '').replace('-', '.').replace(/^0/, '');
+          const display = id => {
+            const match = /^bg-(\d{2})-(\d{3})$/.exec(id);
+            if (!match) throw new Error(`Invalid lesson ID in receipt: ${id}`);
+            return `${Number(match[1])}.${Number(match[2])}`;
+          };
+          const first = display(ids[0]);
+          const last = display(ids.at(-1));
           const label = ids.length === 1 ? `BG ${first}` : `BG ${first}–${last}`;
 
           write('packet_found', 'true');
