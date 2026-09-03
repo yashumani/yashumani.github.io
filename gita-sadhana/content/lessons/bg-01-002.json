@@ -1,0 +1,99 @@
+{
+  "id": "bg-01-002",
+  "sequenceNumber": 2,
+  "date": "2026-09-03",
+  "chapter": 1,
+  "verseStart": 2,
+  "verseEnd": 2,
+  "chapterNameSanskrit": "अर्जुनविषादयोग",
+  "chapterNameEnglish": "Arjuna Viṣāda Yoga",
+  "theme": "Duryodhana responds to a formidable opposing formation by turning toward authority.",
+  "context": "Sanjaya begins answering Dhritarashtra. Duryodhana sees the Pandava army arranged in battle formation and approaches his teacher Drona to speak. The verse prepares for his strategic speech, while showing his first reaction to the opposing army.",
+  "contextHindi": "संजय अब राजा के प्रश्न का उत्तर देना शुरू करते हैं। दुर्योधन पाण्डवों की सेना को युद्ध-व्यूह में सजी हुई देखता है और अपने आचार्य द्रोण के पास जाकर उनसे बात करता है। आगे आने वाला उसका भाषण इसी दृश्य और उसकी प्रतिक्रिया से शुरू होगा।",
+  "sanskritDevanagari": "सञ्जय उवाच |\nदृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा |\nआचार्यमुपसंगम्य राजा वचनमब्रवीत् ||१-२||",
+  "transliteration": "sañjaya uvāca .\ndṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā .\nācāryamupasaṃgamya rājā vacanamabravīt ||1-2||",
+  "wordByWord": [
+    {
+      "term": "सञ्जय उवाच",
+      "meaning": "Sanjaya said; the narrative voice now shifts from Dhritarashtra's question to Sanjaya's report."
+    },
+    {
+      "term": "दृष्ट्वा",
+      "meaning": "having seen."
+    },
+    {
+      "term": "तु",
+      "meaning": "but, and then, or indeed; here it marks the next movement in the report."
+    },
+    {
+      "term": "पाण्डवानीकम्",
+      "meaning": "the army of the Pandavas."
+    },
+    {
+      "term": "व्यूढम्",
+      "meaning": "drawn up, arranged, or deployed in battle formation."
+    },
+    {
+      "term": "दुर्योधनः",
+      "meaning": "Duryodhana, the Kaurava king and central speaker in the following verses."
+    },
+    {
+      "term": "तदा",
+      "meaning": "then, at that moment."
+    },
+    {
+      "term": "आचार्यम्",
+      "meaning": "the teacher or preceptor, here Drona in the DLS context."
+    },
+    {
+      "term": "उपसंगम्य",
+      "meaning": "having approached or gone up to."
+    },
+    {
+      "term": "वचनम् अब्रवीत्",
+      "meaning": "spoke words or began to speak."
+    }
+  ],
+  "spokenHindi": "संजय बताते हैं कि दुर्योधन ने पाण्डवों की सेना को व्यवस्थित युद्ध-व्यूह में देखा। यह दृश्य देखकर वह अपने आचार्य द्रोण के पास जाता है और बोलना शुरू करता है। श्लोक अभी दुर्योधन के शब्द नहीं सुनाता; केवल उसके देखने, आचार्य के पास जाने और बोलने की तैयारी बताता है। इसलिए उसके मन में भय था, घमण्ड था या रणनीतिक सावधानी—इनमें से किसी एक को निश्चित रूप से कहना जल्दबाज़ी होगी। इतना स्पष्ट है कि सामने की सेना उसे ध्यान देने योग्य और संगठित दिखाई देती है। किसी कठिन परिस्थिति में हमारी पहली प्रतिक्रिया भी हमें बहुत कुछ बताती है: क्या हम तथ्य देखते हैं, किसी अनुभवी व्यक्ति से सलाह लेते हैं, या तुरन्त दूसरों को दोष देते हैं? यहाँ द्रोण के पास जाना एक रणनीतिक कदम भी हो सकता है और पुराने सम्बन्ध का संकेत भी। आगे के श्लोकों में दुर्योधन किस भाषा का उपयोग करता है, उसे देखकर ही उसकी प्रवृत्ति पर अधिक विचार करना उचित होगा।",
+  "clearEnglish": "Sanjaya's report now becomes more immediate. Duryodhana sees the Pandava army deployed in an organised battle formation, approaches Drona, and begins to speak. The verse records these actions, not his private emotions. It is therefore safer to say that he recognises the opposing formation as significant than to claim that he is already frightened or defeated. His choice to address Drona may reflect military strategy, respect for a teacher, an attempt to influence authority, or several motives at once; the verse leaves that open. This restraint matters: responsible interpretation distinguishes what the text narrates from what we infer about a character's psychology. In modern life, the sequence offers a modest discipline for pressure: observe the situation accurately, identify a person or source of expertise, and only then formulate a response.",
+  "interpretationPerspectives": [
+    {
+      "label": "Text",
+      "explanation": "Sanjaya reports three actions: Duryodhana sees the Pandava army arranged in formation, approaches his teacher, and speaks. The verse does not directly state whether he feels fear, confidence, or anger."
+    },
+    {
+      "label": "Commentary",
+      "explanation": "The DLS translation identifies the teacher as Drona and understands the army as drawn up in battle array. That contextual identification supports the narrative setting but does not add a direct statement about Duryodhana's motives."
+    },
+    {
+      "label": "Inference",
+      "explanation": "Approaching Drona after observing the opposing formation may reasonably be read as a strategic or authority-seeking response. Any stronger claim about anxiety or manipulation belongs to interpretation, not the literal verse."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Observe first",
+      "text": "In a tense meeting or disagreement, state the observable facts to yourself before assigning motives to the other people involved."
+    },
+    {
+      "label": "Seek grounded counsel",
+      "text": "When a situation exceeds your experience, consult someone qualified, while still taking responsibility for your own judgment."
+    }
+  ],
+  "reflectionQuestion": "When I face a strong opposing view or difficult situation, do I observe carefully before speaking, and whom do I approach for counsel?",
+  "reflectionQuestionHindi": "जब मेरे सामने कोई मजबूत विरोध या कठिन परिस्थिति आती है, तो क्या मैं बोलने से पहले ध्यान से देखता हूँ, और सलाह के लिए किसके पास जाता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

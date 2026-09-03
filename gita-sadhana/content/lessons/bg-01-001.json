@@ -1,0 +1,95 @@
+{
+  "id": "bg-01-001",
+  "sequenceNumber": 1,
+  "date": "2026-09-03",
+  "chapter": 1,
+  "verseStart": 1,
+  "verseEnd": 1,
+  "chapterNameSanskrit": "अर्जुनविषादयोग",
+  "chapterNameEnglish": "Arjuna Viṣāda Yoga",
+  "theme": "A divided heart surveys a morally charged battlefield.",
+  "context": "The first discourse opens after the peace effort has failed and the Pandava and Kaurava armies have assembled at Kurukshetra. Dhritarashtra, the blind king, asks Sanjaya what happened when both sides gathered for battle. The verse begins the Gita through a question shaped by family attachment and concern.",
+  "contextHindi": "शान्ति का प्रयास असफल हो चुका है और कुरुक्षेत्र में पाण्डव तथा कौरव सेनाएँ युद्ध के लिए एकत्र हैं। अन्धे राजा धृतराष्ट्र संजय से पूछते हैं कि दोनों पक्षों के लोग वहाँ पहुँचकर क्या कर रहे थे। प्रश्न में उनके अपने पुत्रों के प्रति लगाव और आने वाली लड़ाई की चिन्ता दोनों दिखाई देती हैं।",
+  "sanskritDevanagari": "धृतराष्ट्र उवाच |\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||१-१||",
+  "transliteration": "dhṛtarāṣṭra uvāca .\ndharmakṣetre kurukṣetre samavetā yuyutsavaḥ .\nmāmakāḥ pāṇḍavāścaiva kimakurvata sañjaya ||1-1||",
+  "wordByWord": [
+    {
+      "term": "धृतराष्ट्र",
+      "meaning": "Dhritarashtra, the king who asks the question; his blindness is literal in the narrative, while later interpretation may also read it symbolically."
+    },
+    {
+      "term": "धर्मक्षेत्रे",
+      "meaning": "in the field associated with dharma, duty, or righteousness; this does not by itself prove that one side has already received divine approval."
+    },
+    {
+      "term": "कुरुक्षेत्रे",
+      "meaning": "in Kurukshetra, the named geographical and cultural setting of the battle."
+    },
+    {
+      "term": "समवेताः",
+      "meaning": "having assembled together."
+    },
+    {
+      "term": "युयुत्सवः",
+      "meaning": "desiring to fight or ready for battle."
+    },
+    {
+      "term": "मामकाः",
+      "meaning": "my people, especially my sons and their side; the possessive wording reveals Dhritarashtra's personal identification."
+    },
+    {
+      "term": "पाण्डवाः",
+      "meaning": "the sons or followers of Pandu, the opposing family branch."
+    },
+    {
+      "term": "किमकुर्वत",
+      "meaning": "what did they do?"
+    },
+    {
+      "term": "सञ्जय",
+      "meaning": "Sanjaya, the trusted narrator who reports the events to Dhritarashtra."
+    }
+  ],
+  "spokenHindi": "यह श्लोक युद्ध का वर्णन शुरू करने से पहले एक बहुत मानवीय प्रश्न रखता है। धृतराष्ट्र पूछते हैं कि कुरुक्षेत्र में एकत्र हुए उनके लोग और पाण्डवों ने क्या किया। ध्यान देने योग्य बात यह है कि वे कौरवों को ‘मेरे लोग’ कहते हैं और पाण्डवों को अलग नाम से पुकारते हैं। यह केवल परिवार की पहचान नहीं है; इसमें पक्षपात और आसक्ति की झलक भी है। ‘धर्मक्षेत्र’ शब्द इस स्थान के नैतिक महत्व की ओर संकेत करता है, लेकिन श्लोक यह नहीं कहता कि वहाँ उपस्थित हर व्यक्ति धर्मात्मा है या किसी एक पक्ष को अपने-आप सही ठहरा देता है। सिवानन्द जी के संस्करण की भूमिका कुरुक्षेत्र को बाहरी युद्धभूमि के साथ-साथ मनुष्य के भीतर चलने वाले संघर्ष के रूप में भी पढ़ती है। यह एक व्याख्यात्मक दृष्टि है, श्लोक का शाब्दिक अर्थ नहीं। आज हम अपने भीतर भी देख सकते हैं कि जब हम ‘हमारे लोग’ और ‘दूसरे लोग’ कहकर दुनिया बाँटते हैं, तो हमारा निर्णय कितना निष्पक्ष रह जाता है।",
+  "clearEnglish": "Dhritarashtra's question is brief, but its language is revealing. He does not say simply “the two sides”; he calls one group “my people” and names the Pandavas separately. The wording suggests emotional ownership before any description of the action begins. Kurukshetra is called a dharma-field, a setting associated with moral order, but the verse does not declare that every action there is righteous or that one army is automatically vindicated. The narrative also introduces Sanjaya as the person through whom the king will receive an account of events. In a psychological reading, the question resembles the way a person asks for news while already fearing that attachment may shape what they are willing to see. The ethical invitation is to notice our categories of “ours” and “theirs” before making consequential judgments.",
+  "interpretationPerspectives": [
+    {
+      "label": "Text",
+      "explanation": "The verse states that Dhritarashtra asks Sanjaya what the two assembled, battle-ready groups did at Kurukshetra. It explicitly uses a possessive expression for his side and a separate name for the Pandavas."
+    },
+    {
+      "label": "Commentary",
+      "explanation": "The DLS introductory material presents the battlefield as also symbolising the inner conflict between ignorance, desire, and spiritual aspiration. This can illuminate the verse, but it is an interpretive application rather than Dhritarashtra's spoken meaning."
+    },
+    {
+      "label": "Inference",
+      "explanation": "The contrast between “my people” and “the Pandavas” reasonably suggests attachment or partiality. It should not be inflated into a complete psychological diagnosis from one sentence."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Notice partiality",
+      "text": "Before making an important judgment, write down how you are describing the people involved. Notice whether words such as “our side” and “their side” are narrowing your attention."
+    },
+    {
+      "label": "Pause before conclusions",
+      "text": "When you receive troubling news, first ask what actually happened rather than immediately defending the people you feel closest to."
+    }
+  ],
+  "reflectionQuestion": "Where do I use the language of “my people” in a way that may prevent me from seeing a situation fairly?",
+  "reflectionQuestionHindi": "मैं किन परिस्थितियों में ‘मेरे लोग’ और ‘दूसरे लोग’ की भाषा इस्तेमाल करता हूँ, और क्या इससे मेरी निष्पक्ष दृष्टि कम हो जाती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}
