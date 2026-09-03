@@ -1,0 +1,92 @@
+name: Gita Sadhana — 9 AM Website Publisher
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7 9 * * *"
+      timezone: America/New_York
+
+concurrency:
+  group: gita-sadhana-publication
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  validate-publish-verify:
+    name: Publish the exact staged lesson and verify GitHub Pages
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out the public study site
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      - name: Validate the staged packet and prepare files
+        id: publish
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node gita-sadhana/automation/gita-automation.mjs publish
+
+      - name: Alert when no staged packet exists
+        if: steps.publish.outputs.packet_found == 'false' && steps.publish.outputs.journey_complete != 'true'
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          ALERT_STAGE: 9-am-no-packet
+          ALERT_MESSAGE: The website publisher found no staged daily lesson. Public progress was left unchanged.
+        run: node gita-sadhana/automation/gita-automation.mjs alert
+
+      - name: Commit the atomic lesson publication
+        if: steps.publish.outputs.packet_found == 'true' && steps.publish.outputs.did_change == 'true'
+        env:
+          COMMIT_MESSAGE: ${{ steps.publish.outputs.commit_message }}
+        run: |
+          set -euo pipefail
+          git config user.name "Gita Sadhana Automation"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            gita-sadhana/content/lessons \
+            gita-sadhana/content/manifest.json \
+            gita-sadhana/gita-progress.json
+          git diff --cached --check
+          git commit -m "$COMMIT_MESSAGE"
+          git push origin HEAD:main
+
+      - name: Verify the deployed public state
+        id: verify
+        if: steps.publish.outputs.packet_found == 'true'
+        run: node gita-sadhana/automation/gita-automation.mjs verify
+
+      - name: Close the processed staging issue
+        if: steps.publish.outputs.packet_found == 'true'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node gita-sadhana/automation/gita-automation.mjs close
+
+      - name: Preserve publication evidence
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: gita-publication-${{ github.run_id }}
+          path: .automation-cache/
+          if-no-files-found: ignore
+          retention-days: 14
+
+      - name: Create a fail-safe alert
+        if: failure()
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          ALERT_STAGE: 9-am-publisher
+          ALERT_MESSAGE: The staged packet could not be fully validated, committed, deployed, verified, or closed. The staging issue remains open for a safe retry.
+        run: node gita-sadhana/automation/gita-automation.mjs alert

@@ -1,0 +1,81 @@
+name: Gita Sadhana — 7 AM Daily Lesson
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7 7 * * *"
+      timezone: America/New_York
+
+concurrency:
+  group: gita-sadhana-daily-lesson
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  issues: write
+  copilot-requests: write
+
+jobs:
+  teach-and-stage:
+    name: Generate, validate, and deliver the daily lesson
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out the public study site
+        uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      - name: Install source and AI tooling
+        run: |
+          set -euo pipefail
+          command -v pdftotext >/dev/null 2>&1 || {
+            sudo apt-get update
+            sudo apt-get install -y poppler-utils
+          }
+          npm install -g @github/copilot
+
+      - name: Prepare authoritative state and sources
+        id: prepare
+        run: node gita-sadhana/automation/gita-automation.mjs prepare
+
+      - name: Generate the listening lesson once
+        id: generate
+        if: steps.prepare.outputs.journey_complete != 'true'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          LANG: C.UTF-8
+          LC_ALL: C.UTF-8
+        run: |
+          set -euo pipefail
+          copilot --yolo -p "$(cat .automation-cache/teacher-prompt.txt)" \
+            | tee .automation-cache/copilot-output.txt
+
+      - name: Validate and deliver as an assigned GitHub issue
+        id: stage
+        if: steps.prepare.outputs.journey_complete != 'true'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node gita-sadhana/automation/gita-automation.mjs stage
+
+      - name: Preserve run evidence
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: gita-daily-lesson-${{ github.run_id }}
+          path: .automation-cache/
+          if-no-files-found: ignore
+          retention-days: 14
+
+      - name: Create a fail-safe alert
+        if: failure()
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          ALERT_STAGE: 7-am-teacher
+          ALERT_MESSAGE: The daily lesson could not be generated, source-verified, validated, or staged. No public progress was advanced.
+        run: node gita-sadhana/automation/gita-automation.mjs alert
