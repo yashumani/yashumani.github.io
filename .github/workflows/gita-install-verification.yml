@@ -9,64 +9,49 @@ on:
 
 permissions:
   contents: read
-  copilot-requests: write
 
 jobs:
-  verify-installation:
-    name: Verify sources, sequencing, prompt, and unattended AI access
+  inspect-official-source:
+    name: Inspect the migrated Gita Supersite data interface
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 10
 
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v6
-        with:
-          node-version: 22
-
-      - name: Install required tooling
+      - name: Download migrated site assets
         run: |
           set -euo pipefail
-          command -v pdftotext >/dev/null 2>&1 || {
-            sudo apt-get update
-            sudo apt-get install -y poppler-utils
-          }
-          npm install -g @github/copilot
+          mkdir -p .automation-cache
+          curl --fail --location --silent --show-error \
+            https://www.gitasupersite.in/ \
+            --output .automation-cache/gitasupersite-home.html
+          asset="$(grep -oE '/assets/index-[A-Za-z0-9_-]+\.js' .automation-cache/gitasupersite-home.html | head -1)"
+          test -n "$asset"
+          printf '%s\n' "$asset" > .automation-cache/gitasupersite-asset-path.txt
+          curl --fail --location --silent --show-error \
+            "https://www.gitasupersite.in${asset}" \
+            --output .automation-cache/gitasupersite-app.js
 
-      - name: Run deterministic self-test
-        run: node gita-sadhana/automation/gita-automation.mjs self-test
-
-      - name: Run the real source preflight without publishing
-        id: prepare
-        run: node gita-sadhana/automation/gita-automation.mjs prepare
-
-      - name: Validate downloaded source evidence
+      - name: Extract endpoint candidates
         run: |
           set -euo pipefail
-          test -s .automation-cache/sivananda-gita.txt
-          test -s .automation-cache/gita-supersite-1-1.txt
-          test -s .automation-cache/gita-supersite-1-2.txt
-          test -s .automation-cache/teacher-prompt.txt
-          grep -Fq 'धर्मक्षेत्रे' .automation-cache/gita-supersite-1-1.txt
-          node -e "const fs=require('fs'); const x=JSON.parse(fs.readFileSync('.automation-cache/source-manifest.json','utf8')); if(x.targetLabel!=='BG 1.1–1.2') process.exit(1);"
+          {
+            grep -oE 'https?://[^"'"'"'[:space:]\\]+' .automation-cache/gitasupersite-app.js || true
+            grep -oE '/(api|data|assets)/[A-Za-z0-9_?&=./${}:-]+' .automation-cache/gitasupersite-app.js || true
+            grep -oE '[A-Za-z0-9_./-]+\.(json|sqlite|db)' .automation-cache/gitasupersite-app.js || true
+          } | sort -u > .automation-cache/endpoint-candidates.txt
+          grep -n -E -m 200 'api|shloka|verse|chapter|supabase|graphql|firebase|fetch\(' \
+            .automation-cache/gitasupersite-app.js \
+            > .automation-cache/endpoint-context.txt || true
 
-      - name: Verify Copilot can read the prepared local evidence
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
-        run: |
-          set -euo pipefail
-          copilot --yolo -p "Read .automation-cache/source-manifest.json and .automation-cache/gita-supersite-1-1.txt. Confirm that the target includes Bhagavad Gita 1.1 and that the Sanskrit source file contains धर्मक्षेत्रे. Reply with exactly GITA_SOURCE_READY and nothing else." \
-            | tee .automation-cache/install-verification-output.txt
-          grep -Fxq 'GITA_SOURCE_READY' .automation-cache/install-verification-output.txt
-
-      - name: Preserve verification evidence
+      - name: Preserve diagnostic evidence
         if: always()
         uses: actions/upload-artifact@v7
         with:
-          name: gita-install-verification-${{ github.run_id }}
+          name: gita-source-interface-${{ github.run_id }}
           path: .automation-cache/
-          if-no-files-found: ignore
+          if-no-files-found: error
           include-hidden-files: true
           retention-days: 7
