@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import { readFile, writeFile, mkdir, rename, access } from "node:fs/promises";
-import { constants as fsConstants } from "node:fs";
+import { constants as fsConstants, appendFileSync } from "node:fs";
 import path from "node:path";
 import process from "node:process";
 import { execFileSync } from "node:child_process";
@@ -116,9 +116,7 @@ function setOutput(name, value) {
 }
 
 function requireAppend(filePath, text) {
-  execFileSync("bash", ["-lc", `printf '%s' "$1" >> "$2"`, "_", text, filePath], {
-    stdio: "ignore"
-  });
+  appendFileSync(filePath, text, "utf8");
 }
 
 function addSummary(markdown) {
