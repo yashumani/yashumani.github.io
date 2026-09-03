@@ -5,7 +5,7 @@
 
   function createHighlights() {
     var section = document.createElement('section');
-    section.className = 'wrap profile-highlights reveal';
+    section.className = 'wrap profile-highlights reveal in';
     section.id = 'profile-highlights';
     section.setAttribute('aria-labelledby', 'profile-highlights-title');
     section.innerHTML =
