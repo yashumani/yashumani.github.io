@@ -1,0 +1,140 @@
+name: Gita Sadhana — Vendor Verified Sanskrit Corpus
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/gita-corpus-vendor.yml
+
+permissions:
+  contents: write
+
+jobs:
+  vendor-corpus:
+    name: Pin, reduce, validate, and commit the 701-verse Sanskrit corpus
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      - name: Build the reduced verified corpus
+        env:
+          SOURCE_URL: https://raw.githubusercontent.com/ChiragMirani/gita-quotes/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json
+          SOURCE_PAGE: https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json
+          SOURCE_COMMIT: cddb2aabcb18b2ddf4ca965a0e673c1eee43146b
+          EXPECTED_BLOB_SHA: 04cc915b3c40262ddd5abf40eea9421ae7649a18
+        run: |
+          set -euo pipefail
+          mkdir -p gita-sadhana/data .automation-cache
+          node --input-type=module <<'NODE'
+          import { writeFile } from 'node:fs/promises';
+          import { createHash } from 'node:crypto';
+
+          const chapterCounts = [47,72,43,42,29,47,30,28,34,42,55,20,35,27,20,24,28,78];
+          const expectedTotal = 701;
+          const response = await fetch(process.env.SOURCE_URL, {
+            signal: AbortSignal.timeout(90_000),
+            headers: { 'User-Agent': 'Gita-Sadhana-Corpus-Vendor/1.0' }
+          });
+          if (!response.ok) throw new Error(`Source download failed: ${response.status}`);
+          const sourceBytes = Buffer.from(await response.arrayBuffer());
+          const blobHeader = Buffer.from(`blob ${sourceBytes.length}\0`);
+          const blobSha = createHash('sha1').update(blobHeader).update(sourceBytes).digest('hex');
+          if (blobSha !== process.env.EXPECTED_BLOB_SHA) {
+            throw new Error(`Pinned corpus blob mismatch: expected ${process.env.EXPECTED_BLOB_SHA}, got ${blobSha}`);
+          }
+
+          const source = JSON.parse(sourceBytes.toString('utf8'));
+          if (source.total_verses !== expectedTotal || source.verses?.length !== expectedTotal) {
+            throw new Error('Pinned source does not contain exactly 701 verses.');
+          }
+
+          const key = (chapter, verse) => `${chapter}.${verse}`;
+          const seen = new Set();
+          const verses = source.verses.map((item, index) => {
+            const chapter = Number(item.chapter);
+            const verse = Number(item.verse);
+            if (!Number.isInteger(chapter) || chapter < 1 || chapter > 18) throw new Error(`Invalid chapter at row ${index + 1}`);
+            if (!Number.isInteger(verse) || verse < 1 || verse > chapterCounts[chapter - 1]) throw new Error(`Invalid verse at row ${index + 1}`);
+            const identity = key(chapter, verse);
+            if (seen.has(identity)) throw new Error(`Duplicate verse ${identity}`);
+            seen.add(identity);
+            if (typeof item.sanskrit !== 'string' || !/[\u0900-\u097F]/u.test(item.sanskrit)) throw new Error(`Missing Devanagari at ${identity}`);
+            if (typeof item.transliteration !== 'string' || item.transliteration.trim().length < 8) throw new Error(`Missing transliteration at ${identity}`);
+            const expectedSequence = chapterCounts.slice(0, chapter - 1).reduce((a, b) => a + b, 0) + verse;
+            if (index + 1 !== expectedSequence) throw new Error(`Sequence mismatch at ${identity}`);
+            return {
+              id: `bg-${String(chapter).padStart(2, '0')}-${String(verse).padStart(3, '0')}`,
+              sequenceNumber: expectedSequence,
+              chapter,
+              verse,
+              sanskritDevanagari: item.sanskrit.trim(),
+              transliteration: item.transliteration.trim()
+            };
+          });
+
+          chapterCounts.forEach((count, chapterIndex) => {
+            const chapter = chapterIndex + 1;
+            const actual = verses.filter(item => item.chapter === chapter).length;
+            if (actual !== count) throw new Error(`Chapter ${chapter} expected ${count} verses, got ${actual}`);
+          });
+
+          const lookup = new Map(verses.map(item => [key(item.chapter, item.verse), item]));
+          if (!lookup.get('1.1')?.sanskritDevanagari.includes('धर्मक्षेत्रे')) throw new Error('BG 1.1 sentinel failed.');
+          if (!lookup.get('13.1')?.sanskritDevanagari.includes('प्रकृतिं पुरुषं')) throw new Error('BG 13.1 701-numbering sentinel failed.');
+          if (!lookup.get('18.78')?.sanskritDevanagari.includes('यत्र योगेश्वरः कृष्णो')) throw new Error('BG 18.78 sentinel failed.');
+
+          const output = {
+            schemaVersion: 'GITA_SANSKRIT_CORPUS_V1',
+            editionNumbering: 'Sivananda-DLS-701-compatible',
+            totalVerses: expectedTotal,
+            chapterCounts,
+            source: {
+              name: 'gita-quotes reduced Sanskrit corpus',
+              upstream: 'VedicScriptures Bhagavad Gita data',
+              sourcePage: process.env.SOURCE_PAGE,
+              sourceCommit: process.env.SOURCE_COMMIT,
+              sourceGitBlobSha1: blobSha,
+              note: 'Only the ancient Sanskrit and Roman transliteration fields are retained. English translations are not vendored.'
+            },
+            verses
+          };
+          await writeFile('gita-sadhana/data/sanskrit-701.json', `${JSON.stringify(output, null, 2)}\n`, 'utf8');
+          await writeFile('.automation-cache/corpus-verification.json', `${JSON.stringify({
+            verifiedAt: new Date().toISOString(),
+            totalVerses: verses.length,
+            chapterCounts,
+            sourceGitBlobSha1: blobSha,
+            sentinels: ['1.1', '13.1', '18.78']
+          }, null, 2)}\n`, 'utf8');
+          NODE
+
+      - name: Commit the immutable local corpus
+        run: |
+          set -euo pipefail
+          git config user.name "Gita Sadhana Automation"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gita-sadhana/data/sanskrit-701.json
+          git diff --cached --check
+          git commit -m "Vendor verified 701-verse Sanskrit corpus"
+          git push origin HEAD:main
+
+      - name: Preserve verification receipt
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: gita-corpus-verification-${{ github.run_id }}
+          path: .automation-cache/
+          if-no-files-found: ignore
+          include-hidden-files: true
+          retention-days: 14
