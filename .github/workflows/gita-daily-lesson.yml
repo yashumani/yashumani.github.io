@@ -42,9 +42,9 @@ jobs:
       - name: Run deterministic guardrail self-test
         run: node gita-sadhana/automation/gita-automation.mjs self-test
 
-      - name: Prepare authoritative state and sources
+      - name: Prepare authoritative state and verified sources
         id: prepare
-        run: node gita-sadhana/automation/gita-automation.mjs prepare
+        run: node gita-sadhana/automation/source-preflight.mjs
 
       - name: Generate the listening lesson once
         id: generate

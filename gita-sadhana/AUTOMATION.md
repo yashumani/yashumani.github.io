@@ -1,6 +1,6 @@
 # Gita Sadhana — Active Daily Automation
 
-The daily Bhagavad Gita journey is now scheduled in GitHub Actions and runs independently of Mani’s phone or computer.
+The daily Bhagavad Gita journey is scheduled in GitHub Actions and runs independently of Mani’s phone or computer.
 
 ## Active schedules
 
@@ -18,6 +18,7 @@ The seven-minute offset is deliberate: it satisfies the requested “around 7”
 - Progress state: `gita-sadhana/gita-progress.json`
 - Manifest: `gita-sadhana/content/manifest.json`
 - Lesson files: `gita-sadhana/content/lessons/`
+- Exact Sanskrit corpus: `gita-sadhana/data/sanskrit-701.json`
 
 ## Morning experience
 
@@ -37,7 +38,7 @@ The 7:07 AM workflow creates a GitHub issue assigned to `yashumani`. GitHub deli
 
 The 9:07 AM task is not a second writer. It validates and publishes the same packet produced at 7:07 AM. This prevents the morning lesson and the website from drifting apart.
 
-The workflow will reject a packet when it is stale, malformed, out of sequence, crosses a chapter boundary, duplicates an ID, conflicts with an existing lesson, or calculates the next verse incorrectly.
+The workflow rejects a packet when it is stale, malformed, out of sequence, crosses a chapter boundary, duplicates an ID, conflicts with an existing lesson, or calculates the next verse incorrectly.
 
 ## Sequence rules
 
@@ -48,14 +49,16 @@ The workflow will reject a packet when it is stale, malformed, out of sequence, 
 - Gita 5.18 remains preserved as an earlier exploration and does not count until the sequential journey reaches it.
 - The deterministic progress record—not AI memory—chooses the next verse.
 
-## Sources
+## Verified sources
 
-Every run downloads and checks:
+Every morning run uses:
 
-1. the official Divine Life Society PDF used for the selected edition and numbering; and
-2. the verse-specific IIT Kanpur Gita Supersite page used as a comparative Sanskrit/commentary source.
+1. the official Divine Life Society PDF for the selected reading edition, its 701-verse numbering, transliteration, translation, and commentary context; and
+2. a locally stored 701-verse Sanskrit/IAST corpus built from a pinned `gita-quotes` source commit derived from VedicScriptures data.
 
-The AI writes fresh Hindi and English explanations rather than copying long copyrighted translations.
+The local corpus was reduced to ancient Sanskrit and transliteration only. Its upstream Git blob hash, total count, every chapter count, canonical order, and sentinel verses 1.1, 13.1, and 18.78 were checked before it was committed. These checks are repeated by the morning source preflight.
+
+The automation does not depend on the migrated IIT Kanpur webpage. The AI writes fresh Hindi and English explanations rather than copying long modern translations.
 
 ## Credentials and cost control
 
@@ -67,4 +70,4 @@ Any incomplete 7:07 AM or 9:07 AM run leaves public progress unchanged. A dedupl
 
 ## Technical implementation
 
-See [`gita-sadhana/automation/README.md`](automation/README.md) and [`gita-sadhana/automation/gita-automation.mjs`](automation/gita-automation.mjs).
+See [`gita-sadhana/automation/README.md`](automation/README.md), [`gita-sadhana/automation/source-preflight.mjs`](automation/source-preflight.mjs), and [`gita-sadhana/automation/gita-automation.mjs`](automation/gita-automation.mjs).
