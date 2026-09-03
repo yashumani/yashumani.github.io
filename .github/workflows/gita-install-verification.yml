@@ -49,15 +49,15 @@ jobs:
           test -s .automation-cache/gita-supersite-1-1.txt
           test -s .automation-cache/gita-supersite-1-2.txt
           test -s .automation-cache/teacher-prompt.txt
-          grep -Fq 'धर्मक्षेत्रे कुरुक्षेत्रे' .automation-cache/gita-supersite-1-1.txt
-          grep -Fq 'BG 1.1–1.2' .automation-cache/source-manifest.json
+          grep -Fq 'धर्मक्षेत्रे' .automation-cache/gita-supersite-1-1.txt
+          node -e "const fs=require('fs'); const x=JSON.parse(fs.readFileSync('.automation-cache/source-manifest.json','utf8')); if(x.targetLabel!=='BG 1.1–1.2') process.exit(1);"
 
       - name: Verify Copilot can read the prepared local evidence
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
-          copilot --yolo -p "Read .automation-cache/source-manifest.json and .automation-cache/gita-supersite-1-1.txt. Confirm that the target includes Bhagavad Gita 1.1 and that the Sanskrit source file contains धर्मक्षेत्रे कुरुक्षेत्रे. Reply with exactly GITA_SOURCE_READY and nothing else." \
+          copilot --yolo -p "Read .automation-cache/source-manifest.json and .automation-cache/gita-supersite-1-1.txt. Confirm that the target includes Bhagavad Gita 1.1 and that the Sanskrit source file contains धर्मक्षेत्रे. Reply with exactly GITA_SOURCE_READY and nothing else." \
             | tee .automation-cache/install-verification-output.txt
           grep -Fxq 'GITA_SOURCE_READY' .automation-cache/install-verification-output.txt
 
@@ -68,4 +68,5 @@ jobs:
           name: gita-install-verification-${{ github.run_id }}
           path: .automation-cache/
           if-no-files-found: ignore
+          include-hidden-files: true
           retention-days: 7

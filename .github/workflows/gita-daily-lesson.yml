@@ -39,6 +39,9 @@ jobs:
           }
           npm install -g @github/copilot
 
+      - name: Run deterministic guardrail self-test
+        run: node gita-sadhana/automation/gita-automation.mjs self-test
+
       - name: Prepare authoritative state and sources
         id: prepare
         run: node gita-sadhana/automation/gita-automation.mjs prepare
@@ -69,6 +72,7 @@ jobs:
           name: gita-daily-lesson-${{ github.run_id }}
           path: .automation-cache/
           if-no-files-found: ignore
+          include-hidden-files: true
           retention-days: 14
 
       - name: Create a fail-safe alert
