@@ -35,24 +35,69 @@ jobs:
         run: node gita-sadhana/automation/gita-automation.mjs self-test
 
       - name: Validate the staged packet and prepare files
-        id: publish
         env:
           GITHUB_TOKEN: ${{ github.token }}
-        run: node gita-sadhana/automation/gita-automation.mjs publish
+        run: |
+          set -euo pipefail
+          rm -f .automation-cache/publication-receipt.json
+          for attempt in 1 2 3 4 5 6; do
+            node gita-sadhana/automation/gita-automation.mjs publish
+            if [ -s .automation-cache/publication-receipt.json ]; then
+              break
+            fi
+            completed="$(node -e "const p=require('./gita-sadhana/gita-progress.json'); process.stdout.write(String(p.completedSequentialVerses));")"
+            if [ "$completed" = "701" ]; then
+              break
+            fi
+            if [ "$attempt" != "6" ]; then
+              sleep 5
+            fi
+          done
+
+      - name: Classify publication state from durable files
+        id: state
+        run: |
+          node --input-type=module <<'NODE'
+          import { existsSync, readFileSync, appendFileSync } from 'node:fs';
+          const output = process.env.GITHUB_OUTPUT;
+          const write = (name, value) => appendFileSync(output, `${name}=${String(value)}\n`, 'utf8');
+          const progress = JSON.parse(readFileSync('gita-sadhana/gita-progress.json', 'utf8'));
+          const receiptPath = '.automation-cache/publication-receipt.json';
+
+          if (!existsSync(receiptPath)) {
+            write('packet_found', 'false');
+            write('journey_complete', progress.completedSequentialVerses === 701 ? 'true' : 'false');
+            write('did_change', 'false');
+            process.exit(0);
+          }
+
+          const receipt = JSON.parse(readFileSync(receiptPath, 'utf8'));
+          const ids = receipt.lessonIds || [];
+          if (!ids.length) throw new Error('Publication receipt has no lesson IDs.');
+          const first = ids[0].replace(/^bg-0?/, '').replace('-', '.').replace(/^0/, '');
+          const last = ids.at(-1).replace(/^bg-0?/, '').replace('-', '.').replace(/^0/, '');
+          const label = ids.length === 1 ? `BG ${first}` : `BG ${first}–${last}`;
+
+          write('packet_found', 'true');
+          write('journey_complete', 'false');
+          write('did_change', receipt.changed ? 'true' : 'false');
+          write('published_ids', ids.join(','));
+          write('commit_message', `Publish Gita lesson ${receipt.packetRunDate}: ${label}`);
+          NODE
 
       - name: Alert when no staged packet exists
-        if: steps.publish.outputs.packet_found == 'false' && steps.publish.outputs.journey_complete != 'true'
+        if: steps.state.outputs.packet_found == 'false' && steps.state.outputs.journey_complete != 'true'
         continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ github.token }}
           ALERT_STAGE: 9-am-no-packet
-          ALERT_MESSAGE: The website publisher found no staged daily lesson. Public progress was left unchanged.
+          ALERT_MESSAGE: The website publisher found no staged daily lesson after its retry window. Public progress was left unchanged.
         run: node gita-sadhana/automation/gita-automation.mjs alert
 
       - name: Commit the atomic lesson publication
-        if: steps.publish.outputs.packet_found == 'true' && steps.publish.outputs.did_change == 'true'
+        if: steps.state.outputs.packet_found == 'true' && steps.state.outputs.did_change == 'true'
         env:
-          COMMIT_MESSAGE: ${{ steps.publish.outputs.commit_message }}
+          COMMIT_MESSAGE: ${{ steps.state.outputs.commit_message }}
         run: |
           set -euo pipefail
           git config user.name "Gita Sadhana Automation"
@@ -66,12 +111,11 @@ jobs:
           git push origin HEAD:main
 
       - name: Verify the deployed public state
-        id: verify
-        if: steps.publish.outputs.packet_found == 'true'
+        if: steps.state.outputs.packet_found == 'true'
         run: node gita-sadhana/automation/gita-automation.mjs verify
 
       - name: Close the processed staging issue
-        if: steps.publish.outputs.packet_found == 'true'
+        if: steps.state.outputs.packet_found == 'true'
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: node gita-sadhana/automation/gita-automation.mjs close
