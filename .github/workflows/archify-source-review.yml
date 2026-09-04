@@ -1,0 +1,28 @@
+name: Archify source review
+on:
+  push:
+    branches: [agent/archify-architecture-refresh]
+    paths: [.github/workflows/archify-source-review.yml]
+permissions:
+  contents: read
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Package the exact site revision and pinned diagram generator
+        run: |
+          mkdir -p /tmp/archify-review/site
+          git archive HEAD | tar -x -C /tmp/archify-review/site
+          curl --fail --location --retry 2 'https://raw.githubusercontent.com/tt-a1i/archify/5769acefcc2ebd696a4f9ed3ac9cb6cca1d75c70/archify.zip' -o /tmp/archify-review/archify.zip
+          git rev-parse HEAD > /tmp/archify-review/site-revision.txt
+          printf '%s\n' '5769acefcc2ebd696a4f9ed3ac9cb6cca1d75c70' > /tmp/archify-review/archify-revision.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: archify-source-review
+          path: /tmp/archify-review
+          retention-days: 3
+          include-hidden-files: true
