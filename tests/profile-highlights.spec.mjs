@@ -38,6 +38,18 @@ for (const viewport of [
     await expect(journey).toContainText('Independent learning project');
     await expect(journey).toContainText('not official conference materials or employer work');
 
+    const moment = section.locator('.profile-highlight-moment');
+    await expect(moment).toBeVisible();
+    await expect(moment.getByText('Conference field note')).toBeVisible();
+    await expect(moment).toContainText('photographed during my attendance');
+    await expect(moment).toContainText('original diagram reconstructions for clarity');
+    await expect(moment.getByRole('link', { name: 'Open the AI Enterprise Conference field report' })).toHaveAttribute('href', journeyUrl);
+
+    const panelImage = moment.getByRole('img', { name: 'Panel discussion onstage at The AI Enterprise Conference in New York City, with enterprise AI themes displayed behind the speakers.' });
+    await expect(panelImage).toHaveAttribute('src', 'assets/images/ai-enterprise-conference-panel.webp');
+    await panelImage.scrollIntoViewIfNeeded();
+    await expect.poll(async () => panelImage.evaluate((image) => image.complete && image.naturalWidth === 1280 && image.naturalHeight === 720)).toBe(true);
+
     const profileText = await page.locator('main').innerText();
     expect(profileText).not.toMatch(/\bgita\b/i);
 

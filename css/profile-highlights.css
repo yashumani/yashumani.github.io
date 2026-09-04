@@ -204,6 +204,67 @@
   overflow-wrap: anywhere;
 }
 
+
+.profile-highlight-moment {
+  display: grid;
+  min-width: 0;
+  margin: 16px 0 0;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--surface);
+  box-shadow: 0 18px 48px rgba(20, 21, 24, 0.055);
+  grid-template-columns: minmax(0, 1fr) minmax(260px, 0.42fr);
+}
+
+.profile-highlight-moment__link {
+  display: block;
+  min-width: 0;
+  overflow: hidden;
+  background: var(--surface-soft);
+}
+
+.profile-highlight-moment img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  object-position: 50% 48%;
+  transition: transform 240ms ease;
+}
+
+.profile-highlight-moment__link:hover img,
+.profile-highlight-moment__link:focus-visible img {
+  transform: scale(1.012);
+}
+
+.profile-highlight-moment figcaption {
+  display: flex;
+  min-width: 0;
+  padding: 28px;
+  border-left: 1px solid var(--line);
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.profile-highlight-moment figcaption span {
+  color: var(--accent);
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  font-weight: 750;
+  letter-spacing: 0.045em;
+  text-transform: uppercase;
+}
+
+.profile-highlight-moment figcaption p {
+  margin: 12px 0 0;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  line-height: 1.58;
+  overflow-wrap: anywhere;
+}
+
 @media (max-width: 820px) {
   .profile-highlights-head {
     display: grid;
@@ -220,6 +281,16 @@
   .profile-highlight-card {
     min-height: 0;
   }
+
+  .profile-highlight-moment {
+    grid-template-columns: 1fr;
+  }
+
+  .profile-highlight-moment figcaption {
+    padding: 22px;
+    border-top: 1px solid var(--line);
+    border-left: 0;
+  }
 }
 
 @media (max-width: 520px) {
@@ -230,6 +301,14 @@
   .profile-highlight-card {
     padding: 21px;
     border-radius: 14px;
+  }
+
+  .profile-highlight-moment {
+    border-radius: 14px;
+  }
+
+  .profile-highlight-moment figcaption {
+    padding: 21px;
   }
 
   .profile-highlight-card::after {
@@ -250,8 +329,14 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .profile-highlight-card {
+  .profile-highlight-card,
+  .profile-highlight-moment img {
     transition: none;
+  }
+
+  .profile-highlight-moment__link:hover img,
+  .profile-highlight-moment__link:focus-visible img {
+    transform: none;
   }
 
   .profile-highlight-card:hover,
@@ -261,7 +346,8 @@
 }
 
 @media print {
-  .profile-highlights {
+  .profile-highlights,
+  .profile-highlight-moment {
     break-inside: avoid;
   }
 

@@ -39,7 +39,16 @@
             '<p class="profile-highlight-boundary">Independent learning project; visuals are original reconstructions based on my notes and conference photographs—not official conference materials or employer work.</p>' +
           '</div>' +
         '</article>' +
-      '</div>';
+      '</div>' +
+      '<figure class="profile-highlight-moment">' +
+        '<a class="profile-highlight-moment__link" href="' + sourceUrl + '" target="_blank" rel="noopener" aria-label="Open the AI Enterprise Conference field report">' +
+          '<img src="assets/images/ai-enterprise-conference-panel.webp" alt="Panel discussion onstage at The AI Enterprise Conference in New York City, with enterprise AI themes displayed behind the speakers." width="1280" height="720" loading="lazy" decoding="async">' +
+        '</a>' +
+        '<figcaption>' +
+          '<span>Conference field note</span>' +
+          '<p>Panel session at The AI Enterprise Conference, New York City—photographed during my attendance. The field report uses original diagram reconstructions for clarity.</p>' +
+        '</figcaption>' +
+      '</figure>';
     return section;
   }
 
