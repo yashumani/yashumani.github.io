@@ -1,0 +1,128 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "DQ Check Platform / Code flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "dq-check-code-1",
+      "lane": "input",
+      "col": 0,
+      "type": "backend",
+      "label": "CSV and JSON parser",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "dq-check-code-2",
+      "lane": "process",
+      "col": 0,
+      "type": "backend",
+      "label": "Dataset profiler",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "dq-check-code-3",
+      "lane": "process",
+      "col": 1,
+      "type": "backend",
+      "label": "Typed analytical profile",
+      "width": 213,
+      "height": 72
+    },
+    {
+      "id": "dq-check-code-4",
+      "lane": "process",
+      "col": 2,
+      "type": "backend",
+      "label": "Cohort investigation",
+      "width": 182,
+      "height": 72
+    },
+    {
+      "id": "dq-check-code-5",
+      "lane": "process",
+      "col": 3,
+      "type": "backend",
+      "label": "Shared visual and chat state",
+      "width": 243,
+      "height": 72
+    },
+    {
+      "id": "dq-check-code-6",
+      "lane": "output",
+      "col": 3,
+      "type": "backend",
+      "label": "Reports and hypotheses",
+      "width": 198,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "dq-check-code-1-next",
+      "from": "dq-check-code-1",
+      "to": "dq-check-code-2",
+      "role": "main"
+    },
+    {
+      "id": "dq-check-code-2-next",
+      "from": "dq-check-code-2",
+      "to": "dq-check-code-3",
+      "role": "main"
+    },
+    {
+      "id": "dq-check-code-3-next",
+      "from": "dq-check-code-3",
+      "to": "dq-check-code-4",
+      "role": "main"
+    },
+    {
+      "id": "dq-check-code-4-next",
+      "from": "dq-check-code-4",
+      "to": "dq-check-code-5",
+      "role": "main"
+    },
+    {
+      "id": "dq-check-code-5-next",
+      "from": "dq-check-code-5",
+      "to": "dq-check-code-6",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "dq-check-code-1",
+    "dq-check-code-2",
+    "dq-check-code-3",
+    "dq-check-code-4",
+    "dq-check-code-5",
+    "dq-check-code-6"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Browser research prototype",
+      "items": [
+        "Runs on session data in the browser. Associations are not proof of causation; this is not a deployed warehouse or production analytics service."
+      ]
+    }
+  ]
+}

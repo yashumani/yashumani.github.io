@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Where It Happened / Data flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "where-it-happened-data-1",
+      "lane": "input",
+      "col": 0,
+      "type": "database",
+      "label": "Place data arrives",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "where-it-happened-data-2",
+      "lane": "process",
+      "col": 0,
+      "type": "database",
+      "label": "Design payload forms",
+      "width": 182,
+      "height": 72
+    },
+    {
+      "id": "where-it-happened-data-3",
+      "lane": "process",
+      "col": 1,
+      "type": "database",
+      "label": "Client persistence",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "where-it-happened-data-4",
+      "lane": "output",
+      "col": 1,
+      "type": "database",
+      "label": "Commerce handoff",
+      "width": 180,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "where-it-happened-data-1-next",
+      "from": "where-it-happened-data-1",
+      "to": "where-it-happened-data-2",
+      "role": "main"
+    },
+    {
+      "id": "where-it-happened-data-2-next",
+      "from": "where-it-happened-data-2",
+      "to": "where-it-happened-data-3",
+      "role": "main"
+    },
+    {
+      "id": "where-it-happened-data-3-next",
+      "from": "where-it-happened-data-3",
+      "to": "where-it-happened-data-4",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "where-it-happened-data-1",
+    "where-it-happened-data-2",
+    "where-it-happened-data-3",
+    "where-it-happened-data-4"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Static product preview",
+      "items": [
+        "Design state stays in the browser. Checkout is a configured provider handoff or an explicit request fallback, never an invented payment success."
+      ]
+    }
+  ]
+}

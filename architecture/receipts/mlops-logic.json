@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "deliver",
+  "type": "workflow",
+  "input": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/specs/mlops-logic.json",
+  "output": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/maps/mlops-logic.html",
+  "specification": {
+    "sha256": "44f0d45c0eacbf2da00ce8b4dde862ad6d48e296c8cd6788f18aedbe6b6640a7",
+    "bytes": 2222
+  },
+  "artifact": {
+    "sha256": "937bf25169b7ccde6c347f71b37051f59bc0d5f064dbb135ce43317fa68d1a5d",
+    "bytes": 700886
+  },
+  "validation": {
+    "checksPassed": 9,
+    "checkCount": 9,
+    "compositionProfile": "showcase",
+    "compositionStatus": "pass",
+    "errors": 0,
+    "warnings": 0
+  }
+}

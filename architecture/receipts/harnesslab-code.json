@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "deliver",
+  "type": "workflow",
+  "input": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/specs/harnesslab-code.json",
+  "output": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/maps/harnesslab-code.html",
+  "specification": {
+    "sha256": "a001729c8db318b9ce51203d4904ce9da48a399b245f21324306e74bf846c64f",
+    "bytes": 2695
+  },
+  "artifact": {
+    "sha256": "4f56c46c96dcf6aeda227ff21cd3e41c5cdd15b54cb7a7dc0a0ca633ef88e8ba",
+    "bytes": 702212
+  },
+  "validation": {
+    "checksPassed": 9,
+    "checkCount": 9,
+    "compositionProfile": "showcase",
+    "compositionStatus": "pass",
+    "errors": 0,
+    "warnings": 0
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Agentic Research Runtime / Data flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "agentic-runtime-data-1",
+      "lane": "input",
+      "col": 0,
+      "type": "database",
+      "label": "Source material enters",
+      "width": 198,
+      "height": 72
+    },
+    {
+      "id": "agentic-runtime-data-2",
+      "lane": "process",
+      "col": 0,
+      "type": "database",
+      "label": "Vector storage indexes",
+      "width": 198,
+      "height": 72
+    },
+    {
+      "id": "agentic-runtime-data-3",
+      "lane": "process",
+      "col": 1,
+      "type": "database",
+      "label": "Evidence graph forms",
+      "width": 182,
+      "height": 72
+    },
+    {
+      "id": "agentic-runtime-data-4",
+      "lane": "output",
+      "col": 1,
+      "type": "database",
+      "label": "Evaluation artifacts persist",
+      "width": 243,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "agentic-runtime-data-1-next",
+      "from": "agentic-runtime-data-1",
+      "to": "agentic-runtime-data-2",
+      "role": "main"
+    },
+    {
+      "id": "agentic-runtime-data-2-next",
+      "from": "agentic-runtime-data-2",
+      "to": "agentic-runtime-data-3",
+      "role": "main"
+    },
+    {
+      "id": "agentic-runtime-data-3-next",
+      "from": "agentic-runtime-data-3",
+      "to": "agentic-runtime-data-4",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "agentic-runtime-data-1",
+    "agentic-runtime-data-2",
+    "agentic-runtime-data-3",
+    "agentic-runtime-data-4"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Implementation case study",
+      "items": [
+        "Logical runtime view from the case study, not a live infrastructure inventory. Claims require evidence and review before publication."
+      ]
+    }
+  ]
+}

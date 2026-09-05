@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "DQ Check Platform",
+    "locale": "en",
+    "quality_profile": "showcase",
+    "viewBox": [
+      1180,
+      510
+    ]
+  },
+  "components": [
+    {
+      "id": "dq-check-input",
+      "type": "frontend",
+      "label": "CSV / JSON input",
+      "sublabel": "User-selected session data",
+      "pos": [
+        45,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "dq-check-profile",
+      "type": "backend",
+      "label": "Profile contract",
+      "sublabel": "Types, quality and readiness",
+      "pos": [
+        335,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "dq-check-investigate",
+      "type": "backend",
+      "label": "Investigation engine",
+      "sublabel": "Residuals and ranked drivers",
+      "pos": [
+        625,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "dq-check-explain",
+      "type": "frontend",
+      "label": "Shared investigation",
+      "sublabel": "Visuals and chat context",
+      "pos": [
+        915,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "dq-check-session",
+      "type": "database",
+      "label": "Session state",
+      "sublabel": "Browser-owned data; no warehouse",
+      "pos": [
+        335,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "dq-check-rescan",
+      "type": "backend",
+      "label": "Cohort rescan",
+      "sublabel": "All dimensions at every drill",
+      "pos": [
+        625,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "dq-check-report",
+      "type": "frontend",
+      "label": "Evidence report",
+      "sublabel": "Findings, caveats and provenance",
+      "pos": [
+        915,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "id": "dq-check-connection-1",
+      "from": "dq-check-input",
+      "to": "dq-check-profile",
+      "label": "validate",
+      "variant": "emphasis"
+    },
+    {
+      "id": "dq-check-connection-2",
+      "from": "dq-check-profile",
+      "to": "dq-check-investigate",
+      "label": "investigate",
+      "variant": "emphasis"
+    },
+    {
+      "id": "dq-check-connection-3",
+      "from": "dq-check-investigate",
+      "to": "dq-check-explain",
+      "label": "explain",
+      "variant": "emphasis"
+    },
+    {
+      "id": "dq-check-connection-4",
+      "from": "dq-check-profile",
+      "to": "dq-check-session",
+      "label": "retain",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    },
+    {
+      "id": "dq-check-connection-5",
+      "from": "dq-check-investigate",
+      "to": "dq-check-rescan",
+      "label": "drill",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    },
+    {
+      "id": "dq-check-connection-6",
+      "from": "dq-check-explain",
+      "to": "dq-check-report",
+      "label": "export",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "Reading the map",
+      "items": [
+        "Follow the top path, then the labeled branches.",
+        "This is a component overview, not every runtime call."
+      ]
+    },
+    {
+      "dot": "amber",
+      "title": "Browser research prototype",
+      "items": [
+        "Runs on session data in the browser. Associations are not proof of causation; this is not a deployed warehouse or production analytics service."
+      ]
+    }
+  ]
+}

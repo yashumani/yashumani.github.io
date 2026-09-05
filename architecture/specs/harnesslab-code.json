@@ -1,0 +1,128 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "HarnessLab / Code flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "harnesslab-code-1",
+      "lane": "input",
+      "col": 0,
+      "type": "backend",
+      "label": "React shell loads",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "harnesslab-code-2",
+      "lane": "process",
+      "col": 0,
+      "type": "backend",
+      "label": "Analysis path resolves",
+      "width": 198,
+      "height": 72
+    },
+    {
+      "id": "harnesslab-code-3",
+      "lane": "process",
+      "col": 1,
+      "type": "backend",
+      "label": "Shared validator executes",
+      "width": 220,
+      "height": 72
+    },
+    {
+      "id": "harnesslab-code-4",
+      "lane": "process",
+      "col": 2,
+      "type": "backend",
+      "label": "Critic context compiles",
+      "width": 205,
+      "height": 72
+    },
+    {
+      "id": "harnesslab-code-5",
+      "lane": "process",
+      "col": 3,
+      "type": "backend",
+      "label": "One provider call runs",
+      "width": 198,
+      "height": 72
+    },
+    {
+      "id": "harnesslab-code-6",
+      "lane": "output",
+      "col": 3,
+      "type": "backend",
+      "label": "Merge gate preserves controls",
+      "width": 251,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "harnesslab-code-1-next",
+      "from": "harnesslab-code-1",
+      "to": "harnesslab-code-2",
+      "role": "main"
+    },
+    {
+      "id": "harnesslab-code-2-next",
+      "from": "harnesslab-code-2",
+      "to": "harnesslab-code-3",
+      "role": "main"
+    },
+    {
+      "id": "harnesslab-code-3-next",
+      "from": "harnesslab-code-3",
+      "to": "harnesslab-code-4",
+      "role": "main"
+    },
+    {
+      "id": "harnesslab-code-4-next",
+      "from": "harnesslab-code-4",
+      "to": "harnesslab-code-5",
+      "role": "main"
+    },
+    {
+      "id": "harnesslab-code-5-next",
+      "from": "harnesslab-code-5",
+      "to": "harnesslab-code-6",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "harnesslab-code-1",
+    "harnesslab-code-2",
+    "harnesslab-code-3",
+    "harnesslab-code-4",
+    "harnesslab-code-5",
+    "harnesslab-code-6"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Live browser + optional gateway",
+      "items": [
+        "One critic worker, one provider call, no tools, no child agents, and no external actions. Local versions are not cloud synchronization."
+      ]
+    }
+  ]
+}

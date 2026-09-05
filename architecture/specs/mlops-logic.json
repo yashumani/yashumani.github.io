@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Automated ML Pipeline Platform / Logic flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "mlops-logic-1",
+      "lane": "input",
+      "col": 0,
+      "type": "backend",
+      "label": "Ingest and profile",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "mlops-logic-2",
+      "lane": "process",
+      "col": 0,
+      "type": "backend",
+      "label": "Assemble recipes",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "mlops-logic-3",
+      "lane": "process",
+      "col": 1,
+      "type": "backend",
+      "label": "Run tournaments",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "mlops-logic-4",
+      "lane": "process",
+      "col": 2,
+      "type": "backend",
+      "label": "Track evidence",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "mlops-logic-5",
+      "lane": "output",
+      "col": 2,
+      "type": "backend",
+      "label": "Package winners",
+      "width": 180,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "mlops-logic-1-next",
+      "from": "mlops-logic-1",
+      "to": "mlops-logic-2",
+      "role": "main"
+    },
+    {
+      "id": "mlops-logic-2-next",
+      "from": "mlops-logic-2",
+      "to": "mlops-logic-3",
+      "role": "main"
+    },
+    {
+      "id": "mlops-logic-3-next",
+      "from": "mlops-logic-3",
+      "to": "mlops-logic-4",
+      "role": "main"
+    },
+    {
+      "id": "mlops-logic-4-next",
+      "from": "mlops-logic-4",
+      "to": "mlops-logic-5",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "mlops-logic-1",
+    "mlops-logic-2",
+    "mlops-logic-3",
+    "mlops-logic-4",
+    "mlops-logic-5"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Implementation case study",
+      "items": [
+        "Redrawn from the published pipeline case. This diagram is not a fresh audit of Azure resources, deployments, or model performance."
+      ]
+    }
+  ]
+}

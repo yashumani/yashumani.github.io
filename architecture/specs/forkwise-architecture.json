@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "ForkWise",
+    "locale": "en",
+    "quality_profile": "showcase",
+    "viewBox": [
+      1180,
+      510
+    ]
+  },
+  "components": [
+    {
+      "id": "forkwise-repo",
+      "type": "frontend",
+      "label": "Repository input",
+      "sublabel": "Public URL and review intent",
+      "pos": [
+        45,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "forkwise-pin",
+      "type": "backend",
+      "label": "Evidence collector",
+      "sublabel": "Exact commit; bounded file reads",
+      "pos": [
+        335,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "forkwise-score",
+      "type": "backend",
+      "label": "Deterministic scores",
+      "sublabel": "Fit / Trust / Run / Own / Exit",
+      "pos": [
+        625,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "forkwise-decision",
+      "type": "frontend",
+      "label": "Review decision",
+      "sublabel": "Recommendations with caveats",
+      "pos": [
+        915,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "forkwise-github",
+      "type": "external",
+      "label": "GitHub read API",
+      "sublabel": "Metadata and selected blobs",
+      "pos": [
+        335,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "forkwise-evidence",
+      "type": "database",
+      "label": "Evidence packet",
+      "sublabel": "Observed, inferred or unknown",
+      "pos": [
+        625,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "forkwise-queue",
+      "type": "messagebus",
+      "label": "Runner queue",
+      "sublabel": "Accepted is not executed",
+      "pos": [
+        915,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "id": "forkwise-connection-1",
+      "from": "forkwise-repo",
+      "to": "forkwise-pin",
+      "label": "resolve",
+      "variant": "emphasis"
+    },
+    {
+      "id": "forkwise-connection-2",
+      "from": "forkwise-pin",
+      "to": "forkwise-score",
+      "label": "assess",
+      "variant": "emphasis"
+    },
+    {
+      "id": "forkwise-connection-3",
+      "from": "forkwise-score",
+      "to": "forkwise-decision",
+      "label": "explain",
+      "variant": "emphasis"
+    },
+    {
+      "id": "forkwise-connection-4",
+      "from": "forkwise-pin",
+      "to": "forkwise-github",
+      "label": "read",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    },
+    {
+      "id": "forkwise-connection-5",
+      "from": "forkwise-score",
+      "to": "forkwise-evidence",
+      "label": "record",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    },
+    {
+      "id": "forkwise-connection-6",
+      "from": "forkwise-decision",
+      "to": "forkwise-queue",
+      "label": "request",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "Reading the map",
+      "items": [
+        "Follow the top path, then the labeled branches.",
+        "This is a component overview, not every runtime call."
+      ]
+    },
+    {
+      "dot": "amber",
+      "title": "Community preview",
+      "items": [
+        "Read-only review of commit-pinned evidence. Hosted runner jobs remain queued; this is decision support, not a security certification or legal opinion."
+      ]
+    }
+  ]
+}

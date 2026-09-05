@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Mangrok Recipe Vault / Code flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "mangrok-code-1",
+      "lane": "input",
+      "col": 0,
+      "type": "backend",
+      "label": "Boot the PWA shell",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "mangrok-code-2",
+      "lane": "process",
+      "col": 0,
+      "type": "backend",
+      "label": "Run local crypto and analysis",
+      "width": 251,
+      "height": 72
+    },
+    {
+      "id": "mangrok-code-3",
+      "lane": "process",
+      "col": 1,
+      "type": "backend",
+      "label": "Route optional model work",
+      "width": 220,
+      "height": 72
+    },
+    {
+      "id": "mangrok-code-4",
+      "lane": "process",
+      "col": 2,
+      "type": "backend",
+      "label": "Evaluate policies and entitlements",
+      "width": 289,
+      "height": 72
+    },
+    {
+      "id": "mangrok-code-5",
+      "lane": "output",
+      "col": 2,
+      "type": "backend",
+      "label": "Run print and legacy operations",
+      "width": 266,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "mangrok-code-1-next",
+      "from": "mangrok-code-1",
+      "to": "mangrok-code-2",
+      "role": "main"
+    },
+    {
+      "id": "mangrok-code-2-next",
+      "from": "mangrok-code-2",
+      "to": "mangrok-code-3",
+      "role": "main"
+    },
+    {
+      "id": "mangrok-code-3-next",
+      "from": "mangrok-code-3",
+      "to": "mangrok-code-4",
+      "role": "main"
+    },
+    {
+      "id": "mangrok-code-4-next",
+      "from": "mangrok-code-4",
+      "to": "mangrok-code-5",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "mangrok-code-1",
+    "mangrok-code-2",
+    "mangrok-code-3",
+    "mangrok-code-4",
+    "mangrok-code-5"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Product case with release gates",
+      "items": [
+        "Device-local use and optional cloud operations have different boundaries. Model work, print-provider handoff, and legacy release require their stated gates."
+      ]
+    }
+  ]
+}

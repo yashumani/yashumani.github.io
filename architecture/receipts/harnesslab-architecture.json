@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "deliver",
+  "type": "architecture",
+  "input": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/specs/harnesslab-architecture.json",
+  "output": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/maps/harnesslab-architecture.html",
+  "specification": {
+    "sha256": "ae9a58b03b8ef31f6f8292d1221556c8931ad8a82b827890a2b081129d76d21e",
+    "bytes": 3700
+  },
+  "artifact": {
+    "sha256": "0773d45a4c26ba51d0c00fa830f750ce8518ab422b2f4621836dc24aa4b9553b",
+    "bytes": 709561
+  },
+  "validation": {
+    "checksPassed": 9,
+    "checkCount": 9,
+    "compositionProfile": "showcase",
+    "compositionStatus": "pass",
+    "errors": 0,
+    "warnings": 0
+  }
+}

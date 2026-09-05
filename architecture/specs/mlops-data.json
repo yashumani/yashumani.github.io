@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Automated ML Pipeline Platform / Data flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "mlops-data-1",
+      "lane": "input",
+      "col": 0,
+      "type": "database",
+      "label": "Source dataset",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "mlops-data-2",
+      "lane": "process",
+      "col": 0,
+      "type": "database",
+      "label": "Prepared feature sets",
+      "width": 190,
+      "height": 72
+    },
+    {
+      "id": "mlops-data-3",
+      "lane": "process",
+      "col": 1,
+      "type": "database",
+      "label": "Run artifacts",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "mlops-data-4",
+      "lane": "output",
+      "col": 1,
+      "type": "database",
+      "label": "Registered output",
+      "width": 180,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "mlops-data-1-next",
+      "from": "mlops-data-1",
+      "to": "mlops-data-2",
+      "role": "main"
+    },
+    {
+      "id": "mlops-data-2-next",
+      "from": "mlops-data-2",
+      "to": "mlops-data-3",
+      "role": "main"
+    },
+    {
+      "id": "mlops-data-3-next",
+      "from": "mlops-data-3",
+      "to": "mlops-data-4",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "mlops-data-1",
+    "mlops-data-2",
+    "mlops-data-3",
+    "mlops-data-4"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Implementation case study",
+      "items": [
+        "Redrawn from the published pipeline case. This diagram is not a fresh audit of Azure resources, deployments, or model performance."
+      ]
+    }
+  ]
+}

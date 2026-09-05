@@ -1,0 +1,128 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "ForkWise / Code flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "forkwise-code-1",
+      "lane": "input",
+      "col": 0,
+      "type": "backend",
+      "label": "GitHub client acquires facts",
+      "width": 243,
+      "height": 72
+    },
+    {
+      "id": "forkwise-code-2",
+      "lane": "process",
+      "col": 0,
+      "type": "backend",
+      "label": "Inventory ranks artifacts",
+      "width": 220,
+      "height": 72
+    },
+    {
+      "id": "forkwise-code-3",
+      "lane": "process",
+      "col": 1,
+      "type": "backend",
+      "label": "Analyzer applies rules",
+      "width": 198,
+      "height": 72
+    },
+    {
+      "id": "forkwise-code-4",
+      "lane": "process",
+      "col": 2,
+      "type": "backend",
+      "label": "Schema validates and redacts",
+      "width": 243,
+      "height": 72
+    },
+    {
+      "id": "forkwise-code-5",
+      "lane": "process",
+      "col": 3,
+      "type": "backend",
+      "label": "Application renders safely",
+      "width": 228,
+      "height": 72
+    },
+    {
+      "id": "forkwise-code-6",
+      "lane": "output",
+      "col": 3,
+      "type": "backend",
+      "label": "Exports and runner stay bounded",
+      "width": 266,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "forkwise-code-1-next",
+      "from": "forkwise-code-1",
+      "to": "forkwise-code-2",
+      "role": "main"
+    },
+    {
+      "id": "forkwise-code-2-next",
+      "from": "forkwise-code-2",
+      "to": "forkwise-code-3",
+      "role": "main"
+    },
+    {
+      "id": "forkwise-code-3-next",
+      "from": "forkwise-code-3",
+      "to": "forkwise-code-4",
+      "role": "main"
+    },
+    {
+      "id": "forkwise-code-4-next",
+      "from": "forkwise-code-4",
+      "to": "forkwise-code-5",
+      "role": "main"
+    },
+    {
+      "id": "forkwise-code-5-next",
+      "from": "forkwise-code-5",
+      "to": "forkwise-code-6",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "forkwise-code-1",
+    "forkwise-code-2",
+    "forkwise-code-3",
+    "forkwise-code-4",
+    "forkwise-code-5",
+    "forkwise-code-6"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Community preview",
+      "items": [
+        "Read-only review of commit-pinned evidence. Hosted runner jobs remain queued; this is decision support, not a security certification or legal opinion."
+      ]
+    }
+  ]
+}

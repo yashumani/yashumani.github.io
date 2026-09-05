@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "deliver",
+  "type": "workflow",
+  "input": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/specs/forkwise-code.json",
+  "output": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/maps/forkwise-code.html",
+  "specification": {
+    "sha256": "8473c7cbf3b41c93867dcff2f27e30f21e7c47d24e091e6e7c062ad084f3f0e4",
+    "bytes": 2662
+  },
+  "artifact": {
+    "sha256": "c4fe768e049e58c1a5052add8de169aac1a3142af8aa6f61b92c80b8fa094f8e",
+    "bytes": 702285
+  },
+  "validation": {
+    "checksPassed": 9,
+    "checkCount": 9,
+    "compositionProfile": "showcase",
+    "compositionStatus": "pass",
+    "errors": 0,
+    "warnings": 0
+  }
+}

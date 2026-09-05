@@ -1,0 +1,128 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "My Seventh Meal / Logic flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "my-seventh-meal-logic-1",
+      "lane": "input",
+      "col": 0,
+      "type": "backend",
+      "label": "Capture meal",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "my-seventh-meal-logic-2",
+      "lane": "process",
+      "col": 0,
+      "type": "backend",
+      "label": "Generate candidates",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "my-seventh-meal-logic-3",
+      "lane": "process",
+      "col": 1,
+      "type": "backend",
+      "label": "Ask high-impact questions",
+      "width": 220,
+      "height": 72
+    },
+    {
+      "id": "my-seventh-meal-logic-4",
+      "lane": "process",
+      "col": 2,
+      "type": "backend",
+      "label": "Confirm structure",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "my-seventh-meal-logic-5",
+      "lane": "process",
+      "col": 3,
+      "type": "backend",
+      "label": "Calculate deterministically",
+      "width": 236,
+      "height": 72
+    },
+    {
+      "id": "my-seventh-meal-logic-6",
+      "lane": "output",
+      "col": 3,
+      "type": "backend",
+      "label": "Learn the household",
+      "width": 180,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "my-seventh-meal-logic-1-next",
+      "from": "my-seventh-meal-logic-1",
+      "to": "my-seventh-meal-logic-2",
+      "role": "main"
+    },
+    {
+      "id": "my-seventh-meal-logic-2-next",
+      "from": "my-seventh-meal-logic-2",
+      "to": "my-seventh-meal-logic-3",
+      "role": "main"
+    },
+    {
+      "id": "my-seventh-meal-logic-3-next",
+      "from": "my-seventh-meal-logic-3",
+      "to": "my-seventh-meal-logic-4",
+      "role": "main"
+    },
+    {
+      "id": "my-seventh-meal-logic-4-next",
+      "from": "my-seventh-meal-logic-4",
+      "to": "my-seventh-meal-logic-5",
+      "role": "main"
+    },
+    {
+      "id": "my-seventh-meal-logic-5-next",
+      "from": "my-seventh-meal-logic-5",
+      "to": "my-seventh-meal-logic-6",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "my-seventh-meal-logic-1",
+    "my-seventh-meal-logic-2",
+    "my-seventh-meal-logic-3",
+    "my-seventh-meal-logic-4",
+    "my-seventh-meal-logic-5",
+    "my-seventh-meal-logic-6"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Proposed architecture",
+      "items": [
+        "This is the proposed design, not a claim of a released nutrition service. AI proposes candidates; confirmed structure and references drive calculation."
+      ]
+    }
+  ]
+}

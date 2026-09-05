@@ -6,11 +6,11 @@ const animatedRoutes = projectRoutes.filter(route => !route.endsWith('/dq-check-
 for (const route of animatedRoutes) {
   test(`${route} retains the interactive architecture`, async ({ page }) => {
     await page.goto(route, { waitUntil: 'domcontentloaded' });
-    const diagram = page.locator('.flow-showcase');
+    const diagram = page.locator('.archify-workspace');
     await expect(diagram).toBeVisible({ timeout: 8_000 });
-    await expect(diagram.locator('.architecture-stage')).toHaveCount(4);
-    await expect(diagram.locator('.architecture-node')).toHaveCount(16);
-    await expect(diagram.locator('.flow-lane:not([hidden])')).toHaveCount(3);
+    await expect(diagram.locator('[role=tab]')).toHaveCount(4);
+    await expect(diagram.locator('.archify-text')).toHaveCount(4);
+    await expect(diagram.locator('.archify-scope')).toBeVisible();
   });
 }
 
@@ -126,9 +126,9 @@ test('HarnessLab states its executed worker and roadmap boundaries', async ({ pa
   await expect(main).toContainText('does not execute MCP tools, A2A peers, arbitrary code');
   await expect(main).toContainText('not encrypted cloud storage or cross-device synchronization');
   await expect(main).toContainText('Roadmap, not current-state claims');
-  await expect(page.locator('.flow-showcase .architecture-stage')).toHaveCount(4);
-  await expect(page.locator('.flow-showcase .architecture-node')).toHaveCount(16);
-  await expect(page.locator('.flow-showcase .flow-lane:not([hidden])')).toHaveCount(3);
+  await expect(page.locator('.archify-workspace [role=tab]')).toHaveCount(4);
+  await expect(page.locator('.archify-text')).toHaveCount(4);
+  await expect(page.locator('.archify-scope')).toBeVisible();
   await expect(page.locator('.case-links-top a')).toHaveCount(3, { timeout: 8_000 });
   await expect(page.getByRole('link', { name: 'Open live application' })).toBeVisible();
   await expect(page.getByRole('link', { name: 'View repository' })).toBeVisible();
@@ -143,8 +143,8 @@ test('ForkWise keeps commit-pinned evidence and hosted-runner limits explicit', 
   await expect(main).toContainText('does not install packages, run tests, execute lifecycle scripts');
   await expect(main).toContainText('deployed lifecycle still leaves accepted jobs queued');
   await expect(main).toContainText('decision support, not a security certification or legal opinion');
-  await expect(page.locator('.flow-showcase .architecture-stage')).toHaveCount(4);
-  await expect(page.locator('.flow-showcase .architecture-node')).toHaveCount(16);
+  await expect(page.locator('.archify-workspace [role=tab]')).toHaveCount(4);
+  await expect(page.locator('.archify-text')).toHaveCount(4);
   await expect(page.locator('.case-links-top a')).toHaveCount(4);
   await expect(page.getByRole('link', { name: 'Open live reviewer' })).toBeVisible();
   await expect(page.getByRole('link', { name: 'View repository' })).toBeVisible();

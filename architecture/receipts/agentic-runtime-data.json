@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "deliver",
+  "type": "workflow",
+  "input": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/specs/agentic-runtime-data.json",
+  "output": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/maps/agentic-runtime-data.html",
+  "specification": {
+    "sha256": "05150339d7f242e247e4e7d8c6d439413d12da21c14c716b87d3d0e74023bfe4",
+    "bytes": 2074
+  },
+  "artifact": {
+    "sha256": "eac9ee6e6b98ece79c272e017ba4d26dba1cef73cfd34b25324ad0c2125db98e",
+    "bytes": 700409
+  },
+  "validation": {
+    "checksPassed": 9,
+    "checkCount": 9,
+    "compositionProfile": "showcase",
+    "compositionStatus": "pass",
+    "errors": 0,
+    "warnings": 0
+  }
+}
