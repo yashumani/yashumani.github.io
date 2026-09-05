@@ -13,6 +13,17 @@
   if (!host) return;
   document.body.classList.add('archify-ready');
   var id = host.getAttribute('data-archify-project');
+  // Retain the old static diagrams as no-script fallbacks without leaving empty sections.
+  document.querySelectorAll('main > .architecture-flow, main > .diagram, .diagram-figure').forEach(function (original) {
+    if (original.nextElementSibling && original.nextElementSibling.classList.contains('archify-replacement-link')) return;
+    var paragraph = document.createElement('p');
+    var link = document.createElement('a');
+    paragraph.className = 'archify-replacement-link';
+    link.href = '../architecture/maps/' + id + (original.classList.contains('diagram') ? '-code.html' : '-architecture.html');
+    link.textContent = 'Explore this view in the interactive system map →';
+    paragraph.appendChild(link);
+    original.insertAdjacentElement('afterend', paragraph);
+  });
   var tabs = Array.prototype.slice.call(host.querySelectorAll('[data-archify-view]'));
   var panel = host.querySelector('[role="tabpanel"]');
   var preview = host.querySelector('[data-archify-preview]');
