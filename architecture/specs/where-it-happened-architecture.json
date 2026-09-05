@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Where It Happened",
+    "locale": "en",
+    "quality_profile": "showcase",
+    "viewBox": [
+      1180,
+      510
+    ]
+  },
+  "components": [
+    {
+      "id": "where-it-happened-studio",
+      "type": "frontend",
+      "label": "Creator studio",
+      "sublabel": "Place, story and poster controls",
+      "pos": [
+        45,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "where-it-happened-state",
+      "type": "backend",
+      "label": "Design state",
+      "sublabel": "One serializable browser object",
+      "pos": [
+        335,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "where-it-happened-render",
+      "type": "frontend",
+      "label": "Poster renderer",
+      "sublabel": "Map state and layout stay aligned",
+      "pos": [
+        625,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "where-it-happened-export",
+      "type": "frontend",
+      "label": "Design snapshot",
+      "sublabel": "PNG / PDF and cart state",
+      "pos": [
+        915,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "where-it-happened-drafts",
+      "type": "database",
+      "label": "Drafts + share URL",
+      "sublabel": "Local storage and URL hash",
+      "pos": [
+        335,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "where-it-happened-maps",
+      "type": "external",
+      "label": "MapLibre runtime",
+      "sublabel": "Lazy map; OpenFreeMap styles",
+      "pos": [
+        625,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "where-it-happened-checkout",
+      "type": "external",
+      "label": "Checkout adapter",
+      "sublabel": "Provider or request fallback",
+      "pos": [
+        915,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "id": "where-it-happened-connection-1",
+      "from": "where-it-happened-studio",
+      "to": "where-it-happened-state",
+      "label": "update",
+      "variant": "emphasis"
+    },
+    {
+      "id": "where-it-happened-connection-2",
+      "from": "where-it-happened-state",
+      "to": "where-it-happened-render",
+      "label": "render",
+      "variant": "emphasis"
+    },
+    {
+      "id": "where-it-happened-connection-3",
+      "from": "where-it-happened-render",
+      "to": "where-it-happened-export",
+      "label": "export",
+      "variant": "emphasis"
+    },
+    {
+      "id": "where-it-happened-connection-4",
+      "from": "where-it-happened-state",
+      "to": "where-it-happened-drafts",
+      "label": "persist",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    },
+    {
+      "id": "where-it-happened-connection-5",
+      "from": "where-it-happened-render",
+      "to": "where-it-happened-maps",
+      "label": "load map",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    },
+    {
+      "id": "where-it-happened-connection-6",
+      "from": "where-it-happened-export",
+      "to": "where-it-happened-checkout",
+      "label": "request",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "Reading the map",
+      "items": [
+        "Follow the top path, then the labeled branches.",
+        "This is a component overview, not every runtime call."
+      ]
+    },
+    {
+      "dot": "amber",
+      "title": "Static product preview",
+      "items": [
+        "Design state stays in the browser. Checkout is a configured provider handoff or an explicit request fallback, never an invented payment success."
+      ]
+    }
+  ]
+}

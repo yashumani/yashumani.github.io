@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Automated ML Pipeline Platform / Code flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "mlops-code-1",
+      "lane": "input",
+      "col": 0,
+      "type": "backend",
+      "label": "Azure ML pipeline starts",
+      "width": 213,
+      "height": 72
+    },
+    {
+      "id": "mlops-code-2",
+      "lane": "process",
+      "col": 0,
+      "type": "backend",
+      "label": "Search engines execute",
+      "width": 198,
+      "height": 72
+    },
+    {
+      "id": "mlops-code-3",
+      "lane": "process",
+      "col": 1,
+      "type": "backend",
+      "label": "Experiment logging fires",
+      "width": 213,
+      "height": 72
+    },
+    {
+      "id": "mlops-code-4",
+      "lane": "process",
+      "col": 2,
+      "type": "backend",
+      "label": "Ranking selects a winner",
+      "width": 213,
+      "height": 72
+    },
+    {
+      "id": "mlops-code-5",
+      "lane": "output",
+      "col": 2,
+      "type": "backend",
+      "label": "Registry receives output",
+      "width": 213,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "mlops-code-1-next",
+      "from": "mlops-code-1",
+      "to": "mlops-code-2",
+      "role": "main"
+    },
+    {
+      "id": "mlops-code-2-next",
+      "from": "mlops-code-2",
+      "to": "mlops-code-3",
+      "role": "main"
+    },
+    {
+      "id": "mlops-code-3-next",
+      "from": "mlops-code-3",
+      "to": "mlops-code-4",
+      "role": "main"
+    },
+    {
+      "id": "mlops-code-4-next",
+      "from": "mlops-code-4",
+      "to": "mlops-code-5",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "mlops-code-1",
+    "mlops-code-2",
+    "mlops-code-3",
+    "mlops-code-4",
+    "mlops-code-5"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Implementation case study",
+      "items": [
+        "Redrawn from the published pipeline case. This diagram is not a fresh audit of Azure resources, deployments, or model performance."
+      ]
+    }
+  ]
+}

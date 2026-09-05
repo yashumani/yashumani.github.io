@@ -1,0 +1,144 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "ForkWise / Logic flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "forkwise-logic-1",
+      "lane": "input",
+      "col": 0,
+      "type": "backend",
+      "label": "Describe intended use",
+      "width": 190,
+      "height": 72
+    },
+    {
+      "id": "forkwise-logic-2",
+      "lane": "process",
+      "col": 0,
+      "type": "backend",
+      "label": "Validate repository scope",
+      "width": 220,
+      "height": 72
+    },
+    {
+      "id": "forkwise-logic-3",
+      "lane": "process",
+      "col": 1,
+      "type": "backend",
+      "label": "Pin the exact commit",
+      "width": 182,
+      "height": 72
+    },
+    {
+      "id": "forkwise-logic-4",
+      "lane": "process",
+      "col": 2,
+      "type": "backend",
+      "label": "Collect bounded evidence",
+      "width": 213,
+      "height": 72
+    },
+    {
+      "id": "forkwise-logic-5",
+      "lane": "process",
+      "col": 3,
+      "type": "backend",
+      "label": "Check README claims",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "forkwise-logic-6",
+      "lane": "process",
+      "col": 4,
+      "type": "backend",
+      "label": "Evaluate five dimensions",
+      "width": 213,
+      "height": 72
+    },
+    {
+      "id": "forkwise-logic-7",
+      "lane": "output",
+      "col": 4,
+      "type": "backend",
+      "label": "Return a decision path",
+      "width": 198,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "forkwise-logic-1-next",
+      "from": "forkwise-logic-1",
+      "to": "forkwise-logic-2",
+      "role": "main"
+    },
+    {
+      "id": "forkwise-logic-2-next",
+      "from": "forkwise-logic-2",
+      "to": "forkwise-logic-3",
+      "role": "main"
+    },
+    {
+      "id": "forkwise-logic-3-next",
+      "from": "forkwise-logic-3",
+      "to": "forkwise-logic-4",
+      "role": "main"
+    },
+    {
+      "id": "forkwise-logic-4-next",
+      "from": "forkwise-logic-4",
+      "to": "forkwise-logic-5",
+      "role": "main"
+    },
+    {
+      "id": "forkwise-logic-5-next",
+      "from": "forkwise-logic-5",
+      "to": "forkwise-logic-6",
+      "role": "main"
+    },
+    {
+      "id": "forkwise-logic-6-next",
+      "from": "forkwise-logic-6",
+      "to": "forkwise-logic-7",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "forkwise-logic-1",
+    "forkwise-logic-2",
+    "forkwise-logic-3",
+    "forkwise-logic-4",
+    "forkwise-logic-5",
+    "forkwise-logic-6",
+    "forkwise-logic-7"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Community preview",
+      "items": [
+        "Read-only review of commit-pinned evidence. Hosted runner jobs remain queued; this is decision support, not a security certification or legal opinion."
+      ]
+    }
+  ]
+}

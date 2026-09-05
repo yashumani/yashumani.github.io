@@ -1,0 +1,128 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Governed AI Brain / Code flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "ai-brain-code-1",
+      "lane": "input",
+      "col": 0,
+      "type": "backend",
+      "label": "FastAPI receives the request",
+      "width": 243,
+      "height": 72
+    },
+    {
+      "id": "ai-brain-code-2",
+      "lane": "process",
+      "col": 0,
+      "type": "backend",
+      "label": "Compiler and plugin registry run",
+      "width": 274,
+      "height": 72
+    },
+    {
+      "id": "ai-brain-code-3",
+      "lane": "process",
+      "col": 1,
+      "type": "backend",
+      "label": "Governance service creates review state",
+      "width": 327,
+      "height": 72
+    },
+    {
+      "id": "ai-brain-code-4",
+      "lane": "process",
+      "col": 2,
+      "type": "backend",
+      "label": "Retrieval and policy checks execute",
+      "width": 296,
+      "height": 72
+    },
+    {
+      "id": "ai-brain-code-5",
+      "lane": "process",
+      "col": 3,
+      "type": "backend",
+      "label": "ContextPackService builds output",
+      "width": 274,
+      "height": 72
+    },
+    {
+      "id": "ai-brain-code-6",
+      "lane": "output",
+      "col": 3,
+      "type": "backend",
+      "label": "Adapters expose the result",
+      "width": 228,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "ai-brain-code-1-next",
+      "from": "ai-brain-code-1",
+      "to": "ai-brain-code-2",
+      "role": "main"
+    },
+    {
+      "id": "ai-brain-code-2-next",
+      "from": "ai-brain-code-2",
+      "to": "ai-brain-code-3",
+      "role": "main"
+    },
+    {
+      "id": "ai-brain-code-3-next",
+      "from": "ai-brain-code-3",
+      "to": "ai-brain-code-4",
+      "role": "main"
+    },
+    {
+      "id": "ai-brain-code-4-next",
+      "from": "ai-brain-code-4",
+      "to": "ai-brain-code-5",
+      "role": "main"
+    },
+    {
+      "id": "ai-brain-code-5-next",
+      "from": "ai-brain-code-5",
+      "to": "ai-brain-code-6",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "ai-brain-code-1",
+    "ai-brain-code-2",
+    "ai-brain-code-3",
+    "ai-brain-code-4",
+    "ai-brain-code-5",
+    "ai-brain-code-6"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Active scaffold",
+      "items": [
+        "The documented scaffold uses synthetic examples and an in-memory store. Production identity, durable storage, and stronger retrieval remain unfinished."
+      ]
+    }
+  ]
+}

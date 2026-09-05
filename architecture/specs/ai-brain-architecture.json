@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Governed AI Brain",
+    "locale": "en",
+    "quality_profile": "showcase",
+    "viewBox": [
+      1180,
+      510
+    ]
+  },
+  "components": [
+    {
+      "id": "ai-brain-submit",
+      "type": "frontend",
+      "label": "Context submission",
+      "sublabel": "REST / MCP / SDK / CLI",
+      "pos": [
+        45,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "ai-brain-compile",
+      "type": "backend",
+      "label": "Shared compiler",
+      "sublabel": "Normalize and validate input",
+      "pos": [
+        335,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "ai-brain-candidate",
+      "type": "database",
+      "label": "Candidate record",
+      "sublabel": "Evidence and proposed content",
+      "pos": [
+        625,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "ai-brain-review",
+      "type": "security",
+      "label": "Human review",
+      "sublabel": "Approve or reject publication",
+      "pos": [
+        915,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "ai-brain-enrich",
+      "type": "external",
+      "label": "Optional enrichment",
+      "sublabel": "Model output is advisory",
+      "pos": [
+        335,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "ai-brain-store",
+      "type": "database",
+      "label": "In-memory store",
+      "sublabel": "Scaffold; not durable storage",
+      "pos": [
+        625,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "ai-brain-publish",
+      "type": "backend",
+      "label": "Published context",
+      "sublabel": "Filtered retrieval and packs",
+      "pos": [
+        915,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "id": "ai-brain-connection-1",
+      "from": "ai-brain-submit",
+      "to": "ai-brain-compile",
+      "label": "submit",
+      "variant": "emphasis"
+    },
+    {
+      "id": "ai-brain-connection-2",
+      "from": "ai-brain-compile",
+      "to": "ai-brain-candidate",
+      "label": "compile",
+      "variant": "emphasis"
+    },
+    {
+      "id": "ai-brain-connection-3",
+      "from": "ai-brain-candidate",
+      "to": "ai-brain-review",
+      "label": "review",
+      "variant": "emphasis"
+    },
+    {
+      "id": "ai-brain-connection-4",
+      "from": "ai-brain-compile",
+      "to": "ai-brain-enrich",
+      "label": "suggest",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    },
+    {
+      "id": "ai-brain-connection-5",
+      "from": "ai-brain-candidate",
+      "to": "ai-brain-store",
+      "label": "store",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    },
+    {
+      "id": "ai-brain-connection-6",
+      "from": "ai-brain-review",
+      "to": "ai-brain-publish",
+      "label": "approve",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "Reading the map",
+      "items": [
+        "Follow the top path, then the labeled branches.",
+        "This is a component overview, not every runtime call."
+      ]
+    },
+    {
+      "dot": "amber",
+      "title": "Active scaffold",
+      "items": [
+        "The documented scaffold uses synthetic examples and an in-memory store. Production identity, durable storage, and stronger retrieval remain unfinished."
+      ]
+    }
+  ]
+}

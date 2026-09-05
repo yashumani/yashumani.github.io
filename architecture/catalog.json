@@ -1,0 +1,1268 @@
+{
+  "generator": "Archify 2.17.0-dev.1",
+  "revision": "5769acefcc2ebd696a4f9ed3ac9cb6cca1d75c70",
+  "basis": "Published portfolio cases and flow descriptions; not a new implementation audit.",
+  "projects": [
+    {
+      "id": "dq-check",
+      "slug": "dq-check-platform.html",
+      "title": "DQ Check Platform",
+      "status": "Browser research prototype",
+      "scope": "Runs on session data in the browser. Associations are not proof of causation; this is not a deployed warehouse or production analytics service.",
+      "source": "projects/dq-check-platform.html",
+      "views": [
+        {
+          "key": "architecture",
+          "label": "Architecture",
+          "map": "maps/dq-check-architecture.html",
+          "spec": "specs/dq-check-architecture.json",
+          "steps": [
+            [
+              "CSV / JSON input",
+              "User-selected session data"
+            ],
+            [
+              "Profile contract",
+              "Types, quality and readiness"
+            ],
+            [
+              "Investigation engine",
+              "Residuals and ranked drivers"
+            ],
+            [
+              "Shared investigation",
+              "Visuals and chat context"
+            ],
+            [
+              "Session state",
+              "Browser-owned data; no warehouse"
+            ],
+            [
+              "Cohort rescan",
+              "All dimensions at every drill"
+            ],
+            [
+              "Evidence report",
+              "Findings, caveats and provenance"
+            ]
+          ]
+        },
+        {
+          "key": "logic",
+          "label": "Logic flow",
+          "map": "maps/dq-check-logic.html",
+          "spec": "specs/dq-check-logic.json",
+          "steps": [
+            [
+              "Validate comparison rows",
+              "Exclude invalid Actual and Expected rows and show how many were removed."
+            ],
+            [
+              "Calculate residuals",
+              "Calculate Actual - Expected ; when Expected is missing, use an explicitly labeled cohort-median fallback."
+            ],
+            [
+              "Group eligible dimensions",
+              "Group each remaining eligible dimension independently inside the current cohort."
+            ],
+            [
+              "Score drivers",
+              "Score drivers using grouped impact, distinctiveness, concentration, support, and a cardinality penalty."
+            ],
+            [
+              "Rank signed contributions",
+              "Rank signed category contributions while preserving row counts and per-row movement."
+            ],
+            [
+              "Search interactions",
+              "Search supported two- and three-dimensional interaction segments after pruning weak candidates."
+            ],
+            [
+              "Rescan after every drill",
+              "Repeat the full scan after every chart or chat drill."
+            ]
+          ]
+        },
+        {
+          "key": "code",
+          "label": "Code flow",
+          "map": "maps/dq-check-code.html",
+          "spec": "specs/dq-check-code.json",
+          "steps": [
+            [
+              "CSV and JSON parser",
+              "Preserves identifiers, flattens shallow objects, enforces public-demo size limits, and records rejected rows."
+            ],
+            [
+              "Dataset profiler",
+              "Checks readiness, column behavior, missingness, duplicates, types, dates, outliers, variants, and PII-like fields."
+            ],
+            [
+              "Typed analytical profile",
+              "Identifies reliable measures, comparison fields, eligible dimensions, labels, and valid hierarchy links."
+            ],
+            [
+              "Cohort investigation",
+              "Calculates residuals, rescans dimensions, ranks categories, and prunes supported interaction candidates."
+            ],
+            [
+              "Shared visual and chat state",
+              "Every click or deterministic-chat instruction changes the same cohort and repeats the scan."
+            ],
+            [
+              "Reports and hypotheses",
+              "Exports the quality report and treats news or analyst context as hypotheses rather than causal proof."
+            ]
+          ]
+        },
+        {
+          "key": "data",
+          "label": "Data flow",
+          "map": "maps/dq-check-data.html",
+          "spec": "specs/dq-check-data.json",
+          "steps": [
+            [
+              "CSV and JSON parser",
+              "Preserves identifiers, flattens shallow objects, enforces public-demo size limits, and records rejected rows."
+            ],
+            [
+              "Dataset profiler",
+              "Checks readiness, column behavior, missingness, duplicates, types, dates, outliers, variants, and PII-like fields."
+            ],
+            [
+              "Typed analytical profile",
+              "Identifies reliable measures, comparison fields, eligible dimensions, labels, and valid hierarchy links."
+            ],
+            [
+              "Cohort investigation",
+              "Calculates residuals, rescans dimensions, ranks categories, and prunes supported interaction candidates."
+            ],
+            [
+              "Shared visual and chat state",
+              "Every click or deterministic-chat instruction changes the same cohort and repeats the scan."
+            ],
+            [
+              "Reports and hypotheses",
+              "Exports the quality report and treats news or analyst context as hypotheses rather than causal proof."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mlops",
+      "slug": "mlops-solution-accelerator.html",
+      "title": "Automated ML Pipeline Platform",
+      "status": "Implementation case study",
+      "scope": "Redrawn from the published pipeline case. This diagram is not a fresh audit of Azure resources, deployments, or model performance.",
+      "source": "projects/mlops-solution-accelerator.html",
+      "views": [
+        {
+          "key": "architecture",
+          "label": "Architecture",
+          "map": "maps/mlops-architecture.html",
+          "spec": "specs/mlops-architecture.json",
+          "steps": [
+            [
+              "Dataset + YAML",
+              "Task and search configuration"
+            ],
+            [
+              "Azure ML pipeline",
+              "Reusable component orchestration"
+            ],
+            [
+              "Candidate search",
+              "PyCaret / FLAML / Optuna"
+            ],
+            [
+              "Holdout evaluation",
+              "Compare selected candidates"
+            ],
+            [
+              "Managed compute",
+              "Azure ML execution resources"
+            ],
+            [
+              "MLflow evidence",
+              "Metrics, parameters and artifacts"
+            ],
+            [
+              "Model registry",
+              "Winner, lineage and handoff"
+            ]
+          ]
+        },
+        {
+          "key": "logic",
+          "label": "Logic flow",
+          "map": "maps/mlops-logic.html",
+          "spec": "specs/mlops-logic.json",
+          "steps": [
+            [
+              "Ingest and profile",
+              "Raw tabular data is validated, typed, and profiled before training begins."
+            ],
+            [
+              "Assemble recipes",
+              "The platform generates model and preprocessing combinations for the declared task family."
+            ],
+            [
+              "Run tournaments",
+              "Candidates compete under repeatable cross-validation and optimization rules."
+            ],
+            [
+              "Track evidence",
+              "Metrics, parameters, artifacts, and lineage are recorded for every run."
+            ],
+            [
+              "Package winners",
+              "The best candidate becomes a reusable, governed model output."
+            ]
+          ]
+        },
+        {
+          "key": "code",
+          "label": "Code flow",
+          "map": "maps/mlops-code.html",
+          "spec": "specs/mlops-code.json",
+          "steps": [
+            [
+              "Azure ML pipeline starts",
+              "Reusable components orchestrate preparation, training, evaluation, and registration.",
+              "18 reusable components"
+            ],
+            [
+              "Search engines execute",
+              "PyCaret, FLAML, and Optuna strategies generate candidate pipelines and hyperparameters.",
+              "Search + compare"
+            ],
+            [
+              "Experiment logging fires",
+              "Each run emits metrics, parameters, models, and artifacts into MLflow lineage.",
+              "Run-level observability"
+            ],
+            [
+              "Ranking selects a winner",
+              "Selection code ranks 457 recipes against the declared objective and constraints.",
+              "Best candidate chosen"
+            ],
+            [
+              "Registry receives output",
+              "The winning model and metadata move into the governed model registry.",
+              "Approve → register"
+            ]
+          ]
+        },
+        {
+          "key": "data",
+          "label": "Data flow",
+          "map": "maps/mlops-data.html",
+          "spec": "specs/mlops-data.json",
+          "steps": [
+            [
+              "Source dataset",
+              "Input tables and feature candidates enter the Azure ML workspace."
+            ],
+            [
+              "Prepared feature sets",
+              "Transforms produce train, validation, and test assets plus reusable preprocessing outputs."
+            ],
+            [
+              "Run artifacts",
+              "Metrics, plots, models, and configuration snapshots accumulate in experiment storage."
+            ],
+            [
+              "Registered output",
+              "The winning model, provenance, and evaluation metadata become a governed deployable asset."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-brain",
+      "slug": "governed-ai-brain.html",
+      "title": "Governed AI Brain",
+      "status": "Active scaffold",
+      "scope": "The documented scaffold uses synthetic examples and an in-memory store. Production identity, durable storage, and stronger retrieval remain unfinished.",
+      "source": "projects/governed-ai-brain.html",
+      "views": [
+        {
+          "key": "architecture",
+          "label": "Architecture",
+          "map": "maps/ai-brain-architecture.html",
+          "spec": "specs/ai-brain-architecture.json",
+          "steps": [
+            [
+              "Context submission",
+              "REST / MCP / SDK / CLI"
+            ],
+            [
+              "Shared compiler",
+              "Normalize and validate input"
+            ],
+            [
+              "Candidate record",
+              "Evidence and proposed content"
+            ],
+            [
+              "Human review",
+              "Approve or reject publication"
+            ],
+            [
+              "Optional enrichment",
+              "Model output is advisory"
+            ],
+            [
+              "In-memory store",
+              "Scaffold; not durable storage"
+            ],
+            [
+              "Published context",
+              "Filtered retrieval and packs"
+            ]
+          ]
+        },
+        {
+          "key": "logic",
+          "label": "Logic flow",
+          "map": "maps/ai-brain-logic.html",
+          "spec": "specs/ai-brain-logic.json",
+          "steps": [
+            [
+              "Submit source context",
+              "A user, connector, or job submits source material with ownership, sensitivity, access, and version metadata.",
+              "Source + policy metadata"
+            ],
+            [
+              "Compile candidate objects",
+              "Parsers, plugins, rules, or optional AI classify evidence and map it to the ontology.",
+              "Evidence → candidates"
+            ],
+            [
+              "Review and decide",
+              "A human approves, rejects, or requests changes while preserving warnings and provenance.",
+              "Candidate ≠ published"
+            ],
+            [
+              "Publish governed knowledge",
+              "Approved objects become reusable brain records with explicit state and freshness.",
+              "Review gate"
+            ],
+            [
+              "Compose context pack",
+              "The runtime selects allowed definitions, rules, caveats, relationships, and evidence for the task.",
+              "Policy-aware context"
+            ],
+            [
+              "Serve the consumer",
+              "Applications, agents, notebooks, and pipelines receive the same governed context through the appropriate adapter.",
+              "REST / MCP / SDK / CLI"
+            ]
+          ]
+        },
+        {
+          "key": "code",
+          "label": "Code flow",
+          "map": "maps/ai-brain-code.html",
+          "spec": "specs/ai-brain-code.json",
+          "steps": [
+            [
+              "FastAPI receives the request",
+              "API routes validate Pydantic contracts and delegate to shared services.",
+              "Thin routes"
+            ],
+            [
+              "Compiler and plugin registry run",
+              "The compiler invokes enabled connectors, parsers, extractors, validators, and AI providers.",
+              "Config-driven pipeline"
+            ],
+            [
+              "Governance service creates review state",
+              "Review items and audit events are written without allowing direct publication.",
+              "State machine"
+            ],
+            [
+              "Retrieval and policy checks execute",
+              "Identity and access rules filter the candidate set before context is assembled.",
+              "Filter before model"
+            ],
+            [
+              "ContextPackService builds output",
+              "A versioned context payload is returned with objects, evidence, caveats, freshness, and confidence.",
+              "Inspectable payload"
+            ],
+            [
+              "Adapters expose the result",
+              "REST, MCP, SDK, and CLI wrap the same core behavior instead of duplicating it.",
+              "One source of truth"
+            ]
+          ]
+        },
+        {
+          "key": "data",
+          "label": "Data flow",
+          "map": "maps/ai-brain-data.html",
+          "spec": "specs/ai-brain-data.json",
+          "steps": [
+            [
+              "Raw source and metadata",
+              "Documents, SQL, dashboard exports, Markdown, and structured submissions arrive with source identity and policy data."
+            ],
+            [
+              "Evidence layer",
+              "Original artifacts and normalized evidence chunks preserve what was actually provided."
+            ],
+            [
+              "Candidate knowledge",
+              "Metrics, datasets, owners, rules, decisions, templates, and relationships remain explicitly unapproved."
+            ],
+            [
+              "Published brain objects",
+              "Approved records carry state, lineage, source references, sensitivity, owner, reviewer, and freshness."
+            ],
+            [
+              "Permission-aware context pack",
+              "Only allowed and relevant knowledge reaches the application or model consuming the brain."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "agentic-runtime",
+      "slug": "agentic-knowledge-runtime.html",
+      "title": "Agentic Research Runtime",
+      "status": "Implementation case study",
+      "scope": "Logical runtime view from the case study, not a live infrastructure inventory. Claims require evidence and review before publication.",
+      "source": "projects/agentic-knowledge-runtime.html",
+      "views": [
+        {
+          "key": "architecture",
+          "label": "Architecture",
+          "map": "maps/agentic-runtime-architecture.html",
+          "spec": "specs/agentic-runtime-architecture.json",
+          "steps": [
+            [
+              "FastAPI boundary",
+              "Research request and status"
+            ],
+            [
+              "Temporal workflows",
+              "Durable execution and retries"
+            ],
+            [
+              "Source ingestion",
+              "Adapters, parsing and extraction"
+            ],
+            [
+              "Evidence index",
+              "Graph relationships and Weaviate"
+            ],
+            [
+              "Reasoning + critic",
+              "Draft, review and bounded repair"
+            ],
+            [
+              "Source payloads",
+              "Preserved material and provenance"
+            ],
+            [
+              "Retrieval context",
+              "Evidence for claim-level review"
+            ]
+          ]
+        },
+        {
+          "key": "logic",
+          "label": "Logic flow",
+          "map": "maps/agentic-runtime-logic.html",
+          "spec": "specs/agentic-runtime-logic.json",
+          "steps": [
+            [
+              "Accept question",
+              "The runtime receives a research request, required output, and quality constraints."
+            ],
+            [
+              "Plan and retrieve",
+              "Agents decompose the task and gather source evidence through hybrid retrieval."
+            ],
+            [
+              "Build evidence graph",
+              "Claims, citations, source notes, and support relationships become inspectable graph objects."
+            ],
+            [
+              "Draft and critique",
+              "Generation agents propose an answer while critique agents identify unsupported or incomplete parts."
+            ],
+            [
+              "Repair and re-evaluate",
+              "The system loops until quality gates pass or an escalation condition is reached."
+            ],
+            [
+              "Publish",
+              "Only validated outputs are released together with traceable supporting evidence."
+            ]
+          ]
+        },
+        {
+          "key": "code",
+          "label": "Code flow",
+          "map": "maps/agentic-runtime-code.html",
+          "spec": "specs/agentic-runtime-code.json",
+          "steps": [
+            [
+              "Temporal workflow starts",
+              "Durable orchestration manages agent execution, state, retries, and timeouts.",
+              "Workflow entrypoint"
+            ],
+            [
+              "Retrieval adapters run",
+              "Lexical, semantic, and vector paths access indexed corpora and evidence stores.",
+              "Hybrid retrieval"
+            ],
+            [
+              "Reasoning modules execute",
+              "DSPy-style modules plan, synthesize, cite, and format candidate outputs.",
+              "Planner → writer → critic"
+            ],
+            [
+              "Evaluation gate runs",
+              "Promptfoo and test harnesses score grounding, completeness, formatting, and failure cases.",
+              "200+ automated tests"
+            ],
+            [
+              "Repair loop or release",
+              "Failed outputs return to critique-and-repair; successful outputs move to publishing.",
+              "Gate-controlled release"
+            ]
+          ]
+        },
+        {
+          "key": "data",
+          "label": "Data flow",
+          "map": "maps/agentic-runtime-data.html",
+          "spec": "specs/agentic-runtime-data.json",
+          "steps": [
+            [
+              "Source material enters",
+              "Documents, passages, and structured references become searchable evidence."
+            ],
+            [
+              "Vector storage indexes",
+              "Embeddings and metadata support semantic retrieval and source linking."
+            ],
+            [
+              "Evidence graph forms",
+              "Claims, citations, and support chains become first-class runtime records."
+            ],
+            [
+              "Evaluation artifacts persist",
+              "Scores, traces, failures, repaired drafts, and release decisions are retained for regression analysis."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "harnesslab",
+      "slug": "agentic-harness-builder.html",
+      "title": "HarnessLab",
+      "status": "Live browser + optional gateway",
+      "scope": "One critic worker, one provider call, no tools, no child agents, and no external actions. Local versions are not cloud synchronization.",
+      "source": "projects/agentic-harness-builder.html",
+      "views": [
+        {
+          "key": "architecture",
+          "label": "Architecture",
+          "map": "maps/harnesslab-architecture.html",
+          "spec": "specs/harnesslab-architecture.json",
+          "steps": [
+            [
+              "Requirement input",
+              "No-build React workspace"
+            ],
+            [
+              "Analysis router",
+              "Local or optional gateway"
+            ],
+            [
+              "Shared validation",
+              "Typed artifacts and permissions"
+            ],
+            [
+              "Harness plan",
+              "Reviewed, bounded proposal"
+            ],
+            [
+              "Optional gateway",
+              "Provider credentials stay server-side"
+            ],
+            [
+              "Bounded critic",
+              "One call; advisory findings only"
+            ],
+            [
+              "Local versions",
+              "Immutable browser snapshots"
+            ]
+          ]
+        },
+        {
+          "key": "logic",
+          "label": "Logic flow",
+          "map": "maps/harnesslab-logic.html",
+          "spec": "specs/harnesslab-logic.json",
+          "steps": [
+            [
+              "Describe the objective",
+              "The user supplies the goal, systems, constraints, success criteria, and known risks.",
+              "Requirement first"
+            ],
+            [
+              "Choose the least complex architecture",
+              "The planner decides whether deterministic software, an LLM feature, a workflow, a single agent, or bounded multi-agent guidance fits the requirement.",
+              "Agency must be justified"
+            ],
+            [
+              "Define the harness",
+              "The result specifies topology, protocols, permissions, approvals, artifacts, failures, trace, and evaluation.",
+              "Control plane before execution"
+            ],
+            [
+              "Optionally run one critic",
+              "A compatible gateway may execute one temporary architecture critic against the validated plan.",
+              "One worker · one call"
+            ],
+            [
+              "Accept findings deterministically",
+              "Only typed medium/high-severity findings with confidence of at least 0.70 may add bounded review evidence.",
+              "Advice is not authority"
+            ],
+            [
+              "Save the reviewed version",
+              "The original and reviewed results remain available as immutable browser-local project versions and JSON exports.",
+              "Retain the evidence"
+            ]
+          ]
+        },
+        {
+          "key": "code",
+          "label": "Code flow",
+          "map": "maps/harnesslab-code.html",
+          "spec": "specs/harnesslab-code.json",
+          "steps": [
+            [
+              "React shell loads",
+              "GitHub Pages serves the command center and local project workspace without a build-time application server.",
+              "Static UI → local workspace"
+            ],
+            [
+              "Analysis path resolves",
+              "Browser mode runs the deterministic engine; automatic or required mode can call the configured gateway.",
+              "Browser or gateway"
+            ],
+            [
+              "Shared validator executes",
+              "Every browser, fallback, gateway, and critic result must satisfy the same structured contract before rendering or saving.",
+              "One HarnessResult contract"
+            ],
+            [
+              "Critic context compiles",
+              "The gateway validates the plan and builds a whitelist-only envelope that excludes credentials, tools, files, databases, and production data.",
+              "Maximum 48 KiB"
+            ],
+            [
+              "One provider call runs",
+              "The fixed Architecture Critic uses the deterministic provider, configured Ollama model, or a free-only OpenRouter route.",
+              "No tools or child agents"
+            ],
+            [
+              "Merge gate preserves controls",
+              "Accepted findings may add questions and review evidence but cannot weaken permissions, stages, protocols, or constraints.",
+              "Deterministic merge"
+            ]
+          ]
+        },
+        {
+          "key": "data",
+          "label": "Data flow",
+          "map": "maps/harnesslab-data.html",
+          "spec": "specs/harnesslab-data.json",
+          "steps": [
+            [
+              "Requirement record",
+              "The full objective and constraints enter the project as the source input."
+            ],
+            [
+              "Validated HarnessResult",
+              "Architecture, permissions, planned agents, artifacts, trace, evaluation, and unresolved questions form one portable object."
+            ],
+            [
+              "Minimum critic envelope",
+              "Only approved result fields and the fixed worker policy cross the temporary-worker boundary."
+            ],
+            [
+              "TemporaryAgentReview",
+              "Verdict, confidence, accepted findings, rejected findings, provider metadata, and failure evidence return as a typed artifact."
+            ],
+            [
+              "Versioned workspace",
+              "The reviewed result, original requirement, artifacts, and trace are retained locally and can be exported as JSON."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forkwise",
+      "slug": "forkwise-open-source-reviewer.html",
+      "title": "ForkWise",
+      "status": "Community preview",
+      "scope": "Read-only review of commit-pinned evidence. Hosted runner jobs remain queued; this is decision support, not a security certification or legal opinion.",
+      "source": "projects/forkwise-open-source-reviewer.html",
+      "views": [
+        {
+          "key": "architecture",
+          "label": "Architecture",
+          "map": "maps/forkwise-architecture.html",
+          "spec": "specs/forkwise-architecture.json",
+          "steps": [
+            [
+              "Repository input",
+              "Public URL and review intent"
+            ],
+            [
+              "Evidence collector",
+              "Exact commit; bounded file reads"
+            ],
+            [
+              "Deterministic scores",
+              "Fit / Trust / Run / Own / Exit"
+            ],
+            [
+              "Review decision",
+              "Recommendations with caveats"
+            ],
+            [
+              "GitHub read API",
+              "Metadata and selected blobs"
+            ],
+            [
+              "Evidence packet",
+              "Observed, inferred or unknown"
+            ],
+            [
+              "Runner queue",
+              "Accepted is not executed"
+            ]
+          ]
+        },
+        {
+          "key": "logic",
+          "label": "Logic flow",
+          "map": "maps/forkwise-logic.html",
+          "spec": "specs/forkwise-logic.json",
+          "steps": [
+            [
+              "Describe intended use",
+              "The reviewer captures purpose, use case, deployment target, data sensitivity, team size, and external-service constraints."
+            ],
+            [
+              "Validate repository scope",
+              "Unsupported hosts and URL forms are rejected before evidence collection begins."
+            ],
+            [
+              "Pin the exact commit",
+              "The review records the default branch and 40-character commit SHA so the result can be reproduced."
+            ],
+            [
+              "Collect bounded evidence",
+              "Metadata, the recursive tree, README, release information, and selected high-value text artifacts form the review snapshot."
+            ],
+            [
+              "Check README claims",
+              "Claims are marked verified, partial, unverified, contradicted, or not claimed based on inspected signals."
+            ],
+            [
+              "Evaluate five dimensions",
+              "Fit, Trust, Run, Own, and Exit are evaluated against the user’s stated constraints."
+            ],
+            [
+              "Return a decision path",
+              "The report recommends Adopt, Pilot, Fork, Avoid, or Insufficient evidence and records unresolved questions and a pilot checklist."
+            ]
+          ]
+        },
+        {
+          "key": "code",
+          "label": "Code flow",
+          "map": "maps/forkwise-code.html",
+          "spec": "specs/forkwise-code.json",
+          "steps": [
+            [
+              "GitHub client acquires facts",
+              "src/github.js normalizes the URL, translates API errors, pins the commit, and retrieves bounded repository evidence."
+            ],
+            [
+              "Inventory ranks artifacts",
+              "src/inventory.js classifies paths and selects the most useful text files within count and size limits."
+            ],
+            [
+              "Analyzer applies rules",
+              "src/analyzer.js generates deterministic evidence, findings, dimension summaries, claims, and recommendation logic."
+            ],
+            [
+              "Schema validates and redacts",
+              "src/schema.js enforces report enums, evidence references, unique identifiers, and credential-like text redaction."
+            ],
+            [
+              "Application renders safely",
+              "src/app.js controls progress, filters, safe text rendering, and the GitHub-native reviewer experience."
+            ],
+            [
+              "Exports and runner stay bounded",
+              "src/export.js revalidates reports; runner clients and hosted adapters remain behind explicit activation and lifecycle gates."
+            ]
+          ]
+        },
+        {
+          "key": "data",
+          "label": "Data flow",
+          "map": "maps/forkwise-data.html",
+          "spec": "specs/forkwise-data.json",
+          "steps": [
+            [
+              "Context object",
+              "Intent, use case, deployment target, sensitivity, team size, and external-service policy enter as normalized decision context."
+            ],
+            [
+              "Repository snapshot",
+              "Repository identity, branch, commit SHA, tree, README, release metadata, and selected text blobs form a bounded immutable reference."
+            ],
+            [
+              "Evidence model",
+              "Evidence records, finding references, severity, confidence, claim states, operational inventory, and unresolved questions remain linked."
+            ],
+            [
+              "Normalized assessment",
+              "The report records analyzer version, schema version, decision, confidence, five dimension summaries, and exact provenance."
+            ],
+            [
+              "Portable output",
+              "Validated and re-redacted JSON or Markdown can be reviewed, compared, shared, or used to plan a controlled pilot."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mangrok",
+      "slug": "mangrok-recipe-vault.html",
+      "title": "Mangrok Recipe Vault",
+      "status": "Product case with release gates",
+      "scope": "Device-local use and optional cloud operations have different boundaries. Model work, print-provider handoff, and legacy release require their stated gates.",
+      "source": "projects/mangrok-recipe-vault.html",
+      "views": [
+        {
+          "key": "architecture",
+          "label": "Architecture",
+          "map": "maps/mangrok-architecture.html",
+          "spec": "specs/mangrok-architecture.json",
+          "steps": [
+            [
+              "Recipe studio",
+              "PWA, media and Alchemy Lab"
+            ],
+            [
+              "Private-field boundary",
+              "Web Crypto and key derivation"
+            ],
+            [
+              "Cloud access policy",
+              "Supabase Auth and PostgreSQL RLS"
+            ],
+            [
+              "Canonical records",
+              "Recipes, versions and private media"
+            ],
+            [
+              "IndexedDB vault",
+              "Device-local operation"
+            ],
+            [
+              "Optional Alchemy AI",
+              "Entitlement and metering gates"
+            ],
+            [
+              "Outside operations",
+              "Print gate; human legacy review"
+            ]
+          ]
+        },
+        {
+          "key": "logic",
+          "label": "Logic flow",
+          "map": "maps/mangrok-logic.html",
+          "spec": "specs/mangrok-logic.json",
+          "steps": [
+            [
+              "Capture recipe or open Alchemy",
+              "A user adds recipe content, story, media, and a visibility class.",
+              "Create → classify → enrich"
+            ],
+            [
+              "Protect private fields",
+              "Sensitive notes are sealed before durable storage and separated from general metadata.",
+              "Secret notes ≠ public fields"
+            ],
+            [
+              "Refine culinary analysis",
+              "The owner grants scoped viewer, contributor, or custodian access with expiry and revocation.",
+              "Role + expiry + revocation"
+            ],
+            [
+              "Share and version safely",
+              "Collaboration creates recoverable history so family knowledge can be restored.",
+              "Draft → publish → restore"
+            ],
+            [
+              "Prepare print output",
+              "Reviewed records become cookbook layouts and controlled print requests.",
+              "Review → render → order"
+            ],
+            [
+              "Review legacy requests",
+              "Inheritance requests enter a human-reviewed gate before private content is released.",
+              "No automatic release"
+            ]
+          ]
+        },
+        {
+          "key": "code",
+          "label": "Code flow",
+          "map": "maps/mangrok-code.html",
+          "spec": "specs/mangrok-code.json",
+          "steps": [
+            [
+              "Boot the PWA shell",
+              "The offline-capable client resolves local data and authenticated session state.",
+              "Service worker + IndexedDB"
+            ],
+            [
+              "Run local crypto and analysis",
+              "Web Crypto derives a key and encrypts secret fields before persistence.",
+              "PBKDF2 → AES-256-GCM"
+            ],
+            [
+              "Route optional model work",
+              "Structured rows and private media references are submitted through authenticated APIs.",
+              "Auth → PostgREST → Storage"
+            ],
+            [
+              "Evaluate policies and entitlements",
+              "PostgreSQL row-level security decides which actor may read, edit, print, or administer.",
+              "Owner / viewer / custodian"
+            ],
+            [
+              "Run print and legacy operations",
+              "A server-side function validates completeness and enforces idempotent provider handoff.",
+              "Validate → deduplicate → submit"
+            ]
+          ]
+        },
+        {
+          "key": "data",
+          "label": "Data flow",
+          "map": "maps/mangrok-data.html",
+          "spec": "specs/mangrok-data.json",
+          "steps": [
+            [
+              "Form input",
+              "Recipe, ingredients, instructions, story, access class, and attachments enter the model."
+            ],
+            [
+              "Split data plane",
+              "General metadata, encrypted notes, and binary media are separated by sensitivity and storage needs."
+            ],
+            [
+              "Policy-bound persistence",
+              "PostgreSQL holds relational records while private object storage holds media behind signed access."
+            ],
+            [
+              "Derived outputs",
+              "Sharing links, audit history, export bundles, and cookbook layouts derive from canonical records."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "where-it-happened",
+      "slug": "where-it-happened.html",
+      "title": "Where It Happened",
+      "status": "Static product preview",
+      "scope": "Design state stays in the browser. Checkout is a configured provider handoff or an explicit request fallback, never an invented payment success.",
+      "source": "projects/where-it-happened.html",
+      "views": [
+        {
+          "key": "architecture",
+          "label": "Architecture",
+          "map": "maps/where-it-happened-architecture.html",
+          "spec": "specs/where-it-happened-architecture.json",
+          "steps": [
+            [
+              "Creator studio",
+              "Place, story and poster controls"
+            ],
+            [
+              "Design state",
+              "One serializable browser object"
+            ],
+            [
+              "Poster renderer",
+              "Map state and layout stay aligned"
+            ],
+            [
+              "Design snapshot",
+              "PNG / PDF and cart state"
+            ],
+            [
+              "Drafts + share URL",
+              "Local storage and URL hash"
+            ],
+            [
+              "MapLibre runtime",
+              "Lazy map; OpenFreeMap styles"
+            ],
+            [
+              "Checkout adapter",
+              "Provider or request fallback"
+            ]
+          ]
+        },
+        {
+          "key": "logic",
+          "label": "Logic flow",
+          "map": "maps/where-it-happened-logic.html",
+          "spec": "specs/where-it-happened-logic.json",
+          "steps": [
+            [
+              "Choose place",
+              "The user selects a city, landmark, geolocation, or exact coordinates."
+            ],
+            [
+              "Style memory",
+              "Map mood, story preset, layout, caption, and output format shape the poster."
+            ],
+            [
+              "Preview design",
+              "The live creator keeps the map and poster state synchronized as controls change."
+            ],
+            [
+              "Save or share",
+              "The design is stored locally, encoded into a URL hash, or exported as PNG/PDF."
+            ],
+            [
+              "Checkout safely",
+              "A real provider handoff occurs only when checkout is configured; otherwise the app uses an explicit request fallback."
+            ]
+          ]
+        },
+        {
+          "key": "code",
+          "label": "Code flow",
+          "map": "maps/where-it-happened-code.html",
+          "spec": "specs/where-it-happened-code.json",
+          "steps": [
+            [
+              "Static shell loads",
+              "GitHub Pages serves the core UI before the heavier map runtime is requested.",
+              "HTML/CSS/JS → lazy map boot"
+            ],
+            [
+              "Map engine resolves",
+              "MapLibre initializes the map with OpenFreeMap vector styles and active theme layers.",
+              "MapLibre + vector tiles"
+            ],
+            [
+              "State engine syncs",
+              "Control events update a central design object that drives rendering, local persistence, and sharing.",
+              "Event → state → render"
+            ],
+            [
+              "Renderer exports",
+              "The poster view becomes a watermarked image or browser-printable PDF.",
+              "Poster DOM → PNG/PDF"
+            ],
+            [
+              "Checkout adapter decides",
+              "Code redirects to a configured provider or shows a transparent order-request path.",
+              "No fake success state"
+            ]
+          ]
+        },
+        {
+          "key": "data",
+          "label": "Data flow",
+          "map": "maps/where-it-happened-data.html",
+          "spec": "specs/where-it-happened-data.json",
+          "steps": [
+            [
+              "Place data arrives",
+              "Preset data, search results, geolocation, or manual coordinates form the geographic anchor."
+            ],
+            [
+              "Design payload forms",
+              "Color mood, labels, layout, crop, zoom, marker state, and text become a serializable object."
+            ],
+            [
+              "Client persistence",
+              "Drafts and cart snapshots live locally while shareable state is compressed into the URL hash."
+            ],
+            [
+              "Commerce handoff",
+              "A sanitized product and design payload reaches the checkout adapter or order-request fallback."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "my-seventh-meal",
+      "slug": "my-seventh-meal.html",
+      "title": "My Seventh Meal",
+      "status": "Proposed architecture",
+      "scope": "This is the proposed design, not a claim of a released nutrition service. AI proposes candidates; confirmed structure and references drive calculation.",
+      "source": "projects/my-seventh-meal.html",
+      "views": [
+        {
+          "key": "architecture",
+          "label": "Architecture",
+          "map": "maps/my-seventh-meal-architecture.html",
+          "spec": "specs/my-seventh-meal-architecture.json",
+          "steps": [
+            [
+              "Meal capture",
+              "Proposed React Native / Expo"
+            ],
+            [
+              "Candidate perception",
+              "Proposed FastAPI and model router"
+            ],
+            [
+              "User clarification",
+              "Confirm dishes and portions"
+            ],
+            [
+              "Nutrition calculation",
+              "Deterministic, versioned rules"
+            ],
+            [
+              "Photo evidence",
+              "Proposed signed storage"
+            ],
+            [
+              "Structured meal",
+              "Recipe, oils, yield and provenance"
+            ],
+            [
+              "Household memory",
+              "Confirmed corrections for reuse"
+            ]
+          ]
+        },
+        {
+          "key": "logic",
+          "label": "Logic flow",
+          "map": "maps/my-seventh-meal-logic.html",
+          "spec": "specs/my-seventh-meal-logic.json",
+          "steps": [
+            [
+              "Capture meal",
+              "The user photographs a plate or enters the meal manually."
+            ],
+            [
+              "Generate candidates",
+              "A multimodal model proposes one to three plausible dishes or components."
+            ],
+            [
+              "Ask high-impact questions",
+              "The system asks only clarifications likely to materially change the result."
+            ],
+            [
+              "Confirm structure",
+              "The user confirms dishes, portions, oils, sides, ingredients, and recipe variations."
+            ],
+            [
+              "Calculate deterministically",
+              "A versioned engine calculates nutrients from structured food records and reference data."
+            ],
+            [
+              "Learn the household",
+              "Corrections become reusable meal and household-recipe memory for future logging."
+            ]
+          ]
+        },
+        {
+          "key": "code",
+          "label": "Code flow",
+          "map": "maps/my-seventh-meal-code.html",
+          "spec": "specs/my-seventh-meal-code.json",
+          "steps": [
+            [
+              "Mobile client submits",
+              "The React Native client uploads a photo or manual meal object to the API.",
+              "Expo client → FastAPI"
+            ],
+            [
+              "Inference adapter runs",
+              "A provider-abstracted multimodal service returns candidates and uncertainty signals.",
+              "Image → candidate list"
+            ],
+            [
+              "Question policy executes",
+              "A clarification policy selects the smallest useful set of follow-up questions.",
+              "Maximize information gain"
+            ],
+            [
+              "Nutrition engine computes",
+              "Confirmed structure maps to canonical foods and versioned deterministic calculation rules.",
+              "Confirmed input → truth service"
+            ],
+            [
+              "User memory persists",
+              "Corrected meal profiles and household recipes are saved for reuse.",
+              "Feedback loop"
+            ]
+          ]
+        },
+        {
+          "key": "data",
+          "label": "Data flow",
+          "map": "maps/my-seventh-meal-data.html",
+          "spec": "specs/my-seventh-meal-data.json",
+          "steps": [
+            [
+              "Unstructured capture",
+              "Photo pixels and text descriptions arrive as evidence, not as final truth."
+            ],
+            [
+              "Structured meal object",
+              "Confirmation converts evidence into dishes, ingredients, yields, oils, portions, and provenance."
+            ],
+            [
+              "Reference mapping",
+              "Canonical food records resolve against curated and USDA-aligned nutrient sources."
+            ],
+            [
+              "Versioned output",
+              "The result stores nutrients, ranges, confidence notes, and the calculation version that produced them."
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

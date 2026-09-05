@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "deliver",
+  "type": "architecture",
+  "input": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/specs/forkwise-architecture.json",
+  "output": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/maps/forkwise-architecture.html",
+  "specification": {
+    "sha256": "822f40616e812e9cd1cc17c2a5068542d4cd7bede91598d54f811937ff1d8ab5",
+    "bytes": 3621
+  },
+  "artifact": {
+    "sha256": "cdb4b17be28038810bc7757ca0977fc994abf506585a781799b983a65a22a75c",
+    "bytes": 709517
+  },
+  "validation": {
+    "checksPassed": 9,
+    "checkCount": 9,
+    "compositionProfile": "showcase",
+    "compositionStatus": "pass",
+    "errors": 0,
+    "warnings": 0
+  }
+}

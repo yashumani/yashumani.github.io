@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "My Seventh Meal",
+    "locale": "en",
+    "quality_profile": "showcase",
+    "viewBox": [
+      1180,
+      510
+    ]
+  },
+  "components": [
+    {
+      "id": "my-seventh-meal-capture",
+      "type": "frontend",
+      "label": "Meal capture",
+      "sublabel": "Proposed React Native / Expo",
+      "pos": [
+        45,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "my-seventh-meal-perceive",
+      "type": "backend",
+      "label": "Candidate perception",
+      "sublabel": "Proposed FastAPI and model router",
+      "pos": [
+        335,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "my-seventh-meal-confirm",
+      "type": "frontend",
+      "label": "User clarification",
+      "sublabel": "Confirm dishes and portions",
+      "pos": [
+        625,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "my-seventh-meal-calculate",
+      "type": "backend",
+      "label": "Nutrition calculation",
+      "sublabel": "Deterministic, versioned rules",
+      "pos": [
+        915,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "my-seventh-meal-photo",
+      "type": "database",
+      "label": "Photo evidence",
+      "sublabel": "Proposed signed storage",
+      "pos": [
+        335,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "my-seventh-meal-meal",
+      "type": "database",
+      "label": "Structured meal",
+      "sublabel": "Recipe, oils, yield and provenance",
+      "pos": [
+        625,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "my-seventh-meal-memory",
+      "type": "database",
+      "label": "Household memory",
+      "sublabel": "Confirmed corrections for reuse",
+      "pos": [
+        915,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "id": "my-seventh-meal-connection-1",
+      "from": "my-seventh-meal-capture",
+      "to": "my-seventh-meal-perceive",
+      "label": "submit",
+      "variant": "emphasis"
+    },
+    {
+      "id": "my-seventh-meal-connection-2",
+      "from": "my-seventh-meal-perceive",
+      "to": "my-seventh-meal-confirm",
+      "label": "clarify",
+      "variant": "emphasis"
+    },
+    {
+      "id": "my-seventh-meal-connection-3",
+      "from": "my-seventh-meal-confirm",
+      "to": "my-seventh-meal-calculate",
+      "label": "calculate",
+      "variant": "emphasis"
+    },
+    {
+      "id": "my-seventh-meal-connection-4",
+      "from": "my-seventh-meal-perceive",
+      "to": "my-seventh-meal-photo",
+      "label": "retain",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    },
+    {
+      "id": "my-seventh-meal-connection-5",
+      "from": "my-seventh-meal-confirm",
+      "to": "my-seventh-meal-meal",
+      "label": "confirm",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    },
+    {
+      "id": "my-seventh-meal-connection-6",
+      "from": "my-seventh-meal-calculate",
+      "to": "my-seventh-meal-memory",
+      "label": "learn",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "Reading the map",
+      "items": [
+        "Follow the top path, then the labeled branches.",
+        "This is a component overview, not every runtime call."
+      ]
+    },
+    {
+      "dot": "amber",
+      "title": "Proposed architecture",
+      "items": [
+        "This is the proposed design, not a claim of a released nutrition service. AI proposes candidates; confirmed structure and references drive calculation."
+      ]
+    }
+  ]
+}

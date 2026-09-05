@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Governed AI Brain / Data flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "ai-brain-data-1",
+      "lane": "input",
+      "col": 0,
+      "type": "database",
+      "label": "Raw source and metadata",
+      "width": 205,
+      "height": 72
+    },
+    {
+      "id": "ai-brain-data-2",
+      "lane": "process",
+      "col": 0,
+      "type": "database",
+      "label": "Evidence layer",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "ai-brain-data-3",
+      "lane": "process",
+      "col": 1,
+      "type": "database",
+      "label": "Candidate knowledge",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "ai-brain-data-4",
+      "lane": "process",
+      "col": 2,
+      "type": "database",
+      "label": "Published brain objects",
+      "width": 205,
+      "height": 72
+    },
+    {
+      "id": "ai-brain-data-5",
+      "lane": "output",
+      "col": 2,
+      "type": "database",
+      "label": "Permission-aware context pack",
+      "width": 251,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "ai-brain-data-1-next",
+      "from": "ai-brain-data-1",
+      "to": "ai-brain-data-2",
+      "role": "main"
+    },
+    {
+      "id": "ai-brain-data-2-next",
+      "from": "ai-brain-data-2",
+      "to": "ai-brain-data-3",
+      "role": "main"
+    },
+    {
+      "id": "ai-brain-data-3-next",
+      "from": "ai-brain-data-3",
+      "to": "ai-brain-data-4",
+      "role": "main"
+    },
+    {
+      "id": "ai-brain-data-4-next",
+      "from": "ai-brain-data-4",
+      "to": "ai-brain-data-5",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "ai-brain-data-1",
+    "ai-brain-data-2",
+    "ai-brain-data-3",
+    "ai-brain-data-4",
+    "ai-brain-data-5"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Active scaffold",
+      "items": [
+        "The documented scaffold uses synthetic examples and an in-memory store. Production identity, durable storage, and stronger retrieval remain unfinished."
+      ]
+    }
+  ]
+}

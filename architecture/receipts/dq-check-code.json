@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "deliver",
+  "type": "workflow",
+  "input": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/specs/dq-check-code.json",
+  "output": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/maps/dq-check-code.html",
+  "specification": {
+    "sha256": "910a98f82e6c05e5b053fda4d8ee5db82df4df86fd5e9c5d7f92c30bd8b8e6fa",
+    "bytes": 2642
+  },
+  "artifact": {
+    "sha256": "5ecfce49146d102c0cf4ff8146f1474a2d5e95fa52a96a00f95ec74a5daa9e4f",
+    "bytes": 702202
+  },
+  "validation": {
+    "checksPassed": 9,
+    "checkCount": 9,
+    "compositionProfile": "showcase",
+    "compositionStatus": "pass",
+    "errors": 0,
+    "warnings": 0
+  }
+}

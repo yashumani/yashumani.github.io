@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "HarnessLab / Data flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "harnesslab-data-1",
+      "lane": "input",
+      "col": 0,
+      "type": "database",
+      "label": "Requirement record",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "harnesslab-data-2",
+      "lane": "process",
+      "col": 0,
+      "type": "database",
+      "label": "Validated HarnessResult",
+      "width": 205,
+      "height": 72
+    },
+    {
+      "id": "harnesslab-data-3",
+      "lane": "process",
+      "col": 1,
+      "type": "database",
+      "label": "Minimum critic envelope",
+      "width": 205,
+      "height": 72
+    },
+    {
+      "id": "harnesslab-data-4",
+      "lane": "process",
+      "col": 2,
+      "type": "database",
+      "label": "TemporaryAgentReview",
+      "width": 182,
+      "height": 72
+    },
+    {
+      "id": "harnesslab-data-5",
+      "lane": "output",
+      "col": 2,
+      "type": "database",
+      "label": "Versioned workspace",
+      "width": 180,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "harnesslab-data-1-next",
+      "from": "harnesslab-data-1",
+      "to": "harnesslab-data-2",
+      "role": "main"
+    },
+    {
+      "id": "harnesslab-data-2-next",
+      "from": "harnesslab-data-2",
+      "to": "harnesslab-data-3",
+      "role": "main"
+    },
+    {
+      "id": "harnesslab-data-3-next",
+      "from": "harnesslab-data-3",
+      "to": "harnesslab-data-4",
+      "role": "main"
+    },
+    {
+      "id": "harnesslab-data-4-next",
+      "from": "harnesslab-data-4",
+      "to": "harnesslab-data-5",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "harnesslab-data-1",
+    "harnesslab-data-2",
+    "harnesslab-data-3",
+    "harnesslab-data-4",
+    "harnesslab-data-5"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Live browser + optional gateway",
+      "items": [
+        "One critic worker, one provider call, no tools, no child agents, and no external actions. Local versions are not cloud synchronization."
+      ]
+    }
+  ]
+}

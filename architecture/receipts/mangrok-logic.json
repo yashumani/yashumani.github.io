@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "deliver",
+  "type": "workflow",
+  "input": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/specs/mangrok-logic.json",
+  "output": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/maps/mangrok-logic.html",
+  "specification": {
+    "sha256": "843517ee3a8ef8de6a7736547720b4002d5eae504d57b3de92939c30865f01c9",
+    "bytes": 2677
+  },
+  "artifact": {
+    "sha256": "41473d1d71812b944fd7c4f671331aea40be4decd0b1db52c8a59d447d05af6f",
+    "bytes": 702196
+  },
+  "validation": {
+    "checksPassed": 9,
+    "checkCount": 9,
+    "compositionProfile": "showcase",
+    "compositionStatus": "pass",
+    "errors": 0,
+    "warnings": 0
+  }
+}

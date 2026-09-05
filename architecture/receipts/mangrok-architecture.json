@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "deliver",
+  "type": "architecture",
+  "input": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/specs/mangrok-architecture.json",
+  "output": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/maps/mangrok-architecture.html",
+  "specification": {
+    "sha256": "6be6235fb65f046906c1709d392bd2d468d4e88f375f33f04133356ca2e7562e",
+    "bytes": 3676
+  },
+  "artifact": {
+    "sha256": "e57689b90f5a24a0e02bddceb1a5ec4b6b42aa87d62481bbe19aa2f3c76a796b",
+    "bytes": 709524
+  },
+  "validation": {
+    "checksPassed": 9,
+    "checkCount": 9,
+    "compositionProfile": "showcase",
+    "compositionStatus": "pass",
+    "errors": 0,
+    "warnings": 0
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "ForkWise / Data flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "forkwise-data-1",
+      "lane": "input",
+      "col": 0,
+      "type": "database",
+      "label": "Context object",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "forkwise-data-2",
+      "lane": "process",
+      "col": 0,
+      "type": "database",
+      "label": "Repository snapshot",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "forkwise-data-3",
+      "lane": "process",
+      "col": 1,
+      "type": "database",
+      "label": "Evidence model",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "forkwise-data-4",
+      "lane": "process",
+      "col": 2,
+      "type": "database",
+      "label": "Normalized assessment",
+      "width": 190,
+      "height": 72
+    },
+    {
+      "id": "forkwise-data-5",
+      "lane": "output",
+      "col": 2,
+      "type": "database",
+      "label": "Portable output",
+      "width": 180,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "forkwise-data-1-next",
+      "from": "forkwise-data-1",
+      "to": "forkwise-data-2",
+      "role": "main"
+    },
+    {
+      "id": "forkwise-data-2-next",
+      "from": "forkwise-data-2",
+      "to": "forkwise-data-3",
+      "role": "main"
+    },
+    {
+      "id": "forkwise-data-3-next",
+      "from": "forkwise-data-3",
+      "to": "forkwise-data-4",
+      "role": "main"
+    },
+    {
+      "id": "forkwise-data-4-next",
+      "from": "forkwise-data-4",
+      "to": "forkwise-data-5",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "forkwise-data-1",
+    "forkwise-data-2",
+    "forkwise-data-3",
+    "forkwise-data-4",
+    "forkwise-data-5"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Community preview",
+      "items": [
+        "Read-only review of commit-pinned evidence. Hosted runner jobs remain queued; this is decision support, not a security certification or legal opinion."
+      ]
+    }
+  ]
+}
