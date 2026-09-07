@@ -1,0 +1,99 @@
+{
+  "id": "bg-01-010",
+  "sequenceNumber": 10,
+  "date": "2026-09-07",
+  "chapter": 1,
+  "verseStart": 10,
+  "verseEnd": 10,
+  "chapterNameSanskrit": "अर्जुनविषादयोग",
+  "chapterNameEnglish": "Arjuna Viṣāda Yoga",
+  "theme": "अपने-अपने संरक्षक, अपने-अपने दावों की भाषा: बल और मनोदशा का तुलनात्मक चित्र",
+  "context": "Duryodhana now makes a direct comparison between the two armies. He says his own side is strong because it is protected by Bhishma, while the other side is also powerful because it is protected by Bhima. The verse reveals how battle language enlarges presence, defense, and morale, especially when fear and pride are both active.",
+  "contextHindi": "दुर्योधन अब अपने और दूसरे पक्ष के बल की तुलना करता है। वह कहता है कि हमारा बल भीष्म के संरक्षण में है और उनका बल भीम के संरक्षण में है। यह श्लोक युद्ध की भाषा को दिखाता है—किसी भी पक्ष का दावा अपने बल, अपने संरक्षक और अपने मनोबल को बढ़ा-चढ़ाकर बताने का प्रयास है।",
+  "sanskritDevanagari": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् |\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ||१-१०||",
+  "transliteration": "aparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam .\nparyāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam ||1-10||",
+  "wordByWord": [
+    {
+      "term": "अपर्याप्तम्",
+      "meaning": "insufficient, not enough; not lacking in the sense of being inadequate."
+    },
+    {
+      "term": "तत्",
+      "meaning": "that; the force he is describing as his own."
+    },
+    {
+      "term": "अस्माकम्",
+      "meaning": "ours; belonging to us, on our side."
+    },
+    {
+      "term": "बलम्",
+      "meaning": "strength, power, military force."
+    },
+    {
+      "term": "भीष्माभिरक्षितम्",
+      "meaning": "guarded and protected by Bhishma; sustained by his presence and leadership."
+    },
+    {
+      "term": "पर्याप्तम्",
+      "meaning": "sufficient, adequate; enough in the speaker’s own judgment."
+    },
+    {
+      "term": "तु",
+      "meaning": "but, however; a contrast marker."
+    },
+    {
+      "term": "इदम्",
+      "meaning": "this; the opposing force being described."
+    },
+    {
+      "term": "एतेषाम्",
+      "meaning": "of these; of those on the other side."
+    },
+    {
+      "term": "भीमाभिरक्षितम्",
+      "meaning": "guarded and protected by Bhima; supported by a formidable leader."
+    }
+  ],
+  "spokenHindi": "यह श्लोक युद्ध के साथ मन की स्थिति को बहुत साफ़ करता है। दुर्योधन कहता है, ‘हमारा बल भीष्म के संरक्षण में है, इसलिए वह अपर्याप्त नहीं है; वह बहुत बड़ा है।’ फिर वह दूसरे पक्ष के लिए भी कहता है, ‘उनके बल को भीम संरक्षण दे रहा है, इसलिए वह भी पर्याप्त है।’ यह सिर्फ़ एक सैन्य तथ्य नहीं है; यह मन की तैयारी, डर और आत्मविश्वास की भाषा है। जब कोई व्यक्ति अपनी ओर की ताकत को मजबूत बनाना चाहता है, तो वह अपने सेनापति, अपने संरक्षक, अपने भरोसे को बड़े शब्दों में सामने लाता है। इसी तरह जीवन में भी हम अक्सर अपने पक्ष को मजबूत दिखाने के लिए अपने सहायक, अपने अनुभव, अपने सहयोगियों की ताकत को बढ़ा-चढ़ाकर देखते हैं। लेकिन यह जानना ज़रूरी है कि यह एक वास्तविक आकलन है या केवल भावनात्मक बचाव। श्लोक हमें यह सीख देता है कि किसी स्थिति का सही मूल्यांकन तभी होता है जब हम शोर की जगह सच्ची स्थिति को देखते हैं।",
+  "clearEnglish": "This verse is a direct comparison of forces, but it is more than a simple military tally. Duryodhana frames his own army as strong because it is protected by Bhishma, and the opposing side as also formidable because it is protected by Bhima. The key rhetorical point is not the objective truth of the claim, but the way emotional pressure turns into self-assertion: each side speaks of its own strength as serious, necessary, and not to be underestimated. In practical terms, this is a reminder that stress often makes people describe reality in a more dramatic, self-protective way. The strong response is not to surrender to inflated self-importance or panic, but to look for the actual supports, risks, and duties before deciding what action is wise.",
+  "interpretationPerspectives": [
+    {
+      "label": "Text",
+      "explanation": "The verse compares the Kaurava army as protected by Bhishma and the Pandava army as protected by Bhima, explicitly framing each as strong in its own way."
+    },
+    {
+      "label": "Commentary",
+      "explanation": "The DLS reading treats this as a strategic battlefield statement, highlighting the importance of commanders and protection in war."
+    },
+    {
+      "label": "Inference",
+      "explanation": "The verse suggests that morale and leadership shape the language of strength. It does not establish a final moral superior side; it shows how both parties present their confidence under stress."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Assess support, not just noise",
+      "text": "When facing a difficult decision, notice who is protecting the situation, what support exists, and whether the confidence is based on reality or only on emotional momentum."
+    },
+    {
+      "label": "Avoid inflated self-justification",
+      "text": "Ask whether your estimate of your own strength or another’s weakness is accurate, or whether fear is making the picture larger and sharper than it really is."
+    }
+  ],
+  "reflectionQuestion": "When I describe my own strength or another person's weakness, am I looking at the facts or simply inflating my confidence under stress?",
+  "reflectionQuestionHindi": "जब मैं अपनी ताकत का वर्णन करता हूँ या दूसरे की कमजोरी को देखता हूँ, तो क्या मैं तथ्य देख रहा हूँ, या दबाव के कारण अपनी मान्यता को बढ़ा रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}
