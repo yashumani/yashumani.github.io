@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Mangrok Recipe Vault / Data flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "mangrok-data-1",
+      "lane": "input",
+      "col": 0,
+      "type": "database",
+      "label": "Form input",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "mangrok-data-2",
+      "lane": "process",
+      "col": 0,
+      "type": "database",
+      "label": "Split data plane",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "mangrok-data-3",
+      "lane": "process",
+      "col": 1,
+      "type": "database",
+      "label": "Policy-bound persistence",
+      "width": 213,
+      "height": 72
+    },
+    {
+      "id": "mangrok-data-4",
+      "lane": "output",
+      "col": 1,
+      "type": "database",
+      "label": "Derived outputs",
+      "width": 180,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "mangrok-data-1-next",
+      "from": "mangrok-data-1",
+      "to": "mangrok-data-2",
+      "role": "main"
+    },
+    {
+      "id": "mangrok-data-2-next",
+      "from": "mangrok-data-2",
+      "to": "mangrok-data-3",
+      "role": "main"
+    },
+    {
+      "id": "mangrok-data-3-next",
+      "from": "mangrok-data-3",
+      "to": "mangrok-data-4",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "mangrok-data-1",
+    "mangrok-data-2",
+    "mangrok-data-3",
+    "mangrok-data-4"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Product case with release gates",
+      "items": [
+        "Device-local use and optional cloud operations have different boundaries. Model work, print-provider handoff, and legacy release require their stated gates."
+      ]
+    }
+  ]
+}

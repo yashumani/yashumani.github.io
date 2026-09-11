@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Agentic Research Runtime",
+    "locale": "en",
+    "quality_profile": "showcase",
+    "viewBox": [
+      1180,
+      510
+    ]
+  },
+  "components": [
+    {
+      "id": "agentic-runtime-api",
+      "type": "frontend",
+      "label": "FastAPI boundary",
+      "sublabel": "Research request and status",
+      "pos": [
+        45,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "agentic-runtime-orchestrate",
+      "type": "backend",
+      "label": "Temporal workflows",
+      "sublabel": "Durable execution and retries",
+      "pos": [
+        335,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "agentic-runtime-ingest",
+      "type": "backend",
+      "label": "Source ingestion",
+      "sublabel": "Adapters, parsing and extraction",
+      "pos": [
+        625,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "agentic-runtime-evidence",
+      "type": "database",
+      "label": "Evidence index",
+      "sublabel": "Graph relationships and Weaviate",
+      "pos": [
+        915,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "agentic-runtime-reason",
+      "type": "backend",
+      "label": "Reasoning + critic",
+      "sublabel": "Draft, review and bounded repair",
+      "pos": [
+        335,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "agentic-runtime-raw",
+      "type": "database",
+      "label": "Source payloads",
+      "sublabel": "Preserved material and provenance",
+      "pos": [
+        625,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "agentic-runtime-retrieve",
+      "type": "backend",
+      "label": "Retrieval context",
+      "sublabel": "Evidence for claim-level review",
+      "pos": [
+        915,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "id": "agentic-runtime-connection-1",
+      "from": "agentic-runtime-api",
+      "to": "agentic-runtime-orchestrate",
+      "label": "submit",
+      "variant": "emphasis"
+    },
+    {
+      "id": "agentic-runtime-connection-2",
+      "from": "agentic-runtime-orchestrate",
+      "to": "agentic-runtime-ingest",
+      "label": "collect",
+      "variant": "emphasis"
+    },
+    {
+      "id": "agentic-runtime-connection-3",
+      "from": "agentic-runtime-ingest",
+      "to": "agentic-runtime-evidence",
+      "label": "index",
+      "variant": "emphasis"
+    },
+    {
+      "id": "agentic-runtime-connection-4",
+      "from": "agentic-runtime-orchestrate",
+      "to": "agentic-runtime-reason",
+      "label": "schedule",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    },
+    {
+      "id": "agentic-runtime-connection-5",
+      "from": "agentic-runtime-ingest",
+      "to": "agentic-runtime-raw",
+      "label": "preserve",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    },
+    {
+      "id": "agentic-runtime-connection-6",
+      "from": "agentic-runtime-evidence",
+      "to": "agentic-runtime-retrieve",
+      "label": "retrieve",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "Reading the map",
+      "items": [
+        "Follow the top path, then the labeled branches.",
+        "This is a component overview, not every runtime call."
+      ]
+    },
+    {
+      "dot": "amber",
+      "title": "Implementation case study",
+      "items": [
+        "Logical runtime view from the case study, not a live infrastructure inventory. Claims require evidence and review before publication."
+      ]
+    }
+  ]
+}

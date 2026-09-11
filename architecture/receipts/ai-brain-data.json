@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "deliver",
+  "type": "workflow",
+  "input": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/specs/ai-brain-data.json",
+  "output": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/maps/ai-brain-data.html",
+  "specification": {
+    "sha256": "650196770bddb2cee77c32fbcb4944109e76ce98bd24f3fd90e224a0c56bb921",
+    "bytes": 2298
+  },
+  "artifact": {
+    "sha256": "cc4deda2eec9c84514681fd12562734e5eb0e118f00c65f6e729343b452d4c49",
+    "bytes": 701482
+  },
+  "validation": {
+    "checksPassed": 9,
+    "checkCount": 9,
+    "compositionProfile": "showcase",
+    "compositionStatus": "pass",
+    "errors": 0,
+    "warnings": 0
+  }
+}

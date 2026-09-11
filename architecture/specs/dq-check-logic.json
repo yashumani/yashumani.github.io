@@ -1,0 +1,144 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "DQ Check Platform / Logic flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "dq-check-logic-1",
+      "lane": "input",
+      "col": 0,
+      "type": "backend",
+      "label": "Validate comparison rows",
+      "width": 213,
+      "height": 72
+    },
+    {
+      "id": "dq-check-logic-2",
+      "lane": "process",
+      "col": 0,
+      "type": "backend",
+      "label": "Calculate residuals",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "dq-check-logic-3",
+      "lane": "process",
+      "col": 1,
+      "type": "backend",
+      "label": "Group eligible dimensions",
+      "width": 220,
+      "height": 72
+    },
+    {
+      "id": "dq-check-logic-4",
+      "lane": "process",
+      "col": 2,
+      "type": "backend",
+      "label": "Score drivers",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "dq-check-logic-5",
+      "lane": "process",
+      "col": 3,
+      "type": "backend",
+      "label": "Rank signed contributions",
+      "width": 220,
+      "height": 72
+    },
+    {
+      "id": "dq-check-logic-6",
+      "lane": "process",
+      "col": 4,
+      "type": "backend",
+      "label": "Search interactions",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "dq-check-logic-7",
+      "lane": "output",
+      "col": 4,
+      "type": "backend",
+      "label": "Rescan after every drill",
+      "width": 213,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "dq-check-logic-1-next",
+      "from": "dq-check-logic-1",
+      "to": "dq-check-logic-2",
+      "role": "main"
+    },
+    {
+      "id": "dq-check-logic-2-next",
+      "from": "dq-check-logic-2",
+      "to": "dq-check-logic-3",
+      "role": "main"
+    },
+    {
+      "id": "dq-check-logic-3-next",
+      "from": "dq-check-logic-3",
+      "to": "dq-check-logic-4",
+      "role": "main"
+    },
+    {
+      "id": "dq-check-logic-4-next",
+      "from": "dq-check-logic-4",
+      "to": "dq-check-logic-5",
+      "role": "main"
+    },
+    {
+      "id": "dq-check-logic-5-next",
+      "from": "dq-check-logic-5",
+      "to": "dq-check-logic-6",
+      "role": "main"
+    },
+    {
+      "id": "dq-check-logic-6-next",
+      "from": "dq-check-logic-6",
+      "to": "dq-check-logic-7",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "dq-check-logic-1",
+    "dq-check-logic-2",
+    "dq-check-logic-3",
+    "dq-check-logic-4",
+    "dq-check-logic-5",
+    "dq-check-logic-6",
+    "dq-check-logic-7"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Browser research prototype",
+      "items": [
+        "Runs on session data in the browser. Associations are not proof of causation; this is not a deployed warehouse or production analytics service."
+      ]
+    }
+  ]
+}

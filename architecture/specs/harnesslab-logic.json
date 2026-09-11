@@ -1,0 +1,128 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "HarnessLab / Logic flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "harnesslab-logic-1",
+      "lane": "input",
+      "col": 0,
+      "type": "backend",
+      "label": "Describe the objective",
+      "width": 198,
+      "height": 72
+    },
+    {
+      "id": "harnesslab-logic-2",
+      "lane": "process",
+      "col": 0,
+      "type": "backend",
+      "label": "Choose the least complex architecture",
+      "width": 312,
+      "height": 72
+    },
+    {
+      "id": "harnesslab-logic-3",
+      "lane": "process",
+      "col": 1,
+      "type": "backend",
+      "label": "Define the harness",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "harnesslab-logic-4",
+      "lane": "process",
+      "col": 2,
+      "type": "backend",
+      "label": "Optionally run one critic",
+      "width": 220,
+      "height": 72
+    },
+    {
+      "id": "harnesslab-logic-5",
+      "lane": "process",
+      "col": 3,
+      "type": "backend",
+      "label": "Accept findings deterministically",
+      "width": 281,
+      "height": 72
+    },
+    {
+      "id": "harnesslab-logic-6",
+      "lane": "output",
+      "col": 3,
+      "type": "backend",
+      "label": "Save the reviewed version",
+      "width": 220,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "harnesslab-logic-1-next",
+      "from": "harnesslab-logic-1",
+      "to": "harnesslab-logic-2",
+      "role": "main"
+    },
+    {
+      "id": "harnesslab-logic-2-next",
+      "from": "harnesslab-logic-2",
+      "to": "harnesslab-logic-3",
+      "role": "main"
+    },
+    {
+      "id": "harnesslab-logic-3-next",
+      "from": "harnesslab-logic-3",
+      "to": "harnesslab-logic-4",
+      "role": "main"
+    },
+    {
+      "id": "harnesslab-logic-4-next",
+      "from": "harnesslab-logic-4",
+      "to": "harnesslab-logic-5",
+      "role": "main"
+    },
+    {
+      "id": "harnesslab-logic-5-next",
+      "from": "harnesslab-logic-5",
+      "to": "harnesslab-logic-6",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "harnesslab-logic-1",
+    "harnesslab-logic-2",
+    "harnesslab-logic-3",
+    "harnesslab-logic-4",
+    "harnesslab-logic-5",
+    "harnesslab-logic-6"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Live browser + optional gateway",
+      "items": [
+        "One critic worker, one provider call, no tools, no child agents, and no external actions. Local versions are not cloud synchronization."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Automated ML Pipeline Platform",
+    "locale": "en",
+    "quality_profile": "showcase",
+    "viewBox": [
+      1180,
+      510
+    ]
+  },
+  "components": [
+    {
+      "id": "mlops-inputs",
+      "type": "database",
+      "label": "Dataset + YAML",
+      "sublabel": "Task and search configuration",
+      "pos": [
+        45,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "mlops-pipeline",
+      "type": "backend",
+      "label": "Azure ML pipeline",
+      "sublabel": "Reusable component orchestration",
+      "pos": [
+        335,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "mlops-search",
+      "type": "backend",
+      "label": "Candidate search",
+      "sublabel": "PyCaret / FLAML / Optuna",
+      "pos": [
+        625,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "mlops-evaluate",
+      "type": "backend",
+      "label": "Holdout evaluation",
+      "sublabel": "Compare selected candidates",
+      "pos": [
+        915,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "mlops-compute",
+      "type": "cloud",
+      "label": "Managed compute",
+      "sublabel": "Azure ML execution resources",
+      "pos": [
+        335,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "mlops-evidence",
+      "type": "database",
+      "label": "MLflow evidence",
+      "sublabel": "Metrics, parameters and artifacts",
+      "pos": [
+        625,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "mlops-registry",
+      "type": "database",
+      "label": "Model registry",
+      "sublabel": "Winner, lineage and handoff",
+      "pos": [
+        915,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "id": "mlops-connection-1",
+      "from": "mlops-inputs",
+      "to": "mlops-pipeline",
+      "label": "configure",
+      "variant": "emphasis"
+    },
+    {
+      "id": "mlops-connection-2",
+      "from": "mlops-pipeline",
+      "to": "mlops-search",
+      "label": "execute",
+      "variant": "emphasis"
+    },
+    {
+      "id": "mlops-connection-3",
+      "from": "mlops-search",
+      "to": "mlops-evaluate",
+      "label": "compare",
+      "variant": "emphasis"
+    },
+    {
+      "id": "mlops-connection-4",
+      "from": "mlops-pipeline",
+      "to": "mlops-compute",
+      "label": "schedule",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    },
+    {
+      "id": "mlops-connection-5",
+      "from": "mlops-search",
+      "to": "mlops-evidence",
+      "label": "log runs",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    },
+    {
+      "id": "mlops-connection-6",
+      "from": "mlops-evaluate",
+      "to": "mlops-registry",
+      "label": "register",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "Reading the map",
+      "items": [
+        "Follow the top path, then the labeled branches.",
+        "This is a component overview, not every runtime call."
+      ]
+    },
+    {
+      "dot": "amber",
+      "title": "Implementation case study",
+      "items": [
+        "Redrawn from the published pipeline case. This diagram is not a fresh audit of Azure resources, deployments, or model performance."
+      ]
+    }
+  ]
+}

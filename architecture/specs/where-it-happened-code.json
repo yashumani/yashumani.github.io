@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Where It Happened / Code flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "where-it-happened-code-1",
+      "lane": "input",
+      "col": 0,
+      "type": "backend",
+      "label": "Static shell loads",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "where-it-happened-code-2",
+      "lane": "process",
+      "col": 0,
+      "type": "backend",
+      "label": "Map engine resolves",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "where-it-happened-code-3",
+      "lane": "process",
+      "col": 1,
+      "type": "backend",
+      "label": "State engine syncs",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "where-it-happened-code-4",
+      "lane": "process",
+      "col": 2,
+      "type": "backend",
+      "label": "Renderer exports",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "where-it-happened-code-5",
+      "lane": "output",
+      "col": 2,
+      "type": "backend",
+      "label": "Checkout adapter decides",
+      "width": 213,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "where-it-happened-code-1-next",
+      "from": "where-it-happened-code-1",
+      "to": "where-it-happened-code-2",
+      "role": "main"
+    },
+    {
+      "id": "where-it-happened-code-2-next",
+      "from": "where-it-happened-code-2",
+      "to": "where-it-happened-code-3",
+      "role": "main"
+    },
+    {
+      "id": "where-it-happened-code-3-next",
+      "from": "where-it-happened-code-3",
+      "to": "where-it-happened-code-4",
+      "role": "main"
+    },
+    {
+      "id": "where-it-happened-code-4-next",
+      "from": "where-it-happened-code-4",
+      "to": "where-it-happened-code-5",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "where-it-happened-code-1",
+    "where-it-happened-code-2",
+    "where-it-happened-code-3",
+    "where-it-happened-code-4",
+    "where-it-happened-code-5"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Static product preview",
+      "items": [
+        "Design state stays in the browser. Checkout is a configured provider handoff or an explicit request fallback, never an invented payment success."
+      ]
+    }
+  ]
+}

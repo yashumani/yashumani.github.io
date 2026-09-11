@@ -1,0 +1,128 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Agentic Research Runtime / Logic flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "agentic-runtime-logic-1",
+      "lane": "input",
+      "col": 0,
+      "type": "backend",
+      "label": "Accept question",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "agentic-runtime-logic-2",
+      "lane": "process",
+      "col": 0,
+      "type": "backend",
+      "label": "Plan and retrieve",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "agentic-runtime-logic-3",
+      "lane": "process",
+      "col": 1,
+      "type": "backend",
+      "label": "Build evidence graph",
+      "width": 182,
+      "height": 72
+    },
+    {
+      "id": "agentic-runtime-logic-4",
+      "lane": "process",
+      "col": 2,
+      "type": "backend",
+      "label": "Draft and critique",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "agentic-runtime-logic-5",
+      "lane": "process",
+      "col": 3,
+      "type": "backend",
+      "label": "Repair and re-evaluate",
+      "width": 198,
+      "height": 72
+    },
+    {
+      "id": "agentic-runtime-logic-6",
+      "lane": "output",
+      "col": 3,
+      "type": "backend",
+      "label": "Publish",
+      "width": 180,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "agentic-runtime-logic-1-next",
+      "from": "agentic-runtime-logic-1",
+      "to": "agentic-runtime-logic-2",
+      "role": "main"
+    },
+    {
+      "id": "agentic-runtime-logic-2-next",
+      "from": "agentic-runtime-logic-2",
+      "to": "agentic-runtime-logic-3",
+      "role": "main"
+    },
+    {
+      "id": "agentic-runtime-logic-3-next",
+      "from": "agentic-runtime-logic-3",
+      "to": "agentic-runtime-logic-4",
+      "role": "main"
+    },
+    {
+      "id": "agentic-runtime-logic-4-next",
+      "from": "agentic-runtime-logic-4",
+      "to": "agentic-runtime-logic-5",
+      "role": "main"
+    },
+    {
+      "id": "agentic-runtime-logic-5-next",
+      "from": "agentic-runtime-logic-5",
+      "to": "agentic-runtime-logic-6",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "agentic-runtime-logic-1",
+    "agentic-runtime-logic-2",
+    "agentic-runtime-logic-3",
+    "agentic-runtime-logic-4",
+    "agentic-runtime-logic-5",
+    "agentic-runtime-logic-6"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Implementation case study",
+      "items": [
+        "Logical runtime view from the case study, not a live infrastructure inventory. Claims require evidence and review before publication."
+      ]
+    }
+  ]
+}

@@ -116,7 +116,9 @@ async function idsFor(relativePath) {
 }
 
 const legacyHomepageAnchors = new Set(['evidence', 'impact', 'roadmap']);
-const htmlFiles = allFiles.filter((file) => file.endsWith('.html'));
+// Delivered Archify readers have an independent schema/hash/renderer contract.
+const htmlFiles = allFiles.filter((file) => file.endsWith('.html') && !file.startsWith('architecture/maps/'));
+if (fileSet.has('architecture/catalog.json')) await import('./check-archify.mjs');
 
 for (const htmlFile of htmlFiles) {
   const html = await text(htmlFile);

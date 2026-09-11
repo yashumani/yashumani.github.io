@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "deliver",
+  "type": "workflow",
+  "input": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/specs/mangrok-data.json",
+  "output": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/maps/mangrok-data.html",
+  "specification": {
+    "sha256": "0b3d14fbfb5cccfcf913aac9aa39aa7118339d9dfef7bd0e3154f240948a1fbc",
+    "bytes": 1936
+  },
+  "artifact": {
+    "sha256": "e9258da9a8c56a4c17988a34c53bba6b6d3ba7489e0beca3b68116966755831e",
+    "bytes": 700202
+  },
+  "validation": {
+    "checksPassed": 9,
+    "checkCount": 9,
+    "compositionProfile": "showcase",
+    "compositionStatus": "pass",
+    "errors": 0,
+    "warnings": 0
+  }
+}

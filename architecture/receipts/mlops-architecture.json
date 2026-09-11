@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "deliver",
+  "type": "architecture",
+  "input": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/specs/mlops-architecture.json",
+  "output": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/maps/mlops-architecture.html",
+  "specification": {
+    "sha256": "c0a2f0c2cbfbce2b64f047319d4fad394194e27941ba0e27bfb5fe62309e18c6",
+    "bytes": 3596
+  },
+  "artifact": {
+    "sha256": "3c0e78c80213a29d9c84f6423c57a53a9d6bb48dcfaa75abd4d09b2925d8f972",
+    "bytes": 708301
+  },
+  "validation": {
+    "checksPassed": 9,
+    "checkCount": 9,
+    "compositionProfile": "showcase",
+    "compositionStatus": "pass",
+    "errors": 0,
+    "warnings": 0
+  }
+}

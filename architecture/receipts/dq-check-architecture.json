@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "deliver",
+  "type": "architecture",
+  "input": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/specs/dq-check-architecture.json",
+  "output": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/maps/dq-check-architecture.html",
+  "specification": {
+    "sha256": "281c9c123b0267691f13ac3cd6e66b36149b0bbc47c113296523c7dcce432288",
+    "bytes": 3677
+  },
+  "artifact": {
+    "sha256": "ee872cebc2fe60a1f77e66d912a2033831b5d698e1aec46a614624f9009e5aae",
+    "bytes": 708749
+  },
+  "validation": {
+    "checksPassed": 9,
+    "checkCount": 9,
+    "compositionProfile": "showcase",
+    "compositionStatus": "pass",
+    "errors": 0,
+    "warnings": 0
+  }
+}

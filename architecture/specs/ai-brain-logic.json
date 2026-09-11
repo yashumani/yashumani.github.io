@@ -1,0 +1,128 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Governed AI Brain / Logic flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "ai-brain-logic-1",
+      "lane": "input",
+      "col": 0,
+      "type": "backend",
+      "label": "Submit source context",
+      "width": 190,
+      "height": 72
+    },
+    {
+      "id": "ai-brain-logic-2",
+      "lane": "process",
+      "col": 0,
+      "type": "backend",
+      "label": "Compile candidate objects",
+      "width": 220,
+      "height": 72
+    },
+    {
+      "id": "ai-brain-logic-3",
+      "lane": "process",
+      "col": 1,
+      "type": "backend",
+      "label": "Review and decide",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "ai-brain-logic-4",
+      "lane": "process",
+      "col": 2,
+      "type": "backend",
+      "label": "Publish governed knowledge",
+      "width": 228,
+      "height": 72
+    },
+    {
+      "id": "ai-brain-logic-5",
+      "lane": "process",
+      "col": 3,
+      "type": "backend",
+      "label": "Compose context pack",
+      "width": 182,
+      "height": 72
+    },
+    {
+      "id": "ai-brain-logic-6",
+      "lane": "output",
+      "col": 3,
+      "type": "backend",
+      "label": "Serve the consumer",
+      "width": 180,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "ai-brain-logic-1-next",
+      "from": "ai-brain-logic-1",
+      "to": "ai-brain-logic-2",
+      "role": "main"
+    },
+    {
+      "id": "ai-brain-logic-2-next",
+      "from": "ai-brain-logic-2",
+      "to": "ai-brain-logic-3",
+      "role": "main"
+    },
+    {
+      "id": "ai-brain-logic-3-next",
+      "from": "ai-brain-logic-3",
+      "to": "ai-brain-logic-4",
+      "role": "main"
+    },
+    {
+      "id": "ai-brain-logic-4-next",
+      "from": "ai-brain-logic-4",
+      "to": "ai-brain-logic-5",
+      "role": "main"
+    },
+    {
+      "id": "ai-brain-logic-5-next",
+      "from": "ai-brain-logic-5",
+      "to": "ai-brain-logic-6",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "ai-brain-logic-1",
+    "ai-brain-logic-2",
+    "ai-brain-logic-3",
+    "ai-brain-logic-4",
+    "ai-brain-logic-5",
+    "ai-brain-logic-6"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Active scaffold",
+      "items": [
+        "The documented scaffold uses synthetic examples and an in-memory store. Production identity, durable storage, and stronger retrieval remain unfinished."
+      ]
+    }
+  ]
+}

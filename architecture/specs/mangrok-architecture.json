@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Mangrok Recipe Vault",
+    "locale": "en",
+    "quality_profile": "showcase",
+    "viewBox": [
+      1180,
+      510
+    ]
+  },
+  "components": [
+    {
+      "id": "mangrok-studio",
+      "type": "frontend",
+      "label": "Recipe studio",
+      "sublabel": "PWA, media and Alchemy Lab",
+      "pos": [
+        45,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "mangrok-protect",
+      "type": "security",
+      "label": "Private-field boundary",
+      "sublabel": "Web Crypto and key derivation",
+      "pos": [
+        335,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "mangrok-policy",
+      "type": "security",
+      "label": "Cloud access policy",
+      "sublabel": "Supabase Auth and PostgreSQL RLS",
+      "pos": [
+        625,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "mangrok-record",
+      "type": "database",
+      "label": "Canonical records",
+      "sublabel": "Recipes, versions and private media",
+      "pos": [
+        915,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "mangrok-local",
+      "type": "database",
+      "label": "IndexedDB vault",
+      "sublabel": "Device-local operation",
+      "pos": [
+        335,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "mangrok-alchemy",
+      "type": "external",
+      "label": "Optional Alchemy AI",
+      "sublabel": "Entitlement and metering gates",
+      "pos": [
+        625,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "mangrok-operations",
+      "type": "backend",
+      "label": "Outside operations",
+      "sublabel": "Print gate; human legacy review",
+      "pos": [
+        915,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "id": "mangrok-connection-1",
+      "from": "mangrok-studio",
+      "to": "mangrok-protect",
+      "label": "seal",
+      "variant": "emphasis"
+    },
+    {
+      "id": "mangrok-connection-2",
+      "from": "mangrok-protect",
+      "to": "mangrok-policy",
+      "label": "authorize",
+      "variant": "emphasis"
+    },
+    {
+      "id": "mangrok-connection-3",
+      "from": "mangrok-policy",
+      "to": "mangrok-record",
+      "label": "persist",
+      "variant": "emphasis"
+    },
+    {
+      "id": "mangrok-connection-4",
+      "from": "mangrok-protect",
+      "to": "mangrok-local",
+      "label": "save local",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    },
+    {
+      "id": "mangrok-connection-5",
+      "from": "mangrok-policy",
+      "to": "mangrok-alchemy",
+      "label": "analyze",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    },
+    {
+      "id": "mangrok-connection-6",
+      "from": "mangrok-record",
+      "to": "mangrok-operations",
+      "label": "review",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "Reading the map",
+      "items": [
+        "Follow the top path, then the labeled branches.",
+        "This is a component overview, not every runtime call."
+      ]
+    },
+    {
+      "dot": "amber",
+      "title": "Product case with release gates",
+      "items": [
+        "Device-local use and optional cloud operations have different boundaries. Model work, print-provider handoff, and legacy release require their stated gates."
+      ]
+    }
+  ]
+}

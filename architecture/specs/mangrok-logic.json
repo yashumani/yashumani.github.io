@@ -1,0 +1,128 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Mangrok Recipe Vault / Logic flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "mangrok-logic-1",
+      "lane": "input",
+      "col": 0,
+      "type": "backend",
+      "label": "Capture recipe or open Alchemy",
+      "width": 258,
+      "height": 72
+    },
+    {
+      "id": "mangrok-logic-2",
+      "lane": "process",
+      "col": 0,
+      "type": "backend",
+      "label": "Protect private fields",
+      "width": 198,
+      "height": 72
+    },
+    {
+      "id": "mangrok-logic-3",
+      "lane": "process",
+      "col": 1,
+      "type": "backend",
+      "label": "Refine culinary analysis",
+      "width": 213,
+      "height": 72
+    },
+    {
+      "id": "mangrok-logic-4",
+      "lane": "process",
+      "col": 2,
+      "type": "backend",
+      "label": "Share and version safely",
+      "width": 213,
+      "height": 72
+    },
+    {
+      "id": "mangrok-logic-5",
+      "lane": "process",
+      "col": 3,
+      "type": "backend",
+      "label": "Prepare print output",
+      "width": 182,
+      "height": 72
+    },
+    {
+      "id": "mangrok-logic-6",
+      "lane": "output",
+      "col": 3,
+      "type": "backend",
+      "label": "Review legacy requests",
+      "width": 198,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "mangrok-logic-1-next",
+      "from": "mangrok-logic-1",
+      "to": "mangrok-logic-2",
+      "role": "main"
+    },
+    {
+      "id": "mangrok-logic-2-next",
+      "from": "mangrok-logic-2",
+      "to": "mangrok-logic-3",
+      "role": "main"
+    },
+    {
+      "id": "mangrok-logic-3-next",
+      "from": "mangrok-logic-3",
+      "to": "mangrok-logic-4",
+      "role": "main"
+    },
+    {
+      "id": "mangrok-logic-4-next",
+      "from": "mangrok-logic-4",
+      "to": "mangrok-logic-5",
+      "role": "main"
+    },
+    {
+      "id": "mangrok-logic-5-next",
+      "from": "mangrok-logic-5",
+      "to": "mangrok-logic-6",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "mangrok-logic-1",
+    "mangrok-logic-2",
+    "mangrok-logic-3",
+    "mangrok-logic-4",
+    "mangrok-logic-5",
+    "mangrok-logic-6"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Product case with release gates",
+      "items": [
+        "Device-local use and optional cloud operations have different boundaries. Model work, print-provider handoff, and legacy release require their stated gates."
+      ]
+    }
+  ]
+}

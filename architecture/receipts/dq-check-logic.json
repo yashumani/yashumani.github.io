@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "deliver",
+  "type": "workflow",
+  "input": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/specs/dq-check-logic.json",
+  "output": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/maps/dq-check-logic.html",
+  "specification": {
+    "sha256": "ac91a6dcdf10dcef2128ecf03b405c5e0156a83f2144a579bfed7a8b6ea64774",
+    "bytes": 3020
+  },
+  "artifact": {
+    "sha256": "d2767cd5c131620e4c9adf90537543b576ec0a1495bf602ab0ab2a51641c7de1",
+    "bytes": 703387
+  },
+  "validation": {
+    "checksPassed": 9,
+    "checkCount": 9,
+    "compositionProfile": "showcase",
+    "compositionStatus": "pass",
+    "errors": 0,
+    "warnings": 0
+  }
+}

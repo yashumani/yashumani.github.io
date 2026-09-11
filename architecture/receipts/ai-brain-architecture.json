@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "deliver",
+  "type": "architecture",
+  "input": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/specs/ai-brain-architecture.json",
+  "output": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/maps/ai-brain-architecture.html",
+  "specification": {
+    "sha256": "87ba598d0c4a244d0afa9616772d3a159481c33291bf33a627ebf7d108ecbf51",
+    "bytes": 3648
+  },
+  "artifact": {
+    "sha256": "e76b9e0bf408f97b5663ca75ae443cc6044c3f117b23b285bcf2df3729b9ced6",
+    "bytes": 709338
+  },
+  "validation": {
+    "checksPassed": 9,
+    "checkCount": 9,
+    "compositionProfile": "showcase",
+    "compositionStatus": "pass",
+    "errors": 0,
+    "warnings": 0
+  }
+}

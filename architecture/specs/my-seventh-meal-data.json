@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "My Seventh Meal / Data flow",
+    "locale": "en",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "input",
+      "label": "Input"
+    },
+    {
+      "id": "process",
+      "label": "Processing"
+    },
+    {
+      "id": "output",
+      "label": "Output"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "my-seventh-meal-data-1",
+      "lane": "input",
+      "col": 0,
+      "type": "database",
+      "label": "Unstructured capture",
+      "width": 182,
+      "height": 72
+    },
+    {
+      "id": "my-seventh-meal-data-2",
+      "lane": "process",
+      "col": 0,
+      "type": "database",
+      "label": "Structured meal object",
+      "width": 198,
+      "height": 72
+    },
+    {
+      "id": "my-seventh-meal-data-3",
+      "lane": "process",
+      "col": 1,
+      "type": "database",
+      "label": "Reference mapping",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "id": "my-seventh-meal-data-4",
+      "lane": "output",
+      "col": 1,
+      "type": "database",
+      "label": "Versioned output",
+      "width": 180,
+      "height": 72
+    }
+  ],
+  "edges": [
+    {
+      "id": "my-seventh-meal-data-1-next",
+      "from": "my-seventh-meal-data-1",
+      "to": "my-seventh-meal-data-2",
+      "role": "main"
+    },
+    {
+      "id": "my-seventh-meal-data-2-next",
+      "from": "my-seventh-meal-data-2",
+      "to": "my-seventh-meal-data-3",
+      "role": "main"
+    },
+    {
+      "id": "my-seventh-meal-data-3-next",
+      "from": "my-seventh-meal-data-3",
+      "to": "my-seventh-meal-data-4",
+      "role": "main"
+    }
+  ],
+  "mainPath": [
+    "my-seventh-meal-data-1",
+    "my-seventh-meal-data-2",
+    "my-seventh-meal-data-3",
+    "my-seventh-meal-data-4"
+  ],
+  "cards": [
+    {
+      "dot": "amber",
+      "title": "Proposed architecture",
+      "items": [
+        "This is the proposed design, not a claim of a released nutrition service. AI proposes candidates; confirmed structure and references drive calculation."
+      ]
+    }
+  ]
+}

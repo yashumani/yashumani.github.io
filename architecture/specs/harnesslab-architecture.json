@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "HarnessLab",
+    "locale": "en",
+    "quality_profile": "showcase",
+    "viewBox": [
+      1180,
+      510
+    ]
+  },
+  "components": [
+    {
+      "id": "harnesslab-requirement",
+      "type": "frontend",
+      "label": "Requirement input",
+      "sublabel": "No-build React workspace",
+      "pos": [
+        45,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "harnesslab-route",
+      "type": "backend",
+      "label": "Analysis router",
+      "sublabel": "Local or optional gateway",
+      "pos": [
+        335,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "harnesslab-validate",
+      "type": "security",
+      "label": "Shared validation",
+      "sublabel": "Typed artifacts and permissions",
+      "pos": [
+        625,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "harnesslab-plan",
+      "type": "frontend",
+      "label": "Harness plan",
+      "sublabel": "Reviewed, bounded proposal",
+      "pos": [
+        915,
+        105
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "harnesslab-gateway",
+      "type": "external",
+      "label": "Optional gateway",
+      "sublabel": "Provider credentials stay server-side",
+      "pos": [
+        335,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "harnesslab-critic",
+      "type": "backend",
+      "label": "Bounded critic",
+      "sublabel": "One call; advisory findings only",
+      "pos": [
+        625,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    },
+    {
+      "id": "harnesslab-versions",
+      "type": "database",
+      "label": "Local versions",
+      "sublabel": "Immutable browser snapshots",
+      "pos": [
+        915,
+        320
+      ],
+      "size": [
+        210,
+        76
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "id": "harnesslab-connection-1",
+      "from": "harnesslab-requirement",
+      "to": "harnesslab-route",
+      "label": "interpret",
+      "variant": "emphasis"
+    },
+    {
+      "id": "harnesslab-connection-2",
+      "from": "harnesslab-route",
+      "to": "harnesslab-validate",
+      "label": "validate",
+      "variant": "emphasis"
+    },
+    {
+      "id": "harnesslab-connection-3",
+      "from": "harnesslab-validate",
+      "to": "harnesslab-plan",
+      "label": "compile",
+      "variant": "emphasis"
+    },
+    {
+      "id": "harnesslab-connection-4",
+      "from": "harnesslab-route",
+      "to": "harnesslab-gateway",
+      "label": "request",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    },
+    {
+      "id": "harnesslab-connection-5",
+      "from": "harnesslab-validate",
+      "to": "harnesslab-critic",
+      "label": "review",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    },
+    {
+      "id": "harnesslab-connection-6",
+      "from": "harnesslab-plan",
+      "to": "harnesslab-versions",
+      "label": "retain",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "labelDy": 80
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "Reading the map",
+      "items": [
+        "Follow the top path, then the labeled branches.",
+        "This is a component overview, not every runtime call."
+      ]
+    },
+    {
+      "dot": "amber",
+      "title": "Live browser + optional gateway",
+      "items": [
+        "One critic worker, one provider call, no tools, no child agents, and no external actions. Local versions are not cloud synchronization."
+      ]
+    }
+  ]
+}

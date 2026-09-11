@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "deliver",
+  "type": "architecture",
+  "input": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/specs/where-it-happened-architecture.json",
+  "output": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/maps/where-it-happened-architecture.html",
+  "specification": {
+    "sha256": "124a53a43e3e4353cf148f5b2ce1f9dba358053e2d49da541314e769bfbbdb4b",
+    "bytes": 3863
+  },
+  "artifact": {
+    "sha256": "cddcee1b79c2375fa4db729bd942d92ea61b09ce4dc2745bec063d91cf8b2f07",
+    "bytes": 709656
+  },
+  "validation": {
+    "checksPassed": 9,
+    "checkCount": 9,
+    "compositionProfile": "showcase",
+    "compositionStatus": "pass",
+    "errors": 0,
+    "warnings": 0
+  }
+}

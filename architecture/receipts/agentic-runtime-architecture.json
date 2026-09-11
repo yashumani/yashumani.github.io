@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "deliver",
+  "type": "architecture",
+  "input": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/specs/agentic-runtime-architecture.json",
+  "output": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/maps/agentic-runtime-architecture.html",
+  "specification": {
+    "sha256": "230f930c20e81062f5a2d5ddd785f5494c507b5fc82f8602e6c7cea735f0c13d",
+    "bytes": 3855
+  },
+  "artifact": {
+    "sha256": "aa358b2afcde9626419d5be641cd51fdcf94eac22f0154e6bdb29418a79249b8",
+    "bytes": 708887
+  },
+  "validation": {
+    "checksPassed": 9,
+    "checkCount": 9,
+    "compositionProfile": "showcase",
+    "compositionStatus": "pass",
+    "errors": 0,
+    "warnings": 0
+  }
+}

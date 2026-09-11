@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "deliver",
+  "type": "workflow",
+  "input": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/specs/where-it-happened-code.json",
+  "output": "/home/runner/work/yashumani.github.io/yashumani.github.io/architecture/maps/where-it-happened-code.html",
+  "specification": {
+    "sha256": "67652e2694739fc36c1253a7b70020650a7c7e62f08e034074d5333ae233d9e8",
+    "bytes": 2478
+  },
+  "artifact": {
+    "sha256": "2ba4098fbb4553bf7417ac499808009774b6b8b0233900650b4105224bb1f900",
+    "bytes": 701171
+  },
+  "validation": {
+    "checksPassed": 9,
+    "checkCount": 9,
+    "compositionProfile": "showcase",
+    "compositionStatus": "pass",
+    "errors": 0,
+    "warnings": 0
+  }
+}
