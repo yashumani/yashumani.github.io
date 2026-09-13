@@ -66,10 +66,9 @@ jobs:
               expect(status).toMatchObject({
                 workerCreated: false,
                 modelReady: false,
-                modelId: undefined,
                 voice: 'af_heart',
+                active: false,
               });
-              expect(window).toBeTruthy();
               expect(errors).toEqual([]);
             });
 
