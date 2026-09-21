@@ -11,11 +11,27 @@
     section.innerHTML =
       '<div class="profile-highlights-head">' +
         '<div><p class="mono-label">Profile highlights</p><h2 id="profile-highlights-title" class="sr-only">Profile highlights</h2></div>' +
-        '<p>Two ways to see how I work: a live analytics system and a field report that turns captured evidence into research and practical BI decisions.</p>' +
+        '<p>Three ways to see how I work: a released open-source system, a focused analytics prototype, and evidence translated into practical enterprise learning.</p>' +
       '</div>' +
       '<div class="profile-highlight-grid">' +
+        '<article class="profile-highlight-card profile-highlight-card--flagship" data-profile-highlight="thread">' +
+          '<div class="profile-highlight-meta"><strong>01 / Flagship release</strong><span>Open source · Conversational BI · Governed AI</span></div>' +
+          '<h2>THREAD — From business question to verified decision</h2>' +
+          '<p>THREAD connects natural-language questions to approved metric definitions, server-owned permissions, bounded read-only execution, verification, visualization, and evidence receipts. The public community-alpha milestone is released for evaluation and contribution.</p>' +
+          '<ul class="profile-highlight-evidence" aria-label="THREAD release evidence">' +
+            '<li><strong>25</strong><span>Tested visualizations live</span></li>' +
+            '<li><strong>76</strong><span>Finite visualization matrix</span></li>' +
+            '<li><strong>8</strong><span>Defined delivery batches</span></li>' +
+          '</ul>' +
+          '<div class="profile-highlight-actions">' +
+            '<a class="profile-highlight-link profile-highlight-link--primary" href="projects/thread-conversational-intelligence.html">Open flagship case study</a>' +
+            '<a class="profile-highlight-link" href="https://yashumani.github.io/talk2data-conversational-intelligence/workspace/" target="_blank" rel="noopener">Explore visualization studio</a>' +
+            '<a class="profile-highlight-link" href="https://github.com/yashumani/talk2data-conversational-intelligence" target="_blank" rel="noopener">View open-source project</a>' +
+            '<p class="profile-highlight-boundary">Completed milestone: public community alpha. The studio uses synthetic data; a public connected enterprise runtime and production SLA are outside this release.</p>' +
+          '</div>' +
+        '</article>' +
         '<article class="profile-highlight-card" data-profile-highlight="dq-check">' +
-          '<div class="profile-highlight-meta"><strong>01 / Technical proof</strong><span>Decision intelligence</span></div>' +
+          '<div class="profile-highlight-meta"><strong>02 / Technical proof</strong><span>Decision intelligence</span></div>' +
           '<h2>DQ Check Platform</h2>' +
           '<p>Start with the case study that connects data quality, analytical readiness, variance investigation, shared interaction state, and explicit evidence boundaries.</p>' +
           '<div class="profile-highlight-actions">' +
@@ -24,7 +40,7 @@
           '</div>' +
         '</article>' +
         '<article class="profile-highlight-card profile-highlight-card--journey" data-profile-highlight="ai-enterprise-journey">' +
-          '<div class="profile-highlight-meta"><strong>02 / Conference learning</strong><span>Enterprise AI · New York City · 2026</span></div>' +
+          '<div class="profile-highlight-meta"><strong>03 / Conference learning</strong><span>Enterprise AI · New York City · 2026</span></div>' +
           '<h2>AI Enterprise Conference — Field Report</h2>' +
           '<p>I turned a busy conference day—sessions, booth conversations, photographs, and handwritten notes—into a structured field report. I then researched the questions I brought home and the missed “How AI Pays for AI” session, connecting the learning to governed BI and analytics.</p>' +
           '<ul class="profile-highlight-evidence" aria-label="Conference field report contents">' +

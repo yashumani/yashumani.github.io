@@ -10,6 +10,7 @@ export const paperRoutes = [
 ];
 
 export const projectRoutes = [
+  '/projects/thread-conversational-intelligence.html',
   '/projects/mangrok-recipe-vault.html',
   '/projects/where-it-happened.html',
   '/projects/my-seventh-meal.html',
@@ -48,7 +49,9 @@ for (const route of projectRoutes) {
     const gap = await firstHeading.evaluate(node => Number.parseFloat(getComputedStyle(node).columnGap));
     expect(gap).toBeGreaterThan(0);
     await expect(page.locator('.case-toc')).toBeVisible();
-    const reviewDate = route.endsWith('/agentic-harness-builder.html')
+    const reviewDate = route.endsWith('/thread-conversational-intelligence.html')
+      ? 'September 21, 2026'
+      : route.endsWith('/agentic-harness-builder.html')
       ? 'August 21, 2026'
       : route.endsWith('/forkwise-open-source-reviewer.html')
         ? 'August 31, 2026'

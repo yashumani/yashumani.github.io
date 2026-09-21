@@ -4,7 +4,7 @@ Static GitHub Pages portfolio for product engineering, business intelligence, da
 
 ## Information architecture
 
-- **Profile highlights:** DQ Check Platform remains first; the AI Enterprise Conference field report is second, presenting independent conference learning through original visual reconstructions, field notes, follow-up research, and BI/analytics implications.
+- **Profile highlights:** THREAD is the full-width flagship release; DQ Check remains the focused analytics proof; the AI Enterprise Conference field report presents independent learning through original visual reconstructions, field notes, follow-up research, and BI/analytics implications.
 - **Featured work:** Mangrok Recipe Vault, Where It Happened, My Seventh Meal, DQ Check Platform, Unified Knowledge Base — AI Brain, HarnessLab — Agentic Harness Builder, Automated ML Pipeline Platform, and Agentic Knowledge & Research Runtime.
 - **Resume:** source-labeled career history from the available March 2023 resume snapshot, the owner-confirmed current title, education, certifications, skills, and a clear separation between employment and independent portfolio work.
 - **Professional presentation:** a fifteen-slide interactive web presentation explaining the career record, capabilities, portfolio systems, AI philosophy, and professional direction.

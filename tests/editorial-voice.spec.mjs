@@ -12,6 +12,7 @@ const renderedCopy = [
   ['/projects/where-it-happened.html', 'I built this to test how far a static site could go as a real product'],
   ['/projects/my-seventh-meal.html', 'A photo can suggest what is on a plate'],
   ['/projects/dq-check-platform.html', 'I built DQ Check because an anomaly ranking is only useful when the data behind it is fit for analysis'],
+  ['/projects/thread-conversational-intelligence.html', 'I built THREAD around an enterprise problem'],
   ['/projects/governed-ai-brain.html', 'I started this because connecting a model to a folder of documents does not create a trustworthy organizational memory'],
   ['/projects/agentic-harness-builder.html', 'I built HarnessLab to answer a practical question'],
   ['/projects/forkwise-open-source-reviewer.html', 'I built ForkWise because adopting an open-source repository is not the same as admiring its README or star count'],

@@ -71,6 +71,30 @@
   background: var(--surface);
 }
 
+.profile-highlight-card--flagship {
+  min-height: 330px;
+  border-color: color-mix(in srgb, var(--accent) 52%, var(--line));
+  border-top: 4px solid var(--accent);
+  background:
+    radial-gradient(circle at 92% 12%, color-mix(in srgb, var(--accent) 14%, transparent), transparent 34%),
+    var(--surface);
+  grid-column: 1 / -1;
+}
+
+.profile-highlight-card--flagship h2 {
+  max-width: 900px;
+  font-size: clamp(2rem, 4.5vw, 4rem);
+}
+
+.profile-highlight-card--flagship > p {
+  max-width: 86ch;
+  font-size: 0.96rem;
+}
+
+.profile-highlight-card--flagship .profile-highlight-evidence {
+  max-width: 720px;
+}
+
 .profile-highlight-meta {
   display: flex;
   margin-bottom: 18px;

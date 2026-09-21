@@ -17,12 +17,14 @@
             load('portfolio-attribution-helpers.js', function () {
               load('portfolio-projects.js', function () {
                 load('portfolio-forkwise.js', function () {
+                  load('portfolio-thread.js', function () {
                   load('portfolio-ai-enterprise-journey.js', function () {
                     load('portfolio-papers-init.js', function () {
                       load('echarts-sankey-safety.js', function () {
                         load('advanced-exploration.js');
                       });
                     });
+                  });
                   });
                 });
               });

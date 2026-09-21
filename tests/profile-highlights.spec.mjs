@@ -13,12 +13,17 @@ for (const viewport of [
     const section = page.locator('#profile-highlights');
     await expect(section).toBeVisible({ timeout: 8_000 });
     const highlights = section.locator('[data-profile-highlight]');
-    await expect(highlights).toHaveCount(2);
-    await expect(highlights.nth(0)).toHaveAttribute('data-profile-highlight', 'dq-check');
-    await expect(highlights.nth(1)).toHaveAttribute('data-profile-highlight', 'ai-enterprise-journey');
+    await expect(highlights).toHaveCount(3);
+    await expect(highlights.nth(0)).toHaveAttribute('data-profile-highlight', 'thread');
+    await expect(highlights.nth(1)).toHaveAttribute('data-profile-highlight', 'dq-check');
+    await expect(highlights.nth(2)).toHaveAttribute('data-profile-highlight', 'ai-enterprise-journey');
 
-    const journey = highlights.nth(1);
-    await expect(highlights.nth(0).getByRole('heading', { name: 'DQ Check Platform' })).toBeVisible();
+    const flagship = highlights.nth(0);
+    const journey = highlights.nth(2);
+    await expect(flagship.getByRole('heading', { name: 'THREAD — From business question to verified decision' })).toBeVisible();
+    await expect(flagship).toContainText('Completed milestone: public community alpha');
+    await expect(flagship.getByRole('link', { name: 'Explore visualization studio' })).toHaveAttribute('href', 'https://yashumani.github.io/talk2data-conversational-intelligence/workspace/');
+    await expect(highlights.nth(1).getByRole('heading', { name: 'DQ Check Platform' })).toBeVisible();
     await expect(journey.getByRole('heading', { name: 'AI Enterprise Conference — Field Report' })).toBeVisible();
     await expect(journey.getByRole('link', { name: 'Open field report' })).toHaveAttribute('href', journeyUrl);
     await expect(journey.getByRole('link', { name: 'Read key learnings' })).toHaveAttribute('href', journeyUrl + '#learning');

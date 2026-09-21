@@ -105,6 +105,7 @@
 
   function labelEntryProjects(work) {
     var slugs = {
+      'projects/thread-conversational-intelligence.html': 'thread-conversational-intelligence',
       'projects/dq-check-platform.html': 'dq-check-platform',
       'projects/mlops-solution-accelerator.html': 'mlops-solution-accelerator',
       'projects/governed-ai-brain.html': 'governed-ai-brain',
@@ -143,6 +144,7 @@
     labelEntryProjects(work);
 
     appendInOrder(work, professionalList, [
+      'projects/thread-conversational-intelligence.html',
       'projects/dq-check-platform.html',
       'projects/mlops-solution-accelerator.html',
       'projects/governed-ai-brain.html',

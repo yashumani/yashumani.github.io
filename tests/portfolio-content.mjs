@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 import { projectRoutes } from './portfolio-routes.mjs';
 
-const animatedRoutes = projectRoutes.filter(route => !route.endsWith('/dq-check-platform.html'));
+const animatedRoutes = projectRoutes.filter(route => !route.endsWith('/dq-check-platform.html') && !route.endsWith('/thread-conversational-intelligence.html'));
 
 for (const route of animatedRoutes) {
   test(`${route} retains the interactive architecture`, async ({ page }) => {
@@ -16,7 +16,7 @@ for (const route of animatedRoutes) {
 
 test('homepage presents hiring-facing positioning and role-aligned project order', async ({ page }) => {
   await page.goto('/', { waitUntil: 'domcontentloaded' });
-  await expect(page.locator('.work-entry')).toHaveCount(9, { timeout: 8_000 });
+  await expect(page.locator('.work-entry')).toHaveCount(10, { timeout: 8_000 });
   await expect(page.locator('.career-proof article')).toHaveCount(4);
   await expect(page.getByRole('heading', { name: 'I build the system behind the decision.' })).toBeVisible();
   await expect(page.getByRole('link', { name: 'View professional profile' })).toHaveAttribute('href', 'resume.html');
@@ -24,9 +24,9 @@ test('homepage presents hiring-facing positioning and role-aligned project order
 
   const professional = page.locator('[data-work-group="professional"]');
   const lab = page.locator('[data-work-group="lab"]');
-  await expect(professional.locator('.work-entry')).toHaveCount(6);
+  await expect(professional.locator('.work-entry')).toHaveCount(7);
   await expect(lab.locator('.work-entry')).toHaveCount(3);
-  await expect(professional.locator('.work-entry').first().getByRole('heading', { name: 'DQ Check Platform', exact: true })).toBeVisible();
+  await expect(professional.locator('.work-entry').first().getByRole('heading', { name: 'THREAD — Trusted Analytics for Decisions', exact: true })).toBeVisible();
   await expect(page.getByRole('heading', { name: 'Unified Knowledge Base — AI Brain', exact: true })).toBeVisible();
   await expect(page.getByRole('heading', { name: 'HarnessLab — Agentic Harness Builder', exact: true })).toBeVisible();
   await expect(page.getByRole('heading', { name: 'ForkWise — Open Source Reviewer', exact: true })).toBeVisible();
@@ -42,7 +42,7 @@ test('homepage adds a source-labeled resume section and navigation', async ({ pa
   await expect(section).toBeVisible({ timeout: 8_000 });
   await expect(section).toContainText('Senior Manager · Business Intelligence · Data Analytics');
   await expect(section).toContainText('verified resume record');
-  await expect(section).toContainText('Nine systems with explicit maturity labels');
+  await expect(section).toContainText('Ten systems with explicit maturity labels');
   await expect(section.getByRole('link', { name: 'View resume and career evidence' })).toHaveAttribute('href', 'resume.html');
   await expect(section.getByRole('link', { name: 'Open professional presentation' })).toHaveAttribute('href', 'professional-profile.html');
   await expect(page.locator('#capabilities .section-index')).toHaveText('03 / How I create value');
@@ -59,7 +59,7 @@ test('resume page separates career history, current title, and portfolio evidenc
   await expect(main).toContainText('Business Data Analyst I');
   await expect(main).toContainText('Technical Support Associate, Tier 1');
   await expect(main).toContainText('Data Analytics and Business Statistics');
-  await expect(page.locator('.resume-project')).toHaveCount(9);
+  await expect(page.locator('.resume-project')).toHaveCount(10);
   await expect(page.getByRole('heading', { name: 'ForkWise — Open Source Reviewer', exact: true })).toBeVisible();
   await expect(page.getByRole('link', { name: 'Open professional presentation' })).toHaveAttribute('href', 'professional-profile.html');
   await expect(page.getByRole('link', { name: 'Open presentation' })).toHaveAttribute('href', 'professional-profile.html');
@@ -83,7 +83,7 @@ test('professional presentation has fifteen source-labeled slides and working co
   await expect(page.locator('[data-slide]:not([hidden])')).toHaveCount(1);
   await expect(page.locator('[data-presentation-status]')).toHaveText('Slide 1 of 15');
   await expect(page.locator('.presentation-source-note')).toContainText('March 4, 2023 resume snapshot');
-  await expect(page.locator('body')).toContainText('Nine independent systems used as technical evidence');
+  await expect(page.locator('body')).toContainText('Ten independent systems used as technical evidence');
   await expect(page.locator('body')).toContainText('The goal is not to add AI everywhere. The goal is to make useful work easier.');
   await expect(page.locator('body')).not.toContainText('+1 (929) 413-5472');
 

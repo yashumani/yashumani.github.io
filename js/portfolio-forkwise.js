@@ -68,7 +68,7 @@
   function updateHomeResumeCard() {
     document.querySelectorAll('.resume-home-card h3').forEach(function (heading) {
       if ((heading.textContent || '').indexOf('Eight systems') !== -1) {
-        heading.textContent = 'Nine systems with explicit maturity labels';
+        heading.textContent = 'Ten systems with explicit maturity labels';
       }
     });
   }
@@ -87,7 +87,7 @@
     }
 
     var heading = document.querySelector('.resume-projects .section-heading h2');
-    if (heading) heading.textContent = 'Nine systems used as technical evidence';
+    if (heading) heading.textContent = 'Ten systems used as technical evidence';
   }
 
   function updatePresentation() {
@@ -95,13 +95,13 @@
     if (!presentation) return;
 
     document.querySelectorAll('.slide-tags span').forEach(function (tag) {
-      if ((tag.textContent || '').trim() === 'Eight portfolio systems') tag.textContent = 'Nine portfolio systems';
+      if ((tag.textContent || '').trim() === 'Eight portfolio systems') tag.textContent = 'Ten portfolio systems';
     });
 
     var slide = presentation.querySelector('[data-title="Independent portfolio"]');
     if (slide) {
       var heading = slide.querySelector('.slide-heading h2');
-      if (heading) heading.textContent = 'Nine independent systems used as technical evidence';
+      if (heading) heading.textContent = 'Ten independent systems used as technical evidence';
       var grid = slide.querySelector('.project-chip-grid');
       if (grid && !grid.querySelector('a[href="projects/forkwise-open-source-reviewer.html"]')) {
         var link = document.createElement('a');
@@ -112,9 +112,9 @@
     }
 
     var description = document.querySelector('meta[name="description"]');
-    if (description) description.setAttribute('content', description.getAttribute('content').replace('eight evidence-backed systems', 'nine evidence-backed systems'));
+    if (description) description.setAttribute('content', description.getAttribute('content').replace('eight evidence-backed systems', 'ten evidence-backed systems'));
     var openGraph = document.querySelector('meta[property="og:description"]');
-    if (openGraph) openGraph.setAttribute('content', openGraph.getAttribute('content').replace('eight evidence-backed systems', 'nine evidence-backed systems'));
+    if (openGraph) openGraph.setAttribute('content', openGraph.getAttribute('content').replace('eight evidence-backed systems', 'ten evidence-backed systems'));
   }
 
   function fixReviewStamp() {

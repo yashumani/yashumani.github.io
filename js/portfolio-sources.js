@@ -2,6 +2,28 @@
   'use strict';
 
   window.PORTFOLIO_PROJECT_SOURCES = {
+    'thread-conversational-intelligence.html': [
+      {
+        label: 'THREAD repository',
+        url: 'https://github.com/yashumani/talk2data-conversational-intelligence',
+        note: 'Primary implementation, tests, governance, release, security, and current-state evidence for this case study.'
+      },
+      {
+        label: 'THREAD public community-alpha checklist',
+        url: 'https://github.com/yashumani/talk2data-conversational-intelligence/blob/main/docs/PUBLIC_ALPHA_RELEASE_CHECKLIST.md',
+        note: 'Exact-source release record for the accepted public scope, test evidence, deployment receipts, SBOM, provenance, and explicitly excluded production-runtime claims.'
+      },
+      {
+        label: 'THREAD visualization implementation matrix',
+        url: 'https://github.com/yashumani/talk2data-conversational-intelligence/blob/main/docs/VISUALIZATION_IMPLEMENTATION_MATRIX.md',
+        note: 'Finite inventory of 76 visualization types across eight batches, including the 25 accepted renderers and bounded contributor backlog.'
+      },
+      {
+        label: 'THREAD visualization studio',
+        url: 'https://yashumani.github.io/talk2data-conversational-intelligence/workspace/',
+        note: 'Public synthetic-data experience for the accepted, end-user-visible visualization set.'
+      }
+    ],
     'dq-check-platform.html': [
       {
         label: 'ISO/IEC 25012:2008 — Data quality model',

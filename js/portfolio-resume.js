@@ -41,7 +41,7 @@
       '<p>Focused on decision intelligence, analytics products, data quality, and accountable AI-enabled workflows.</p></article>' +
       '<article class="resume-home-card reveal"><p class="mono-label">Career foundation</p><h3>Analytics, BI, data workflows, and technical support</h3>' +
       '<p>The verified resume record covers SQL, dashboards, ETL, automation, user support, education, and earlier technical roles through March 2023.</p></article>' +
-      '<article class="resume-home-card reveal"><p class="mono-label">Independent evidence</p><h3>Eight systems with explicit maturity labels</h3>' +
+      '<article class="resume-home-card reveal"><p class="mono-label">Independent evidence</p><h3>Ten systems with explicit maturity labels</h3>' +
       '<p>Case studies show architecture, implementation, tests, source attribution, live boundaries, and unfinished work separately from employment history.</p></article>' +
       '</div>' +
       '<div class="section-action reveal"><a class="button button-primary" href="' + relativeResumeHref() + '">View resume and career evidence</a>' +
