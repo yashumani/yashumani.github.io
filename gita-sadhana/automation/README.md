@@ -4,10 +4,10 @@ This directory contains the deterministic control plane for the public Gita Sadh
 
 ## Active schedule
 
-- **7:07 AM America/New_York:** `.github/workflows/gita-daily-lesson.yml`
-- **9:07 AM America/New_York:** `.github/workflows/gita-publish.yml`
+- **Teacher cadence (America/New_York):** 12:07 AM, 3:07 AM, 6:07 AM, 9:07 AM, 12:07 PM, 3:07 PM, 6:07 PM, 9:07 PM — `.github/workflows/gita-daily-lesson.yml`
+- **Publisher cadence (America/New_York):** 1:07 AM, 4:07 AM, 7:07 AM, 10:07 AM, 1:07 PM, 4:07 PM, 7:07 PM, 10:07 PM — `.github/workflows/gita-publish.yml`
 
-The seven-minute offset is intentional. It remains “around 7” and “around 9” while avoiding GitHub Actions’ busiest top-of-hour window.
+This temporary Diwali 2026 acceleration provides up to eight validated publication cycles per day. Each cycle retains the existing deterministic one-or-two-verse scope and never crosses a chapter boundary, preserving the current quality and safety gates while providing enough capacity to complete the 701-verse journey by November 8, 2026. The seven-minute offset avoids the busiest top-of-hour window.
 
 ## Verified source chain
 
@@ -20,7 +20,7 @@ The former IIT Kanpur page is not an operational dependency. Its public site mig
 
 ## Daily delivery and publication
 
-At 7:07 AM, GitHub Actions:
+At each scheduled teacher run, GitHub Actions:
 
 1. reads `gita-progress.json`;
 2. chooses the exact next one or two verses without crossing a chapter boundary;
@@ -32,7 +32,7 @@ At 7:07 AM, GitHub Actions:
 
 That assigned issue is the morning listening lesson and the immutable staging record.
 
-At 9:07 AM, GitHub Actions:
+At each scheduled publisher run, GitHub Actions:
 
 1. finds the oldest unprocessed packet;
 2. validates its expected state, IDs, sequence, verse boundaries, and content fields;
