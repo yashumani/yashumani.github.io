@@ -1,9 +1,9 @@
-name: Gita Sadhana — 7 AM Daily Lesson
+name: Gita Sadhana — Diwali 2026 Lesson Cadence
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "7 7 * * *"
+    - cron: "7 0,3,6,9,12,15,18,21 * * *"
       timezone: America/New_York
 
 concurrency:
@@ -19,7 +19,7 @@ jobs:
   teach-and-stage:
     name: Generate, validate, and deliver the daily lesson
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
 
     steps:
       - name: Check out the public study site
