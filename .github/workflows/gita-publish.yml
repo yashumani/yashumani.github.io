@@ -1,9 +1,9 @@
-name: Gita Sadhana — 9 AM Website Publisher
+name: Gita Sadhana — Diwali 2026 Website Publisher
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "7 9 * * *"
+    - cron: "7 1,4,7,10,13,16,19,22 * * *"
       timezone: America/New_York
 
 concurrency:
