@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "updatedAt": "2026-09-24",
+  "updatedAt": "2026-09-25",
   "lessonFiles": [
     "lessons/bg-01-001.json",
     "lessons/bg-01-002.json",
@@ -48,6 +48,8 @@
     "lessons/bg-01-044.json",
     "lessons/bg-01-045.json",
     "lessons/bg-01-046.json",
-    "lessons/bg-01-047.json"
+    "lessons/bg-01-047.json",
+    "lessons/bg-02-001.json",
+    "lessons/bg-02-002.json"
   ]
 }
