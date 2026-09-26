@@ -1,0 +1,83 @@
+{
+  "id": "bg-02-009",
+  "sequenceNumber": 56,
+  "date": "2026-09-26",
+  "chapter": 2,
+  "verseStart": 9,
+  "verseEnd": 9,
+  "chapterNameSanskrit": "सांख्ययोग",
+  "chapterNameEnglish": "Sāṅkhya Yoga",
+  "theme": "अर्जुन का मौन / Arjuna’s silence after refusing to fight",
+  "context": "After asking Krishna for decisive guidance in verse 2.7 and saying that no worldly gain could relieve his sorrow in verse 2.8, Arjuna states that he will not fight and falls silent. Sanjaya reports this moment to Dhritarashtra.",
+  "contextHindi": "पिछले श्लोकों में अर्जुन ने कृष्ण से स्पष्ट मार्गदर्शन माँगा और कहा कि कोई भी बड़ी सांसारिक उपलब्धि उनके शोक को दूर नहीं कर सकती। अब संजय बताते हैं कि अर्जुन ने युद्ध न करने की बात कही और फिर मौन हो गए।",
+  "sanskritDevanagari": "सञ्जय उवाच |\nएवमुक्त्वा हृषीकेशं गुडाकेशः परन्तप |\nन योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह ||२-९||",
+  "transliteration": "sañjaya uvāca .\nevamuktvā hṛṣīkeśaṃ guḍākeśaḥ parantapaḥ .\nna yotsya iti govindamuktvā tūṣṇīṃ babhūva ha ||2-9||",
+  "wordByWord": [
+    {
+      "term": "सञ्जय उवाच",
+      "meaning": "Sanjaya said; संजय अब धृतराष्ट्र को दृश्य का वर्णन कर रहे हैं"
+    },
+    {
+      "term": "हृषीकेशम्",
+      "meaning": "Hrishikesha, an epithet of Krishna often understood as Lord of the senses; यहाँ कृष्ण को संबोधित करने वाला नाम"
+    },
+    {
+      "term": "गुडाकेशः",
+      "meaning": "Arjuna, traditionally glossed here as conqueror of sleep; अर्जुन का एक विशेषण"
+    },
+    {
+      "term": "परन्तप",
+      "meaning": "Scorcher of foes, an address to Arjuna; शत्रुओं को संतप्त करने वाले"
+    },
+    {
+      "term": "न योत्स्ये",
+      "meaning": "I will not fight; मैं युद्ध नहीं करूँगा"
+    },
+    {
+      "term": "तूष्णीं बभूव",
+      "meaning": "Became silent; फिर मौन हो गए"
+    }
+  ],
+  "spokenHindi": "संजय बताते हैं कि अर्जुन ने कृष्ण से कहा, “मैं युद्ध नहीं करूँगा,” और फिर चुप हो गए। इस दृश्य में एक छोटा-सा वाक्य और उसके बाद आया मौन, दोनों महत्वपूर्ण हैं। अर्जुन ने अपना निर्णय कह दिया है, लेकिन उनके भीतर का संकट अभी सुलझा नहीं है।\n\nयहाँ अर्जुन के लिए गुडाकेश और परन्तप जैसे संबोधन आते हैं—वे जागरूक और पराक्रमी योद्धा हैं। फिर भी इस समय उनका बाहरी पराक्रम उनके मन की उलझन को मिटा नहीं रहा। पाठ उनके मौन का कारण विस्तार से नहीं बताता; हम इतना ही देख सकते हैं कि उनके कहने के बाद बातचीत कुछ क्षण के लिए रुकती है।\n\nइस श्लोक को यह कहकर पढ़ना ठीक नहीं होगा कि अर्जुन का मौन अपने आप में अंतिम बुद्धिमत्ता है, या उनकी कही हुई बात अब प्रश्न से परे है। यह कथा का एक ठहराव है। अगले श्लोक में संजय बताते हैं कि कृष्ण ने उन्हें उत्तर दिया। हमारे जीवन में भी कभी-कभी अपनी असमर्थता या असहमति साफ़ कहकर रुकना उपयोगी हो सकता है—लेकिन उसके बाद बात को समझने और सुनने की जगह भी चाहिए।",
+  "clearEnglish": "Sanjaya reports that Arjuna told Krishna, “I will not fight,” and then became silent. The verse marks a pause in the conversation: Arjuna has stated his position, but the larger question of what he should do remains unresolved.\n\nThe epithets in the verse contrast with the scene without cancelling it. Arjuna is addressed as Guḍākeśa and Parantapa, names associated in the DLS reading with mastery of sleep and the ability to overcome foes. Yet courage and skill do not automatically settle a moral crisis. The text does not tell us exactly why Arjuna falls silent, so it is better not to assign him a motive that the verse leaves unstated.\n\nA useful modern reading is that stating a firm position need not end reflection. Silence can make room to listen, reconsider, or receive counsel; by itself, though, it does not prove that a decision is either right or wrong. The verse lets the tension remain open as the narrative turns to Krishna’s response.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Sanjaya says that Arjuna tells Krishna he will not fight and then becomes silent. The verse does not explain the silence or present a reason for Krishna’s response."
+    },
+    {
+      "label": "DLS translation",
+      "explanation": "The Divine Life Society edition identifies Hrishikesha as Lord of the senses, Guḍākeśa as conqueror of sleep, and Parantapa as destroyer of foes. Its translation likewise records Arjuna’s refusal and silence."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The pause can be read as a moment in which Arjuna’s declaration is followed by listening or further guidance. That is a narrative inference, not an explicit explanation of why he is silent."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Make room after a strong reaction",
+      "text": "When you have stated a firm position in a difficult conversation, allow a pause before treating the matter as settled. Use the space to hear what you may have missed."
+    },
+    {
+      "label": "Separate courage from certainty",
+      "text": "Recognize that being capable or usually confident does not mean you must already know the right answer to a serious ethical choice."
+    }
+  ],
+  "reflectionQuestion": "After I state a firm position, do I leave room to listen and reconsider what I may not yet understand?",
+  "reflectionQuestionHindi": "अपनी बात दृढ़ता से कहने के बाद, क्या मैं यह सुनने और फिर से सोचने की जगह छोड़ता हूँ कि शायद मैं अभी कुछ समझ नहीं पाया हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}
