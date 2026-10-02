@@ -27,7 +27,7 @@
     if (grid && thread && grid.firstElementChild !== thread) grid.insertBefore(thread, grid.firstElementChild);
 
     var heading = document.querySelector('.resume-projects .section-heading h2');
-    if (heading) heading.textContent = 'Ten systems used as technical evidence';
+    if (heading) heading.textContent = 'Eleven systems used as technical evidence';
   }
 
   function updatePresentation() {

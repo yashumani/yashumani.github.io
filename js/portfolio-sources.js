@@ -2,6 +2,38 @@
   'use strict';
 
   window.PORTFOLIO_PROJECT_SOURCES = {
+    'prefrontal-context-layer.html': [
+      {
+        label: 'Prefrontal repository',
+        url: 'https://github.com/yashumani/system-2-brain-context-layer',
+        note: 'Primary implementation, tests, architecture documents, decision records, and the measurement scripts behind every figure on this page.'
+      },
+      {
+        label: 'Prefrontal decision surface (architecture 12)',
+        url: 'https://github.com/yashumani/system-2-brain-context-layer/blob/main/docs/architecture/12-decisions.md',
+        note: 'The seven gates, the fixed precedence between them, and why the published margin is a separation statistic rather than a calibrated probability.'
+      },
+      {
+        label: 'Prefrontal learning loop (architecture 14)',
+        url: 'https://github.com/yashumani/system-2-brain-context-layer/blob/main/docs/architecture/14-learning.md',
+        note: 'How served failures are classified by remedy and routed, with the router and gap-recall figures and their honest limits.'
+      },
+      {
+        label: 'Evaluation scoreboard',
+        url: 'https://github.com/yashumani/system-2-brain-context-layer/blob/main/evals/README.md',
+        note: 'Held-out and in-sample results per question set, including the sets the system fails on purpose.'
+      },
+      {
+        label: 'Kahneman, Thinking, Fast and Slow',
+        url: 'https://us.macmillan.com/books/9780374533557/thinkingfastandslow',
+        note: 'Source of the dual-process framing and the attribute-substitution failure the layer is built to detect, not an implementation dependency.'
+      },
+      {
+        label: 'Ren et al., Robots That Ask For Help (KnowNo)',
+        url: 'https://arxiv.org/abs/2307.01928',
+        note: 'Prior art for conformal abstention: a prediction set holding more than one option is a question for the caller. Adopted directly as the clarify action.'
+      }
+    ],
     'thread-conversational-intelligence.html': [
       {
         label: 'THREAD repository',

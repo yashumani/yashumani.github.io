@@ -2,6 +2,98 @@
   'use strict';
 
   var projectConfigs = {
+    'prefrontal-context-layer.html': {
+      id: 'prefrontal',
+      title: 'Prefrontal — governed context and the decision surface',
+      copy: 'The architecture view separates what enters the layer, who is allowed to certify it, what the registry serves, and how a question becomes one typed verdict. The execution lanes then trace the decision, the code path, and the movement of definitions through the same governance boundary.',
+      architecture: [
+        {
+          badge: 'Assets and questions',
+          title: 'Start from what the organisation already has',
+          note: 'Nothing is authored from a blank page: tables, reports and the questions users actually asked are the inputs.',
+          nodes: [
+            ['Warehouse tables and dbt', 'external'],
+            ['Reports and dashboards', 'external'],
+            ['Questions users asked', 'client'],
+            ['Catalog and query logs', 'data']
+          ]
+        },
+        {
+          badge: 'Builder and governance',
+          title: 'Draft freely, certify deliberately',
+          note: 'A builder agent may propose structure but never publishes. Certification is the one step with no agent in it.',
+          nodes: [
+            ['Domain builder agents', 'service'],
+            ['Draft, untrusted definitions', 'data'],
+            ['Change classification', 'service'],
+            ['Owner certification', 'client']
+          ]
+        },
+        {
+          badge: 'Governed registry',
+          title: 'Serve releases, not the working tree',
+          note: 'Five fixed layers with downward-only references, clearance inherited from the data, and every answer traceable to a hashed release.',
+          nodes: [
+            ['Five-layer registry', 'data'],
+            ['Immutable release bundles', 'data'],
+            ['Policy and clearance plane', 'service'],
+            ['Hash-chained decision log', 'data']
+          ]
+        },
+        {
+          badge: 'Decision surface',
+          title: 'Return an action, not a reading problem',
+          note: 'Seven atomic gates combine in a fixed precedence, so how the layer decides is a reviewable diff rather than a prompt.',
+          nodes: [
+            ['System 1 reflex engine', 'service'],
+            ['Seven governance gates', 'service'],
+            ['Typed verdict', 'service'],
+            ['MCP, REST and CLI', 'external']
+          ]
+        }
+      ],
+      lanes: [
+        {
+          kind: 'logic', title: 'Logic flow', badge: 'Decision path',
+          steps: [
+            ['Check clearance first', 'A definition above the caller\u2019s clearance is never replaced by a visible neighbour.', 'step_up before anything else'],
+            ['Refuse what is undefined', 'A question that only matched a neighbouring one is declined rather than answered.', 'refuse, not a near miss'],
+            ['Ask when senses compete', 'Several certified senses mean the caller is asked, before any cost or benefit test.', 'clarify beats a coin flip'],
+            ['Let governance break ties', 'One certified sense among drafts is the answer, because the organisation already decided.', 'certified wins over draft'],
+            ['Label what is uncertain', 'Stale or out-of-scope answers are served with the flag attached rather than withheld.', 'answer + flags'],
+            ['Escalate the rest', 'What the fast path cannot settle goes to deliberation or to a person.', 'escalate']
+          ]
+        },
+        {
+          kind: 'code', title: 'Code flow', badge: 'Runtime path',
+          steps: [
+            ['Load a verified release', 'The engine opens a hashed, optionally signed bundle and refuses a tampered one.', 'verify before load'],
+            ['Compile the context pack', 'Seed, expand, policy-filter and budget, with no model on the fast path.', 'p95 under 150 ms'],
+            ['Run the gates', 'Four hard gates can withhold an answer; three soft gates only label one.', '4 hard · 3 soft'],
+            ['Weigh more effort', 'The controller prices deliberation against the stakes the caller declared.', 'MC1 gate, then MC2'],
+            ['Emit the verdict', 'One action, the definition to use, the caveats to carry, and the gates behind it.', 'closed set of 5'],
+            ['Append to the log', 'Every decision is hash-chained with the release that produced it.', 'tamper-evident']
+          ]
+        },
+        {
+          kind: 'data', title: 'Data flow', badge: 'Definition movement',
+          steps: [
+            ['Assets become drafts', 'The builder stamps every definition it writes as draft and untrusted.', 'it cannot self-certify'],
+            ['Review classifies change', 'Each edit is typed, and a meaning change without a version bump is blocked.', 'breaking vs clarified'],
+            ['Owners certify', 'Certified text becomes authored, and open requirements must be filled first.', 'attrs.needs enforced'],
+            ['Releases ship per channel', 'Sandbox, pilot and production carry different domains from the same tree.', 'stage decides reach'],
+            ['Failures are mined', 'Refusals, clarifications and ratings are classified by the fix each one needs.', '6 remedies, routed'],
+            ['Gaps return as drafts', 'An answered gap becomes a gate question, so the failure becomes a regression test.', 'the loop closes']
+          ]
+        }
+      ],
+      summary: [
+        ['Authority boundary', 'An agent drafts; only an owner certifies'],
+        ['Clearance boundary', 'Sensitivity is inherited, never declassified by a drafter'],
+        ['Release boundary', 'Agents read hashed releases, never the working tree'],
+        ['Abstention rule', 'A non-singleton sense set is a question, not a coin flip']
+      ]
+    },
     'mangrok-recipe-vault.html': {
       id: 'mangrok',
       title: 'Mangrok Recipe Vault — system architecture and live flow',

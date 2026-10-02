@@ -50,7 +50,8 @@
 
     var stamp = main.querySelector('.case-review-stamp');
     var reviewDates = {
-      'agentic-harness-builder.html': 'August 21, 2026'
+      'agentic-harness-builder.html': 'August 21, 2026',
+      'prefrontal-context-layer.html': 'October 2, 2026'
     };
     var reviewDate = reviewDates[slug] || 'August 13, 2026';
     if (stamp) {

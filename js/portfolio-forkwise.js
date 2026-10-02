@@ -68,7 +68,7 @@
   function updateHomeResumeCard() {
     document.querySelectorAll('.resume-home-card h3').forEach(function (heading) {
       if ((heading.textContent || '').indexOf('Eight systems') !== -1) {
-        heading.textContent = 'Ten systems with explicit maturity labels';
+        heading.textContent = 'Eleven systems with explicit maturity labels';
       }
     });
   }
@@ -87,7 +87,7 @@
     }
 
     var heading = document.querySelector('.resume-projects .section-heading h2');
-    if (heading) heading.textContent = 'Ten systems used as technical evidence';
+    if (heading) heading.textContent = 'Eleven systems used as technical evidence';
   }
 
   function updatePresentation() {

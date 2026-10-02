@@ -19,7 +19,8 @@ export const projectRoutes = [
   '/projects/agentic-harness-builder.html',
   '/projects/forkwise-open-source-reviewer.html',
   '/projects/mlops-solution-accelerator.html',
-  '/projects/agentic-knowledge-runtime.html'
+  '/projects/agentic-knowledge-runtime.html',
+  '/projects/prefrontal-context-layer.html'
 ];
 
 const publicRoutes = ['/', '/resume.html', '/professional-profile.html', '/blogs/', ...projectRoutes, ...paperRoutes];
@@ -49,7 +50,9 @@ for (const route of projectRoutes) {
     const gap = await firstHeading.evaluate(node => Number.parseFloat(getComputedStyle(node).columnGap));
     expect(gap).toBeGreaterThan(0);
     await expect(page.locator('.case-toc')).toBeVisible();
-    const reviewDate = route.endsWith('/thread-conversational-intelligence.html')
+    const reviewDate = route.endsWith('/prefrontal-context-layer.html')
+      ? 'October 2, 2026'
+      : route.endsWith('/thread-conversational-intelligence.html')
       ? 'September 21, 2026'
       : route.endsWith('/agentic-harness-builder.html')
       ? 'August 21, 2026'

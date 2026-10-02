@@ -16,7 +16,7 @@ for (const route of animatedRoutes) {
 
 test('homepage presents hiring-facing positioning and role-aligned project order', async ({ page }) => {
   await page.goto('/', { waitUntil: 'domcontentloaded' });
-  await expect(page.locator('.work-entry')).toHaveCount(10, { timeout: 8_000 });
+  await expect(page.locator('.work-entry')).toHaveCount(11, { timeout: 8_000 });
   await expect(page.locator('.career-proof article')).toHaveCount(4);
   await expect(page.getByRole('heading', { name: 'I build the system behind the decision.' })).toBeVisible();
   await expect(page.getByRole('link', { name: 'View professional profile' })).toHaveAttribute('href', 'resume.html');
@@ -24,7 +24,7 @@ test('homepage presents hiring-facing positioning and role-aligned project order
 
   const professional = page.locator('[data-work-group="professional"]');
   const lab = page.locator('[data-work-group="lab"]');
-  await expect(professional.locator('.work-entry')).toHaveCount(7);
+  await expect(professional.locator('.work-entry')).toHaveCount(8);
   await expect(lab.locator('.work-entry')).toHaveCount(3);
   await expect(professional.locator('.work-entry').first().getByRole('heading', { name: 'THREAD — Trusted Analytics for Decisions', exact: true })).toBeVisible();
   await expect(page.getByRole('heading', { name: 'Unified Knowledge Base — AI Brain', exact: true })).toBeVisible();
@@ -42,7 +42,7 @@ test('homepage adds a source-labeled resume section and navigation', async ({ pa
   await expect(section).toBeVisible({ timeout: 8_000 });
   await expect(section).toContainText('Senior Manager · Business Intelligence · Data Analytics');
   await expect(section).toContainText('verified resume record');
-  await expect(section).toContainText('Ten systems with explicit maturity labels');
+  await expect(section).toContainText('Eleven systems with explicit maturity labels');
   await expect(section.getByRole('link', { name: 'View resume and career evidence' })).toHaveAttribute('href', 'resume.html');
   await expect(section.getByRole('link', { name: 'Open professional presentation' })).toHaveAttribute('href', 'professional-profile.html');
   await expect(page.locator('#capabilities .section-index')).toHaveText('03 / How I create value');

@@ -224,7 +224,8 @@
       'where-it-happened.html': true,
       'my-seventh-meal.html': true,
       'mlops-solution-accelerator.html': true,
-      'agentic-knowledge-runtime.html': true
+      'agentic-knowledge-runtime.html': true,
+      'prefrontal-context-layer.html': true
     };
     var slug = window.location.pathname.split('/').pop() || '';
     if (!slugs[slug]) return;

@@ -17,7 +17,8 @@ const renderedCopy = [
   ['/projects/agentic-harness-builder.html', 'I built HarnessLab to answer a practical question'],
   ['/projects/forkwise-open-source-reviewer.html', 'I built ForkWise because adopting an open-source repository is not the same as admiring its README or star count'],
   ['/projects/mlops-solution-accelerator.html', 'I built one reusable pipeline instead of repeating the same training setup for every dataset'],
-  ['/projects/agentic-knowledge-runtime.html', 'I built this because a useful research answer needs more than a strong prompt']
+  ['/projects/agentic-knowledge-runtime.html', 'I built this because a useful research answer needs more than a strong prompt'],
+  ['/projects/prefrontal-context-layer.html', 'I built Prefrontal because a semantic layer that hands an agent a pack of definitions']
 ];
 
 for (const [route, expectedCopy] of renderedCopy) {
