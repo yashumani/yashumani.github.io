@@ -229,7 +229,7 @@
   }
 
   .process-list li {
-    grid-template-columns: 42px mimax(0, 1fr);
+    grid-template-columns: 42px minmax(0, 1fr);
     gap: 16px;
   }
 

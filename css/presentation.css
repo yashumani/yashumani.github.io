@@ -216,7 +216,7 @@
 .slide-card-grid h3,
 .slide-split h3,
 .project-chip-grid strong {
-  margin: 13px 0 9px;
+  margin: 0;
 }
 
 .slide-card-grid p,
@@ -367,13 +367,15 @@
 
 .project-chip-grid {
   grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
 }
 
 .project-chip-grid a {
-  min-height: 120px;
+  min-height: 92px;
+  padding: 16px 20px;
   display: grid;
   align-content: center;
-  gap: 7px;
+  gap: 4px;
   color: var(--dark-text);
   transition: transform .2s ease, border-color .2s ease;
 }

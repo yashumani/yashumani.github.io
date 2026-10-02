@@ -35,14 +35,15 @@
 
   normalizeLegacyPageShell();
 
-  var toggle = document.querySelector('.theme-toggle');
   function currentTheme() { return root.getAttribute('data-theme') || 'light'; }
   function syncThemeLabel() {
-    if (!toggle) return;
-    toggle.setAttribute('aria-label', currentTheme() === 'dark' ? 'Use light mode' : 'Use dark mode');
+    document.querySelectorAll('.theme-toggle').forEach(function (toggle) {
+      toggle.setAttribute('aria-label', currentTheme() === 'dark' ? 'Use light mode' : 'Use dark mode');
+    });
   }
   syncThemeLabel();
-  if (toggle) toggle.addEventListener('click', function () {
+  document.addEventListener('click', function (event) {
+    if (!event.target.closest || !event.target.closest('.theme-toggle')) return;
     var next = currentTheme() === 'dark' ? 'light' : 'dark';
     root.setAttribute('data-theme', next);
     localStorage.setItem('theme', next);

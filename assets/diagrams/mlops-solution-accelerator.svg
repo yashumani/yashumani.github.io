@@ -8,27 +8,15 @@
     <style>
       :root {
         --bg: #ffffff;
-        --text: #1a1a1a;
-        --muted: #656575;
-        --border: #dfe2f2;
-        --panel: #f8f9ff;
-        --accent: #5468d4;
-        --accent-soft: #eef0ff;
-        --winner: #f5f0ff;
-        --rail: #f5f6fb;
-      }
-      @media (prefers-color-scheme: dark) {
-        :root {
-          --bg: #111113;
-          --text: #e9e9ea;
-          --muted: #a3a3ad;
-          --border: #343748;
-          --panel: #181a23;
-          --accent: #8b9bf0;
-          --accent-soft: #202438;
-          --winner: #241f36;
-          --rail: #171820;
-        }
+        --text: #1d1d1f;
+        --muted: #6e6e73;
+        --border: #d2d2d7;
+        --panel: #fbfbfd;
+        --accent: #0066cc;
+        --accent-soft: #eaf3ff;
+        --winner: #edf8f0;
+        --winner-line: #1e7a34;
+        --rail: #f5f5f7;
       }
       .bg { fill: var(--bg); }
       .title { fill: var(--text); font: 700 34px Inter, Segoe UI, Arial, sans-serif; }
@@ -38,7 +26,7 @@
       .tiny { fill: var(--muted); font: 600 12px Inter, Segoe UI, Arial, sans-serif; letter-spacing: .08em; text-transform: uppercase; }
       .panel { fill: var(--panel); stroke: var(--border); stroke-width: 1.5; }
       .input { fill: var(--accent-soft); stroke: var(--border); stroke-width: 1.2; }
-      .winner { fill: var(--winner); stroke: var(--accent); stroke-width: 1.8; }
+      .winner { fill: var(--winner); stroke: var(--winner-line); stroke-width: 1.8; }
       .accent { fill: var(--accent); }
       .line { stroke: var(--accent); stroke-width: 2.2; fill: none; marker-end: url(#arrow); }
       .arrow-fill { fill: var(--accent); }

@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Automated ML Pipeline Platform — Yashu Sharma</title>
-<meta name="description" content="An Azure ML pipeline that runs a three-phase model tournament to automatically find and register the best model.">
+<meta name="description" content="An Azure ML pipeline that runs a three-phase model tournament to automatically find and register the best model."><link rel="canonical" href="https://yashumani.github.io/projects/mlops-solution-accelerator.html">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Automated ML Pipeline Platform — Yashu Sharma">
 <meta property="og:description" content="An Azure ML pipeline that runs a three-phase model tournament to automatically find and register the best model.">
@@ -12,39 +12,20 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Automated ML Pipeline Platform — Yashu Sharma">
 <meta name="twitter:description" content="An Azure ML pipeline that runs a three-phase model tournament to automatically find and register the best model.">
-<meta name="theme-color" content="#f5f5f7">
+<meta name="theme-color" content="#0b0d10">
 <link rel="icon" href="../assets/images/avatar.jpg" type="image/jpeg">
+<script src="../js/theme-init.js"></script>
 <link rel="stylesheet" href="../css/style.css">
 <link rel="stylesheet" href="../css/media.css">
-<script>
-  (function () {
-    var t = localStorage.getItem('theme');
-    if (t) document.documentElement.setAttribute('data-theme', t);
-  })();
-</script>
+<link rel="stylesheet" href="../css/mechanism.css">
 </head>
 <body>
 
-  <header class="site-header">
-    <div class="wrap deck-nav-wrap">
-      <a class="brand" href="../index.html">Yashu Sharma</a>
-      <nav class="site-nav" aria-label="Primary navigation">
-        <a href="../index.html#systems">Systems</a>
-        <a href="../index.html#impact">Impact</a>
-        <a href="../blogs/">Blogs</a>
-        <a href="../index.html#capabilities">Capabilities</a>
-        <a href="../index.html#contact">Contact</a>
-        <button class="theme-toggle" type="button" aria-label="Toggle dark mode">
-          <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
-          <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3 7 7 0 0 0 21 12.8z"/></svg>
-        </button>
-      </nav>
-    </div>
-  </header>
+  <header class="site-header"><div class="wrap nav-shell"><a class="brand" href="../index.html"><span class="brand-mark" aria-hidden="true">YS</span><span>Yashu Sharma</span></a><nav class="site-nav" aria-label="Primary navigation"><a href="../index.html#work">Work</a><a href="../index.html#capabilities">Capabilities</a><a href="../blogs/">Writing</a><a href="../index.html#about">About</a><a href="../index.html#contact">Contact</a><button class="theme-toggle" type="button" aria-label="Use dark mode"><svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg><svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3 7 7 0 0 0 21 12.8z"/></svg></button></nav></div></header>
 
   <main class="wrap case-study-wrap">
 
-    <a class="back-link" href="../index.html#systems"><span class="back-arrow">&larr;</span> All systems</a>
+    <a class="back-link" href="../index.html#work"><span class="back-arrow">&larr;</span> Featured work</a>
 
     <h1 class="reveal">Automated ML Pipeline Platform</h1>
     <p class="reveal">An end-to-end Azure ML pipeline that automatically finds, tunes, and registers the best model for a dataset — classification, regression, or clustering — with no manual model selection.</p>
@@ -66,10 +47,28 @@
     </div>
 
     <h2 class="reveal">Visual overview</h2>
-    <figure class="media-figure diagram-figure reveal">
-      <img loading="lazy" width="1200" height="720" src="../assets/diagrams/mlops-solution-accelerator.svg" alt="Architecture diagram for the Automated ML Pipeline Platform, showing dataset and YAML config, validation, preprocessing, PyCaret and FLAML baselines, 457 recipe search, Optuna tuning, holdout evaluation, and Azure ML registration.">
-      <figcaption class="media-caption">Architecture map for the public case study: from dataset and YAML config to repeatable model tournament and Azure ML registration.</figcaption>
-    </figure>
+    <figure class="media-figure diagram-figure mechanism-figure reveal"><div class="mechanism-scroller"><svg class="mechanism-svg" viewBox="0 0 960 356" role="img" aria-labelledby="mlo-mech-title mlo-mech-desc"><title id="mlo-mech-title">How the Automated ML Pipeline Platform selects and registers a model</title><desc id="mlo-mech-desc">A dataset and a YAML config enter data validation, then preprocessing, then a Phase A baseline round where PyCaret and FLAML run side by side. The best baseline becomes the Phase A champion and seeds a Phase B search over 457 data-profiled recipes. Optuna tunes the winner, a holdout evaluation scores it, and the result is registered in Azure ML with nested MLflow lineage.</desc><defs><marker id="mlo-mk" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" class="mk-accent"/></marker></defs>
+<text class="m-band" x="18" y="30">1 · PREPARE</text>
+<g class="m-node" data-step="1" data-stage="A dataset and a YAML config arrive. The config, not code, defines the task, compute, and stages."><rect x="18" y="46" width="144" height="40" rx="4"/><text x="90" y="64">Dataset</text><text class="m-tag" x="90" y="78">features + target</text><rect x="18" y="98" width="144" height="40" rx="4"/><text x="90" y="116">YAML config</text><text class="m-tag" x="90" y="130">task · compute · stages</text></g>
+<g class="m-edge" data-step="2"><line x1="164" y1="66" x2="192" y2="88" marker-end="url(#mlo-mk)"/><line x1="164" y1="118" x2="192" y2="100" marker-end="url(#mlo-mk)"/><circle class="m-dot" r="3"><animateMotion dur="1.5s" repeatCount="indefinite" path="M164,66 L192,88"/></circle><circle class="m-dot" r="3"><animateMotion dur="1.5s" repeatCount="indefinite" path="M164,118 L192,100"/></circle></g>
+<g class="m-node" data-step="2" data-stage="Validation checks the schema and profiles the data into reproducible MLTable inputs."><rect x="194" y="58" width="164" height="72" rx="5"/><text class="m-hd" x="276" y="84">Data validation</text><text class="m-tag" x="276" y="102">schema checks · profiling</text><text class="m-tag" x="276" y="118">reproducible MLTable inputs</text></g>
+<g class="m-edge" data-step="3"><line x1="360" y1="94" x2="394" y2="94" marker-end="url(#mlo-mk)"/><circle class="m-dot" r="3"><animateMotion dur="1.4s" repeatCount="indefinite" path="M360,94 L394,94"/></circle></g>
+<g class="m-node" data-step="3" data-stage="Preprocessing applies feature engineering and task-specific transformations."><rect x="396" y="58" width="164" height="72" rx="5"/><text class="m-hd" x="478" y="84">Preprocessing</text><text class="m-tag" x="478" y="102">feature engineering</text><text class="m-tag" x="478" y="118">task-specific transforms</text></g>
+<g class="m-edge" data-step="4"><line x1="562" y1="94" x2="596" y2="94" marker-end="url(#mlo-mk)"/><circle class="m-dot" r="3"><animateMotion dur="1.4s" repeatCount="indefinite" path="M562,94 L596,94"/></circle></g>
+<g class="m-node" data-step="4" data-stage="Phase A runs PyCaret and FLAML baselines side by side."><rect x="598" y="40" width="200" height="108" rx="5"/><text class="m-hd" x="698" y="64">Phase A · baselines</text><line class="m-rule" x1="614" y1="76" x2="782" y2="76"/><rect x="616" y="86" width="76" height="28" rx="4"/><text x="654" y="104">PyCaret</text><rect x="704" y="86" width="76" height="28" rx="4"/><text x="742" y="104">FLAML</text><text class="m-new" x="698" y="136">two engines, run in parallel</text></g>
+<text class="m-band" x="18" y="208">2 · SEARCH · TUNE · REGISTER</text>
+<g class="m-edge" data-step="5"><polyline points="698,150 698,184 200,184 200,220" marker-end="url(#mlo-mk)"/><text x="420" y="178">best baseline</text><circle class="m-dot" r="3"><animateMotion dur="2.4s" repeatCount="indefinite" path="M698,150 L698,184 L200,184 L200,220"/></circle></g>
+<g class="m-node m-cert" data-step="5" data-stage="The best baseline becomes the Phase A champion and seeds the search."><rect x="18" y="222" width="190" height="60" rx="5"/><text class="m-hd" x="113" y="246">Phase A champion</text><text class="m-tag" x="113" y="266">best baseline seeds the search</text></g>
+<g class="m-edge" data-step="6"><line x1="210" y1="252" x2="244" y2="252" marker-end="url(#mlo-mk)"/><circle class="m-dot" r="3"><animateMotion dur="1.4s" repeatCount="indefinite" path="M210,252 L244,252"/></circle></g>
+<g class="m-node" data-step="6" data-stage="Phase B scores 457 data-profiled model and preprocessing recipes."><rect x="246" y="222" width="170" height="60" rx="5"/><text class="m-hd" x="331" y="246">Phase B · recipe search</text><text class="m-tag" x="331" y="266">457 data-profiled variants</text></g>
+<g class="m-edge" data-step="7"><line x1="418" y1="252" x2="452" y2="252" marker-end="url(#mlo-mk)"/><circle class="m-dot" r="3"><animateMotion dur="1.4s" repeatCount="indefinite" path="M418,252 L452,252"/></circle></g>
+<g class="m-node" data-step="7" data-stage="Optuna hyperparameter optimization refines the winner."><rect x="454" y="222" width="140" height="60" rx="5"/><text class="m-hd" x="524" y="246">Optuna HPO</text><text class="m-tag" x="524" y="266">tunes the winner</text></g>
+<g class="m-edge" data-step="8"><line x1="596" y1="252" x2="630" y2="252" marker-end="url(#mlo-mk)"/><circle class="m-dot" r="3"><animateMotion dur="1.4s" repeatCount="indefinite" path="M596,252 L630,252"/></circle></g>
+<g class="m-node" data-step="8" data-stage="A final holdout evaluation scores the winner on data the search never touched."><rect x="632" y="222" width="140" height="60" rx="5"/><text class="m-hd" x="702" y="246">Holdout evaluation</text><text class="m-tag" x="702" y="266">final scorecard</text></g>
+<g class="m-edge" data-step="9"><line x1="774" y1="252" x2="808" y2="252" marker-end="url(#mlo-mk)"/><circle class="m-dot" r="3"><animateMotion dur="1.4s" repeatCount="indefinite" path="M774,252 L808,252"/></circle></g>
+<g class="m-node m-cert" data-step="9" data-stage="The winner is registered in Azure ML, traceable through nested MLflow runs."><rect x="810" y="222" width="132" height="60" rx="5"/><text class="m-hd" x="876" y="246">Azure ML registry</text><text class="m-tag" x="876" y="266">model + lineage</text></g>
+<g class="m-rail"><rect x="18" y="306" width="924" height="34" rx="6"/><text x="480" y="327">Underneath: 18 reusable components · 19 pipeline steps · nested MLflow tracking · Azure ML compute cluster</text></g>
+</svg></div><div class="mechanism-controls" hidden><button type="button" data-mechanism="prev">Back</button><button type="button" data-mechanism="play">Play</button><button type="button" data-mechanism="next">Next</button><p class="mechanism-stage" role="status" aria-live="polite"></p></div><figcaption class="media-caption">Prepare, then search, tune, and register. Playback highlights one stage at a time; the moving dots trace the data and the winning candidate through the tournament.</figcaption></figure>
     <p class="media-note reveal">NotebookLM-ready source material is included so this project can generate a narrated Video Overview, short vertical explainer, infographic, or slide deck from the same public-safe case-study packet.</p>
     <p class="media-action-links reveal">
       <a href="../media/notebooklm/mlops-solution-accelerator-source.md">NotebookLM source packet</a>
@@ -80,47 +79,6 @@
     <p>Feed it a dataset and a config file. It runs a tournament between hundreds of candidate model configurations, tunes the best one, evaluates it on held-out data, and registers the winner in Azure ML's model registry — the same decisions a data science team would make by hand, but systematic and reproducible.</p>
 
     <h2 class="reveal">How it works</h2>
-    <div class="diagram reveal">
-      <svg viewBox="0 0 700 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="tournament-diagram-title tournament-diagram-desc">
-        <title id="tournament-diagram-title">Model tournament pipeline</title>
-        <desc id="tournament-diagram-desc">Top row: data validation and ingestion flows into preprocessing and feature engineering, then into a parallel baseline tournament using PyCaret and FLAML. Bottom row: the Phase A champion flows into variant search across 457 recipes, then Optuna hyperparameter optimization, then holdout evaluation, then model registration.</desc>
-        <defs>
-          <marker id="arrowhead2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
-            <path d="M0,0 L10,5 L0,10 z" fill="var(--link)"></path>
-          </marker>
-        </defs>
-
-        <rect x="0" y="20" width="217" height="50" rx="6" fill="none" stroke="var(--border)"></rect>
-        <text x="108" y="38" text-anchor="middle" font-size="11" fill="var(--text)"><tspan x="108" dy="0">Data validation &amp;</tspan><tspan x="108" dy="14">ingestion</tspan></text>
-        <line x1="217" y1="45" x2="239" y2="45" stroke="var(--link)" stroke-width="1.5" marker-end="url(#arrowhead2)"></line>
-
-        <rect x="241" y="20" width="217" height="50" rx="6" fill="none" stroke="var(--border)"></rect>
-        <text x="349" y="38" text-anchor="middle" font-size="11" fill="var(--text)"><tspan x="349" dy="0">Preprocessing &amp;</tspan><tspan x="349" dy="14">feature engineering</tspan></text>
-        <line x1="458" y1="45" x2="480" y2="45" stroke="var(--link)" stroke-width="1.5" marker-end="url(#arrowhead2)"></line>
-
-        <rect x="482" y="20" width="218" height="50" rx="6" fill="none" stroke="var(--border)"></rect>
-        <text x="591" y="38" text-anchor="middle" font-size="11" fill="var(--text)"><tspan x="591" dy="0">Baseline tournament</tspan><tspan x="591" dy="14">(PyCaret + FLAML)</tspan></text>
-
-        <rect x="0" y="140" width="126" height="50" rx="6" fill="none" stroke="var(--border)"></rect>
-        <text x="63" y="158" text-anchor="middle" font-size="11" fill="var(--text)"><tspan x="63" dy="0">Phase A</tspan><tspan x="63" dy="14">champion</tspan></text>
-        <line x1="126" y1="165" x2="140" y2="165" stroke="var(--link)" stroke-width="1.5" marker-end="url(#arrowhead2)"></line>
-
-        <rect x="142" y="140" width="126" height="50" rx="6" fill="none" stroke="var(--border)"></rect>
-        <text x="205" y="158" text-anchor="middle" font-size="11" fill="var(--text)"><tspan x="205" dy="0">Variant search</tspan><tspan x="205" dy="14">(457 recipes)</tspan></text>
-        <line x1="268" y1="165" x2="282" y2="165" stroke="var(--link)" stroke-width="1.5" marker-end="url(#arrowhead2)"></line>
-
-        <rect x="284" y="140" width="126" height="50" rx="6" fill="none" stroke="var(--border)"></rect>
-        <text x="347" y="169" text-anchor="middle" font-size="11" fill="var(--text)">Optuna HPO</text>
-        <line x1="410" y1="165" x2="424" y2="165" stroke="var(--link)" stroke-width="1.5" marker-end="url(#arrowhead2)"></line>
-
-        <rect x="426" y="140" width="126" height="50" rx="6" fill="none" stroke="var(--border)"></rect>
-        <text x="489" y="158" text-anchor="middle" font-size="11" fill="var(--text)"><tspan x="489" dy="0">Holdout</tspan><tspan x="489" dy="14">evaluation</tspan></text>
-        <line x1="552" y1="165" x2="566" y2="165" stroke="var(--link)" stroke-width="1.5" marker-end="url(#arrowhead2)"></line>
-
-        <rect x="568" y="140" width="126" height="50" rx="6" fill="none" stroke="var(--border)"></rect>
-        <text x="631" y="158" text-anchor="middle" font-size="11" fill="var(--text)"><tspan x="631" dy="0">Model</tspan><tspan x="631" dy="14">registration</tspan></text>
-      </svg>
-    </div>
     <p class="sequence reveal">Data validation &amp; ingestion &rarr; preprocessing &amp; feature engineering &rarr; <strong>baseline tournament</strong> (PyCaret + FLAML, parallel)</p>
     <p class="sequence reveal">Phase A champion &rarr; variant search (457 data-profiled recipes) &rarr; Optuna HPO &rarr; holdout evaluation &rarr; model registration</p>
 
@@ -146,11 +104,11 @@
     <p>Want the technical deep-dive or a walkthrough? <a href="mailto:yashusharma800@gmail.com">Get in touch</a>.</p>
 
     <footer class="site-footer">
-      <p class="footer-note">&copy; 2026 Yashu Sharma</p>
+      <p class="footer-note">&copy; <span data-current-year>2026</span> Yashu Sharma</p>
     </footer>
 
   </main>
-
+  <script src="../js/mechanism-diagram.js"></script>
   <script src="../js/main.js"></script>
 </body>
 </html>
