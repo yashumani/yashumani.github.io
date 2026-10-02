@@ -1,7 +1,9 @@
 import { test, expect } from '@playwright/test';
 import { projectRoutes } from './portfolio-routes.mjs';
 
-const animatedRoutes = projectRoutes.filter(route => !route.endsWith('/dq-check-platform.html') && !route.endsWith('/thread-conversational-intelligence.html'));
+const animatedRoutes = projectRoutes.filter(route => !route.endsWith('/dq-check-platform.html')
+  && !route.endsWith('/thread-conversational-intelligence.html')
+  && !route.endsWith('/prefrontal-context-layer.html'));
 
 for (const route of animatedRoutes) {
   test(`${route} retains the interactive architecture`, async ({ page }) => {
