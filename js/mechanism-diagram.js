@@ -43,8 +43,10 @@
   }
 
   function init(figure) {
+    if (figure.getAttribute('data-mechanism-ready')) return;
     var groups = Array.prototype.slice.call(figure.querySelectorAll('[data-step]'));
     if (!groups.length) return;
+    figure.setAttribute('data-mechanism-ready', 'true');
     var stages = stagesFor(figure, groups);
     var count = stages.length;
     var controls = controlsFor(figure, count);
@@ -130,6 +132,8 @@
       else if (visible && !userPaused) start();
     });
   }
+
+  window.MechanismDiagram = { init: init };
 
   function boot() {
     Array.prototype.forEach.call(document.querySelectorAll('.mechanism-figure'), init);

@@ -58,6 +58,42 @@
 
 .mechanism-figure .m-dot { fill: var(--accent); display: none; }
 
+/* Generated from .flow-showcase by js/flow-mechanism.js */
+.flow-showcase .mechanism-figure.flow-mechanism { margin: 1.2rem 0 1.4rem; }
+.mechanism-figure .k-client { --k: #7a63ff; }
+.mechanism-figure .k-service { --k: #1299a8; }
+.mechanism-figure .k-data { --k: #c27616; }
+.mechanism-figure .k-external { --k: #c34f6f; }
+.mechanism-figure .lane-logic { --k: var(--accent); }
+.mechanism-figure .lane-code { --k: var(--mint); }
+.mechanism-figure .lane-data { --k: var(--amber); }
+.mechanism-figure .m-node .mf-left,
+.mechanism-figure .mf-left { text-anchor: start; }
+.mechanism-figure .m-node rect.mf-frame { fill: var(--surface-alt); stroke: var(--line); stroke-width: 1; }
+.mechanism-figure .m-node .mf-chip rect.mf-chip-box { fill: var(--surface); stroke: var(--line); stroke-width: 1; }
+.mechanism-figure rect.mf-stripe,
+.mechanism-figure .m-node rect.mf-stripe { fill: var(--k, var(--accent)); stroke: none; }
+.mechanism-figure .m-node .mf-chip-text { text-anchor: start; font-size: 11px; }
+.mechanism-figure .m-node .mf-cell-title { text-anchor: start; font-size: 11px; font-weight: 600; }
+.mechanism-figure .mf-row .m-node rect { stroke: var(--line); }
+.mechanism-figure.is-animated .m-node.mf-stage.is-current rect.mf-frame { stroke: var(--accent); stroke-width: 1.6; }
+.mechanism-figure.is-animated .m-node.mf-stage.is-current .mf-chip rect.mf-chip-box { stroke-width: 1; }
+.mechanism-figure.is-animated .mf-row .m-node.is-current rect { stroke: var(--k, var(--accent)); stroke-width: 1.8; }
+.mechanism-figure .mf-row .m-edge .m-dot { fill: var(--k, var(--accent)); }
+.mechanism-figure .mf-row { transition: opacity 0.3s ease; }
+.mechanism-figure .mf-row.mf-row-off { opacity: 0.12; }
+.mf-source {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  margin: -1px !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  clip: rect(0 0 0 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
 .mechanism-figure.is-animated .m-node,
 .mechanism-figure.is-animated .m-edge { opacity: 0.26; transition: opacity 0.45s ease; }
 .mechanism-figure.is-animated .m-node.is-current,
@@ -133,3 +169,17 @@
   .mechanism-figure .m-dot { display: none !important; }
   .mechanism-figure .mechanism-svg { min-width: 0; }
 }
+
+.mechanism-figure .mf-row > text,
+.mechanism-figure .mf-legend text { fill: currentColor; }
+.mechanism-figure .mf-row > text.m-tag,
+.mechanism-figure .mf-legend text.m-tag { fill: var(--text-muted); }
+.architecture-overview .mechanism-figure.flow-mechanism {
+  margin: 0.8rem 0 0;
+  border: 0;
+  background: transparent;
+  padding-top: 0.4rem;
+}
+.architecture-overview .mechanism-figure.flow-mechanism .mechanism-scroller { padding-inline: 0; }
+.architecture-overview .mechanism-figure.flow-mechanism .mechanism-controls,
+.architecture-overview .mechanism-figure.flow-mechanism figcaption { padding-inline: 0; }

@@ -10,6 +10,7 @@
     document.body.appendChild(script);
   }
   load('main-core.js', function () {
+    if (document.querySelector('.flow-showcase, main.case-study-wrap')) load('flow-mechanism.js');
     load('portfolio-resume.js', function () {
       load('portfolio-sources.js', function () {
         load('portfolio-sources-harnesslab.js', function () {
