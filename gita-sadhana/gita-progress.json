@@ -8,15 +8,15 @@
     "numberingNote": "This journey follows the selected Divine Life Society edition, which counts 701 Sanskrit verses. Many editions count 700; the difference is commonly associated with the opening/numbering of Chapter 13."
   },
   "totalVerses": 701,
-  "completedSequentialVerses": 109,
+  "completedSequentialVerses": 111,
   "nextVerse": {
     "chapter": 2,
-    "verse": 63,
-    "display": "2.63",
-    "lessonSequence": 110
+    "verse": 65,
+    "display": "2.65",
+    "lessonSequence": 112
   },
   "lastPublishedDate": "2026-10-03",
-  "lastPublishedLessonId": "bg-02-062",
+  "lastPublishedLessonId": "bg-02-064",
   "exploredVerseIds": [
     "5.18"
   ],
