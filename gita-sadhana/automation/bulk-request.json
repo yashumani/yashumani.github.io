@@ -1,7 +1,7 @@
 {
   "schemaVersion": "GITA_BULK_REQUEST_V1",
   "requestedAt": "2026-10-04",
-  "requestRevision": "targeted-editorial-repair-v3",
+  "requestRevision": "account-default-targeted-repair-v4",
   "targetTotalVerses": 701,
   "mode": "one-shot",
   "recurring": false,
@@ -9,7 +9,6 @@
   "preserveExistingLessons": true,
   "publishOnlyAfterCompleteValidation": true,
   "resumeApprovedRunId": 37242819733,
-  "requestedTeacherModel": "gpt-6-astra",
-  "requestedReviewerModel": "claude-sonnet-4.6",
-  "requestReason": "Complete the remaining archive in one release. Recover the four already reviewed verses, repair only editorially flagged fields instead of rerolling entire lessons, and keep the exact-source, coverage, quality and deployment gates. No recurring notifications or billing-limit changes."
+  "modelSelection": "account-default; no unavailable model override",
+  "requestReason": "Complete the full archive in one release. Recover the four approved verses, use the Actions-authorized model that already generated accepted content, repair only flagged prose, preserve all validation gates, and never report a launch as completion. No recurring notifications or billing-limit changes."
 }
