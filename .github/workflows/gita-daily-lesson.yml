@@ -1,10 +1,7 @@
-name: Gita Sadhana — Diwali 2026 Lesson Cadence
+name: Gita Sadhana — Manual Lesson Recovery
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "7 0,3,6,9,12,15,18,21 * * *"
-      timezone: America/New_York
 
 concurrency:
   group: gita-sadhana-daily-lesson
@@ -80,6 +77,6 @@ jobs:
         continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ github.token }}
-          ALERT_STAGE: 7-am-teacher
-          ALERT_MESSAGE: The daily lesson could not be generated, source-verified, validated, or staged. No public progress was advanced.
+          ALERT_STAGE: manual-teacher
+          ALERT_MESSAGE: The manual lesson could not be generated, source-verified, validated, or staged. No public progress was advanced.
         run: node gita-sadhana/automation/gita-automation.mjs alert
