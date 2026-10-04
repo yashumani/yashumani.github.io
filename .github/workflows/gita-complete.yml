@@ -23,6 +23,7 @@ jobs:
     permissions:
       contents: read
       issues: read
+      actions: read
     outputs:
       needed: ${{ steps.plan.outputs.needed }}
       more_needed: ${{ steps.plan.outputs.more_needed }}
@@ -71,6 +72,17 @@ jobs:
           node gita-sadhana/automation/source-preflight.mjs
           node gita-sadhana/automation/gita-bulk.mjs plan
           node gita-sadhana/automation/gita-bulk-worker.mjs self-test .bulk-cache/sources/official.txt
+      - name: Recover immutable approved checkpoints from the preceding pilot
+        if: steps.plan.outputs.needed == 'true'
+        uses: actions/download-artifact@v4
+        with:
+          name: gita-bulk-checkpoints-chunk-001-37242819733
+          run-id: 37242819733
+          github-token: ${{ github.token }}
+          path: .bulk-cache/recovered-approved
+      - name: Revalidate recovered drafts, review hashes, and exact source text
+        if: steps.plan.outputs.needed == 'true'
+        run: node gita-sadhana/automation/gita-bulk-worker.mjs import-approved .bulk-cache/recovered-approved
       - name: Preserve verified source material and preparation evidence
         if: always()
         uses: actions/upload-artifact@v4
@@ -110,7 +122,9 @@ jobs:
           name: gita-bulk-checkpoints-${{ needs.prepare.outputs.first_chunk }}-${{ github.run_id }}
           path: .bulk-cache/checkpoints/${{ needs.prepare.outputs.first_chunk }}
       - name: Install the existing teacher engine
-        run: npm install -g @github/copilot
+        run: |
+          npm install -g @github/copilot
+          copilot --version
       - name: Generate, review, and checkpoint the first work unit
         env:
           GITHUB_TOKEN: ${{ github.token }}
@@ -179,7 +193,9 @@ jobs:
           name: gita-bulk-checkpoints-${{ matrix.chunk }}-${{ github.run_id }}
           path: .bulk-cache/checkpoints/${{ matrix.chunk }}
       - name: Install the existing teacher engine
-        run: npm install -g @github/copilot
+        run: |
+          npm install -g @github/copilot
+          copilot --version
       - name: Generate, review, and checkpoint this work unit
         env:
           GITHUB_TOKEN: ${{ github.token }}
