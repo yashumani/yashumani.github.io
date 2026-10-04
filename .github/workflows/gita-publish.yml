@@ -1,10 +1,7 @@
-name: Gita Sadhana — Diwali 2026 Website Publisher
+name: Gita Sadhana — Manual Website Publisher
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "7 1,4,7,10,13,16,19,22 * * *"
-      timezone: America/New_York
 
 concurrency:
   group: gita-sadhana-publication
@@ -95,8 +92,8 @@ jobs:
         continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ github.token }}
-          ALERT_STAGE: 9-am-no-packet
-          ALERT_MESSAGE: The website publisher found no staged daily lesson after its retry window. Public progress was left unchanged.
+          ALERT_STAGE: manual-no-packet
+          ALERT_MESSAGE: The manual website publisher found no staged lesson after its retry window. Public progress was left unchanged.
         run: node gita-sadhana/automation/gita-automation.mjs alert
 
       - name: Commit the atomic lesson publication
@@ -140,6 +137,6 @@ jobs:
         continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ github.token }}
-          ALERT_STAGE: 9-am-publisher
+          ALERT_STAGE: manual-publisher
           ALERT_MESSAGE: The staged packet could not be fully validated, committed, deployed, verified, or closed. The staging issue remains open for a safe retry.
         run: node gita-sadhana/automation/gita-automation.mjs alert
