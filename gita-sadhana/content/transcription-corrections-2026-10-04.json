@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "GITA_TRANSCRIPTION_CORRECTIONS_V1",
+  "sourceBlobSha": "88f05a083dd331b2b7e7a7af9e249971df9e5f67",
+  "sourcePath": "gita-sadhana/data/sanskrit-701.json",
+  "baseCommit": "690370568ce0f7878bdb52928c3a0c76485abd24",
+  "corrections": [
+    {
+      "id": "bg-02-007",
+      "previousBlobSha": "dad23b579c434ea192a5da0a2f919ea5c83b6a7a",
+      "changes": [
+        {
+          "field": "sanskritDevanagari",
+          "before": "कार्पण्यदोषोपहतस्वभावः\naपृच्छामि त्वां धर्मसम्मूढचेताः |\nयच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे\nशिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ||२-७||",
+          "after": "कार्पण्यदोषोपहतस्वभावः\nपृच्छामि त्वां धर्मसम्मूढचेताः |\nयच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे\nशिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ||२-७||"
+        }
+      ],
+      "explanationsRewritten": false
+    },
+    {
+      "id": "bg-02-047",
+      "previousBlobSha": "9bae8c499e947401d89e8ebb849789b77a6957b5",
+      "changes": [
+        {
+          "field": "sanskritDevanagari",
+          "before": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन |\\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ||२-४७||",
+          "after": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन |\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ||२-४७||"
+        },
+        {
+          "field": "transliteration",
+          "before": "karmaṇyevādhikāraste mā phaleṣu kadācana .\\nmā karmaphalaheturbhūrmā te saṅgo.astvakarmaṇi ||2-47||",
+          "after": "karmaṇyevādhikāraste mā phaleṣu kadācana .\nmā karmaphalaheturbhūrmā te saṅgo.astvakarmaṇi ||2-47||"
+        }
+      ],
+      "explanationsRewritten": false
+    },
+    {
+      "id": "bg-02-048",
+      "previousBlobSha": "e0c2a1771c32f64b38a0900654fa546c00fbee00",
+      "changes": [
+        {
+          "field": "sanskritDevanagari",
+          "before": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय |\\nसिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ||२-४८||",
+          "after": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय |\nसिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ||२-४८||"
+        },
+        {
+          "field": "transliteration",
+          "before": "yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya .\\nsiddhyasiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate ||2-48||",
+          "after": "yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya .\nsiddhyasiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate ||2-48||"
+        }
+      ],
+      "explanationsRewritten": false
+    }
+  ],
+  "scope": "Remove one stray Latin a and replace literal newline escape artifacts. Explanatory content, dates, sequence, progress and original issue packets remain unchanged."
+}
