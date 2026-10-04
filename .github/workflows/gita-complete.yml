@@ -7,7 +7,7 @@ on:
     paths:
       - gita-sadhana/automation/bulk-request.json
 
-# A user-requested one-shot release. There is deliberately no schedule.
+# One user-requested archive release. Deliberately no recurring schedule.
 concurrency:
   group: gita-sadhana-bulk-completion
   cancel-in-progress: false
@@ -35,7 +35,7 @@ jobs:
       - uses: actions/setup-node@v6
         with:
           node-version: 22
-      - name: Validate the one-shot request and deterministic guardrails
+      - name: Validate the one-shot request and regression guardrails
         run: |
           set -euo pipefail
           node --input-type=module <<'NODE'
@@ -47,7 +47,9 @@ jobs:
           assert.equal(r.recurring,false);
           NODE
           node --check gita-sadhana/automation/gita-bulk.mjs
+          node --check gita-sadhana/automation/gita-bulk-worker.mjs
           node gita-sadhana/automation/gita-bulk.mjs self-test
+          node gita-sadhana/automation/gita-bulk-worker.mjs self-test
       - name: Prepare sources, audit history, and partition the remainder
         id: plan
         env:
@@ -68,6 +70,7 @@ jobs:
           }
           node gita-sadhana/automation/source-preflight.mjs
           node gita-sadhana/automation/gita-bulk.mjs plan
+          node gita-sadhana/automation/gita-bulk-worker.mjs self-test .bulk-cache/sources/official.txt
       - name: Preserve verified source material and preparation evidence
         if: always()
         uses: actions/upload-artifact@v4
@@ -77,6 +80,7 @@ jobs:
           include-hidden-files: true
           if-no-files-found: warn
           retention-days: 30
+          overwrite: true
 
   pilot:
     name: Validate one complete generation and review cycle
@@ -98,21 +102,40 @@ jobs:
         with:
           name: gita-bulk-source-${{ github.run_id }}
           path: .bulk-cache
+      - name: Restore already approved episodes on a retry
+        if: github.run_attempt != '1'
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          name: gita-bulk-checkpoints-${{ needs.prepare.outputs.first_chunk }}-${{ github.run_id }}
+          path: .bulk-cache/checkpoints/${{ needs.prepare.outputs.first_chunk }}
       - name: Install the existing teacher engine
         run: npm install -g @github/copilot
-      - name: Generate and independently review the first work unit
+      - name: Generate, review, and checkpoint the first work unit
         env:
           GITHUB_TOKEN: ${{ github.token }}
           CHUNK: ${{ needs.prepare.outputs.first_chunk }}
-        run: node gita-sadhana/automation/gita-bulk.mjs worker "$CHUNK"
+        run: node gita-sadhana/automation/gita-bulk-worker.mjs worker "$CHUNK"
       - name: Preserve validated results
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: gita-bulk-result-${{ needs.prepare.outputs.first_chunk }}-${{ github.run_id }}
           path: .bulk-cache/results/*.json
+          include-hidden-files: true
           if-no-files-found: warn
           retention-days: 30
+          overwrite: true
+      - name: Preserve approved episode checkpoints, even on failure
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gita-bulk-checkpoints-${{ needs.prepare.outputs.first_chunk }}-${{ github.run_id }}
+          path: .bulk-cache/checkpoints/${{ needs.prepare.outputs.first_chunk }}/
+          include-hidden-files: true
+          if-no-files-found: warn
+          retention-days: 30
+          overwrite: true
       - name: Preserve teacher and reviewer evidence
         if: always()
         uses: actions/upload-artifact@v4
@@ -122,6 +145,7 @@ jobs:
           include-hidden-files: true
           if-no-files-found: warn
           retention-days: 30
+          overwrite: true
 
   generate:
     name: Complete remaining work units
@@ -134,7 +158,7 @@ jobs:
       copilot-requests: write
     strategy:
       fail-fast: false
-      max-parallel: 8
+      max-parallel: 16
       matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
     steps:
       - uses: actions/checkout@v6
@@ -147,21 +171,40 @@ jobs:
         with:
           name: gita-bulk-source-${{ github.run_id }}
           path: .bulk-cache
+      - name: Restore already approved episodes on a retry
+        if: github.run_attempt != '1'
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          name: gita-bulk-checkpoints-${{ matrix.chunk }}-${{ github.run_id }}
+          path: .bulk-cache/checkpoints/${{ matrix.chunk }}
       - name: Install the existing teacher engine
         run: npm install -g @github/copilot
-      - name: Generate and independently review this work unit
+      - name: Generate, review, and checkpoint this work unit
         env:
           GITHUB_TOKEN: ${{ github.token }}
           CHUNK: ${{ matrix.chunk }}
-        run: node gita-sadhana/automation/gita-bulk.mjs worker "$CHUNK"
+        run: node gita-sadhana/automation/gita-bulk-worker.mjs worker "$CHUNK"
       - name: Preserve validated results
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: gita-bulk-result-${{ matrix.chunk }}-${{ github.run_id }}
           path: .bulk-cache/results/*.json
+          include-hidden-files: true
           if-no-files-found: warn
           retention-days: 30
+          overwrite: true
+      - name: Preserve approved episode checkpoints, even on failure
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gita-bulk-checkpoints-${{ matrix.chunk }}-${{ github.run_id }}
+          path: .bulk-cache/checkpoints/${{ matrix.chunk }}/
+          include-hidden-files: true
+          if-no-files-found: warn
+          retention-days: 30
+          overwrite: true
       - name: Preserve teacher and reviewer evidence
         if: always()
         uses: actions/upload-artifact@v4
@@ -171,6 +214,7 @@ jobs:
           include-hidden-files: true
           if-no-files-found: warn
           retention-days: 30
+          overwrite: true
 
   publish:
     name: Assemble all 701, publish once, and verify every public file
@@ -259,6 +303,7 @@ jobs:
           include-hidden-files: true
           if-no-files-found: warn
           retention-days: 90
+          overwrite: true
 
   receipt:
     name: Record one terminal result, without recurring notifications
@@ -292,7 +337,7 @@ jobs:
             const alreadyComplete = process.env.GENERATION_NEEDED === 'false' && progress?.completedSequentialVerses === 701;
             const state = verified ? 'Complete and publicly verified: 701 / 701.' :
               alreadyComplete ? 'No generation needed: repository already reports 701 / 701; this run did not re-verify the deployment.' :
-              'Bulk run did not reach verified completion. Review the linked job and preserved evidence; no completion claim is made.';
+              'Bulk run did not reach verified completion. Review the linked job and preserved checkpoints; no completion claim is made.';
             const header = issue.body.split('\n## Latest bulk run')[0];
             const body = `${header}\n## Latest bulk run\n\n${state}\n\n[Workflow run](${run})\n\nPrepare: ${process.env.PREPARE_RESULT}; pilot: ${process.env.PILOT_RESULT}; generation: ${process.env.GENERATE_RESULT}; publication: ${process.env.PUBLISH_RESULT}.\n\nRepository progress: ${progress ? `${progress.completedSequentialVerses}/701; next ${progress.nextVerse?.display || 'none'}` : 'unavailable'}.\n\n${verified ? 'Complete archive: https://yashumani.github.io/gita-sadhana/complete.html\n\n' : ''}Recurring ChatGPT check-ins and GitHub schedules remain disabled.\n`;
             await github.rest.issues.update({...repo,issue_number,body,...(verified ? {state:'closed',state_reason:'completed'} : {})});
