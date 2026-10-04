@@ -1,10 +1,13 @@
 {
   "schemaVersion": "GITA_BULK_REQUEST_V1",
   "requestedAt": "2026-10-04",
+  "requestRevision": "bounded-context-checkpointed-v2",
   "targetTotalVerses": 701,
   "mode": "one-shot",
   "recurring": false,
   "trackingIssue": 90,
   "preserveExistingLessons": true,
-  "publishOnlyAfterCompleteValidation": true
+  "publishOnlyAfterCompleteValidation": true,
+  "replacesFailedRun": 37236322196,
+  "requestReason": "User requested completion of the full archive in one run, not recurring lesson cycles. Fix omitted review coverage and whole-book context fallback; retain approved episode checkpoints."
 }
