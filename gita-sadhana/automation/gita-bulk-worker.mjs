@@ -14,8 +14,9 @@ const LEGACY_BLOB = '308aef0b6266979fbb865077d15032c4c917a76c';
 const COUNTS = [47,72,43,42,29,47,30,28,34,42,55,20,35,27,20,24,28,78];
 const ROMAN = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','XIII','XIV','XV','XVI','XVII','XVIII'];
 const MAX_PROMPT_BYTES = 110000;
-const TEACHER_MODEL = 'gpt-6-astra';
-const REVIEW_MODEL = 'claude-sonnet-4.6';
+// Use the account-authorized default already proven to work in Actions.
+const TEACHER_MODEL = null;
+const REVIEW_MODEL = null;
 const json = async p => JSON.parse(await readFile(p,'utf8'));
 const hash = x => createHash('sha256').update(x).digest('hex');
 const canonical = x => Array.isArray(x) ? x.map(canonical) : x && typeof x==='object' ? Object.fromEntries(Object.keys(x).sort().map(k=>[k,canonical(x[k])])) : x;
@@ -84,14 +85,14 @@ async function model(prompt,cwd,evidence,selectedModel=TEACHER_MODEL) {
   await mkdir(path.dirname(evidence),{recursive:true});
   await writeFile(evidence+'.prompt.txt',prompt);
   // Send the full bounded prompt directly. No file-view pagination/truncation can hide a target.
-  const result=spawnSync('copilot',[`--model=${selectedModel}`,'--silent','--no-custom-instructions','--disable-builtin-mcps','--available-tools=view','--allow-tool=read','--no-ask-user','-p',prompt],{
+  const result=spawnSync('copilot',[...(selectedModel ? [`--model=${selectedModel}`] : []),'--silent','--no-custom-instructions','--disable-builtin-mcps','--available-tools=view','--allow-tool=read','--no-ask-user','-p',prompt],{
     cwd,encoding:'utf8',timeout:900000,maxBuffer:16*1024*1024,
     env:{...process.env,NO_COLOR:'1',LANG:'C.UTF-8',LC_ALL:'C.UTF-8'}
   });
   let log=(result.stdout||'')+'\n'+(result.stderr||'');
   for(const key of ['GITHUB_TOKEN','GH_TOKEN','COPILOT_GITHUB_TOKEN']) if(process.env[key]) log=log.split(process.env[key]).join('[REDACTED]');
   await writeFile(evidence+'.txt',log);
-  await save(evidence+'.meta.json',{requestedModel:selectedModel,promptBytes:Buffer.byteLength(prompt),exitStatus:result.status,finishedAt:new Date().toISOString()});
+  await save(evidence+'.meta.json',{requestedModel:selectedModel||'account-default',promptBytes:Buffer.byteLength(prompt),exitStatus:result.status,finishedAt:new Date().toISOString()});
   assert(!result.error,`Teacher process failed: ${result.error?.message}`);
   assert.equal(result.status,0,`Teacher process exited ${result.status}; see retained evidence.`);
   return result.stdout;
@@ -231,7 +232,7 @@ async function worker(key) {
         await save(prefix+'-candidate.json',record);
         const review=await reviewEpisode(record,context,source,cwd,prefix);
         checkReview(review,[record]);
-        record.review={...review,requestedModel:REVIEW_MODEL,draftSha256:digest(draft)};
+        record.review={...review,requestedModel:REVIEW_MODEL||'account-default',draftSha256:digest(draft)};
         await save(checkpoint,{schemaVersion:'GITA_EPISODE_CHECKPOINT_V1',baseSha:p.baseSha,runId:p.runId,record});
         records.push(record);accepted=true;
         report(`${key}: ${ep.targets.map(t=>t.display).join(', ')} generated, reviewed, and checkpointed; not yet published.`);
