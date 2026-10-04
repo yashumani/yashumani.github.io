@@ -1,0 +1,110 @@
+name: Gita — Preserve Quota-Blocked Work
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/gita-quota-audit.yml]
+permissions:
+  contents: read
+  actions: read
+  issues: write
+concurrency:
+  group: gita-quota-audit
+  cancel-in-progress: false
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+      - name: Read the terminal source-run state without making model requests
+        id: source
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const run_id = 37244270287;
+            let run;
+            for (let n=0;n<30;n++) {
+              run=(await github.rest.actions.getWorkflowRun({...context.repo,run_id})).data;
+              if(run.status==='completed') break;
+              await new Promise(r=>setTimeout(r,10000));
+            }
+            core.setOutput('terminal',run.status==='completed');
+            const jobs=await github.paginate(github.rest.actions.listJobsForWorkflowRun,{...context.repo,run_id,per_page:100});
+            const fs=require('fs');fs.mkdirSync('.bulk-quota-audit',{recursive:true});
+            fs.writeFileSync('.bulk-quota-audit/run.json',JSON.stringify({id:run.id,headSha:run.head_sha,status:run.status,conclusion:run.conclusion,runAttempt:run.run_attempt,jobs:jobs.map(j=>({id:j.id,name:j.name,status:j.status,conclusion:j.conclusion}))},null,2));
+      - name: Preserve every checkpoint, including approved episodes from failed work units
+        uses: actions/download-artifact@v4
+        with:
+          pattern: gita-bulk-checkpoints-*-37244270287
+          run-id: 37244270287
+          github-token: ${{ github.token }}
+          merge-multiple: false
+          path: .bulk-quota-audit/checkpoints
+      - name: Validate and count approved versus unresolved lessons
+        env:
+          SOURCE_TERMINAL: ${{ steps.source.outputs.terminal }}
+        run: |
+          node --input-type=module <<'NODE'
+          import assert from 'node:assert/strict';
+          import {readFile,readdir,writeFile} from 'node:fs/promises';
+          import path from 'node:path';
+          import {createHash} from 'node:crypto';
+          import {exact,proseQuality,checkReview} from './gita-sadhana/automation/gita-bulk.mjs';
+          const root='.bulk-quota-audit',read=async p=>JSON.parse(await readFile(p,'utf8'));
+          const canon=x=>Array.isArray(x)?x.map(canon):x&&typeof x==='object'?Object.fromEntries(Object.keys(x).sort().map(k=>[k,canon(x[k])])):x;
+          const digest=x=>createHash('sha256').update(JSON.stringify(canon(x))).digest('hex');
+          const corpus=await read('gita-sadhana/data/sanskrit-701.json'),byId=new Map(corpus.verses.map(v=>[v.id,v]));
+          const published=await read('gita-sadhana/gita-progress.json'),run=await read(`${root}/run.json`);
+          const approved=new Map(),episodes=[],candidates=[],failures=[];
+          async function walk(dir){let out=[];for(const d of await readdir(dir,{withFileTypes:true})){const f=path.join(dir,d.name);if(d.isDirectory())out.push(...await walk(f));else out.push(f);}return out;}
+          for(const f of await walk(`${root}/checkpoints`)) {
+            if(!f.endsWith('.json'))continue;
+            const obj=await read(f);
+            if(obj.schemaVersion==='GITA_EPISODE_CHECKPOINT_V1') {
+              assert.equal(String(obj.runId),'37244270287');assert.equal(obj.baseSha,run.headSha);
+              const r=obj.record;proseQuality(r.draft);checkReview(r.review,[r]);assert.equal(r.review.draftSha256,digest(r.draft));
+              assert.equal(r.packet.lessons.length,r.draft.lessons.length);
+              r.packet.lessons.forEach((l,i)=>{
+                const v=byId.get(l.id);assert(v);exact(l,v);assert.equal(l.sequenceNumber,v.sequenceNumber);
+                assert(v.sequenceNumber>published.completedSequentialVerses);
+                const d=r.draft.lessons[i];assert.equal(d.chapter,l.chapter);assert.equal(d.verse,l.verseStart);exact(d,v);
+                for(const field of ['spokenHindi','clearEnglish','context','contextHindi','wordByWord','practicalApplication','interpretationPerspectives','reflectionQuestion','reflectionQuestionHindi'])assert.equal(digest(l[field]),digest(d[field]));
+                assert(!approved.has(l.id),'Duplicate approved verse');approved.set(l.id,l);
+              });episodes.push(r);
+            } else if(obj.schemaVersion==='GITA_UNREVIEWED_CANDIDATE_V1') {
+              candidates.push({file:f,ids:obj.draft.lessons.map(l=>`bg-${String(l.chapter).padStart(2,'0')}-${String(l.verse).padStart(3,'0')}`),lastError:obj.errorText});
+            } else if(path.basename(f)==='status.json')failures.push(...(obj.failures||[]));
+          }
+          const missing=corpus.verses.slice(published.completedSequentialVerses).filter(v=>!approved.has(v.id)).map(v=>v.id);
+          const counts={};for(const j of run.jobs){const k=j.conclusion||j.status;counts[k]=(counts[k]||0)+1;}
+          const report={schemaVersion:'GITA_QUOTA_BLOCKED_AUDIT_V1',auditedAt:new Date().toISOString(),sourceRun:run,terminalSnapshot:process.env.SOURCE_TERMINAL==='true',publishedVerses:published.completedSequentialVerses,publishedNext:published.nextVerse,approvedUnpublishedVerses:approved.size,totalPublishedOrApproved:published.completedSequentialVerses+approved.size,stillUnapprovedVerses:missing.length,approvedIds:[...approved.keys()].sort(),unapprovedIds:missing,unresolvedCandidates:candidates.filter(c=>c.ids.some(id=>!approved.has(id))),jobCounts:counts,failures,quotaError:'You have exceeded your monthly quota',quotaEvidence:{artifactId:11318901526,file:'chunk-028/bg-08-021-attempt-1-review-1.txt',firstObservedAt:'2026-10-04T23:46:57Z'},modelRequestsMadeByThisAudit:0,publicationChanged:false};
+          assert.equal(report.totalPublishedOrApproved+report.stillUnapprovedVerses,701);
+          await writeFile(`${root}/report.json`,JSON.stringify(report,null,2)+'\n');
+          await writeFile(`${root}/approved-episodes.json`,JSON.stringify({sourceRun:run.id,episodes},null,2)+'\n');
+          const md=`# Gita Sadhana — quota-blocked completion\n\nPublished: ${report.publishedVerses}/701; next ${report.publishedNext?.display}.\n\nReviewed and saved, not published: ${approved.size} additional verses.\n\nPublished or reviewed: ${report.totalPublishedOrApproved}/701. Still awaiting approved content: ${missing.length}.\n\nProvider blocker: ${report.quotaError}. No model requests were made by this audit. No billing or publication state was changed.\n\nSource run: https://github.com/${process.env.GITHUB_REPOSITORY}/actions/runs/${run.id}\n\nThese are separate publication and review counts, not a claim of complete delivery.\n`;
+          await writeFile(`${root}/report.md`,md);console.log(md);
+          NODE
+      - name: Retain consolidated recovery files
+        uses: actions/upload-artifact@v4
+        with:
+          name: gita-quota-recovery-37244270287
+          path: .bulk-quota-audit/
+          include-hidden-files: true
+          retention-days: 90
+          overwrite: true
+      - name: Record the exact blocked status without claiming completion
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs=require('fs'),r=JSON.parse(fs.readFileSync('.bulk-quota-audit/report.json','utf8'));
+            const issue_number=90,issue=(await github.rest.issues.get({...context.repo,issue_number})).data;
+            const head=issue.body.split('\n## Latest bulk run')[0];
+            const body=`${head}\n## Latest bulk run\n\n**BLOCKED — provider monthly quota exhausted. Not complete.**\n\nSource: [bulk run ${r.sourceRun.id}](https://github.com/${context.repo.owner}/${context.repo.repo}/actions/runs/${r.sourceRun.id}). Exact provider response: “${r.quotaError}”. Evidence artifact ${r.quotaEvidence.artifactId}, file ${r.quotaEvidence.file}.\n\nPublished: **${r.publishedVerses}/701**, next **BG ${r.publishedNext?.display}**.\nReviewed and saved but unpublished: **${r.approvedUnpublishedVerses}** additional verses.\nPublished or approved: **${r.totalPublishedOrApproved}/701**.\nStill awaiting approved content: **${r.stillUnapprovedVerses}**.\n\n[Consolidated recovery audit](https://github.com/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}) retains approved episode records and unresolved candidate checkpoints for recovery. Terminal source snapshot: ${r.terminalSnapshot}.\n\nNo further generation retry should be launched against the exhausted provider allowance. Do not raise billing limits, change account policies, switch paid providers, bypass reviews, inflate progress, or restore recurring notifications without the user's authorization. This audit made zero model requests and did not change published lesson files.\n`;
+            await github.rest.issues.update({...context.repo,issue_number,body});
+            core.summary.addRaw(fs.readFileSync('.bulk-quota-audit/report.md','utf8')).write();
