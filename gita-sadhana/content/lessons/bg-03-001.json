@@ -1,0 +1,115 @@
+{
+  "id": "bg-03-001",
+  "sequenceNumber": 120,
+  "date": "2026-10-04",
+  "chapter": 3,
+  "verseStart": 1,
+  "verseEnd": 1,
+  "chapterNameSanskrit": "कर्मयोग",
+  "chapterNameEnglish": "Karma Yoga",
+  "theme": "ज्ञान और कर्म का सही संतुलन / The right balance of wisdom and action",
+  "context": "In this opening exchange, Arjuna's confusion has reached the point where he senses a contradiction between wisdom and action. He asks why Krishna is urging him to fight when knowledge and inner detachment seem more central to liberation. The issue is not whether action is good or bad, but what kind of action is truly aligned with wisdom.",
+  "contextHindi": "इस आरंभिक संवाद में अर्जुन की अटपटी अड़चन इस कदर पहुँच गई है कि वह समझ नहीं पाता कि ज्ञान और कर्म में क्या तालमेल है। वह पूछता है कि अगर ज्ञान श्रेष्ठ है, तो कृष्ण उसे घोर युद्ध में क्यों लगा रहे हैं। सवाल इस बात का नहीं है कि कर्म अच्छा है या बुरा, बल्कि यह है कि किस प्रकार का कर्म ज्ञान के साथ सही ढंग से जुड़ा है।",
+  "sanskritDevanagari": "अर्जुन उवाच |\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन |\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ||३-१||",
+  "transliteration": "arjuna uvāca .\njyāyasī cetkarmaṇaste matā buddhirjanārdana .\ntatkiṃ karmaṇi ghore māṃ niyojayasi keśava ||3-1||",
+  "wordByWord": [
+    {
+      "term": "ज्यायसी",
+      "meaning": "superior, better; श्रेष्ठ, बढ़कर"
+    },
+    {
+      "term": "चेत्",
+      "meaning": "if; यदि"
+    },
+    {
+      "term": "कर्मणः",
+      "meaning": "than action; कर्म से"
+    },
+    {
+      "term": "ते",
+      "meaning": "your; तुम्हारी"
+    },
+    {
+      "term": "मता",
+      "meaning": "considered, esteemed; मानी गई"
+    },
+    {
+      "term": "बुद्धिः",
+      "meaning": "understanding, intellect; बुद्धि"
+    },
+    {
+      "term": "जनार्दन",
+      "meaning": "O Janardana, Krishna; जनार्दन"
+    },
+    {
+      "term": "तत्",
+      "meaning": "then; तो"
+    },
+    {
+      "term": "किं",
+      "meaning": "why; क्यों"
+    },
+    {
+      "term": "कर्मणि",
+      "meaning": "in action; कर्म में"
+    },
+    {
+      "term": "घोरे",
+      "meaning": "terrible, grave; घोर"
+    },
+    {
+      "term": "मां",
+      "meaning": "me; मुझे"
+    },
+    {
+      "term": "नियोजयसि",
+      "meaning": "you engage, compel; लगा रहे हो, नियुक्त कर रहे हो"
+    },
+    {
+      "term": "केशव",
+      "meaning": "O Kesava; केशव"
+    }
+  ],
+  "spokenHindi": "अर्जुन की बात में एक बहुत बड़ी असली सवाल है: अगर ज्ञान श्रेष्ठ है, तो कर्म क्यों? यह सवाल केवल युद्ध की बात नहीं है; यह जीवन के हर क्षेत्र में उठता है। जब हम समझते हैं कि मन को शुद्ध करना है, तब अक्सर लगता है कि शांति का रास्ता शांत बैठना है, निष्क्रियता है। लेकिन गीता यह नहीं कहती कि ज्ञान का मतलब कर्म से भागना है। उसका कहना है कि ज्ञान का सही अर्थ है—कर्म को समझदारी से, आसक्ति से मुक्त होकर करना।\n\nअर्जुन यहाँ अपने मन के दुविधाग्रस्त होने की स्थिति में है। वह समझ नहीं पा रहा कि किसे चुनें—संकल्प, विवेक, या व्यावहारिक कर्तव्य। यह Verse हमें यह सिखाता है कि कर्म सिर्फ शारीरिक गतिविधि नहीं है; यह हमारे मन की पहचान का सवाल है। यदि कर्म में ‘मैं’ की अहंकारपूर्ण संलग्नता है, तो वह बंधन बनता है; यदि वह विवेक के साथ, दया और सही उद्देश्य से किया जाए, तो वह ऊँचाई देता है।",
+  "clearEnglish": "Arjuna is not rejecting action in principle; he is noticing that a state of higher understanding seems to call for a different posture than battlefield urgency. He is asking a serious question: if knowledge is superior, why is he being pushed into action at all? This is the practical tension of the Gita. Liberation is not the same as withdrawal from responsibility; it is the transformation of responsibility by wisdom.\n\nThe point is not that action is inferior to insight. Rather, insight should guide action; action should not be driven by impulsive desire, anger, attachment, or ego. The Gita’s deeper teaching is that knowledge cannot remain abstract; it must shape how one acts in the world. The question is therefore not “knowledge or action?” but “what kind of action arises from clear knowledge?”",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse directly presents Arjuna's question: if knowledge is superior, why does Krishna compel him into terrible action? It shows the tension between wisdom and duty without yet resolving it."
+    },
+    {
+      "label": "COMMENTARY",
+      "explanation": "In the DLS reading, this is the opening of the third discourse: Krishna will explain that action is necessary, but not action driven by attachment, ego, or confused desire."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A reasonable conclusion is that true wisdom does not mean abandoning responsibility; it means acting from clarity, not compulsive attachment."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Pause before duty",
+      "text": "When a difficult obligation appears, take one breath and ask: 'Am I acting from clarity or from fear, ego, or urgency?'"
+    },
+    {
+      "label": "Let wisdom guide action",
+      "text": "Before responding in conflict or stress, choose one sentence that reflects the highest value at stake rather than the fastest emotional reaction."
+    }
+  ],
+  "reflectionQuestion": "When I think wisdom should stop action, what part of me is actually afraid of responsibility, loss, or discomfort?",
+  "reflectionQuestionHindi": "जब मैं सोचता हूँ कि ज्ञान को कर्म से अलग रहना चाहिए, तो मेरे भीतर कौन-सा भाग असल में जिम्मेदारी, नुकसान या असुविधा से डर रहा है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}
