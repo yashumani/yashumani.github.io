@@ -23,7 +23,7 @@ jobs:
         uses: actions/setup-node@v6
         with:
           node-version: 22
-          package-manager-cache: false
+          package-manager-cache: true
 
       - name: Install test dependencies
         run: npm ci
