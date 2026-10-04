@@ -1,0 +1,10 @@
+{
+  "schemaVersion": "GITA_BULK_REQUEST_V1",
+  "requestedAt": "2026-10-04",
+  "targetTotalVerses": 701,
+  "mode": "one-shot",
+  "recurring": false,
+  "trackingIssue": 90,
+  "preserveExistingLessons": true,
+  "publishOnlyAfterCompleteValidation": true
+}
