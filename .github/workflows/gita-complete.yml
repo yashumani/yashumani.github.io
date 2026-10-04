@@ -1,0 +1,299 @@
+name: Gita Sadhana — Complete Archive Once
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - gita-sadhana/automation/bulk-request.json
+
+# A user-requested one-shot release. There is deliberately no schedule.
+concurrency:
+  group: gita-sadhana-bulk-completion
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  prepare:
+    name: Verify sources and preserve existing work
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: read
+      issues: read
+    outputs:
+      needed: ${{ steps.plan.outputs.needed }}
+      more_needed: ${{ steps.plan.outputs.more_needed }}
+      matrix: ${{ steps.plan.outputs.matrix }}
+      first_chunk: ${{ steps.plan.outputs.first_chunk }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+      - name: Validate the one-shot request and deterministic guardrails
+        run: |
+          set -euo pipefail
+          node --input-type=module <<'NODE'
+          import assert from 'node:assert/strict';
+          import {readFileSync} from 'node:fs';
+          const r = JSON.parse(readFileSync('gita-sadhana/automation/bulk-request.json','utf8'));
+          assert.equal(r.targetTotalVerses,701);
+          assert.equal(r.mode,'one-shot');
+          assert.equal(r.recurring,false);
+          NODE
+          node --check gita-sadhana/automation/gita-bulk.mjs
+          node gita-sadhana/automation/gita-bulk.mjs self-test
+      - name: Prepare sources, audit history, and partition the remainder
+        id: plan
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          completed="$(node -p "require('./gita-sadhana/gita-progress.json').completedSequentialVerses")"
+          if [ "$completed" = "701" ]; then
+            echo 'needed=false' >> "$GITHUB_OUTPUT"
+            echo 'more_needed=false' >> "$GITHUB_OUTPUT"
+            echo 'matrix={"include":[]}' >> "$GITHUB_OUTPUT"
+            echo 'Archive already reports 701; no new generation requested.' >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          command -v pdftotext >/dev/null 2>&1 || {
+            sudo apt-get update
+            sudo apt-get install -y poppler-utils
+          }
+          node gita-sadhana/automation/source-preflight.mjs
+          node gita-sadhana/automation/gita-bulk.mjs plan
+      - name: Preserve verified source material and preparation evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gita-bulk-source-${{ github.run_id }}
+          path: .bulk-cache/
+          include-hidden-files: true
+          if-no-files-found: warn
+          retention-days: 30
+
+  pilot:
+    name: Validate one complete generation and review cycle
+    needs: prepare
+    if: needs.prepare.outputs.needed == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: read
+      copilot-requests: write
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+      - uses: actions/download-artifact@v4
+        with:
+          name: gita-bulk-source-${{ github.run_id }}
+          path: .bulk-cache
+      - name: Install the existing teacher engine
+        run: npm install -g @github/copilot
+      - name: Generate and independently review the first work unit
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          CHUNK: ${{ needs.prepare.outputs.first_chunk }}
+        run: node gita-sadhana/automation/gita-bulk.mjs worker "$CHUNK"
+      - name: Preserve validated results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gita-bulk-result-${{ needs.prepare.outputs.first_chunk }}-${{ github.run_id }}
+          path: .bulk-cache/results/*.json
+          if-no-files-found: warn
+          retention-days: 30
+      - name: Preserve teacher and reviewer evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gita-bulk-evidence-pilot-${{ github.run_id }}
+          path: .bulk-cache/evidence/
+          include-hidden-files: true
+          if-no-files-found: warn
+          retention-days: 30
+
+  generate:
+    name: Complete remaining work units
+    needs: [prepare, pilot]
+    if: needs.prepare.outputs.more_needed == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: read
+      copilot-requests: write
+    strategy:
+      fail-fast: false
+      max-parallel: 8
+      matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+      - uses: actions/download-artifact@v4
+        with:
+          name: gita-bulk-source-${{ github.run_id }}
+          path: .bulk-cache
+      - name: Install the existing teacher engine
+        run: npm install -g @github/copilot
+      - name: Generate and independently review this work unit
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          CHUNK: ${{ matrix.chunk }}
+        run: node gita-sadhana/automation/gita-bulk.mjs worker "$CHUNK"
+      - name: Preserve validated results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gita-bulk-result-${{ matrix.chunk }}-${{ github.run_id }}
+          path: .bulk-cache/results/*.json
+          if-no-files-found: warn
+          retention-days: 30
+      - name: Preserve teacher and reviewer evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gita-bulk-evidence-${{ matrix.chunk }}-${{ github.run_id }}
+          path: .bulk-cache/evidence/
+          include-hidden-files: true
+          if-no-files-found: warn
+          retention-days: 30
+
+  publish:
+    name: Assemble all 701, publish once, and verify every public file
+    needs: [prepare, pilot, generate]
+    if: >-
+      always() && needs.prepare.result == 'success' &&
+      needs.prepare.outputs.needed == 'true' && needs.pilot.result == 'success' &&
+      (needs.generate.result == 'success' ||
+       (needs.generate.result == 'skipped' && needs.prepare.outputs.more_needed != 'true'))
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    concurrency:
+      group: gita-sadhana-publication
+      cancel-in-progress: false
+    permissions:
+      contents: write
+      issues: write
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: https://yashumani.github.io/gita-sadhana/
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+      - uses: actions/download-artifact@v4
+        with:
+          name: gita-bulk-source-${{ github.run_id }}
+          path: .bulk-cache
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: gita-bulk-result-*-${{ github.run_id }}
+          merge-multiple: true
+          path: .bulk-cache/results
+      - name: Require complete coverage, preserved history, and reviewed content
+        run: node gita-sadhana/automation/gita-bulk.mjs assemble
+      - name: Commit the entire validated release atomically
+        run: |
+          set -euo pipefail
+          git config user.name 'Gita Sadhana Automation'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add gita-sadhana/content/lessons \
+            gita-sadhana/content/manifest.json \
+            gita-sadhana/content/complete-archive.json \
+            gita-sadhana/content/bulk-completion-audit.json \
+            gita-sadhana/gita-progress.json \
+            gita-sadhana/complete-listening-archive.md \
+            gita-sadhana/complete.html
+          git diff --cached --check
+          git commit -m 'Complete Gita Sadhana: all 701 validated sequential lessons'
+          git push origin HEAD:main
+      - name: Request publication using the existing Pages configuration
+        id: pages
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node gita-sadhana/automation/gita-bulk.mjs request-build
+      - name: Package the entire site for custom-workflow Pages
+        if: steps.pages.outputs.custom_pages == 'true'
+        run: |
+          mkdir -p .bulk-site
+          git archive HEAD | tar -x -C .bulk-site
+      - uses: actions/upload-pages-artifact@v4
+        if: steps.pages.outputs.custom_pages == 'true'
+        with:
+          path: .bulk-site
+      - uses: actions/deploy-pages@v4
+        if: steps.pages.outputs.custom_pages == 'true'
+      - name: Verify all 701 live lesson files and the complete archive
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node gita-sadhana/automation/gita-bulk.mjs verify
+      - name: Preserve the release and public verification evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gita-bulk-release-${{ github.run_id }}
+          path: |
+            .bulk-cache/release.json
+            .bulk-cache/verified.json
+            gita-sadhana/content/bulk-completion-audit.json
+          include-hidden-files: true
+          if-no-files-found: warn
+          retention-days: 90
+
+  receipt:
+    name: Record one terminal result, without recurring notifications
+    needs: [prepare, pilot, generate, publish]
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/github-script@v7
+        env:
+          PREPARE_RESULT: ${{ needs.prepare.result }}
+          PILOT_RESULT: ${{ needs.pilot.result }}
+          GENERATE_RESULT: ${{ needs.generate.result }}
+          PUBLISH_RESULT: ${{ needs.publish.result }}
+          GENERATION_NEEDED: ${{ needs.prepare.outputs.needed }}
+        with:
+          script: |
+            const repo = context.repo;
+            const issue_number = 90;
+            const issue = (await github.rest.issues.get({...repo,issue_number})).data;
+            const run = `${context.serverUrl}/${repo.owner}/${repo.repo}/actions/runs/${context.runId}`;
+            let progress = null;
+            try {
+              const f = (await github.rest.repos.getContent({...repo,path:'gita-sadhana/gita-progress.json',ref:'main'})).data;
+              progress = JSON.parse(Buffer.from(f.content,'base64').toString('utf8'));
+            } catch (error) { core.warning(`Could not read current progress: ${error.message}`); }
+            const verified = process.env.PUBLISH_RESULT === 'success';
+            const alreadyComplete = process.env.GENERATION_NEEDED === 'false' && progress?.completedSequentialVerses === 701;
+            const state = verified ? 'Complete and publicly verified: 701 / 701.' :
+              alreadyComplete ? 'No generation needed: repository already reports 701 / 701; this run did not re-verify the deployment.' :
+              'Bulk run did not reach verified completion. Review the linked job and preserved evidence; no completion claim is made.';
+            const header = issue.body.split('\n## Latest bulk run')[0];
+            const body = `${header}\n## Latest bulk run\n\n${state}\n\n[Workflow run](${run})\n\nPrepare: ${process.env.PREPARE_RESULT}; pilot: ${process.env.PILOT_RESULT}; generation: ${process.env.GENERATE_RESULT}; publication: ${process.env.PUBLISH_RESULT}.\n\nRepository progress: ${progress ? `${progress.completedSequentialVerses}/701; next ${progress.nextVerse?.display || 'none'}` : 'unavailable'}.\n\n${verified ? 'Complete archive: https://yashumani.github.io/gita-sadhana/complete.html\n\n' : ''}Recurring ChatGPT check-ins and GitHub schedules remain disabled.\n`;
+            await github.rest.issues.update({...repo,issue_number,body,...(verified ? {state:'closed',state_reason:'completed'} : {})});
+            core.summary.addHeading('Gita bulk completion').addRaw(state).addLink('Workflow evidence',run).write();
