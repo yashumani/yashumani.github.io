@@ -38,14 +38,37 @@ jobs:
             const jobs=await github.paginate(github.rest.actions.listJobsForWorkflowRun,{...context.repo,run_id,per_page:100});
             const fs=require('fs');fs.mkdirSync('.bulk-quota-audit',{recursive:true});
             fs.writeFileSync('.bulk-quota-audit/run.json',JSON.stringify({id:run.id,headSha:run.head_sha,status:run.status,conclusion:run.conclusion,runAttempt:run.run_attempt,jobs:jobs.map(j=>({id:j.id,name:j.name,status:j.status,conclusion:j.conclusion}))},null,2));
-      - name: Preserve every checkpoint, including approved episodes from failed work units
-        uses: actions/download-artifact@v4
+      - name: Fetch every artifact page and preserve all 79 work-unit checkpoints
+        uses: actions/github-script@v7
         with:
-          pattern: gita-bulk-checkpoints-*-37244270287
-          run-id: 37244270287
-          github-token: ${{ github.token }}
-          merge-multiple: false
-          path: .bulk-quota-audit/checkpoints
+          script: |
+            const fs=require('fs'),assert=require('assert/strict');
+            const all=await github.paginate(github.rest.actions.listWorkflowRunArtifacts,{...context.repo,run_id:37244270287,per_page:100});
+            const selected=all.filter(a=>/^gita-bulk-checkpoints-chunk-\d{3}-37244270287$/.test(a.name));
+            assert.equal(selected.length,79,'Refuse an incomplete artifact listing.');
+            fs.mkdirSync('.bulk-quota-audit/archives',{recursive:true});
+            fs.writeFileSync('.bulk-quota-audit/artifact-manifest.json',JSON.stringify(selected.map(a=>({id:a.id,name:a.name,digest:a.digest})),null,2));
+            let cursor=0;
+            async function download(){while(cursor<selected.length){const a=selected[cursor++];assert(!a.expired);
+              const r=await github.rest.actions.downloadArtifact({...context.repo,artifact_id:a.id,archive_format:'zip'});
+              const b=Buffer.from(r.data);assert.equal(b.subarray(0,2).toString(),'PK','Invalid ZIP response');
+              fs.writeFileSync(`.bulk-quota-audit/archives/${a.name}.zip`,b);
+            }}
+            await Promise.all(Array.from({length:4},download));
+            core.info(`Preserved ${selected.length} checkpoint ZIPs from ${all.length} artifacts across all pages.`);
+      - name: Extract checkpoint ZIPs without losing separate work-unit paths
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import zipfile
+          for archive in Path('.bulk-quota-audit/archives').glob('*.zip'):
+              dest=Path('.bulk-quota-audit/checkpoints',archive.stem).resolve()
+              dest.mkdir(parents=True,exist_ok=True)
+              with zipfile.ZipFile(archive) as z:
+                  for name in z.namelist():
+                      assert (dest/name).resolve().is_relative_to(dest),'Unsafe ZIP path'
+                  z.extractall(dest)
+          PY
       - name: Validate and count approved versus unresolved lessons
         env:
           SOURCE_TERMINAL: ${{ steps.source.outputs.terminal }}
@@ -62,6 +85,8 @@ jobs:
           const corpus=await read('gita-sadhana/data/sanskrit-701.json'),byId=new Map(corpus.verses.map(v=>[v.id,v]));
           const published=await read('gita-sadhana/gita-progress.json'),run=await read(`${root}/run.json`);
           const approved=new Map(),episodes=[],candidates=[],failures=[];
+          const inventory=await read(`${root}/artifact-manifest.json`);assert.equal(inventory.length,79);
+          assert.equal((await readdir(`${root}/checkpoints`)).length,79);
           async function walk(dir){let out=[];for(const d of await readdir(dir,{withFileTypes:true})){const f=path.join(dir,d.name);if(d.isDirectory())out.push(...await walk(f));else out.push(f);}return out;}
           for(const f of await walk(`${root}/checkpoints`)) {
             if(!f.endsWith('.json'))continue;
