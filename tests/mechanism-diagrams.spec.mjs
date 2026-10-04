@@ -46,10 +46,13 @@ for (const route of ['/projects/prefrontal-context-layer.html', '/projects/gover
   });
 }
 
+// Project pages that carry a flow showcase, and whether it generates an architecture figure
+// as well as the execution one. prefrontal-context-layer is deliberately absent: it carries a
+// hand-authored inline mechanism diagram instead of a showcase, so it has nothing to redraw.
 const showcaseRoutes = [
   ['agentic-harness-builder', true], ['forkwise-open-source-reviewer', true], ['governed-ai-brain', true],
   ['mangrok-recipe-vault', true], ['where-it-happened', true], ['my-seventh-meal', true],
-  ['prefrontal-context-layer', false], ['agentic-knowledge-runtime', false], ['mlops-solution-accelerator', false]
+  ['agentic-knowledge-runtime', false], ['mlops-solution-accelerator', false]
 ];
 
 for (const [slug, hasArchitectureFigure] of showcaseRoutes) {
