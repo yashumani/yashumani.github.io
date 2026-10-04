@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "GITA_TRANSCRIPTION_REPAIRS_V1",
+  "requestedAt": "2026-10-04",
+  "repairs": [
+    {"id":"bg-02-007","expectedBlobSha":"dad23b579c434ea192a5da0a2f919ea5c83b6a7a","reason":"Remove stray Latin a before पृच्छामि in Sanskrit only."},
+    {"id":"bg-02-047","expectedBlobSha":"9bae8c499e947401d89e8ebb849789b77a6957b5","reason":"Convert literal newline escape to a real line break in Sanskrit and transliteration."},
+    {"id":"bg-02-048","expectedBlobSha":"e0c2a1771c32f64b38a0900654fa546c00fbee00","reason":"Convert literal newline escape to a real line break in Sanskrit and transliteration."}
+  ],
+  "rewriteExplanations": false,
+  "advanceProgress": false
+}
