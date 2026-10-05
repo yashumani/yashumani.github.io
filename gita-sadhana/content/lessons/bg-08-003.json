@@ -1,0 +1,71 @@
+{
+  "id": "bg-08-003",
+  "sequenceNumber": 313,
+  "date": "2026-10-05",
+  "chapter": 8,
+  "verseStart": 3,
+  "verseEnd": 3,
+  "chapterNameSanskrit": "अक्षरब्रह्मयोग",
+  "chapterNameEnglish": "Akṣara Brahma Yoga",
+  "theme": "ब्रह्म, अध्यात्म और कर्म की परिभाषा | Three definitions",
+  "context": "Krishna begins answering Arjuna's questions with Brahman, adhyatma, and karma.",
+  "contextHindi": "अर्जुन के प्रश्नों का उत्तर शुरू करते हुए कृष्ण पहले ब्रह्म, अध्यात्म और कर्म का अर्थ बताते हैं।",
+  "sanskritDevanagari": "श्रीभगवानुवाच |\nअक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते |\nभूतभावोद्भवकरो विसर्गः कर्मसंज्ञितः ||८-३||",
+  "transliteration": "śrībhagavānuvāca .\nakṣaraṃ brahma paramaṃ svabhāvo.adhyātmamucyate .\nbhūtabhāvodbhavakaro visargaḥ karmasaṃjñitaḥ ||8-3||",
+  "wordByWord": [
+    {
+      "term": "अक्षरम्",
+      "meaning": "Imperishable; अविनाशी."
+    },
+    {
+      "term": "परमम्",
+      "meaning": "Supreme; सर्वोच्च."
+    },
+    {
+      "term": "स्वभावः",
+      "meaning": "Own or essential nature, here called adhyatma."
+    },
+    {
+      "term": "विसर्गः",
+      "meaning": "Sending forth or offering, bringing beings into existence."
+    },
+    {
+      "term": "कर्मसंज्ञितः",
+      "meaning": "Designated as action, karma."
+    }
+  ],
+  "spokenHindi": "कृष्ण अब अर्जुन को उत्तर देते हैं। वे ब्रह्म को परम और अक्षर कहते हैं, अर्थात ऐसा सर्वोच्च सत्य जो नष्ट नहीं होता। फिर स्वभाव को अध्यात्म कहते हैं। स्वभाव का सामान्य अर्थ अपनी प्रकृति है; यहाँ यह अध्यात्म की परिभाषा में आया है। इसे केवल हमारा रोज़ का मिज़ाज, पसंद या आदत समझ लेना उचित नहीं होगा। दिए गए संस्करण में इसका संबंध आत्मज्ञान से बताया गया है। तीसरी परिभाषा कर्म की है। प्राणियों की उत्पत्ति और प्रकट होने का कारण बनने वाले विसर्ग को कर्म कहा गया है। स्रोत इसे देवताओं के लिए अर्पण के संदर्भ में समझाता है। इसलिए यहाँ कर्म को केवल नौकरी, अच्छे कामों की सूची या भाग्य का नाम देना इस विशेष वाक्य को छोटा कर देगा। आज हम इन तीन परिभाषाओं को धीरे पढ़ सकते हैं और अपनी पुरानी समझ से तुलना कर सकते हैं। जहाँ अर्थ अभी स्पष्ट न हो, उसे प्रश्न की तरह रहने दें। दर्शन सीखने में तुरंत हर शब्द को निजी अनुभव पर लागू करना आवश्यक नहीं है।",
+  "clearEnglish": "The answer begins with distinctions rather than a general instruction to live well. Brahman is described as supreme and imperishable. Adhyatma is named through svabhava, one's own or essential nature. Karma is specified through visarga, the sending forth or offering that brings beings into existence. The supplied edition renders this last expression in the context of offerings to the gods that manifest and sustain beings. That explanatory rendering should be distinguished from treating karma here as every possible human activity. Likewise, svabhava should not be casually equated with a person's temperament or preferred lifestyle. These definitions belong to Arjuna's precise philosophical inquiry. A contemporary reader can use the verse to examine how familiar words change meaning across contexts. Someone may use karma to mean consequence, work, or fate, but this passage asks us to hear the particular definition Krishna gives. The practical value of such care is modest and concrete: we become less likely to build an argument on a word whose meaning we have silently changed.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna defines Brahman as supreme and imperishable, adhyatma through svabhava, and karma as visarga causing the arising of beings."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Careful study requires retaining these contextual definitions rather than substituting everyday uses of karma or personality."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Keep the definitions",
+      "text": "Write the three definitions in separate lines and mark one point you would like clarified."
+    }
+  ],
+  "reflectionQuestion": "Where does my everyday use of karma differ from its definition here?",
+  "reflectionQuestionHindi": "मैं सामान्य बातचीत में कर्म का जो अर्थ लेता हूँ, वह यहाँ दी गई परिभाषा से कैसे अलग है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

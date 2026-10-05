@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-017",
+  "sequenceNumber": 431,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 17,
+  "verseEnd": 17,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "दुर्निरीक्ष्य तेज / Radiance difficult to behold",
+  "context": "Arjuna describes familiar divine emblems within an immeasurable radiance that is hard to look at.",
+  "contextHindi": "अर्जुन मुकुट, गदा और चक्र के साथ ऐसे असीम तेज का वर्णन करते हैं जिसे देखना कठिन है।",
+  "sanskritDevanagari": "किरीटिनं गदिनं चक्रिणं च\nतेजोराशिं सर्वतो दीप्तिमन्तम् |\nपश्यामि त्वां दुर्निरीक्ष्यं समन्ताद्\nदीप्तानलार्कद्युतिमप्रमेयम् ||११-१७||",
+  "transliteration": "kirīṭinaṃ gadinaṃ cakriṇaṃ ca tejorāśiṃ sarvato dīptimantam .\npaśyāmi tvāṃ durnirīkṣyaṃ samantād dīptānalārkadyutimaprameyam ||11-17||",
+  "wordByWord": [
+    {
+      "term": "किरीटिनम्",
+      "meaning": "wearing a crown"
+    },
+    {
+      "term": "गदिनम् चक्रिणम्",
+      "meaning": "bearing mace and discus"
+    },
+    {
+      "term": "दुर्निरीक्ष्यम्",
+      "meaning": "hard to behold"
+    },
+    {
+      "term": "अप्रमेयम्",
+      "meaning": "immeasurable"
+    }
+  ],
+  "spokenHindi": "अर्जुन कृष्ण को मुकुट, गदा और चक्र के साथ देखते हैं, पर परिचित चिह्नों के पीछे हर ओर चमकता तेज है। वह अग्नि और सूर्य की तरह दीप्त है, देखना कठिन और माप से परे। गदा और चक्र अलग दिव्य आयुध हैं; उन्हें एक दूसरे की जगह नहीं कहना चाहिए। दुर्निरीक्ष्य बताता है कि दर्शन सहज देखने की तरह नहीं है। पिछले श्लोक की असीमता अब तीव्र चमक की भाषा में आती है। यह अर्जुन का वर्णन है, हमें रोशनी को सहन करने का अभ्यास करने का निर्देश नहीं। कोई दृश्य या पाठ मन पर अधिक जोर डाल रहा हो तो उससे विराम लेना साधारण जीवन में उचित हो सकता है। यह आधुनिक अनुप्रयोग है। परिचित प्रतीक भी कभी ऐसी बड़ी बात में आते हैं जिसे हमारी पहले की समझ नहीं समेटती। आज किसी परिचित शब्द का नया संदर्भ देखते हुए रुकें और पूछें कि मैं वास्तव में क्या पहचान रहा हूँ, और क्या अभी समझ से बाहर है। देखने में कठिनाई अपने आप असफलता नहीं बनती; इस कथा में वह स्वयं दृश्य का हिस्सा है।",
+  "clearEnglish": "The crown, mace and discus are recognizable divine emblems, yet Arjuna's description does not stop with recognition. He sees a mass of radiance shining everywhere, like blazing fire and the sun, difficult to behold and immeasurable. Familiar symbols appear inside a scene that exceeds familiar viewing. Durnirikshya is an important qualification: this is not portrayed as an effortless pleasant spectacle. The mace and discus remain distinct objects, while the light images convey intensity rather than a practical recommendation about exposure. A modern listener should not attempt to imitate the scene by looking into bright light or forcing discomfort. A modest inference concerns the limits of a familiar framework. When an idea contains recognizable terms but still exceeds one's understanding, pause and identify what has actually been grasped. One need not pretend the whole subject is clear because some symbols are known. The verse records Arjuna's perception of divine splendour and difficulty; our learning exercise only gives a careful way to acknowledge partial recognition.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna sees crown, mace and discus within a radiance difficult to behold and impossible to measure."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Partial recognition can be acknowledged without forcing understanding; no intense-light exercise is instructed."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Identify partial recognition",
+      "text": "Choose a passage with familiar terms. Name what you recognize and one feature you do not yet understand, then pause before further study."
+    }
+  ],
+  "reflectionQuestion": "Do familiar symbols make me claim more understanding than I have?",
+  "reflectionQuestionHindi": "क्या परिचित चिह्न देखकर मैं अपनी वास्तविक समझ से अधिक दावा करने लगता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

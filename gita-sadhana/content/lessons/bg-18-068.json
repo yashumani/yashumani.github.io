@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-068",
+  "sequenceNumber": 691,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 68,
+  "verseEnd": 68,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Sharing sacred teaching with devotion / भक्ति से शिक्षा बाँटना",
+  "context": "Krishna follows the caution about unsuitable listeners with a promise concerning one who teaches devoted listeners.",
+  "contextHindi": "किसे न बताना चाहिए, यह कहने के बाद कृष्ण भक्त श्रोताओं को सिखाने वाले की बात करते हैं।",
+  "sanskritDevanagari": "य इदं परमं गुह्यं मद्भक्तेष्वभिधास्यति |\nभक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः ||१८-६८||",
+  "transliteration": "ya idaṃ paramaṃ guhyaṃ madbhakteṣvabhidhāsyati .\nbhaktiṃ mayi parāṃ kṛtvā māmevaiṣyatyasaṃśayaḥ ||18-68||",
+  "wordByWord": [
+    {
+      "term": "paramaṃ guhyam",
+      "meaning": "this supreme or most intimate teaching"
+    },
+    {
+      "term": "madbhakteṣu",
+      "meaning": "among my devotees"
+    },
+    {
+      "term": "abhidhāsyati",
+      "meaning": "will explain or declare"
+    },
+    {
+      "term": "parāṃ bhaktim",
+      "meaning": "highest devotion"
+    },
+    {
+      "term": "asaṃśayaḥ",
+      "meaning": "without doubt"
+    }
+  ],
+  "spokenHindi": "अब बात उलटती है। जहाँ पिछले श्लोक में कृष्ण ने अनिच्छुक श्रोता के सामने यह शिक्षा न रखने को कहा, यहाँ वे उस व्यक्ति की बात करते हैं जो इसे उनके भक्तों को बताएगा। वह स्वयं कृष्ण में परम भक्ति रखता है और, कृष्ण के वचन के अनुसार, निस्संदेह उन्हें प्राप्त होगा। परमं गुह्यम् का भाव बहुत गहरी या अंतरंग शिक्षा का है; इसे रहस्य बेचने वाली चीज़ न समझें। मद्भक्तेषु बताता है कि श्रोता कौन हैं। बताने वाले की भक्ति भी स्पष्ट कही गई है, इसलिए केवल तेज बोलना, बहुत अनुयायी जुटाना, या अपनी प्रसिद्धि बढ़ाना इस श्लोक का केंद्र नहीं है। हम अपने समय में इससे सीख सकते हैं कि कोई भी गहरी बात साझा करते समय सही श्रोता, सही उद्देश्य और अपनी समझ की सीमा पहचानें। यह अनुप्रयोग है, कृष्ण के वचन की नई शर्त नहीं। यदि हमें किसी शब्द का अर्थ पक्का नहीं मालूम, तो ईमानदारी से कहें। किसी पर विश्वास थोपने के बजाय साझा अध्ययन का निमंत्रण देना अधिक सम्मानजनक हो सकता है।",
+  "clearEnglish": "The previous verse restrained transmission; this one honors it when the setting is fitting. Krishna speaks of a person who explains this supreme secret among his devotees, with supreme devotion directed toward him. He promises that such a person will reach him without doubt. The audience and the teacher's orientation both appear in the actual sentence. It is therefore too thin to reduce the verse to a reward for public speaking, recruiting followers, or winning an argument. The word guhyam marks profound, inward teaching; it does not by itself license manufactured mysteries or claims of exclusive access. The promise is Krishna's devotional claim. A modern application is to teach only what one has studied carefully, admit uncertainty, and allow willing listeners to question the explanation. That is an ethical inference, not a new translation of the verse. Since the preceding warning concerns unwilling listeners, a respectful invitation is more coherent than pressure. Sharing can become an act of care when fidelity to the teaching and care for the listener remain together.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna promises that one who explains this supreme teaching to his devotees with highest devotion to him will come to him."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Careful, humble teaching with a willing audience can honor the relationship described; prestige seeking is not named as its aim."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Share with care / सोचकर बाँटें",
+      "text": "If someone invites a spiritual explanation, give one source grounded point and say plainly where your understanding ends."
+    }
+  ],
+  "reflectionQuestion": "When I share something sacred, am I serving the listener or seeking recognition?",
+  "reflectionQuestionHindi": "जब मैं कोई प्रिय आध्यात्मिक बात बाँटता या बाँटती हूँ, मेरा ध्यान श्रोता पर है या अपनी पहचान पर?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

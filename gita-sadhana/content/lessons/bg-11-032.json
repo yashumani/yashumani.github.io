@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-032",
+  "sequenceNumber": 446,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 32,
+  "verseEnd": 32,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "काल का उत्तर / The reply as Time",
+  "context": "Krishna answers Arjuna by identifying himself as world-destroying Time and speaks specifically of the warriors in the opposing armies.",
+  "contextHindi": "कृष्ण उत्तर देते हैं कि वे लोकक्षय करने वाला काल हैं और युद्ध में खड़े योद्धाओं के अंत की बात कहते हैं।",
+  "sanskritDevanagari": "श्रीभगवानुवाच |\nकालोऽस्मि लोकक्षयकृत्प्रवृद्धो\nलोकान्समाहर्तुमिह प्रवृत्तः |\nऋतेऽपि त्वां न भविष्यन्ति सर्वे\nयेऽवस्थिताः प्रत्यनीकेषु योधाः ||११-३२||",
+  "transliteration": "śrībhagavānuvāca .\nkālo.asmi lokakṣayakṛtpravṛddho lokānsamāhartumiha pravṛttaḥ .\nṛte.api tvāṃ na bhaviṣyanti sarve ye.avasthitāḥ pratyanīkeṣu yodhāḥ ||11-32||",
+  "wordByWord": [
+    {
+      "term": "कालः अस्मि",
+      "meaning": "I am Time"
+    },
+    {
+      "term": "लोकक्षयकृत्",
+      "meaning": "maker of the destruction of worlds"
+    },
+    {
+      "term": "ऋते अपि त्वाम्",
+      "meaning": "even without you"
+    },
+    {
+      "term": "प्रत्यनीकेषु योधाः",
+      "meaning": "warriors in opposing armies"
+    }
+  ],
+  "spokenHindi": "अब कृष्ण बोलते हैं: वे प्रबल लोकक्षयकारी काल हैं, जो लोकों को समेटने में प्रवृत्त है। फिर अर्जुन से कहते हैं कि तुम्हारे बिना भी विरोधी सेनाओं में खड़े ये योद्धा नहीं रहेंगे। कालोऽस्मि का संदर्भ अर्जुन के सामने विश्वरूप और कुरुक्षेत्र का युद्ध है। इसे किसी व्यक्ति की निजी हिंसक योजना का दिव्य प्रमाण बनाना अनुचित होगा। श्लोक अपने कठोर कथन को स्पष्ट रखता है; हम उसे केवल समय का सदुपयोग करो जैसी छोटी सलाह में बदलकर पूरा अर्थ नहीं दे सकते। साथ ही कथा का यह दावा हर आज की घटना का परिणाम हमें पहले से जान लेने की क्षमता नहीं देता। हमारा सीमित चिंतन जीवन के उस पक्ष पर हो सकता है जिस पर हमारा नियंत्रण नहीं है। सीमित होना जिम्मेदारी से मुक्त होना नहीं। बीमारी, संकट या हिंसा का वास्तविक जोखिम हो तो सहायता और रोकथाम के उचित काम बने रहते हैं। इस दृश्य में कृष्ण अर्जुन के प्रश्न का उत्तर देते हैं; उससे प्रेरित हमारी आधुनिक सीख विनम्रता हो सकती है, दूसरों को हानि का अधिकार नहीं।",
+  "clearEnglish": "Krishna's answer is severe and specific. He identifies himself as mighty world-destroying Time, engaged in gathering the worlds, and says the warriors standing in the opposing armies will not remain even without Arjuna. The claim belongs to the cosmic vision on the battlefield. It should neither be diluted into a simple productivity slogan nor generalized into permission for a person's violent plans. Time's destructive aspect is central to the scene. Yet the verse does not give modern readers advance certainty about the outcome of every conflict or crisis. A limited inference concerns the limits of individual control. Recognizing those limits can encourage humility while leaving care, prevention and accountability intact. If an actual risk to life exists, appropriate help is not made pointless by this passage. The difference between the narrated divine declaration and ordinary ethical action must remain visible. Krishna answers Arjuna's question about the fierce form; our application is an awareness of finitude, not a mandate to become an agent of destruction.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies himself as world-destroying Time and predicts the end of warriors in the opposing armies even without Arjuna."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Awareness of limited control does not authorize harm or cancel prevention and assistance in present life."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Act within a limit",
+      "text": "Name one outcome beyond your control and one responsible action still available, especially care or prevention where a real risk exists."
+    }
+  ],
+  "reflectionQuestion": "How can I acknowledge limits while remaining responsible for my actions?",
+  "reflectionQuestionHindi": "सीमाएँ स्वीकार करते हुए अपने कामों की जिम्मेदारी कैसे बनाए रख सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

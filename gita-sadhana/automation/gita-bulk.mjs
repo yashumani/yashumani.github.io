@@ -32,7 +32,9 @@ const normalText = s => String(s).normalize('NFC').replace(/[\s\p{P}\p{N}]/gu,''
 // Read-only compatibility bridge to the existing, pinned and self-tested validator.
 // No existing repository source is modified. Unexpected upstream edits fail closed.
 async function core() {
-  const source = await readFile(`${SITE}/automation/gita-automation.mjs`,'utf8');
+  // Normalize checkout line endings before hashing/importing so the pinned
+  // Git blob is verified identically on Windows and Linux.
+  const source = (await readFile(`${SITE}/automation/gita-automation.mjs`,'utf8')).replace(/\r\n/g,'\n');
   const blob = createHash('sha1').update(`blob ${Buffer.byteLength(source)}\0`).update(source).digest('hex');
   assert.equal(blob,LEGACY_BLOB,'Legacy validator changed; review the bridge before proceeding.');
   const cut = source.lastIndexOf('\nmain().catch(error => {');

@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-031",
+  "sequenceNumber": 654,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 31,
+  "verseEnd": 31,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "धर्म को गलत समझना / Incorrect ethical discernment",
+  "context": "Krishna describes rajasic intellect as incorrectly understanding dharma, adharma, and what should and should not be done.",
+  "contextHindi": "कृष्ण धर्म, अधर्म और करने-न-करने को ठीक तरह न समझने वाली बुद्धि को राजसिक बताते हैं।",
+  "sanskritDevanagari": "यया धर्ममधर्मं च कार्यं चाकार्यमेव च |\nअयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी ||१८-३१||",
+  "transliteration": "yayā dharmamadharmaṃ ca kāryaṃ cākāryameva ca .\nayathāvatprajānāti buddhiḥ sā pārtha rājasī ||18-31||",
+  "wordByWord": [
+    {
+      "term": "dharmam",
+      "meaning": "Dharma; right conduct or order in context"
+    },
+    {
+      "term": "adharmam",
+      "meaning": "Adharma; its opposite"
+    },
+    {
+      "term": "ayathāvat",
+      "meaning": "Not correctly or not as they are"
+    },
+    {
+      "term": "prajānāti",
+      "meaning": "Understands or recognizes"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि धर्म और अधर्म तथा करने और न करने को ठीक तरह न समझने वाली बुद्धि राजसिक है। यह अभी पूरी तरह उलटा मान लेने का वर्णन नहीं; वह आगे आएगा। यहां समझ का गलत होना केंद्र में है। हम कभी लाभ की इच्छा से किसी नियम का ऐसा अर्थ निकालते हैं जो अपने पक्ष में सुविधाजनक हो। यह आधुनिक उदाहरण है। स्रोत की टिप्पणी धर्म को शास्त्र में निर्धारित दिशा और अधर्म को अज्ञान की ओर गिराने वाला बताती है। वह स्वामी शिवानन्द की व्याख्या है; शब्दों का अर्थ केवल अपनी पसंद से तय करने का आधार नहीं। आज कोई फैसला देखें जिसे आपने सही कहा है। उसके लिए प्रमाण क्या है और कौन सा तथ्य आपके पक्ष को कमजोर कर सकता है? वह तथ्य खोजने की जगह रखें। जरूरत हो तो योग्य स्रोत या निष्पक्ष व्यक्ति से समझ लें। गलती समझ में आई तो संशोधन करना कमजोरी नहीं। राजसिक दिशा की जांच अपने तर्क को अधिक ईमानदार बनाने के लिए हो, दूसरों को तुरंत गलत घोषित करने के लिए नहीं।",
+  "clearEnglish": "Krishna calls intellect rajasic when it incorrectly understands dharma and adharma, and what ought and ought not to be done. The wording concerns inaccurate discernment; the outright reversal described in the next verse should not be silently imported here. A contemporary example is interpreting a rule conveniently because a desired benefit is at stake. That example is an inference rather than the full definition. In the supplied commentary, Sivananda explains dharma through scriptural prescription and adharma through movement into ignorance. The explanatory addition belongs to the named commentary, not to a reader's arbitrary preference. Examine one decision you have defended as right. What evidence supports it, and what relevant fact might require revision? Seek that fact rather than excluding it in advance. Consulting a competent source can be appropriate where the issue exceeds your understanding. Revising a judgement after learning is not a loss of integrity. It can be the action that distinguishes careful discernment from a merely convenient argument.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies intellect that incorrectly understands dharma/adharma and duty/non-duty as rajasic."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Seeking evidence that might revise a convenient judgement is a modern application, distinct from the supplied commentary's explanation."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Invite a correcting fact",
+      "text": "For one defended decision, identify a relevant fact that could change your judgement and investigate it."
+    }
+  ],
+  "reflectionQuestion": "What evidence would I allow to correct this judgement?",
+  "reflectionQuestionHindi": "इस फैसले को सुधारने के लिए मैं कौन सा प्रमाण स्वीकार करूँगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

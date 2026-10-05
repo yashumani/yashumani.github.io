@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-018",
+  "sequenceNumber": 613,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 18,
+  "verseEnd": 18,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "सम्मान के लिए तप / Discipline for recognition",
+  "context": "Krishna describes austerity aimed at honour, reception, worship, and display as rajasic and unstable.",
+  "contextHindi": "कृष्ण आदर, प्रतिष्ठा, पूजा और दिखावे के लिए किए तप को राजसिक और अस्थिर बताते हैं।",
+  "sanskritDevanagari": "सत्कारमानपूजार्थं तपो दम्भेन चैव यत् |\nक्रियते तदिह प्रोक्तं राजसं चलमध्रुवम् ||१७-१८||",
+  "transliteration": "satkāramānapūjārthaṃ tapo dambhena caiva yat .\nkriyate tadiha proktaṃ rājasaṃ calamadhruvam ||17-18||",
+  "wordByWord": [
+    {
+      "term": "satkāra",
+      "meaning": "Good reception or respectful treatment"
+    },
+    {
+      "term": "māna",
+      "meaning": "Honour"
+    },
+    {
+      "term": "pūjārtham",
+      "meaning": "For the purpose of being honoured or worshipped"
+    },
+    {
+      "term": "calam adhruvam",
+      "meaning": "Unstable and impermanent"
+    }
+  ],
+  "spokenHindi": "कृष्ण ऐसे तप को राजसिक कहते हैं जो आदर, मान, पूजा या दिखावे के लिए किया जाता है। उसका स्वभाव चल और अध्रुव, यानी अस्थिर और टिकाऊ न होना बताया गया है। यदि अभ्यास की ऊर्जा केवल लोगों की प्रतिक्रिया से आती है, तो प्रतिक्रिया बदलते ही अभ्यास डगमगा सकता है। यह संबंध एक आधुनिक समझ है; श्लोक मूलतः उद्देश्य और अस्थिरता बताता है। सम्मान अच्छा लगना स्वाभाविक हो सकता है, लेकिन वह काम की शर्त बन जाए तो प्रेरणा बदलती है। हम कभी अपने अनुशासन का विवरण इसलिए देते हैं कि दूसरों को मदद मिले, कभी केवल अपनी छवि बढ़ाने के लिए। दोनों में फर्क देखने का अधिकार पहले अपने भीतर है। आज कोई छोटा अभ्यास बिना घोषणा किए करें। उसके बाद देखें कि काम का मूल्य बना रहा या भीतर तुरंत किसी दर्शक की जरूरत उठी। इस निरीक्षण को दोष के रूप में न लें। इससे पता चलता है कि अभ्यास को सहारा कहाँ से मिलता है। उद्देश्य की स्पष्टता प्रशंसा बदलने पर भी उसे संभाल सकती है।",
+  "clearEnglish": "Krishna calls austerity rajasic when it seeks good reception, honour, worship, or display, and describes it as unstable and impermanent. The verse makes recognition part of the motive rather than the harmless aftermath of an act. A modern inference is that discipline dependent on applause may weaken when attention moves elsewhere. That does not mean every public account of practice is corrupt; sharing can sometimes teach or encourage. The question is whether the practice remains worthwhile without an audience. We cannot establish another person's motive from visibility alone. For your own experiment, undertake one small beneficial discipline quietly, without announcement. Afterwards, notice the urge to report it. Is that urge serving a useful purpose, or does the act feel incomplete until it is admired? Answer without self-condemnation. The observation can reveal a support that is too fragile to carry a lasting commitment. Returning to the purpose of the practice may provide steadier motivation than trying to secure a permanent stream of praise.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies austerity seeking reception, honour, worship, and display as rajasic, unstable, and impermanent."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A quiet practice can help examine dependence on recognition; publicity alone does not prove another's motive."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "A quiet practice",
+      "text": "Do one small beneficial discipline without announcing it, then observe whether recognition feels necessary."
+    }
+  ],
+  "reflectionQuestion": "Would I keep this practice if nobody noticed it?",
+  "reflectionQuestionHindi": "कोई ध्यान न दे तो क्या मैं यह अभ्यास जारी रखूँगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-026",
+  "sequenceNumber": 621,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 26,
+  "verseEnd": 26,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "सत् का अर्थ / Reality, goodness, and worthy action",
+  "context": "Krishna explains uses of Sat in relation to reality, goodness, and commendable action.",
+  "contextHindi": "कृष्ण सत् शब्द का प्रयोग अस्तित्व, अच्छाई और प्रशंसनीय कर्म के अर्थ में बताते हैं।",
+  "sanskritDevanagari": "सद्भावे साधुभावे च सदित्येतत्प्रयुज्यते |\nप्रशस्ते कर्मणि तथा सच्छब्दः पार्थ युज्यते ||१७-२६||",
+  "transliteration": "sadbhāve sādhubhāve ca sadityetatprayujyate .\npraśaste karmaṇi tathā sacchabdaḥ pārtha yujyate ||17-26||",
+  "wordByWord": [
+    {
+      "term": "sadbhāve",
+      "meaning": "In the sense of being or reality"
+    },
+    {
+      "term": "sādhubhāve",
+      "meaning": "In the sense of goodness"
+    },
+    {
+      "term": "praśaste karmaṇi",
+      "meaning": "In commendable or auspicious action"
+    },
+    {
+      "term": "sat",
+      "meaning": "Being, reality, goodness"
+    }
+  ],
+  "spokenHindi": "कृष्ण सत् शब्द के प्रयोग को समझाते हैं। वह अस्तित्व या वास्तविकता, अच्छाई और प्रशंसनीय कर्म के अर्थ में आता है। इससे पवित्र शब्द का अर्थ केवल ध्वनि तक सीमित नहीं रहता। शब्द किस बात की ओर इशारा करता है, यह समझना जरूरी होता है। सत् का नाम लेकर किसी भी काम को अच्छा घोषित कर देना इस श्लोक की शिक्षा नहीं है। कर्म में प्रशंसनीयता की बात अलग जांच मांगती है। आधुनिक अभ्यास के रूप में हम अपने किसी अच्छे कहलाने वाले काम की वास्तविकता देखें। जो कहा गया था, क्या वही हुआ? जिससे लाभ का दावा किया, क्या उसे सचमुच लाभ मिला? ये प्रश्न श्लोक की अतिरिक्त परिभाषा नहीं, जिम्मेदार अनुप्रयोग हैं। आज कोई एक वचन या सेवा चुनें। उसके बारे में तथ्य और अच्छी छवि को अलग करें। जहाँ अधूरा है, साफ स्वीकारें और छोटा सुधार करें। अच्छाई का शब्द अधिक ईमानदार तब लगता है जब उसे वास्तविक व्यवहार का सहारा मिले। अध्ययन हमें अपने शब्दों को कर्म के प्रति जवाबदेह रखने में मदद कर सकता है।",
+  "clearEnglish": "Krishna explains that Sat is used in the senses of being or reality and goodness, and also in relation to a commendable or auspicious act. The verse is partly an account of sacred language. A meaningful expression points beyond its sound to what it denotes. It does not establish that attaching the word Sat to an action automatically makes the action good. A contemporary application can therefore ask whether a favourable description has a basis in reality. Did a promised service occur, and did the claimed benefit reach someone? Those questions are practical extensions rather than a complete philosophical definition of Sat. Examine one act you have described as helpful. Separate what is known from the image you hoped to present. If there is a gap, acknowledge it and make an appropriate correction. This small exercise joins truthful description with ethical intention. Sacred vocabulary is used more carefully when it does not become a substitute for attending to the act itself.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna explains Sat as used for reality, goodness, and commendable or auspicious action."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Checking whether a favourable description matches an act's reality is a modern application of careful language."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Check the good description",
+      "text": "Review one act called helpful and verify what actually happened; correct any overstated claim."
+    }
+  ],
+  "reflectionQuestion": "What real evidence supports my description of this act as good?",
+  "reflectionQuestionHindi": "इस काम को अच्छा कहने के पीछे कौन सा वास्तविक प्रमाण है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

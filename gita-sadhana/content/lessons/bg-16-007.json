@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-007",
+  "sequenceNumber": 578,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 7,
+  "verseEnd": 7,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "क्या करना, क्या रोकना / Action and restraint",
+  "context": "Krishna begins the detailed demoniacal description with failure to distinguish appropriate action and restraint.",
+  "contextHindi": "कृष्ण आसुरी स्वभाव का विस्तार करते हुए उचित काम और उससे रुकने का विवेक बताते हैं।",
+  "sanskritDevanagari": "प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः |\nन शौचं नापि चाचारो न सत्यं तेषु विद्यते ||१६-७||",
+  "transliteration": "pravṛttiṃ ca nivṛttiṃ ca janā na vidurāsurāḥ .\nna śaucaṃ nāpi cācāro na satyaṃ teṣu vidyate ||16-7||",
+  "wordByWord": [
+    {
+      "term": "pravṛttim",
+      "meaning": "Engagement; what should be undertaken here"
+    },
+    {
+      "term": "nivṛttim",
+      "meaning": "Restraint; what should be refrained from"
+    },
+    {
+      "term": "śaucam",
+      "meaning": "Purity"
+    },
+    {
+      "term": "ācāraḥ",
+      "meaning": "Conduct"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि आसुरी स्वभाव वाले लोग नहीं जानते कि क्या करना चाहिए और किस काम से रुकना चाहिए। उनमें शुद्धता, उचित आचरण और सत्य का अभाव बताया गया है। यह केवल कुछ नियम न जानने की बात नहीं लगती। पूरे वर्णन में इच्छा और अहंकार निर्णय की दिशा बिगाड़ते हैं। इसलिए बहुत जानकारी होते हुए भी व्यक्ति जरूरी रुकावट नहीं स्वीकारता। प्रवृत्ति और निवृत्ति को साथ पढ़ना उपयोगी है। हर अवसर लेना जरूरी नहीं; हर कठिन जिम्मेदारी छोड़ना भी सही नहीं। किसी काम की शुरुआत से पहले उसके लाभ के साथ दूसरों पर असर देखना एक आधुनिक अभ्यास हो सकता है। यहाँ शौच को किसी समुदाय की कथित अशुद्धता से जोड़ने का आधार नहीं है। कृष्ण स्वभाव और आचरण का वर्णन कर रहे हैं। आज जिस काम में आप उलझे हैं, उसके लिए दो साफ वाक्य लिखें: मुझे क्या करना है, और मुझे किस तरीके से बचना है। इससे अस्पष्ट अच्छी इच्छा वास्तविक नैतिक सीमा में बदल सकती है।",
+  "clearEnglish": "The first detailed description concerns the inability to distinguish what to undertake from what to avoid. Krishna adds the absence of purity, right conduct, and truth. This combination makes ethical discernment more substantial than technical competence. Knowing how to accomplish something does not settle whether it should be accomplished or by what means. In a modern workplace, a profitable shortcut may still involve concealment or harm. That example is an application, while the verse itself gives a broader moral diagnosis of the demoniacal disposition. The terms engagement and restraint should be held together. Responsible action can require beginning a difficult duty, and responsible restraint can require refusing an attractive opportunity. Purity here should not be converted into a judgement about the spiritual worth of a social group. Concentrate on the conduct being described. Before one consequential task, write both a positive intention and a limit on the methods you will use. Truth becomes easier to protect when the boundary is explicit.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says the demoniacal do not know what to do or refrain from and lack purity, conduct, and truth."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Writing an intention together with a limit translates the action/restraint distinction into a modern decision aid."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Intention and limit",
+      "text": "For one task, write what you will do and one harmful shortcut you will refuse."
+    }
+  ],
+  "reflectionQuestion": "Which attractive shortcut would violate the purpose of my task?",
+  "reflectionQuestionHindi": "कौन सा आकर्षक आसान रास्ता मेरे काम के उद्देश्य को नुकसान पहुँचाएगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

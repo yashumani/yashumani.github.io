@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-016",
+  "sequenceNumber": 430,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 16,
+  "verseEnd": 16,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "सीमा का न दिखना / No boundary in view",
+  "context": "Arjuna describes countless bodily features and says he sees no beginning, middle or end of the cosmic form.",
+  "contextHindi": "अर्जुन अनेक अंगों वाला अनंत रूप देखते हैं और कहते हैं कि उसका आदि, मध्य या अंत दिखाई नहीं देता।",
+  "sanskritDevanagari": "अनेकबाहूदरवक्त्रनेत्रं\nपश्यामि त्वां सर्वतोऽनन्तरूपम् |\nनान्तं न मध्यं न पुनस्तवादिं\nपश्यामि विश्वेश्वर विश्वरूप ||११-१६||",
+  "transliteration": "anekabāhūdaravaktranetraṃ paśyāmi tvāṃ sarvato.anantarūpam .\nnāntaṃ na madhyaṃ na punastavādiṃ paśyāmi viśveśvara viśvarūpa ||11-16||",
+  "wordByWord": [
+    {
+      "term": "अनन्तरूपम्",
+      "meaning": "of boundless form"
+    },
+    {
+      "term": "अनेकबाहूदरवक्त्रनेत्रम्",
+      "meaning": "with many arms, bellies, mouths and eyes"
+    },
+    {
+      "term": "विश्वेश्वर",
+      "meaning": "Lord of the universe"
+    },
+    {
+      "term": "विश्व रूप",
+      "meaning": "cosmic form"
+    }
+  ],
+  "spokenHindi": "अर्जुन कहते हैं कि वे हर ओर अनेक भुजाओं, उदरों, मुखों और नेत्रों वाला अनंत रूप देख रहे हैं। उन्हें उसका अंत नहीं दिखाई देता, मध्य नहीं और आरंभ भी नहीं। यह उनकी दृष्टि से कहा हुआ वर्णन है। पहले कृष्ण ने जीवन के आरंभ, मध्य और अंत का आधार होने की बात कही थी; यहाँ अर्जुन किसी सीमित आकृति की तरह विश्वरूप की सीमा खोज नहीं पा रहे। एक परिचित वस्तु में हम किनारा देखकर आकार समझ लेते हैं। इस दृश्य में वही आदत पर्याप्त नहीं पड़ती। विश्वेश्वर और विश्वरूप कृष्ण के संबोधन हैं। श्लोक हमें अपने किसी छोटे प्रश्न को कभी हल न हो सकने वाला घोषित करने को नहीं कहता। उसका विषय असीम दिव्य दर्शन है। हमारा सीमित चिंतन समझ की वर्तमान सीमा पहचानना हो सकता है। जटिल विषय में जितना देखा है उतना कहें, और अज्ञात हिस्सा ईमानदारी से खुला रखें। इससे काम का छोटा अगला कदम फिर भी चुना जा सकता है। असीम का अनुभव और साधारण अधूरी जानकारी अलग चीजें हैं, लेकिन विनम्र भाषा दोनों में उपयोगी हो सकती है।",
+  "clearEnglish": "Arjuna reports a boundless form on every side, with many arms, bellies, mouths and eyes. He cannot see its end, middle or beginning. The statement concerns the scope of the vision from his standpoint. It is not a diagram of a normal object whose edges could eventually be measured. The familiar habit of locating a boundary in order to understand a shape fails before the cosmic form. The addresses Lord of the universe and cosmic form identify whom he is speaking to. This should not be converted into a rule that ordinary problems are inherently unknowable. Their incomplete evidence is different from the divine limitlessness described here. A useful application is nevertheless modesty about the reach of a current account. State what has been seen or understood and leave the rest open without filling it with guesses. A bounded next step may still be possible. The text presents Arjuna's encounter with an immeasurable extent; our exercise only concerns honest speech about the limits of ordinary knowledge.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna describes a boundless many-featured form and sees no beginning, middle or end."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Honesty about current limits is an application; ordinary incomplete information is not identical to divine limitlessness."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "State the reach of an account",
+      "text": "For one complex topic, write what your evidence covers and what it does not. Choose one reasonable next inquiry rather than filling the gap with certainty."
+    }
+  ],
+  "reflectionQuestion": "Where am I describing more than my evidence actually reaches?",
+  "reflectionQuestionHindi": "मैं कहाँ अपने साक्ष्य की पहुँच से अधिक बात कह रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

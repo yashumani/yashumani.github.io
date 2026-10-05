@@ -1,0 +1,67 @@
+{
+  "id": "bg-14-015",
+  "sequenceNumber": 539,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 15,
+  "verseEnd": 15,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "Attachment carried into further birth / आगे के जन्म की दिशा",
+  "context": "Krishna contrasts the stated rebirth consequences of rajas and tamas with those of sattva.",
+  "contextHindi": "कृष्ण अब मृत्यु में रज और तम के प्रभाव के अनुसार आगे के जन्म की दिशा बताते हैं।",
+  "sanskritDevanagari": "रजसि प्रलयं गत्वा कर्मसङ्गिषु जायते |\nतथा प्रलीनस्तमसि मूढयोनिषु जायते ||१४-१५||",
+  "transliteration": "rajasi pralayaṃ gatvā karmasaṅgiṣu jāyate .\ntathā pralīnastamasi mūḍhayoniṣu jāyate ||14-15||",
+  "wordByWord": [
+    {
+      "term": "karmasaṅgiṣu",
+      "meaning": "among those attached to action"
+    },
+    {
+      "term": "pralīnaḥ",
+      "meaning": "having died or dissolved"
+    },
+    {
+      "term": "mūḍhayoniṣu",
+      "meaning": "in births marked by delusion or lack of understanding"
+    },
+    {
+      "term": "jāyate",
+      "meaning": "is born; जन्म लेता है"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि रज में मृत्यु पाने वाला कर्म की आसक्ति वाले लोगों के बीच जन्म लेता है, और तम में शरीर छोड़ने वाला मूढ़ योनियों में जन्म लेता है। यह श्लोक जन्म के आगे बढ़ते क्रम और गुणों के संबंध पर धार्मिक कथन करता है। ‘मूढ़’ को समझ की धुँधली स्थिति के संदर्भ में सुनें; इससे किसी जीव, समुदाय, विकलांग व्यक्ति या परिवार को अपमानित करने की अनुमति नहीं मिलती। दिए गए अनुवाद में भी तम की गति को समझहीनता से जोड़ा गया है। पाठ यहाँ किसी सामाजिक पहचान की सूची नहीं देता। हम किसी के जन्म की परिस्थितियाँ देखकर उसके पिछले कर्म या गुण का निश्चित फैसला नहीं सुना सकते। अपने लिए एक सीमित अनुप्रयोग है कि लगातार पोसी गई आसक्ति किस तरह आगे की आदतों को प्रभावित करती है। यह आदत वाला उदाहरण पुनर्जन्म के कथन का स्थानापन्न नहीं है। आज कोई दोहरती चाह पहचानें और उसके आगे एक शांत, जिम्मेदार विकल्प रखें। अभ्यास आत्मनिरीक्षण का है, दूसरों की निंदा का नहीं।",
+  "clearEnglish": "The contrast continues into rebirth. Krishna says that death in rajas leads to birth among those attached to action, while death in tamas leads to deluded or uncomprehending births. The supplied translation uses the language of the senseless for the latter. The Sanskrit does not provide a list of modern communities or identities to which that description should be assigned. It would be unjustified to infer someone's previous moral condition from disability, poverty, family background, or species. The claim belongs to the chapter's religious account of qualities and continuing embodiment. For a present-day application, we can examine how sustained attachment shapes what we repeatedly choose and seek. This observation about habits is an analogy; it does not replace or verify the rebirth teaching. A practical response is to identify a recurring craving and create room for one deliberate alternative. The direction of the inquiry is toward one's own attention and conduct, not toward declaring other beings spiritually inferior.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes rebirth among the action-attached after death in rajas and deluded births after death in tamas."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Reflection on recurring habits is a contemporary analogy; the verse gives no basis for assigning moral histories to social identities or disabilities."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Name one recurring craving and choose one deliberate alternative that serves a real responsibility."
+    }
+  ],
+  "reflectionQuestion": "Which attachment am I repeatedly preparing to carry into my next choice?",
+  "reflectionQuestionHindi": "किस आसक्ति को मैं बार बार अपने अगले चुनाव में साथ ले जाने की तैयारी करता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

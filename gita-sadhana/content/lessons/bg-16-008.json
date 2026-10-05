@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-008",
+  "sequenceNumber": 579,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 8,
+  "verseEnd": 8,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "आसुरी दृष्टि का कथन / A reported destructive outlook",
+  "context": "Krishna reports what those described as demoniacal say about the world's truth, basis, and cause.",
+  "contextHindi": "कृष्ण आसुरी स्वभाव वालों की विश्वदृष्टि का कथन सुनाते हैं; यह उनकी अपनी शिक्षा नहीं है।",
+  "sanskritDevanagari": "असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम् |\nअपरस्परसम्भूतं किमन्यत्कामहैतुकम् ||१६-८||",
+  "transliteration": "asatyamapratiṣṭhaṃ te jagadāhuranīśvaram .\naparasparasambhūtaṃ kimanyatkāmahaitukam ||16-8||",
+  "wordByWord": [
+    {
+      "term": "asatyam",
+      "meaning": "Without truth; described as untrue"
+    },
+    {
+      "term": "apratiṣṭham",
+      "meaning": "Without a foundation or basis"
+    },
+    {
+      "term": "anīśvaram",
+      "meaning": "Without a Lord"
+    },
+    {
+      "term": "kāmahaitukam",
+      "meaning": "Having desire or lust as its cause"
+    }
+  ],
+  "spokenHindi": "यह श्लोक ध्यान से सुनना चाहिए, क्योंकि कृष्ण यहाँ एक मत का वर्णन कर रहे हैं। वे बताते हैं कि आसुरी दृष्टि वाले लोग संसार को सत्य और आधार से रहित, ईश्वर के बिना, और कामना से उत्पन्न कहते हैं। इसे कृष्ण का अपना निष्कर्ष मान लेना वक्ता और कथन का भ्रम होगा। दैवी और आसुरी गुणों की पिछली चर्चा में सत्य, करुणा और आचरण महत्वपूर्ण थे। इस दृष्टि में जीवन का नैतिक आधार ही हटाया जा रहा है। स्रोत इस प्रसंग को भोग को अंतिम लक्ष्य मानने वाले व्यवहार से जोड़ता है। फिर भी किसी आधुनिक व्यक्ति के धर्म संबंधी संदेह को सुनते ही उसे क्रूर या अनैतिक घोषित करना उचित निष्कर्ष नहीं होगा। यहाँ वर्णित पूरी दिशा देखनी चाहिए। हमारे लिए प्रश्न यह है कि हम अपनी इच्छा के अलावा दूसरे व्यक्ति के हित का कोई मूल्य मानते हैं या नहीं। एक फैसले में देखें कि किसी दूसरे की गरिमा और परिणामों की जिम्मेदारी आपके विचार में वास्तविक जगह पा रहे हैं।",
+  "clearEnglish": "This verse contains a reported claim, not Krishna's own account of reality. He says that those with the demoniacal outlook call the world untrue, without foundation, without a Lord, and produced through mutual union with desire as its cause. Preserving that attribution prevents a serious reading error. Within the chapter, this outlook is linked with rejection of moral restraint and with destructive conduct. It would nevertheless be an unwarranted extension to declare every contemporary atheist, doubter, or scientific account of reproduction morally demoniacal. The passage describes a larger ethical pattern, not a questionnaire for sorting modern philosophical affiliations. A useful application asks whether desire has become the sole justification for action. If another person's dignity counts only when it serves our preference, moral reasoning has narrowed severely. Examine a choice where convenience competes with another's welfare. The verse's criticism can prompt reflection on accountability while leaving honest questions about theology open to careful discussion.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna reports the demoniacal claim that the world lacks truth, foundation, and a Lord and has desire as its cause."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The modern application concerns desire as sole justification; labelling all atheists or doubters would exceed this contextual description."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Include another's welfare",
+      "text": "In one convenient choice, identify whose welfare might be omitted and adjust the decision."
+    }
+  ],
+  "reflectionQuestion": "What counts in my decision besides getting what I want?",
+  "reflectionQuestionHindi": "अपनी इच्छा पूरी करने के अलावा मेरे निर्णय में क्या महत्व रखता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

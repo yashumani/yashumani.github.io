@@ -1,0 +1,79 @@
+{
+  "id": "bg-07-014",
+  "sequenceNumber": 294,
+  "date": "2026-10-05",
+  "chapter": 7,
+  "verseStart": 14,
+  "verseEnd": 14,
+  "chapterNameSanskrit": "ज्ञानविज्ञानयोग",
+  "chapterNameEnglish": "Jñāna Vijñāna Yoga",
+  "theme": "दिव्य माया का पार; शरण में वही सुरक्षित — Divine māyā can be crossed; refuge in the Lord is the way through.",
+  "context": "Krishna now names the force that produces this delusion: divine māyā, formed of guṇas, which is difficult to overcome. He immediately balances this difficulty with hope: those who take refuge in Him alone cross beyond it.",
+  "contextHindi": "अब कृष्ण उस शक्ति का नाम देते हैं जो यह भ्रम बनाती है—दिव्य माया, जो गुणों से निर्मित है और कठिन से कठिन है। साथ ही वे यह भी कहते हैं कि इस माया को केवल वही पार कर सकता है जो भगवान् की शरण में जाता है।",
+  "sanskritDevanagari": "दैवी ह्येषा गुणमयी मम माया दुरत्यया |\nमामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते ||७-१४||",
+  "transliteration": "daivī hyeṣā guṇamayī mama māyā duratyayā .\nmāmeva ye prapadyante māyāmetāṃ taranti te ||7-14||",
+  "wordByWord": [
+    {
+      "term": "दैवी",
+      "meaning": "divine; born of the divine order, not merely worldly confusion."
+    },
+    {
+      "term": "गुणमयी",
+      "meaning": "made of guṇas; constituted by the three modes of nature."
+    },
+    {
+      "term": "माया",
+      "meaning": "the veiling power of prakṛti; a force of delusion, conditioning, and apparent division."
+    },
+    {
+      "term": "दुरत्यया",
+      "meaning": "difficult to overcome; hard to cross beyond."
+    },
+    {
+      "term": "प्रपद्यन्ते",
+      "meaning": "take refuge, surrender, go fully to."
+    },
+    {
+      "term": "तरन्ति",
+      "meaning": "cross over, pass beyond, get free from."
+    }
+  ],
+  "spokenHindi": "यह श्लोक थोड़ा सख्त भी है और आश्वस्त भी करता है। कृष्ण कहते हैं कि यह माया, जो उनकी है, दिव्य है और गुणों से बनी है। इसे पार करना कठिन है। माया को केवल मन का साधारण भ्रम मानने से इसकी पूरी बात समझ में नहीं आती। यह प्रकृति की वह शक्ति है जिसके प्रभाव में मन अपने बदलते विचारों और इच्छाओं को ही पूरा सच मान सकता है। इसलिए इसे ‘दुरत्यया’ कहा गया है—जिसे पार करना कठिन है। लेकिन कृष्ण तुरंत कहते हैं: ‘मामेव ये प्रपद्यन्ते’—जो केवल उनकी शरण लेते हैं, वे इस माया को पार करते हैं। यहाँ शरण का अर्थ है अहंकार को कम करके भगवान् को अपना आश्रय मानना और मन को उनकी ओर मोड़ना। इसका अर्थ यह नहीं कि हम निष्क्रिय हो जाएँ। हम अपने कर्तव्य करते हुए भरोसे और स्मरण के साथ भगवान् की ओर मुड़ सकते हैं।",
+  "clearEnglish": "Krishna introduces māyā here as a force that is divine in origin but difficult to cross. It is not merely ignorance in a loose sense; it is the veiling power of prakṛti that shapes life through guṇas, attachment, and mistaken self-identification. The verse is honest about the challenge: liberation is not trivial, and ordinary effort alone may not be enough. Yet the same verse immediately gives direction: those who take refuge in Him alone cross beyond this māyā. This is not a claim that the world is simply unreal or that surrender means collapse into passivity. It means that the mind cannot free itself by self-assertion; it must turn toward the Lord with humility and trust. Real refuge includes remembrance, disciplined living, and a willingness to let the ego be corrected by a higher orientation. In that sense, the path is both demanding and hopeful.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse says that this divine māyā is difficult to cross, but those who take refuge in the Lord alone pass beyond it. This is a direct statement about māyā and taking refuge in the Lord."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A practical inference is that effort matters, but surrender is decisive. Human discipline opens the door; refuge in the Lord gives the direction and grace needed to move through delusion."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Refuge in action",
+      "text": "When a strong urge, anger, fear, or confusion arises, do not fight it with noise. Pause, say inwardly, 'I choose to turn to the deeper ground beyond this impulse,' and take one steady breath before responding."
+    },
+    {
+      "label": "Track the veiling moments",
+      "text": "For a week, note moments when you become absorbed in ego, comparison, or self-pity. Name the pattern, then gently shift attention to a higher purpose or to remembrance of the Lord."
+    }
+  ],
+  "reflectionQuestion": "When I feel trapped by a mood or pattern, do I try to conquer it alone, or do I consciously turn toward refuge and steadiness?",
+  "reflectionQuestionHindi": "जब मैं किसी मनोदशा या पैटर्न में फंस जाता हूँ, तो क्या मैं उसे अकेले जीतने की कोशिश करता हूँ, या शरण और स्थिरता की ओर consciously लौटता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

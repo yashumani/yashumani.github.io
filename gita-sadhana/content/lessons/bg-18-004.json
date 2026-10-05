@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-004",
+  "sequenceNumber": 627,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 4,
+  "verseEnd": 4,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "निष्कर्ष सुनने की तैयारी / Listen to the conclusion",
+  "context": "Krishna asks Arjuna to hear his conclusion about tyaga and introduces its threefold classification.",
+  "contextHindi": "कृष्ण अर्जुन को त्याग पर अपना निष्कर्ष सुनने को कहते हैं और उसके तीन प्रकार बताते हैं।",
+  "sanskritDevanagari": "निश्चयं शृणु मे तत्र त्यागे भरतसत्तम |\nत्यागो हि पुरुषव्याघ्र त्रिविधः सम्प्रकीर्तितः ||१८-४||",
+  "transliteration": "niścayaṃ śṛṇu me tatra tyāge bharatasattama .\ntyāgo hi puruṣavyāghra trividhaḥ samprakīrtitaḥ ||18-4||",
+  "wordByWord": [
+    {
+      "term": "niścayam",
+      "meaning": "Conclusion or settled judgement"
+    },
+    {
+      "term": "śṛṇu",
+      "meaning": "Listen"
+    },
+    {
+      "term": "tyāge",
+      "meaning": "Concerning abandonment"
+    },
+    {
+      "term": "trividhaḥ",
+      "meaning": "Threefold"
+    }
+  ],
+  "spokenHindi": "दो मतों के बाद कृष्ण अर्जुन से कहते हैं कि अब त्याग के बारे में उनका निश्चित मत सुनें। वे बताते हैं कि त्याग तीन प्रकार का कहा गया है। यह श्लोक विस्तार के लिए द्वार खोलता है; अभी तीनों का पूरा वर्णन नहीं है। इसलिए केवल त्याग का नाम सुनकर उसे हमेशा एक ही गुणवत्ता का मानना ठीक नहीं। कुछ छोड़ना स्पष्ट समझ से हो सकता है, कोई छोड़ना इच्छा से बचने के लिए, और कोई भ्रम से। ये संकेत आगे की बात समझने के लिए हैं, इस श्लोक में दी पूरी सूची नहीं। आधुनिक अभ्यास में हम छोड़ने के निर्णय का कारण देखें। एक ही बाहर का परिणाम, जैसे काम बंद होना, अलग प्रेरणाओं से आ सकता है। अभी अपने निर्णय को अच्छा या बुरा घोषित करने के बजाय कारण साफ करें। क्या मुझे तथ्य मिले हैं? क्या कोई जिम्मेदारी बाकी है? क्या मैं केवल तत्काल असुविधा से भागना चाहता हूँ? सुनने की तैयारी यही है कि पहले से अपना पसंदीदा निष्कर्ष लेकर न बैठें। आगे की शिक्षा को अपने कारण की जांच करने दें।",
+  "clearEnglish": "Krishna asks Arjuna to hear his settled conclusion concerning tyaga and says that abandonment has been declared threefold. This is another structural verse: it announces the coming criteria rather than detailing them all here. The important implication is that relinquishment is not spiritually identical in every case. The same outward departure can arise from different understanding and motive. A modern application may therefore examine why something is being left, not only whether it is being left. That application should remain provisional until the passage's distinctions are read. Do not claim that this verse alone supplies a full decision framework. For one possible withdrawal, record the relevant facts, remaining obligations, and immediate motive. Are you responding to a clear reason, to discomfort, or to an unexamined assumption? These are preparatory questions rather than automatic verdicts. Listening becomes more fruitful when a preferred answer is allowed to meet new evidence. Let the teaching refine the question before using it to justify the decision.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna asks Arjuna to hear his conclusion and announces the threefold nature of tyaga."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Examining the reason for withdrawing is a modern preparatory practice, not the complete classification supplied later."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Reason for leaving",
+      "text": "Record the facts, remaining obligations, and immediate motive behind one possible withdrawal."
+    }
+  ],
+  "reflectionQuestion": "What reason would I give if I could not use the word renunciation?",
+  "reflectionQuestionHindi": "त्याग शब्द का सहारा न मिले तो मैं छोड़ने का कौन सा कारण बताऊँगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

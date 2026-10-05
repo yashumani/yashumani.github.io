@@ -1,0 +1,75 @@
+{
+  "id": "bg-15-001",
+  "sequenceNumber": 552,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 1,
+  "verseEnd": 1,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "The tree rooted above / ऊपर मूल वाला वृक्ष",
+  "context": "Krishna opens Chapter 15 with an inverted ashvattha tree whose leaves are Vedic metres or hymns.",
+  "contextHindi": "कृष्ण नए अध्याय में ऊपर मूल और नीचे शाखाओं वाले अश्वत्थ वृक्ष की उपमा रखते हैं।",
+  "sanskritDevanagari": "श्रीभगवानुवाच |\nऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् |\nछन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् ||१५-१||",
+  "transliteration": "śrībhagavānuvāca .\nūrdhvamūlamadhaḥśākhamaśvatthaṃ prāhuravyayam .\nchandāṃsi yasya parṇāni yastaṃ veda sa vedavit ||15-1||",
+  "wordByWord": [
+    {
+      "term": "ūrdhvamūlam",
+      "meaning": "rooted above; ऊपर मूल वाला"
+    },
+    {
+      "term": "adhaḥśākham",
+      "meaning": "with branches below"
+    },
+    {
+      "term": "aśvattham",
+      "meaning": "ashvattha or peepul tree"
+    },
+    {
+      "term": "chandāṃsi",
+      "meaning": "Vedic metres or hymns"
+    },
+    {
+      "term": "vedavit",
+      "meaning": "knower of the Vedas"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि ज्ञानी ऊपर मूल और नीचे शाखाओं वाले अव्यय अश्वत्थ वृक्ष की बात करते हैं। उसके पत्ते छंद हैं, और जो उसे जानता है वह वेद का ज्ञाता है। ऊपर मूल वाला वृक्ष कोई सामान्य वनस्पति का विवरण नहीं; यहाँ सृष्टि और उसके आधार की उपमा खुलती है। स्वामी सिवानंद की अध्याय भूमिका इसे संसार का उलटा वृक्ष बताती है, जिसका मूल परम ब्रह्म में है। यह व्याख्या चित्र का दार्शनिक अर्थ देती है। श्लोक में छंदों को पत्ते कहा गया है; इसे केवल बहुत सारे मंत्र याद करने की परीक्षा न बनाएँ। वृक्ष को जानना उसके पूरे संबंध को समझने का प्रश्न बनता है। आज का छोटा अनुप्रयोग है अपने अनुभव की किसी शाखा, जैसे सफलता की चाह, को देखकर पूछना कि उसे क्या आधार देता है। यह निजी जाँच है, श्लोक का पूरा सृष्टि सिद्धांत नहीं। दिखाई देने वाले फल पर ही न अटकें; उसे पोसने वाले विचार, संबंध और मूल्य भी ध्यान से देखें।",
+  "clearEnglish": "The opening image reverses an ordinary tree: its root is above, its branches below, and its leaves are Vedic metres or hymns. Krishna says that one who knows this tree is a knower of the Vedas. Sivananda's chapter summary interprets it as the tree of worldly existence rooted in the Supreme Brahman. That contextual interpretation explains why the image is philosophical rather than botanical. The verse's reference to leaves also places sacred learning within the larger structure being understood; memorization alone need not amount to understanding the tree. A modern application is to look beyond a visible result toward what sustains it. A desire for achievement, for example, may draw nourishment from values, comparison, fear, or a wish to serve. This examination of motives is an analogy, not an exhaustive account of cosmic roots. The verse invites inquiry into relationship and source, so reflection should remain open rather than turning the picture into a simple diagram of personal success.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes an enduring ashvattha with roots above, branches below, and Vedic metres as leaves; knowing it is called knowing the Vedas."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sivananda's chapter summary interprets the inverted tree as worldly existence rooted in Supreme Brahman."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Examining what sustains a visible motive is a contemporary analogy for investigating roots and branches."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Choose one visible aim and name two motives or values that sustain it."
+    }
+  ],
+  "reflectionQuestion": "What feeds the branch of life that currently occupies most of my attention?",
+  "reflectionQuestionHindi": "जीवन की जिस शाखा पर मेरा ध्यान सबसे अधिक है, उसे क्या पोस रहा है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

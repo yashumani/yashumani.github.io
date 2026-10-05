@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-012",
+  "sequenceNumber": 607,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 12,
+  "verseEnd": 12,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "यज्ञ में सौदा और प्रदर्शन / Sacrifice for gain and display",
+  "context": "Krishna contrasts rajasic sacrifice with the sattvic sacrifice just described.",
+  "contextHindi": "कृष्ण अभी बताए सात्त्विक यज्ञ के विपरीत फल और दिखावे के लिए किए यज्ञ को राजसिक बताते हैं।",
+  "sanskritDevanagari": "अभिसन्धाय तु फलं दम्भार्थमपि चैव यत् |\nइज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् ||१७-१२||",
+  "transliteration": "abhisandhāya tu phalaṃ dambhārthamapi caiva yat .\nijyate bharataśreṣṭha taṃ yajñaṃ viddhi rājasam ||17-12||",
+  "wordByWord": [
+    {
+      "term": "abhisandhāya",
+      "meaning": "Intending or aiming at"
+    },
+    {
+      "term": "phalam",
+      "meaning": "The fruit or result"
+    },
+    {
+      "term": "dambhārtham",
+      "meaning": "For the sake of display"
+    },
+    {
+      "term": "rājasam",
+      "meaning": "Rajasic; marked by passion in this classification"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि फल की इच्छा और दिखावे के लिए किया गया यज्ञ राजसिक है। यज्ञ का बाहरी नाम वही रहता है, लेकिन भीतर का उद्देश्य बदल जाता है। एक ही धार्मिक क्रिया में हमारा ध्यान अलग दिशा ले सकता है। यदि मन पूछता रहे कि इसके बदले मुझे क्या मिलेगा, या लोग मेरी कितनी प्रशंसा करेंगे, तो काम एक सौदा बनता है। इस श्लोक से दूसरों की छिपी प्रेरणा जान लेने का दावा नहीं कर सकते। अपनी प्रेरणा को देखना अधिक ईमानदार शुरुआत है। आधुनिक समानता में कोई सेवा केवल नाम बनाने के लिए भी की जा सकती है। मदद वास्तविक हो, तब भी सम्मान की पकड़ जांची जा सकती है। सामान्य धन्यवाद अच्छा लगना अपने आप में पूरा दोष नहीं है; सवाल यह है कि वह निर्णायक शर्त बन गया है या नहीं। आज किसी अच्छे काम से पहले एक वाक्य लिखें: यदि इसका श्रेय न मिले, तो क्या फिर भी इसे करूंगा? उत्तर को शर्म का कारण नहीं, प्रेरणा साफ करने का संकेत बनाइए।",
+  "clearEnglish": "Krishna calls sacrifice rajasic when it is undertaken with an intended reward or for ostentation. The contrast with the preceding verse turns on motive, not merely on the ceremony's outward name. A practice that appears religious can still function as a bargain for advantage or recognition. The verse does not give us direct access to another person's hidden intentions. Its most reliable practical use begins with our own expectations. In a contemporary act of service, publicity may have a legitimate function, but a demand for praise can also quietly become the condition of participation. This is a modern analogy, not an assertion that every public act is rajasic. Notice whether the beneficiary or the hoped-for response occupies the centre of your attention. Before one contribution, ask whether you would still consider it worthwhile without personal credit. If the answer is uncertain, explore it honestly. Motive can be clarified without denying that mixed motives are common or dismissing the actual benefit of the act.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies sacrifice seeking fruit or display as rajasic."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Checking whether personal credit is a condition of service applies the distinction without claiming to know others' motives."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Credit test",
+      "text": "Before one contribution, ask whether it remains worthwhile if someone else receives the credit."
+    }
+  ],
+  "reflectionQuestion": "Has recognition become a condition of my willingness to help?",
+  "reflectionQuestionHindi": "क्या मदद करने की मेरी इच्छा प्रशंसा मिलने की शर्त पर टिकी है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

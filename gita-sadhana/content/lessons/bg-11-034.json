@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-034",
+  "sequenceNumber": 448,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 34,
+  "verseEnd": 34,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "नाम लेकर दिया युद्धादेश / Named warriors in the command",
+  "context": "Krishna names Drona, Bhishma, Jayadratha and Karna in the instruction to Arjuna to fight.",
+  "contextHindi": "कृष्ण द्रोण, भीष्म, जयद्रथ और कर्ण को नाम लेकर अर्जुन को उसी युद्ध में लड़ने को कहते हैं।",
+  "sanskritDevanagari": "द्रोणं च भीष्मं च जयद्रथं च\nकर्णं तथान्यानपि योधवीरान् |\nमया हतांस्त्वं जहि मा व्यथिष्ठा\nयुध्यस्व जेतासि रणे सपत्नान् ||११-३४||",
+  "transliteration": "droṇaṃ ca bhīṣmaṃ ca jayadrathaṃ ca karṇaṃ tathānyānapi yodhavīrān .\nmayā hatāṃstvaṃ jahi mavyathiṣṭhā yudhyasva jetāsi raṇe sapatnān ||11-34||",
+  "wordByWord": [
+    {
+      "term": "जहि",
+      "meaning": "kill or strike down in this battlefield command"
+    },
+    {
+      "term": "मा व्यथिष्ठाः",
+      "meaning": "do not be distressed"
+    },
+    {
+      "term": "युध्यस्व",
+      "meaning": "fight"
+    },
+    {
+      "term": "रणे",
+      "meaning": "in battle"
+    }
+  ],
+  "spokenHindi": "कृष्ण द्रोण, भीष्म, जयद्रथ, कर्ण और अन्य वीर योद्धाओं का नाम लेते हैं। वे इन्हें अपने द्वारा पहले से मारा हुआ बताते हैं, और अर्जुन से मारने, भय में व्यथित न होने तथा युद्ध करने को कहते हैं। रणे यानी युद्ध में, इस वाक्य का संदर्भ स्पष्ट है। ये अर्जुन के सामने के पात्र हैं; नामों को केवल भीतर के दोषों का गुप्त अर्थ बताना दिए गए पाठ से समर्थित नहीं। उनका भय भी उन वास्तविक संबंधों और युद्ध के परिणामों से जुड़ा है। आधुनिक पाठक के लिए सबसे जरूरी सीमा यह है कि यह आदेश किसी वर्तमान विरोधी को हानि पहुँचाने की अनुमति नहीं बनता। आज नैतिक निर्णयों में तथ्य, कानून, सहमति और सुरक्षा की जिम्मेदारी रहती है। हमारा छोटा अनुप्रयोग किसी कठिन अहिंसक कर्तव्य में स्पष्टता हो सकता है, जैसे गलत सूचना सुधारना या उचित सीमा रखना। डर को दबाने की मजबूरी बनाने के बजाय आवश्यक सहयोग लेकर काम करें। यह तुलना मूल युद्धादेश को मिटाती नहीं; सिर्फ हमारे जीवन में जिम्मेदार उपयोग की सीमित दिशा देती है।",
+  "clearEnglish": "The instruction names Drona, Bhishma, Jayadratha, Karna and other courageous warriors. Krishna tells Arjuna to strike them down, not to be distressed, to fight and to conquer opponents in battle, while describing them as already slain by him. Rane, in battle, is a concrete boundary in the wording. These are characters in the scene, not merely coded names for inner weaknesses unless a separate interpretation is explicitly introduced. Their identity also explains why Arjuna's crisis is personal. Modern application must not turn the command into permission to harm a present opponent. Ordinary decisions still require evidence, lawful conduct, consent where relevant, and attention to safety. A limited analogy can concern a difficult nonviolent responsibility, such as correcting an error or maintaining an appropriate boundary. Seek needed support instead of demanding that fear vanish. This preserves both textual honesty and ethical distance: the literal verse gives a battlefield command, while the suggested practice concerns responsible action in a different setting.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names specific warriors and commands Arjuna to kill and fight in the battlefield context."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A difficult nonviolent responsibility is only an analogy; no present opponent may be harmed by invoking this command."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Choose a nonviolent responsibility",
+      "text": "Identify one difficult task such as correcting misinformation or maintaining a fair boundary. Clarify the facts and seek support before taking a proportionate nonviolent step."
+    }
+  ],
+  "reflectionQuestion": "What difficult responsibility can I meet without making another person my enemy?",
+  "reflectionQuestionHindi": "किस कठिन जिम्मेदारी को दूसरे को शत्रु बनाए बिना निभा सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

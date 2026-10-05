@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-063",
+  "sequenceNumber": 686,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 63,
+  "verseEnd": 63,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Reflect fully, then choose / विचार करके निर्णय",
+  "context": "Krishna closes a major exposition to Arjuna by explicitly inviting full reflection and action according to his wish.",
+  "contextHindi": "लंबी शिक्षा के बाद कृष्ण अर्जुन से पूरा विचार करके अपनी इच्छा के अनुसार काम करने को कहते हैं।",
+  "sanskritDevanagari": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया |\nविमृश्यैतदशेषेण यथेच्छसि तथा कुरु ||१८-६३||",
+  "transliteration": "iti te jñānamākhyātaṃ guhyādguhyataraṃ mayā .\nvimṛśyaitadaśeṣeṇa yathecchasi tathā kuru ||18-63||",
+  "wordByWord": [
+    {
+      "term": "jñānam",
+      "meaning": "knowledge or wisdom"
+    },
+    {
+      "term": "guhyād guhyataram",
+      "meaning": "more secret than the secret"
+    },
+    {
+      "term": "vimṛśya",
+      "meaning": "having reflected"
+    },
+    {
+      "term": "aśeṣeṇa",
+      "meaning": "thoroughly"
+    },
+    {
+      "term": "yathecchasi tathā kuru",
+      "meaning": "act as you wish"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि उन्होंने गहरे से गहरा ज्ञान अर्जुन को बता दिया है। फिर आदेश देने के बजाय कहते हैं: इसे पूरी तरह विचारो और जैसी इच्छा हो, वैसा करो। इस जगह संवाद का स्वर बहुत महत्त्वपूर्ण है। पहले अहंकार और प्रकृति की कठोर चेतावनियाँ आई थीं, लेकिन अब अर्जुन को विचार और चुनाव का स्थान दिया जाता है। इसलिए किसी शिक्षक का केवल पहले वाले चेतावनी श्लोक पकड़कर सवाल बंद करा देना इस क्रम को अधूरा पढ़ना होगा। विचार करना अंतहीन टालना भी नहीं है। अर्जुन को सुनी हुई बात, परिस्थिति और परिणाम लेकर निर्णय करना है। आज किसी महत्वपूर्ण निर्णय में अपना समय लें, तथ्य लिखें, प्रभावित लोगों को देखें और विश्वसनीय सलाह सुनें। फिर निर्णय की जिम्मेदारी स्वीकार करें। यदि सुरक्षा या दबाव का प्रश्न हो तो अकेले फैसला करने की मजबूरी न पालें। कृष्ण के शब्दों में अपने विचार के बाद काम करने की जगह है; इसका अर्थ यह नहीं कि हर इच्छा अपने आप बुद्धिमान है।",
+  "clearEnglish": "This verse is a decisive turn in the dialogue. Krishna says he has explained wisdom more secret than secrecy, then asks Arjuna to consider it completely and act as he wishes. The imperatives are both reflection and action. Earlier warnings about egoism and nature do not erase this explicit space for Arjuna's deliberation. A human teacher who cites Krishna to shut down questions would miss the shape of this exchange. Nor does the line claim that any unexamined desire is sound. Thorough reflection requires attending to the teaching, the real situation, and the effects of a choice. A present day application is to resist both impulsive compliance and endless postponement: gather relevant facts, hear trustworthy perspectives, decide, and remain answerable for the result. That is a practice inferred from the verse, not a literal decision procedure specified by Krishna. Where coercion or danger is present, support can help restore a person's ability to choose. The dignity of considered agency is unusually clear at this moment.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says he has declared profound wisdom, then tells Arjuna to reflect on it fully and act as he wishes."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The dialogue preserves Arjuna's considered agency; reflection is more than either blind compliance or impulsive desire."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "For one pending decision, list the teaching or principle, the facts, those affected, and the choice you can responsibly make."
+    }
+  ],
+  "reflectionQuestion": "Have I reflected fully enough to own my choice without surrendering it to pressure?",
+  "reflectionQuestionHindi": "क्या मैंने इतना विचार किया है कि दबाव से हटकर अपने निर्णय की जिम्मेदारी ले सकूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

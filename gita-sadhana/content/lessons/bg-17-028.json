@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-028",
+  "sequenceNumber": 623,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 28,
+  "verseEnd": 28,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "श्रद्धा के बिना कर्म / Acts without faith",
+  "context": "Krishna closes the chapter by calling sacrifice, giving, austerity, and action without faith Asat, without value here or hereafter.",
+  "contextHindi": "कृष्ण अध्याय के अंत में श्रद्धा बिना किए यज्ञ, दान, तप और कर्म को असत् कहते हैं, जिसका फल यहाँ या आगे नहीं है।",
+  "sanskritDevanagari": "अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत् |\nअसदित्युच्यते पार्थ न च तत्प्रेत्य नो इह ||१७-२८||",
+  "transliteration": "aśraddhayā hutaṃ dattaṃ tapastaptaṃ kṛtaṃ ca yat .\nasadityucyate pārtha na ca tatprepya no iha ||17-28||",
+  "wordByWord": [
+    {
+      "term": "aśraddhayā",
+      "meaning": "Without faith"
+    },
+    {
+      "term": "hutam",
+      "meaning": "Offered in sacrifice"
+    },
+    {
+      "term": "asat",
+      "meaning": "Not real or good; ineffective in this context"
+    },
+    {
+      "term": "iha",
+      "meaning": "Here, in this life"
+    }
+  ],
+  "spokenHindi": "अध्याय के अंतिम श्लोक में कृष्ण कहते हैं कि श्रद्धा के बिना किया गया यज्ञ, दान, तप या कर्म असत् कहा जाता है। वह यहाँ या मृत्यु के बाद सार्थक नहीं है। यह धार्मिक फल का कथन है; इसे किसी सहायता का सामाजिक लाभ कभी नहीं हो सकता के आधुनिक दावे में न बदलें। प्रसंग में श्रद्धा और कर्म की भीतरी गुणवत्ता का महत्व है। स्रोत की टिप्पणी इसे भगवान को समर्पण से रहित कर्म की निष्फलता के रूप में समझाती है। समर्पण का वह विस्तार टिप्पणी है, मूल श्लोक का अलग शब्द नहीं। हमारी सीख यह हो सकती है कि केवल बाहरी औपचारिकता पूरा करना आत्मिक अभ्यास का पूरा अर्थ नहीं देता। कभी काम जरूरी होने पर भावना तुरन्त नहीं आती; इससे अपने को व्यर्थ घोषित करने की जरूरत नहीं। ईमानदारी से उद्देश्य समझने और सीखने की जगह रखें। आज कोई छोटा अभ्यास करें तो पहले बताएं कि वह आपके लिए क्यों मायने रखता है। विश्वास के नाम पर झूठा उत्साह दिखाने से अधिक उपयोगी है अपनी वास्तविक स्थिति पहचानकर सजग कदम लेना। यहाँ रोमन पाठ में अक्षर का अंतर है: दिया रूप तत्प्रेप्य है, जबकि देवनागरी में तत्प्रेत्य और स्रोत में भी तत्प्रेत्य की पढ़त है। मृत्यु के बाद का अर्थ इन दोनों से स्पष्ट होता है; मूल रोमन पाठ जस का तस रखा गया है।",
+  "clearEnglish": "Krishna closes the chapter by calling sacrifice, giving, austerity, and other acts performed without faith Asat, of no avail here or hereafter. This is a statement about their religious efficacy. It should not be quietly transformed into a modern claim that a gift can never have a material benefit unless the giver holds a particular belief. Sivananda's supplied commentary explains the lack of efficacy through absence of dedication to the Lord; that is a named interpretive addition to the verse's expression without faith. The chapter has examined inward orientation alongside outward form. A contemporary application may ask whether an observance has become mere compliance without understood purpose. That question does not require forcing an emotion or declaring oneself worthless when conviction is uncertain. Begin with honest attention: why is this practice meaningful, and what remains unclear? One sincere effort to understand can be more responsible than displaying enthusiasm one does not feel. Let study and reflection accompany the action. The pinned Roman text has tatprepya, while its Devanagari has तत्प्रेत्य and DLS reads tatpretya. The after-death meaning follows the Devanagari and DLS reading; the supplied Roman field remains unchanged rather than silently corrected.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna calls acts performed without faith Asat and states their lack of religious value here and hereafter."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Honest inquiry into an observance's purpose is a modern application; the verse is not a denial of every material benefit from secular assistance."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Honest purpose",
+      "text": "Before one observance, name why it matters and one question you still need to understand."
+    }
+  ],
+  "reflectionQuestion": "What purpose can I honestly bring to this practice today?",
+  "reflectionQuestionHindi": "आज इस अभ्यास में मैं ईमानदारी से कौन सा उद्देश्य ला सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

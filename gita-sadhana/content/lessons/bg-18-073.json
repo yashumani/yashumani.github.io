@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-073",
+  "sequenceNumber": 696,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 73,
+  "verseEnd": 73,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Arjuna finds steadiness and answers / अर्जुन की स्पष्टता और उत्तर",
+  "context": "Arjuna responds to Krishna's question about whether his confusion has ended.",
+  "contextHindi": "कृष्ण के प्रश्न का उत्तर अब स्वयं अर्जुन देता है: उसकी उलझन मिटी है और वह कर्म के लिए तैयार है।",
+  "sanskritDevanagari": "अर्जुन उवाच |\nनष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत |\nस्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव ||१८-७३||",
+  "transliteration": "arjuna uvāca .\nnaṣṭo mohaḥ smṛtirlabdhā tvatprasādānmayācyuta .\nsthito.asmi gatasandehaḥ kariṣye vacanaṃ tava ||18-73||",
+  "wordByWord": [
+    {
+      "term": "naṣṭo mohaḥ",
+      "meaning": "delusion has gone"
+    },
+    {
+      "term": "smṛtir labdhā",
+      "meaning": "memory or clear recollection has been regained"
+    },
+    {
+      "term": "tvat prasādāt",
+      "meaning": "through your grace"
+    },
+    {
+      "term": "sthitaḥ asmi",
+      "meaning": "I stand steady"
+    },
+    {
+      "term": "kariṣye vacanaṃ tava",
+      "meaning": "I will do what you have said"
+    }
+  ],
+  "spokenHindi": "यहाँ वक्ता बदलता है: अब अर्जुन बोल रहा है, कृष्ण नहीं। वह कहता है, मेरा मोह नष्ट हुआ, स्मृति लौटी, आपके प्रसाद से मैं स्थिर हूँ, मेरा संदेह गया, और मैं आपकी बात के अनुसार करूँगा। स्मृति को केवल पुरानी घटना याद आना न समझें; इस प्रसंग में वह अपनी स्थिति और समझ फिर से पाने का भाव भी रखती है। शुरुआत में अर्जुन युद्धभूमि पर निर्णय से टूट रहा था। अब उसके अपने शब्द बताते हैं कि संवाद ने उसके भीतर क्या बदला। इसे हर पाठक पर आदेश की तरह न रखें कि कठिन प्रश्न के बाद तुरंत पूर्ण निश्चय हो ही जाना चाहिए। यहाँ अर्जुन अपने अनुभव की गवाही देता है। हम इससे यह सीख निकाल सकते हैं कि अच्छी सलाह का असर सामने वाले की अपनी आवाज में सुना जाए। वह क्या समझा, क्या चुना, और क्या अभी बाकी है? यह आधुनिक बातचीत के लिए अनुमान है। अर्जुन का करिष्ये, मैं करूँगा, केवल भावना नहीं, आगे आने वाले कर्म की तैयारी दिखाता है। फिर भी यह दूसरे व्यक्ति का विवेक छोड़ने का सार्वभौम नियम नहीं है।",
+  "clearEnglish": "The speaker changes decisively. Arjuna answers Krishna's two questions in his own voice: his delusion is gone, memory has returned through Krishna's grace, he is steady, doubt has departed, and he will act according to Krishna's word. Smṛti can be heard here as recovered recollection or understanding, not merely remembering a forgotten fact. The reply completes the arc from his initial collapse on the battlefield to readiness for action. It should not be flattened into a demand that every distressed person reach immediate certainty after receiving counsel. Arjuna reports his own state in this particular dialogue. The verse also holds grace and agency together: he attributes clarity to Krishna, yet the commitment 'I will do' is spoken by Arjuna. A modern inference is to let a person describe for themselves what changed after a serious conversation, rather than claiming success on their behalf. Sometimes the honest answer is that doubt remains and more help or time is needed. Here, however, Arjuna says he is prepared to act.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna says his delusion and doubts have gone, his memory has returned by Krishna's grace, he is steady, and he will follow Krishna's word."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Letting someone report their own clarity after a conversation respects their agency; Arjuna's answer is not a timetable for everyone else's recovery."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Name the next action / अगला कदम",
+      "text": "After a difficult conversation, write what became clearer and one action you freely choose to take."
+    }
+  ],
+  "reflectionQuestion": "What has genuinely become clearer to me, and what action follows from it?",
+  "reflectionQuestionHindi": "मेरे लिए सच में कौन सी बात साफ हुई है, और उससे कौन सा कदम निकलता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-051",
+  "sequenceNumber": 674,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 51,
+  "verseEnd": 51,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Clear intellect and balanced senses / शुद्ध बुद्धि और संतुलित इंद्रियाँ",
+  "context": "Krishna begins specifying the disciplines through which the prepared person approaches the highest knowledge.",
+  "contextHindi": "कृष्ण अब उस तैयारी के अंग बताते हैं: स्पष्ट बुद्धि, धैर्य, संयम और राग द्वेष से दूरी।",
+  "sanskritDevanagari": "बुद्ध्या विशुद्धया युक्तो धृत्यात्मानं नियम्य च |\nशब्दादीन्विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च ||१८-५१||",
+  "transliteration": "buddhyā viśuddhayā yukto dhṛtyātmānaṃ niyamya ca .\nśabdādīnviṣayāṃstyaktvā rāgadveṣau vyudasya ca ||18-51||",
+  "wordByWord": [
+    {
+      "term": "buddhyā viśuddhayā",
+      "meaning": "with purified or clarified intellect"
+    },
+    {
+      "term": "dhṛtyā",
+      "meaning": "with firmness"
+    },
+    {
+      "term": "śabdādīn viṣayān",
+      "meaning": "sound and other sense objects"
+    },
+    {
+      "term": "rāgadveṣau",
+      "meaning": "attraction and aversion"
+    }
+  ],
+  "spokenHindi": "कृष्ण जिस रास्ते को खोलते हैं, उसकी शुरुआत साफ बुद्धि से होती है। धृति यानी धैर्य और स्थिरता के सहारे मन को सँभालना है। वे शब्द आदि इंद्रिय विषयों को छोड़ने और राग द्वेष को हटाने की बात कहते हैं। इसका अर्थ हर आवाज या रंग से घृणा करना नहीं है। बात उस खिंचाव की है जिसमें पसंद और नापसंद हमारी समझ पर कब्जा कर लेते हैं। किसी कठिन बातचीत में पसंदीदा व्यक्ति की भूल को अनदेखा करना और अप्रिय व्यक्ति की सही बात भी ठुकराना इसका छोटा उदाहरण है। इस श्लोक की साधना बाहरी दुनिया को मिटाने का आदेश नहीं देती; यह संबंधों में स्पष्टता माँगती है। आज एक प्रतिक्रिया पर ध्यान दें। पहले शरीर और मन में उठता आकर्षण या विरोध पहचानें, फिर तथ्य देखिए। जरूरत हो तो विराम लेकर जवाब दें। संयम का अर्थ अपनी जरूरतों या सुरक्षा को नकारना नहीं है। यह विवेक से चुना हुआ व्यवहार है, जिससे किसी पर चोट पहुँचाए बिना उचित सीमा रखी जा सकती है।",
+  "clearEnglish": "Krishna starts the promised description with a clarified intellect and firmness in governing oneself. He names sound and other sense objects, then attraction and aversion. The paired terms matter: aversion can distort judgment just as desire can. A listener should not turn this into contempt for sensory life or a demand to ignore pain. The passage describes a discipline of withdrawing from compulsive pursuit and reactive rejection in a particular spiritual path. Suppose a colleague offers criticism. You may be tempted to accept it because you admire them, or dismiss it because you dislike them. Pausing to check the evidence makes the mind less captive to either pull. That is an inference for everyday conduct, not a literal workplace rule in the verse. Firmness is not numbness. A person may protect a boundary, seek support, and still examine the emotional coloring of a decision. The text keeps intellect and self regulation together, suggesting that restraint serves insight when it is guided by clear discernment rather than fear.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The path begins with purified intellect, firmness in self regulation, leaving sense objects, and setting aside attraction and aversion."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Checking facts before following preference or dislike is an application of the paired terms, while safety and legitimate needs remain real."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "In one charged exchange, name the fact, the attraction or aversion, and the response you choose after a pause."
+    }
+  ],
+  "reflectionQuestion": "Which strong liking or dislike is coloring my judgment today?",
+  "reflectionQuestionHindi": "आज कौन सी तीव्र पसंद या नापसंद मेरा निर्णय प्रभावित कर रही है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

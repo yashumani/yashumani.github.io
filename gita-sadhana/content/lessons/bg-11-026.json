@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-026",
+  "sequenceNumber": 440,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 26,
+  "verseEnd": 26,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "दोनों पक्षों के नाम / Warriors from both sides",
+  "context": "Arjuna names Dhritarashtra's sons, rulers, Bhishma, Drona, Karna and leading warriors from his own side in a sentence that continues.",
+  "contextHindi": "अर्जुन धृतराष्ट्र के पुत्रों और अन्य योद्धाओं के साथ अपने पक्ष के प्रमुख योद्धाओं को भी नाम देते हैं; वाक्य अभी जारी है।",
+  "sanskritDevanagari": "अमी च त्वां धृतराष्ट्रस्य पुत्राः\nसर्वे सहैवावनिपालसङ्घैः |\nभीष्मो द्रोणः सूतपुत्रस्तथासौ\nसहास्मदीयैरपि योधमुख्यैः ||११-२६||",
+  "transliteration": "amī ca tvāṃ dhṛtarāṣṭrasya putrāḥ sarve sahaivāvanipālasaṅghaiḥ .\nbhīṣmo droṇaḥ sūtaputrastathāsau sahāsmadīyairapi yodhamukhyaiḥ ||11-26||",
+  "wordByWord": [
+    {
+      "term": "धृतराष्ट्रस्य पुत्राः",
+      "meaning": "sons of Dhritarashtra"
+    },
+    {
+      "term": "अवनिपालसङ्घैः",
+      "meaning": "with hosts of kings"
+    },
+    {
+      "term": "सूतपुत्रः",
+      "meaning": "son of the charioteer; Karna in this edition"
+    },
+    {
+      "term": "अस्मदीयैः",
+      "meaning": "those belonging to our own side"
+    }
+  ],
+  "spokenHindi": "अर्जुन अब पहचाने हुए योद्धाओं के नाम सामने रखते हैं। धृतराष्ट्र के सभी पुत्र, राजाओं के समूह, भीष्म, द्रोण, सूतपुत्र और अपने पक्ष के प्रमुख योद्धा भी आते हैं। दिए गए संस्करण में सूतपुत्र की पहचान कर्ण से है। यह संबोधन कथा में किसी पात्र को बताता है; उससे जन्म या व्यवसाय के आधार पर आज के लोगों की कीमत तय करना अनुचित होगा। खास बात अस्मदीयैः है, हमारे अपने पक्ष के भी। दृश्य केवल जिनके विरुद्ध युद्ध है उन्हीं पर नहीं ठहरता। अपने लोग भी उसमें शामिल हैं। वाक्य का मुख्य क्रम अगले श्लोक में पूरा होगा, इसलिए यहाँ सूची को अभी सूची की तरह सुनें। अर्जुन का संकट इन पहचाने हुए व्यक्तियों से जुड़ा है; वह कोई अमूर्त बहस भर नहीं। हमारा सीमित उपयोग मतभेद में प्रभावित लोगों को पूरा पहचानना हो सकता है। केवल दूसरे पक्ष की गिनती न करें। निर्णय से अपने साथियों और अनदेखे लोगों पर भी असर पड़ सकता है। यह हिंसा की सलाह नहीं, परिणामों को व्यापक जिम्मेदारी से देखने का आधुनिक अभ्यास है।",
+  "clearEnglish": "This verse names the people present in the frightening scene, with the sentence continuing into the next verse. Dhritarashtra's sons, groups of kings, Bhishma, Drona, Karna and leading warriors from Arjuna's own side are included. The supplied edition identifies sutaputra as Karna. The designation is part of the narrative and should not become a measure of the worth of people by birth or occupation. Asmadiyaih is particularly important: the account is not limited to the opposing side. Arjuna's own leading warriors are also named. The crisis therefore has personal breadth rather than functioning as a detached catalogue of enemies. We should preserve the unfinished structure here instead of silently supplying the next verse's action. A modern application is to map who will be affected by a difficult decision, including allies and less-visible participants. That exercise is about responsibility, not an invitation to reproduce a battlefield. Naming actual people and consequences can make deliberation less abstract and less narrowly partisan.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna lists named warriors and groups from both sides; the sentence continues beyond this verse."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Considering everyone affected is a modern application; narrative birth labels do not establish worth."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Map affected people",
+      "text": "For one nonviolent decision, list affected people beyond the obvious opposing side, including allies and those with little influence."
+    }
+  ],
+  "reflectionQuestion": "Whose stake in a decision do I overlook because they are on my side?",
+  "reflectionQuestionHindi": "किसी फैसले में अपने पक्ष के होने के कारण मैं किसका हित अनदेखा कर देता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

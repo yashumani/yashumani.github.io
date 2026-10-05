@@ -1,0 +1,71 @@
+{
+  "id": "bg-08-015",
+  "sequenceNumber": 325,
+  "date": "2026-10-05",
+  "chapter": 8,
+  "verseStart": 15,
+  "verseEnd": 15,
+  "chapterNameSanskrit": "अक्षरब्रह्मयोग",
+  "chapterNameEnglish": "Akṣara Brahma Yoga",
+  "theme": "पुनर्जन्म से मुक्ति | Freedom from rebirth",
+  "context": "Krishna describes the result of attaining him after the teaching about constant remembrance.",
+  "contextHindi": "नित्य स्मरण के बाद कृष्ण अपनी प्राप्ति का फल बताते हैं।",
+  "sanskritDevanagari": "मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम् |\nनाप्नुवन्ति महात्मानः संसिद्धिं परमां गताः ||८-१५||",
+  "transliteration": "māmupetya punarjanma duḥkhālayamaśāśvatam .\nnāpnuvanti mahātmānaḥ saṃsiddhiṃ paramāṃ gatāḥ ||8-15||",
+  "wordByWord": [
+    {
+      "term": "माम् उपेत्य",
+      "meaning": "Having attained me."
+    },
+    {
+      "term": "पुनर्जन्म",
+      "meaning": "Rebirth."
+    },
+    {
+      "term": "दुःखालयम्",
+      "meaning": "An abode of suffering."
+    },
+    {
+      "term": "अशाश्वतम्",
+      "meaning": "Impermanent."
+    },
+    {
+      "term": "संसिद्धिं परमाम्",
+      "meaning": "The highest perfection."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि उन्हें प्राप्त करके परम सिद्धि तक पहुँचे महात्मा फिर उस जन्म को नहीं पाते जो दुख का घर और अस्थायी है। यहाँ दुख और अस्थायित्व का वर्णन पुनर्जन्म के संदर्भ में आता है। इसे यह कहने का साधन न बनाएँ कि हमारा हर सुख झूठा है या कठिन समय में सहायता लेना व्यर्थ है। श्लोक मुक्ति का आध्यात्मिक लक्ष्य बताता है। महात्मा का अर्थ यहाँ उस लक्ष्य तक पहुँची हुई बड़ी आत्माएँ है, कोई सामाजिक पदवी या जन्म से मिला श्रेष्ठ अधिकार नहीं। हम अपने जीवन में एक सीमित सवाल ले सकते हैं: क्या मैं किसी बदलती उपलब्धि से ऐसा स्थायी संतोष चाहता हूँ जो वह दे नहीं सकती? इससे सामान्य सुखों का अपमान नहीं होता। मित्रता, आराम और सेवा महत्त्वपूर्ण रह सकते हैं। बस उनसे अनंत सुरक्षा की अपेक्षा थोड़ा हल्की हो सकती है। गीता का पुनर्जन्म से मुक्ति का दावा श्रद्धा और दर्शन के क्षेत्र में है। दैनिक अभ्यास में हम किसी प्रिय वस्तु की अस्थिरता पहचानकर उसकी आज की उपलब्धता के लिए कृतज्ञ हो सकते हैं।",
+  "clearEnglish": "The verse connects attainment of Krishna with the highest perfection and the end of rebirth. The returned birth is characterized as a dwelling of suffering and as impermanent. These are strong descriptions within the Gita's account of liberation; softening them into a promise of improved mood would lose the theological claim. At the same time, they do not require contempt for ordinary life or withdrawal from needed care. The great souls described here have attained the stated goal, rather than possessing spiritual authority merely through a social title. A modern reflection can concern our expectations of changing goods. Achievement, companionship, and comfort may be valuable while still being unable to guarantee permanent security. Recognizing that limit can support gratitude and more proportionate expectations. This reflection is an analogy to the verse's contrast, not an explanation of how rebirth is empirically verified. The passage speaks of liberation; our daily response can remain humble, caring for present life while considering what we take to be its deepest goal.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Great souls who attain Krishna and highest perfection do not take birth again in the impermanent abode of suffering."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The contrast can prompt examination of expectations placed on changing achievements without dismissing life's value or needed support."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Value without a guarantee",
+      "text": "Name one changing good you appreciate and one expectation of permanent security you can gently release."
+    }
+  ],
+  "reflectionQuestion": "What changing achievement am I expecting to give permanent security?",
+  "reflectionQuestionHindi": "मैं किस बदलती उपलब्धि से स्थायी सुरक्षा मिलने की अपेक्षा रखता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

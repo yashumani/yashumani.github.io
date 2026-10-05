@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-053",
+  "sequenceNumber": 467,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 53,
+  "verseEnd": 53,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "अनुभव खरीदने की सीमा / A vision beyond transaction",
+  "context": "Krishna repeats that Vedas, austerity, gifts and sacrifice do not produce the sight as Arjuna has seen it.",
+  "contextHindi": "कृष्ण फिर कहते हैं कि वेद, तप, दान या यज्ञ से उन्हें उसी तरह नहीं देखा जा सकता जैसे अर्जुन ने देखा।",
+  "sanskritDevanagari": "नाहं वेदैर्न तपसा न दानेन न चेज्यया |\nशक्य एवंविधो द्रष्टुं दृष्टवानसि मां यथा ||११-५३||",
+  "transliteration": "nāhaṃ vedairna tapasā na dānena na cejyayā .\nśakya evaṃvidho draṣṭuṃ dṛṣṭavānasi māṃ yathā ||11-53||",
+  "wordByWord": [
+    {
+      "term": "वेदैः",
+      "meaning": "through the Vedas"
+    },
+    {
+      "term": "तपसा",
+      "meaning": "through austerity"
+    },
+    {
+      "term": "इज्यया",
+      "meaning": "through sacrifice or worship"
+    },
+    {
+      "term": "एवंविधः",
+      "meaning": "in such a form"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि वेदों, तप, दान या यज्ञ से उन्हें इस तरह नहीं देखा जा सकता जिस तरह अर्जुन ने देखा। अध्याय में पहले भी संबंधित सीमा आई थी; यहाँ फिर उस असाधारण दर्शन को साधनों की सूची से सीधे पैदा करने योग्य नहीं कहा जाता। दानेन एक दान का साधन है, कोई कीमत तय करने का संकेत नहीं। इज्या पूजा या यज्ञ के अर्थ में है। इस कथन से कोई व्यक्ति पढ़ना या दूसरों की मदद करना छोड़ दे, तो वह पाठ से बहुत बड़ा निष्कर्ष ले रहा होगा। बात एवंविधो दर्शन की है। हमारा दैनिक प्रयोग आध्यात्मिक अभ्यास को सौदे से अलग करना हो सकता है। मैं इतना करूंगा तो मुझे वैसा ही अनुभव मिलना चाहिए, इस सोच को देखें। फिर काम का उचित उद्देश्य पहचानें: समझ, सेवा या ध्यान। विशेष अनुभूति न आए तो ज्यादा कठोर तप या अधिक भुगतान का दबाव बनाने की जरूरत नहीं। आगे कृष्ण सकारात्मक साधन बताएँगे; अभी नकारात्मक सीमा को उसके अपने स्थान पर समझना पर्याप्त है।",
+  "clearEnglish": "The named means are repeated with a clear reference to the way Arjuna has seen Krishna: not through the Vedas, austerity, giving or sacrifice can he be seen in such a form. The verse limits production of this disclosure rather than declaring every named activity meaningless. Daanena refers to giving, not a price that can be increased until a vision is purchased. Ijya concerns sacrifice or worship. The point should not be exploited by someone selling access to an extraordinary experience or demanding escalating hardship. A modern application is to examine transactional expectations in practice. Do I regard learning, service or reflection as a payment that must yield a specific sensation? Returning to the direct purpose of the action can make it worthwhile without that bargain. This is our practical inference. The next verse will state a positive relation to devotion, and should be heard in sequence rather than preempted here. Krishna's present statement preserves the exceptional character of Arjuna's sight and the limits of these means.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says the listed means cannot produce sight of him in the form and manner Arjuna has seen."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Useful actions need not be payments for sensations; neither escalation of hardship nor paid access is warranted."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Check a bargain expectation",
+      "text": "Before study or service, name its direct purpose. Notice whether you are demanding a particular feeling as a return, then let the action serve its proper aim."
+    }
+  ],
+  "reflectionQuestion": "What am I expecting a practice to deliver as though it were a purchase?",
+  "reflectionQuestionHindi": "अभ्यास से मैं क्या ऐसे पाने की अपेक्षा करता हूँ जैसे कोई खरीद कर रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

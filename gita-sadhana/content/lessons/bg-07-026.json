@@ -1,0 +1,79 @@
+{
+  "id": "bg-07-026",
+  "sequenceNumber": 306,
+  "date": "2026-10-05",
+  "chapter": 7,
+  "verseStart": 26,
+  "verseEnd": 26,
+  "chapterNameSanskrit": "ज्ञानविज्ञानयोग",
+  "chapterNameEnglish": "Jñāna Vijñāna Yoga",
+  "theme": "सर्वकालिक ज्ञान: भगवान के सिवाय कोई भी पूर्णता नहीं जानता",
+  "context": "Krishna now extends the previous point: not only is the Supreme not fully known by the deluded world, but all beings are subject to time-limited awareness. He states that He knows the beings of the past, present, and future, while no one knows Him in that totality.",
+  "contextHindi": "इस श्लोक में कृष्ण पिछली बात को आगे बढ़ाते हैं: केवल यह नहीं कि परमसत्ता सभी को पूर्ण रूप से दिखाई नहीं देती, बल्कि मनुष्य की ज्ञानेन्द्रिय समय के भीतर सीमित रहती है। भगवान कहते हैं कि वे अतीत, वर्तमान और भविष्य के सभी जीवों को जानते हैं, पर कोई भी उन्हें पूर्णतः नहीं जानता।",
+  "sanskritDevanagari": "वेदाहं समतीतानि वर्तमानानि चार्जुन |\nभविष्याणि च भूतानि मां तु वेद न कश्चन ||७-२६||",
+  "transliteration": "vedāhaṃ samatītāni vartamānāni cārjuna .\nbhaviṣyāṇi ca bhūtāni māṃ tu veda na kaścana ||7-26||",
+  "wordByWord": [
+    {
+      "term": "vedāhaṃ",
+      "meaning": "I know; not merely through memory, but in the fullness of the cosmic field."
+    },
+    {
+      "term": "samatītāni",
+      "meaning": "all that have passed; past beings and conditions."
+    },
+    {
+      "term": "vartamānāni",
+      "meaning": "present; what is happening now."
+    },
+    {
+      "term": "bhaviṣyāṇi",
+      "meaning": "future; what is yet to arise."
+    },
+    {
+      "term": "bhūtāni",
+      "meaning": "beings; all living forms and conditions."
+    },
+    {
+      "term": "māṃ tu veda na kaścana",
+      "meaning": "but none know Me in full; the ultimate source remains beyond complete conceptual grasp."
+    }
+  ],
+  "spokenHindi": "यह श्लोक हमें अपने ज्ञान की सीमाएँ याद दिलाता है। कृष्ण कहते हैं, ‘मैं अतीत, वर्तमान और भविष्य के सभी जीवों को जानता हूँ।’ इसका अर्थ है कि परमसत्ता समय के भीतर की सारी घटनाओं और जीवन-चक्रों को देखती है; वह किसी भी स्थिति से अछूती नहीं है। लेकिन उसी भगवान को कोई भी पूर्णतः नहीं जानता। यहाँ ‘जानना’ का अर्थ सिर्फ सूचना नहीं है; यह समझ से भी परे है। मनुष्य अपने अनुभव, स्मृति, भविष्य की कल्पना और धारणाओं के भीतर चलता है, जबकि भगवान का ज्ञान बिना किसी अति-सम्बन्ध, बिना राग-द्वेष के एक अखंड दृष्टि है। इसलिए यह श्लोक हमें ईश्वर की अनंतता और अपने सीमित ज्ञान के बीच का अंतर समझाता है। अगर हम अपने भीतर यह शांति और विनम्रता अपनाएँ कि ‘मैं सब कुछ नहीं जानता’, तो उससे विवेक आता है।",
+  "clearEnglish": "Krishna’s statement is precise and sober: he knows all beings in time, while no one knows him in full. This is not a statement of human superiority or divine boastfulness; it affirms a distinction between ordinary knowledge and absolute knowing. Human knowledge is shaped by memory, anticipation, and personal conditioning; it is always partial. The Lord, by contrast, stands in relation to the whole field of becoming without being trapped by it. The text therefore warns against the false certainty that comes from mistaking one’s limited perspective for total truth. A healthy spiritual life begins with this recognition: I do not know the whole, and I must keep learning. This is not intellectual helplessness but an opening to reverence, inquiry, and self-transformation.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse plainly states: “I know all beings past, present, and future, but no one knows Me.” It draws a line between finite human knowing and the Lord’s total knowing."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The reasonable inference is that spiritual maturity does not come from claiming total certainty, but from recognizing the limits of the self and resting in a more honest relationship with what is greater than the ego."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Humility",
+      "text": "Before concluding, ask: am I speaking from direct insight, or from a narrow reaction, habit, or social script?"
+    },
+    {
+      "label": "Daily reverence",
+      "text": "Spend a few minutes in silence and recognize that your understanding is partial. This reduces ego and makes room for listening, learning, and gratitude."
+    }
+  ],
+  "reflectionQuestion": "What changes when you admit that your knowledge is limited, rather than trying to make your opinions total?",
+  "reflectionQuestionHindi": "जब आप मान लें कि आपका ज्ञान सीमित है, तो आपकी सोच में क्या परिवर्तन आता है, बजाय अपने विचारों को पूर्ण मानने के?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

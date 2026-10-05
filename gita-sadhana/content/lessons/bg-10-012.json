@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-012",
+  "sequenceNumber": 384,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 12,
+  "verseEnd": 12,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "अर्जुन का स्वीकार / Arjuna's declaration",
+  "context": "The speaker changes to Arjuna, who responds to Krishna with a declaration of his divine nature.",
+  "contextHindi": "अब वक्ता अर्जुन हैं। वे कृष्ण के बारे में अपने स्वीकार को अनेक दिव्य संबोधनों में व्यक्त करते हैं।",
+  "sanskritDevanagari": "अर्जुन उवाच |\nपरं ब्रह्म परं धाम पवित्रं परमं भवान् |\nपुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम् ||१०-१२||",
+  "transliteration": "arjuna uvāca .\nparaṃ brahma paraṃ dhāma pavitraṃ paramaṃ bhavān .\npuruṣaṃ śāśvataṃ divyamādidevamajaṃ vibhum ||10-12||",
+  "wordByWord": [
+    {
+      "term": "परम् ब्रह्म",
+      "meaning": "supreme Brahman"
+    },
+    {
+      "term": "परम् धाम",
+      "meaning": "supreme abode or light"
+    },
+    {
+      "term": "शाश्वतम्",
+      "meaning": "eternal"
+    },
+    {
+      "term": "विभुम्",
+      "meaning": "all-pervading or omnipresent"
+    }
+  ],
+  "spokenHindi": "यहाँ वक्ता बदल गया है: अब अर्जुन बोलते हैं। वे कृष्ण को परम ब्रह्म, परम धाम और परम पवित्र कहते हैं। आगे शाश्वत दिव्य पुरुष, आदिदेव, अजन्मा और सर्वव्यापी जैसे शब्द आते हैं। यह अर्जुन के स्वीकार की भाषा है, कृष्ण का नया आत्मवर्णन नहीं। परम धाम को दिए गए संस्करण में सर्वोच्च निवास या प्रकाश दोनों तरह से रखा गया है; एक अर्थ चुनकर दूसरे को मिटाना जरूरी नहीं। अर्जुन अभी उस अनुभव की मांग तक नहीं पहुँचे हैं जो अगले अध्याय में आएगा। वे सुनी हुई शिक्षा के आधार पर अपनी श्रद्धा व्यक्त कर रहे हैं। हमारे लिए इसका उपयोग किसी दूसरे व्यक्ति को ऐसी दिव्यता दे देना नहीं होना चाहिए। कोई आधुनिक शिक्षक सम्मान पा सकता है, पर उसकी बात और आचरण जांच से बाहर नहीं हो जाते। इस क्षण में अर्जुन की भाषा उनके आध्यात्मिक संबंध को दिखाती है। हम सोच सकते हैं कि जिस बात को मूल्यवान मानते हैं, क्या उसे स्पष्ट शब्दों में कह पाते हैं, और क्या उस स्वीकार के साथ ईमानदार प्रश्न भी बचा रहता है।",
+  "clearEnglish": "Arjuna now speaks, and that change of speaker is essential to the meaning. The verse records his recognition of Krishna through a series of theological descriptions: supreme Brahman, supreme abode or light, purifier, eternal divine person, primordial deity, unborn and all-pervading. The range of titles joins impersonal and personal vocabulary within Arjuna's declaration. Sivananda's edition explicitly allows both abode and light for dhama, so a careful lesson can preserve that range rather than flatten it into a single modern equivalent. At this point Arjuna is responding to teaching; the later request to see the universal form has not yet been made. His declaration also cannot be transferred automatically to an ordinary teacher. Respect for guidance does not make a person's conduct immune from evaluation. As a modern reflection, the verse invites us to state what we have actually come to trust and why. Clear affirmation can coexist with further questions, as the dialogue itself will show. Trust is being expressed here, not the closure of inquiry.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna identifies Krishna through a series of descriptions of supreme and all-pervading divinity."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Explicitly naming what one trusts can coexist with inquiry; this declaration does not deify contemporary teachers."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Name what you trust",
+      "text": "Write one teaching you find meaningful and the reason for that trust. Add one honest question you still want to explore."
+    }
+  ],
+  "reflectionQuestion": "Can I express appreciation for a teaching while remaining open about unanswered questions?",
+  "reflectionQuestionHindi": "क्या मैं शिक्षा का आदर व्यक्त करते हुए अपने अनुत्तरित प्रश्न भी साफ रख सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

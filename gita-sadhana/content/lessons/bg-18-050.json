@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-050",
+  "sequenceNumber": 673,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 50,
+  "verseEnd": 50,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "From maturity to knowledge / सिद्धि से ज्ञान की ओर",
+  "context": "Krishna promises a brief account of how a person who has attained perfection reaches Brahman, the highest steadiness of knowledge.",
+  "contextHindi": "कृष्ण अर्जुन से कहते हैं कि सिद्धि के बाद ब्रह्म तक पहुँचने की बात वे संक्षेप में समझाएँगे।",
+  "sanskritDevanagari": "सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे |\nसमासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा ||१८-५०||",
+  "transliteration": "siddhiṃ prāpto yathā brahma tathāpnoti nibodha me .\nsamāsenaiva kaunteya niṣṭhā jñānasya yā parā ||18-50||",
+  "wordByWord": [
+    {
+      "term": "siddhiṃ",
+      "meaning": "perfection or attained maturity"
+    },
+    {
+      "term": "brahma",
+      "meaning": "Brahman, ultimate reality"
+    },
+    {
+      "term": "nibodha me",
+      "meaning": "learn from me"
+    },
+    {
+      "term": "niṣṭhā jñānasya",
+      "meaning": "the highest state of knowledge"
+    }
+  ],
+  "spokenHindi": "पिछले श्लोक में कृष्ण ने आसक्ति से मुक्त बुद्धि की बात की थी। अब वे अर्जुन को कहते हैं कि सिद्धि पाने वाला ब्रह्म तक कैसे पहुँचता है, यह संक्षेप में सुनो। सिद्धि यहाँ किसी प्रतियोगिता का पदक नहीं है; प्रसंग में यह भीतर की तैयारी है। ब्रह्म उस परम वास्तविकता का नाम है जिसकी ओर शिक्षा बढ़ रही है। ज्ञान की परा निष्ठा केवल जानकारी जमा कर लेना भी नहीं है। अभी कृष्ण पूरा उपाय नहीं बताते; यह श्लोक अगले वर्णन का द्वार खोलता है। इसलिए इससे कोई निश्चित तकनीक या समय सीमा निकालना ठीक नहीं होगा। सुनते समय अपनी समझ की सीमा स्वीकार करना भी साधना है। कभी हमें एक सुंदर वाक्य सुनकर लगता है कि बात पूरी समझ ली। यहाँ ठहरकर पूछना उपयोगी है कि मेरी आदतें और निर्णय उस समझ के अनुरूप हैं या नहीं। किसी शिक्षक की बात पर विचार किया जा सकता है और कठिन शब्दों का अर्थ पूछा जा सकता है। विनम्र सुनना अंध स्वीकृति नहीं है; वह ध्यान से सीखने और सत्य को परखने की तैयारी है।",
+  "clearEnglish": "This verse functions as a hinge. Krishna tells Arjuna that he will explain briefly how one who has reached perfection comes to Brahman, described in the edition as the supreme state of knowledge. The account itself follows; verse 50 should not be treated as though it already lists its disciplines. Siddhi in this setting follows the discussion of relinquishing attachment to action. It is more precise to hear it as spiritual maturity than as public success or a guarantee that an impressive career yields realization. Brahman names the reality toward which Krishna directs the teaching, while the highest standing of knowledge indicates more than collecting religious facts. A modern reader can practise the modest skill of distinguishing a promised explanation from its evidence. When a teacher announces a path, listen to the actual steps and ask whether they cohere with care, honesty, and responsibility. This is an inference about learning well, not a new condition stated in the verse. No one should be pressured to claim attainment merely to appear spiritually advanced.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna promises to explain briefly how one who has reached perfection comes to Brahman, the highest state of knowledge."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The verse introduces an account rather than supplying its methods; attentive, questioning listening is an appropriate application."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Write one question about what spiritual maturity would change in your conduct, then listen for the following verses before settling on an answer."
+    }
+  ],
+  "reflectionQuestion": "Am I treating an opening promise as if I have already learned the whole path?",
+  "reflectionQuestionHindi": "क्या मैं आरंभिक संकेत सुनकर ही मान लेता हूँ कि पूरा मार्ग समझ गया हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

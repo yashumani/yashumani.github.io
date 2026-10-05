@@ -1,0 +1,71 @@
+{
+  "id": "bg-07-030",
+  "sequenceNumber": 310,
+  "date": "2026-10-05",
+  "chapter": 7,
+  "verseStart": 30,
+  "verseEnd": 30,
+  "chapterNameSanskrit": "ज्ञानविज्ञानयोग",
+  "chapterNameEnglish": "Jñāna Vijñāna Yoga",
+  "theme": "प्रयाण तक स्थिर ज्ञान | Steadfast knowing at departure",
+  "context": "The chapter closes by naming adhibhuta, adhidaiva, and adhiyajna in connection with steadfast knowledge of Krishna even at death.",
+  "contextHindi": "अध्याय के अंत में कृष्ण अधिभूत, अधिदैव और अधियज्ञ के साथ अपने ज्ञान तथा प्रयाण में स्थिरता की बात कहते हैं।",
+  "sanskritDevanagari": "साधिभूताधिदैवं मां साधियज्ञं च ये विदुः |\nप्रयाणकालेऽपि च मां ते विदुर्युक्तचेतसः ||७-३०||",
+  "transliteration": "sādhibhūtādhidaivaṃ māṃ sādhiyajñaṃ ca ye viduḥ .\nprayāṇakāle.api ca māṃ te viduryuktacetasaḥ ||7-30||",
+  "wordByWord": [
+    {
+      "term": "साधिभूताधिदैवम्",
+      "meaning": "Together with adhibhuta and adhidaiva."
+    },
+    {
+      "term": "साधियज्ञम्",
+      "meaning": "Together with adhiyajna."
+    },
+    {
+      "term": "प्रयाणकाले अपि",
+      "meaning": "Even at the time of departure."
+    },
+    {
+      "term": "युक्तचेतसः",
+      "meaning": "With steadfast or collected minds."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जो उन्हें अधिभूत, अधिदैव और अधियज्ञ के साथ जानते हैं, वे स्थिर मन वाले लोग प्रयाण के समय भी उन्हें जानते हैं। ये तीन तकनीकी शब्द यहाँ एक साथ आते हैं। दिए गए संस्करण में अधिभूत का संबंध भूतों या तत्त्वों से, अधिदैव का देवताओं से, और अधियज्ञ का यज्ञ से बताया गया है। इनके अर्थ पूरी तरह स्पष्ट करना आगे की चर्चा का विषय होगा। अभी श्लोक में ज्ञान और युक्त चेतना का संबंध सुनना पर्याप्त है। स्वामी शिवानंद की टिप्पणी इन आयामों को भौतिक, देवतामय और यज्ञ संबंधी क्षेत्र में कृष्ण को जानने से जोड़ती है और कहती है कि ऐसे साधक मृत्यु से प्रभावित नहीं होते। यह भाष्य की व्याख्या है। किसी व्यक्ति की अंतिम उलझन देखकर उसके ज्ञान को नकारने का अधिकार हमें नहीं मिलता। सामान्य अभ्यास के लिए जिज्ञासा रख सकते हैं: मैं जिस नाम को याद करता हूँ, उसके अर्थ को समझने का प्रयास भी कैसे करूँ? यह प्रश्न श्रद्धा को अध्ययन से जोड़ता है। बिना भय और जल्दबाज़ी के आगे सुनना भी साधना का छोटा हिस्सा हो सकता है।",
+  "clearEnglish": "The chapter ends with several technical terms still awaiting fuller clarification. Krishna speaks of those who know him together with adhibhuta, adhidaiva, and adhiyajna, saying that with steadfast minds they know him even at departure. The supplied edition glosses these as pertaining to elements, gods, and sacrifice. Its commentary expands the domains and says such practitioners are not affected by death. That explanation should remain attributed to Sivananda rather than be presented as a detailed literal definition furnished by this verse. The statement also does not equip observers to assess the spiritual condition of someone whose awareness is impaired. The immediate focus is steadfast knowing of Krishna across the threshold addressed here. A contemporary learning response can join remembrance with inquiry: what does the name or term we use actually mean in its source? This does not reduce devotion to academic knowledge. It allows a reader to care about both trust and understanding, while postponing conclusions that require the definitions to come.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Those who know Krishna with adhibhuta, adhidaiva, and adhiyajna, having steadfast minds, know him even at departure."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Remembrance can be joined to inquiry into its terms; no judgment of another person's impaired awareness follows."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sivananda reads the terms across elemental, divine, and sacrificial domains and says steadfast seekers who take refuge in Krishna are not affected by death."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Remember and ask",
+      "text": "Recall one devotional term and write one question about its source meaning."
+    }
+  ],
+  "reflectionQuestion": "Which devotional term do I use often but still want to understand?",
+  "reflectionQuestionHindi": "कौन-सा आध्यात्मिक शब्द मैं अक्सर बोलता हूँ, लेकिन अभी उसका अर्थ और समझना चाहता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-14-011",
+  "sequenceNumber": 535,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 11,
+  "verseEnd": 11,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "Clarity at the gates of experience / अनुभव के द्वारों पर स्पष्टता",
+  "context": "Krishna begins identifying observable signs of predominant sattva.",
+  "contextHindi": "कृष्ण अब सत्त्व के बढ़े हुए प्रभाव का संकेत शरीर के सभी द्वारों में प्रकाश और ज्ञान बताते हैं।",
+  "sanskritDevanagari": "सर्वद्वारेषु देहेऽस्मिन्प्रकाश उपजायते |\nज्ञानं यदा तदा विद्याद्विवृद्धं सत्त्वमित्युत ||१४-११||",
+  "transliteration": "sarvadvāreṣu dehe.asminprakāśa upajāyate .\njñānaṃ yadā tadā vidyādvivṛddhaṃ sattvamityuta ||14-11||",
+  "wordByWord": [
+    {
+      "term": "sarvadvāreṣu",
+      "meaning": "at all gates; सभी द्वारों में"
+    },
+    {
+      "term": "prakāśaḥ",
+      "meaning": "light or illumination; प्रकाश"
+    },
+    {
+      "term": "jñānam",
+      "meaning": "knowledge; ज्ञान"
+    },
+    {
+      "term": "vivṛddham",
+      "meaning": "increased or predominant; बढ़ा हुआ"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जब इस शरीर के सभी द्वारों में प्रकाश और ज्ञान उत्पन्न हों, तब सत्त्व का बढ़ना समझना चाहिए। द्वारों की छवि इंद्रियों के माध्यम से मिलने वाले अनुभव को समझाती है; दिए गए संस्करण का अनुवाद भी इन्हें इंद्रियाँ बताता है। यह कोई असाधारण चमक देखने की परीक्षा नहीं है। ज्ञान के साथ प्रकाश का उल्लेख समझ की स्पष्टता की ओर ले जाता है। रोजमर्रा में हम किसी बात को अधिक ध्यान से सुन सकते हैं, तथ्य और अनुमान का अंतर देख सकते हैं, या अपनी सुविधा के विरुद्ध भी सही सूचना स्वीकार कर सकते हैं। ये आधुनिक संकेत हैं, श्लोक में दी गई अलग सूची नहीं। इस अवस्था का निरीक्षण करें, पर इसे पकड़कर श्रेष्ठ होने का प्रमाण न बनाएँ। पहले कृष्ण सत्त्व के सुख और ज्ञान वाले बंधन की चेतावनी दे चुके हैं। स्पष्टता की उपयोगिता तब दिखती है जब उससे फैसला अधिक जिम्मेदार बने। आज किसी चर्चा में केवल बोलने की तैयारी करने के बजाय सामने वाले की पूरी बात सुनना छोटी शुरुआत हो सकती है।",
+  "clearEnglish": "The sign of increased sattva is illumination and knowledge arising through all the gates of the body. The supplied edition glosses these gates as the senses. Read in that context, the image directs attention to the quality of apprehension: what is received through experience becomes intelligible. It need not be turned into a demand for unusual lights or a special sensory event. A contemporary illustration is listening carefully enough to distinguish what someone actually said from what we expected them to say. Another is accepting evidence that corrects a convenient assumption. These illustrations concern clear understanding and are applications rather than additional scriptural criteria. The earlier warning about attachment to knowledge remains relevant. Clarity can help a decision while pride in being clear obstructs the next correction. The verse therefore gives a sign to recognize, not a certificate of personal superiority. Use a moment of clearer attention to understand a specific matter and act more responsibly within it.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Light and knowledge at all the body's gates are given as signs of increased sattva; the edition identifies the gates with senses."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Careful listening and distinction between fact and assumption illustrate clearer apprehension in contemporary experience."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Listen to one explanation fully, then restate its main fact before adding your interpretation."
+    }
+  ],
+  "reflectionQuestion": "What becomes clearer when I receive the whole message before reacting?",
+  "reflectionQuestionHindi": "पूरी बात सुनने के बाद प्रतिक्रिया देने से मुझे क्या अधिक स्पष्ट होता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

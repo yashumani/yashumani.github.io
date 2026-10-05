@@ -1,0 +1,79 @@
+{
+  "id": "bg-06-037",
+  "sequenceNumber": 270,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 37,
+  "verseEnd": 37,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "श्रद्धा, अनुशासन, और योग की स्थिरता / Faith, discipline, and the steadiness of Yoga",
+  "context": "Arjuna asks what becomes of a person who has faith but cannot sustain self-discipline, whose mind wanders from Yoga, and who does not attain its perfection. In this verse, he raises the question; Krishna’s answer follows in later verses.",
+  "contextHindi": "अर्जुन पूछते हैं कि जिस व्यक्ति में श्रद्धा है, लेकिन वह अपने मन को साध नहीं पाता और उसका मन योग से भटक जाता है, उसका क्या होगा? वह योग में सिद्धि पाने से पहले ही रुक जाए, तो उसकी गति क्या होगी? इस श्लोक में अर्जुन सवाल रखते हैं; कृष्ण का उत्तर आगे के श्लोकों में आता है।",
+  "sanskritDevanagari": "अर्जुन उवाच |\nअयतिः श्रद्धयोपेतो योगाच्चलितमानसः |\nअप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति ||६-३७||",
+  "transliteration": "arjuna uvāca .\nayatiḥ śraddhayopeto yogāccalitamānasaḥ .\naprāpya yogasaṃsiddhiṃ kāṃ gatiṃ kṛṣṇa gacchati ||6-37||",
+  "wordByWord": [
+    {
+      "term": "अयतिः",
+      "meaning": "one without self-control; a person not yet disciplined inwardly"
+    },
+    {
+      "term": "श्रद्धयोपेतः",
+      "meaning": "endowed with faith; one who approaches with reverence and earnestness"
+    },
+    {
+      "term": "योगात्",
+      "meaning": "from Yoga; from the path of union or disciplined practice"
+    },
+    {
+      "term": "चलितमानसः",
+      "meaning": "whose mind is disturbed, pulled away, and unstable"
+    },
+    {
+      "term": "योगसंसिद्धिं",
+      "meaning": "the perfection or completion of Yoga; the settled state of realization"
+    },
+    {
+      "term": "कां गतिं",
+      "meaning": "what destination or state; what final condition"
+    }
+  ],
+  "spokenHindi": "यहाँ अर्जुन एक सीधा सवाल पूछते हैं। मान लीजिए किसी व्यक्ति में श्रद्धा है, लेकिन वह अपने मन को साध नहीं पाता। उसका मन योग से भटक जाता है। तब उसका क्या होगा? क्या वह योग की पूर्णता तक पहुँचने से पहले ही असफल रह जाएगा? इस श्लोक में अर्जुन अपनी चिंता रखते हैं; कृष्ण अभी इसका उत्तर नहीं दे रहे हैं। ‘श्रद्धा’ का अर्थ है विश्वास और लगन। ‘योगसंसिद्धि’ का अर्थ है योग में पूर्णता। अर्जुन का सवाल इस कठिनाई को सामने लाता है कि विश्वास होने पर भी मन को स्थिर रखना आसान नहीं होता। वे जानना चाहते हैं कि ऐसे साधक की आगे क्या गति होगी। अगले श्लोक में वे अपनी बात को आगे बढ़ाते हैं और टूटे बादल का उदाहरण देकर पूछते हैं कि क्या वह बिना आधार के नष्ट हो जाएगा।",
+  "clearEnglish": "Here Arjuna asks a question; Krishna has not answered yet. Arjuna considers a person who has faith but cannot maintain self-discipline, whose mind wanders from Yoga, and who does not attain its perfection. What becomes of that person? The verse presents Arjuna’s concern about the outcome of an interrupted spiritual effort. “Faith” here means trust and earnestness; “perfection in Yoga” refers to attaining Yoga’s completion. The verse does not say that this person is longing for Yoga, nor does it provide a prediction about the person’s fate. Arjuna is asking Krishna to clarify that fate. In the next verse, he continues the question with the image of a torn cloud, asking whether such a seeker might perish without support. Krishna’s reassurance comes later, in verse 6.40.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna asks what fate awaits a person who has faith, whose mind wanders from Yoga, and who fails to attain perfection in Yoga."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A reasonable conclusion is that aspiration without regular self-discipline often remains fragmented; the path of Yoga demands continuity of attention, not merely good intention."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Attention reset",
+      "text": "When you notice your mind scattering, pause for two minutes and take one steady breath before deciding the next task. This simple practice trains the mind to return instead of being carried away."
+    },
+    {
+      "label": "Faith with structure",
+      "text": "Pair sincere intention with a daily structure: a fixed time for study, prayer, or reflection, and a simple rule to reduce impulsive distractions. Faith becomes more stable when it has a rhythm."
+    }
+  ],
+  "reflectionQuestion": "If faith is present but attention is scattered, what habits would help your spiritual effort become steadier and more honest?",
+  "reflectionQuestionHindi": "अगर श्रद्धा तो है, पर मन बिखरा हुआ है, तो कौन-से अभ्यास आपके आध्यात्मिक प्रयास को अधिक स्थिर और अधिक सच्चा बनाएँगे?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

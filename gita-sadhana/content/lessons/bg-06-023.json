@@ -1,0 +1,75 @@
+{
+  "id": "bg-06-023",
+  "sequenceNumber": 256,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 23,
+  "verseEnd": 23,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "योग: दुःख से अलगाव; दृढ़ता से अभ्यास / Yoga: separation from sorrow; steady practice",
+  "context": "Krishna has described the disciplined mind, the inner steadiness of the yogi, and the purification that arises through meditation. He now defines yoga not as a mood or posture but as a clear inner state: detaching from the bond of suffering and continuing practice without discouragement.",
+  "contextHindi": "कृष्ण ने मन की शुद्धि, आत्म-नियमन और धैर्य का वर्णन किया है। अब वे योग की पहचान बताते हैं: यह केवल आसन या भाव नहीं, बल्कि वह आंतरिक अवस्था है जहाँ मन दुख के बंधन से अलग होता है और हताशा के बिना अभ्यास चलता रहता है।",
+  "sanskritDevanagari": "तं विद्याद् दुःखसंयोगवियोगं योगसंज्ञितम् |\nस निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा ||६-२३||",
+  "transliteration": "taṃ vidyād duḥkhasaṃyogaviyogaṃ yogasaṃjñitam .\nsa niścayena yoktavyo yogo.anirviṇṇacetasā ||6-23||",
+  "wordByWord": [
+    {
+      "term": "तं",
+      "meaning": "that state; that condition"
+    },
+    {
+      "term": "विद्यात्",
+      "meaning": "should know; should understand"
+    },
+    {
+      "term": "दुःखसंयोगवियोगम्",
+      "meaning": "separation from the conjunction with suffering; freedom from the entanglement of sorrow"
+    },
+    {
+      "term": "योगसंज्ञितम्",
+      "meaning": "known as yoga; designated as yoga"
+    },
+    {
+      "term": "अनिर्विण्णचेतसा",
+      "meaning": "with a mind not discouraged; with unshaken, steady consciousness"
+    }
+  ],
+  "spokenHindi": "कृष्ण इस श्लोक में योग को दुःख के साथ जुड़े रहने से अलग होने के रूप में बताते हैं। ‘दुःखसंयोगवियोग’ का सीधा अर्थ है दुःख के संयोग से वियोग, यानी उससे अलग होना। श्लोक इस दुःख के कारणों की सूची नहीं देता और न ही आसक्ति, अपेक्षा या अज्ञान को उसकी जड़ बताता है। ‘योगसंज्ञितम्’ कहता है कि इसी अवस्था को योग कहा गया है। आगे कृष्ण कहते हैं कि इस योग का अभ्यास दृढ़ निश्चय के साथ करना चाहिए। ‘अनिर्विण्णचेतसा’ का अर्थ है ऐसा मन जो खिन्न या हताश न हो। यहाँ अभ्यास में धैर्य रखने की बात है, न कि यह दावा कि जीवन में दुःख नहीं आएगा। श्लोक का केंद्र है दुःख से वियोग और बिना हताश हुए योग का अभ्यास। इससे आगे दुःख के अनुभव को कैसे समझें, यह व्याख्या हो सकती है; उसे श्लोक का सीधा अर्थ नहीं मानना चाहिए।",
+  "clearEnglish": "Krishna defines yoga as the deliberate ending of the painful entanglement of the self with suffering. The phrase does not deny pain; it changes the relationship to pain. The yogi does not mistake suffering for identity, and does not let sorrow become a permanent self-story. The verse therefore points to a higher discipline: seeing the condition clearly, refusing to be ruled by agitation, and continuing with steadiness. The final phrase, 'with a mind not discouraged,' is crucial. Yoga is not a perfect mood achieved once; it is a sustained orientation of inner clarity and courage. This is helpful precisely because it speaks to ordinary life: people are often discouraged, tired, or overwhelmed. The teaching is that the path is not to avoid all pain, but to become less fused with it and more conscious in relation to it.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse literally says that yoga is the separation from the conjunction with sorrow, and that this yoga should be practiced with a mind that is not discouraged."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The teaching implies that suffering can be met with discernment and steadiness rather than identification. It does not promise a pain-free life; it promises a clarified and less entangled relationship to pain."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "दुःख का नज़ारा / Pain perspective",
+      "text": "When disappointment or loss rises, pause and ask: 'Am I identifying with this pain, or am I seeing it as a passing condition?' This simple shift reduces self-judgment and helps you stay steady without pretending the pain does not exist."
+    },
+    {
+      "label": "स्थिरता का अभ्यास / Stability practice",
+      "text": "For one week, whenever you feel discouraged, return to breath, posture, and a single grounding question: 'What is true right now, and what is my reaction adding to it?'"
+    }
+  ],
+  "reflectionQuestion": "When pain or disappointment pulls my attention inward, what in me is trying to become my whole identity?",
+  "reflectionQuestionHindi": "जब दुख या निराशा मुझे भीतर खींचे, तो मेरे भीतर क्या ऐसा तत्व है जो पूरा जीवन अपने नाम करने की कोशिश करता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

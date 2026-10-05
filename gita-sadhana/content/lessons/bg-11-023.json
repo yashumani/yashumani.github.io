@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-023",
+  "sequenceNumber": 437,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 23,
+  "verseEnd": 23,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "मैं भी व्यथित हूँ / Arjuna includes his own fear",
+  "context": "Arjuna names the terrifying features of the vast form and says the worlds and he himself are afraid.",
+  "contextHindi": "अर्जुन विशाल रूप के भयानक अंग बताते हैं और स्पष्ट कहते हैं कि लोकों के साथ वे भी व्यथित हैं।",
+  "sanskritDevanagari": "रूपं महत्ते बहुवक्त्रनेत्रं\nमहाबाहो बहुबाहूरुपादम् |\nबहूदरं बहुदंष्ट्राकरालं\nदृष्ट्वा लोकाः प्रव्यथितास्तथाहम् ||११-२३||",
+  "transliteration": "rūpaṃ mahatte bahuvaktranetraṃ mahābāho bahubāhūrupādam .\nbahūdaraṃ bahudaṃṣṭrākarālaṃ dṛṣṭvā lokāḥ pravyathitāstathāham ||11-23||",
+  "wordByWord": [
+    {
+      "term": "बहुवक्त्रनेत्रम्",
+      "meaning": "many mouths and eyes"
+    },
+    {
+      "term": "दंष्ट्राकरालम्",
+      "meaning": "terrible with great teeth"
+    },
+    {
+      "term": "प्रव्यथिताः",
+      "meaning": "deeply shaken or terrified"
+    },
+    {
+      "term": "तथा अहम्",
+      "meaning": "and so am I"
+    }
+  ],
+  "spokenHindi": "अर्जुन विशाल रूप में अनेक मुख, नेत्र, भुजाएँ, जांघें, पैर और उदर देखते हैं। बहुत सी भयानक दंष्ट्राएँ भी हैं। फिर कहते हैं कि लोक व्यथित हैं और मैं भी। तथा अहम् छोटा पद है, लेकिन उसमें उनका अपना सच स्पष्ट आता है। पहले व्यापक भय का वर्णन था; अब वे उसके भीतर अपनी स्थिति रखते हैं। इस भय को भक्ति की कमी कहकर हटाना कथा की ईमानदारी खो देगा। वही अर्जुन आदर भी व्यक्त कर रहे थे और अब डर भी बताते हैं। दृश्य की तीव्रता को सुनते समय उसे मानसिक रूप से बहुत विस्तार देना आवश्यक नहीं। शब्द पढ़कर भी उसके अर्थ के साथ रह सकते हैं। हमारा व्यावहारिक संकेत है कि कठिन अनुभव में अपना हाल साफ कहना मददगार हो सकता है। केवल दूसरे परेशान हैं कहने के बजाय मैं भी परेशान हूँ कहना सहायता तक पहुँच का रास्ता खोलता है। यह किसी रोग का निदान नहीं है, सामान्य संवाद का अभ्यास है। भरोसेमंद व्यक्ति से बात करते समय जरूरत का एक स्पष्ट वाक्य जोड़ सकते हैं।",
+  "clearEnglish": "Arjuna now explicitly places himself among those distressed. After describing the immense form with many mouths, eyes, limbs, bellies and fearful teeth, he says that the worlds are terrified and so am I. The final phrase makes the account personal rather than leaving fear safely attributed to others. The same speaker has already expressed reverence, so fear and devotion coexist in the narrative. Calling his distress a failure of faith would erase something the verse deliberately records. A listener also need not build an intense mental picture to understand the passage; careful reading can be sufficient. A modern application is the value of direct, proportionate disclosure. In an ordinary difficult situation, saying that one is affected can be clearer than speaking only about everyone's general stress. Add what would help, if known. This is a communication practice, not a medical diagnosis or a requirement to reveal private feelings to an unsafe person. Arjuna's words show his immediate response to the extraordinary form.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna describes frightening features and states that the worlds and he himself are terrified."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Naming one's own distress can support communication; fear does not negate reverence and need not be disclosed in unsafe settings."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Say your own part",
+      "text": "To someone trustworthy, describe one manageable concern using an honest I statement. Add one form of help you would find useful."
+    }
+  ],
+  "reflectionQuestion": "Can I name my own distress rather than hiding it inside a general statement?",
+  "reflectionQuestionHindi": "क्या मैं सामान्य बात के पीछे छिपाने के बजाय अपनी व्यथा साफ कह सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

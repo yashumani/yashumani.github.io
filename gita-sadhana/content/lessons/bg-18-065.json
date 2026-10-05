@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-065",
+  "sequenceNumber": 688,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 65,
+  "verseEnd": 65,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Loving attention and a personal promise / प्रेम भरा ध्यान और वचन",
+  "context": "After inviting Arjuna to reflect and choose, Krishna speaks again because Arjuna is dear to him.",
+  "contextHindi": "सोचकर निर्णय लेने को कहने के बाद कृष्ण अर्जुन से प्रेम के कारण अपना निकटतम संदेश कहते हैं।",
+  "sanskritDevanagari": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु |\nमामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे ||१८-६५||",
+  "transliteration": "manmanā bhava madbhakto madyājī māṃ namaskuru .\nmāmevaiṣyasi satyaṃ te pratijāne priyo.asi me ||18-65||",
+  "wordByWord": [
+    {
+      "term": "manmanā",
+      "meaning": "with your mind directed toward me"
+    },
+    {
+      "term": "madbhaktaḥ",
+      "meaning": "devoted to me"
+    },
+    {
+      "term": "madyājī",
+      "meaning": "one who worships or offers to me"
+    },
+    {
+      "term": "pratijāne",
+      "meaning": "I promise"
+    },
+    {
+      "term": "priyo.asi me",
+      "meaning": "you are dear to me"
+    }
+  ],
+  "spokenHindi": "कृष्ण यहाँ अर्जुन को केवल कोई विचार याद रखने को नहीं कह रहे। वे मन, भक्ति, पूजा और नमस्कार, जीवन के कई रूपों को अपनी ओर मोड़ने को कहते हैं। फिर वे साफ वचन देते हैं कि अर्जुन उनके पास आएगा, क्योंकि वह उन्हें प्रिय है। इस वाक्य में आज्ञा के साथ अपनापन भी सुनाई देता है। मन्मना का अर्थ है मन को उनकी ओर रखना; इसका मतलब यह नहीं कि काम करते समय बाकी जिम्मेदारियाँ भूल जाएँ। मद्भक्तो संबंध की निष्ठा बताता है और नमस्कुरु विनम्रता की देह भाषा है। हम इससे अपने जीवन के लिए यह समझ निकाल सकते हैं कि जिसे सच में मूल्य देते हैं, उसे केवल विचारों में नहीं, समय और व्यवहार में भी जगह दें। यह आधुनिक प्रयोग है, श्लोक का शब्दशः निर्देश नहीं। अगर पूजा की भाषा आपसे अलग लगती है, तो पहले पाठ को उसके भक्ति संदर्भ में सुनें। किसी से प्रेम पाने के लिए अपने विवेक या सुरक्षित सीमाएँ त्यागना इस वचन की माँग नहीं है।",
+  "clearEnglish": "Krishna has just allowed Arjuna to consider the teaching fully and act as he wishes. He now makes a direct, personal appeal: set the mind on me, be devoted to me, worship me, and bow to me. The promise that Arjuna will come to him is explicitly grounded in affection: you are dear to me. This is devotional speech within their relationship, not an abstract technique for controlling every thought. The cluster of verbs matters. Attention, loyalty, offering, and bodily reverence each express a different dimension of orientation. A contemporary listener might ask whether an important commitment appears in both private attention and outward conduct. That is an inference, not a new condition Krishna lists. Bowing here is addressed to Krishna; it should not be borrowed to demand submission to a human teacher or partner. Nor does sustained remembrance require neglecting work, family, or needed care. The verse offers reassurance alongside an invitation. Its tenderness is part of its meaning, especially after a long and difficult conversation about action.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna invites mind, devotion, worship, and reverence toward himself and promises Arjuna will reach him because Arjuna is dear to him."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Aligning attention and conduct with a cherished commitment is a possible contemporary application, not a demand to submit to another person."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Attention and action / ध्यान और कर्म",
+      "text": "Name one valued commitment; give it five undistracted minutes and one small, freely chosen action today."
+    }
+  ],
+  "reflectionQuestion": "Where does my attention already show what I love, and where does my conduct differ?",
+  "reflectionQuestionHindi": "मेरा ध्यान किस प्रिय बात पर टिकता है, और मेरे व्यवहार में कहाँ उससे दूरी है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

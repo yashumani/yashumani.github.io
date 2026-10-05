@@ -1,0 +1,75 @@
+{
+  "id": "bg-09-016",
+  "sequenceNumber": 354,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 16,
+  "verseEnd": 16,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "यज्ञ के सभी अंगों में कृष्ण | Krishna in the parts of sacrifice",
+  "context": "Krishna identifies himself with ritual forms, offerings, plants, mantra, ghee, fire, and the oblation.",
+  "contextHindi": "कृष्ण यज्ञ के रूप, अर्पण, वनस्पति, मंत्र, घी, अग्नि और आहुति के साथ अपनी पहचान कहते हैं।",
+  "sanskritDevanagari": "अहं क्रतुरहं यज्ञः स्वधाहमहमौषधम् |\nमन्त्रोऽहमहमेवाज्यमहमग्निरहं हुतम् ||९-१६||",
+  "transliteration": "ahaṃ kraturahaṃ yajñaḥ svadhāhamahamauṣadham .\nmantro.ahamahamevājyamahamagnirahaṃ hutam ||9-16||",
+  "wordByWord": [
+    {
+      "term": "क्रतुः",
+      "meaning": "Kratu, a form of sacrifice."
+    },
+    {
+      "term": "यज्ञः",
+      "meaning": "Sacrifice."
+    },
+    {
+      "term": "स्वधा",
+      "meaning": "Offering to the ancestors."
+    },
+    {
+      "term": "औषधम्",
+      "meaning": "Medicinal herb or plants in the supplied edition."
+    },
+    {
+      "term": "आज्यम्",
+      "meaning": "Ghee or melted butter."
+    },
+    {
+      "term": "हुतम्",
+      "meaning": "The oblation or what is offered."
+    }
+  ],
+  "spokenHindi": "इस श्लोक में बार-बार अहम् आता है: मैं क्रतु हूँ, मैं यज्ञ हूँ, मैं स्वधा हूँ, मैं औषध हूँ, मैं मंत्र हूँ, मैं घी हूँ, मैं अग्नि हूँ और मैं आहुति हूँ। कृष्ण केवल यज्ञ के फल की बात नहीं कर रहे; वे उसके कई अंगों से अपनी पहचान बताते हैं। स्वधा को दिए गए संस्करण में पितरों के लिए अर्पित भोजन कहा गया है। औषध का संबंध औषधीय वनस्पति और पौधों से रखा गया है। यह किसी पौधे से बीमारी ठीक होने का चिकित्सकीय दावा नहीं। सूची का भाव भगवान् की व्यापक उपस्थिति का है। किसी विशेष रिवाज को सभी परिवारों पर लागू करने का निर्देश भी यहाँ नहीं है। आधुनिक अभ्यास में एक छोटे भोजन या उपासना के पीछे शामिल चीज़ें याद कर सकते हैं: सामग्री कहाँ से आई, किन लोगों ने मेहनत की, और हमने उसे कितना सम्मान दिया? यह हमारी कृतज्ञता की उपमा है। मूल वाक्य में हर अंग कृष्ण से जोड़ा गया है। सूची को धीरे सुनने से अर्पण को केवल अपना अकेला कार्य मानने की आदत थोड़ी हल्की हो सकती है।",
+  "clearEnglish": "The repeated “I am” identifies Krishna with several elements of sacrificial life: Kratu, yajna, the ancestral offering, herbs or plants, mantra, ghee, fire, and the oblation. The list spans the ritual form, material, utterance, and act of offering. We should not replace it with a vague claim that everything is sacred and omit the concrete terms. The supplied edition renders svadha as food offered to the ancestors and aushadha as medicinal herbs and plants. These renderings locate the words within the ritual context; they do not certify a medical effect or prescribe a universal family custom. A contemporary reflection can notice how an offering depends on materials and other people's labor, encouraging gratitude beyond the isolated idea of “my act.” That is an analogy drawn for daily life, not the literal theological identification Krishna makes. One can value the image while respecting differences in household practice and avoiding pressure to buy expensive ritual goods. The verse names Krishna's relation to the components, rather than a purchasing requirement.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies himself with Kratu, yajna, ancestral offering, plants, mantra, ghee, fire, and oblation."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Noticing the materials and labor behind an offering can inspire gratitude; the verse supplies no medical or universal customary rule."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Notice the contributors",
+      "text": "Before one meal or small offering, recall one material source and one person's work that made it possible."
+    }
+  ],
+  "reflectionQuestion": "What contributions do I overlook when I call an offering my own?",
+  "reflectionQuestionHindi": "किसी अर्पण को केवल अपना कहते समय मैं किन योगदानों को भूल जाता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

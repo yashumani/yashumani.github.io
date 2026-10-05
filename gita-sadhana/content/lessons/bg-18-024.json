@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-024",
+  "sequenceNumber": 647,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 24,
+  "verseEnd": 24,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "इच्छा, अहंकार और भारी प्रयास / Rajasic action",
+  "context": "Krishna describes action undertaken for desired gain, with egoism, or with much effort as rajasic.",
+  "contextHindi": "कृष्ण इच्छा की पूर्ति, अहंकार या बहुत श्रम से किए जाने वाले कर्म को राजसिक बताते हैं।",
+  "sanskritDevanagari": "यत्तु कामेप्सुना कर्म साहंकारेण वा पुनः |\nक्रियते बहुलायासं तद्राजसमुदाहृतम् ||१८-२४||",
+  "transliteration": "yattu kāmepsunā karma sāhaṃkāreṇa vā punaḥ .\nkriyate bahulāyāsaṃ tadrājasamudāhṛtam ||18-24||",
+  "wordByWord": [
+    {
+      "term": "kāmepsunā",
+      "meaning": "By one seeking fulfilment of desire"
+    },
+    {
+      "term": "sāhaṃkāreṇa",
+      "meaning": "With egoism"
+    },
+    {
+      "term": "bahulāyāsam",
+      "meaning": "Involving much effort or strain"
+    },
+    {
+      "term": "rājasam",
+      "meaning": "Rajasic"
+    }
+  ],
+  "spokenHindi": "कृष्ण राजसिक कर्म में इच्छा की पूर्ति, अहंकार और बहुत श्रम का वर्णन करते हैं। स्रोत इन पक्षों को स्पष्ट रखता है, इसलिए बहुत श्रम वाले शब्द को व्याख्या से गायब नहीं करना चाहिए। साथ ही इसे हर कठिन काम गलत है के आसान नियम में बदलना उचित नहीं। अध्याय कर्म की गुणात्मक दिशा समझा रहा है। आधुनिक जीवन में आवश्यक काम कठिन हो सकता है, और मेहनत की जरूरत भी हो सकती है। हमारा अनुप्रयोग यह देख सकता है कि उस मेहनत को निजी चाह और अपनी छवि का कितना दबाव चला रहा है। कभी काम के वास्तविक उद्देश्य से ज्यादा बड़ा दिखने का आग्रह ऊर्जा खा जाता है। तब तैयारी से अधिक प्रदर्शन हो सकता है। आज किसी भारी प्रयास वाले काम को देखें। उसका जरूरी हिस्सा क्या है और कौन सा अतिरिक्त बोझ केवल तुलना या अहंकार के लिए है? जहां सम्भव हो, उस अतिरिक्त बोझ को कम करें। मेहनत को तुच्छ न कहें; उसकी दिशा स्पष्ट करें। अभ्यास काम की वास्तविक जरूरत और अपनी छवि की मांग अलग पहचानने में है।",
+  "clearEnglish": "Krishna describes action undertaken by one seeking fulfilment of desire, with egoism, or involving much effort as rajasic. The supplied edition includes all these features, so the effort term should not disappear from the explanation. At the same time, a modern application should not invent the simplistic rule that every difficult task is wrong or that necessary labour has no value. The passage classifies the quality of action in its broader account of motives and gunas. A practical inquiry can ask what is driving the strain. Is the effort proportionate to a real need, or has comparison and self-display added an unnecessary burden? That question is an inference rather than a revision of the verse. Examine one demanding project and separate its essential work from effort devoted chiefly to proving status. Reduce the latter where possible. The goal is clearer direction, not contempt for hard work or a spiritual label placed on people whose circumstances require considerable exertion.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna calls action seeking desire's fulfilment, with egoism, or involving much effort rajasic."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Examining strain added by status-seeking is a modern application; the verse should not be simplified into condemnation of all difficult labour."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Purpose of effort",
+      "text": "Separate a demanding task's essential effort from extra strain devoted chiefly to comparison or display."
+    }
+  ],
+  "reflectionQuestion": "Which part of this effort serves the task, and which serves my image?",
+  "reflectionQuestionHindi": "इस मेहनत का कौन सा हिस्सा काम के लिए है और कौन सा मेरी छवि के लिए?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

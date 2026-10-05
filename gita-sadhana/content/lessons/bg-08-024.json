@@ -1,0 +1,75 @@
+{
+  "id": "bg-08-024",
+  "sequenceNumber": 334,
+  "date": "2026-10-05",
+  "chapter": 8,
+  "verseStart": 24,
+  "verseEnd": 24,
+  "chapterNameSanskrit": "अक्षरब्रह्मयोग",
+  "chapterNameEnglish": "Akṣara Brahma Yoga",
+  "theme": "प्रकाश से जुड़े प्रयाण का वर्णन | The luminous course",
+  "context": "Krishna begins the announced description with fire, light, daytime, the bright fortnight, and the sun's northern course.",
+  "contextHindi": "कृष्ण घोषित विवरण की शुरुआत अग्नि, प्रकाश, दिन, शुक्ल पक्ष और उत्तरायण से करते हैं।",
+  "sanskritDevanagari": "अग्निर्जोतिरहः शुक्लः षण्मासा उत्तरायणम् |\nतत्र प्रयाता गच्छन्ति ब्रह्म ब्रह्मविदो जनाः ||८-२४||",
+  "transliteration": "agnirjotirahaḥ śuklaḥ ṣaṇmāsā uttarāyaṇam .\ntatra prayātā gacchanti brahma brahmavido janāḥ ||8-24||",
+  "wordByWord": [
+    {
+      "term": "अग्निः",
+      "meaning": "Fire."
+    },
+    {
+      "term": "ज्योतिः",
+      "meaning": "Light; the canonical spelling is retained as supplied."
+    },
+    {
+      "term": "अहः",
+      "meaning": "Daytime."
+    },
+    {
+      "term": "शुक्लः",
+      "meaning": "The bright fortnight."
+    },
+    {
+      "term": "उत्तरायणम्",
+      "meaning": "The six months of the sun's northern course."
+    },
+    {
+      "term": "ब्रह्मविदः",
+      "meaning": "Those who know Brahman."
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण अग्नि, प्रकाश, दिन, शुक्ल पक्ष और सूर्य के उत्तरायण के छह महीनों का उल्लेख करते हैं। वे कहते हैं कि इस तरह प्रयाण करने वाले ब्रह्म के ज्ञाता ब्रह्म को जाते हैं। ब्रह्मविद शब्द महत्त्वपूर्ण है: वाक्य केवल कैलेंडर की तारीख नहीं कहता, जानने वाले साधकों का भी उल्लेख करता है। हमें इस सूची को पढ़ते समय वह पूरा संबंध रखना चाहिए। दिए गए संस्करण में ये प्रयाण से जुड़े प्रकाशमान संकेत हैं। इस छोटी पंक्ति से किसी व्यक्ति की मृत्यु के समय को देखकर उसकी मुक्ति तय कर देना उचित नहीं होगा। हमारे पास उसका अंतर्ज्ञान या पूरी आध्यात्मिक स्थिति जानने का साधन नहीं है। परिवार या अस्पताल को कोई विशेष समय चुनने का दबाव देना भी इससे नहीं निकलता। अपने अध्ययन में सूची के सभी अंग स्पष्ट कर लें और बाद के निष्कर्ष को सुनें। आधुनिक चिंतन के लिए प्रकाश की छवि स्पष्टता याद दिला सकती है, लेकिन यह हमारी उपमा है। श्लोक का वास्तविक विषय ब्रह्म के ज्ञाताओं का प्रयाण और ब्रह्म की प्राप्ति है।",
+  "clearEnglish": "The list is precise: fire, light, daytime, the bright fortnight, and the six months of the sun's northern course. Krishna associates departure through these with knowers of Brahman reaching Brahman. The subject is not simply anyone who happens to die on an auspicious date; the verse explicitly names those who know Brahman. Retaining that qualification prevents the account from becoming a crude calendar rule. The supplied edition presents the luminous course in the theological discussion of departure. This passage does not establish a method for observers to certify someone's liberation, nor does it instruct families to manipulate medical care around a preferred hour. We can study the imagery faithfully while leaving claims about an individual beyond our knowledge. A contemporary metaphor might associate light with clarity, but that is our metaphor rather than the meaning of every term in this list. The most useful immediate practice is careful reading: record the circumstances named, the people described, and the destination stated, then consider them with the passage's eventual conclusion.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names fire, light, day, bright fortnight, and the sun's northern six months; departing knowers of Brahman reach Brahman."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The explicit qualification 'knowers of Brahman' cautions against reducing the statement to a universal calendar test of liberation."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Retain the qualification",
+      "text": "When summarizing the verse, include both the luminous list and the phrase 'knowers of Brahman.'"
+    }
+  ],
+  "reflectionQuestion": "Have I retained who is described, or only the timing?",
+  "reflectionQuestionHindi": "क्या मैंने केवल समय याद रखा है, या यह भी कि किन साधकों की बात हो रही है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

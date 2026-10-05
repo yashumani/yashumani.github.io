@@ -1,0 +1,71 @@
+{
+  "id": "bg-03-040",
+  "sequenceNumber": 159,
+  "date": "2026-10-05",
+  "chapter": 3,
+  "verseStart": 40,
+  "verseEnd": 40,
+  "chapterNameSanskrit": "कर्मयोग",
+  "chapterNameEnglish": "Karma Yoga",
+  "theme": "इन्द्रिय, मन और बुद्धि: विवेक के द्वार पर आंतरिक मोड़",
+  "context": "Krishna continues from the previous verse: desire does not remain only as a feeling; it uses the senses, mind, and intellect to veil the embodied person’s wisdom and delude them. The teaching is not that the senses or mind are evil, but that these faculties can become pathways of delusion when dominated by craving. The verse speaks of the embodied person (dehinam), not the Self.",
+  "contextHindi": "कृष्ण उसी विधि को आगे बढ़ाते हैं: काम का स्थान इन्द्रियाँ, मन और बुद्धि हैं। बात यह नहीं है कि शरीर या मन खराब हैं; बात यह है कि इच्छा इन उपकरणों को अपने उद्देश्य के खिलाफ मोड़ देती है, इसलिए विवेक पर पर्दा डाल देती है।",
+  "sanskritDevanagari": "इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते |\nएतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम् ||३-४०||",
+  "transliteration": "indriyāṇi mano buddhirasyādhiṣṭhānamucyate .\netairvimohayatyeṣa jñānamāvṛtya dehinam ||3-40||",
+  "wordByWord": [
+    {
+      "term": "इन्द्रियाणि",
+      "meaning": "the senses; the channels of contact with the world."
+    },
+    {
+      "term": "मनो",
+      "meaning": "mind; the internal organizing faculty of thought and feeling."
+    },
+    {
+      "term": "बुद्धिः",
+      "meaning": "intellect; discrimination, judgment, reasoning."
+    },
+    {
+      "term": "अधिष्ठानम्",
+      "meaning": "seat, support, governing center; the place where the force functions."
+    },
+    {
+      "term": "विमोहयति",
+      "meaning": "deludes, confuses, distorts perception and judgment."
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण एक और बहुत उपयोगी सत्य कहते हैं: काम न केवल मन के भीतर एक भावना है, बल्कि वह इन्द्रियों, मन और बुद्धि के माध्यम से हमारे विवेक को घेर लेता है। श्लोक कहता है कि इन माध्यमों से काम ज्ञान को ढककर देही को मोहित करता है। जब आँखें देखती हैं, कान सुनते हैं, मन उधम मचाता है, और बुद्धि तर्क देती है, तब इच्छा इन सबका उपयोग करके हमें अपने हित से दूर ले जाती है। इससे हम आधुनिक अभ्यास का एक निष्कर्ष ले सकते हैं: अपनी इन्द्रिय प्रतिक्रिया, विचार और तर्क को अलग-अलग देखना उपयोगी हो सकता है। क्या कोई आकर्षक दृश्य ध्यान खींच रहा है, क्या मन उसे बार-बार दोहरा रहा है, और क्या बुद्धि उसके समर्थन में कारण खोज रही है? ये हमारे निरीक्षण के प्रश्न हैं। श्लोक स्वयं काम के इन तीन ठिकानों और उनके माध्यम से ज्ञान ढकने की बात करता है।",
+  "clearEnglish": "This verse describes how desire deludes the embodied person by veiling their wisdom. It names the senses, mind, and intellect as the places where desire operates. The verse’s subject is the embodied person, not the Self; it does not say that the Self is deluded. Desire can affect the instruments through which a person perceives, thinks, and judges. The senses bring contact with objects, the mind responds to those contacts, and the intellect weighs choices. When craving dominates, these faculties can be drawn away from clear judgment. The point is not that the body or intelligence is corrupt. Rather, even these faculties can contribute to confusion when they are governed by craving. The verse encourages attention to how desire influences perception and judgment, so that a person can respond with greater discernment. For example, one can separately notice an attractive impression, the mind's repeated rehearsal, and the reasons offered to justify pursuit. This is a contemporary observation exercise rather than the verse's literal inventory.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names the senses, mind, and intellect as desire's seats, through which it veils knowledge and deludes the embodied person."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The verse supports the practical inference that attention training, sensory moderation, and reflective pause are necessary for ethical clarity. It does not imply that one should despise bodily life or deny ordinary perception."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Sensory reset",
+      "text": "Before reacting to a trigger—an email, a comment, a craving, or an urge—pause for three breaths and identify which sense or thought is escalating the emotion. Then choose a slower, wiser response."
+    }
+  ],
+  "reflectionQuestion": "Where do you most often feel desire hijack your attention—through the eyes, ears, taste, or an internal narrative?",
+  "reflectionQuestionHindi": "इच्छा आपका ध्यान सबसे अधिक किसके जरिए खींचती है—आँखों, कानों, स्वाद या भीतर चल रही कहानी के जरिए?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

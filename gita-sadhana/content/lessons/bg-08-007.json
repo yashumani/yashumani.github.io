@@ -1,0 +1,67 @@
+{
+  "id": "bg-08-007",
+  "sequenceNumber": 317,
+  "date": "2026-10-05",
+  "chapter": 8,
+  "verseStart": 7,
+  "verseEnd": 7,
+  "chapterNameSanskrit": "अक्षरब्रह्मयोग",
+  "chapterNameEnglish": "Akṣara Brahma Yoga",
+  "theme": "स्मरण और कर्म साथ | Remembrance amid action",
+  "context": "Krishna draws an instruction from the preceding discussion of sustained remembrance, addressing Arjuna on the battlefield.",
+  "contextHindi": "लगातार स्मरण की चर्चा से कृष्ण अर्जुन के युद्धभूमि वाले संदर्भ में निर्देश देते हैं।",
+  "sanskritDevanagari": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च |\nमय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयः (orसंशयम्) ||८-७||",
+  "transliteration": "tasmātsarveṣu kāleṣu māmanusmara yudhya ca .\nmayyarpitamanobuddhirmāmevaiṣyasyasaṃśayaḥ ||8-7||",
+  "wordByWord": [
+    {
+      "term": "सर्वेषु कालेषु",
+      "meaning": "At all times."
+    },
+    {
+      "term": "माम् अनुस्मर",
+      "meaning": "Remember me."
+    },
+    {
+      "term": "युध्य च",
+      "meaning": "And fight; addressed to Arjuna in the narrative."
+    },
+    {
+      "term": "अर्पितमनोबुद्धिः",
+      "meaning": "Having offered mind and intellect to me."
+    }
+  ],
+  "spokenHindi": "कृष्ण अर्जुन से कहते हैं कि हर समय उनका स्मरण करो और युद्ध भी करो। मन और बुद्धि उन्हें अर्पित होने पर अर्जुन उन्हें ही प्राप्त करेंगे। यह निर्देश युद्धभूमि में अर्जुन को दिया गया है। इसे किसी भी संघर्ष में हिंसा करने की सामान्य अनुमति बना देना गलत होगा। हमारे जीवन में इससे अलग व्यावहारिक निष्कर्ष निकल सकता है: स्मरण और ज़िम्मेदार काम को हमेशा विरोधी न समझें। ध्यान केवल अकेले बैठने के क्षण में नहीं, निर्णय लेते समय भी लौट सकता है। बुद्धि अर्पित करने का मतलब सोच-विचार छोड़ना नहीं होना चाहिए; आधुनिक अभ्यास में हम अपने निर्णय को अधिक ईमानदारी और करुणा से जाँच सकते हैं। यदि किसी काम से नुकसान हो रहा हो, तो केवल उसे कर्तव्य कह देना पर्याप्त नहीं है। सुरक्षित और नैतिक विकल्प देखना ज़रूरी है। इस संग्रह के मूल पाठ में वैकल्पिक पाठ का एक संकेत मौजूद है, जिसे ज्यों का त्यों रखा गया है। अर्थ समझने के लिए दिए गए संस्करण का संदर्भ लिया गया है।",
+  "clearEnglish": "The conjunction “and” is central to Krishna's instruction: remember me and fight. For Arjuna, the instruction connects devotion with the action confronting him in the narrative. It should not be detached from that setting and used as blanket authorization for violence in present disputes. A contemporary application can be narrower: meaningful work need not require abandoning spiritual recollection. Mind and intellect offered to Krishna imply a whole orientation, rather than merely repeating a name while judgment operates elsewhere. In modern ethical practice, recollection can accompany deliberation about consequences, honesty, and care for people affected by our decisions. That application is our inference, not a replacement translation of “fight.” The canonical text retained in this archive includes a parenthetical alternative reading; the supplied edition gives the assurance of reaching Krishna without doubt. Preserving the corpus accurately lets readers see that wording issue. Neither textual fidelity nor devotional commitment requires us to stop evaluating whether a particular contemporary action is responsible and safe.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna instructs Arjuna to remember him at all times and fight, offering mind and intellect to him, with assurance of reaching him."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A contemporary reader may integrate devotion with responsible work; the battlefield instruction is not general permission for violence."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Recall before a decision",
+      "text": "Before one ordinary task, briefly remember Krishna and name the people your decision affects."
+    }
+  ],
+  "reflectionQuestion": "How can recollection improve the care I bring to a responsibility?",
+  "reflectionQuestionHindi": "स्मरण से मैं अपनी किसी ज़िम्मेदारी में अधिक सावधानी कैसे ला सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

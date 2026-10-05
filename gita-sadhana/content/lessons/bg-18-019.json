@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-019",
+  "sequenceNumber": 642,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 19,
+  "verseEnd": 19,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "ज्ञान, कर्म, कर्ता के गुण / Qualities of knowing and doing",
+  "context": "Krishna introduces threefold classifications of knowledge, action, and the agent according to the gunas.",
+  "contextHindi": "कृष्ण गुणों के अनुसार ज्ञान, कर्म और कर्ता के तीन तीन भेद सुनने का परिचय देते हैं।",
+  "sanskritDevanagari": "ज्ञानं कर्म च कर्ताच त्रिधैव गुणभेदतः |\nप्रोच्यते गुणसङ्ख्याने यथावच्छृणु तान्यपि ||१८-१९||",
+  "transliteration": "jñānaṃ karma ca kartāca tridhaiva guṇabhedataḥ .\nprocyate guṇasaṅkhyāne yathāvacchṛṇu tānyapi ||18-19||",
+  "wordByWord": [
+    {
+      "term": "jñānam",
+      "meaning": "Knowledge"
+    },
+    {
+      "term": "kartā",
+      "meaning": "Agent or doer"
+    },
+    {
+      "term": "guṇabhedataḥ",
+      "meaning": "According to differences in the qualities"
+    },
+    {
+      "term": "yathāvat",
+      "meaning": "Properly or duly"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि गुणों की विवेचना में ज्ञान, कर्म और कर्ता तीन प्रकार के बताए जाते हैं। वे अर्जुन से उन्हें ठीक तरह सुनने को कहते हैं। यह आगे आने वाले वर्णन की भूमिका है। किसी काम को समझने के लिए केवल बाहर का परिणाम नहीं, देखने का ढंग और करने वाले की दिशा भी महत्व रखेगी। अभी पूरा वर्गीकरण नहीं आया है, इसलिए अपने मन की श्रेणियाँ पहले से उसमें न भरें। आधुनिक अभ्यास में किसी अनुभव के तीन प्रश्न अलग किए जा सकते हैं: मैंने क्या समझा, क्या किया, और करते समय मेरी प्रेरणा कैसी थी? यह उदाहरण श्लोक की दार्शनिक सूची का विकल्प नहीं। अक्सर गलती होने पर हम पूरे व्यक्ति को दोष देते हैं, जबकि जानकारी, तरीके और प्रेरणा का अलग सुधार सम्भव होता है। आज एक छोटी घटना चुनें और इन पक्षों का शांत वर्णन करें। अभी फैसला रोकें। ठीक तरह सुनने का अभ्यास हमें जल्दबाजी के लेबल से बचाकर अगले विवरण को समझने की जगह देता है। अध्ययन में धैर्य भी विवेक का हिस्सा बन सकता है।",
+  "clearEnglish": "Krishna announces that knowledge, action, and the agent are described as threefold according to differences in the gunas, and asks Arjuna to hear them properly. This verse organizes the next section. The categories have been named, but their detailed characteristics have not yet been supplied. A modern application can keep three questions distinct: how was the situation understood, what was done, and what orientation supported the doer? That exercise is a preparatory analogy, not a complete translation of the guna analysis. It can also prevent a mistake in one aspect from becoming an instant judgement about an entire person. Poor information, an unsuitable method, and a self-interested motive may require different corrections. Describe one recent incident through those separate questions before assigning a category. Then listen to the coming distinctions with enough openness to revise your account. The instruction to hear duly invites careful attention rather than quick use of a prestigious label to certify one's own conduct.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna introduces threefold distinctions of knowledge, action, and agent according to the gunas."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Separating understanding, method, and motive in one incident is a modern preparatory analogy."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Three questions",
+      "text": "Describe one incident by what was understood, what was done, and the motive, postponing labels."
+    }
+  ],
+  "reflectionQuestion": "Which aspect of this incident actually needs correction?",
+  "reflectionQuestionHindi": "इस घटना का कौन सा पक्ष वास्तव में सुधार मांगता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

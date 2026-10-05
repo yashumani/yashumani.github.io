@@ -1,0 +1,67 @@
+{
+  "id": "bg-03-006",
+  "sequenceNumber": 125,
+  "date": "2026-10-05",
+  "chapter": 3,
+  "verseStart": 6,
+  "verseEnd": 6,
+  "chapterNameSanskrit": "कर्मयोग",
+  "chapterNameEnglish": "Karma Yoga",
+  "theme": "इन्द्रियों का संयम और मन की ईमानदारी / Sense-control and inner honesty",
+  "context": "Krishna now explains that outer restraint without inner clarity is a form of hypocrisy. Real discipline is not simply suppressing the body; it is removing the hidden mental fixation on sense objects.",
+  "contextHindi": "अब कृष्ण कहते हैं कि बाहरी संयम बिना आंतरिक स्पष्टता के छल हो सकता है। सही अनुशासन सिर्फ़ शरीर को रोकना नहीं है; मन की विषयों में अटकी हुई उलझन को हटाना है।",
+  "sanskritDevanagari": "कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् |\nइन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते ||३-६||",
+  "transliteration": "karmendriyāṇi saṃyamya ya āste manasā smaran .\nindriyārthānvimūḍhātmā mithyācāraḥ sa ucyate ||3-6||",
+  "wordByWord": [
+    {
+      "term": "कर्मेन्द्रियाणि",
+      "meaning": "the organs of action; the hands, feet, speech, and other executive faculties."
+    },
+    {
+      "term": "संयम्य",
+      "meaning": "restraining, controlling, directing them with intention rather than mere suppression."
+    },
+    {
+      "term": "विमूढात्मा",
+      "meaning": "one whose self is deluded; a person whose inner mind remains captivated by sense-images and craving."
+    },
+    {
+      "term": "मिथ्याचारः",
+      "meaning": "false or insincere conduct."
+    }
+  ],
+  "spokenHindi": "यह श्लोक योग की वास्तविक परीक्षा को बताता है: इन्द्रियों को रोककर बैठना और मन में विषयों को याद करते रहना भीतर-बाहर के आचरण का अंतर है। गीता इसे 'मिथ्याचार' कहती है। 'कर्मेन्द्रियाणि संयम्य' का अर्थ है कर्म के साधनों को रोकना, जबकि 'मनसा स्मरन्' का अर्थ है मन से विषयों को याद करना। यहाँ बात मन के जान-बूझकर विषयों में लगे रहने की है; अनचाहे या परेशान करने वाले विचार आना अपने-आप में छल नहीं है। यह केवल बाहरी निष्क्रियता नहीं, बल्कि भीतर और बाहर के आचरण में असंगति है। एक तरफ़ हाथों को रोका जाए, दूसरी तरफ़ मन विषयों में लगा रहे, तो यह दिखावे का संयम है। जीवन में भी बाहरी व्यवहार के साथ मन की स्थिति पर ध्यान देना उपयोगी है। इच्छा, कल्पना और तुलना कभी मन में चल सकती हैं। संयम का अर्थ विचारों को ज़बरदस्ती दबाना नहीं है। इसका अर्थ है अपने आचरण को ईमानदारी से देखना और ध्यान को धीरे-धीरे सही दिशा में लाना।",
+  "clearEnglish": "Here Krishna distinguishes outer restraint from inner conduct. A person may restrain the organs of action and sit still while deliberately dwelling on sense-objects. The verse calls this person “mithyācāraḥ,” meaning one whose conduct is false or insincere: outward restraint does not match the mind’s chosen focus. This is not a claim that every thought is chosen. Unwanted or distressing thoughts can arise without a person’s intention; their occurrence is not a failure of restraint or a sign of hypocrisy. The verse concerns mental dwelling on sense-objects, not the mere arrival of a thought. Its practical lesson is to notice the difference between what we do and where we repeatedly direct our attention. Discipline is not forcing thoughts away or judging ourselves for them. It is acting honestly and, when we choose to, gently returning attention to what matters.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse literally describes a person who restrains the organs of action but mentally dwells on objects. The text calls this conduct false because the inner state and the outer action do not match."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The inference is that discipline must be internal as well as external. Genuine self-mastery is not a silent performance; it is a transformation of attention that reduces mind-made craving and projection."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "ध्यान को धीरे से लौटाएँ",
+      "text": "कभी ध्यान दें कि मन कहाँ जा रहा है। कुछ विचार बिना चाह के भी आ सकते हैं; उनका आना संयम की विफलता नहीं है। यदि मन किसी विषय पर बार-बार लौटे और यह आपको परेशान करे, तो खुद को दोष न दें। धीरे से वर्तमान काम या साँस पर ध्यान लौटाएँ।"
+    }
+  ],
+  "reflectionQuestion": "What do I do outwardly that appears disciplined, while inwardly my mind still keeps chasing the same objects?",
+  "reflectionQuestionHindi": "मैं क्या ऐसा करता हूँ जो बाहरी तौर पर अनुशासित दिखता है, जबकि भीतर मेरा मन अभी भी उसी विषय को खोजना जारी रखता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

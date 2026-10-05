@@ -1,0 +1,67 @@
+{
+  "id": "bg-12-016",
+  "sequenceNumber": 485,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 16,
+  "verseEnd": 16,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "दक्षता और छोड़ना / Competence and relinquishment",
+  "context": "Krishna describes freedom from expectation, purity, competence, unconcern, freedom from distress and renunciation of undertakings.",
+  "contextHindi": "कृष्ण अपेक्षा रहित, शुद्ध, दक्ष, उदासीन, व्यथा रहित और सभी आरंभ छोड़ने वाले भक्त का वर्णन करते हैं।",
+  "sanskritDevanagari": "अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः |\nसर्वारम्भपरित्यागी यो मद्भक्तः स मे प्रियः ||१२-१६||",
+  "transliteration": "anapekṣaḥ śucirdakṣa udāsīno gatavyathaḥ .\nsarvārambhaparityāgī yo madbhaktaḥ sa me priyaḥ ||12-16||",
+  "wordByWord": [
+    {
+      "term": "अनपेक्षः",
+      "meaning": "without expectation or wants"
+    },
+    {
+      "term": "शुचिः",
+      "meaning": "pure or clean"
+    },
+    {
+      "term": "दक्षः",
+      "meaning": "capable or skillful"
+    },
+    {
+      "term": "सर्वारम्भपरित्यागी",
+      "meaning": "renouncing all undertakings or commencements"
+    }
+  ],
+  "spokenHindi": "कृष्ण ऐसे भक्त को प्रिय कहते हैं जो अपेक्षा रहित, शुद्ध, दक्ष, उदासीन और व्यथा से मुक्त है, तथा सभी आरंभों का त्याग करता है। सर्वारम्भपरित्यागी को दिए गए संस्करण में सभी उपक्रम या नई शुरुआत छोड़ने के रूप में रखा गया है। इस कठोर भाषा को केवल थोड़ा व्यस्त कम हो जाओ में बदलकर शाब्दिक अर्थ कहना ठीक नहीं होगा। साथ ही दक्ष शब्द है, जिसमें काम की योग्यता आती है। सूची के इन पक्षों का संबंध समझने के लिए सावधानी चाहिए; दिए अंश में विस्तृत समाधानकारी टिप्पणी नहीं है। उदासीन को करुणा से रहित होने का आदेश मानना भी उचित नहीं, क्योंकि करुणा पहले स्पष्ट गुण रही है। हमारा आधुनिक उपयोग किसी अनावश्यक नई प्रतिबद्धता को रोकना हो सकता है। लेकिन आश्रितों की देखभाल, सुरक्षा या आवश्यक काम छोड़ना इस छोटे अभ्यास से उचित नहीं होता। शुचि को जन्म आधारित शुद्धता का प्रमाण भी न बनाएं। आज अपनी सूची में एक गैरजरूरी शुरुआत पहचानें और बची जिम्मेदारियों को कुशलता से निभाएँ। यह अनुप्रयोग है, पूर्ण त्याग की व्याख्या का दावा नहीं।",
+  "clearEnglish": "Krishna's portrait includes freedom from expectation, purity, competence, unconcern, freedom from distress and renunciation of all undertakings or commencements. The last phrase is strong in the supplied edition and should not be silently reduced to a mild suggestion to become less busy. Daksha, competent, stands alongside relinquishment, making the relation between capacity and undertaking a serious interpretive question. The excerpt gives no separate detailed commentary resolving it here. Unconcern should also not become permission for cruelty, given the earlier explicit compassion. A cautious modern application is to decline one unnecessary new commitment while fulfilling existing essential responsibilities skillfully. That application is not the literal total renunciation described, and should not justify abandoning dependents, safety or necessary care. Purity likewise should not be assigned by birth or inherited identity. The verse names qualities of a devotional state, not a social ranking. A small decision about commitments can be explored responsibly while acknowledging that the full spiritual description exceeds the exercise.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names the qualities including competence and renunciation of all undertakings or commencements."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Declining an unnecessary commitment is only a limited application; essential care and responsibility must not be abandoned."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Decline one unnecessary start",
+      "text": "Review new commitments and decline one nonessential addition if appropriate. Keep necessary care and existing responsibilities clear and manageable."
+    }
+  ],
+  "reflectionQuestion": "Which new commitment serves a real need, and which merely feeds expectation?",
+  "reflectionQuestionHindi": "कौन सी नई जिम्मेदारी वास्तविक जरूरत की सेवा करती है, और कौन सी केवल अपेक्षा बढ़ाती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

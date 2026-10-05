@@ -1,0 +1,67 @@
+{
+  "id": "bg-03-028",
+  "sequenceNumber": 147,
+  "date": "2026-10-05",
+  "chapter": 3,
+  "verseStart": 28,
+  "verseEnd": 28,
+  "chapterNameSanskrit": "कर्मयोग",
+  "chapterNameEnglish": "Karma Yoga",
+  "theme": "Discernment loosens attachment / विवेक से आसक्ति ढीली पड़ती है",
+  "context": "Following the previous verse’s account of action through nature’s qualities, Krishna addresses the person who understands how qualities and their activities relate. Such discernment allows action to continue without the same degree of possessive attachment.",
+  "contextHindi": "पिछले श्लोक में प्रकृति के गुणों के माध्यम से कर्म होने की बात आई। अब कृष्ण उस व्यक्ति का वर्णन करते हैं जो गुणों और उनके कार्यों के संबंध को समझता है। ऐसा विवेक कर्म को जारी रखते हुए उससे चिपकाव कम करने में सहायक होता है।",
+  "sanskritDevanagari": "तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः |\nगुणा गुणेषु वर्तन्त इति मत्वा न सज्जते ||३-२८||",
+  "transliteration": "tattvavittu mahābāho guṇakarmavibhāgayoḥ .\nguṇā guṇeṣu vartanta iti matvā na sajjate ||3-28||",
+  "wordByWord": [
+    {
+      "term": "tattvavit",
+      "meaning": "One who knows or discerns the truth; here, someone who understands the distinctions being described."
+    },
+    {
+      "term": "guṇa-karma-vibhāgayoḥ",
+      "meaning": "The distinctions concerning qualities and their functions or actions."
+    },
+    {
+      "term": "guṇā guṇeṣu vartante",
+      "meaning": "The qualities operate among qualities; a compact description of nature’s processes, not a denial of lived experience."
+    },
+    {
+      "term": "na sajjate",
+      "meaning": "Does not become attached or entangled; this need not mean indifference to others."
+    }
+  ],
+  "spokenHindi": "कृष्ण अब कहते हैं कि जो व्यक्ति गुणों और उनके काम करने के ढंग का विवेकपूर्ण ज्ञान रखता है, वह समझता है: “गुण ही गुणों के बीच काम कर रहे हैं।” यहाँ गुण प्रकृति के प्रभाव हैं, और इंद्रियाँ तथा उनके विषय भी प्रकृति की ही गतिविधि में आते हैं। इस समझ से व्यक्ति हर अनुभव को “मेरे लिए”, “मेरे खिलाफ” या “मेरी ही उपलब्धि” कहकर कसकर पकड़ना कम कर सकता है। **पाठ:** श्लोक जानने वाले व्यक्ति को आसक्त न होने वाला बताता है; वह यह नहीं कहता कि उसे किसी की परवाह नहीं रहती। **अनुमान:** अपनी प्रतिक्रिया को आदत, इच्छा, थकान या परिस्थिति से प्रभावित देखना, प्रतिक्रिया और जिम्मेदार उत्तर के बीच थोड़ा अंतर बना सकता है। यह दृष्टि किसी दूसरे के दुख को महत्वहीन मानने की अनुमति नहीं देती। कठिन बातचीत में, उदाहरण के लिए, अपनी नाराज़गी को अंतिम सत्य मानने के बजाय उसे एक प्रतिक्रिया के रूप में पहचानिए; फिर भी सामने वाले की बात और अपने शब्दों के असर को गंभीरता से सुनिए।",
+  "clearEnglish": "This verse moves from the fact that nature’s qualities shape action to the understanding that can change our relationship with action. The discerning person sees “qualities operating among qualities”: senses, their objects, and responses belong to an interconnected field of natural activity. That perspective can soften possessiveness—the feeling that every success must prove the self, or every uncomfortable feeling must dictate what happens next. **TEXT:** Krishna says that the knower of the distinctions between qualities and their functions understands this process and is not attached. The verse does not say that such a person is uncaring, or that every response is beyond choice. **INFERENCE:** observing a reaction as influenced by habit or circumstance can create room to choose a more considered response. That room matters ethically: recognizing anger as a passing response does not excuse cruel speech, and understanding someone else’s conditioning does not require accepting mistreatment. The Divine Life Society edition’s Roman spelling differs from the pinned corpus’s transliteration style; the exact corpus form is retained here, with no substantive wording difference apparent in the supplied reading.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes the discerning person as understanding the relation between qualities and their functions, seeing qualities operating among qualities, and not becoming attached."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Seeing a reaction as conditioned rather than as an unquestionable command may help someone respond more thoughtfully. This is a practical application, not a claim that the verse removes choice or emotional care."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Pause before reacting",
+      "text": "When a strong reaction appears, briefly name what may be influencing it—such as fatigue, fear, or habit—then choose words that take the other person’s wellbeing into account."
+    }
+  ],
+  "reflectionQuestion": "What reaction could you observe without immediately treating it as a command or as the whole truth?",
+  "reflectionQuestionHindi": "किस प्रतिक्रिया को आप तुरंत आदेश या पूरी सच्चाई मानने के बजाय केवल देखकर समझ सकते हैं?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

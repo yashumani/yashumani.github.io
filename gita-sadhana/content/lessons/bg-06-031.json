@@ -1,0 +1,67 @@
+{
+  "id": "bg-06-031",
+  "sequenceNumber": 264,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 31,
+  "verseEnd": 31,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "एकत्व-भाव और ईश्वर-प्रेरित भक्ति; Unity in devotion and the vision of the One.",
+  "context": "Krishna has been describing the mature state of yoga: a mind that is steady, inwardly purified, and centered in the Self. In this verse he gives the practical test of true devotion: whether one sees the Divine in all beings and remains rooted in that oneness in every situation.",
+  "contextHindi": "कृष्ण ने योग के परिपक्व चरण का वर्णन किया है: एक शांत, आंतरिक रूप से शुद्ध, और आत्मा में स्थिर मन। इस श्लोक में वे सच्ची भक्ति की परीक्षा देते हैं: क्या व्यक्ति सभी प्राणियों में दिव्य को देखता है और हर स्थिति में उसी एकत्व में स्थिर रहता है।",
+  "sanskritDevanagari": "सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः |\nसर्वथा वर्तमानोऽपि स योगी मयि वर्तते ||६-३१||",
+  "transliteration": "sarvabhūtasthitaṃ yo māṃ bhajatyekatvamāsthitaḥ .\nsarvathā vartamāno.api sa yogī mayi vartate ||6-31||",
+  "wordByWord": [
+    {
+      "term": "sarvabhūtasthitaṃ",
+      "meaning": "abiding in all beings; the Divine present in every living being"
+    },
+    {
+      "term": "ekatvamāsthitaḥ",
+      "meaning": "established in unity; rooted in the understanding that all is one in Me"
+    },
+    {
+      "term": "mayi vartate",
+      "meaning": "remains in Me; stays connected to the Divine in all states of life"
+    }
+  ],
+  "spokenHindi": "यह श्लोक योग की आत्मिक पुष्टि का एक बहुत स्पष्ट मानदंड बताता है। कृष्ण कहते हैं कि जो व्यक्ति मुझे सभी प्राणियों में स्थित देखकर भक्ति करता है, वह केवल किसी एक व्यक्ति, जाति, धर्म, या जीवन-शैली तक सीमित नहीं रहता। वह एकता के आधार पर पूजा करता है—सारी सृष्टि में एक ही दिव्य आधार और एक ही आत्मा का दर्शन। इसलिए योगी की पहचान यह नहीं है कि वह कितने सुंदर विचार रखता है, बल्कि यह है कि वह हर परिस्थिति में अपने भीतर और बाहर ईश्वर को उसी रूप में पाता है। वह दुविधा, द्वेष, या अलगाव से नहीं चलता; वह सबके भीतर उसी एक आधार को देखता है। यही परिपक्व भक्ति है, न कि केवल पूजा की बाहरी विधि।",
+  "clearEnglish": "Krishna is not describing a sentimental mood but a settled inner orientation. The yogi who sees the Divine in all living beings does not keep devotion confined to a ritual, a single community, or a personal preference. He worships the One Reality present everywhere, and that vision shapes his conduct. The key point is not merely that God is everywhere, but that the devotee can live from that awareness even while engaged in ordinary life. This is a test of maturity: does one remain in the awareness of unity when life is busy, frustrating, or impersonal? A real yogic perspective does not reduce the world to a collection of separate objects; it sees continuity, interdependence, and sacred presence in all forms.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse says that a yogi established in unity worships Me, who dwell in all beings, and abides in Me whatever their mode of living."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "From this, one may infer that love and wisdom are not separate from practice. A person is not spiritually mature simply by belief; maturity is seen in whether one can remain in the awareness of unity amid ordinary action and emotion."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Seated awareness",
+      "text": "During a busy day, pause once or twice and ask: in this person, this task, or this discomfort, what is the deeper Divine presence I can honor without collapsing into judgment?"
+    },
+    {
+      "label": "Non-division",
+      "text": "Practice seeing the same human dignity, fear, and longing in people who differ from you; let the habit of unity soften irritation and prejudice."
+    }
+  ],
+  "reflectionQuestion": "When you meet a person who irritates or challenges you, can you still hold the awareness that the same deeper reality is present in them and in yourself?",
+  "reflectionQuestionHindi": "जब आप किसी ऐसे व्यक्ति से मिलें जो आपको चिढ़ाता या चुनौती देता है, तो क्या आप अभी भी उसी मूल दिव्य सत्य को उनके भीतर और अपने भीतर देख सकते हैं?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

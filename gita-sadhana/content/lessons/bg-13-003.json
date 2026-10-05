@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-003",
+  "sequenceNumber": 492,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 3,
+  "verseEnd": 3,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "The knower in every field / हर क्षेत्र में ज्ञाता",
+  "context": "Krishna extends the field-knower distinction by identifying himself as the knower in all fields.",
+  "contextHindi": "कृष्ण स्वयं को सभी क्षेत्रों का क्षेत्रज्ञ बताते हैं और क्षेत्र तथा क्षेत्रज्ञ का ज्ञान वास्तविक ज्ञान मानते हैं।",
+  "sanskritDevanagari": "क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत |\nक्षेत्रक्षेत्रज्ञयोर्ज्ञानं यत्तज्ज्ञानं मतं मम ||१३-३||",
+  "transliteration": "kṣetrajñaṃ cāpi māṃ viddhi sarvakṣetreṣu bhārata .\nkṣetrakṣetrajñayorjñānaṃ yattajjñānaṃ mataṃ mama ||13-3||",
+  "wordByWord": [
+    {
+      "term": "sarvakṣetreṣu",
+      "meaning": "in all fields"
+    },
+    {
+      "term": "mām viddhi",
+      "meaning": "know Me; मुझे जानो"
+    },
+    {
+      "term": "kṣetrakṣetrajñayoḥ",
+      "meaning": "of field and knower"
+    },
+    {
+      "term": "matam mama",
+      "meaning": "My considered view"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि उन्हें सभी क्षेत्रों में क्षेत्रज्ञ जानना चाहिए। क्षेत्र और क्षेत्रज्ञ का जो ज्ञान है, उसे वे ज्ञान मानते हैं। पिछले श्लोक का अंतर अब किसी एक शरीर तक सीमित नहीं रहता; दिव्य ज्ञाता सभी क्षेत्रों से जुड़ता है। स्वामी सिवानंद की अध्याय भूमिका भी भीतर के ज्ञाता को सर्वोच्च सत्ता से जोड़कर समझाती है। यह उस संस्करण की दार्शनिक दिशा है। श्लोक की बात केवल हर व्यक्ति अपने शरीर के बारे में कुछ जानता है, इतनी छोटी नहीं है। फिर भी इससे यह दावा नहीं निकलता कि कोई मानव व्यक्ति सबके निजी विचार पढ़ सकता है। आज का एक जिम्मेदार निष्कर्ष यह हो सकता है कि दूसरे व्यक्ति का अनुभव मेरे अनुमान से बड़ा है। उसके शरीर, परिस्थिति और भीतर की अनुभूति को सम्मान से सुनना उपयोगी है। यह आधुनिक अनुप्रयोग है, ईश्वर के सर्वक्षेत्रज्ञ होने का प्रमाण नहीं। अपने अनुभव को देखना और दूसरे के अनुभव के बारे में विनम्र रहना ज्ञान की खोज को अधिक ईमानदार बना सकते हैं।",
+  "clearEnglish": "Krishna asks Arjuna to know him as the knower in all fields and defines knowledge of field and knower as knowledge in his view. The distinction is now joined to a universal divine claim. Sivananda's chapter summary interprets the individual knower through the Supreme Being's presence, which supplies the edition's philosophical direction. The verse is therefore more than a statement that each person notices bodily events. It also does not give any human reader permission to claim access to everyone else's private experience. A bounded ethical inference is humility when another person's condition is unfamiliar. We can listen to their account rather than substitute our assumptions about what they must feel. That application does not establish the metaphysical claim of the universal knower. It follows a respectful orientation toward many fields of experience. Study should hold both parts together: careful attention to the changing field and inquiry into its knower, while allowing the full meaning of divine presence to remain a subject of thoughtful exploration.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna is to be known as the knower in all fields; knowledge of field and knower is called knowledge by him."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sivananda's chapter summary relates the individual knower to the Supreme Being's presence."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Humility toward another person's experience is an ethical application, not a claim of human mind-reading."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Ask one respectful question about another person's experience before assuming you understand it."
+    }
+  ],
+  "reflectionQuestion": "Whose experience have I replaced with my own assumption?",
+  "reflectionQuestionHindi": "किसके अनुभव की जगह मैंने अपना अनुमान रख दिया है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-018",
+  "sequenceNumber": 432,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 18,
+  "verseEnd": 18,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "अर्जुन का दिव्य निष्कर्ष / Arjuna's theological recognition",
+  "context": "Arjuna interprets the vision as the imperishable, supreme foundation and guardian of enduring dharma.",
+  "contextHindi": "अर्जुन अपने मत में कृष्ण को अक्षर, विश्व का आश्रय और शाश्वत धर्म का रक्षक कहते हैं।",
+  "sanskritDevanagari": "त्वमक्षरं परमं वेदितव्यं\nत्वमस्य विश्वस्य परं निधानम् |\nत्वमव्ययः शाश्वतधर्मगोप्ता\nसनातनस्त्वं पुरुषो मतो मे ||११-१८||",
+  "transliteration": "tvamakṣaraṃ paramaṃ veditavyaṃ tvamasya viśvasya paraṃ nidhānam .\ntvamavyayaḥ śāśvatadharmagoptā sanātanastvaṃ puruṣo mato me ||11-18||",
+  "wordByWord": [
+    {
+      "term": "अक्षरम्",
+      "meaning": "imperishable"
+    },
+    {
+      "term": "वेदितव्यम्",
+      "meaning": "worthy of being known"
+    },
+    {
+      "term": "निधानम्",
+      "meaning": "treasure-house or refuge"
+    },
+    {
+      "term": "मतः मे",
+      "meaning": "considered by me"
+    }
+  ],
+  "spokenHindi": "अर्जुन कहते हैं कि आप जानने योग्य परम अक्षर हैं, इस विश्व का परम निधान हैं, अव्यय और शाश्वत धर्म के रक्षक हैं। अंत में मतो मे आता है: यह मेरा मानना है। इस छोटे पद से उनके देखे हुए दृश्य और उसके बारे में उनके स्वीकार का अंतर साफ रहता है। निधान को दिए गए संस्करण में विश्व का महान भंडार कहा गया है; उसमें आधार और आश्रय की अनुभूति भी सुन सकते हैं। धर्मगोप्ता कृष्ण के दिव्य संरक्षण की भाषा है। इससे हर पुरानी सामाजिक रीति अपने आप शाश्वत धर्म बन जाती है, ऐसा निष्कर्ष जरूरी नहीं। अर्जुन किसी वर्तमान संस्था की सूची नहीं दे रहे। हमारा अनुप्रयोग अपनी मान्यता के आधार को साफ करना हो सकता है। मैं किस बात को टिकाऊ मूल्य मानता हूँ, और किसे केवल परिचित आदत? किसी आदत को बनाए रखने का कारण पूछना आदर का विरोध नहीं। जानने योग्य की भाषा यह भी याद दिलाती है कि असीम के प्रति विनम्रता और ज्ञान की चाह साथ रह सकती हैं। अर्जुन पहचान को विचार में बदलते हैं, जिज्ञासा बंद नहीं होती।",
+  "clearEnglish": "Arjuna moves from visual description into theological recognition. Krishna is called the imperishable, the supreme object to be known, the great repository of the universe, the enduring guardian of dharma and the ancient person. The concluding mato me, considered by me, marks the statement as Arjuna's judgment. It is not a new direct instruction from Krishna. The supplied edition's treasure-house rendering for nidhana can be retained without reducing it to material storage. The verse names a supreme ground. Likewise, eternal dharma should not be automatically equated with every inherited social practice. No list of such practices is given here. A modern application is to distinguish enduring commitments from habits that merely feel familiar. Ask what reason supports preserving one custom or routine, and whether that reason still serves its purpose. This is our inquiry, not a reinterpretation of Arjuna's divine addresses as institutional policy. The verse also calls the reality worthy of being known, keeping reverence connected with a desire for understanding.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna declares his view of Krishna as imperishable, supreme ground and protector of enduring dharma."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Examining a habit's purpose is an application; eternal dharma is not identified with every inherited custom."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Distinguish value and habit",
+      "text": "Choose one routine you maintain. State the value it serves and whether the current form still helps that value."
+    }
+  ],
+  "reflectionQuestion": "Which habit do I call essential without considering its purpose?",
+  "reflectionQuestionHindi": "किस आदत का उद्देश्य सोचे बिना मैं उसे अनिवार्य कह देता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

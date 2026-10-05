@@ -1,0 +1,75 @@
+{
+  "id": "bg-04-018",
+  "sequenceNumber": 180,
+  "date": "2026-10-05",
+  "chapter": 4,
+  "verseStart": 18,
+  "verseEnd": 18,
+  "chapterNameSanskrit": "ज्ञानकर्मसंन्यासयोग",
+  "chapterNameEnglish": "Jñāna Karma Sannyāsa Yoga",
+  "theme": "सत्य दृष्टि: कर्म में अकर्म और अकर्म में कर्म को देखना | The discerning eye: seeing action in inaction and inaction in action.",
+  "context": "Krishna describes a wise person as seeing inaction in action and action in inaction, and calls that person a yogi and performer of all actions. The commentary explains this paradox through the idea of agency: the sense of ‘I am the doer’ binds, while action without that sense does not bind.",
+  "contextHindi": "कृष्ण कहते हैं कि जो व्यक्ति कर्म में अकर्म और अकर्म में कर्म देखता है, वह बुद्धिमान और योगी है तथा सभी कर्मों का कर्ता है। टीका इस बात को कर्तापन के भाव से समझाती है: ‘मैं ही करता हूँ’ का भाव बाँधता है, जबकि इस भाव के बिना किया गया कर्म बाँधता नहीं।",
+  "sanskritDevanagari": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः |\nस बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत् ||४-१८||",
+  "transliteration": "karmaṇyakarma yaḥ paśyedakarmaṇi ca karma yaḥ .\nsa buddhimānmanuṣyeṣu sa yuktaḥ kṛtsnakarmakṛt ||4-18||",
+  "wordByWord": [
+    {
+      "term": "कर्मणि",
+      "meaning": "karmaṇi — in the midst of action; in active life and duty."
+    },
+    {
+      "term": "अकर्मणि",
+      "meaning": "akarmaṇi — in apparent inaction; in the seeming absence of activity."
+    },
+    {
+      "term": "बुद्धिमान्",
+      "meaning": "buddhimān — one whose intelligence is clear, discerning, and not simply busy."
+    },
+    {
+      "term": "युक्तः",
+      "meaning": "yuktaḥ — united, disciplined, established in wisdom rather than in agitation."
+    },
+    {
+      "term": "कृत्स्नकर्मकृत्",
+      "meaning": "kṛtsnakarmakṛt — performer of all actions."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जो व्यक्ति कर्म में अकर्म और अकर्म में कर्म देखता है, वह मनुष्यों में बुद्धिमान है। वे उसे योगी और सभी कर्मों का कर्ता भी कहते हैं। श्लोक इन बातों को कहता है, लेकिन कर्तापन का अर्थ विस्तार से नहीं समझाता। टीका इस विरोधाभास को ‘मैं करता हूँ’ के भाव से समझाती है। उसके अनुसार, यही भाव कर्म को बंधन बनाता है; उसके न रहने पर कर्म बाँधता नहीं। यह टीका की व्याख्या है, शब्दों का सीधा अर्थ नहीं। यहाँ ‘कृत्स्नकर्मकृत्’ का अर्थ है ‘सभी कर्मों का कर्ता’ या ‘सभी कर्म करने वाला’। इसलिए श्लोक के कथन और टीका की व्याख्या को अलग-अलग समझना चाहिए।",
+  "clearEnglish": "Krishna describes a wise person as seeing inaction in action and action in inaction. He calls that person wise among people, a yogi, and a performer of all actions. The verse itself does not state that inner consciousness, rather than outward behavior, is its criterion, nor does it explain the paradox through the idea of agency. That explanation comes from the commentary. The commentary says that the sense of “I am the doer” binds a person, and that action without this sense does not bind. This is a way of understanding the verse, not the literal meaning of kṛtsnakarmakṛt. That term means “performer of all actions.” Keeping the verse’s statement distinct from the commentary’s explanation preserves both: what Krishna says in the verse and how the commentary interprets it.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse says that a wise person sees inaction in action and action in inaction. It calls that person a yogi and a performer of all actions."
+    },
+    {
+      "label": "COMMENTARY",
+      "explanation": "The DLS commentary emphasizes the role of agency: the idea of ‘I am the doer’ binds a person to the world. Without that idea, even active work can be free from bondage. This is a direct support for the verse’s practical emphasis on inner discernment."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "It is reasonable to infer that spiritual understanding goes beyond judging only by visible activity or stillness. But the commentary’s teaching about non-doership concerns freedom from bondage; it does not make harmful or forbidden conduct acceptable or liberating. The sense of agency is not a substitute for ethical discernment."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Observe before judging",
+      "text": "When you feel either too busy or too shut down, look at the inner motive: is there fear, pride, or grasping? Then choose action or stillness that supports steadiness, not drama."
+    }
+  ],
+  "reflectionQuestion": "Can you notice a moment when you confused visible activity with real wisdom, or visible stillness with inner freedom?",
+  "reflectionQuestionHindi": "क्या आप कोई ऐसा क्षण पहचान सकते हैं जब आपने बाहरी सक्रियता को वास्तविक ज्ञान समझा, या बाहरी शांति को आंतरिक स्वतंत्रता मान लिया?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

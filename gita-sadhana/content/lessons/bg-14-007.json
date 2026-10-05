@@ -1,0 +1,67 @@
+{
+  "id": "bg-14-007",
+  "sequenceNumber": 531,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 7,
+  "verseEnd": 7,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "The thirst behind activity / कर्म के पीछे की तृष्णा",
+  "context": "Krishna describes rajas as passionate and as binding through attachment to action.",
+  "contextHindi": "सत्त्व के सूक्ष्म बंधन के बाद कृष्ण रज की तृष्णा, आसक्ति और कर्म से चिपकने को समझाते हैं।",
+  "sanskritDevanagari": "रजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भवम् |\nतन्निबध्नाति कौन्तेय कर्मसङ्गेन देहिनम् ||१४-७||",
+  "transliteration": "rajo rāgātmakaṃ viddhi tṛṣṇāsaṅgasamudbhavam .\ntannibadhnāti kaunteya karmasaṅgena dehinam ||14-7||",
+  "wordByWord": [
+    {
+      "term": "rāgātmakam",
+      "meaning": "of the nature of passion or attachment"
+    },
+    {
+      "term": "tṛṣṇā",
+      "meaning": "thirst or craving; तृष्णा"
+    },
+    {
+      "term": "saṅga",
+      "meaning": "attachment; लगाव"
+    },
+    {
+      "term": "karmasaṅgena",
+      "meaning": "by attachment to action"
+    }
+  ],
+  "spokenHindi": "कृष्ण रज को राग के स्वभाव वाला बताते हैं। इसमें तृष्णा और लगाव की भूमिका है, और यह देही को कर्म की आसक्ति से बाँधता है। हमें काम करना ही है, इसलिए इस श्लोक को काम छोड़ने का आदेश न समझें। ध्यान उस आग्रह पर है जो कहता है कि कुछ और करते रहने पर ही मैं सुरक्षित, सफल या महत्वपूर्ण हो पाऊँगा। कोई जरूरी काम शांत समझ से भी हो सकता है; वही काम तुलना और बेचैनी से भरा हो तो उसका अनुभव अलग होगा। हम संदेश भेजने के बाद बार बार उत्तर देख सकते हैं, या एक लक्ष्य पूरा करके तुरंत दूसरा पकड़ सकते हैं। ये आज के उदाहरण हैं, श्लोक में बताए हुए प्रसंग नहीं। रज को पहचानने का प्रश्न है: इस गति को क्या चला रहा है? उत्साह उपयोगी हो सकता है, पर अनिवार्य बनी दौड़ हमें अपनी सीमा और दूसरों की जरूरत से दूर कर सकती है। एक छोटे विराम में उद्देश्य याद करना कर्म को अधिक स्पष्ट और जिम्मेदार दिशा दे सकता है।",
+  "clearEnglish": "Rajas binds through attachment to action, and Krishna associates it with passion, thirst, and attachment. The target is not movement as such. This teaching occurs in a dialogue that repeatedly takes action seriously, so identifying every busy person with spiritual failure would distort the inquiry. The relevant distinction is between purposeful effort and a dependence on continued doing for reassurance or identity. A task can be necessary while the craving surrounding it adds avoidable pressure. Contemporary examples include refreshing a reply repeatedly or treating each completed goal as inadequate before pausing to assess its value. Such examples are applications, not literal details of the verse. Asking what the activity is meant to serve can expose a hidden demand for recognition. It can also help preserve useful energy without letting urgency govern every choice. The verse offers language for examining motivation; it does not authorize judging another person's inner condition from their workload or visible ambition.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes rajas as passionate, connected with thirst and attachment, and binding through attachment to action."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A pause to examine the craving behind activity applies the teaching without identifying all effort as bondage."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Before starting the next task, write its concrete purpose and one reasonable stopping point."
+    }
+  ],
+  "reflectionQuestion": "What am I hoping constant activity will prove about me?",
+  "reflectionQuestionHindi": "लगातार काम करते रहने से मैं अपने बारे में क्या साबित करना चाहता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

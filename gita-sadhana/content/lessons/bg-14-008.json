@@ -1,0 +1,71 @@
+{
+  "id": "bg-14-008",
+  "sequenceNumber": 532,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 8,
+  "verseEnd": 8,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "Heedlessness and obscured understanding / समझ पर अज्ञान का पर्दा",
+  "context": "Krishna completes the initial description of the three qualities by explaining tamas.",
+  "contextHindi": "कृष्ण अब तम की उत्पत्ति अज्ञान में बताते हैं और उसके बंधन के रूप गिनाते हैं।",
+  "sanskritDevanagari": "तमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम् |\nप्रमादालस्यनिद्राभिस्तन्निबध्नाति भारत ||१४-८||",
+  "transliteration": "tamastvajñānajaṃ viddhi mohanaṃ sarvadehinām .\npramādālasyanidrābhistannibadhnāti bhārata ||14-8||",
+  "wordByWord": [
+    {
+      "term": "ajñānajam",
+      "meaning": "born of ignorance; अज्ञान से उत्पन्न"
+    },
+    {
+      "term": "mohanam",
+      "meaning": "deluding; मोह पैदा करने वाला"
+    },
+    {
+      "term": "pramāda",
+      "meaning": "heedlessness; असावधानी"
+    },
+    {
+      "term": "ālasya",
+      "meaning": "indolence; आलस्य"
+    },
+    {
+      "term": "nidrā",
+      "meaning": "sleep; नींद"
+    }
+  ],
+  "spokenHindi": "कृष्ण तम को अज्ञान से उत्पन्न और सभी देहधारियों को मोह में डालने वाला बताते हैं। इसके बंधन में प्रमाद, आलस्य और निद्रा का उल्लेख आता है। प्रमाद केवल धीमी गति नहीं, जरूरी बात से असावधान हो जाना भी है। श्लोक में नींद के आने से यह निष्कर्ष निकालना गलत होगा कि शरीर की जरूरत का आराम आध्यात्मिक दोष है। यहाँ नींद उस जड़ता की चर्चा में आती है जो समझ और सजगता को ढक देती है। पर्याप्त विश्राम कई बार जिम्मेदार काम की तैयारी होता है। आज का एक सीमित उदाहरण है किसी कठिन बिल या बातचीत को बिना देखे टालते रहना, जबकि मन मानता रहे कि सब अपने आप ठीक हो जाएगा। यह उदाहरण तम की कार्यविधि पर सोचने में मदद करता है; किसी व्यक्ति को तामसिक कहकर छोटा करने के लिए नहीं। यदि थकावट लगातार बनी है तो सहायता लेना ठीक है। छोटी शुरुआत करें: तथ्य देखें, अगला सरल कदम चुनें और अपनी क्षमता के अनुसार उसे पूरा करें।",
+  "clearEnglish": "Krishna traces tamas to ignorance and describes its power to delude embodied beings. It binds through heedlessness, indolence, and sleep. These words belong to a discussion of obscured understanding, not a general prohibition on rest. Ordinary sleep is necessary, and persistent exhaustion cannot responsibly be classified as a spiritual failing from this verse alone. The useful question is whether inattention is hiding something that needs to be recognized. For instance, avoiding a difficult notice may preserve a momentary sense of ease while making its consequences harder to address. That example is a modern inference about heedlessness. It should not become a label attached to the whole person. The teaching directs attention toward what clouds judgment and interrupts responsible engagement. A small factual step can help: read the notice, ask for clarification, or arrange support. Where health, disability, or distress affects capacity, suitable assistance matters. Spiritual self-observation should make the next action clearer and kinder, rather than produce contempt for one's limitations.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Tamas is born of ignorance, deludes embodied beings, and binds through heedlessness, indolence, and sleep."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Distinguishing obscuring avoidance from necessary rest is a responsible application; the verse supplies no medical diagnosis."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Choose one safely manageable avoided matter, check its facts, and take a small step or ask for help."
+    }
+  ],
+  "reflectionQuestion": "What fact might I be avoiding, and what support would help me face it?",
+  "reflectionQuestionHindi": "मैं किस तथ्य से बच रहा हूँ, और उसे देखने में कौन सा सहयोग मदद करेगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

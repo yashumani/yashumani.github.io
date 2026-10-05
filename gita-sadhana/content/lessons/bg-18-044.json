@@ -1,0 +1,79 @@
+{
+  "id": "bg-18-044",
+  "sequenceNumber": 667,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 44,
+  "verseEnd": 44,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Provision, trade, and service / उत्पादन, व्यापार और सेवा",
+  "context": "Krishna names agriculture, cattle care, and trade for Vaishyas and service for Shudras; Sivananda adds a comment on properly performed duty.",
+  "contextHindi": "कृष्ण वैश्य कर्म में कृषि, पशु देखभाल और व्यापार तथा शूद्र कर्म में सेवा कहते हैं।",
+  "sanskritDevanagari": "कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम् |\nपरिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम् ||१८-४४||",
+  "transliteration": "kṛṣigaurakṣyavāṇijyaṃ vaiśyakarma svabhāvajam .\nparicaryātmakaṃ karma śūdrasyāpi svabhāvajam ||18-44||",
+  "wordByWord": [
+    {
+      "term": "kṛṣi",
+      "meaning": "agriculture; खेती"
+    },
+    {
+      "term": "gaurakṣya",
+      "meaning": "cattle care or protection"
+    },
+    {
+      "term": "vāṇijyam",
+      "meaning": "trade; व्यापार"
+    },
+    {
+      "term": "paricaryātmakaṃ karma",
+      "meaning": "work consisting of service"
+    },
+    {
+      "term": "svabhāvajam",
+      "meaning": "born of nature"
+    }
+  ],
+  "spokenHindi": "कृष्ण कृषि, गोपालन और व्यापार को वैश्य के स्वभावजन्य कर्म तथा सेवा के काम को शूद्र का स्वभावजन्य कर्म बताते हैं। ये नाम और कार्य पाठ में हैं; उन्हें पूरी तरह हटाकर केवल सामान्य सहयोग कहना अर्थ घटाएगा। स्वामी सिवानंद की टिप्पणी अपने जीवन क्रम के दायित्व ठीक निभाने से हृदय की शुद्धि और स्वर्ग की बात जोड़ती है। यह टिप्पणी का फल है, श्लोक की मूल सूची से अलग। यहाँ किसी समूह का जन्म से कम आध्यात्मिक मूल्य नहीं कहा गया। सेवा करने वाला व्यक्ति गरिमा, न्यायपूर्ण व्यवहार और विकास के अवसर से वंचित होना चाहिए, यह निष्कर्ष भी पाठ नहीं देता। आज का नैतिक अनुप्रयोग भोजन, व्यापार और सेवाओं में लगे लोगों के काम का सम्मान है। यह आधुनिक दिशा है। परिवार की पेशा संबंधी प्रथा को अनिवार्य सार्वभौमिक नियम मानना अलग बात होगी। अपने व्यवहार में किसी सेवा करने वाले से स्पष्ट और सम्मानपूर्ण बात करें। काम की भूमिका व्यक्ति की पूरी पहचान नहीं; वास्तविक कौशल और जरूरत को देखना उचित संबंध का आधार हो सकता है।",
+  "clearEnglish": "Krishna assigns agriculture, cattle care, and trade to the Vaishya description and service-oriented work to the Shudra description, each called born of nature. These categories and activities belong to the text and should remain explicit. Sivananda's commentary adds that rightly performing duties within one's order of life purifies the heart and leads to heaven. That is a named explanatory addition, distinct from the verse's list. The verse does not state that people doing service have lower spiritual worth or should be denied dignity and opportunity. A contemporary ethical application is to respect those whose labor supports food, exchange, and services. It should not be confused with a claim that every person's occupation must be fixed by inherited identity. Any family rule about inherited work belongs to custom and requires its own account. In practice, communicate with a service worker clearly and respectfully, recognizing skill and need. A task's social role is not the whole identity of the person performing it.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Agriculture, cattle care, and trade are named as Vaishya work; service-oriented work as Shudra work, both born of nature."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sri Swami Sivananda adds that properly performing duties within one's order of life purifies the heart and leads to heaven."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Respect for workers' dignity is a modern ethical application; the verse does not assign lesser spiritual worth to service workers."
+    },
+    {
+      "label": "CUSTOM",
+      "explanation": "A family's inherited occupational rule is a custom claim and is not identical to every word of this verse."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Make one interaction with a worker clear and respectful, acknowledging the skill their work requires."
+    }
+  ],
+  "reflectionQuestion": "Do I reduce a person to the service they provide me?",
+  "reflectionQuestionHindi": "क्या मैं किसी व्यक्ति को केवल उसकी मेरे लिए की सेवा तक सीमित समझता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

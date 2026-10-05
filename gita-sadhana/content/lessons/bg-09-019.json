@@ -1,0 +1,75 @@
+{
+  "id": "bg-09-019",
+  "sequenceNumber": 357,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 19,
+  "verseEnd": 19,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "गर्मी, वर्षा, अमृत और मृत्यु | Heat, rain, immortality, and death",
+  "context": "Krishna continues the series of identifications describing his relation to the world.",
+  "contextHindi": "जगत से अपना संबंध बताने वाले कथनों को कृष्ण आगे बढ़ाते हैं।",
+  "sanskritDevanagari": "तपाम्यहमहं वर्षं निगृह्णाम्युत्सृजामि च |\nअमृतं चैव मृत्युश्च सदसच्चाहमर्जुन ||९-१९||",
+  "transliteration": "tapāmyahamahaṃ varṣaṃ nigṛhṇāmyutsṛjāmi ca .\namṛtaṃ caiva mṛtyuśca sadasaccāhamarjuna ||9-19||",
+  "wordByWord": [
+    {
+      "term": "तपामि",
+      "meaning": "I give heat."
+    },
+    {
+      "term": "वर्षम्",
+      "meaning": "Rain."
+    },
+    {
+      "term": "निगृह्णामि",
+      "meaning": "I withhold."
+    },
+    {
+      "term": "उत्सृजामि",
+      "meaning": "I send forth or release."
+    },
+    {
+      "term": "अमृतम्",
+      "meaning": "Immortality."
+    },
+    {
+      "term": "सत् असत्",
+      "meaning": "Existence and non-existence."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि वे गर्मी देते हैं, वर्षा रोकते हैं और उसे भेजते हैं। फिर वे स्वयं को अमृत और मृत्यु, सत् और असत् कहते हैं। दिए गए संस्करण में सत् और असत् को अस्तित्व और अनस्तित्व कहा गया है। इन विपरीत शब्दों को सुनकर अपनी ओर से लंबी परिभाषा बना देना आवश्यक नहीं। अमृत को केवल जीवन की संस्था की निरंतरता कहना भी मूल शब्द को बदल देगा; यहाँ अमरत्व का कथन है। कृष्ण का आत्मवर्णन बहुत व्यापक है। इससे प्राकृतिक कठिनाई में पीड़ित लोगों को दंडित मानने का निष्कर्ष नहीं निकलता। सूखा, गर्मी या शोक के समय देखभाल और सहायता का काम महत्त्वपूर्ण रहता है। आधुनिक चिंतन में हम पानी और ऊर्जा के प्रति कृतज्ञता रख सकते हैं और उनका जिम्मेदार उपयोग देख सकते हैं। यह दैनिक अनुप्रयोग है, मौसम का पूरा धार्मिक कारण नहीं। आज एक साधारण सुविधा, जैसे उपलब्ध पानी, को ध्यान से देखें। उसकी उपलब्धता का सम्मान करें और किसी जरूरतमंद की सहायता का उचित छोटा अवसर हो तो उसे पहचानें।",
+  "clearEnglish": "Krishna's self-description embraces contrasts: he gives heat, withholds and releases rain, and is immortality and death, existence and nonexistence. The primary edition supplies the sun as the context of giving heat and renders sat and asat through existence and nonexistence. The verse does not provide a detailed account of those paired terms. Defining immortality merely as continuity of a life system, or death as an assurance about every individual's deeper identity, would add unsupported explanation. Its theological scope is expansive enough without those additions. A contemporary application can express gratitude for the natural conditions on which life depends while retaining responsibility to respond to hardship. The claim about divine relation to heat and rain does not authorize declaring disaster victims punished or advising them to accept preventable suffering. Caring action remains appropriate. One may use water attentively or recognize another person's need, but that practical choice is our ethical response rather than a literal instruction in the verse. The pairs can be contemplated without pretending we have resolved their entire metaphysical significance.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says he gives heat, withholds and releases rain, and is immortality, death, existence, and nonexistence."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Gratitude for natural conditions can accompany practical care; the verse does not warrant blaming people harmed by weather or loss."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Respect one resource",
+      "text": "Notice one ordinary resource, such as water, and use it with care today."
+    }
+  ],
+  "reflectionQuestion": "How can gratitude for life's conditions become responsible care?",
+  "reflectionQuestionHindi": "जीवन की सुविधाओं के लिए कृतज्ञता जिम्मेदार देखभाल में कैसे बदल सकती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

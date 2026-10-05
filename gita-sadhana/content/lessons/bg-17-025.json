@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-025",
+  "sequenceNumber": 620,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 25,
+  "verseEnd": 25,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "तत् और फल की पकड़ / Tat and relinquishing reward",
+  "context": "Krishna explains how seekers of liberation perform sacrifice, austerity, and giving with Tat and without aiming at fruit.",
+  "contextHindi": "कृष्ण बताते हैं कि मुक्ति के इच्छुक तत् कहकर फल को लक्ष्य बनाए बिना यज्ञ, तप और दान करते हैं।",
+  "sanskritDevanagari": "तदित्यनभिसन्धाय फलं यज्ञतपःक्रियाः |\nदानक्रियाश्च विविधाः क्रियन्ते मोक्षकाङ्क्षिभिः ||१७-२५||",
+  "transliteration": "tadityanabhisandhāya phalaṃ yajñatapaḥkriyāḥ .\ndānakriyāśca vividhāḥ kriyante mokṣakāṅkṣibhiḥ ||17-25||",
+  "wordByWord": [
+    {
+      "term": "tat",
+      "meaning": "That; a designation of Brahman here"
+    },
+    {
+      "term": "anabhisandhāya phalam",
+      "meaning": "Without aiming at the fruit"
+    },
+    {
+      "term": "mokṣakāṅkṣibhiḥ",
+      "meaning": "By seekers of liberation"
+    },
+    {
+      "term": "dānakriyāḥ",
+      "meaning": "Acts of giving"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि मुक्ति चाहने वाले तत् कहकर यज्ञ, तप और अलग अलग दान करते हैं, फल को लक्ष्य बनाए बिना। तत् का साधारण अर्थ वह है, लेकिन इस प्रसंग में वह ब्रह्म के निर्देश से जुड़ा है। शब्द और उद्देश्य दोनों साथ आते हैं। यह संसार के किसी काम का परिणाम बिल्कुल न देखना नहीं है। किसी दान से मदद पहुँची या नहीं, इसे जांचना जिम्मेदारी है। यहाँ निजी फल की पकड़ के बिना धार्मिक कर्म की दिशा कही गई है। आधुनिक समानता में हम किसी अच्छे काम को केवल अपनी छवि या लाभ का साधन बनाने से बच सकते हैं। यह समानता मुक्ति का तत्काल प्रमाण नहीं देती। आज किसी सहायता या अध्ययन में देखें कि उद्देश्य कितना स्पष्ट है। क्या लाभ पाने वाला या सीखने की जरूरत सामने है, या आपका मन केवल अपने लिए श्रेय गिन रहा है? छोटा योगदान सावधानी से करें और उसका परिणाम ईमानदारी से देखें। फिर जो व्यक्तिगत प्रशंसा आपके नियंत्रण में नहीं है, उस पर अपनी पकड़ हल्की करने का अभ्यास करें।",
+  "clearEnglish": "Krishna says that seekers of liberation perform sacrifice, austerity, and various acts of giving with the expression Tat, without aiming at the fruit. Tat means That and, in this passage, belongs to the designation of Brahman introduced earlier. The act's orientation is therefore religiously significant; it is not merely a technique for reducing stress. A modern analogy can distinguish responsible attention to outcomes from demanding a personal reward. If assistance fails to reach its intended recipient, checking and correcting that failure remains necessary. Non-seeking should not become indifference to whether an act helps. The contemporary practice is to carry out a useful contribution carefully while examining the wish to possess its credit. This analogy neither replaces the ritual meaning nor certifies liberation. Before one act, name whom or what it serves. Afterwards, assess the actual benefit, and notice whether an unfulfilled expectation of praise is obscuring that benefit. The work can matter without becoming a claim on recognition.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes seekers of liberation performing sacrifice, austerity, and giving with Tat, without aiming at fruit."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Assessing usefulness while releasing a demand for personal credit is a modern analogy, not indifference to outcomes."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Benefit before credit",
+      "text": "Complete one contribution, check whether it helped, and release one expectation of personal praise."
+    }
+  ],
+  "reflectionQuestion": "Can I care about the result without claiming its recognition?",
+  "reflectionQuestionHindi": "क्या मैं परिणाम की परवाह करते हुए उसके श्रेय की पकड़ छोड़ सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

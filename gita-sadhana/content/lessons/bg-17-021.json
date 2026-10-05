@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-021",
+  "sequenceNumber": 616,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 21,
+  "verseEnd": 21,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "बदले की अपेक्षा वाला दान / Giving as a transaction",
+  "context": "Krishna describes giving aimed at return or reward, or offered reluctantly, as rajasic.",
+  "contextHindi": "कृष्ण बदले के उपकार, फल की इच्छा या अनिच्छा से दिए दान को राजसिक बताते हैं।",
+  "sanskritDevanagari": "यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः |\nदीयते च परिक्लिष्टं तद्दानं राजसं स्मृतम् ||१७-२१||",
+  "transliteration": "yattu pratyupakārārthaṃ phalamuddiśya vā punaḥ .\ndīyate ca parikliṣṭaṃ taddānaṃ rājasaṃ smṛtam ||17-21||",
+  "wordByWord": [
+    {
+      "term": "pratyupakārārtham",
+      "meaning": "For a return favour"
+    },
+    {
+      "term": "phalam uddiśya",
+      "meaning": "Aiming at a result"
+    },
+    {
+      "term": "parikliṣṭam",
+      "meaning": "Reluctantly or with difficulty"
+    },
+    {
+      "term": "dānam",
+      "meaning": "Gift or giving"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि बदले के उपकार या फल को लक्ष्य करके दिया गया दान राजसिक है। अनिच्छा से दिया जाना भी इस वर्णन में है। कभी उपहार के भीतर ऐसा अनुबंध छिपा रहता है जो कहा नहीं गया: मैंने दिया है, इसलिए अब तुम मेरी बात मानो। बाहर उदारता दिखती है, भीतर हिसाब बना रहता है। यह आधुनिक उदाहरण है, श्लोक की अतिरिक्त घटना नहीं। जरूरी व्यापारिक लेनदेन और दान में फर्क भी साफ रखें। यदि काम का उचित भुगतान चाहिए, तो उसे दान का नाम देकर छिपाने की जरूरत नहीं। इसी तरह क्षमता से बाहर मदद करने का दबाव भी उपयोगी नहीं है। देने से पहले सीमा ईमानदारी से कहना बेहतर हो सकता है। आज किसी प्रस्तावित मदद को देखें। क्या आप वास्तव में स्वतंत्र रूप से दे रहे हैं या कोई प्रतिफल जोड़ रहे हैं? यदि शर्त है, तो उसे स्पष्ट करें। यदि बिना शर्त देना सम्भव है, तो बाद में उसका हथियार न बनाएं। संबंध तभी साफ रहते हैं जब मदद और मांग अलग समझी जा सकती हैं।",
+  "clearEnglish": "Krishna calls giving rajasic when it seeks a return favour, aims at a reward, or is offered reluctantly. The description brings an implicit transaction into view. A gift may be presented as free while the giver privately records a debt of loyalty, gratitude, or influence. These are contemporary examples rather than a list supplied by the verse. It is also important to distinguish a gift from an openly negotiated exchange. Fair compensation for work should not be disguised as charity, and a person need not exceed their capacity to appear generous. An honest limit can be more responsible than resentful giving. Before one offer of assistance, ask whether there is a condition you expect the recipient to satisfy. If so, make the arrangement clear rather than concealing it under a generous name. If the gift is genuinely unconditional, avoid using it later as a weapon in an argument. Transparency protects both the giver's boundaries and the recipient's freedom.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies giving for return, reward, or with reluctance as rajasic."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Clarifying an expected condition applies the distinction while keeping fair exchanges and legitimate limits visible."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Name any condition",
+      "text": "Check one offer of help for an unspoken expectation; state a condition honestly or release it."
+    }
+  ],
+  "reflectionQuestion": "What repayment have I silently attached to this gift?",
+  "reflectionQuestionHindi": "इस दान के साथ मैंने मन में कौन सा बदला चुपचाप जोड़ दिया है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

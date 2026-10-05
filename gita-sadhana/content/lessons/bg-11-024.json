@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-024",
+  "sequenceNumber": 438,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 24,
+  "verseEnd": 24,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "धैर्य और शांति न मिलना / Unable to find steadiness",
+  "context": "Arjuna describes the radiant sky-reaching form and says he cannot find courage or peace.",
+  "contextHindi": "अर्जुन आकाश छूते दीप्त रूप को देखकर कहते हैं कि उन्हें धृति और शम नहीं मिल रहे।",
+  "sanskritDevanagari": "नभःस्पृशं दीप्तमनेकवर्णं\nव्यात्ताननं दीप्तविशालनेत्रम् |\nदृष्ट्वा हि त्वां प्रव्यथितान्तरात्मा\nधृतिं न विन्दामि शमं च विष्णो ||११-२४||",
+  "transliteration": "nabhaḥspṛśaṃ dīptamanekavarṇaṃ vyāttānanaṃ dīptaviśālanetram .\ndṛṣṭvā hi tvāṃ pravyathitāntarātmā dhṛtiṃ na vindāmi śamaṃ ca viṣṇo ||11-24||",
+  "wordByWord": [
+    {
+      "term": "नभःस्पृशम्",
+      "meaning": "touching the sky"
+    },
+    {
+      "term": "व्यात्ताननम्",
+      "meaning": "with mouths wide open"
+    },
+    {
+      "term": "धृतिम्",
+      "meaning": "courage or firmness"
+    },
+    {
+      "term": "शमम्",
+      "meaning": "peace or inward calm"
+    }
+  ],
+  "spokenHindi": "अर्जुन कहते हैं कि वे आकाश को छूता, अनेक रंगों से चमकता, खुले मुखों और बड़े दीप्त नेत्रों वाला रूप देखकर भीतर से व्यथित हैं। उन्हें धृति और शम नहीं मिलते। धृति में संभलने का बल या धैर्य है; शम में मन की शांति। वे दोनों की कमी अलग शब्दों में कहते हैं। यह केवल दृश्य का नया सजावटी विवरण नहीं, देखने वाले की सीमा की साफ अभिव्यक्ति है। विष्णो कृष्ण के लिए संबोधन है। अर्जुन अपनी स्थिति छिपाकर निर्भय होने का अभिनय नहीं करते। हमारे जीवन में कोई चीज अधिक भारी लगे तो रुकना और स्पष्ट कहना कि अभी इसे संभालना कठिन है, उचित हो सकता है। यह सामान्य समर्थन का उपयोग है, विश्वरूप का समान अनुभव या चिकित्सा का दावा नहीं। पाठ पढ़ते हुए असुविधा हो तो थोड़ी देर विराम लें और आसपास की साधारण चीजों पर ध्यान दें। जरूरत हो तो भरोसेमंद सहायता माँगें। किसी अभ्यास की गरिमा इस बात में नहीं कि व्यक्ति अपनी सीमा दबाकर चलता रहे; यह विचार हमारे जिम्मेदार अनुप्रयोग का है।",
+  "clearEnglish": "The visual abundance now meets a stated limit in Arjuna. He describes a sky-reaching, many-coloured, radiant form with open mouths and great shining eyes, then says he finds neither firmness nor peace. Dhriti and shama identify different aspects of steadiness: the capacity to remain firm and the quiet of mind. The description is therefore not just another decorative addition to the cosmic scene. It tells us what the scene is doing to the person seeing it. Arjuna addresses Krishna as Vishnu and speaks plainly about his condition. A careful application is to respect an ordinary limit before it becomes a demand to perform composure. If reading or reflection feels too intense, pause and return attention to familiar surroundings; seek trusted support where useful. This is modest practical guidance, not a claim that the vision is a modern clinical event or that a brief pause treats a condition. The verse makes room for the truthful acknowledgment that courage and calm are not currently available.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna describes the radiant form and says he cannot find firmness or peace."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Pausing and seeking support can respect ordinary limits; distress is not a clinical diagnosis supplied by the verse."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "A gentle pause",
+      "text": "If the reading feels intense, pause, look at familiar surroundings and resume only when comfortable. Ask for trusted support if you need it."
+    }
+  ],
+  "reflectionQuestion": "What would an honest acknowledgment of my current limit sound like?",
+  "reflectionQuestionHindi": "अपनी वर्तमान सीमा का ईमानदार स्वीकार मैं किन शब्दों में कर सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

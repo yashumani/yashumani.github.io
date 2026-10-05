@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-034",
+  "sequenceNumber": 657,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 34,
+  "verseEnd": 34,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Firmness tied to reward / फल से बँधी धृति",
+  "context": "Krishna describes rajasic resolve as attachment to dharma, pleasure, and wealth with desire for their fruits.",
+  "contextHindi": "कृष्ण धर्म, काम और अर्थ को फल की आकांक्षा तथा लगाव से पकड़े रखने वाली धृति को राजसी कहते हैं।",
+  "sanskritDevanagari": "यया तु धर्मकामार्थान्धृत्या धारयतेऽर्जुन |\nप्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी ||१८-३४||",
+  "transliteration": "yayā tu dharmakāmārthāndhṛtyā dhārayate.arjuna .\nprasaṅgena phalākāṅkṣī dhṛtiḥ sā pārtha rājasī ||18-34||",
+  "wordByWord": [
+    {
+      "term": "dharmakāmārthān",
+      "meaning": "dharma, pleasure, and wealth"
+    },
+    {
+      "term": "prasaṅgena",
+      "meaning": "through attachment"
+    },
+    {
+      "term": "phalākāṅkṣī",
+      "meaning": "desiring the fruit"
+    },
+    {
+      "term": "rājasī",
+      "meaning": "rajasic; driven by attachment"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जिस धृति से धर्म, काम और अर्थ को लगाव के साथ पकड़ा जाता है और फल की आकांक्षा बनी रहती है, वह राजसी है। सूची में धर्म भी है, इसलिए केवल विषय का अच्छा नाम प्रेरणा को अपने आप शुद्ध नहीं कर देता। सेवा के काम में भी सम्मान की चाह आ सकती है। धन कमाना जरूरी हो सकता है, फिर भी उससे अपना पूरा मूल्य साबित करने का आग्रह अलग बात है। ये आज के उदाहरण हैं। श्लोक धर्म, आनंद या आजीविका को पूरी तरह त्याज्य नहीं कहता; यहाँ धृति के पीछे का फल से जुड़ा लगाव मुख्य है। अपने लिए पूछें कि यदि काम का श्रेय कम मिले तो क्या उसका उचित उद्देश्य बचा रहेगा। जरूरी मजदूरी या संसाधन का मूल्य पूछना भी आसक्ति का सरल प्रमाण नहीं; न्यायपूर्ण जरूरत वास्तविक है। आज एक काम का आवश्यक फल और अतिरिक्त मान्यता की चाह अलग लिखें। यह अभ्यास राजसी का स्थायी लेबल लगाने के लिए नहीं, प्रेरणा को साफ देखने और अधिक जिम्मेदार निर्णय लेने के लिए है।",
+  "clearEnglish": "Rajasic firmness holds to dharma, enjoyment, and wealth through attachment and desire for results. The inclusion of dharma is significant: a respectable subject does not by itself establish a free motivation. Service can be pursued for recognition, and livelihood can carry an additional demand to prove one's worth. These are contemporary illustrations of attachment to fruits. The verse does not declare duty, pleasure, or economic provision inherently unacceptable. It classifies the quality of resolve surrounding them. Legitimate pay and needed resources also should not be confused automatically with greed; practical justice remains relevant. A useful inquiry separates the necessary outcome of a task from the extra approval one wants it to deliver. If recognition were smaller, would the task's responsible purpose still matter? This is an application rather than a spiritual diagnosis. It can make persistence more informed by revealing what the effort is meant to serve and whether the demand for reward has begun to govern judgment.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Firmness holding dharma, pleasure, and wealth through attachment and desire for fruits is called rajasic."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Separating necessary outcomes from extra recognition applies the motivation distinction without condemning livelihood or fair compensation."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "For one task, write its necessary result and the additional approval you hope to receive."
+    }
+  ],
+  "reflectionQuestion": "Would the responsible purpose remain if recognition were reduced?",
+  "reflectionQuestionHindi": "मान्यता कम मिले तो भी क्या इस काम का उचित उद्देश्य बना रहेगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

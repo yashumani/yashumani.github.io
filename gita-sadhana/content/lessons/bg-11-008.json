@@ -1,0 +1,71 @@
+{
+  "id": "bg-11-008",
+  "sequenceNumber": 422,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 8,
+  "verseEnd": 8,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "दिव्य दृष्टि का उपहार / The gift of divine sight",
+  "context": "Krishna says ordinary eyes are insufficient for this vision and grants Arjuna divine sight.",
+  "contextHindi": "कृष्ण कहते हैं कि अर्जुन अपने सामान्य नेत्रों से यह रूप नहीं देख सकते, और उन्हें दिव्य दृष्टि देते हैं।",
+  "sanskritDevanagari": "न तु मां शक्यसे द्रष्टुमनेनैव स्वचक्षुषा |\nदिव्यं ददामि ते चक्षुः पश्य मे योगमैश्वरम् ||११-८||",
+  "transliteration": "na tu māṃ śakyase draṣṭumanenaiva svacakṣuṣā .\ndivyaṃ dadāmi te cakṣuḥ paśya me yogamaiśvaram ||11-8||",
+  "wordByWord": [
+    {
+      "term": "स्वचक्षुषा",
+      "meaning": "with one's own eyes"
+    },
+    {
+      "term": "दिव्यम् चक्षुः",
+      "meaning": "divine sight"
+    },
+    {
+      "term": "ददामि",
+      "meaning": "I give"
+    },
+    {
+      "term": "योगम् ऐश्वरम्",
+      "meaning": "lordly yoga power"
+    }
+  ],
+  "spokenHindi": "कृष्ण स्पष्ट करते हैं कि अर्जुन इन अपने नेत्रों से उन्हें इस रूप में नहीं देख सकते। इसलिए वे दिव्य चक्षु देते हैं और अपनी ऐश्वर्यपूर्ण योग शक्ति देखने को कहते हैं। यह सीमा किसी शारीरिक कमी की निंदा नहीं है। कथा में सामान्य देखने और दिव्य दर्शन के बीच अंतर बताया गया है। स्वामी शिवानंद की टिप्पणी दिव्य चक्षु को अंतर्ज्ञान की दृष्टि कहती है और शारीरिक आँख या केवल मन से देखने के साथ उसे मिलाने से सावधान करती है। वे गहरी भक्ति और एकाग्रता से जुड़े अंतर्दिव्य अनुभव की बात जोड़ते हैं। यह टिप्पणी है, श्लोक में दिए हुए अभ्यासों की विस्तृत विधि नहीं। हमें इससे कोई चिकित्सकीय क्षमता या दृष्टि सुधार का दावा नहीं निकालना चाहिए। साधारण जीवन में सीमित संकेत यह हो सकता है कि हर विषय के लिए अपनी वर्तमान नजर पर्याप्त नहीं होती। जानकारी, अनुभव या सहायता से दृष्टिकोण बदल सकता है। यह तुलना दिव्य चक्षु का विकल्प नहीं। अर्जुन के दर्शन को यहाँ कृष्ण का दिया हुआ उपहार कहा गया है, व्यक्तिगत प्रयास से हासिल की जा सकने वाली सामान्य वस्तु नहीं।",
+  "clearEnglish": "The disclosure depends on a gift. Krishna says Arjuna cannot see him in this form with his own eyes, gives divine sight, and directs him to behold the lordly yoga power. The limit belongs to the extraordinary vision in the narrative; it is not a judgment about the worth of people with different physical abilities. Sivananda's supplied commentary interprets the divine eye through intuition and distinguishes it from ordinary physical or mental seeing. It adds an account of inner divine experience associated with intense devotion and concentration. That is named commentary, not a detailed technique stated by Krishna in the verse. No claim about improving eyesight or treating a medical condition follows. A limited practical analogy is that a new subject may require a new way of looking, informed by learning or assistance. Such help can broaden ordinary understanding, but it is not a substitute for the divine eye in this scene. Keeping gift, commentary and analogy distinct protects the extraordinary character of the passage.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna grants divine sight because Arjuna's ordinary eyes cannot behold this form."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Learning can broaden ordinary perspective, but it is not identical to divine sight or a medical intervention."
+    },
+    {
+      "label": "COMMENTARY — Swami Sivananda",
+      "explanation": "Sivananda interprets divine sight as intuitive inner experience, distinct from physical and merely mental seeing, and associates it with intense devotion and concentration."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Seek a new lens",
+      "text": "For one topic you find difficult, consult an appropriate source or knowledgeable person. Identify how the new information changes your ordinary perspective."
+    }
+  ],
+  "reflectionQuestion": "Where would asking for help let me see more clearly?",
+  "reflectionQuestionHindi": "कहाँ सहायता माँगने से मेरी समझ अधिक साफ हो सकती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-14-013",
+  "sequenceNumber": 537,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 13,
+  "verseEnd": 13,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "When understanding becomes obscured / जब समझ धुँधली होती है",
+  "context": "Krishna lists the signs of predominant tamas after describing sattva and rajas.",
+  "contextHindi": "कृष्ण तम के बढ़ने पर अप्रकाश, निष्क्रियता, प्रमाद और मोह के संकेत बताते हैं।",
+  "sanskritDevanagari": "अप्रकाशोऽप्रवृत्तिश्च प्रमादो मोह एव च |\nतमस्येतानि जायन्ते विवृद्धे कुरुनन्दन ||१४-१३||",
+  "transliteration": "aprakāśo.apravṛttiśca pramādo moha eva ca .\ntamasyetāni jāyante vivṛddhe kurunandana ||14-13||",
+  "wordByWord": [
+    {
+      "term": "aprakāśaḥ",
+      "meaning": "absence of illumination; अस्पष्टता"
+    },
+    {
+      "term": "apravṛttiḥ",
+      "meaning": "inertness or non-engagement"
+    },
+    {
+      "term": "pramādaḥ",
+      "meaning": "heedlessness; असावधानी"
+    },
+    {
+      "term": "mohaḥ",
+      "meaning": "delusion or confusion; मोह"
+    }
+  ],
+  "spokenHindi": "कृष्ण तम के बढ़ने पर प्रकाश की कमी, प्रवृत्ति का अभाव, प्रमाद और मोह बताते हैं। यह वर्णन समझ के ढँकने और जरूरी काम से कटने की दिशा दिखाता है। केवल बाहर से कम सक्रिय दिखना इसका पर्याप्त प्रमाण नहीं है। कोई व्यक्ति आराम कर रहा हो, सोच रहा हो या अपनी क्षमता के अनुसार काम कर रहा हो सकता है। हमें उसके भीतर की स्थिति जानने का अधिकार अपने आप नहीं मिल जाता। अपने अनुभव में देखें तो कभी जरूरी सूचना सामने होते हुए भी हम उसे ठीक से नहीं पढ़ते। फिर अधूरी समझ से फैसला करते हैं और उसके परिणाम पर हैरान होते हैं। यह प्रमाद का आज का उदाहरण है। छोटी मदद यह हो सकती है कि धुँधले मामले को एक स्पष्ट प्रश्न में बदल दें। ‘सब उलझा है’ कहने के बजाय पूछें कि अभी कौन सा तथ्य चाहिए। लंबे समय की थकान या कठिनाई में उचित सहायता भी लें। इस अभ्यास का लक्ष्य सजगता बढ़ाना है, किसी को आलसी कहकर शर्मिंदा करना नहीं।",
+  "clearEnglish": "The signs of increased tamas are absence of illumination, non-engagement, heedlessness, and delusion. Together they describe a condition in which understanding is obscured and responsible attention weakens. They do not permit a reliable judgment from appearances alone. A quiet person may be resting, reflecting, or managing limited capacity; outward activity is not the complete measure of insight. In one's own experience, the relevant pattern might be leaving information unread and then deciding on the basis of an assumption. That is a contemporary illustration of heedlessness, not an example supplied in the text. A useful response is to make the uncertainty specific. Instead of declaring that everything is confusing, ask which fact is missing and how it can be obtained. One manageable act of clarification can matter more than an ambitious plan made without understanding. Persistent difficulties also warrant suitable support. The verse helps name an obscuring tendency; it should not become an instrument of shame or a medical diagnosis.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Absence of light, non-engagement, heedlessness, and delusion are signs of increased tamas."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Turning a vague confusion into one factual question is an application aimed at greater attention, not a judgment of people by appearances."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Identify one unclear matter, write the fact you need, and seek it from a suitable source."
+    }
+  ],
+  "reflectionQuestion": "Which missing fact would make my next step less confused?",
+  "reflectionQuestionHindi": "कौन सा तथ्य मिल जाए तो मेरा अगला कदम कम उलझा हुआ होगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

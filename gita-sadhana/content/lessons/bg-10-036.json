@@ -1,0 +1,71 @@
+{
+  "id": "bg-10-036",
+  "sequenceNumber": 408,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 36,
+  "verseEnd": 36,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "द्यूत का कठिन उदाहरण / The difficult example of gambling",
+  "context": "Krishna includes gambling among deceitful practices before naming splendour, victory, determination and goodness.",
+  "contextHindi": "कृष्ण छल करने वालों में द्यूत कहते हैं, फिर तेज, विजय, निश्चय और अच्छे लोगों का सत्त्व रखते हैं।",
+  "sanskritDevanagari": "द्यूतं छलयतामस्मि तेजस्तेजस्विनामहम् |\nजयोऽस्मि व्यवसायोऽस्मि सत्त्वं सत्त्ववतामहम् ||१०-३६||",
+  "transliteration": "dyūtaṃ chalayatāmasmi tejastejasvināmaham .\njayo.asmi vyavasāyo.asmi sattvaṃ sattvavatāmaham ||10-36||",
+  "wordByWord": [
+    {
+      "term": "द्यूतम्",
+      "meaning": "gambling or dice-play"
+    },
+    {
+      "term": "छलयताम्",
+      "meaning": "among those who deceive"
+    },
+    {
+      "term": "व्यवसायः",
+      "meaning": "determination or sustained effort"
+    },
+    {
+      "term": "सत्त्वम्",
+      "meaning": "goodness in this context"
+    }
+  ],
+  "spokenHindi": "कृष्ण छल करने वालों में द्यूत कहते हैं। फिर तेजस्वियों का तेज, विजय, निश्चय और सत्त्ववानों का सत्त्व भी अपने रूप में बताते हैं। द्यूत का उदाहरण असुविधाजनक लग सकता है, और उसे सूची से हटा देना पाठ बदलना होगा। स्वामी शिवानंद की टिप्पणी इसे छल के तरीकों में पासे के खेल के रूप में स्पष्ट करती है। लेकिन किसी चीज को दिव्य अभिव्यक्ति कहना उसका नैतिक अनुमोदन नहीं है। श्लोक की अपनी श्रेणी भी छल करने वालों की है। इसलिए इससे जुआ खेलने, ठगने या नुकसान को उचित बताने की सलाह नहीं मिलती। यह व्यापक स्रोत और अच्छे बुरे व्यवहार की जांच के बीच जरूरी अंतर दिखाता है। आगे निश्चय और अच्छाई का साथ आना हमें अपने प्रयास की दिशा पूछने देता है। जीत चाहना अकेला पर्याप्त नहीं; तरीका भी देखना पड़ता है। आज किसी लक्ष्य के लिए उत्साह हो तो साफ लिखें कि किन साधनों का उपयोग उचित होगा। यदि जोखिमभरे खेल से नुकसान हो रहा हो, तो उसकी जगह सीमा और भरोसेमंद सहायता लेना उचित रहेगा।",
+  "clearEnglish": "The mention of gambling cannot be softened out of the verse. Krishna names it among the practices of deceivers, then identifies splendour, victory, determination and goodness. Sivananda's commentary clarifies the gambling image through dice-play as a method of deception. The crucial interpretive distinction is between a manifestation claim and ethical approval. The stated category is itself deceitful, and the verse gives no instruction to gamble, defraud or expose others to financial harm. An account of the ground of all things does not remove distinctions between responsible and harmful conduct. The remainder of the verse provides a useful practical question: what gives determination its direction? Winning alone cannot settle whether the means are acceptable. A modern application is to name permissible methods before pursuing a competitive goal. If gambling is causing actual harm, seeking limits and reliable support is more appropriate than treating the verse as an excuse. These are ethical applications; the text holds the unsettling example and the qualities of effort and goodness within its catalogue.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna explicitly names gambling among deceivers, then splendour, victory, determination and goodness."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Manifestation does not imply moral approval; competitive effort still needs acceptable means."
+    },
+    {
+      "label": "COMMENTARY — Swami Sivananda",
+      "explanation": "Sivananda identifies the gambling example with dice-play among methods of defrauding and also discusses effort and victory."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Specify acceptable means",
+      "text": "For one competitive goal, write what methods you consider fair before acting. If gambling is causing harm, choose a concrete limit and trusted support."
+    }
+  ],
+  "reflectionQuestion": "Am I letting the wish to win decide what means I will accept?",
+  "reflectionQuestionHindi": "क्या जीतने की इच्छा मेरे लिए स्वीकार्य साधनों की सीमा तय कर रही है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

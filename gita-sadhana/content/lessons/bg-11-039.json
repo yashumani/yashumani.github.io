@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-039",
+  "sequenceNumber": 453,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 39,
+  "verseEnd": 39,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "नामों से नमस्कार तक / Names becoming repeated salutation",
+  "context": "Arjuna identifies Krishna with divine and ancestral figures, then repeatedly offers salutations.",
+  "contextHindi": "अर्जुन वायु, यम, अग्नि, वरुण, चंद्र और प्रजापति के नाम से कृष्ण को पुकारकर बार बार प्रणाम करते हैं।",
+  "sanskritDevanagari": "वायुर्यमोऽग्निर्वरुणः शशाङ्कः\nप्रजापतिस्त्वं प्रपितामहश्च |\nनमो नमस्तेऽस्तु सहस्रकृत्वः\nपुनश्च भूयोऽपि नमो नमस्ते ||११-३९||",
+  "transliteration": "vāyuryamo.agnirvaruṇaḥ śaśāṅkaḥ prajāpatistvaṃ prapitāmahaśca .\nnamo namaste.astu sahasrakṛtvaḥ punaśca bhūyo.api namo namaste ||11-39||",
+  "wordByWord": [
+    {
+      "term": "शशाङ्कः",
+      "meaning": "the moon"
+    },
+    {
+      "term": "प्रजापतिः",
+      "meaning": "creator or Lord of creatures"
+    },
+    {
+      "term": "प्रपितामहः",
+      "meaning": "great-grandfather"
+    },
+    {
+      "term": "सहस्रकृत्वः",
+      "meaning": "a thousand times"
+    }
+  ],
+  "spokenHindi": "अर्जुन कहते हैं कि आप वायु, यम, अग्नि, वरुण और चंद्र हैं; प्रजापति और प्रपितामह भी। फिर हजार बार और फिर से नमस्कार कहते हैं। कुछ नाम पिछले अध्याय की सूची में आए थे; अब वे अर्जुन की स्तुति में एक ही दिव्य विषय को संबोधित करते हैं। प्रपितामह महान पूर्वज की धार्मिक उपाधि है, अर्जुन के परिवार की सामान्य पीढ़ी गिनने का वाक्य नहीं। सहस्रकृत्वः नमस्कार की व्यापकता और भाव की पुनरावृत्ति रखता है। उससे सभी पाठकों को ठीक हजार प्रणाम करने का दैनिक लक्ष्य देना आवश्यक नहीं। यहाँ मात्रा से अधिक भाव की ध्वनि है। हमारा उपयोग कृतज्ञता की कोई सटीक बात दोहराना हो सकता है, यदि उससे ध्यान गहरा हो। दोहराव केवल यांत्रिक कर्तव्य बन जाए तो रुककर अर्थ याद करें। किसी साधारण सहायक व्यक्ति को धन्यवाद देते समय पूरे दिव्य नाम उस पर थोपने की जरूरत नहीं। उसने क्या मदद की, उसे स्पष्ट कहें। अर्जुन के नमस्कार दिव्य दर्शन की प्रतिक्रिया हैं; हमारा छोटा आभार रोजमर्रा के संबंध की जिम्मेदारी के भीतर रहे।",
+  "clearEnglish": "The divine names become an address: Vayu, Yama, Agni, Varuna, the moon, the creator and the great-grandfather are identified with Krishna. Arjuna then repeats salutations a thousand times and again. Earlier catalogue names now enter a prayer spoken by the person seeing the form. Prapitamaha carries an ancestral theological image rather than merely calculating Arjuna's family generations. The repeated thousand expresses the amplitude of salutation; it does not impose a numerical target for every listener's daily practice. A modern application can be deliberate gratitude expressed more than once because its meaning remains alive. If repetition becomes only a task to complete, pause and recall the reason. Ordinary thanks should also remain appropriate to its recipient: acknowledging a person's specific help need not transfer divine titles to them. That distinction allows the verse's reverence to retain its proper subject. The literal passage is Arjuna's expansive identification and repeated bowing, while the practical extension concerns sincere and proportionate appreciation.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna identifies Krishna with divine and ancestral figures and repeats salutations."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Meaningful repetition need not become a mandatory count; ordinary appreciation should remain proportionate."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Remember the reason for thanks",
+      "text": "Express gratitude for one specific act of help. If you repeat the thanks, keep its reason in mind rather than completing a fixed count."
+    }
+  ],
+  "reflectionQuestion": "What meaning remains present when I repeat words of gratitude?",
+  "reflectionQuestionHindi": "धन्यवाद के शब्द दोहराते समय कौन सा अर्थ मेरे मन में जीवित रहता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

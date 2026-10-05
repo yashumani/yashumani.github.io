@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-020",
+  "sequenceNumber": 509,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 20,
+  "verseEnd": 20,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Nature and Spirit without beginning / अनादि प्रकृति और पुरुष",
+  "context": "Krishna returns to Arjuna's question about Nature and Spirit and locates modifications and qualities in Nature.",
+  "contextHindi": "कृष्ण प्रकृति और पुरुष को अनादि बताते हैं तथा विकार और गुणों को प्रकृति से उत्पन्न कहते हैं।",
+  "sanskritDevanagari": "प्रकृतिं पुरुषं चैव विद्ध्यनादी उभावपि |\nविकारांश्च गुणांश्चैव विद्धि प्रकृतिसम्भवान् ||१३-२०||",
+  "transliteration": "prakṛtiṃ puruṣaṃ caiva viddhyanādi ubhāvapi .\nvikārāṃśca guṇāṃścaiva viddhi prakṛtisambhavān ||13-20||",
+  "wordByWord": [
+    {
+      "term": "anādī",
+      "meaning": "beginningless"
+    },
+    {
+      "term": "ubhāv api",
+      "meaning": "both"
+    },
+    {
+      "term": "vikārān",
+      "meaning": "modifications; विकारों को"
+    },
+    {
+      "term": "guṇān",
+      "meaning": "qualities; गुणों को"
+    },
+    {
+      "term": "prakṛtisambhavān",
+      "meaning": "arising from Nature"
+    }
+  ],
+  "spokenHindi": "कृष्ण अर्जुन को प्रकृति और पुरुष दोनों अनादि जानने को कहते हैं। साथ ही विकार और गुण प्रकृति से उत्पन्न हैं। यह पहले पूछे गए जोड़े का उत्तर आगे बढ़ाता है। अनादि का अर्थ साधारण वस्तु की बहुत पुरानी तारीख नहीं; यहाँ दार्शनिक मूल की चर्चा है। इसे पढ़कर प्रकृति में कुछ बदलता ही नहीं, ऐसा निष्कर्ष भी गलत होगा, क्योंकि उसी श्लोक में विकारों की उत्पत्ति कही गई है। बदलने वाला पक्ष प्रकृति से जुड़ता है और जानने वाले पुरुष का प्रश्न अलग रहता है। अपने दिन की छोटी तुलना में एक अवस्था के कारण देखने का अभ्यास कर सकते हैं। बेचैनी आई तो नींद, सूचना, अपेक्षा और परिस्थिति जैसे पहलू अलग जाँचें। यह उदाहरण श्लोक की अनादित्व की बात सिद्ध नहीं करता। कारण समझना अपने को दोष देने या जिम्मेदारी छोड़ने से अलग है। जो परिस्थिति बदली जा सकती है उसे सँवारें, और जो अस्पष्ट है उसके लिए सहायता या आगे की जाँच रखें। प्रकृति का अध्ययन ध्यान को वास्तविक स्थितियों की ओर ला सकता है।",
+  "clearEnglish": "Nature and Spirit are both said to be beginningless, while modifications and qualities arise from Nature. Krishna thereby returns to the first pair in Arjuna's opening question. Beginningless is a metaphysical designation, not a date for an unusually old object. It also does not imply that Nature's manifestations never change; the same sentence explicitly locates modifications in Nature. The teaching distinguishes the changing processes from the inquiry into the conscious principle. An everyday analogy is examining the conditions around a state such as restlessness: information, expectations, insufficient rest, or a difficult setting may contribute. These observations do not verify the claim of beginninglessness. They simply show why recognizing processes can be useful. Explanation need not become blame, and it need not remove responsibility. Adjust a manageable condition and seek further information where necessary. The verse gives a philosophical allocation of change and qualities; practical reflection can remain attentive to actual circumstances without pretending that a brief self-observation settles the entire account.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Nature and Spirit are both beginningless; modifications and qualities arise from Nature."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Examining contributing conditions is a practical analogy that neither proves beginninglessness nor eliminates responsibility."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Name one manageable condition influencing your current state and adjust it thoughtfully."
+    }
+  ],
+  "reflectionQuestion": "Which condition can I change instead of treating this state as my whole identity?",
+  "reflectionQuestionHindi": "इस दशा को अपनी पूरी पहचान मानने के बजाय कौन सी परिस्थिति बदल सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

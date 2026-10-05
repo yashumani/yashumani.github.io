@@ -1,0 +1,67 @@
+{
+  "id": "bg-15-012",
+  "sequenceNumber": 563,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 12,
+  "verseEnd": 12,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "Divine light in familiar sources / परिचित प्रकाश में दिव्य संबंध",
+  "context": "Krishna turns from the individual self to his presence in the light of sun, moon, and fire.",
+  "contextHindi": "कृष्ण सूर्य, चंद्र और अग्नि के प्रकाश को अपना बताकर जगत में अपनी उपस्थिति की चर्चा खोलते हैं।",
+  "sanskritDevanagari": "यदादित्यगतं तेजो जगद्भासयतेऽखिलम् |\nयच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम् ||१५-१२||",
+  "transliteration": "yadādityagataṃ tejo jagadbhāsayate.akhilam .\nyaccandramasi yaccāgnau tattejo viddhi māmakam ||15-12||",
+  "wordByWord": [
+    {
+      "term": "ādityagatam",
+      "meaning": "present in the sun"
+    },
+    {
+      "term": "tejaḥ",
+      "meaning": "radiance or light; तेज"
+    },
+    {
+      "term": "akhilam jagat",
+      "meaning": "the whole world"
+    },
+    {
+      "term": "māmakam",
+      "meaning": "belonging to Me; मेरा"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि सूर्य में स्थित वह तेज जो पूरे जगत को प्रकाशित करता है, और चंद्र तथा अग्नि में जो तेज है, उसे उनका समझना चाहिए। चर्चा अब आत्मा को पहचानने से जगत के पोषण और प्रकाश में दिव्य उपस्थिति की ओर बढ़ती है। उसी अध्याय में परम धाम को सूर्य, चंद्र और अग्नि से प्रकाशित न होने वाला कहा गया था। दोनों बातों का विषय अलग है: वहाँ धाम की सीमा थी, यहाँ इन परिचित प्रकाशों का दिव्य संबंध है। यह श्लोक प्रकाश के वैज्ञानिक कारण का विकल्प नहीं देता। श्रद्धा की भाषा में संसार को देखने का दृष्टिकोण देता है। आज सुबह की रोशनी में पढ़ना या भोजन की तैयारी में सुरक्षित अग्नि का उपयोग ऐसा साधारण अनुभव हो सकता है जिसे कृतज्ञता के साथ देखें। यह आधुनिक अभ्यास है, कोई अनिवार्य पूजा रीति नहीं। सूर्य को सीधे देखने जैसी असुरक्षित क्रिया की जरूरत नहीं। जो सहारा हमें रोज मिलता है, उसे थोड़ी सजगता से पहचानना इस कथन के साथ रहने की विनम्र दिशा है।",
+  "clearEnglish": "Krishna claims as his own the radiance in the sun that illuminates the world, along with the light in moon and fire. The teaching turns toward divine presence in familiar sustaining features of existence. Earlier, the supreme abode was described as not dependent on these lights; here the subject is their radiance within the world. Keeping those contexts distinct prevents a false contradiction. The verse offers a theological relationship, not a replacement explanation for the physical processes producing light. A contemporary practice is to notice how ordinary life depends on illumination: reading, finding a safe path, or preparing food. Gratitude can be directed toward that dependence without requiring a particular ritual or any unsafe act such as looking directly at the sun. These practices are applications, not instructions named in the Sanskrit. The verse invites an outlook in which a familiar natural support becomes a reminder of divine relationship rather than a resource so ordinary that it is no longer noticed.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies the radiance in sun, moon, and fire as his; the verse concerns their light within the world."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Gratitude for ordinary illumination is a contemporary practice, distinct from a prescribed ritual or a physical theory of light."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Notice one way light supports today's work and pause briefly in gratitude while using it safely."
+    }
+  ],
+  "reflectionQuestion": "Which ordinary source of support have I stopped noticing?",
+  "reflectionQuestionHindi": "किस रोज के सहारे को मैंने साधारण मानकर देखना छोड़ दिया है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

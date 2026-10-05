@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-028",
+  "sequenceNumber": 651,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 28,
+  "verseEnd": 28,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "लापरवाही और छल का समूह / A pattern of disordered agency",
+  "context": "Krishna describes the tamasic doer through unsteadiness, rigidity, deceit, malice, laziness, dejection, and delay.",
+  "contextHindi": "कृष्ण अस्थिरता, अकड़, छल, दुर्भावना, आलस्य, विषाद और टालने की संयुक्त दिशा वाले कर्ता को तामसिक बताते हैं।",
+  "sanskritDevanagari": "अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः |\nविषादी दीर्घसूत्री च कर्ता तामस उच्यते ||१८-२८||",
+  "transliteration": "ayuktaḥ prākṛtaḥ stabdhaḥ śaṭho naiṣkṛtiko.alasaḥ .\nviṣādī dīrghasūtrī ca kartā tāmasa ucyate ||18-28||",
+  "wordByWord": [
+    {
+      "term": "ayuktaḥ",
+      "meaning": "Unsteady or not integrated"
+    },
+    {
+      "term": "śaṭhaḥ",
+      "meaning": "Deceitful"
+    },
+    {
+      "term": "viṣādī",
+      "meaning": "Dejected"
+    },
+    {
+      "term": "dīrghasūtrī",
+      "meaning": "Procrastinating; drawing things out"
+    }
+  ],
+  "spokenHindi": "कृष्ण तामसिक कर्ता के कई गुण बताते हैं: अस्थिरता, अपरिष्कृत ढंग, अकड़, छल, दुर्भावना, आलस्य, विषाद और देर लगाना। स्रोत की भाषा मूल्यांकन करती है, इसलिए उसे सुनते समय पूरा प्रसंग रखें। विषाद यहां सूची का एक शब्द है; यह आधुनिक अवसाद का निदान नहीं। कठिन भावना, ध्यान की समस्या या काम शुरू करने की परेशानी वाले व्यक्ति को नैतिक रूप से कमतर कहना इस श्लोक का जिम्मेदार उपयोग नहीं होगा। सहायता की जरूरत हो तो उसे लें। आधुनिक अभ्यास में हम किसी खास टालने वाले व्यवहार को देख सकते हैं, साथ में वास्तविक कारण और क्षमता भी। क्या काम अस्पष्ट है, साधन नहीं हैं, या हम जिम्मेदारी छिपा रहे हैं? अलग कारण अलग उत्तर मांगेंगे। आज कोई छोटा लंबित काम लें और उसका पहला साफ कदम लिखें। यदि बाधा आपकी क्षमता से बाहर है, तो मदद या नया समय मांगे। यदि छल से बच रहे हैं, तो सच बताएं। पूरे व्यक्ति का फैसला करने के बजाय व्यवहार और उचित सुधार पर ध्यान रखना अधिक उपयोगी है।",
+  "clearEnglish": "Krishna describes the tamasic doer with a cluster including unsteadiness, an unrefined manner, rigidity, deceit, malice, laziness, dejection, and procrastination. The evaluative language belongs to the moral account and should be presented accurately. It should not be converted into a clinical diagnosis or used to shame people experiencing depression, attention difficulties, or impaired capacity. Dejection is one term in this description, not proof that distress itself is a moral fault. A modern application can examine a specific delayed responsibility while investigating its actual cause. An unclear task, missing resources, limited capacity, and deliberate concealment call for different responses. Treating them all as laziness prevents useful correction. For one pending task, state the first concrete step and identify any real obstacle. Ask for appropriate help or renegotiate the timeline where needed. If avoidance involves misleading someone, tell the truth. The exercise locates changeable conduct rather than making a total judgement about a person's worth from a difficult moment.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna lists unsteadiness, rigidity, deceit, malice, laziness, dejection, and delay among tamasic agent qualities."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Identifying a task's actual obstacle is a modern application; the catalogue is not a clinical diagnosis or judgement of disability."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Find the actual obstacle",
+      "text": "For one delayed task, write its first step and actual obstacle; seek help or communicate honestly as needed."
+    }
+  ],
+  "reflectionQuestion": "What is the real reason this task has not begun?",
+  "reflectionQuestionHindi": "यह काम शुरू न होने का वास्तविक कारण क्या है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

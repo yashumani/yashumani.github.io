@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-014",
+  "sequenceNumber": 609,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 14,
+  "verseEnd": 14,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "शरीर का अनुशासन / Austerity of the body",
+  "context": "Krishna begins the threefold account of austerity with bodily conduct and reverence.",
+  "contextHindi": "कृष्ण तप के तीन क्षेत्रों का वर्णन शरीर के आचरण और सम्मान से आरम्भ करते हैं।",
+  "sanskritDevanagari": "देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम् |\nब्रह्मचर्यमहिंसा च शारीरं तप उच्यते ||१७-१४||",
+  "transliteration": "devadvijaguruprājñapūjanaṃ śaucamārjavam .\nbrahmacaryamahiṃsā ca śārīraṃ tapa ucyate ||17-14||",
+  "wordByWord": [
+    {
+      "term": "dvija",
+      "meaning": "Twice-born; a traditional initiated status"
+    },
+    {
+      "term": "prājña",
+      "meaning": "The wise"
+    },
+    {
+      "term": "brahmacaryam",
+      "meaning": "Celibacy or disciplined sexual restraint in this context"
+    },
+    {
+      "term": "ahiṃsā",
+      "meaning": "Non-harming"
+    }
+  ],
+  "spokenHindi": "कृष्ण शरीर के तप में देवताओं, द्विजों, गुरु और बुद्धिमानों का पूजन, स्वच्छता, सीधापन, ब्रह्मचर्य और अहिंसा बताते हैं। द्विज परम्परागत धार्मिक दीक्षा से जुड़ा शब्द है। उसे अपने आप हर व्यक्ति की नैतिक श्रेष्ठता का प्रमाण नहीं मानना चाहिए। गुरु या जानकार का सम्मान उनकी हर बात बिना जांच मानने का आदेश भी नहीं है। पाठ के सम्मान और आधुनिक सुरक्षा की जिम्मेदारी को अलग समझकर साथ रखा जा सकता है। ब्रह्मचर्य को इस प्रसंग में यौन संयम या अविवाहित अनुशासन की परम्परागत दिशा में समझें; उसके नाम पर अपने या दूसरे के शरीर को अपमानित न करें। शरीर का तप यहां केवल कठिन कष्ट नहीं है। साफ व्यवहार, अहिंसा और सीधापन भी उसमें आते हैं। आज किसी सम्मानित संबंध में अपनी बात ईमानदारी से कहें। साथ ही किसी छोटे शारीरिक काम में साफ व्यवस्था और नुकसान से बचाव रखें। किसी अधिकार का सम्मान आपकी गरिमा मिटाने से पूरा नहीं होता। व्यवहार में जिम्मेदारी और संयम इस सूची को सुनने योग्य अनुभव बना सकते हैं।",
+  "clearEnglish": "Krishna calls reverence for gods, the twice-born, teachers, and the wise, together with purity, straightforwardness, brahmacarya, and non-harming, austerity of the body. The list combines respectful conduct with restraint and integrity. Dvija names a traditional initiated status; it should not be conflated with proven ethical character or universal hereditary spiritual superiority. Brahmacarya here carries the traditional sense of celibacy or sexual discipline, rather than an invented meaning chosen to avoid the topic. Respect for a teacher also does not establish that every demand made by a person in authority is safe or correct. That safeguard is a contemporary inference, not a replacement for the verse's instruction of reverence. Bodily austerity in this account is broader than spectacular deprivation. It includes how conduct is enacted in relationships. Practise one act of respectful honesty and one ordinary act of non-harming. Keep appropriate boundaries, and let reverence be expressed through responsible action rather than loss of discernment.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies reverence, purity, straightforwardness, brahmacarya, and non-harming as bodily austerity."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Respect with discernment and protective boundaries is a modern application; initiated status is not proof of ethical superiority."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Respectful honesty",
+      "text": "Express one necessary point respectfully to a person you value, while maintaining an appropriate boundary."
+    }
+  ],
+  "reflectionQuestion": "Can I show respect without surrendering needed discernment?",
+  "reflectionQuestionHindi": "क्या जरूरी विवेक बनाए रखते हुए मैं सम्मान दिखा सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

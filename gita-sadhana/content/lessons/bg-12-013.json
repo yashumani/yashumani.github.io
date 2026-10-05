@@ -1,0 +1,67 @@
+{
+  "id": "bg-12-013",
+  "sequenceNumber": 482,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 13,
+  "verseEnd": 13,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "मैत्री और करुणा की भक्ति / Devotion as friendliness and compassion",
+  "context": "Krishna begins describing the dear devotee with nonhatred, friendliness, compassion, nonpossessiveness and balance.",
+  "contextHindi": "कृष्ण प्रिय भक्त के गुण शुरू करते हैं: द्वेष रहित मैत्री, करुणा, ममता अहंकार से मुक्ति और संतुलन।",
+  "sanskritDevanagari": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च |\nनिर्ममो निरहङ्कारः समदुःखसुखः क्षमी ||१२-१३||",
+  "transliteration": "adveṣṭā sarvabhūtānāṃ maitraḥ karuṇa eva ca .\nnirmamo nirahaṅkāraḥ samaduḥkhasukhaḥ kṣamī ||12-13||",
+  "wordByWord": [
+    {
+      "term": "अद्वेष्टा",
+      "meaning": "one who does not hate"
+    },
+    {
+      "term": "मैत्रः करुणः",
+      "meaning": "friendly and compassionate"
+    },
+    {
+      "term": "निर्ममः",
+      "meaning": "without possessive mine-making"
+    },
+    {
+      "term": "क्षमी",
+      "meaning": "forgiving or forbearing"
+    }
+  ],
+  "spokenHindi": "कृष्ण ऐसे भक्त का वर्णन शुरू करते हैं जो किसी प्राणी से द्वेष नहीं करता, मित्रभाव और करुणा रखता है, ममता तथा अहंकार से मुक्त है, सुख दुख में सम और क्षमाशील है। वाक्य अगले श्लोक में पूरा होगा। सर्वभूतानाम् में केवल पसंद के लोगों का दायरा नहीं। करुणा दूसरे की दशा देखने का अवसर देती है, जबकि निर्मम में अपनी पकड़ और मेरा कहने की आदत पर ध्यान जा सकता है। लेकिन किसी रिश्ते में अपना सुरक्षित स्थान या जिम्मेदारी होना अपने आप दोष नहीं। क्षमा को हानि सहते रहने का आदेश बनाना भी गलत अनुप्रयोग होगा। हम क्रिया रोक सकते हैं और सीमा रख सकते हैं, बिना घृणा पालने के। यह हमारी नैतिक व्याख्या है। आज किसी छोटी असहमति में व्यक्ति और उसके काम के बीच फर्क करें। कहें कि यह काम मुझे स्वीकार नहीं, बजाय पूरी पहचान को अपमानित करने के। अपने दोष देखकर भी इसी करुणा को जगह दें। गुणों का आदर्श अभ्यास की दिशा देता है; किसी एक दिन की भावना से अपनी पूरी आध्यात्मिक कीमत तय न करें।",
+  "clearEnglish": "The description begins with the relation to beings: no hatred, friendliness and compassion. It adds freedom from possessiveness and egoism, evenness in pleasure and pain, and forgiveness. The sentence continues into the next verse, so this is the opening portion of the dear devotee's portrait. Nirmama concerns the grip of mine-making; it should not be turned into a denial of legitimate needs or practical responsibility. Forgiveness also does not require remaining exposed to harm. A responsible inference distinguishes rejecting an action from cultivating hatred toward a person. Boundaries and accountability can be pursued without dehumanization. In a manageable disagreement, describe the specific behavior that needs to change rather than attacking the whole identity of the other person. This is an ordinary application, not proof that the entire spiritual ideal is fulfilled. The same care can shape self-reflection: acknowledge an error without defining oneself wholly by it. Krishna's portrait offers a direction of conduct, and one passing feeling need not become a verdict on spiritual worth.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna begins the portrait with nonhatred, friendliness, compassion, nonpossessiveness, balance and forgiveness."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Boundaries can coexist with nonhatred; a passing feeling need not define spiritual worth."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Name conduct without contempt",
+      "text": "In one small disagreement, describe the behavior you oppose and the boundary needed. Avoid insults about the person's entire identity."
+    }
+  ],
+  "reflectionQuestion": "Can I reject a harmful act without defining the person only by it?",
+  "reflectionQuestionHindi": "क्या मैं हानिकर काम को अस्वीकार कर सकता हूँ, व्यक्ति को केवल उसी से परिभाषित किए बिना?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

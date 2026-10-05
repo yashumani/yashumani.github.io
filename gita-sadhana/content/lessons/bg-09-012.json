@@ -1,0 +1,75 @@
+{
+  "id": "bg-09-012",
+  "sequenceNumber": 350,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 12,
+  "verseEnd": 12,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "व्यर्थ आशा, कर्म और ज्ञान | Vain hopes, actions, and knowledge",
+  "context": "Krishna continues describing the deluded disposition of those who disregard him.",
+  "contextHindi": "कृष्ण अपने तिरस्कार वाले प्रसंग में भ्रमित प्रवृत्ति का वर्णन आगे बढ़ाते हैं।",
+  "sanskritDevanagari": "मोघाशा मोघकर्माणो मोघज्ञाना विचेतसः |\nराक्षसीमासुरीं चैव प्रकृतिं मोहिनीं श्रिताः ||९-१२||",
+  "transliteration": "moghāśā moghakarmāṇo moghajñānā vicetasaḥ .\nrākṣasīmāsurīṃ caiva prakṛtiṃ mohinīṃ śritāḥ ||9-12||",
+  "wordByWord": [
+    {
+      "term": "मोघाशाः",
+      "meaning": "Of vain hopes."
+    },
+    {
+      "term": "मोघकर्माणः",
+      "meaning": "Of vain actions."
+    },
+    {
+      "term": "मोघज्ञानाः",
+      "meaning": "Of vain knowledge."
+    },
+    {
+      "term": "विचेतसः",
+      "meaning": "Senseless or without discernment."
+    },
+    {
+      "term": "राक्षसीम् आसुरीम्",
+      "meaning": "Demonic and undivine."
+    },
+    {
+      "term": "मोहिनीम्",
+      "meaning": "Deluding."
+    }
+  ],
+  "spokenHindi": "कृष्ण जिन लोगों का वर्णन कर रहे हैं, उनके लिए तीन बार मोघ का भाव आता है: व्यर्थ आशाएँ, व्यर्थ कर्म और व्यर्थ ज्ञान। वे विवेकहीन भी कहे गए हैं और राक्षसी, आसुरी तथा मोह पैदा करने वाली प्रकृति का आश्रय लेते हैं। ये कठोर शब्द हैं। केवल थोड़ा भटका हुआ ध्यान कहकर इन्हें बदल देना पाठ को हल्का कर देगा। लेकिन किसी दूसरे मनुष्य की पहचान को राक्षसी बताने के लिए इनका उपयोग करना भी उचित आधुनिक निष्कर्ष नहीं है। हमारा अभ्यास अपने कर्मों और समझ के संबंध को देखना हो सकता है। क्या मैं किसी ज्ञान की बात करता हूँ, लेकिन व्यवहार में उसका उल्टा करता हूँ? क्या कोई आशा मुझे उपयोगी प्रयास के बजाय दूसरों को नुकसान पहुँचाने की ओर ले जाती है? इन सवालों का उद्देश्य ईमानदारी है, खुद को घृणा करना नहीं। असफल प्रयास अपने आप व्यर्थ जीवन का प्रमाण नहीं। कभी सीखने और सहायता लेने की ज़रूरत होती है। श्लोक की चेतावनी नैतिक और आध्यात्मिक प्रवृत्ति के बारे में है; हमारे चिंतन को करुणा और जवाबदेही के साथ रखना चाहिए।",
+  "clearEnglish": "The repeated word mogha gives the description its force: vain hopes, vain actions, and vain knowledge. Krishna also calls the people senseless and describes their adoption of a deluding demonic or undivine nature. These descriptors belong to the severe warning following disregard for him; they should not be silently replaced with a neutral account of everyday distraction. A responsible modern application can nevertheless turn attention toward conduct rather than dehumanizing labels. One may examine whether professed knowledge actually informs action or whether a hope has become a justification for harming others. This is self-reflection we infer from the warning, not a complete definition of the Sanskrit terms. A failed project or a difficult emotional day does not establish that a person has the condemned disposition. The text provides no such diagnostic test. Reading the severity honestly while choosing compassionate accountability helps us avoid both erasing the passage and weaponizing it. The practical question is whether our actions serve understanding or make our knowledge merely ornamental.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes vain hopes, actions, and knowledge, senselessness, and adoption of a deluding demonic and undivine nature."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The warning can prompt examination of conduct without dehumanizing people or treating every failure as spiritual condemnation."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Connect knowledge to action",
+      "text": "Choose one principle you claim to value and identify a small action that would express it today."
+    }
+  ],
+  "reflectionQuestion": "Where is my stated knowledge disconnected from my conduct?",
+  "reflectionQuestionHindi": "मेरी कही हुई समझ और वास्तविक आचरण में कहाँ अंतर है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

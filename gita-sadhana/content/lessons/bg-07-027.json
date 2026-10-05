@@ -1,0 +1,75 @@
+{
+  "id": "bg-07-027",
+  "sequenceNumber": 307,
+  "date": "2026-10-05",
+  "chapter": 7,
+  "verseStart": 27,
+  "verseEnd": 27,
+  "chapterNameSanskrit": "ज्ञानविज्ञानयोग",
+  "chapterNameEnglish": "Jñāna Vijñāna Yoga",
+  "theme": "Desire and aversion create delusion; the path is to become free from duality and turn toward the Lord.",
+  "context": "After contrasting his knowledge of all beings with their failure to know him, Krishna describes delusion arising from desire and aversion at birth.",
+  "contextHindi": "सभी प्राणियों के अपने ज्ञान का वर्णन करने के बाद कृष्ण इच्छा और द्वेष से उठने वाले द्वन्द्वमोह की बात करते हैं।",
+  "sanskritDevanagari": "इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत |\nसर्वभूतानि सम्मोहं सर्गे यान्ति परन्तप ||७-२७||",
+  "transliteration": "icchādveṣasamutthena dvandvamohena bhārata .\nsarvabhūtāni sammohaṃ sarge yānti parantapa ||7-27||",
+  "wordByWord": [
+    {
+      "term": "इच्छाद्वेषसमुत्थेन",
+      "meaning": "born from desire and aversion; the mind is stirred by craving and repulsion."
+    },
+    {
+      "term": "द्वन्द्वमोहेन",
+      "meaning": "by delusion caused by dualities such as pleasure/pain, gain/loss, success/failure."
+    },
+    {
+      "term": "सर्वभूतानि",
+      "meaning": "all beings; not only humans, but living beings in general."
+    },
+    {
+      "term": "सम्मोहम्",
+      "meaning": "delusion, confusion, or a confused inner state that obscures discernment."
+    },
+    {
+      "term": "परन्तप",
+      "meaning": "an address to Arjuna meaning “scorcher of foes.”"
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण इच्छा और द्वेष से उठने वाले द्वन्द्व-मोह की बात करते हैं। इच्छा मन को किसी चीज़ की ओर खींचती है और द्वेष उससे दूर करता है। सुख-दुख, लाभ-हानि, जीत-हार और प्रशंसा-निंदा जैसे विरोधी अनुभवों के बीच यह मोह मन को सही निर्णय लेने से रोक सकता है। श्लोक कहता है कि सृष्टि के समय सभी प्राणी इस मोह में पड़ते हैं; यह नहीं कहता कि हर नया अनुभव संयम छीन लेता है। यह बात किसी व्यक्ति को दोष देने के लिए नहीं, बल्कि मन की स्थिति समझने के लिए है। हम अपनी प्रतिक्रियाओं को कितनी स्पष्टता से देख पाते हैं? बाहरी घटना और उसके प्रति हमारी प्रतिक्रिया को अलग-अलग पहचानना उपयोगी है। जब हम केवल खिंचाव या विरोध के आधार पर प्रतिक्रिया करते हैं, तो भ्रम बढ़ सकता है। यह श्लोक हमें इच्छा और द्वेष से बने इस मोह को पहचानने का अवसर देता है।",
+  "clearEnglish": "Krishna says that all beings enter delusion at birth through the delusion of opposites arising from desire and aversion. The temporal phrase matters: the statement is not that every new experience inevitably removes self-control. Desire and aversion name opposed movements toward and away from things; the pairs of opposites describe the setting of their delusive influence. A modern reader may recognize something analogous when praise and blame or gain and loss dominate judgment. That analogy is a reflection, not the verse's complete explanation of birth. It can invite a pause to separate what happened from the attraction or resistance shaping our response. Such a pause does not make a person responsible for every harm they suffer, and it should not be used to blame someone for distress. The passage presents a theological description of delusion, while our practical response can be modest: notice one pull or rejection, name it without self-condemnation, and allow space for a considered next action.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "All beings are deluded at birth by the delusion of opposites arising from desire and aversion."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Separating an event from one's attraction or resistance is a modern observation exercise, not a claim that suffering is always caused by one's reactions."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Pause before speaking",
+      "text": "When a strong emotion rises—anger, fear, pride, or craving—pause for one slow breath and ask: 'What is the real issue here, and what is my reaction pattern?'"
+    },
+    {
+      "label": "Map the pairs",
+      "text": "Notice the common opposites in your mind: praise/blame, success/failure, comfort/discomfort. Naming them helps reduce their grip and supports a calmer, wiser response."
+    }
+  ],
+  "reflectionQuestion": "When a strong emotion appears, what is the actual trigger, and what part is my old pattern of desire or aversion adding to it?",
+  "reflectionQuestionHindi": "जब कोई तीव्र भावना उठे, तो वास्तविक कारण क्या है, और इच्छा या द्वेष की पुरानी प्रतिक्रिया ने उसमें कितना योगदान दिया है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

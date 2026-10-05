@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-003",
+  "sequenceNumber": 417,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 3,
+  "verseEnd": 3,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "वचन से दर्शन की इच्छा / From teaching to a wish to see",
+  "context": "Arjuna accepts Krishna's self-description and expresses a wish to see the lordly form.",
+  "contextHindi": "अर्जुन कृष्ण के बताए स्वरूप को स्वीकार करके उनका ऐश्वर्यपूर्ण रूप देखने की इच्छा कहते हैं।",
+  "sanskritDevanagari": "एवमेतद्यथात्थ त्वमात्मानं परमेश्वर |\nद्रष्टुमिच्छामि ते रूपमैश्वरं पुरुषोत्तम ||११-३||",
+  "transliteration": "evametadyathāttha tvamātmānaṃ parameśvara .\ndraṣṭumicchāmi te rūpamaiśvaraṃ puruṣottama ||11-3||",
+  "wordByWord": [
+    {
+      "term": "द्रष्टुम् इच्छामि",
+      "meaning": "I wish to see"
+    },
+    {
+      "term": "रूपम् ऐश्वरम्",
+      "meaning": "lordly or divine form"
+    },
+    {
+      "term": "परमेश्वर",
+      "meaning": "supreme Lord"
+    },
+    {
+      "term": "पुरुषोत्तम",
+      "meaning": "supreme person"
+    }
+  ],
+  "spokenHindi": "अर्जुन कहते हैं कि आपने अपने बारे में जैसा बताया है, वह ऐसा ही है; अब मैं आपका ऐश्वर्यपूर्ण रूप देखना चाहता हूँ। यह किसी सामान्य प्रमाण मांगने की झगड़ालू भाषा नहीं है। वे स्वीकार के साथ अनुभव की इच्छा जोड़ रहे हैं। रूपम् ऐश्वरम् दिव्य प्रभुता वाले रूप को कहता है। इस क्षण में अभी दर्शन का वर्णन शुरू नहीं हुआ है; इच्छा और उसका मिलना अलग चरण हैं। परमेश्वर और पुरुषोत्तम कृष्ण के लिए संबोधन हैं, अर्जुन के अपने खिताब नहीं। सुनकर मिली समझ कभी हमें सीधे देखना या अनुभव करना चाहने तक ले जाती है। लेकिन रोजमर्रा में किसी नए अभ्यास की इच्छा होते ही उसे तुरंत हासिल करने की बाध्यता नहीं बनानी चाहिए। यह हमारा सावधान उपयोग है। आगे अर्जुन अपनी क्षमता की शर्त भी रखेंगे। हम किसी कठिन विषय या अनुभव की ओर बढ़ते हुए पहले पूछ सकते हैं कि मेरी तैयारी क्या है। सीखने की इच्छा मूल्यवान है, और उसे स्पष्ट तथा सीमित रूप में व्यक्त करना भी उपयोगी है।",
+  "clearEnglish": "Arjuna combines affirmation with desire. Krishna's account of himself is accepted, and Arjuna now wishes to see the lordly form. The passage is neither a description of a vision already occurring nor a rejection of what has been taught. It moves from verbal understanding toward a request for direct disclosure. The addresses supreme Lord and supreme person reinforce the divine subject of that request. A contemporary analogy is the difference between reading about something and wanting to encounter it, but the analogy has limits: the coming cosmic vision is not an ordinary experiment that the learner can produce on demand. Nor does eagerness alone prove readiness. The following verse will explicitly qualify the request by what Krishna considers possible. A practical application is to formulate a desire for further learning without turning it into immediate pressure. Name what you want to understand and what preparation it might need. That exercise is our inference from the sequence. The literal verse records Arjuna's acceptance and wish to see Krishna's divine form.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna accepts Krishna's account and asks to see the divine or lordly form."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A wish for further experience can be stated without assuming it must be immediately produced."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "State the next learning wish",
+      "text": "Name one experience or topic you want to understand more directly. List a modest preparation step before pursuing it."
+    }
+  ],
+  "reflectionQuestion": "What do I want to encounter more directly, and how prepared am I?",
+  "reflectionQuestionHindi": "मैं किस बात को सीधे अनुभव करना चाहता हूँ, और उसके लिए कितनी तैयारी है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-011",
+  "sequenceNumber": 582,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 11,
+  "verseEnd": 11,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "भोग और अंतहीन चिंता / Pleasure as the sole aim",
+  "context": "Krishna continues describing those who regard gratification as the highest purpose.",
+  "contextHindi": "कृष्ण उन लोगों का वर्णन जारी रखते हैं जो भोग को जीवन का सर्वोच्च उद्देश्य मानते हैं।",
+  "sanskritDevanagari": "चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः |\nकामोपभोगपरमा एतावदिति निश्चिताः ||१६-११||",
+  "transliteration": "cintāmaparimeyāṃ ca pralayāntāmupāśritāḥ .\nkāmopabhogaparamā etāvaditi niścitāḥ ||16-11||",
+  "wordByWord": [
+    {
+      "term": "cintām aparimeyām",
+      "meaning": "Immeasurable anxiety or cares"
+    },
+    {
+      "term": "pralayāntām",
+      "meaning": "Ending with death or dissolution in this context"
+    },
+    {
+      "term": "kāmopabhogaparamāḥ",
+      "meaning": "Taking gratification of desire as highest"
+    },
+    {
+      "term": "etāvat",
+      "meaning": "This much; this alone"
+    }
+  ],
+  "spokenHindi": "कृष्ण ऐसी चिंता का वर्णन करते हैं जिसकी सीमा नहीं दिखाई देती और जो जीवन के अंत तक चलती है। उसके साथ भोग को सर्वोच्च उद्देश्य मानने का निर्णय जुड़ा है: बस इतना ही सब कुछ है। ध्यान दीजिए, श्लोक चिंता अनुभव करने वाले हर व्यक्ति की निंदा नहीं करता। चिंता बीमारी, असुरक्षा या कठिन परिस्थिति से भी हो सकती है, और उचित सहायता लेना जरूरी हो सकता है। यहाँ अध्याय का प्रसंग इच्छा और अहंकार से संचालित आसुरी दिशा है। जब जीवन का मूल्य केवल कितना आनंद मिला से तय होता है, तो आनंद खोने का डर भी लगातार बढ़ सकता है। तब साधारण अवसर भी परीक्षा बन जाते हैं। आधुनिक अभ्यास के रूप में अपने दिन में कोई ऐसा काम पहचानिए जिसका मूल्य सुख पाने से अलग है, जैसे भरोसा निभाना या किसी की जरूरत सुनना। उसमें छोटा समय दें। इससे आनंद का विरोध नहीं होता; जीवन की जमीन व्यापक होती है। आज की चिंता को नैतिक दोष कहने के बजाय उसका वास्तविक कारण और उचित सहारा समझिए।",
+  "clearEnglish": "Krishna describes immeasurable cares extending to life's end, alongside the conviction that gratification is the highest aim and that there is nothing beyond it. The connection matters: if pleasure must provide the entire meaning of life, its uncertainty can generate constant vigilance. This is a reading of the pattern described here, not a clinical explanation of anxiety. People experience anxiety for many reasons, and the verse does not justify blaming them or discouraging professional support. The chapter is examining an ethical orientation governed by craving, not diagnosing a health condition. A useful modern application is to identify a value that survives an uncomfortable day. Keeping a promise, protecting someone from harm, learning honestly, or offering companionship may remain worthwhile even without immediate enjoyment. Giving that value some attention broadens the measure by which a day is judged. Notice where the demand to feel satisfied has become another burden. Let one responsible act matter without requiring it to produce a pleasant mood.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes unbounded cares and the conviction that gratification alone is the highest aim."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Broadening one's values beyond pleasure is an application; the verse is not a diagnosis of anxiety."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Value beyond mood",
+      "text": "Spend ten minutes on one meaningful responsibility without requiring it to feel pleasant."
+    }
+  ],
+  "reflectionQuestion": "What remains worthwhile on a day that does not feel satisfying?",
+  "reflectionQuestionHindi": "जिस दिन अच्छा नहीं लगता, उस दिन भी कौन सा काम मूल्यवान रहता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

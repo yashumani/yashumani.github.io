@@ -1,0 +1,71 @@
+{
+  "id": "bg-09-005",
+  "sequenceNumber": 343,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 5,
+  "verseEnd": 5,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "धारण और असंगता का अद्भुत संबंध | Support without dwelling",
+  "context": "Krishna immediately qualifies the preceding statement that beings exist in him, describing his divine yoga.",
+  "contextHindi": "सभी प्राणियों के अपने में स्थित होने की पिछली बात को कृष्ण तुरंत एक अद्भुत योग के कथन से आगे बढ़ाते हैं।",
+  "sanskritDevanagari": "न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् |\nभूतभृन्न च भूतस्थो ममात्मा भूतभावनः ||९-५||",
+  "transliteration": "na ca matsthāni bhūtāni paśya me yogamaiśvaram .\nbhūtabhṛnna ca bhūtastho mamātmā bhūtabhāvanaḥ ||9-5||",
+  "wordByWord": [
+    {
+      "term": "न च मत्स्थानि",
+      "meaning": "Nor are they situated in me."
+    },
+    {
+      "term": "योगम् ऐश्वरम्",
+      "meaning": "Divine or lordly yoga."
+    },
+    {
+      "term": "भूतभृत्",
+      "meaning": "Supporter of beings."
+    },
+    {
+      "term": "न च भूतस्थः",
+      "meaning": "Not dwelling in beings."
+    },
+    {
+      "term": "भूतभावनः",
+      "meaning": "Bringing forth or causing beings."
+    }
+  ],
+  "spokenHindi": "पिछली पंक्ति में कृष्ण ने कहा था कि सभी प्राणी उनमें स्थित हैं। यहाँ वे कहते हैं कि प्राणी उनमें स्थित भी नहीं हैं, और अर्जुन को अपना ऐश्वर्यपूर्ण योग देखने के लिए कहते हैं। साथ में वे स्वयं को प्राणियों का धारण करने वाला और उत्पत्ति का कारण कहते हैं, फिर भी उनमें स्थित नहीं। इन कथनों का तनाव ध्यान देने योग्य है। जल्दी से उन्हें किसी साधारण पात्र और वस्तु की तस्वीर में बाँध देने पर बात खो सकती है। दिए गए संस्करण में पहले निषेध के साथ वास्तविकता का संकेत दिया गया है। यह स्रोत का समझाने वाला अंश है, कोई भौतिक माप नहीं। हमें यहाँ पूरी दार्शनिक प्रणाली अपनी ओर से जोड़ने की आवश्यकता नहीं है। पहले दोनों वाक्य साथ सुनें: धारण करना और उनमें स्थित न होना। आधुनिक चिंतन में यह साधारण निष्कर्ष मिल सकता है कि संबंध को हमेशा कब्ज़े या स्थान के अर्थ में नहीं समझा जाता। पर यह हमारी उपमा है। कृष्ण का कथन उनके दिव्य योग के बारे में है; किसी व्यक्ति के मन पर अधिकार का दावा नहीं।",
+  "clearEnglish": "The verse deliberately unsettles the spatial reading that the previous sentence might encourage. Krishna now says beings do not exist in him, asks Arjuna to behold his divine yoga, and describes his Self as supporting and bringing forth beings without dwelling in them. The primary edition inserts “in reality” when rendering the first denial, helping readers hear a qualification rather than a simple inventory of locations. We should preserve the tension instead of pretending this short sentence supplies every step of a philosophical resolution. The important conjunction is support without dwelling: Krishna's sustaining relation is not described as one finite object inside another. A contemporary analogy might distinguish care from possession, since supporting someone does not require owning their life. That is only an analogy and should not be made a definition of divine yoga. It can encourage humility about the language of dependence while allowing the theological statement to remain its own claim. Careful study sometimes means holding related assertions together before choosing an interpretive system.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna denies beings' existence in him here, calls attention to his divine yoga, and describes his Self as supporting and producing beings without dwelling in them."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The relation should not be reduced too quickly to physical containment; care without possession is a limited modern analogy."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Hold both statements",
+      "text": "Read the preceding and present statements together and write the tension you want to understand."
+    }
+  ],
+  "reflectionQuestion": "Am I reducing a divine relation to physical containment?",
+  "reflectionQuestionHindi": "क्या मैं इस दिव्य संबंध को केवल किसी पात्र में वस्तु रखे होने जैसा समझ रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-017",
+  "sequenceNumber": 506,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 17,
+  "verseEnd": 17,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Undivided amid many forms / अनेक रूपों में अविभाजित",
+  "context": "Krishna continues describing the knowable as undivided, apparently divided among beings, and their sustainer, dissolver, and generator.",
+  "contextHindi": "कृष्ण ज्ञेय को प्राणियों में अविभाजित होकर भी विभाजित जैसा दिखने वाला और उत्पत्ति, धारण तथा लय का आधार कहते हैं।",
+  "sanskritDevanagari": "अविभक्तं च भूतेषु विभक्तमिव च स्थितम् |\nभूतभर्तृ च तज्ज्ञेयं ग्रसिष्णु प्रभविष्णु च ||१३-१७||",
+  "transliteration": "avibhaktaṃ ca bhūteṣu vibhaktamiva ca sthitam .\nbhūtabhartṛ ca tajjñeyaṃ grasiṣṇu prabhaviṣṇu ca ||13-17||",
+  "wordByWord": [
+    {
+      "term": "avibhaktam",
+      "meaning": "undivided; अविभाजित"
+    },
+    {
+      "term": "vibhaktam iva",
+      "meaning": "as if divided"
+    },
+    {
+      "term": "bhūtabhartṛ",
+      "meaning": "supporter of beings"
+    },
+    {
+      "term": "grasiṣṇu",
+      "meaning": "absorbing or devouring"
+    },
+    {
+      "term": "prabhaviṣṇu",
+      "meaning": "bringing forth or generating"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि ज्ञेय प्राणियों में अविभाजित है, फिर भी विभाजित जैसा स्थित है। वह प्राणियों को धारण करने वाला, उन्हें समेटने वाला और उत्पन्न करने वाला है। ‘जैसा’ शब्द ध्यान से सुनें। अलग रूप दिखाई देने और आधार का सचमुच टूटकर अलग हो जाने में अंतर रखा गया है। अभी यह दार्शनिक दावा है; किसी सामान्य वस्तु की गिनती से इसकी पूरी जाँच नहीं होती। अध्याय की चर्चा में उत्पत्ति, पोषण और लय तीनों एक बड़े संदर्भ में हैं। समेटने या निगलने की भाषा किसी मनुष्य को हानि पहुँचाने का अधिकार नहीं देती। अपने दिन का सीमित अनुप्रयोग यह हो सकता है कि अलग लोगों के बीच साझा जरूरत पहचानें। दो लोग अलग राय रखते हों, फिर भी सुरक्षित रहने या सुने जाने की जरूरत दोनों में हो सकती है। यह मानवीय तुलना है, ब्रह्म की पूरी परिभाषा नहीं। साझा बात पहचानकर भी मतभेद की वास्तविकता देखें। एकता का विचार दूसरे की अलग परिस्थिति मिटाने के बजाय सम्मान से समझने का अवसर दे सकता है।",
+  "clearEnglish": "The knowable is undivided yet stands among beings as though divided. It is also their supporter, absorber, and generator. The phrase as though is important: visible multiplicity is not simply equated with fragmentation of the underlying reality. This belongs to the chapter's metaphysical description, not a claim settled by counting ordinary objects. Generation, maintenance, and dissolution are presented together within that account. The language of absorption or devouring does not grant a person authority to harm another. A limited ethical application is to recognize shared needs amid real differences. People who disagree may both need safety, truthful information, and a chance to be heard. Recognizing this does not erase incompatible claims or distinct circumstances, and it does not define Brahman. It can nonetheless soften the assumption that difference means complete unrelatedness. Practice attending to one common concern while still naming the specific disagreement accurately. Unity then becomes a reason for more careful regard rather than a way of silencing particular experiences.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The knowable is undivided yet apparently divided among beings, and supports, absorbs, and generates them."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Recognizing a shared human need is a limited analogy for regard; it does not erase differences or authorize harm."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "In one disagreement, name a shared need and the actual point on which views differ."
+    }
+  ],
+  "reflectionQuestion": "What common concern can I recognize without denying the real difference?",
+  "reflectionQuestionHindi": "वास्तविक मतभेद मिटाए बिना कौन सी साझा जरूरत पहचान सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

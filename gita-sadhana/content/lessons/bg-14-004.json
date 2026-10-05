@@ -1,0 +1,67 @@
+{
+  "id": "bg-14-004",
+  "sequenceNumber": 528,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 4,
+  "verseEnd": 4,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "A common source for diverse beings / अनेक रूप, साझा उद्गम",
+  "context": "Krishna extends the preceding creation image to forms arising in every womb.",
+  "contextHindi": "कृष्ण पिछले श्लोक की उपमा को सभी जन्मस्थानों और सभी प्राणियों के रूपों तक फैलाते हैं।",
+  "sanskritDevanagari": "सर्वयोनिषु कौन्तेय मूर्तयः सम्भवन्ति याः |\nतासां ब्रह्म महद्योनिरहं बीजप्रदः पिता ||१४-४||",
+  "transliteration": "sarvayoniṣu kaunteya mūrtayaḥ sambhavanti yāḥ .\ntāsāṃ brahma mahadyonirahaṃ bījapradaḥ pitā ||14-4||",
+  "wordByWord": [
+    {
+      "term": "sarvayoniṣu",
+      "meaning": "in all wombs or sources of birth"
+    },
+    {
+      "term": "mūrtayaḥ",
+      "meaning": "embodied forms; रूप"
+    },
+    {
+      "term": "bījapradaḥ",
+      "meaning": "seed-giving; बीज देने वाला"
+    },
+    {
+      "term": "pitā",
+      "meaning": "father; पिता"
+    }
+  ],
+  "spokenHindi": "कृष्ण अर्जुन से कहते हैं कि किसी भी जन्मस्थान में जो रूप उत्पन्न होते हैं, उनका गर्भ महद् ब्रह्म है और वे स्वयं बीज देने वाले पिता हैं। ‘सभी’ शब्द इस कथन का विस्तार दिखाता है। बात केवल मनुष्यों, अपने समुदाय या मनपसंद जीवों की नहीं है। पिछले श्लोक की सृष्टि की उपमा यहाँ अनेक रूपों के साझा मूल को सामने लाती है। पिता और गर्भ की भाषा दिव्य संबंध व्यक्त करती है; इससे परिवार में पुरुषों की श्रेष्ठता या स्त्रियों की कम महत्ता निकालना पाठ से आगे की बात होगी। श्लोक कोई सामाजिक पदक्रम नहीं देता। एक जिम्मेदार व्यावहारिक निष्कर्ष यह है कि विविध जीवन को देखने में सम्मान बढ़ सकता है। सम्मान का मतलब हर जीव से एक जैसा व्यवहार करना नहीं; बच्चे की देखभाल, पालतू पशु की जरूरत और वन्य जीव से सुरक्षित दूरी अलग हो सकती है। फिर भी उपयोगिता के आधार पर जीवन को तुच्छ मानने की आदत पर प्रश्न उठाया जा सकता है।",
+  "clearEnglish": "The preceding verse spoke of the origin of all beings; this verse makes the breadth of that claim explicit through forms arising in every womb. Krishna identifies the great Brahma as their generative matrix and himself as the seed-giving father. The image connects diversity of embodiment to a common source. It does not assign greater spiritual worth to a particular species, family, sex, or social group. Nor does the metaphor establish a hierarchy between human parents. Those would be additions requiring separate argument and evidence. One reasonable ethical inference is that shared origin can support respect across visible differences. Such respect still permits distinctions in care and safety. A household animal and a wild animal need different responses, while neither has to be treated as spiritually contemptible. The teaching can also soften the tendency to value people only by their usefulness to us. The verse offers a cosmic relationship; our practice is to examine how that relationship might shape ordinary regard.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Forms born in all wombs share mahad brahma as their womb and Krishna as seed-giving father."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Respect for diverse beings is an ethical inference from shared origin; the verse does not prescribe identical treatment or social hierarchy."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Notice one being you usually overlook and offer an appropriate act of care or respectful distance."
+    }
+  ],
+  "reflectionQuestion": "Where does my respect become conditional on a being's usefulness to me?",
+  "reflectionQuestionHindi": "कहाँ मेरा सम्मान किसी प्राणी की मेरे लिए उपयोगिता पर निर्भर हो जाता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

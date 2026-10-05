@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-012",
+  "sequenceNumber": 635,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 12,
+  "verseEnd": 12,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "कर्मफल की तीन दिशाएँ / Threefold fruit of action",
+  "context": "Krishna describes desirable, undesirable, and mixed fruits after death for non-relinquishers, but not for renouncers.",
+  "contextHindi": "कृष्ण मृत्यु के बाद त्याग न करने वालों के लिए इष्ट, अनिष्ट और मिश्र कर्मफल बताते हैं, संन्यासियों के लिए नहीं।",
+  "sanskritDevanagari": "अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम् |\nभवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित् ||१८-१२||",
+  "transliteration": "aniṣṭamiṣṭaṃ miśraṃ ca trividhaṃ karmaṇaḥ phalam .\nbhavatyatyāgināṃ pretya na tu saṃnyāsināṃ kvacit ||18-12||",
+  "wordByWord": [
+    {
+      "term": "aniṣṭam",
+      "meaning": "Undesirable"
+    },
+    {
+      "term": "iṣṭam",
+      "meaning": "Desirable"
+    },
+    {
+      "term": "miśram",
+      "meaning": "Mixed"
+    },
+    {
+      "term": "pretya",
+      "meaning": "After death"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि कर्म का फल अनिष्ट, इष्ट और मिश्र तीन प्रकार का होता है। मृत्यु के बाद ये फल त्याग न करने वालों को मिलते हैं, संन्यासियों को नहीं। मृत्यु के बाद का कथन श्लोक का वास्तविक हिस्सा है; उसे केवल आज की सफलता और असफलता तक सीमित कर देना सही नहीं। यह कर्म और त्याग का धार्मिक वर्णन है। इससे वर्तमान जीवन में किसी घटना को देखकर दूसरे के अज्ञात कर्म का फैसला नहीं दिया जा सकता। आधुनिक अनुप्रयोग में हम इतना देख सकते हैं कि परिणाम हमेशा एक ही तरह नहीं आते। किसी काम में लाभ और कठिनाई साथ हो सकते हैं। यह समानता पाठ के परलोक संबंधी कथन का प्रमाण या विकल्प नहीं है। आज किसी अनुभव का वर्णन करते समय केवल अच्छा या बुरा का नारा न लगाएं। क्या लाभ हुआ, क्या लागत थी और क्या सुधार बाकी है, अलग लिखें। इससे जिम्मेदारी स्पष्ट होती है। त्याग के अध्ययन का उपयोग दूसरों पर अज्ञात दोष लगाने के बजाय अपने कर्म और अपेक्षा की जांच में करें।",
+  "clearEnglish": "Krishna names three fruits of action: undesirable, desirable, and mixed. He says they accrue after death to those who do not relinquish, but not to renouncers. The reference to what follows death is explicit and should not be silently reduced to ordinary feedback in this life. This is a religious account of karma and relinquishment. It also does not provide readers with evidence for assigning a present hardship to another person's unknown past actions. A limited modern analogy can acknowledge that an outcome may contain both benefit and cost. That analogy neither proves nor replaces the after-death statement. Its practical use is more accurate assessment. Consider one recent result and describe the gain, the difficulty, and the remaining responsibility separately. Avoid letting a single favourable or unfavourable label obscure what needs attention. The passage's seriousness can support care in one's own conduct without becoming a claim to know why every event has happened to someone else.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna states threefold fruit after death for non-relinquishers, but not for renouncers."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Assessing mixed outcomes is a limited modern analogy; the verse does not justify blaming present hardship on unknown past karma."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Describe the mixed result",
+      "text": "For one outcome, name its benefit, cost, and remaining responsibility separately."
+    }
+  ],
+  "reflectionQuestion": "Which part of this result is hidden by my single good-or-bad label?",
+  "reflectionQuestionHindi": "केवल अच्छा या बुरा कहने से परिणाम का कौन सा हिस्सा छूट जाता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

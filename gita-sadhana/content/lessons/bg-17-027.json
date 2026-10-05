@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-027",
+  "sequenceNumber": 622,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 27,
+  "verseEnd": 27,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "सत् में स्थिरता / Steadfastness in good practice",
+  "context": "Krishna extends Sat to steadfastness in sacrifice, austerity, giving, and action for their purpose.",
+  "contextHindi": "कृष्ण यज्ञ, तप और दान में स्थिरता तथा उनके उद्देश्य के कर्म को भी सत् कहते हैं।",
+  "sanskritDevanagari": "यज्ञे तपसि दाने च स्थितिः सदिति चोच्यते |\nकर्म चैव तदर्थीयं सदित्येवाभिधीयते ||१७-२७||",
+  "transliteration": "yajñe tapasi dāne ca sthitiḥ saditi cocyate .\nkarma caiva tadarthīyaṃ sadityevābhidhīyate ||17-27||",
+  "wordByWord": [
+    {
+      "term": "sthitiḥ",
+      "meaning": "Steadfastness or constancy"
+    },
+    {
+      "term": "yajñe",
+      "meaning": "In sacrifice"
+    },
+    {
+      "term": "tadarthīyam",
+      "meaning": "For that purpose; also read in the source as for the Supreme"
+    },
+    {
+      "term": "abhidhīyate",
+      "meaning": "Is designated or called"
+    }
+  ],
+  "spokenHindi": "कृष्ण बताते हैं कि यज्ञ, तप और दान में स्थिरता भी सत् कहलाती है। उनके लिए किया गया कर्म भी सत् कहा जाता है। स्रोत अंतिम भाग को इन कर्मों के लिए या परम के लिए कर्म, दोनों तरह से समझने की जगह देता है। इसलिए एक ही अर्थ को बिना बताए अंतिम कहना उचित नहीं। इस श्लोक में स्थिरता महत्वपूर्ण है। केवल शुरुआत की अच्छी भावना पर्याप्त नहीं, काम को संभालने वाला साथ भी चाहिए। कोई दान घोषित हुआ लेकिन पहुँचा नहीं, तो बीच की जिम्मेदारी बाकी है। कोई अध्ययन शुरू हुआ लेकिन समझ पर ध्यान नहीं दिया, तो नाम भर रह सकता है। ये आधुनिक उदाहरण हैं। आज किसी अच्छे काम के पीछे छोटा सहायक काम पहचानें। व्यवस्था करना, जानकारी जांचना या अपनी कही बात पूरी करना दिखावे में छोटा लग सकता है, लेकिन वही स्थिरता बनाता है। अपनी क्षमता के भीतर निभने वाला कदम चुनें। सत् की बात सुनते हुए वास्तविक निरंतरता को महत्व दें, केवल उत्साह के बड़े क्षण को नहीं।",
+  "clearEnglish": "Krishna extends the use of Sat to steadfastness in sacrifice, austerity, and giving, and to action undertaken for their purpose. The supplied translation also leaves room for reading the final expression as action for the Supreme. That interpretive range should be made visible rather than silently collapsed. Constancy adds an important dimension to the preceding discussion of goodness. A promising beginning does not complete a contribution; supporting actions and follow-through matter. In a contemporary example, arranging delivery of a gift or verifying a service's details may receive little attention but determine whether the intended good occurs. This is an application, not the verse's own list of supporting tasks. Choose one modest action that sustains a commitment already made. Keep it realistic enough to carry through. The practice can teach the difference between a moment of enthusiasm and dependable care. Constancy need not be dramatic; it may be expressed in completing the unglamorous step that gives an act its actual usefulness.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna calls steadfastness in sacrifice, austerity, and giving Sat, and extends the term to action for their purpose; the supplied edition also notes the Supreme reading."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Completing a supporting task is a modern example of dependable practice, not a ritual prescription."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "An unglamorous supporting step",
+      "text": "Complete one small practical step needed to sustain a contribution already promised."
+    }
+  ],
+  "reflectionQuestion": "Which unnoticed step would make my commitment dependable?",
+  "reflectionQuestionHindi": "कौन सा छोटा अनदेखा कदम मेरी जिम्मेदारी को भरोसेमंद बनाएगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

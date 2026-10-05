@@ -1,0 +1,71 @@
+{
+  "id": "bg-15-013",
+  "sequenceNumber": 564,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 13,
+  "verseEnd": 13,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "Earth and nourishment as divine support / धरती और पोषण का सहारा",
+  "context": "Krishna describes pervading the earth to sustain beings and nourishing plants through soma.",
+  "contextHindi": "प्रकाश के बाद कृष्ण धरती में प्रवेश करके प्राणियों को धारण करने और सोम रूप में वनस्पतियों को पोसने की बात करते हैं।",
+  "sanskritDevanagari": "गामाविश्य च भूतानि धारयाम्यहमोजसा |\nपुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः ||१५-१३||",
+  "transliteration": "gāmāviśya ca bhūtāni dhārayāmyahamojasā .\npuṣṇāmi cauṣadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ ||15-13||",
+  "wordByWord": [
+    {
+      "term": "gām āviśya",
+      "meaning": "pervading or entering the earth"
+    },
+    {
+      "term": "dhārayāmi",
+      "meaning": "I sustain; मैं धारण करता हूँ"
+    },
+    {
+      "term": "ojasā",
+      "meaning": "by energy or power"
+    },
+    {
+      "term": "oṣadhīḥ",
+      "meaning": "plants or herbs; वनस्पतियाँ"
+    },
+    {
+      "term": "rasātmakaḥ",
+      "meaning": "of the nature of sap or nourishing essence"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि धरती में प्रवेश करके वे शक्ति से प्राणियों को धारण करते हैं और रसात्मक सोम होकर सभी वनस्पतियों को पोसते हैं। दिए गए संस्करण में सोम को पोषण देने वाले चंद्र के रूप में समझाया गया है। श्लोक प्रकाश से आगे जीवन को थामने और भोजन की वृद्धि की ओर जाता है। इससे वनस्पति के बारे में कोई चिकित्सा दावा या चंद्रमा के अनुसार आहार बदलने की अनिवार्य विधि नहीं निकलती। धार्मिक भाषा जीवन के सहारे को दिव्य संबंध में रखती है। आज भोजन की थाली देखें तो मिट्टी, पानी, पौधा और अनेक लोगों की मेहनत साथ याद आ सकती है। यह हमारी व्यावहारिक तुलना है, श्लोक की अलग सूची नहीं। कृतज्ञता केवल भावना तक सीमित न रहे तो भोजन का अपव्यय कम करना या उपलब्ध साधनों का जिम्मेदार उपयोग एक छोटा कदम हो सकता है। जिन लोगों को पर्याप्त भोजन नहीं मिलता, उनकी स्थिति को श्रद्धा की कमी न कहें। जहाँ संभव हो सहायता दें। पोषण का सम्मान जीवन की वास्तविक जरूरतों को देखने में मदद कर सकता है।",
+  "clearEnglish": "Krishna speaks of pervading the earth and sustaining beings through his power, then of nourishing plants as soma of nourishing essence. The supplied translation renders soma here through the image of the watery moon. The verse extends divine presence from radiance to support and growth. It is not a medical claim about herbs or an instruction to organize diet around lunar timing. Its language relates the conditions sustaining life to the divine. A modern application is to notice the dependencies represented in a meal: soil, water, plant growth, and human labor. These are contemporary observations, not an extra list attributed to Krishna. Gratitude may then become practical care, such as reducing avoidable waste or supporting access to food when possible. A lack of food should never be interpreted as evidence that someone lacks devotion. Material needs remain real within spiritual reflection. The verse can deepen respect for nourishment by drawing attention to the sustaining ground that ordinary consumption often leaves unexamined.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna sustains beings by pervading the earth and nourishes plants as soma characterized by nourishing essence."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Reducing avoidable food waste and supporting nourishment are practical responses; no herbal cure or lunar diet instruction is stated."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "At one meal, notice its sources and reduce one avoidable form of waste within your control."
+    }
+  ],
+  "reflectionQuestion": "How can appreciation for nourishment change one concrete habit of consumption?",
+  "reflectionQuestionHindi": "पोषण के प्रति कृतज्ञता मेरी एक वास्तविक उपभोग की आदत कैसे बदल सकती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

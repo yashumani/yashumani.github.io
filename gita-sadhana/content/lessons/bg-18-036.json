@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-036",
+  "sequenceNumber": 659,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 36,
+  "verseEnd": 36,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Pleasure examined across time / समय के साथ सुख की जाँच",
+  "context": "Krishna introduces the threefold account of pleasure after discussing intellect and firmness.",
+  "contextHindi": "बुद्धि और धृति के बाद कृष्ण अब तीन प्रकार के सुख को सुनने का निमंत्रण देते हैं।",
+  "sanskritDevanagari": "सुखं त्विदानीं त्रिविधं शृणु मे भरतर्षभ |\nअभ्यासाद्रमते यत्र दुःखान्तं च निगच्छति ||१८-३६||",
+  "transliteration": "sukhaṃ tvidānīṃ trividhaṃ śṛṇu me bharatarṣabha .\nabhyāsādramate yatra duḥkhāntaṃ ca nigacchati ||18-36||",
+  "wordByWord": [
+    {
+      "term": "trividham sukham",
+      "meaning": "threefold pleasure or happiness"
+    },
+    {
+      "term": "abhyāsāt",
+      "meaning": "through practice"
+    },
+    {
+      "term": "ramate",
+      "meaning": "takes delight"
+    },
+    {
+      "term": "duḥkhāntam",
+      "meaning": "the end of pain"
+    },
+    {
+      "term": "śṛṇu",
+      "meaning": "listen; सुनो"
+    }
+  ],
+  "spokenHindi": "कृष्ण अर्जुन से अब तीन प्रकार के सुख को सुनने को कहते हैं। वे अभ्यास से रमण और दुख के अंत की दिशा की बात करते हैं। यह आगे आने वाले भेद की भूमिका है; अभी तीनों सुखों की अलग पहचान इसी श्लोक में नहीं दी गई। सुख को केवल पहले क्षण की अनुभूति से आँकना पर्याप्त नहीं हो सकता। अभ्यास से कोई नया संबंध बनता है और परिणाम बाद में खुलता है। यह अर्थ की दिशा अगले वर्णन को ध्यान से सुनने में मदद देती है। आज की सीमित तुलना में कोई लाभकारी कौशल शुरुआत में कठिन लग सकता है, फिर धीरे संतोष देता है। इससे हर कठिन अनुभव अच्छा घोषित नहीं हो जाता। कठिनाई की वजह और सुरक्षा देखना जरूरी है। श्लोक के दुखांत को मानसिक या शारीरिक पीड़ा का तुरंत उपचार कहकर पेश न करें। अपने लिए एक सहज प्रश्न रखें: इस सुख की शुरुआत और कुछ समय बाद का असर क्या है? अभी फैसला करने के बजाय तथ्य देखें। धीमी समझ आनंद को अधिक जिम्मेदार ढंग से पहचानने का अवसर देती है।",
+  "clearEnglish": "Krishna introduces a threefold account of pleasure, speaking of delight through practice and movement toward the end of pain. The verse is an invitation to hear the distinction that follows; it does not yet enumerate the three kinds. It also brings time and cultivation into the examination of happiness. An immediate feeling may not reveal what a repeated experience will yield. A modern illustration is learning a useful skill that initially requires effort and later offers satisfaction. That example should not be generalized into a rule that all difficulty is beneficial. The cause, purpose, and safety of a demanding situation still need examination. Likewise, the spiritual language of ending pain is not a promise of immediate treatment for every medical or emotional condition. A modest practice is to look at the beginning and later effects of one repeated source of pleasure. Gather what is actually known before assigning it a category. The next verses develop the account, so attentive listening should precede a premature conclusion.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna announces threefold pleasure, delight through practice, and the ending of pain; the classifications follow in later verses."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Examining pleasure's immediate and later effects applies the temporal inquiry without promising treatment or sanctifying all hardship."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Choose one repeated pleasure and note its immediate effect and a later effect you have actually observed."
+    }
+  ],
+  "reflectionQuestion": "What do I know about this pleasure after the first moment has passed?",
+  "reflectionQuestionHindi": "पहला क्षण बीतने के बाद इस सुख के बारे में मैं वास्तव में क्या जानता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

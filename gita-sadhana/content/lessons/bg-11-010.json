@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-010",
+  "sequenceNumber": 424,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 10,
+  "verseEnd": 10,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "अनेक अंगों वाला रूप / A form of many features",
+  "context": "Sanjaya describes the revealed form through many mouths, eyes, ornaments, wonders and raised weapons.",
+  "contextHindi": "संजय दिखाए गए रूप के अनेक मुख, नेत्र, आश्चर्य, दिव्य आभूषण और उठे हुए आयुध बताते हैं।",
+  "sanskritDevanagari": "अनेकवक्त्रनयनमनेकाद्भुतदर्शनम् |\nअनेकदिव्याभरणं दिव्यानेकोद्यतायुधम् ||११-१०||",
+  "transliteration": "anekavaktranayanamanekādbhutadarśanam .\nanekadivyābharaṇaṃ divyānekodyatāyudham ||11-10||",
+  "wordByWord": [
+    {
+      "term": "अनेकवक्त्रनयनम्",
+      "meaning": "having many mouths and eyes"
+    },
+    {
+      "term": "अद्भुतदर्शनम्",
+      "meaning": "wonderful appearances"
+    },
+    {
+      "term": "दिव्याभरणम्",
+      "meaning": "divine ornaments"
+    },
+    {
+      "term": "उद्यतायुधम्",
+      "meaning": "raised weapons"
+    }
+  ],
+  "spokenHindi": "संजय रूप का वर्णन करते हैं: अनेक मुख और नेत्र, अनेक अद्भुत दृश्य, अनेक दिव्य आभूषण और उठे हुए दिव्य आयुध। अनेक शब्द की बार बार उपस्थिति सुनने में ही दृश्य का विस्तार पैदा करती है। यह किसी साधारण शरीर का वर्णन नहीं, कृष्ण द्वारा दिखाए गए दिव्य रूप का वृत्तांत है। मुख और आँखों की बहुतायत से एक परिचित चेहरा देखने की आदत टूटती है। सजावट और आयुध एक ही दृश्य में हैं, इसलिए केवल शांत सुंदरता की अपनी अपेक्षा उसमें पूरी नहीं होती। अभी वर्णन को निजी हिंसा की प्रेरणा बनाना भी अनुचित होगा; श्लोक कोई कार्य आदेश नहीं देता। इसका साहित्यिक प्रभाव हमारी साधारण देखने की सीमा को फैलाना है। पढ़ते समय किसी चित्र को जोर से कल्पना में बनाने की जरूरत नहीं। शब्दों की लय सुनना पर्याप्त हो सकता है। हमारा उपयोग यह है कि जटिल दृश्य को जल्द एक लेबल में बंद न करें। एक नई स्थिति में अलग अलग विशेषताएँ लिखें, फिर निष्कर्ष पर आएँ। विस्तार से देखना कभी पहली धारणा को संशोधित कर सकता है।",
+  "clearEnglish": "The repeated many is the main descriptive rhythm. Mouths, eyes, extraordinary sights, ornaments and uplifted weapons appear together in Sanjaya's account. It describes the form Krishna has revealed, not an ordinary body or an instruction for human action. The accumulation disrupts the expectation of a single familiar face. Ornamental splendour and the presence of weapons also prevent the vision from being reduced to a pleasant decorative image. The verse gives visual features without yet explaining their full significance in the unfolding scene. A listener does not need to force vivid mental pictures in order to study it; attending to the words and their recurrence can be sufficient. A modern application is patient description before classification. When a situation feels complicated, identify several actual features rather than giving it one immediate label. Later judgment may then rest on more than the first impression. That method is our inference from the descriptive abundance, while the literal text remains Sanjaya's report of the divine form.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Sanjaya describes many mouths, eyes, wonders, ornaments and raised divine weapons."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Describing several features before labeling a situation is an application; weapon imagery supplies no personal command to violence."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Describe before labeling",
+      "text": "Choose a low-stakes complex scene. Write three observable features before naming what you think it means."
+    }
+  ],
+  "reflectionQuestion": "Which detail disappears when I reduce a situation to one label?",
+  "reflectionQuestionHindi": "किसी स्थिति को एक ही नाम में समेटने से कौन सा विवरण छूट जाता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

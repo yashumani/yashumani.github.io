@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-050",
+  "sequenceNumber": 464,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 50,
+  "verseEnd": 50,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "सौम्य रूप और सांत्वना / Gentle form and consolation",
+  "context": "Sanjaya reports Krishna showing his own form again and consoling the frightened Arjuna with a gentle appearance.",
+  "contextHindi": "संजय कहते हैं कि कृष्ण ने अपना रूप फिर दिखाया और सौम्य स्वरूप लेकर भयभीत अर्जुन को आश्वस्त किया।",
+  "sanskritDevanagari": "सञ्जय उवाच |\nइत्यर्जुनं वासुदेवस्तथोक्त्वा\nस्वकं रूपं दर्शयामास भूयः |\nआश्वासयामास च भीतमेनं\nभूत्वा पुनः सौम्यवपुर्महात्मा ||११-५०||",
+  "transliteration": "sañjaya uvāca .\nityarjunaṃ vāsudevastathoktvā svakaṃ rūpaṃ darśayāmāsa bhūyaḥ .\nāśvāsayāmāsa ca bhītamenaṃ bhūtvā punaḥ saumyavapurmahātmā ||11-50||",
+  "wordByWord": [
+    {
+      "term": "स्वकम् रूपम्",
+      "meaning": "his own form"
+    },
+    {
+      "term": "आश्वासयामास",
+      "meaning": "consoled or reassured"
+    },
+    {
+      "term": "भीतम्",
+      "meaning": "frightened"
+    },
+    {
+      "term": "सौम्यवपुः",
+      "meaning": "of gentle appearance"
+    }
+  ],
+  "spokenHindi": "संजय बताते हैं कि अर्जुन से ऐसा कहकर कृष्ण ने अपना रूप फिर दिखाया। फिर सौम्य स्वरूप लेकर भयभीत अर्जुन को सांत्वना दी। अब वक्ता संजय हैं, कृष्ण स्वयं अपने सांत्वना देने का वर्णन नहीं कर रहे। सौम्यवपुः रूप की कोमलता या शांत प्रस्तुति बताता है। पिछले श्लोक के आश्वासन को अब दृश्य बदलाव का साथ मिलता है। इस श्लोक में भुजाओं की संख्या दोबारा नहीं कही गई; इसलिए पहले के अनुरोध और अगले मानव रूप के वर्णन को इनके अपने शब्दों में रहने दें। मुख्य बात भयभीत अर्जुन के प्रति उत्तर की सौम्यता है। हमारी रोजमर्रा की सीख में मदद का स्वर और तरीका दोनों महत्वपूर्ण हो सकते हैं। किसी को कठिन जानकारी दी हो तो समझने के लिए समय और साफ भाषा भी दें। अपनी विद्वत्ता दिखाना सहायता का एकमात्र उद्देश्य न बने। यह आधुनिक मानवीय अनुप्रयोग है, दिव्य स्वरूप बदलने की शक्ति अपने पास मानना नहीं। छोटा सहयोग भी व्यक्ति की वर्तमान जरूरत पूछकर अधिक उपयोगी किया जा सकता है।",
+  "clearEnglish": "Sanjaya reports the action that follows the reassurance. Krishna shows his own form again and, becoming gentle in appearance, consoles the frightened Arjuna. The narrator is Sanjaya; this is not Krishna speaking about himself in the first person. Saumyavapuh marks the manner of presentation as gentle. The verse does not restate the number of arms, so the earlier four-armed request and the following description of a human form should retain their own wording. Here the emphasis is consolation through a changed appearance. A modern application is to consider the manner in which difficult knowledge is offered. Correct information can still need a suitable pace, clear wording and room for the recipient's response. Helping is not merely demonstrating how much the speaker knows. That is an ordinary interpersonal inference, not an assertion that humans possess Krishna's power to change divine form. One can ask what presentation would be easier to receive. The narrative's concrete kindness gives the previous words of reassurance their accompanying action.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Sanjaya says Krishna shows his own form and consoles Arjuna through a gentle appearance."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Adjusting pace and presentation can make ordinary guidance kinder; the verse does not specify an arm count here."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Adjust the presentation",
+      "text": "When explaining something difficult, offer a shorter explanation or slower pace and ask which would be more useful."
+    }
+  ],
+  "reflectionQuestion": "Is my way of explaining suited to the person receiving it?",
+  "reflectionQuestionHindi": "क्या समझाने का मेरा तरीका सुनने वाले की स्थिति के अनुकूल है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

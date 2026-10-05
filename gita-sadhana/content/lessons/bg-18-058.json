@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-058",
+  "sequenceNumber": 681,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 58,
+  "verseEnd": 58,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Grace and the danger of proud refusal / कृपा और अहंकार की चेतावनी",
+  "context": "Krishna pairs the promise of crossing difficulties through his grace with a warning against refusal born of ego.",
+  "contextHindi": "कृष्ण मन को उन पर रखने से बाधाएँ पार होने और अहंकार में न सुनने के संकट की बात करते हैं।",
+  "sanskritDevanagari": "मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि |\nअथ चेत्त्वमहंकारान्न श्रोष्यसि विनङ्क्ष्यसि ||१८-५८||",
+  "transliteration": "maccittaḥ sarvadurgāṇi matprasādāttariṣyasi .\natha cettvamahaṃkārānna śroṣyasi vinaṅkṣyasi ||18-58||",
+  "wordByWord": [
+    {
+      "term": "maccittaḥ",
+      "meaning": "with mind fixed on me"
+    },
+    {
+      "term": "sarvadurgāṇi",
+      "meaning": "all difficulties or obstacles"
+    },
+    {
+      "term": "matprasādāt",
+      "meaning": "by my grace"
+    },
+    {
+      "term": "ahaṅkārāt",
+      "meaning": "from egoism"
+    },
+    {
+      "term": "na śroṣyasi",
+      "meaning": "you will not listen"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि मन उन्हें समर्पित हो तो उनकी कृपा से कठिनाइयाँ पार होंगी; लेकिन अहंकार से उनकी बात न सुनने पर विनाश होगा। यह तीखी चेतावनी उसी संवाद में आती है जहाँ अर्जुन युद्धभूमि में उलझा है। इसे किसी मनुष्य के हाथ में डर पैदा करने का हथियार नहीं देना चाहिए। कोई गुरु या परिजन इस पंक्ति का हवाला देकर यह नहीं कह सकता कि मेरी बात मानो वरना तुम नष्ट हो जाओगे। श्लोक में वक्ता कृष्ण हैं और प्रश्न अहंकार से न सुनने का है। हर असहमति अहंकार नहीं होती; कभी सावधान प्रश्न समझ को गहरा करते हैं। कृपा को भी ऐसी गारंटी न बनाएं कि साधक को कभी कठिनाई नहीं आएगी। कठिनाई पार करने की आशा और वास्तविक सहायता लेना साथ चल सकते हैं। आज देखें कि किस सलाह को आप केवल अपना मान बचाने के लिए ठुकरा रहे हैं। फिर सलाह की गुणवत्ता भी जाँचें। विनम्र सुनना और स्वतंत्र विवेक दोनों साथ रह सकते हैं।",
+  "clearEnglish": "The verse has two sharply different clauses. With the mind fixed on Krishna, Arjuna will cross difficulties through Krishna's grace; refusal to listen from egoism leads to ruin. The speaker is Krishna in this particular dialogue. A reader should not hand this warning to a human authority as a threat against disagreement. Honest questions, requests for evidence, or resistance to harmful demands are not automatically egoism. Nor does the promise mean that a devoted person never meets hardship or should decline practical assistance. Its spiritual claim concerns grace through difficulty. A careful modern inference is to ask whether pride has made you dismiss sound counsel before hearing it. Then examine the counsel itself and its consequences. Both moves matter: humility without discernment is vulnerable to manipulation, while discernment without willingness to listen can become mere defensiveness. If danger or acute distress is present, seek relevant help. The language of perishing should be handled as Krishna's grave warning in context, not as a tool for inducing fear in another person.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna promises that a mind fixed on him will cross difficulties by his grace, and warns Arjuna against refusing to hear him through egoism."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "One may examine defensive refusal while still questioning human advice; the warning does not authorize coercion or guarantee an easy life."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Revisit one piece of advice you dismissed, separate the evidence from wounded pride, and decide freely what is sound."
+    }
+  ],
+  "reflectionQuestion": "Am I refusing to hear a good point because it threatens my image?",
+  "reflectionQuestionHindi": "क्या मैं अपनी छवि बचाने के लिए कोई उचित बात सुनने से इनकार कर रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

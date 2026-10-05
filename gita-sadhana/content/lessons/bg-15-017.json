@@ -1,0 +1,71 @@
+{
+  "id": "bg-15-017",
+  "sequenceNumber": 568,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 17,
+  "verseEnd": 17,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "The Supreme sustaining Person / धारण करने वाला परम पुरुष",
+  "context": "After naming the perishable and imperishable, Krishna describes the distinct Supreme Purusha who sustains the three worlds.",
+  "contextHindi": "क्षर और अक्षर के बाद कृष्ण उनसे भिन्न परमात्मा कहे जाने वाले उत्तम पुरुष का वर्णन करते हैं।",
+  "sanskritDevanagari": "उत्तमः पुरुषस्त्वन्यः परमात्मेत्युधाहृतः |\nयो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः ||१५-१७||",
+  "transliteration": "uttamaḥ puruṣastvanyaḥ paramātmetyudhāhṛtaḥ .\nyo lokatrayamāviśya bibhartyavyaya īśvaraḥ ||15-17||",
+  "wordByWord": [
+    {
+      "term": "uttamaḥ puruṣaḥ",
+      "meaning": "the highest Person or principle"
+    },
+    {
+      "term": "paramātmā",
+      "meaning": "Supreme Self; परमात्मा"
+    },
+    {
+      "term": "lokatrayam",
+      "meaning": "the three worlds"
+    },
+    {
+      "term": "bibharti",
+      "meaning": "sustains; धारण करता है"
+    },
+    {
+      "term": "avyayaḥ īśvaraḥ",
+      "meaning": "imperishable Lord"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि उत्तम पुरुष उनसे भिन्न है, जिसे परमात्मा कहा जाता है। यह अविनाशी ईश्वर तीनों लोकों में प्रवेश करके उन्हें धारण करता है। पिछले श्लोक के क्षर और अक्षर का अंतर अब अंतिम बिंदु नहीं रहता; चर्चा उस परम आधार तक जाती है जो सबको सँभालता है। परमात्मा को केवल एक बहुत शक्तिशाली देहधारी जीव समझना इस कथन को छोटा करेगा। यहाँ व्यापक उपस्थिति और धारण करने की बात है। दिए गए अंश से सभी दार्शनिक परंपराओं का संबंध विस्तार में तय नहीं होता, लेकिन परम और व्यक्तिगत की चर्चा में यह नया स्तर साफ रखना चाहिए। रोजमर्रा का एक प्रश्न यह हो सकता है कि अपनी स्वतंत्रता के साथ हम सहारों को कितना देखते हैं। किसी निर्णय में दूसरों का श्रम और साझा व्यवस्था शामिल होती है। यह मानव संबंध की तुलना है, परमात्मा की परिभाषा नहीं। आज एक सहारा पहचानकर उसके प्रति जिम्मेदार रहें। आध्यात्मिक स्मरण के साथ वास्तविक दायित्व देखना निर्भरता को अपमान के बजाय सच स्वीकारने का अवसर बना सकता है।",
+  "clearEnglish": "The twofold distinction of the preceding verse is followed by a distinct highest Purusha, called the Supreme Self. Krishna describes this imperishable Lord as entering and sustaining the three worlds. The account is therefore not exhausted by either changing beings or the unchanging individual principle. It directs attention to a sustaining divine ground. The supplied chapter summary likewise emphasizes the Supreme's presence and support throughout existence. This should not be reduced to an especially powerful embodied personality, nor should a complete school-specific account of the relationships be invented without further sources. A present-day analogy concerns recognizing support while exercising agency. A decision may be ours to make, yet it depends on other people's work, shared arrangements, and conditions we did not create. That observation does not define the Supreme Self. It can, however, encourage responsibility toward what supports our life. Notice one such support and care for the relationship or resource it involves instead of treating dependence as something to deny.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The distinct highest Purusha is called the Supreme Self and is the imperishable Lord who enters and sustains the three worlds."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Acknowledging practical supports is an analogy for reflection, not a definition of the Supreme or an invented philosophical resolution."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Identify one support behind today's work and fulfill one responsibility toward the person or resource involved."
+    }
+  ],
+  "reflectionQuestion": "Which support am I benefiting from without acknowledging my responsibility toward it?",
+  "reflectionQuestionHindi": "किस सहारे का लाभ लेते हुए मैं उसके प्रति अपनी जिम्मेदारी भूल रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

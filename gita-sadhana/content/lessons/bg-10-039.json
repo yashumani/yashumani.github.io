@@ -1,0 +1,71 @@
+{
+  "id": "bg-10-039",
+  "sequenceNumber": 411,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 39,
+  "verseEnd": 39,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "हर अस्तित्व का बीज / The seed of every being",
+  "context": "Krishna gathers the examples into the universal claim that no moving or unmoving being exists without him.",
+  "contextHindi": "कृष्ण उदाहरणों को समेटकर कहते हैं कि सब प्राणियों का बीज वे हैं और कोई अस्तित्व उनसे स्वतंत्र नहीं है।",
+  "sanskritDevanagari": "यच्चापि सर्वभूतानां बीजं तदहमर्जुन |\nन तदस्ति विना यत्स्यान्मया भूतं चराचरम् ||१०-३९||",
+  "transliteration": "yaccāpi sarvabhūtānāṃ bījaṃ tadahamarjuna .\nna tadasti vinā yatsyānmayā bhūtaṃ carācaram ||10-39||",
+  "wordByWord": [
+    {
+      "term": "बीजम्",
+      "meaning": "seed or originating ground"
+    },
+    {
+      "term": "सर्वभूतानाम्",
+      "meaning": "of all beings"
+    },
+    {
+      "term": "चराचरम्",
+      "meaning": "moving and unmoving"
+    },
+    {
+      "term": "विना मया",
+      "meaning": "without me"
+    }
+  ],
+  "spokenHindi": "कृष्ण अर्जुन से कहते हैं कि सभी प्राणियों का जो बीज है, वह वे हैं। कोई चर या अचर प्राणी उनके बिना अस्तित्व में नहीं रह सकता। बीज का चित्र शुरुआत और निर्भरता की बात को एक छोटे रूप में रखता है। इसका मतलब यह नहीं कि श्लोक प्रत्येक जीव की जैविक उत्पत्ति की विधि बता रहा है। चराचर चलने वाले और स्थिर दोनों को जोड़ता है, इसलिए पहले की चुनी हुई सूची अब एक व्यापक घोषणा में लौटती है। स्वामी शिवानंद की टिप्पणी कृष्ण को सबका आदिम बीज और आत्मा कहकर इसी आधार को खोलती है। हमारा उपयोग परस्पर सहारे पर ध्यान करना हो सकता है। किसी वस्तु को स्वतंत्र उपलब्धि मानने से पहले देखें कि किन लोगों, सामग्री और परिस्थितियों ने उसे संभव बनाया। यह सामाजिक निर्भरता का उदाहरण दिव्य आधार का पूरा अर्थ नहीं है, पर कृतज्ञता का ठोस अवसर देता है। किसी निर्जीव जैसी दिखती चीज को भी व्यर्थ नुकसान पहुँचाने से पहले ठहरें। बड़े सिद्धांत का मूल्य साधारण व्यवहार की सावधानी में दिख सकता है।",
+  "clearEnglish": "The catalogue now returns to universality. Krishna identifies himself as the seed of all beings and says no moving or unmoving being can exist without him. Seed is an image of originating ground and dependence, not a full biological mechanism. The distinction between moving and unmoving also makes the scope wider than the prominent names selected earlier. Sivananda's commentary develops this by describing the Lord as the primordial seed and Self of everything. A careful application can attend to dependence in ordinary achievement. A finished object, skill or project relies on materials, labor, care and circumstances that are easy to overlook. Naming those supports does not exhaust the theological meaning of divine dependence, but it can make gratitude practical. One might handle an object more carefully after recognizing what made it possible. This is a modest inference rather than a claim that the verse specifies ecological policy. Its central statement remains that all existence, including what appears still or insignificant, depends on Krishna.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says he is the seed of all beings and none moving or unmoving exists without him."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Noticing ordinary dependencies can encourage gratitude and care, without exhausting the divine claim."
+    },
+    {
+      "label": "COMMENTARY — Swami Sivananda",
+      "explanation": "Sivananda describes Krishna as the primordial seed and Self of everything, emphasizing universal dependence."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Trace a dependency",
+      "text": "Choose one everyday object or skill. Name three supports that made it possible, then handle or use it with greater care today."
+    }
+  ],
+  "reflectionQuestion": "What do I treat as entirely mine despite the supports that made it possible?",
+  "reflectionQuestionHindi": "किन सहारों से बनी चीज को मैं पूरी तरह अपनी उपलब्धि मान लेता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

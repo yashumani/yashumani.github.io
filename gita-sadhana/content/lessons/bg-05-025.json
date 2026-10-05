@@ -1,0 +1,71 @@
+{
+  "id": "bg-05-025",
+  "sequenceNumber": 229,
+  "date": "2026-10-05",
+  "chapter": 5,
+  "verseStart": 25,
+  "verseEnd": 25,
+  "chapterNameSanskrit": "कर्मसंन्यासयोग",
+  "chapterNameEnglish": "Karma Sannyāsa Yoga",
+  "theme": "Inner freedom joined with the welfare of all beings.",
+  "context": "After describing inward happiness and the limits of pleasure dependent on contact, Krishna presents the qualities of sages who attain freedom: reduced inner impurity, steadiness, and commitment to the good of all beings.",
+  "contextHindi": "इंद्रियों के संपर्क से मिलने वाले सुख की सीमाएँ बताने के बाद, कृष्ण ऐसे ऋषियों का वर्णन करते हैं जिनमें आत्मसंयम और सभी प्राणियों के हित के प्रति लगाव साथ-साथ हैं।",
+  "sanskritDevanagari": "लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः |\nछिन्नद्वैधा यतात्मानः सर्वभूतहिते रताः ||५-२५||",
+  "transliteration": "labhante brahmanirvāṇamṛṣayaḥ kṣīṇakalmaṣāḥ .\nchinnadvaidhā yatātmānaḥ sarvabhūtahite ratāḥ ||5-25||",
+  "wordByWord": [
+    {
+      "term": "brahmanirvāṇam",
+      "meaning": "Freedom or peace in realization of Brahman; the verse's spiritual goal, not merely ordinary relaxation."
+    },
+    {
+      "term": "kṣīṇakalmaṣāḥ",
+      "meaning": "Those whose inner faults or impurities have diminished; this need not be read as a claim that people are inherently stained."
+    },
+    {
+      "term": "chinnadvaidhāḥ",
+      "meaning": "Those whose divisive doubt or inner split has been cut through."
+    },
+    {
+      "term": "yatātmānaḥ",
+      "meaning": "Those who have disciplined or gathered themselves through self-restraint."
+    },
+    {
+      "term": "sarvabhūtahite ratāḥ",
+      "meaning": "Those devoted to the welfare of all beings."
+    }
+  ],
+  "spokenHindi": "यह श्लोक मुक्ति को केवल अकेले बैठकर मिलने वाली शांति की तरह नहीं रखता। इसमें आत्मसंयम और सभी प्राणियों के हित में लगे रहने की बात साथ आती है। “क्षीणकल्मषाः” का अर्थ है कि भीतर की अशुद्धियाँ या बाधक प्रवृत्तियाँ घट चुकी हैं; इसे किसी व्यक्ति को जन्म से दोषी ठहराने की तरह नहीं पढ़ना चाहिए। “छिन्नद्वैधाः” मन के उस बँटाव या संदेह के शांत होने की ओर संकेत करता है जो हमें खींचता रहता है। “यतात्मानः” अपने मन और व्यवहार को साधने वालों के लिए है। फिर “सर्वभूतहिते रताः” बताता है कि उनकी साधना का रुख दूसरों के कल्याण की ओर भी है। TEXT: कृष्ण इन गुणों वाले ऋषियों को ब्रह्मनिर्वाण पाने वाला कहते हैं। INFERENCE: आध्यात्मिक समझ को करुणामय कर्म से परखना उपयोगी हो सकता है, लेकिन यह हमारी ओर से निकला निष्कर्ष है, श्लोक की अलग परिभाषा नहीं। रोज़मर्रा में इसका अर्थ हो सकता है कि हम अपनी प्रतिक्रिया सँभालें और किसी के हित में छोटा, ठोस काम करें।",
+  "clearEnglish": "This verse joins inward discipline with concern for others. Its sages are described as having diminished inner faults, a steadier understanding, and an active commitment to the welfare of all beings. “Brahmanirvāṇa” names the spiritual freedom or peace they attain; it should not be reduced to a passing mood of calm. “Kṣīṇakalmaṣāḥ” suggests that obstructive tendencies have waned, not that some people are born morally tainted. “Chinnadvaidhāḥ” points to a division or doubt that has been resolved, while “yatātmānaḥ” conveys self-discipline. TEXT: Krishna connects these qualities with attaining Brahmanirvāṇa. INFERENCE: The verse invites us to ask whether spiritual practice makes us more capable of acting for others’ good, rather than simply seeking private comfort. That is a reasonable ethical application, not a separate quotation from Krishna. The verse does not specify one social program or require self-neglect. In daily life, we might pause before reacting, notice who is affected by our choices, and offer practical help without assuming we know what another person needs.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse names sages with diminished impurities, resolved inner division, self-discipline, and devotion to the welfare of all beings as attaining Brahmanirvāṇa."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The pairing of inward discipline and concern for others supports treating care for others as a meaningful test of practice; this is an ethical application, not an additional literal claim."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Pause and include",
+      "text": "Before one important response today, pause long enough to consider who else will be affected, then choose one helpful action that respects their needs."
+    }
+  ],
+  "reflectionQuestion": "How might your inner discipline become a practical contribution to the welfare of someone beyond yourself?",
+  "reflectionQuestionHindi": "आज आपका आत्मसंयम अपने अलावा किसी और के हित में किस छोटे, व्यावहारिक काम के रूप में दिख सकता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

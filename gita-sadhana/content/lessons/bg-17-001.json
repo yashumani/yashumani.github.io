@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-001",
+  "sequenceNumber": 596,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 1,
+  "verseEnd": 1,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "अर्जुन का प्रश्न / Arjuna asks about faith",
+  "context": "Arjuna asks how to understand faithful worship performed while setting aside scriptural ordinances, following the previous chapter's conclusion.",
+  "contextHindi": "पिछले अध्याय के अंत की शिक्षा सुनकर अर्जुन शास्त्रीय विधान छोड़कर श्रद्धा से पूजा करने वालों के बारे में पूछते हैं।",
+  "sanskritDevanagari": "अर्जुन उवाच |\nये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयान्विताः |\nतेषां निष्ठा तु का कृष्ण सत्त्वमाहो रजस्तमः ||१७-१||",
+  "transliteration": "arjuna uvāca .\nye śāstravidhimutsṛjya yajante śraddhayānvitāḥ .\nteṣāṃ niṣṭhā tu kā kṛṣṇa sattvamāho rajastamaḥ ||17-1||",
+  "wordByWord": [
+    {
+      "term": "śraddhayānvitāḥ",
+      "meaning": "Endowed with faith"
+    },
+    {
+      "term": "niṣṭhā",
+      "meaning": "Standing, orientation, or condition"
+    },
+    {
+      "term": "sattvam",
+      "meaning": "The quality of clarity or purity"
+    },
+    {
+      "term": "rajas",
+      "meaning": "The quality of passion and activity"
+    }
+  ],
+  "spokenHindi": "इस अध्याय की शुरुआत अर्जुन के प्रश्न से होती है। कृष्ण ने पहले शास्त्र को निर्णय का आधार बताया था। अब अर्जुन पूछते हैं कि जो लोग शास्त्रीय विधान छोड़कर भी श्रद्धा के साथ यज्ञ करते हैं, उनकी स्थिति क्या है। क्या वह सत्त्व है, रज है या तम है? यह अर्जुन की जिज्ञासा है, कृष्ण का उत्तर नहीं। प्रश्न में एक वास्तविक कठिनाई है: ईमानदार भावना और सही समझ हमेशा एक साथ नहीं मिलते। कोई व्यक्ति बहुत विश्वास से काम कर सकता है, फिर भी उसके तरीके पर प्रश्न उठ सकते हैं। अर्जुन इस अंतर को छिपाने के बजाय सामने रखते हैं। इससे अध्ययन में पूछने की जगह मिलती है। श्रद्धा का सम्मान करने का अर्थ हर अभ्यास को बिना जांच सही मानना नहीं है। आज किसी परिचित प्रथा के बारे में एक शांत प्रश्न लिखिए। उसका स्रोत क्या है, उद्देश्य क्या है, और उससे किस पर क्या असर पड़ता है? प्रश्न पूछते समय अपमान न जोड़ें। समझने की इच्छा स्वयं संवाद को आगे बढ़ा सकती है।",
+  "clearEnglish": "Arjuna, not Krishna, speaks this opening verse. He asks about people who set aside scriptural ordinances yet perform worship or sacrifice with faith: does their standing belong to sattva, rajas, or tamas? The question follows directly from the previous chapter's instruction to use scripture as the authority for action and restraint. It introduces a distinction between sincerity and the quality of an act. A person's conviction may be intense without settling whether the practice is well understood. Arjuna does not provide the answer here; preserving the question prevents us from presenting his uncertainty as a divine verdict. A contemporary application is to make room for respectful examination of inherited practice. Ask about its source, purpose, and effects without mocking the people who value it. Such inquiry need not imply contempt or a decision to abandon the practice. It can be the first step toward a faith that remains willing to learn.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna asks whether faithful worship outside scriptural ordinances is sattvic, rajasic, or tamasic."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Respectful inquiry into a practice's source and effect applies Arjuna's question without answering it prematurely."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "A respectful question",
+      "text": "Write one question about a valued practice, separating your desire to understand from criticism of its followers."
+    }
+  ],
+  "reflectionQuestion": "What do I need to understand about a practice I sincerely value?",
+  "reflectionQuestionHindi": "जिस अभ्यास को मैं मानता हूँ, उसके बारे में क्या समझना बाकी है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

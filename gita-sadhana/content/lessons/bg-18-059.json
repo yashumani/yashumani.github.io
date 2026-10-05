@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-059",
+  "sequenceNumber": 682,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 59,
+  "verseEnd": 59,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "A proud resolve meets nature / अहंकार और स्वभाव का टकराव",
+  "context": "Krishna speaks to Arjuna's contemplated refusal to fight and says a resolve grounded in ego will be overridden by nature.",
+  "contextHindi": "युद्धभूमि में अर्जुन के न लड़ने के निर्णय को कृष्ण अहंकार और प्रकृति के संदर्भ में चुनौती देते हैं।",
+  "sanskritDevanagari": "यदहंकारमाश्रित्य न योत्स्य इति मन्यसे |\nमिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति ||१८-५९||",
+  "transliteration": "yadahaṃkāramāśritya na yotsya iti manyase .\nmithyaiṣa vyavasāyaste prakṛtistvāṃ niyokṣyati ||18-59||",
+  "wordByWord": [
+    {
+      "term": "ahaṅkāram āśritya",
+      "meaning": "taking refuge in egoism"
+    },
+    {
+      "term": "na yotsya iti",
+      "meaning": "I will not fight"
+    },
+    {
+      "term": "mithyā",
+      "meaning": "vain or false"
+    },
+    {
+      "term": "vyavasāyaḥ",
+      "meaning": "resolve"
+    },
+    {
+      "term": "prakṛtiḥ",
+      "meaning": "nature"
+    }
+  ],
+  "spokenHindi": "यहाँ कृष्ण अर्जुन के मन में उठे वाक्य, मैं नहीं लड़ूँगा, को सीधे लेते हैं। वे कहते हैं कि यदि यह निर्णय अहंकार पर टिका है तो व्यर्थ है; प्रकृति उसे काम में लगा देगी। प्रसंग वास्तविक युद्ध का है, इसलिए इस कथन को सभी लोगों के लिए लड़ने या हिंसा करने का सामान्य आदेश नहीं बनाना चाहिए। पहले भी अर्जुन ने हिंसा और अपने संबंधों को लेकर गंभीर प्रश्न उठाए थे। इस श्लोक का लक्ष्य उस विशेष निर्णय के पीछे की आत्म छवि की जाँच है। कभी हम किसी जिम्मेदारी से इसलिए पीछे हटते हैं कि उसके कठिन परिणामों का सामना नहीं करना चाहते, और कभी पीछे हटना सचमुच उचित नैतिक कदम होता है। दोनों को एक ही नाम देना गलत होगा। आज अपने किसी दृढ़ निर्णय को देखें। उसके पीछे तथ्य, दूसरों पर प्रभाव और अपनी आदतें क्या हैं? यदि जोखिम या अन्याय है तो सहायता लेकर उसे संबोधित करें। प्रकृति की भाषा हमारी जवाबदेही मिटाती नहीं; वह छिपी प्रवृत्ति पहचानने को उकसाती है।",
+  "clearEnglish": "Krishna quotes the resolve I will not fight and calls it vain when it rests on egoism, saying Arjuna's nature will impel him. This is specific to Arjuna's predicament on a battlefield. It must not become a universal order to enter violence or a way to dismiss a person's moral objection as pride. The chapter has already examined action, duty, and the forces of nature; this statement presses Arjuna to consider whether a declared refusal actually matches the tendencies and responsibilities in play. That psychological question can be applied cautiously elsewhere. A strong announcement about what you will never do may hide an unexamined fear, attachment, or self image. Equally, refusing a harmful command may be the responsible choice. The verse alone cannot adjudicate every modern case. Look at facts, likely consequences, and available support before acting. Krishna's claim about prakriti challenges self deception; it does not make harm inevitable or remove responsibility for choices made under pressure.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says Arjuna's ego based resolve not to fight is vain because his nature will impel him."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Examining the motives behind a rigid declaration can reveal self deception; this battlefield verse is not a general mandate for violence."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Write one strong refusal or commitment, then list its factual reasons, possible hidden motives, and effects on others."
+    }
+  ],
+  "reflectionQuestion": "Is my firm decision guided by careful judgment or by an image I need to protect?",
+  "reflectionQuestionHindi": "मेरा दृढ़ निर्णय सोच समझ से बना है या किसी छवि को बचाने से?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

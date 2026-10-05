@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-005",
+  "sequenceNumber": 377,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 5,
+  "verseEnd": 5,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "साझा स्रोत, अलग भाव / One source, diverse qualities",
+  "context": "Krishna completes the preceding list and identifies himself as the source of diverse conditions in beings.",
+  "contextHindi": "पिछली सूची को पूरा करके कृष्ण कहते हैं कि प्राणियों के भिन्न भिन्न भाव उन्हीं से आते हैं।",
+  "sanskritDevanagari": "अहिंसा समता तुष्टिस्तपो दानं यशोऽयशः |\nभवन्ति भावा भूतानां मत्त एव पृथग्विधाः ||१०-५||",
+  "transliteration": "ahiṃsā samatā tuṣṭistapo dānaṃ yaśo.ayaśaḥ .\nbhavanti bhāvā bhūtānāṃ matta eva pṛthagvidhāḥ ||10-5||",
+  "wordByWord": [
+    {
+      "term": "अहिंसा",
+      "meaning": "noninjury"
+    },
+    {
+      "term": "समता",
+      "meaning": "evenness or equanimity"
+    },
+    {
+      "term": "तुष्टिः",
+      "meaning": "contentment"
+    },
+    {
+      "term": "दानम्",
+      "meaning": "giving or beneficence"
+    }
+  ],
+  "spokenHindi": "कृष्ण अब सूची में अहिंसा, समता, संतोष, तप और दान जोड़ते हैं। यश और अपयश भी आते हैं। फिर वे कहते हैं कि प्राणियों के ये भिन्न भिन्न भाव उन्हीं से उत्पन्न होते हैं। यहाँ दान को केवल पैसे देना और तप को खुद को कष्ट पहुँचाना समझ लेना संकीर्ण होगा। दान में उपयोगी सहायता आ सकती है; तप में सोच समझकर अपनाया गया अनुशासन। ये आधुनिक उदाहरण हैं, शब्दों की पूरी परिभाषा नहीं। यश और अपयश का साथ आना खास है: हमारी सार्वजनिक छवि भी बदलती रहती है। किसी दिन प्रशंसा मिलती है, किसी दिन आलोचना। समता उस उतार चढ़ाव को देखने की क्षमता है, जरूरी प्रतिक्रिया से भागना नहीं। सभी भावों का दिव्य स्रोत बताने से हर व्यवहार उचित नहीं हो जाता। अहिंसा स्वयं इस सूची में है, इसलिए किसी नुकसान को ईश्वर की इच्छा कहकर हल्का करना उचित उपयोग नहीं होगा। आज छोटा दान करें तो सामने वाले की जरूरत पूछें, और संतोष रखें तो सुधार की जरूरी कोशिश भी जारी रखें।",
+  "clearEnglish": "Krishna brings the catalogue to its conclusion: the various dispositions of living beings arise from him. The additional terms include noninjury, equanimity, contentment, disciplined effort, giving, fame and lack of fame. The inclusion of reputation makes this teaching relevant to a familiar vulnerability. We often allow praise or criticism to determine the whole value of our day. Equanimity can mean receiving those signals without handing them unlimited authority. Contentment, meanwhile, need not mean accepting preventable deprivation or abandoning worthwhile change. Those are practical interpretations rather than detailed instructions in the verse. The claim of a common divine source must also be kept distinct from an endorsement of every action. Explaining the ground of existence is not the same as excusing harm; noninjury remains an explicitly named quality. A listener might pair generosity with attention: ask what assistance is useful before offering it. This respects both the giver's discipline and the recipient's agency, while avoiding an attempt to make giving a performance for praise.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna completes the list and says the diverse qualities of beings arise from him."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Equanimity toward reputation and attentive generosity are applications; divine source does not equal moral permission."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Useful giving",
+      "text": "Ask what help would be useful before offering a small gift of time, resources or attention. Notice any wish to be praised for it."
+    }
+  ],
+  "reflectionQuestion": "What happens to my steadiness when helpful work receives no recognition?",
+  "reflectionQuestionHindi": "जब अच्छे काम की प्रशंसा नहीं मिलती, तब मेरी स्थिरता पर क्या असर होता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

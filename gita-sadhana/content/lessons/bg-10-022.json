@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-022",
+  "sequenceNumber": 394,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 22,
+  "verseEnd": 22,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "ध्वनि, मन और चेतना / Chant, mind and living awareness",
+  "context": "Krishna moves from celestial examples to scripture, divine leadership, the senses and living awareness.",
+  "contextHindi": "आकाश के उदाहरणों के बाद कृष्ण सामवेद, वासव, मन और प्राणियों की चेतना को सामने रखते हैं।",
+  "sanskritDevanagari": "वेदानां सामवेदोऽस्मि देवानामस्मि वासवः |\nइन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना ||१०-२२||",
+  "transliteration": "vedānāṃ sāmavedo.asmi devānāmasmi vāsavaḥ .\nindriyāṇāṃ manaścāsmi bhūtānāmasmi cetanā ||10-22||",
+  "wordByWord": [
+    {
+      "term": "सामवेदः",
+      "meaning": "Sama Veda"
+    },
+    {
+      "term": "वासवः",
+      "meaning": "Indra"
+    },
+    {
+      "term": "मनः",
+      "meaning": "mind"
+    },
+    {
+      "term": "चेतना",
+      "meaning": "living awareness or intelligence"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि वेदों में वे सामवेद हैं, देवों में वासव यानी इंद्र, इंद्रियों में मन और प्राणियों में चेतना हैं। सूची अब बाहर के प्रकाश से भीतर के अनुभव तक आती है। सामवेद के नाम से पाठ और गान की धार्मिक परंपरा का संकेत मिलता है। मन को इंद्रियों के बीच रखने से ध्यान उस भूमिका पर जाता है जिसमें विभिन्न अनुभव जुड़े और समझे जाते हैं। चेतना को दिए गए संस्करण में बुद्धिमत्ता भी कहा गया है। इसे केवल परीक्षा के अंक या तेज जवाब देने की क्षमता तक सीमित करना उचित नहीं; यहाँ जीवित प्राणियों की जागरूकता का व्यापक संदर्भ है। श्लोक हमें किसी वैज्ञानिक सिद्धांत की पूरी व्याख्या नहीं देता, लेकिन अनुभव पर ठहरने का मौका देता है। कोई ध्वनि सुनते समय ध्यान दें कि कान को मिली आवाज और मन में उठी टिप्पणी अलग बातें हैं। आवाज सुनना, उसे पहचानना और फिर उसका मूल्यांकन करना एक ही क्षण में होता दिख सकता है। धीरे देखने पर हमारी सुनने की आदत अधिक साफ समझ आ सकती है।",
+  "clearEnglish": "The examples now cross from scripture to divine leadership and then to the organization of experience. Krishna is the Sama Veda among Vedas, Vasava or Indra among gods, the mind among senses, and chetana among beings. The last term is rendered as intelligence in the supplied edition and can be understood here as living awareness rather than a ranking by test scores. The mind's place among the senses also draws attention to how sensory inputs are gathered and interpreted. This is not a complete account of cognition or a scientific theory of consciousness. It is a set of contemplative identifications inside Krishna's response. One useful application is attentive listening: notice the difference between a sound, its recognition, and the judgment that follows. Usually these arrive so quickly that we confuse them. A brief pause can make their relationship more visible. That practical lens remains separate from the textual claim that these prominent capacities and forms disclose divine glory within their respective categories.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies himself with Sama Veda, Indra, mind among senses, and chetana among beings."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Observing sound and mental interpretation separately is a contemplative application, not a scientific doctrine supplied here."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Listen before judging",
+      "text": "Listen to an ordinary sound for thirty seconds. Name the sound first, then the judgment your mind adds, without needing to silence either."
+    }
+  ],
+  "reflectionQuestion": "How quickly does my mind turn a sound into an opinion?",
+  "reflectionQuestionHindi": "मेरा मन किसी आवाज को कितनी जल्दी एक राय में बदल देता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

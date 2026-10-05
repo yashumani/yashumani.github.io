@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-013",
+  "sequenceNumber": 385,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 13,
+  "verseEnd": 13,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "ऋषियों की गवाही / The testimony Arjuna invokes",
+  "context": "Arjuna supports his declaration by invoking sages and Krishna's own words.",
+  "contextHindi": "अर्जुन अपने स्वीकार के साथ ऋषियों की गवाही और कृष्ण के स्वयं कहे हुए वचनों को रखते हैं।",
+  "sanskritDevanagari": "आहुस्त्वामृषयः सर्वे देवर्षिर्नारदस्तथा |\nअसितो देवलो व्यासः स्वयं चैव ब्रवीषि मे ||१०-१३||",
+  "transliteration": "āhustvāmṛṣayaḥ sarve devarṣirnāradastathā .\nasito devalo vyāsaḥ svayaṃ caiva bravīṣi me ||10-13||",
+  "wordByWord": [
+    {
+      "term": "ऋषयः",
+      "meaning": "sages"
+    },
+    {
+      "term": "देवर्षिः",
+      "meaning": "divine sage"
+    },
+    {
+      "term": "आहुः",
+      "meaning": "they have said or declared"
+    },
+    {
+      "term": "स्वयम्",
+      "meaning": "yourself"
+    }
+  ],
+  "spokenHindi": "अर्जुन कहते हैं कि सभी ऋषि कृष्ण के बारे में ऐसा कहते हैं। वे नारद, असित, देवल और व्यास का नाम लेते हैं, और जोड़ते हैं कि कृष्ण स्वयं भी यही बता रहे हैं। यहाँ हम अर्जुन का आधार सुनते हैं: परंपरा में मिली गवाही और सामने चल रही बातचीत एक दूसरे से मेल खा रही हैं। श्लोक इन ऋषियों की पूरी जीवनकथा नहीं सुनाता; इसलिए नामों के साथ मनगढ़ंत घटनाएँ जोड़ना जरूरी नहीं। यह भी कृष्ण का आदेश नहीं कि किसी प्रसिद्ध व्यक्ति की हर बात बिना सवाल स्वीकार कर ली जाए। अर्जुन बताते हैं कि अपनी श्रद्धा के लिए उन्हें कौन से साक्ष्य महत्वपूर्ण लगते हैं। हमारी जिंदगी में अलग स्रोतों को मिलाकर जांचना उपयोगी हो सकता है, लेकिन यदि कई लोग एक ही अफवाह दोहरा रहे हों तो वह स्वतंत्र प्रमाण नहीं बन जाती। धार्मिक संवाद और सामान्य तथ्य की जांच के तरीके एक जैसे नहीं हैं। फिर भी यह श्लोक पूछने का अवसर देता है कि मेरा भरोसा किन आवाजों पर टिका है, और मैं उनके वास्तविक कथन को कितनी सावधानी से समझता हूँ।",
+  "clearEnglish": "Arjuna invokes a community of testimony. His declaration is supported by the sages, by named figures including Narada, Asita, Devala and Vyasa, and by Krishna's own account. The verse gives us access to the reasoning behind Arjuna's affirmation rather than supplying biographies of those witnesses. It also has a precise narrative role: Arjuna is confirming what he has heard before asking for a fuller account of the divine manifestations. This is not an instruction to treat fame as proof or to surrender evaluation of ordinary claims. A contemporary comparison can concern source awareness. When we say many authorities agree, do we know what each actually said, and are we counting independent evidence or repeated dependence on one source? That comparison has limits because the passage concerns sacred testimony within the dialogue. Still, it encourages attention to the basis of trust. Reverence becomes more informed when quotations, speaker roles and contexts are checked rather than imagined. Naming authorities should deepen responsibility for understanding them.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna cites the sages and Krishna himself as witnesses supporting his recognition."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Checking what sources actually say is a modern application; the verse does not establish fame as sufficient proof."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Trace a claim",
+      "text": "Choose one spiritual quotation you often repeat. Check its speaker and context in the available source before repeating it again."
+    }
+  ],
+  "reflectionQuestion": "What testimony supports my belief, and have I checked its actual wording?",
+  "reflectionQuestionHindi": "मेरे विश्वास को कौन सी गवाही सहारा देती है, और क्या मैंने उसका वास्तविक कथन जांचा है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

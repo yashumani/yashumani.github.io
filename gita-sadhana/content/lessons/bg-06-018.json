@@ -1,0 +1,87 @@
+{
+  "id": "bg-06-018",
+  "sequenceNumber": 251,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 18,
+  "verseEnd": 18,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "A disciplined mind rests in the Self when craving falls away.",
+  "context": "Krishna moves from outer discipline to inner condition. Once the body is steadied, the mind too must be trained to rest in the Self instead of chasing objects, recognition, and desire. This is the internal side of Yoga: not suppression of life, but freedom from compulsive wanting.",
+  "contextHindi": "कृष्ण यहाँ बाहरी अनुशासन से आंतरिक स्थिति की ओर जाते हैं। शरीर के संतुलन के बाद मन को भी आत्मा में टिकना होता है, न कि वस्तुओं, मान-सम्मान, सफलता और इच्छा के पीछे भागना। यही योग का आंतरिक पक्ष है—जीवन को दबाना नहीं, बल्कि compulsive wanting से मुक्त होना।",
+  "sanskritDevanagari": "यदा विनियतं चित्तमात्मन्येवावतिष्ठते |\nनिःस्पृहः सर्वकामेभ्यो युक्त इत्युच्यते तदा ||६-१८||",
+  "transliteration": "yadā viniyataṃ cittamātmanyevāvatiṣṭhate .\nniḥspṛhaḥ sarvakāmebhyo yukta ityucyate tadā ||6-18||",
+  "wordByWord": [
+    {
+      "term": "यदा",
+      "meaning": "when; at the moment that."
+    },
+    {
+      "term": "विनियतं चित्तम्",
+      "meaning": "the mind is restrained and well-directed; no longer running in every direction."
+    },
+    {
+      "term": "आत्मन्येव",
+      "meaning": "in the Self alone; within the inner awareness, not in external objects."
+    },
+    {
+      "term": "अवतिष्ठते",
+      "meaning": "rests, settles, remains established."
+    },
+    {
+      "term": "निःस्पृहः",
+      "meaning": "free from craving; not driven by wanting or grasping."
+    },
+    {
+      "term": "सर्वकामेभ्यः",
+      "meaning": "from all desires; not only from one desire, but from the whole field of wanting."
+    },
+    {
+      "term": "युक्तः",
+      "meaning": "disciplined, yoked, united in a stable way."
+    }
+  ],
+  "spokenHindi": "यह श्लोक योग की आंतरिक पहचान बताता है। जब मन अपने को बाहरी वस्तुओं और कामनाओं से अलग करके आत्मा में टिक जाता है, तब वह केवल एक अभ्यास का साधक नहीं रह जाता; वह अपने मूल स्वरूप को पहचानने लगता है। 'निःस्पृह' का अर्थ है बिना आग्रह के, बिना चिपकाव के। यह भाव सिर्फ ‘मैं कुछ नहीं चाहता’ जैसा निषेध नहीं है। यह है कि मन का केंद्र अब बाहरी आकर्षण पर नहीं, बल्कि भीतर की शुद्ध पहचान पर ठहरता है। लोग कहते हैं कि वे शांत हैं, लेकिन जब किसी वस्तु, सम्मान, सफलता या सुख के लिए तड़प होती है, तब मन अस्थिर रहता है। यही इसलिए कि योग को ‘युक्त’ कहा जाता है—अर्थात्, अपने भीतर संगठित, अपनी जगह पर स्थित।",
+  "clearEnglish": "This verse describes the state of the mind when it is no longer scattered by desire. The key phrase is niḥspṛhaḥ, free from longing. That does not mean becoming emotionally dead or indifferent to all life. It means the mind stops clinging to objects as if they were the source of identity, security, or completion. When the center of attention settles in the Self, awareness becomes more straightforward and less reactive. In practical terms, a person may still act in the world, but without being driven by compulsive wanting. The result is a kind of inner steadiness: not numbness, but freedom from the emotional turbulence created by desire. That is the condition Krishna calls yoked or united.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse explicitly states a condition: when the controlled mind rests in the Self alone, free from all craving, it is called united or yoked. The emphasis is on inward steadiness, not on rejecting life in a punitive sense."
+    },
+    {
+      "label": "COMMENTARY",
+      "explanation": "The DLS commentary says that without union with the Self, harmony, balance, and samādhi are not possible."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The verse implies that desire is not only an emotion but a condition of misdirected attention. A calmer mind is not a passive mind; it is a mind whose attention is less captured by objects and more grounded in reality."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Desire check",
+      "text": "Pause for one minute and ask: what am I wanting right now, and what would happen if I did not chase it immediately?"
+    },
+    {
+      "label": "Inner anchor",
+      "text": "Practice gently returning attention to breath or to the awareness behind thoughts for a few minutes, without judging the urge to grasp."
+    }
+  ],
+  "reflectionQuestion": "What in my life most often pulls my attention away from my deeper center and into craving or comparison?",
+  "reflectionQuestionHindi": "मेरे जीवन में कौन-सी चीज़ सबसे अधिक मेरी चेतना को मेरी गहरी केंद्रित अवस्था से दूर कर देती है और इच्छा या तुलना में धकेल देती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

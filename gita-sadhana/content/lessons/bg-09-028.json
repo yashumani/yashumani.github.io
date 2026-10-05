@@ -1,0 +1,71 @@
+{
+  "id": "bg-09-028",
+  "sequenceNumber": 366,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 28,
+  "verseEnd": 28,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "शुभ-अशुभ फल के बंधन से मुक्ति | Freedom from bonds of both fruits",
+  "context": "Krishna states the result of the offering orientation described in the preceding verse.",
+  "contextHindi": "पिछले श्लोक की अर्पण भावना का फल कृष्ण बताते हैं।",
+  "sanskritDevanagari": "शुभाशुभफलैरेवं मोक्ष्यसे कर्मबन्धनैः |\nसंन्यासयोगयुक्तात्मा विमुक्तो मामुपैष्यसि ||९-२८||",
+  "transliteration": "śubhāśubhaphalairevaṃ mokṣyase karmabandhanaiḥ .\nsaṃnyāsayogayuktātmā vimukto māmupaiṣyasi ||9-28||",
+  "wordByWord": [
+    {
+      "term": "शुभाशुभफलैः",
+      "meaning": "With good and evil fruits."
+    },
+    {
+      "term": "कर्मबन्धनैः",
+      "meaning": "The bonds of actions."
+    },
+    {
+      "term": "मोक्ष्यसे",
+      "meaning": "You will be freed."
+    },
+    {
+      "term": "संन्यासयोगयुक्तात्मा",
+      "meaning": "With self or mind joined to the yoga of renunciation."
+    },
+    {
+      "term": "माम् उपैष्यसि",
+      "meaning": "You will come to me."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि इस तरह अर्जुन शुभ और अशुभ फल देने वाले कर्मबंधनों से मुक्त होंगे। संन्यासयोग से जुड़े हुए और मुक्त होकर वे कृष्ण को प्राप्त होंगे। शुभ फल भी इस वाक्य में बंधन के प्रसंग में है। इसका अर्थ अच्छे काम और गलत काम नैतिक रूप से एक जैसे हैं, ऐसा नहीं। बात कर्म के फल से जुड़े आध्यात्मिक बंधन की है। पहले अर्पण का निर्देश था; यहाँ उसी तरह का परिणाम बताया गया है। संन्यास को केवल बाहर की नौकरी या संबंध छोड़ देना मान लेना आवश्यक नहीं। इस श्लोक में उस बाहरी प्रक्रिया का विवरण नहीं है। आधुनिक अभ्यास में अच्छा परिणाम मिलने पर अपनी पूरी पहचान उससे बाँधने की आदत देख सकते हैं। बुरा परिणाम हो तो उससे सीखें, ज़िम्मेदारी लें और सहायता चाहिए तो माँगें। फल से मुक्त होने का विचार वास्तविक परिणाम को अनदेखा करने की अनुमति नहीं। यह हमारी सावधान व्याख्या है। आज किसी काम के बाद देखें कि क्या मिला, क्या सुधर सकता है और आपने अपनी श्रद्धा किस तरह रखी। लक्ष्य कृष्ण की प्राप्ति है, केवल कम परेशान होने का अभ्यास नहीं।",
+  "clearEnglish": "The outcome is freedom from the bonds of actions yielding good and evil fruits, followed by coming to Krishna while joined to the yoga of renunciation and liberated. Including good fruits is significant: the bondage under discussion is not limited to punishment for wrongdoing. That does not erase the ethical difference between helpful and harmful actions. The verse follows the instruction to offer activities to Krishna, so “thus” connects its promise to that orientation. It does not detail a required external renunciation of employment or relationships. A contemporary analogy can examine how a favorable result becomes a possessive identity: “this success proves my worth.” Loosening that identification need not diminish careful work or accountability when a result harms someone. We can notice outcomes, learn, and make repairs while placing less of our whole identity in them. This is our practical interpretation, not a complete account of spiritual liberation. The text's final destination remains Krishna, keeping its theological scope larger than an exercise in emotional regulation.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Through this orientation Arjuna is freed from action's bonds bearing good and evil fruits and, liberated in the yoga of renunciation, comes to Krishna."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "One may loosen possessive identification with success while still assessing outcomes and repairing harm; renunciation is not detailed here as quitting ordinary responsibilities."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Review without possession",
+      "text": "After one task, name its result and one thing to learn, without using it as a verdict on your whole worth."
+    }
+  ],
+  "reflectionQuestion": "Can I learn from this result without making it my entire identity?",
+  "reflectionQuestionHindi": "क्या मैं इस फल से सीख सकता हूँ, बिना उसे अपनी पूरी पहचान बना लिए?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

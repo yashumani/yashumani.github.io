@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-051",
+  "sequenceNumber": 465,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 51,
+  "verseEnd": 51,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "फिर अपने स्वभाव में लौटना / Arjuna regains composure",
+  "context": "Arjuna says seeing Krishna's gentle human form has restored his composure and familiar state.",
+  "contextHindi": "अर्जुन कृष्ण का सौम्य मानव रूप देखकर कहते हैं कि वे फिर सचेत और अपनी प्रकृति में लौट आए हैं।",
+  "sanskritDevanagari": "अर्जुन उवाच |\nदृष्ट्वेदं मानुषं रूपं तव सौम्यं जनार्दन |\nइदानीमस्मि संवृत्तः सचेताः प्रकृतिं गतः ||११-५१||",
+  "transliteration": "arjuna uvāca .\ndṛṣṭvedaṃ mānuṣaṃ rūpaṃ tava saumyaṃ janārdana .\nidānīmasmi saṃvṛttaḥ sacetāḥ prakṛtiṃ gataḥ ||11-51||",
+  "wordByWord": [
+    {
+      "term": "मानुषम् रूपम्",
+      "meaning": "human form"
+    },
+    {
+      "term": "सौम्यम्",
+      "meaning": "gentle"
+    },
+    {
+      "term": "सचेताः",
+      "meaning": "composed or conscious again"
+    },
+    {
+      "term": "प्रकृतिम् गतः",
+      "meaning": "returned to one's own natural state"
+    }
+  ],
+  "spokenHindi": "अर्जुन कहते हैं कि आपका यह सौम्य मानव रूप देखकर अब मैं सचेत हुआ और अपनी प्रकृति में लौट आया हूँ। मानुषं रूपम् स्पष्ट मानव रूप की भाषा है। यह पहले चतुर्भुज रूप की मांग वाले श्लोक से अलग स्थान का कथन है; दोनों को मिला देना जरूरी नहीं। सचेताः में संभली हुई दशा का संकेत है और प्रकृतिं गतः सामान्य अपने स्वभाव में लौटने का। हमें इससे किसी आधुनिक बीमारी के इलाज का दावा नहीं बनाना चाहिए। कथा में दर्शन की तीव्रता और उसका सौम्य रूप में बदलना संदर्भ है। अर्जुन अपनी बदली हुई दशा स्वयं कहते हैं; केवल बाहरी मुद्रा देखकर किसी और ने निर्णय नहीं दिया। हमारा उपयोग राहत को ईमानदारी से पहचानना हो सकता है। किसी कठिन दिन के बाद थोड़ा संतुलन लौटे तो उसे मानें, पर हर सवाल हल हुआ है, ऐसा दबाव न बनाएं। कौन सा सहयोग मददगार हुआ, उसे स्पष्ट लिखना भविष्य की सहायता चुनने में उपयोगी हो सकता है। परिचित और सुरक्षित स्थिति में लौटने की कीमत साधारण जीवन में भी होती है।",
+  "clearEnglish": "Arjuna speaks again, identifying the form now before him as gentle and human. He says he is composed and has returned to his own nature. Manusham rupam is explicit, and belongs to this verse's position in the narrative; it should not overwrite the distinct wording of the earlier request for a four-armed form. The statement is Arjuna's own report of restored steadiness, following the change in what he sees. It is not a medical claim that a particular image treats a modern condition. A modest application is to notice when some composure returns after a difficult period. Recognizing relief need not require declaring every problem solved. Ask what helped: a pause, a familiar setting, useful conversation or reduced demand. That inquiry can guide ordinary support later. The application remains smaller than the divine event. The verse marks a narrative transition from the intensity of the cosmic form to the reassurance of a familiar human appearance and Arjuna's renewed ability to speak.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna says the gentle human form has made him composed and restored to his natural state."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Noticing what helps ordinary composure is an application, not a medical claim or demand that all questions be settled."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Notice what helped",
+      "text": "After a difficult moment eases, name one thing that supported you. Record it as an option for future use without assuming it works in every situation."
+    }
+  ],
+  "reflectionQuestion": "What helped me regain some steadiness, even if the whole issue remains open?",
+  "reflectionQuestionHindi": "पूरा प्रश्न बाकी होते हुए भी थोड़ी स्थिरता लौटने में किस बात ने मदद की?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

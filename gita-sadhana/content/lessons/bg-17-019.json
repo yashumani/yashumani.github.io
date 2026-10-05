@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-019",
+  "sequenceNumber": 614,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 19,
+  "verseEnd": 19,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "हानि करने वाला तप / Austerity that harms",
+  "context": "Krishna defines tamasic austerity by deluded insistence, self-torment, or the intention to harm another.",
+  "contextHindi": "कृष्ण भ्रमपूर्ण हठ, अपने को पीड़ा देने या दूसरे को नष्ट करने की इच्छा वाले तप को तामसिक बताते हैं।",
+  "sanskritDevanagari": "मूढग्राहेणात्मनो यत्पीडया क्रियते तपः |\nपरस्योत्सादनार्थं वा तत्तामसमुदाहृतम् ||१७-१९||",
+  "transliteration": "mūḍhagrāheṇātmano yatpīḍayā kriyate tapaḥ .\nparasyotsādanārthaṃ vā tattāmasamudāhṛtam ||17-19||",
+  "wordByWord": [
+    {
+      "term": "mūḍhagrāheṇa",
+      "meaning": "With deluded insistence or a foolish notion"
+    },
+    {
+      "term": "ātmano pīḍayā",
+      "meaning": "With torment of oneself"
+    },
+    {
+      "term": "parasyotsādanārtham",
+      "meaning": "For harming or destroying another"
+    },
+    {
+      "term": "tāmasam",
+      "meaning": "Tamasic; darkened in this account"
+    }
+  ],
+  "spokenHindi": "कृष्ण तामसिक तप की पहचान बताते हैं: गलत समझ पर हठ, अपने को पीड़ा देना, या दूसरे का विनाश चाहना। यह श्लोक कष्ट और हिंसा को धार्मिक नाम देकर सही ठहराने से रोकता है। किसी अभ्यास को तप कह देने से उसका परिणाम पवित्र नहीं हो जाता। यदि उद्देश्य अपने को दंड देना है, तो उसके पीछे की जरूरत और परेशानी देखनी चाहिए। यदि दूसरे को नुकसान पहुँचाना है, तो धर्म का नाम उस इरादे को साफ नहीं करता। आधुनिक अनुप्रयोग में हमें सुरक्षित सहायता, उचित सीमा और विवेकपूर्ण सलाह की जगह बनाए रखनी चाहिए। श्लोक कोई उपचार का तरीका नहीं देता, लेकिन नुकसान को उपलब्धि मानने का आधार भी नहीं देता। आज अपने किसी कठोर नियम पर नजर डालें। क्या वह सीखने में मदद करता है या केवल पीड़ा बढ़ाता है? जरूरत हो तो उसे रोककर योग्य मार्गदर्शन लें। किसी व्यक्ति के लिए बुरा चाहने की जगह वास्तविक समस्या और जिम्मेदार उपाय लिखें। साधना का मूल्य इस बात से भी दिखता है कि वह हानि की दिशा से हमें कितनी दूर रखती है।",
+  "clearEnglish": "Krishna describes tamasic austerity as performed with a deluded insistence, with self-torment, or for the destruction of another. The verse plainly criticizes these motives and effects. Calling an act spiritual does not remove the ethical problem of harm. The distinction is especially important where suffering itself is treated as proof of seriousness. The text is not a clinical protocol and should not be used to diagnose distress. A contemporary application instead protects room for appropriate support, reconsideration, and safe boundaries. If a personal rule mainly increases pain while no clear benefit can be explained, pause and seek competent guidance. If a practice is directed against another person, separate the actual problem from the wish to punish or destroy. A legitimate concern may require protection or accountability, but those purposes do not require cultivating hatred. Examine one demanding commitment by its understood purpose and consequences. Discipline becomes more trustworthy when it remains answerable to non-harming rather than to the prestige of severity.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna calls austerity based on deluded insistence, self-torment, or harming another tamasic."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Pausing a harmful rule and seeking competent support is a modern application, not a treatment stated in the verse."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Check a harsh rule",
+      "text": "Review one demanding rule for its purpose and harmful effects; seek appropriate guidance if needed."
+    }
+  ],
+  "reflectionQuestion": "Is this discipline serving understanding or merely increasing harm?",
+  "reflectionQuestionHindi": "क्या यह अनुशासन समझ बढ़ा रहा है या केवल नुकसान बढ़ा रहा है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

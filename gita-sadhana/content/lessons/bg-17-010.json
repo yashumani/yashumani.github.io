@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-010",
+  "sequenceNumber": 605,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 10,
+  "verseEnd": 10,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "भोजन का सम्मान / Condition of food",
+  "context": "Krishna describes stale, spoiled, impure, and remnant food as dear to tamasic people.",
+  "contextHindi": "कृष्ण बासी, बिगड़े, अशुद्ध और जूठे भोजन को तामसिक लोगों का प्रिय बताते हैं।",
+  "sanskritDevanagari": "यातयामं गतरसं पूति पर्युषितं च यत् |\nउच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम् ||१७-१०||",
+  "transliteration": "yātayāmaṃ gatarasaṃ pūti paryuṣitaṃ ca yat .\nucchiṣṭamapi cāmedhyaṃ bhojanaṃ tāmasapriyam ||17-10||",
+  "wordByWord": [
+    {
+      "term": "gatarasam",
+      "meaning": "Without its taste or savour"
+    },
+    {
+      "term": "pūti",
+      "meaning": "Putrid"
+    },
+    {
+      "term": "paryuṣitam",
+      "meaning": "Stale or long kept"
+    },
+    {
+      "term": "ucchiṣṭam",
+      "meaning": "Remnants, especially food left after eating"
+    }
+  ],
+  "spokenHindi": "कृष्ण ऐसे भोजन का वर्णन करते हैं जिसका रस चला गया है, जो सड़ा, पुराना, जूठा या अशुद्ध है। उसे तामसिक लोगों का प्रिय बताते हैं। यह भोजन की दशा का धार्मिक वर्गीकरण है। इसे किसी व्यक्ति की गरीबी या सीमित विकल्पों पर तिरस्कार का कारण नहीं बनाना चाहिए। जूठे भोजन का प्रसंग भी किसी जाति या समुदाय की स्थायी अशुद्धता घोषित नहीं करता। आधुनिक रसोई में बचे हुए भोजन का सुरक्षित रखरखाव अलग विषय है; इस श्लोक से हर बचा खाना फेंक देने का नियम निकालना उचित नहीं होगा। उचित भोजन सुरक्षा की जानकारी भरोसेमंद आधुनिक स्रोत से लें। हमारे लिए एक सीमित अभ्यास भोजन के साथ लापरवाही कम करना है। खरीद, रखने और बाँटने में जरूरत और हालत देखें। जो व्यक्ति भोजन की कठिनाई झेल रहा हो, उसकी सहायता करना अधिक जिम्मेदार है। आज अपने पास रखे भोजन को व्यवस्थित देखें और उपयोग की योजना बनाएँ। ध्यान, साफ व्यवस्था और जरूरतमंद के सम्मान से भोजन के प्रति जिम्मेदारी दिखाई दे सकती है।",
+  "clearEnglish": "Krishna lists food that has lost its savour, is putrid, stale, remnant, or impure as dear to tamasic people. The verse concerns the condition of food within a religious classification. It does not establish inherited impurity for a community or authorize contempt toward someone facing scarcity. The meaning of remnants also should not be stretched into a modern rule that every safely stored leftover must be discarded. Contemporary food-storage standards require their own reliable guidance; the verse supplies neither refrigeration instructions nor a clinical safety threshold. A practical extension can focus on reducing neglect in how food is obtained, kept, and shared. Pay attention to condition and actual need rather than treating eating as an afterthought. If another person's options are constrained, assistance and respect are more useful than judgement. Check one part of your food arrangement and plan sensible use within your circumstances. That practice reflects care without claiming that storage decisions alone determine anyone's spiritual character.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes stale, spoiled, remnant, and impure food as tamasic preference."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Careful food management is a modern application; the verse does not prescribe modern storage rules or inherited impurity."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Care in food management",
+      "text": "Review one stored-food arrangement and plan sensible use using appropriate current safety guidance."
+    }
+  ],
+  "reflectionQuestion": "Where would a little attention reduce neglect or waste?",
+  "reflectionQuestionHindi": "थोड़ा ध्यान देने से भोजन की लापरवाही या बर्बादी कहाँ कम हो सकती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

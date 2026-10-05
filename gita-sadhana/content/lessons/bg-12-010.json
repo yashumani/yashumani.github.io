@@ -1,0 +1,67 @@
+{
+  "id": "bg-12-010",
+  "sequenceNumber": 479,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 10,
+  "verseEnd": 10,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "अभ्यास से कर्म की ओर / Another entry through action",
+  "context": "Krishna offers action for his sake if even repeated practice is beyond Arjuna's capacity.",
+  "contextHindi": "कृष्ण अभ्यास कठिन होने पर अपने लिए कर्म करने का प्रवेश देते हैं और सिद्धि का आश्वासन रखते हैं।",
+  "sanskritDevanagari": "अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव |\nमदर्थमपि कर्माणि कुर्वन्सिद्धिमवाप्स्यसि ||१२-१०||",
+  "transliteration": "abhyāse.apyasamartho.asi matkarmaparamo bhava .\nmadarthamapi karmāṇi kurvansiddhimavāpsyasi ||12-10||",
+  "wordByWord": [
+    {
+      "term": "अभ्यासे अपि असमर्थः",
+      "meaning": "unable even in repeated practice"
+    },
+    {
+      "term": "मत्कर्मपरमः",
+      "meaning": "intent on action for me"
+    },
+    {
+      "term": "मदर्थम्",
+      "meaning": "for my sake"
+    },
+    {
+      "term": "सिद्धिम्",
+      "meaning": "perfection or fulfilment"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि यदि इस अभ्यास में भी समर्थ नहीं हो, तो मेरे लिए कर्म करने को अपना मुख्य काम बनाओ। मेरे लिए कर्म करते हुए भी सिद्धि पाओगे। अभी ध्यान की कठिनाई के कारण सब छोड़ देने को नहीं कहा जा रहा; क्रिया एक दूसरा प्रवेश बनती है। मत्कर्मपरमो में काम की दिशा कृष्ण हैं। सिद्धि धार्मिक पूर्णता या प्राप्ति का शब्द है, मनचाही नौकरी या प्रतियोगिता जीतने की निश्चित गारंटी नहीं। हमारी जिंदगी में मन बहुत बिखरा हो तो किसी छोटे उपयोगी काम में ईमानदारी से उपस्थित होना संभव हो सकता है। पानी देना, तय काम पूरा करना या किसी की बात धैर्य से सुनना हमारे उदाहरण हैं। लेकिन केवल धार्मिक नाम लगाने से कोई नुकसानदायक काम सेवा नहीं बन जाता। मदद वास्तव में उपयोगी हो और सामने वाले की जरूरत पूछी जाए। यह हमारी नैतिक जांच है। ध्यान और काम को एक दूसरे का विरोधी मानने की जरूरत नहीं; कृष्ण क्षमता के अनुसार अलग द्वार रखते हैं। आज ऐसा काम चुनें जो छोटा, स्पष्ट और जिम्मेदार हो।",
+  "clearEnglish": "Krishna gives another approach if even abhyasa is not possible: be intent on actions for his sake. Such action is said to lead to fulfilment or perfection. The sequence keeps participation open when one method is hard. Matkarmaparama directs the purpose of action, while siddhi is a spiritual culmination in this context, not a guaranteed worldly promotion or victory. A modern application can use a small useful task when prolonged concentration feels unavailable. Complete an agreed responsibility, offer practical help or listen attentively. These examples are ours; the verse does not supply their exact list. Their usefulness still has to be checked. Calling an act service does not make it beneficial if it ignores the recipient's needs or causes harm. Ask what is wanted and work within capacity. This is ethical application rather than a full account of devotional attainment. The literal teaching allows action for Krishna to be an entry point, showing that difficulty with a particular contemplative method does not end the possibility of engagement.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna offers action for his sake when practice is not possible and connects it with siddhi."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Small useful tasks are examples of application; spiritual fulfilment is not a promise of a chosen worldly reward."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Choose useful action",
+      "text": "Do one small task someone actually needs, with their agreement where relevant. Keep the purpose clear rather than seeking spiritual credit."
+    }
+  ],
+  "reflectionQuestion": "Which useful act is available when sustained concentration is difficult?",
+  "reflectionQuestionHindi": "निरंतर एकाग्रता कठिन हो तो कौन सा उपयोगी काम अभी संभव है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

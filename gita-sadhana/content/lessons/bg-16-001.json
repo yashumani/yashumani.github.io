@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-001",
+  "sequenceNumber": 572,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 1,
+  "verseEnd": 1,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "निर्भयता और सीधा जीवन / Courage and integrity",
+  "context": "Krishna begins the sixteenth discourse by listing qualities belonging to the divine disposition.",
+  "contextHindi": "कृष्ण सोलहवें अध्याय की शुरुआत दैवी स्वभाव के गुणों की सूची से करते हैं।",
+  "sanskritDevanagari": "श्रीभगवानुवाच |\nअभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः |\nदानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम् ||१६-१||",
+  "transliteration": "śrībhagavānuvāca .\nabhayaṃ sattvasaṃśuddhirjñānayogavyavasthitiḥ .\ndānaṃ damaśca yajñaśca svādhyāyastapa ārjavam ||16-1||",
+  "wordByWord": [
+    {
+      "term": "abhayam",
+      "meaning": "Fearlessness; निर्भयता"
+    },
+    {
+      "term": "sattvasaṃśuddhiḥ",
+      "meaning": "Purity of the inner disposition"
+    },
+    {
+      "term": "svādhyāyaḥ",
+      "meaning": "Study or recitation of sacred teaching"
+    },
+    {
+      "term": "ārjavam",
+      "meaning": "Straightforwardness; sincerity without deceit"
+    }
+  ],
+  "spokenHindi": "कृष्ण यहाँ दैवी सम्पदा का परिचय देते हैं। सम्पदा का अर्थ केवल पैसा या सुविधा नहीं, जीवन को दिशा देने वाले गुण भी हैं। सूची की शुरुआत निर्भयता और मन की सफाई से होती है। निर्भय होने का मतलब खतरा देखकर भी लापरवाही करना नहीं है। ईमानदार काम करते समय डर को अपना स्वामी न बनने देना इसका एक व्यावहारिक अर्थ हो सकता है। ज्ञान और योग में टिकना बताता है कि समझ को अभ्यास का साथ चाहिए। दान दूसरों की जरूरत देखता है, दम अपनी इन्द्रियों को दिशा देता है, और स्वाध्याय हमें बार बार सीखने की ओर लौटाता है। तप अनुशासन है; उसे शरीर को नुकसान पहुँचाने का बहाना न बनाएँ। आर्जव में हमारी बात और हमारा व्यवहार एक दूसरे से मेल खाते हैं। ये गुण केवल धार्मिक समारोह के समय दिखाने की चीजें नहीं हैं। आज किसी छोटी जिम्मेदारी में साफ बात कहना, अपनी क्षमता के अनुसार देना, और सीखने के लिए थोड़ा समय रखना इस सूची को जीवित कर सकता है।",
+  "clearEnglish": "Krishna opens this chapter with a catalogue of divine qualities rather than a description of supernatural powers. Fearlessness stands beside purification of the inner life and steadiness in knowledge and yoga. This combination matters: confidence without discernment can become recklessness, while study without practice can remain decorative. Giving, restraint of the senses, sacrifice, sacred study, austerity, and straightforwardness make the catalogue concrete. The verse names these qualities; it does not specify a modern timetable or claim that fear itself proves spiritual failure. A useful contemporary inference is that integrity develops through several cooperating habits. Someone can learn carefully, spend within limits, contribute to another person's welfare, and communicate without concealment. These are different expressions of the same orientation toward responsible living. Austerity should be understood as disciplined practice here, not as permission to neglect bodily needs. Choose one quality you can exercise within your actual circumstances. Small, repeatable honesty may teach more than an impressive promise that cannot be kept.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna lists fearlessness, inner purity, steadiness in knowledge and yoga, giving, restraint, sacrifice, study, austerity, and straightforwardness."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Practising one quality in an ordinary responsibility is a modern application, not a timetable stated in the verse."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Straightforward promise",
+      "text": "Make one realistic commitment today and communicate its limits honestly."
+    }
+  ],
+  "reflectionQuestion": "Where could greater straightforwardness make one commitment clearer?",
+  "reflectionQuestionHindi": "किस जिम्मेदारी में साफ और सीधी बात कहना उपयोगी होगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

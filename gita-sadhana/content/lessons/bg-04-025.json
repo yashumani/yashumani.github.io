@@ -1,0 +1,67 @@
+{
+  "id": "bg-04-025",
+  "sequenceNumber": 187,
+  "date": "2026-10-05",
+  "chapter": 4,
+  "verseStart": 25,
+  "verseEnd": 25,
+  "chapterNameSanskrit": "ज्ञानकर्मसंन्यासयोग",
+  "chapterNameEnglish": "Jñāna Karma Sannyāsa Yoga",
+  "theme": "यज्ञ के दो रूप: देवताओं की उपासना और ब्रह्माग्नि में आत्मा का अर्पण | Two forms of sacrifice: worship of the devas and offering the Self into the fire of Brahman.",
+  "context": "Following the vision of Brahman in the components of sacrifice, Krishna describes two further forms: sacrifice to the gods, and the Self offered by the Self in Brahman's fire.",
+  "contextHindi": "कृष्ण पहले ही समझा चुके हैं कि कर्म तब शुद्ध होते हैं जब कर्तापन का अहं हटता है और फल का बंधन छूटता है। यहाँ वे यज्ञ के अलग-अलग रूप बताते हैं: कुछ योगी देवताओं की उपासना करते हैं, और कुछ आत्मा को आत्मा के द्वारा ब्रह्म की अग्नि में अर्पित करते हैं।",
+  "sanskritDevanagari": "दैवमेवापरे यज्ञं योगिनः पर्युपासते |\nब्रह्माग्नावपरे यज्ञं यज्ञेनैवोपजुह्वति ||४-२५||",
+  "transliteration": "daivamevāpare yajñaṃ yoginaḥ paryupāsate .\nbrahmāgnāvapare yajñaṃ yajñenaivopajuhvati ||4-25||",
+  "wordByWord": [
+    {
+      "term": "दैवम्",
+      "meaning": "Relating to the gods; here sacrifice directed to the devas."
+    },
+    {
+      "term": "यज्ञम्",
+      "meaning": "Sacrifice or offering."
+    },
+    {
+      "term": "योगिनः",
+      "meaning": "the spiritually disciplined ones; those who live in practice, steadiness, and discrimination."
+    },
+    {
+      "term": "ब्रह्माग्नि",
+      "meaning": "the fire of Brahman; in this verse, the fire into which the Self is offered by the Self."
+    }
+  ],
+  "spokenHindi": "यहाँ कृष्ण यज्ञ के दो रूप बताते हैं। कुछ योगी देवताओं की उपासना यज्ञ के रूप में करते हैं। दूसरे योगी आत्मा को आत्मा के द्वारा ब्रह्म की अग्नि में अर्पित करते हैं। ‘देवता’ से आशय यहाँ देवों से है, और ‘ब्रह्म’ परम सत्य का नाम है। श्लोक इन दोनों प्रकार के यज्ञों का उल्लेख करता है। पहले रूप में देवताओं की उपासना है। दूसरे रूप में आत्मा ही अर्पण है और आत्मा ही अर्पण करने का साधन है। ‘यज्ञ’ का अर्थ अर्पण या उपासना है। इन पंक्तियों में मन, वचन, भाव या हर कर्म को अर्पित करने की बात सीधे नहीं कही गई है। इसलिए श्लोक को उसी सीमा में समझें: यह देवताओं की उपासना और ब्रह्म की अग्नि में आत्मा के अर्पण, दोनों का वर्णन करता है। अध्ययन में पहले देखें कि क्या अर्पित किया जाता है, किसके द्वारा और किस अग्नि में। इन तीन प्रश्नों से दोनों वर्णनों का अंतर साफ़ रह सकता है।",
+  "clearEnglish": "This verse describes two forms of sacrifice. Some yogis worship through offerings to the devas. Others offer the Self by the Self in the fire of Brahman. The second description is specific: it speaks of the Self as the offering and the Self as the means of offering, in the fire of Brahman. The verse does not say that everything is offered, or that all forms of practice have the same aim. It names different forms of sacrifice without explaining them as identical. In daily life, the verse can invite reflection on the spirit of an offering, but that reflection should not be confused with the verse’s literal account. Its focus here is on worship of the devas and on offering the Self by the Self into the fire of Brahman. Tracking the offering, the means of offering, and the fire keeps the second image precise. This reading habit is useful before attempting a broader application to one's life.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse states that some yogis worship the devas through sacrifice, while others offer the Self as sacrifice by the Self into the fire of Brahman. These are the two offerings named here."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A practical reading exercise is to distinguish the object, means, and recipient of an offering before applying its image to daily life."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Offer before reacting",
+      "text": "Before replying to a provocation, pause and ask: what am I offering this moment to—my ego, my pride, or a wiser awareness? That brief pause can turn a reaction into a more conscious act."
+    }
+  ],
+  "reflectionQuestion": "When I feel pulled by anger, craving, or urgency, what am I actually offering into my inner fire: wisdom or identification?",
+  "reflectionQuestionHindi": "जब मुझे क्रोध, लालच या जल्दी का आघात उठता है, तो मैं अपने भीतर की अग्नि में क्या अर्पित कर रहा हूँ—ज्ञान या पहचान?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

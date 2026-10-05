@@ -1,0 +1,75 @@
+{
+  "id": "bg-18-047",
+  "sequenceNumber": 670,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 47,
+  "verseEnd": 47,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Own responsibility over borrowed prestige / उधार की प्रतिष्ठा से अपना दायित्व",
+  "context": "Krishna prefers imperfect performance of one's own duty to well-performed another's duty and relates one's work to nature.",
+  "contextHindi": "कृष्ण अपने अपूर्ण धर्म को दूसरे के अच्छी तरह निभाए धर्म से श्रेष्ठ कहते हैं और स्वभावनियत कर्म का फल बताते हैं।",
+  "sanskritDevanagari": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् |\nस्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम् ||१८-४७||",
+  "transliteration": "śreyānsvadharmo viguṇaḥ paradharmātsvanuṣṭhitāt .\nsvabhāvaniyataṃ karma kurvannāpnoti kilbiṣam ||18-47||",
+  "wordByWord": [
+    {
+      "term": "svadharmaḥ",
+      "meaning": "one's own duty or dharma"
+    },
+    {
+      "term": "viguṇaḥ",
+      "meaning": "lacking merits or imperfect"
+    },
+    {
+      "term": "paradharmāt",
+      "meaning": "than another's duty"
+    },
+    {
+      "term": "svabhāvaniyatam",
+      "meaning": "determined by one's nature"
+    },
+    {
+      "term": "kilbiṣam",
+      "meaning": "sin or fault"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि अपना धर्म गुणों की कमी वाला भी दूसरे के अच्छी तरह निभाए धर्म से श्रेष्ठ है। स्वभाव से नियत कर्म करते हुए पाप नहीं मिलता। इसका प्रसंग अभी सामाजिक भूमिकाओं और अपने काम की साधना का है; स्वधर्म को केवल मेरी कोई भी इच्छा कह देना अर्थ बदल देगा। साथ ही जन्मगत पहचान देखकर किसी का जीवन भर का रास्ता हम स्वयं तय कर सकते हैं, यह भी इस वाक्य की अनिवार्य शब्दशः बात नहीं। परिवार या संस्था की अलग प्रथा को पाठ के साथ मिला देना सावधानी माँगता है। आज का नैतिक अनुप्रयोग जिम्मेदारी के वास्तविक आकार को देखना हो सकता है। दूसरे का चमकता काम देखकर अपना जरूरी काम छोड़ने से पहले पूछें कि मेरी क्षमता, प्रतिबद्धता और दूसरों की जरूरत क्या है। यह आधुनिक दिशा है। जरूरत पड़े तो भूमिका बदलने की जिम्मेदार तैयारी हो सकती है; हानिकारक आदेश को स्वीकार करना अनिवार्य नहीं। अपूर्णता सुधार माँगती है, अंधा पालन नहीं। अपने हिस्से की ईमानदारी तुलना से अधिक उपयोगी कसौटी बन सकती है।",
+  "clearEnglish": "Krishna prefers one's own imperfect duty to another's well-performed duty and says that work determined by one's nature does not bring sin. The immediate context is the preceding account of roles and work as spiritual practice. Svadharma should not be casually rewritten as whatever one presently wants. Yet the sentence also should not become a warrant for outsiders to fix another person's entire future from inherited identity. Family or institutional rules require their own account and should not be silently merged with the verse. A contemporary ethical application is to examine actual capacity, commitments, and the needs served before abandoning an ordinary responsibility for a more prestigious role. This is an inference, not a complete modern career policy. Responsible learning and reassessment remain possible, and a harmful command need not be accepted merely because it is labeled duty. Imperfection calls for care and correction. The comparison can challenge borrowed prestige while keeping the quality and consequences of one's own conduct open to examination.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "One's own imperfect duty is better than another's well-performed duty; nature-determined work is said not to bring sin."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Examining capacity and commitments before chasing prestige is a bounded application; svadharma is neither every desire nor unquestioning compliance with harm."
+    },
+    {
+      "label": "CUSTOM",
+      "explanation": "A family's or institution's rule assigning work must be identified as custom or policy, not silently treated as the entire meaning of svadharma."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Before comparing roles, name one actual commitment, one capacity, and the need your present work serves."
+    }
+  ],
+  "reflectionQuestion": "Am I drawn to another role by a real fit or mainly by its prestige?",
+  "reflectionQuestionHindi": "दूसरी भूमिका मुझे वास्तविक अनुकूलता से आकर्षित करती है या मुख्यतः उसकी प्रतिष्ठा से?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

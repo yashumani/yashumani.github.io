@@ -1,0 +1,71 @@
+{
+  "id": "bg-15-014",
+  "sequenceNumber": 565,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 14,
+  "verseEnd": 14,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "Divine presence in digestion / पाचन में दिव्य उपस्थिति",
+  "context": "Krishna describes himself as the Vaisvanara fire within living bodies, digesting fourfold food with prana and apana.",
+  "contextHindi": "बाहरी पोषण के बाद कृष्ण जीवों के शरीर में वैश्वानर अग्नि के रूप में अन्न पचाने की बात कहते हैं।",
+  "sanskritDevanagari": "अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः |\nप्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम् ||१५-१४||",
+  "transliteration": "ahaṃ vaiśvānaro bhūtvā prāṇināṃ dehamāśritaḥ .\nprāṇāpānasamāyuktaḥ pacāmyannaṃ caturvidham ||15-14||",
+  "wordByWord": [
+    {
+      "term": "vaiśvānaraḥ",
+      "meaning": "Vaisvanara, the fire associated here with digestion"
+    },
+    {
+      "term": "deham āśritaḥ",
+      "meaning": "dwelling in the body"
+    },
+    {
+      "term": "prāṇāpāna",
+      "meaning": "prana and apana, vital breath functions"
+    },
+    {
+      "term": "caturvidham annam",
+      "meaning": "fourfold food"
+    },
+    {
+      "term": "pacāmi",
+      "meaning": "I digest; मैं पचाता हूँ"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि वे जीवों के शरीर में वैश्वानर अग्नि होकर, प्राण और अपान से जुड़े हुए, चार प्रकार के अन्न को पचाते हैं। यह बाहर से मिलने वाले पोषण को शरीर के भीतर होने वाले रूपांतरण से जोड़ता है। श्लोक चार प्रकार कहता है, पर इस अंश में उनकी अलग सूची नहीं देता। इसलिए किसी परंपरागत वर्गीकरण को सीधे कृष्ण की यहाँ कही सूची न बना दें। प्राण और अपान की भाषा भी इस धार्मिक वर्णन का हिस्सा है; इससे अपने आप कोई उपचार या खास साँस की विधि सिद्ध नहीं होती। आज भोजन करते समय केवल स्वाद या उपलब्धि के बजाय शरीर की वास्तविक जरूरत याद करना उपयोगी हो सकता है। भूख और क्षमता के अनुसार साधारण सजगता रखें, कठोर नियम बनाकर आत्मदंड नहीं। यह आधुनिक अभ्यास है। पाचन में लगातार तकलीफ हो तो उचित चिकित्सा सहायता लें। दिव्य उपस्थिति का विचार शरीर की देखभाल को सम्मान दे सकता है; वह मदद टालने या हर कठिनाई को श्रद्धा की कमी बताने का कारण नहीं।",
+  "clearEnglish": "Krishna identifies himself with the Vaisvanara fire dwelling in living bodies and, associated with prana and apana, digesting fourfold food. The movement of the passage is from light and external nourishment to an intimate bodily process. Divine support is thus described within embodied life, not only in distant cosmic objects. The verse names fourfold food without enumerating its categories in the supplied excerpt. It also offers no prescribed breathing procedure, dietary treatment, or clinical explanation of digestion. Those additions should not be presented as its literal teaching. A responsible application is to regard the body with care during eating and to avoid treating nourishment merely as another performance target. Attentiveness can remain simple and flexible, adapted to actual needs and available food. Persistent digestive symptoms deserve appropriate medical assistance. The religious image may deepen gratitude for bodily functioning while remaining distinct from healthcare decisions. It does not imply that illness demonstrates deficient devotion or that seeking treatment contradicts spiritual trust.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna is Vaisvanara within living bodies, associated with prana and apana, digesting fourfold food; the excerpt does not enumerate the categories."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Respectful attention to nourishment applies the image without prescribing treatment, breath techniques, or rigid food rules."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "During a meal, pause briefly to acknowledge bodily needs and choose one realistic act of care."
+    }
+  ],
+  "reflectionQuestion": "Am I treating nourishment as care for my body or as a test of my worth?",
+  "reflectionQuestionHindi": "मैं भोजन को शरीर की देखभाल मान रहा हूँ या अपनी कीमत की परीक्षा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-026",
+  "sequenceNumber": 398,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 26,
+  "verseEnd": 26,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "वृक्ष, ऋषि और सिद्ध / Tree, sages and perfected beings",
+  "context": "Krishna names the peepul, Narada, Chitraratha and Kapila within their respective categories.",
+  "contextHindi": "विभूति की सूची में पीपल, नारद, चित्ररथ और कपिल अपनी अपनी श्रेणियों में आते हैं।",
+  "sanskritDevanagari": "अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः |\nगन्धर्वाणां चित्ररथः सिद्धानां कपिलो मुनिः ||१०-२६||",
+  "transliteration": "aśvatthaḥ sarvavṛkṣāṇāṃ devarṣīṇāṃ ca nāradaḥ .\ngandharvāṇāṃ citrarathaḥ siddhānāṃ kapilo muniḥ ||10-26||",
+  "wordByWord": [
+    {
+      "term": "अश्वत्थः",
+      "meaning": "peepul tree"
+    },
+    {
+      "term": "देवर्षीणाम्",
+      "meaning": "among divine sages"
+    },
+    {
+      "term": "गन्धर्वाणाम्",
+      "meaning": "among Gandharvas"
+    },
+    {
+      "term": "सिद्धानाम्",
+      "meaning": "among perfected beings"
+    }
+  ],
+  "spokenHindi": "कृष्ण वृक्षों में अश्वत्थ यानी पीपल, देवर्षियों में नारद, गंधर्वों में चित्ररथ और सिद्धों में कपिल मुनि कहते हैं। अब सूची में एक जीवित वृक्ष और अलग धार्मिक क्षेत्रों के व्यक्तित्व साथ हैं। पीपल का उल्लेख उसे चिंतन का विशेष संकेत बनाता है, पर इससे बाकी वृक्षों का मूल्य खत्म नहीं होता। अध्याय में पहले सभी प्राणियों के भीतर आत्मा की बात आ चुकी है। नारद को अर्जुन पहले ऋषियों की गवाही में भी नाम ले चुके थे; यहाँ वही नाम नई भूमिका में, विभूति के उदाहरण में आता है। कपिल को सिद्धों के बीच मुनि कहा गया है। उनके साथ किसी बाद के दर्शन की पूरी प्रणाली इस छोटे श्लोक में नहीं कही गई है। आज का अभ्यास प्रकृति को सिर्फ पृष्ठभूमि मानने की आदत देखना हो सकता है। पास के किसी वृक्ष के तने, पत्ते और छाया को ध्यान से देखें। उसकी देखभाल की जरूरत हो तो उचित मदद करें। धार्मिक सम्मान और पर्यावरण की व्यावहारिक देखभाल का यह संबंध हमारा चुना हुआ उपयोग है।",
+  "clearEnglish": "The peepul tree, Narada, Chitraratha and Kapila are placed in four distinct categories. The verse brings a living natural form alongside figures of sacred culture: divine sages, Gandharvas and perfected beings. That variety is itself instructive for reading the catalogue. Not all examples occupy the same kind of world or carry the same associations. Narada has already appeared in Arjuna's testimony; Krishna now names him as a manifestation among divine sages. Kapila is identified as a muni among the perfected, but the verse does not unfold a full philosophical system under his name. The special mention of the peepul also need not mean that other trees lack value, especially after the earlier universal statement about the Self in all beings. A concrete application is to attend to a tree as more than scenery. Observe its structure and shade, and notice any ordinary care it needs. That ecological extension is our inference. The text itself gives the named identification and preserves its place in a larger set of glories.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names peepul, Narada, Chitraratha and Kapila in four categories."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Careful attention to a nearby tree is a modern application; naming one tree does not devalue all others."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Attend to a tree",
+      "text": "Observe a nearby tree's trunk, leaves and shade for one minute. If care is needed, choose a locally appropriate action that will not damage it."
+    }
+  ],
+  "reflectionQuestion": "What do I miss when I treat living surroundings merely as scenery?",
+  "reflectionQuestionHindi": "जीवित परिवेश को सिर्फ पृष्ठभूमि मानने से मैं क्या नहीं देख पाता?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

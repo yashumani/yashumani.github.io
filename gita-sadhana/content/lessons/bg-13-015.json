@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-015",
+  "sequenceNumber": 504,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 15,
+  "verseEnd": 15,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Supporting without being confined / सीमित हुए बिना सहारा",
+  "context": "Krishna continues the knowable's description through paired statements about senses, attachment, support, and qualities.",
+  "contextHindi": "कृष्ण ज्ञेय को इंद्रियों के कार्यों में प्रकट पर इंद्रियों से रहित, अनासक्त पर सबका धारक और निर्गुण पर गुणों का भोक्ता कहते हैं।",
+  "sanskritDevanagari": "सर्वेन्द्रियगुणाभासं सर्वेन्द्रियविवर्जितम् |\nअसक्तं सर्वभृच्चैव निर्गुणं गुणभोक्तृ च ||१३-१५||",
+  "transliteration": "sarvendriyaguṇābhāsaṃ sarvendriyavivarjitam .\nasaktaṃ sarvabhṛccaiva nirguṇaṃ guṇabhoktṛ ca ||13-15||",
+  "wordByWord": [
+    {
+      "term": "sarvendriyaguṇābhāsam",
+      "meaning": "appearing through all sensory functions"
+    },
+    {
+      "term": "sarvendriyavivarjitam",
+      "meaning": "without all senses"
+    },
+    {
+      "term": "sarvabhṛt",
+      "meaning": "supporting all"
+    },
+    {
+      "term": "nirguṇam",
+      "meaning": "without qualities"
+    },
+    {
+      "term": "guṇabhoktṛ",
+      "meaning": "experiencer of the qualities"
+    }
+  ],
+  "spokenHindi": "कृष्ण ज्ञेय के बारे में साथ साथ कई बातें रखते हैं। वह सभी इंद्रियों के गुणों में प्रकाशित है, फिर भी इंद्रियों से रहित है; अनासक्त है, फिर भी सबको धारण करता है; निर्गुण है, फिर भी गुणों का भोक्ता है। इन जोड़ों को जल्दी किसी एक सरल नारे में बदलने से अर्थ खो सकता है। वर्णन उस आधार का है जो कार्यों में उपस्थित है, पर उन्हीं साधनों तक सीमित नहीं माना गया। यह अर्थ की दिशा है, श्लोक के दार्शनिक तनाव का पूरा समाधान नहीं। निर्गुण को नैतिक गुणों का अभाव, यानी बुरा चरित्र, समझना यहाँ गलत होगा। प्रसंग प्रकृति के गुण और परम का है। अपने जीवन की छोटी तुलना में किसी काम का सहारा देना बिना उस पर स्वामित्व जताए संभव है। जैसे किसी को सीखने में मदद करके उसकी उपलब्धि पर अपना अधिकार न माँगें। यह आधुनिक अनुप्रयोग है, ब्रह्म की परिभाषा नहीं। आज एक सहायता करें और देखें कि बदले में मान्यता की कौन सी मांग उठती है। उस मांग को पहचानना अनासक्त सहारे की दिशा खोल सकता है।",
+  "clearEnglish": "The paired descriptions are deliberately demanding: the knowable appears through sensory functions yet lacks the senses, is unattached yet supports all, and is without qualities yet experiences them. The language points toward a ground involved in experience without being confined to the instruments or qualities through which experience occurs. That is an interpretive direction, not a complete resolution of the philosophical tensions. Nirguna in this setting should not be heard as lacking moral virtues or possessing bad character; the discussion concerns the relation to Nature's qualities. A contemporary analogy is supporting another person's effort without claiming ownership of their result. A mentor can help while allowing the learner's achievement to remain their own. This does not define Brahman, but it illustrates a distinction between support and possessive attachment. Notice the demand for credit that may accompany assistance. Recognizing it can make care more honest, while the verse's larger metaphysical account continues to require patient study rather than a slogan.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The knowable appears through senses yet lacks them, is unattached yet supports all, and is qualityless yet experiences qualities."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Helping without demanding ownership illustrates support without attachment; it does not resolve or define the metaphysical description."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Offer one appropriate help and notice any demand for ownership or recognition that accompanies it."
+    }
+  ],
+  "reflectionQuestion": "Can I support this effort without making its outcome a possession of mine?",
+  "reflectionQuestionHindi": "क्या मैं इस प्रयास का सहारा दे सकता हूँ, उसका परिणाम अपनी संपत्ति बनाए बिना?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-027",
+  "sequenceNumber": 441,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 27,
+  "verseEnd": 27,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "भयानक प्रवेश का वर्णन / The terrible scene described",
+  "context": "Arjuna completes the preceding sentence by describing warriors rushing into the fearful mouths of the cosmic form.",
+  "contextHindi": "अर्जुन पिछली योद्धाओं की सूची का वाक्य पूरा करते हैं और भयानक मुखों में उनका प्रवेश बताते हैं।",
+  "sanskritDevanagari": "वक्त्राणि ते त्वरमाणा विशन्ति\nदंष्ट्राकरालानि भयानकानि |\nकेचिद्विलग्ना दशनान्तरेषु\nसन्दृश्यन्ते चूर्णितैरुत्तमाङ्गैः ||११-२७||",
+  "transliteration": "vaktrāṇi te tvaramāṇā viśanti daṃṣṭrākarālāni bhayānakāni .\nkecidvilagnā daśanāntareṣu sandṛśyante cūrṇitairuttamāṅgaiḥ ||11-27||",
+  "wordByWord": [
+    {
+      "term": "त्वरमाणाः",
+      "meaning": "hurrying"
+    },
+    {
+      "term": "विशन्ति",
+      "meaning": "enter"
+    },
+    {
+      "term": "दशनान्तरेषु",
+      "meaning": "between the teeth"
+    },
+    {
+      "term": "उत्तमाङ्गैः",
+      "meaning": "heads"
+    }
+  ],
+  "spokenHindi": "पिछले श्लोक में जिन योद्धाओं के नाम आए थे, अर्जुन अब उनके बारे में कहते हैं कि वे भयानक दंष्ट्राओं वाले मुखों में जल्दी से प्रवेश कर रहे हैं। कुछ दाँतों के बीच अटके दिखते हैं और उनके सिर चूर्ण हो गए हैं। यह पाठ का कठोर दृश्य है; उसे सुंदर सामान्य परिवर्तन कहकर छिपाना सही अर्थ नहीं रखेगा। फिर भी हमें विवरण को और भयावह बनाकर बढ़ाने की जरूरत नहीं। वक्ता अर्जुन हैं, और यह उनके दिव्य दर्शन का वृत्तांत है, कृष्ण का यहाँ दिया हुआ हत्या का आदेश नहीं। परिचित वीरों की शक्ति भी इस विनाशकारी व्यापकता के सामने सीमित दिखाई देती है। हमारा उपयोग मानव असुरक्षा के प्रति गंभीरता हो सकता है। किसी नुकसान की खबर देखते समय उसे मनोरंजन की तरह बार बार देखने के बजाय प्रभावित लोगों की वास्तविक सहायता पर ध्यान दें। यह आधुनिक सुझाव है, श्लोक में मीडिया के बारे में बात नहीं है। यदि चित्रों से बेचैनी बढ़ती हो, तो पढ़ाई रोककर सुरक्षित सामान्य परिवेश में लौटना उचित है। कठिन पाठ के साथ संवेदनशीलता रखना उसकी ईमानदार स्वीकृति के साथ चल सकता है।",
+  "clearEnglish": "The sentence begun with the warriors' names is completed here. Arjuna sees them rushing into terrible mouths, with some caught between teeth and their heads crushed. The description is severe and should not be disguised as merely a pleasant symbol of change. At the same time, careful teaching does not need to embellish its violence. This is Arjuna's report of the vision, not an imperative from Krishna in this verse. The named warriors' familiar power is shown within a destructive scope beyond them. A responsible modern inference concerns sensitivity to human vulnerability. When encountering news of harm, repeated exposure to disturbing imagery is not the only way to take the event seriously. Attention can move toward reliable information and practical help for those affected. That is an application for current life, not a claim about media made by the text. A listener may pause if the passage feels too intense. Taking a difficult description honestly does not require recreating it vividly or becoming indifferent to suffering.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna describes warriors entering terrible mouths, with some crushed between teeth."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The vision's violence is not a personal command; sensitivity and useful support are responsible modern applications."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Choose care over repetition",
+      "text": "After distressing news, seek reliable information and one realistic avenue of help rather than repeatedly viewing graphic material. Pause when needed."
+    }
+  ],
+  "reflectionQuestion": "What does taking suffering seriously ask of my attention today?",
+  "reflectionQuestionHindi": "आज दुख को गंभीरता से लेना मेरे ध्यान से क्या माँगता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

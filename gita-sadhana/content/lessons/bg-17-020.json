@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-020",
+  "sequenceNumber": 615,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 20,
+  "verseEnd": 20,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "दान में उचित समय और सम्मान / Giving without return",
+  "context": "Krishna defines sattvic giving through duty, non-reciprocity, and appropriate recipient, place, and time.",
+  "contextHindi": "कृष्ण कर्तव्य मानकर, बदले की अपेक्षा बिना, उचित पात्र, स्थान और समय में दिए दान को सात्त्विक बताते हैं।",
+  "sanskritDevanagari": "दातव्यमिति यद्दानं दीयतेऽनुपकारिणे |\nदेशे काले च पात्रे च तद्दानं सात्त्विकं स्मृतम् ||१७-२०||",
+  "transliteration": "dātavyamiti yaddānaṃ dīyate.anupakāriṇe .\ndeśe kāle ca pātre ca taddānaṃ sāttvikaṃ smṛtam ||17-20||",
+  "wordByWord": [
+    {
+      "term": "dātavyam",
+      "meaning": "It ought to be given"
+    },
+    {
+      "term": "anupakāriṇe",
+      "meaning": "To one who gives nothing in return"
+    },
+    {
+      "term": "deśe kāle",
+      "meaning": "At an appropriate place and time"
+    },
+    {
+      "term": "pātre",
+      "meaning": "To an appropriate or worthy recipient"
+    }
+  ],
+  "spokenHindi": "कृष्ण सात्त्विक दान में यह भावना रखते हैं कि देना उचित है। वह ऐसे व्यक्ति को दिया जाता है जो बदले में उपकार नहीं करता, और स्थान, समय तथा पात्र की उपयुक्तता देखी जाती है। इससे दान केवल हाथ से कुछ निकालना नहीं, ध्यान से देना बनता है। सामने वाले को आपकी पसंद की वस्तु नहीं, उसकी वास्तविक जरूरत हो सकती है। पात्र शब्द को किसी जन्मजात पहचान की श्रेष्ठता में न बदलें। यहां उचित प्राप्तकर्ता की बात है; उसका आधुनिक अर्थ परिस्थिति और उपयोग की जांच से समझना चाहिए। अपनी क्षमता भी ध्यान में रखें। दान अपने परिवार की जरूरी जरूरत मिटाने या दूसरों से सम्मान खरीदने का दबाव नहीं है। आज छोटी मदद देने से पहले पूछें कि क्या उपयोगी होगा और कब। बदले में धन्यवाद या संबंध का अधिकार मांगना न जोड़ें। यदि प्रत्यक्ष सहायता सम्भव न हो, तो भरोसेमंद व्यवस्था की जानकारी लेना भी कदम हो सकता है। सच्ची सहायता में देने वाले की इच्छा के साथ पाने वाले की गरिमा को भी जगह मिलती है।",
+  "clearEnglish": "Krishna describes sattvic giving as offered because it ought to be given, to someone who does not repay the giver, at an appropriate place and time and to an appropriate recipient. The verse combines generosity with discernment. Giving without demanding return does not mean giving without attention to whether the gift can help. The recipient, timing, and setting matter. Nor should the term worthy recipient be silently converted into inherited social superiority. A contemporary application can investigate actual need and suitability while preserving dignity. The giver's real capacity also matters; a responsible practice need not become pressure to neglect essential obligations. Before offering help, ask what would be useful and whether the timing is right. Avoid attaching an unspoken claim to gratitude, influence, or personal access. Those examples are modern extensions of non-reciprocity, not conditions listed verbatim in the verse. A modest, well-directed gift can serve its purpose more clearly than a dramatic gesture shaped chiefly by the giver's preference.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna calls giving sattvic when offered as duty without expected repayment, at the right place and time to an appropriate recipient."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Checking actual need and respecting dignity applies suitability and non-reciprocity without equating worthiness with inherited rank."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Ask what helps",
+      "text": "Before one small act of giving, check the actual need and remove any expectation of personal repayment."
+    }
+  ],
+  "reflectionQuestion": "Is this gift shaped by the recipient's need or my preferred image of helping?",
+  "reflectionQuestionHindi": "यह दान पाने वाले की जरूरत से तय है या मेरी मददगार छवि से?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

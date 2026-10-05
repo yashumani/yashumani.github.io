@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-008",
+  "sequenceNumber": 497,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 8,
+  "verseEnd": 8,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Knowledge expressed as character / चरित्र में दिखाई देने वाला ज्ञान",
+  "context": "Krishna begins the qualities later identified as knowledge, including humility, noninjury, honesty, and steadiness.",
+  "contextHindi": "क्षेत्र बताने के बाद कृष्ण उन गुणों की सूची शुरू करते हैं जिन्हें आगे ज्ञान कहा जाएगा।",
+  "sanskritDevanagari": "अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम् |\nआचार्योपासनं शौचं स्थैर्यमात्मविनिग्रहः ||१३-८||",
+  "transliteration": "amānitvamadambhitvamahiṃsā kṣāntirārjavam .\nācāryopāsanaṃ śaucaṃ sthairyamātmavinigrahaḥ ||13-8||",
+  "wordByWord": [
+    {
+      "term": "amānitvam",
+      "meaning": "humility; अभिमान का अभाव"
+    },
+    {
+      "term": "adambhitvam",
+      "meaning": "absence of pretence"
+    },
+    {
+      "term": "ahiṃsā",
+      "meaning": "noninjury; अहिंसा"
+    },
+    {
+      "term": "ārjavam",
+      "meaning": "uprightness or straightforwardness"
+    },
+    {
+      "term": "ācāryopāsanam",
+      "meaning": "service or attendance upon the teacher"
+    }
+  ],
+  "spokenHindi": "कृष्ण विनम्रता, दिखावे का अभाव, अहिंसा, क्षांति, सीधापन, शिक्षक की सेवा, शौच, स्थिरता और आत्मसंयम की सूची शुरू करते हैं। आगे इन्हीं गुणों की धारा को ज्ञान कहा जाएगा। इससे पता चलता है कि जानना केवल सूचना रखना नहीं; सीखने वाले के व्यवहार का भी महत्व है। विनम्रता अपने को तुच्छ मानना नहीं, और क्षांति अपमान या असुरक्षा को अनंत समय सहने का आदेश नहीं। शिक्षक का आदर भी उनकी हर निजी माँग को बिना जाँच मान लेने से अलग है। ये जिम्मेदार अनुप्रयोग हैं, श्लोक के स्थान पर नई परिभाषाएँ नहीं। शौच को पढ़कर किसी जन्मगत समूह को अशुद्ध बताना पाठ में नहीं है। आज पूरी सूची पर खुद को अंक न दें। एक छोटा पक्ष चुनें: जिसे नहीं जानते उसे बिना दिखावे कहें, या किसी को चोट पहुँचाने वाला शब्द सुधारें। आत्मसंयम का अर्थ जरूरत और सहायता दबाना नहीं। व्यवहार में सच और अहानि की दिशा रखकर अध्ययन को अधिक खुले मन से आगे बढ़ाया जा सकता है।",
+  "clearEnglish": "The list begins with humility, absence of pretence, noninjury, patience, straightforwardness, service to the teacher, purity, steadiness, and self-restraint. Later verses will identify this sequence as knowledge. Learning is therefore linked to the character and practices through which understanding becomes possible. A person protecting an image of expertise may have difficulty hearing a correction; straightforwardness and humility can make that correction usable. This is a contemporary illustration of the list. Its ethical terms should also retain responsible limits: patience does not require accepting abuse, and respect for a teacher does not make every human demand legitimate. Purity here is not an assertion that inherited groups are impure. For practice, choose one manageable quality rather than scoring the entire self against the list. Admit a limit without pretence or correct a harmful phrase. Such an act does not establish spiritual perfection, but it can make study more honest and reduce avoidable injury in the relationships where learning occurs.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna begins a list of humility, nonpretence, noninjury, patience, honesty, teacher-service, purity, steadiness, and restraint, later called knowledge."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A manageable act of honesty or noninjury applies the list; boundaries and support remain compatible with patience and respect."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "State one limit in your knowledge honestly, or repair one unnecessarily hurtful phrase."
+    }
+  ],
+  "reflectionQuestion": "Which habit of character would make me more able to learn today?",
+  "reflectionQuestionHindi": "चरित्र की कौन सी छोटी आदत आज मुझे सीखने के लिए अधिक खुला बना सकती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

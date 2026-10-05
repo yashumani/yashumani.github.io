@@ -1,0 +1,67 @@
+{
+  "id": "bg-12-003",
+  "sequenceNumber": 472,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 3,
+  "verseEnd": 3,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "अव्यक्त का वर्णन / Describing the unmanifest",
+  "context": "Krishna begins a sentence about those who worship the imperishable unmanifest, using several descriptions of its stability and scope.",
+  "contextHindi": "कृष्ण अक्षर अव्यक्त की उपासना करने वालों का वाक्य शुरू करते हैं और उसके स्थिर व्यापक स्वरूप के विशेषण देते हैं।",
+  "sanskritDevanagari": "ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते |\nसर्वत्रगमचिन्त्यञ्च कूटस्थमचलन्ध्रुवम् ||१२-३||",
+  "transliteration": "ye tvakṣaramanirdeśyamavyaktaṃ paryupāsate .\nsarvatragamacintyañca kūṭasthamacalandhruvam ||12-3||",
+  "wordByWord": [
+    {
+      "term": "अनिर्देश्यम्",
+      "meaning": "indefinable or not directly pointed out"
+    },
+    {
+      "term": "सर्वत्रगम्",
+      "meaning": "all-pervading"
+    },
+    {
+      "term": "अचिन्त्यम्",
+      "meaning": "beyond ordinary conception"
+    },
+    {
+      "term": "कूटस्थम्",
+      "meaning": "unchanging or abiding"
+    }
+  ],
+  "spokenHindi": "कृष्ण उस अक्षर की उपासना करने वालों की बात शुरू करते हैं जो अनिर्देश्य, अव्यक्त, सर्वत्र व्याप्त, सामान्य सोच से परे, कूटस्थ, अचल और ध्रुव है। यह विशेषणों की घनी पंक्ति है। अनिर्देश्य का अर्थ किसी साफ सीमित वस्तु की तरह उंगली से नहीं दिखाया जा सकना है। अव्यक्त प्रकट रूप में न आने की बात करता है। अचल और ध्रुव स्थिरता को सामने रखते हैं। इस श्लोक में वाक्य अभी पूरा नहीं; साधकों की दशा और फल अगले श्लोक में आएंगे। इसलिए केवल कठिन शब्द देखकर यह कह देना कि यह मार्ग निरर्थक है, कृष्ण के उत्तर को अधूरा पढ़ना होगा। अचिन्त्य का धार्मिक अर्थ सामान्य धारणा से आगे है; उससे अध्ययन या प्रश्न बंद करने का आदेश नहीं बनता। हमारा छोटा अभ्यास किसी अमूर्त शब्द की सीमा समझना हो सकता है। जैसे न्याय या भरोसा एक चीज की तरह हाथ में नहीं आता, फिर भी उसके उदाहरण समझे जा सकते हैं। यह तुलना अव्यक्त का पूरा अर्थ नहीं देती, केवल शब्द और वस्तु के फर्क पर ध्यान खोलती है।",
+  "clearEnglish": "The verse begins a sentence about worshippers of the imperishable unmanifest. Its descriptions are dense: indefinable, all-pervading, beyond ordinary conception, unchanging, immovable and constant. Each resists treating the object of worship as one bounded thing among others. Anirdeshya concerns what cannot simply be pointed out or defined in that manner; avyakta concerns the absence of manifest presentation. The sentence continues, so the practitioners' qualities and destination should not be inferred from these adjectives alone. Nor does achintya serve as a command to stop inquiry or an excuse for any unclear statement. It belongs to the theological description. A limited ordinary analogy can involve abstract terms such as trust or justice, which are not physical objects but still have meaningful uses and examples. That analogy does not capture the unmanifest reality; it only helps distinguish a concept from a directly visible item. Patiently understanding the words is itself a reasonable study practice. The next verse completes Krishna's account of this approach.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes the imperishable unmanifest through terms of indefinability, pervasion and stability; the sentence continues."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Abstract ordinary concepts offer only a limited analogy; the description does not close inquiry or establish futility."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Clarify an abstract word",
+      "text": "Choose one abstract word you use, such as trust. Describe an example and a limit of the example rather than treating the word as a visible object."
+    }
+  ],
+  "reflectionQuestion": "Can I use a word meaningfully without pretending it exhausts what it points to?",
+  "reflectionQuestionHindi": "क्या मैं किसी शब्द का उपयोग अर्थपूर्ण ढंग से कर सकता हूँ, उसे पूरे विषय के बराबर माने बिना?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

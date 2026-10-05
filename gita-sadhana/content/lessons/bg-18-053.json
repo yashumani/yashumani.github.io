@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-053",
+  "sequenceNumber": 676,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 53,
+  "verseEnd": 53,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Letting go of the possessive self / अहंकार और ममता छोड़ना",
+  "context": "Krishna continues the preparation for Brahman by naming tendencies to relinquish.",
+  "contextHindi": "कृष्ण साधक से अहंकार, घमंड, इच्छा, क्रोध और संग्रह छोड़कर शांत होने की बात करते हैं।",
+  "sanskritDevanagari": "अहंकारं बलं दर्पं कामं क्रोधं परिग्रहम् |\nविमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते ||१८-५३||",
+  "transliteration": "ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ parigraham .\nvimucya nirmamaḥ śānto brahmabhūyāya kalpate ||18-53||",
+  "wordByWord": [
+    {
+      "term": "ahaṅkāram",
+      "meaning": "egoistic self assertion"
+    },
+    {
+      "term": "darpam",
+      "meaning": "arrogance"
+    },
+    {
+      "term": "krodham",
+      "meaning": "anger"
+    },
+    {
+      "term": "parigraham",
+      "meaning": "possessive accumulation"
+    },
+    {
+      "term": "nirmamaḥ",
+      "meaning": "without the insistence of mine"
+    }
+  ],
+  "spokenHindi": "कृष्ण इस श्लोक में अहंकार, बल के दुरुपयोग, घमंड, कामना, क्रोध और संग्रह को छोड़ने की बात करते हैं। फिर निर्मम और शांत होकर ब्रह्म भाव के योग्य होने का वर्णन है। यहाँ बल शब्द को हर स्वस्थ क्षमता के खिलाफ पढ़ना ठीक नहीं होगा; संदर्भ उस ताकत का है जो अहंकार के साथ दूसरों पर छा जाती है। निर्मम का अर्थ यह नहीं कि प्रियजनों की देखभाल बंद हो जाए। मतलब है, उन पर मेरा अधिकार है, इस पकड़ को देखना। क्रोध उठना अपने आप में किसी व्यक्ति को दोषी नहीं बनाता; उसके आधार पर चोट पहुँचाने वाला व्यवहार जाँचना जरूरी है। किसी बातचीत में यदि हम केवल जीतना चाहते हैं, तो बात सुनने की जगह कम रह जाती है। आज एक ऐसी वस्तु, भूमिका या संबंध पहचानें जिसके बारे में आप बार बार मेरा कहते हैं। पूछें कि देखभाल और नियंत्रण में क्या फर्क है। जरूरत पड़े तो माफी माँगना या उचित सीमा मानना भी शांति का हिस्सा है। यह अभ्यास आत्मसम्मान मिटाने का आदेश नहीं है।",
+  "clearEnglish": "The list in verse 53 is pointed: egoism, force, pride, desire, anger, and possessiveness are to be relinquished; the person becomes without the claim of mine and peaceful, fit for becoming Brahman. The movement is from the disciplines of attention to a changed relation with power and ownership. In the DLS rendering, strength appears among what is abandoned. In context it should not be used to shame healthy capacity, self protection, or courage; the neighboring ego and arrogance clarify the danger of force pressed into self importance. Nor does giving up mine cancel care for family, property responsibilities, or boundaries. It tests whether care has turned into control. A practical inference is to notice one conflict where the urge to win overwhelms listening. State the real concern, listen for the other person's account, and choose a response that protects dignity. Anger may signal a problem that deserves attention, but it is no warrant to intimidate. The verse offers a demanding spiritual diagnosis, not a license for someone else to demand your submission.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names egoism, strength, pride, desire, anger, and possessiveness to be relinquished; peaceful non possessiveness makes one fit for Brahman."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The cluster warns against power turned into control, without condemning healthy strength, care, or boundaries."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "In one conflict, separate the concern you need to address from the wish to dominate or possess the outcome."
+    }
+  ],
+  "reflectionQuestion": "Where has caring for something quietly become trying to control it?",
+  "reflectionQuestionHindi": "कहाँ मेरी देखभाल चुपचाप किसी बात को नियंत्रित करने की कोशिश बन गई है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

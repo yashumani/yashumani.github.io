@@ -1,0 +1,71 @@
+{
+  "id": "bg-14-017",
+  "sequenceNumber": 541,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 17,
+  "verseEnd": 17,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "What each quality generates / हर गुण क्या पैदा करता है",
+  "context": "Krishna identifies knowledge, greed, and obscuration as characteristic developments from the gunas.",
+  "contextHindi": "गुणों के फल बताने के बाद कृष्ण स्पष्ट करते हैं कि उनसे भीतर कौन सी प्रवृत्तियाँ जन्म लेती हैं।",
+  "sanskritDevanagari": "सत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च |\nप्रमादमोहौ तमसो भवतोऽज्ञानमेव च ||१४-१७||",
+  "transliteration": "sattvātsañjāyate jñānaṃ rajaso lobha eva ca .\npramādamohau tamaso bhavato.ajñānameva ca ||14-17||",
+  "wordByWord": [
+    {
+      "term": "sattvāt",
+      "meaning": "from sattva; सत्त्व से"
+    },
+    {
+      "term": "sañjāyate",
+      "meaning": "arises; उत्पन्न होता है"
+    },
+    {
+      "term": "lobhaḥ",
+      "meaning": "greed; लोभ"
+    },
+    {
+      "term": "pramādamohau",
+      "meaning": "heedlessness and delusion"
+    },
+    {
+      "term": "ajñānam",
+      "meaning": "ignorance; अज्ञान"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि सत्त्व से ज्ञान, रज से लोभ और तम से प्रमाद, मोह तथा अज्ञान पैदा होते हैं। यहाँ ध्यान उस वातावरण पर है जिसमें कोई प्रवृत्ति विकसित होती है। हम अपनी समझ बढ़ाना चाहते हों तो केवल अधिक सूचना जोड़ना काफी नहीं; यह भी देखें कि उसे ग्रहण करने का ढंग कैसा है। तुलना और संग्रह की बेचैनी जानकारी को भी लोभ का साधन बना सकती है। असावधानी में सही सूचना मिलने पर भी उसका अर्थ नहीं पकड़ते। ये हमारे जीवन की तुलनाएँ हैं, श्लोक के अलग शब्द नहीं। अपने अनुभव में किसी सीखने के समय को देखें: कब प्रश्न साफ हुआ और कब केवल कुछ जीतने की चाह बढ़ी? इससे दूसरे लोगों को गुणों की श्रेणी में बाँटने की जरूरत नहीं पड़ती। हमारी अपनी दशा बदलती है और सुधार की जगह बनी रहती है। आज थोड़ी शांत जाँच करें, स्रोत देखें और जो बात नहीं जानते उसे स्वीकार करें। ज्ञान की ओर बढ़ने का छोटा कदम अक्सर अपनी सीमा पहचानने से शुरू होता है।",
+  "clearEnglish": "The verse identifies what grows from each quality: knowledge from sattva, greed from rajas, and heedlessness, delusion, and ignorance from tamas. This extends the previous account of fruits by naming developments within understanding and motivation. It suggests that the conditions of learning matter alongside the quantity of information available. A person may gather many facts while becoming more acquisitive or less willing to examine them. That contemporary example illustrates the distinction between knowledge and accumulation; it is not a new definition added to the Sanskrit. We can ask what a particular activity is cultivating in us. Does it increase comprehension, intensify the appetite to possess, or leave relevant realities unattended? These questions are useful for self-examination without treating another person's visible behavior as proof of an inner category. The chapter already presents predominance as changing. A practical step toward knowledge is therefore modest and revisable: verify one claim, acknowledge one uncertainty, and remain open to the evidence that resolves it.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Knowledge arises from sattva, greed from rajas, and heedlessness, delusion, and ignorance from tamas."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Examining the conditions and effects of learning applies this account without equating information collection with knowledge."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Check one claim at its source and state one uncertainty honestly before drawing a conclusion."
+    }
+  ],
+  "reflectionQuestion": "Is my current learning increasing understanding or mainly increasing what I want to possess?",
+  "reflectionQuestionHindi": "मेरी अभी की पढ़ाई समझ बढ़ा रही है या केवल कुछ और पाने की चाह?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

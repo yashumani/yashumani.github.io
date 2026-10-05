@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-020",
+  "sequenceNumber": 643,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 20,
+  "verseEnd": 20,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "भिन्न जीवों में एक वास्तविकता / One reality in many beings",
+  "context": "Krishna defines sattvic knowledge as seeing one imperishable reality undivided among differentiated beings.",
+  "contextHindi": "कृष्ण अलग दिखते जीवों में एक अविनाशी और अविभक्त वास्तविकता देखने को सात्त्विक ज्ञान बताते हैं।",
+  "sanskritDevanagari": "सर्वभूतेषु येनैकं भावमव्ययमीक्षते |\nअविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम् ||१८-२०||",
+  "transliteration": "sarvabhūteṣu yenaikaṃ bhāvamavyayamīkṣate .\navibhaktaṃ vibhakteṣu tajjñānaṃ viddhi sāttvikam ||18-20||",
+  "wordByWord": [
+    {
+      "term": "ekam bhāvam",
+      "meaning": "One reality or being"
+    },
+    {
+      "term": "avyayam",
+      "meaning": "Imperishable"
+    },
+    {
+      "term": "avibhaktam",
+      "meaning": "Undivided"
+    },
+    {
+      "term": "vibhakteṣu",
+      "meaning": "Among the divided or differentiated"
+    }
+  ],
+  "spokenHindi": "कृष्ण सात्त्विक ज्ञान में सभी प्राणियों में एक अविनाशी वास्तविकता देखना बताते हैं। अलग अलग दिखाई देने वालों में वह अविभक्त है। यह एक आध्यात्मिक कथन है; इसे केवल सबकी आदत एक जैसी है में बदलना गलत होगा। व्यक्तियों में अनुभव, जरूरत और क्षमता के वास्तविक फर्क रह सकते हैं। श्लोक उस भिन्नता के बीच गहरे एकत्व को देखने की बात करता है। आधुनिक नैतिक अनुप्रयोग में इससे दूसरों के मूल्य को अपने समूह की सीमा से बाहर पहचानने की प्रेरणा मिल सकती है। यह निष्कर्ष है, हर सामाजिक नीति का तैयार नियम नहीं। किसी को सम्मान देना उसकी गलत बात को मान लेना भी नहीं है। सुरक्षा और जवाबदेही की जरूरत रह सकती है। आज किसी ऐसे व्यक्ति या जीव के प्रति व्यवहार देखें जिसे सामान्यतः ध्यान नहीं मिलता। कोई छोटा नुकसान कम करें, जरूरत सुनें या सम्मान से बात करें। एकत्व का बड़ा दावा करने के बजाय उसके प्रति संवेदनशील व्यवहार चुनें। भिन्नता को देखकर भी गरिमा का स्थान बनाए रखना इस अध्ययन का व्यावहारिक आरम्भ हो सकता है।",
+  "clearEnglish": "Krishna calls knowledge sattvic when it sees one imperishable reality in all beings, undivided among those that appear divided. This is a metaphysical statement of unity, not a claim that every person's abilities, needs, or experiences are identical. Differentiation is acknowledged in the very wording while the deeper reality is described as undivided. A modern ethical inference can draw attention to worth beyond the boundaries of one's preferred group. That inference should not be treated as a ready-made policy for every social question. Respect also does not require accepting harmful conduct or abandoning appropriate protection. Consider a person or living being whose welfare is usually omitted from your attention. Choose one small act that reduces avoidable harm or recognizes a real need. The act does not prove realization of the unity described. It offers a modest way to let the teaching challenge habitual exclusion. Difference can remain visible without becoming an excuse for indifference to another's life.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna defines sattvic knowledge as seeing one imperishable reality undivided in all differentiated beings."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Extending ethical attention beyond one's preferred group is a modern application, not denial of practical differences or boundaries."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Notice an omitted life",
+      "text": "Choose one overlooked person or being and take a small respectful action suited to their actual need."
+    }
+  ],
+  "reflectionQuestion": "Whose welfare disappears when I focus only on my own group?",
+  "reflectionQuestionHindi": "केवल अपने समूह पर ध्यान देने से किसका हित मेरी नजर से गायब हो जाता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

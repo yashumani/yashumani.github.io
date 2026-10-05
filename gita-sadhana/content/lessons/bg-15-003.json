@@ -1,0 +1,75 @@
+{
+  "id": "bg-15-003",
+  "sequenceNumber": 554,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 3,
+  "verseEnd": 3,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "The strong instrument of nonattachment / अनासक्ति का दृढ़ साधन",
+  "context": "Krishna says the tree's full form cannot be grasped here and introduces cutting it with firm nonattachment.",
+  "contextHindi": "कृष्ण वृक्ष के रूप, आदि, अंत और आधार की पकड़ कठिन बताते हैं और अनासक्ति से उसे काटने की बात करते हैं।",
+  "sanskritDevanagari": "न रूपमस्येह तथोपलभ्यते\nनान्तो न चादिर्न च सम्प्रतिष्ठा |\nअश्वत्थमेनं सुविरूढमूलं\nअसङ्गशस्त्रेण दृढेन छित्त्वा ||१५-३||",
+  "transliteration": "na rūpamasyeha tathopalabhyate nānto na cādirna ca sampratiṣṭhā .\naśvatthamenaṃ suvirūḍhamūlaṃ asaṅgaśastreṇa dṛḍhena chittvā ||15-3||",
+  "wordByWord": [
+    {
+      "term": "rūpam",
+      "meaning": "form; रूप"
+    },
+    {
+      "term": "suvirūḍhamūlam",
+      "meaning": "with deeply established roots"
+    },
+    {
+      "term": "asaṅgaśastreṇa",
+      "meaning": "with the weapon of nonattachment"
+    },
+    {
+      "term": "dṛḍhena",
+      "meaning": "firm or strong; दृढ़"
+    },
+    {
+      "term": "chittvā",
+      "meaning": "having cut; काटकर"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि इस वृक्ष का रूप यहाँ वैसे नहीं देखा जाता, न उसका अंत, आरंभ और टिकने का आधार। फिर वे गहरी जड़ों वाले अश्वत्थ को अनासक्ति के दृढ़ शस्त्र से काटने की बात करते हैं। यह वृक्ष की उपमा है; किसी जीव या व्यक्ति के विरुद्ध हिंसा का आदेश नहीं। अध्याय की भूमिका भी संसार के बंधन से निकलने के लिए वैराग्य और अनासक्ति को साधन बताती है। मजबूत जड़ों की छवि बताती है कि लगाव केवल एक क्षण का विचार नहीं हो सकता; आदत, पहचान और अपेक्षा उसे टिकाती हैं। आज का सीमित अभ्यास किसी सुरक्षित, छोटी चाह पर करें। जैसे एक वस्तु लेने की इच्छा को कुछ समय रुककर देखना और जरूरत दोबारा जाँचना। लोगों से प्रेम या उनकी देखभाल काटना अनासक्ति का आवश्यक अर्थ नहीं। अपने हाथ में जो जिम्मेदारी है उसे ईमानदारी से निभाते हुए परिणाम को पूरी पहचान न बनाएँ। यह अभ्यास श्लोक के पूरे मुक्ति लक्ष्य से छोटा है, पर पकड़ को पहचानने की दिशा देता है।",
+  "clearEnglish": "The tree's form, beginning, end, and foundation are not grasped here as they truly are. Krishna then speaks of cutting the firmly rooted ashvattha with the strong weapon of nonattachment. The instrument belongs to an allegory of bondage; it is not an instruction for violence against people or living trees. Sivananda's chapter summary explicitly presents dispassion and nonattachment as the means of transcending worldly entanglement. Deep roots suggest why a passing decision may not resolve an attachment sustained by habits and identity. A limited contemporary practice is to examine one small optional desire before acting on it. Waiting briefly and checking its actual purpose can reveal the demand surrounding it. This does not require cutting off affection or abandoning care for others. One can fulfill a responsibility while questioning the insistence that its outcome must define the whole self. The everyday exercise remains smaller than the verse's liberation teaching, but helps make the meaning of attachment concrete.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The tree's form and boundaries are not fully grasped here; it is to be cut with firm nonattachment."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sivananda's chapter summary names dispassion and nonattachment as the means of transcending the samsara tree."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Pausing around an optional desire illustrates loosening attachment; the metaphor does not authorize violence or abandonment of care."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Delay one optional purchase, check its purpose, and choose freely after the urgency has eased."
+    }
+  ],
+  "reflectionQuestion": "What keeps this attachment rooted beyond the immediate desire?",
+  "reflectionQuestionHindi": "तुरंत उठी चाह के अलावा कौन सी बात इस आसक्ति की जड़ बनाए रखती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

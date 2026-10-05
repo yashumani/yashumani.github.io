@@ -1,0 +1,71 @@
+{
+  "id": "bg-03-021",
+  "sequenceNumber": 140,
+  "date": "2026-10-05",
+  "chapter": 3,
+  "verseStart": 21,
+  "verseEnd": 21,
+  "chapterNameSanskrit": "कर्मयोग",
+  "chapterNameEnglish": "Karma Yoga",
+  "theme": "Living example shapes shared standards / आचरण से समाज के मानदंड बनते हैं।",
+  "context": "After pointing to Janaka and others who attained perfection through action, Krishna turns to the influence of exemplary conduct. He tells Arjuna that people often follow what a respected person does and treats as a standard.",
+  "contextHindi": "पिछले श्लोक में कृष्ण ने जनक जैसे राजाओं का उदाहरण दिया, जिन्होंने कर्म करते हुए सिद्धि पाई। अब वे बताते हैं कि किसी व्यक्ति का आचरण और उसके बनाए मानदंड दूसरों को प्रभावित कर सकते हैं।",
+  "sanskritDevanagari": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः |\nस यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ||३-२१||",
+  "transliteration": "yadyadācarati śreṣṭhastattadevetaro janaḥ .\nsa yatpramāṇaṃ kurute lokastadanuvartate ||3-21||",
+  "wordByWord": [
+    {
+      "term": "श्रेष्ठः",
+      "meaning": "A person regarded as excellent or prominent; the verse does not specify that status is inherited."
+    },
+    {
+      "term": "आचरति",
+      "meaning": "Practises or does; here, conduct that others can observe."
+    },
+    {
+      "term": "प्रमाणम्",
+      "meaning": "A standard, example, or measure accepted as a guide."
+    },
+    {
+      "term": "अनुवर्तते",
+      "meaning": "Follows or takes as a pattern."
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण अर्जुन को बताते हैं कि प्रभावशाली व्यक्ति का आचरण केवल निजी मामला नहीं रहता। लोग अक्सर देखते हैं कि वह क्या करता है और किस बात को सही मानकर अपनाता है; फिर वे उसी को अपने लिए मानदंड बना सकते हैं। यहाँ “श्रेष्ठ” का अर्थ केवल जन्म, पद या प्रसिद्धि नहीं मान लेना चाहिए। श्लोक किसी खास सामाजिक समूह की श्रेष्ठता तय नहीं करता। **पाठ:** कृष्ण कहते हैं कि लोग उदाहरण और मानक का अनुसरण करते हैं। **निष्कर्ष:** हमारे चुने हुए व्यवहार का दूसरों पर असर पड़ सकता है, इसलिए जिम्मेदारी से जीना उपयोगी है; पर यह कोई गणितीय नियम नहीं कि हर व्यक्ति हर नेता की नकल करेगा। बात खास तौर पर उन लोगों पर लागू होती है जिनकी बात या आदतें दूसरों तक पहुँचती हैं। आज यह शिक्षक, अभिभावक, प्रबंधक, कलाकार या ऑनलाइन समुदाय का सक्रिय सदस्य हो सकता है। उपदेश देने से पहले अपने व्यवहार को देखना इस श्लोक की व्यावहारिक चुनौती है। और यदि आप औपचारिक नेता नहीं हैं, तब भी छोटे साझा दायरों में आपका उदाहरण मायने रख सकता है।",
+  "clearEnglish": "Krishna is explaining why conduct matters beyond the person who performs it. People observe those they regard as exemplary, and may adopt both their actions and the standards they appear to endorse. The Sanskrit term śreṣṭha can mean someone prominent or regarded as excellent; this verse does not establish that prominence is inherited, nor does it define one social group as inherently superior. **TEXT:** Krishna says that others tend to follow a person’s conduct and the standard that person sets. **INFERENCE:** Visible choices can influence what a group considers normal, so people with influence have a responsibility to consider the effects of their example. That is a reasoned application, not a guarantee that everyone imitates every admired person. Influence can come from a formal role, but also from family life, a workplace, or an online community. The verse invites us to align what we recommend with what we practise. It also suggests a practical question for anyone setting expectations: does my everyday conduct make the standard I want others to follow more credible? This is about accountable example, not perfection or celebrity.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes the influence of a prominent or exemplary person’s actions and the standards that person sets."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "People in positions of influence should consider how their conduct may shape shared expectations. The verse does not claim that everyone imitates every leader."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Practise the standard",
+      "text": "Choose one expectation you ask of others, such as listening without interruption, and make a point of following it yourself today."
+    },
+    {
+      "label": "Use influence carefully",
+      "text": "Before posting or speaking to a group, consider what behaviour your example might make seem acceptable."
+    }
+  ],
+  "reflectionQuestion": "What standard do my everyday actions set for the people who observe me?",
+  "reflectionQuestionHindi": "मेरे रोज़मर्रा के व्यवहार से आसपास के लोगों के सामने कौन-सा मानदंड बनता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

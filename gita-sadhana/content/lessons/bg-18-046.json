@@ -1,0 +1,75 @@
+{
+  "id": "bg-18-046",
+  "sequenceNumber": 669,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 46,
+  "verseEnd": 46,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Work offered as worship / उपासना के रूप में कर्म",
+  "context": "Krishna explains perfection through worshipping the source and pervader of beings by one's own work.",
+  "contextHindi": "कृष्ण सभी प्राणियों के मूल और व्यापक परम की पूजा अपने कर्म से करके सिद्धि पाने की बात कहते हैं।",
+  "sanskritDevanagari": "यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् |\nस्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः ||१८-४६||",
+  "transliteration": "yataḥ pravṛttirbhūtānāṃ yena sarvamidaṃ tatam .\nsvakarmaṇā tamabhyarcya siddhiṃ vindati mānavaḥ ||18-46||",
+  "wordByWord": [
+    {
+      "term": "yataḥ pravṛttiḥ",
+      "meaning": "from whom activity or emergence proceeds"
+    },
+    {
+      "term": "tatam",
+      "meaning": "pervaded; व्याप्त"
+    },
+    {
+      "term": "svakarmaṇā",
+      "meaning": "by one's own work"
+    },
+    {
+      "term": "abhyarcya",
+      "meaning": "having worshipped"
+    },
+    {
+      "term": "siddhim",
+      "meaning": "perfection; सिद्धि"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जिससे प्राणियों की प्रवृत्ति आती है और जिससे यह सब व्याप्त है, उसकी अपने कर्म से उपासना करके मनुष्य सिद्धि पाता है। पिछले श्लोक के ‘कैसे’ का उत्तर अब कर्म को पूजा की दिशा देता है। स्वामी सिवानंद की टिप्पणी कहती है कि इस तरह अपना दायित्व निभाने से आत्मज्ञान के उदय की योग्यता बनती है। यह टिप्पणी सिद्धि को साधना की तैयारी से जोड़ती है। श्लोक में पूजा केवल किसी विशेष स्थान या सामग्री तक सीमित नहीं रहती; कर्म उसका माध्यम है। फिर भी नुकसानदेह काम को धार्मिक नाम देकर सही घोषित करना इससे नहीं निकलता। आज का अनुप्रयोग एक उपयोगी काम में सत्य, सावधानी और कम स्वार्थ की पकड़ रखना हो सकता है। कोई काम अनदेखा हो तो भी उसके वास्तविक लाभ पर ध्यान दें। यह आधुनिक अभ्यास है, सिद्धि की पूर्ण प्राप्ति का दावा नहीं। कर्म और पूजा का संबंध हमें यह पूछने देता है कि काम किस भाव और किस जिम्मेदारी से किया गया। परिणाम पर विचार भी उस ईमानदार दायित्व का हिस्सा रह सकता है।",
+  "clearEnglish": "Krishna explains that worshipping the source of beings and the one pervading all through one's own work leads to perfection. Work is therefore a medium of worship rather than being automatically outside spiritual life. Sivananda's commentary interprets the perfection as becoming qualified for the arising of Self-knowledge. That clarification belongs to the named commentary. The verse does not specify a ritual location or offering, nor does it make harmful conduct acceptable because a sacred label is placed upon it. A contemporary application is to perform a useful responsibility truthfully and carefully, with less demand that it enhance one's reputation. An unnoticed task can still serve a real need. This is a practical inference, not proof that the full spiritual result has been attained. Considering consequences remains part of responsibility; offering an action is not the same as refusing to examine its effects. The teaching joins intention, work, and divine orientation while inviting a more honest question about what one's effort actually serves.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Worshipping the source and pervader of all through one's own work leads to perfection."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sri Swami Sivananda explains that such performance of duty qualifies a person for the dawn of Self-knowledge."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Truthful, careful service applies work-as-worship without sanctifying harm or refusing consequence assessment."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Do one useful task with attention to truth and care, then check whether it served the intended need."
+    }
+  ],
+  "reflectionQuestion": "If I regarded this work as an offering, what care would its performance require?",
+  "reflectionQuestionHindi": "इस काम को अर्पण मानूँ तो उसे करते समय कौन सी सावधानी जरूरी होगी?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

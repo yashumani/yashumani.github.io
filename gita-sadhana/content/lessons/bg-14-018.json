@@ -1,0 +1,71 @@
+{
+  "id": "bg-14-018",
+  "sequenceNumber": 542,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 18,
+  "verseEnd": 18,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "Directions of the three qualities / तीन गुणों की गति",
+  "context": "Krishna states upward, middle, and downward destinations associated with abiding in the gunas.",
+  "contextHindi": "कृष्ण गुणों में टिके रहने वालों की ऊर्ध्व, मध्य और अधो गति बताते हैं।",
+  "sanskritDevanagari": "ऊर्ध्वं गच्छन्ति सत्त्वस्था मध्ये तिष्ठन्ति राजसाः |\nजघन्यगुणवृत्तिस्था अधो गच्छन्ति तामसाः ||१४-१८||",
+  "transliteration": "ūrdhvaṃ gacchanti sattvasthā madhye tiṣṭhanti rājasāḥ .\njaghanyaguṇavṛttisthā adho gacchanti tāmasāḥ ||14-18||",
+  "wordByWord": [
+    {
+      "term": "ūrdhvam",
+      "meaning": "upwards; ऊपर"
+    },
+    {
+      "term": "sattvasthāḥ",
+      "meaning": "established in sattva"
+    },
+    {
+      "term": "madhye",
+      "meaning": "in the middle; मध्य में"
+    },
+    {
+      "term": "adho",
+      "meaning": "downwards; नीचे"
+    },
+    {
+      "term": "vṛttisthāḥ",
+      "meaning": "abiding in a mode of activity"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि सत्त्व में स्थित लोग ऊपर जाते हैं, राजसिक बीच में रहते हैं और नीचे के गुण की वृत्ति में स्थित तामसिक नीचे जाते हैं। इससे पहले मृत्यु और पुनर्जन्म की चर्चा हुई है, इसलिए यहाँ गति की आध्यात्मिक दिशा को बनाए रखना चाहिए। इसे केवल नौकरी में उन्नति या सामाजिक प्रतिष्ठा का सूत्र बना देना गलत होगा। ‘ऊपर’ और ‘नीचे’ लोगों की जन्मगत कीमत बताने वाले शब्द भी नहीं हैं। श्लोक गुणों में स्थिति और उनकी गति की बात करता है, किसी जाति या परिवार की सूची नहीं। अपने दिन के लिए इससे एक सावधान तुलना ली जा सकती है: कौन सी आदत समझ को खोलती है, कौन सी हमें उसी दौड़ में रखती है, और कौन सी तथ्य से दूर ले जाती है? यह तुलना श्लोक के लोक संबंधी अर्थ का प्रमाण नहीं है। अपनी आदत की दिशा देखें और एक छोटा सुधार करें। किसी कठिन परिस्थिति में पड़े व्यक्ति को नीचे का मानकर छोड़ देना इस अभ्यास का जिम्मेदार उपयोग नहीं होगा।",
+  "clearEnglish": "Krishna gives a directional account: those established in sattva go upward, the rajasic remain in the middle, and those abiding in the lowest quality's functioning go downward. The nearby discussion of death and rebirth places this within a spiritual account of destinations. It should not be silently converted into a promise of career advancement or a ranking by income. Nor does the verse identify inherited groups whose members must occupy these positions. Its subject is the qualities and the condition of abiding in them. For current practice, direction can be considered by analogy: a habit may broaden understanding, keep craving circling, or deepen neglect. This does not replace the religious claim about ascent and descent. It simply directs a manageable inquiry toward one's own choices. Ask which tendency a repeated action strengthens, then adjust that action when possible. The teaching offers no responsible warrant for withholding care from people whose external circumstances appear difficult or disadvantaged.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes upward, middle, and downward destinations for those abiding respectively in sattva, rajas, and the lowest guna's operation."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Examining a habit's direction is an analogy; the verse neither ranks people by social status nor excuses withholding support."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Choose one repeated habit and make one adjustment that increases contact with relevant facts."
+    }
+  ],
+  "reflectionQuestion": "Which direction does this habit give my understanding over time?",
+  "reflectionQuestionHindi": "समय के साथ यह आदत मेरी समझ को किस दिशा में ले जाती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-043",
+  "sequenceNumber": 666,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 43,
+  "verseEnd": 43,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Courage and responsible leadership / साहस और जिम्मेदार नेतृत्व",
+  "context": "Krishna lists Kshatriya activities including courage, competence, generosity, leadership, and not fleeing battle.",
+  "contextHindi": "कृष्ण क्षत्रिय कर्म में वीरता, तेज, धृति, दक्षता, युद्ध से न भागना, दान और नेतृत्व की दिशा बताते हैं।",
+  "sanskritDevanagari": "शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम् |\nदानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम् ||१८-४३||",
+  "transliteration": "śauryaṃ tejo dhṛtirdākṣyaṃ yuddhe cāpyapalāyanam .\ndānamīśvarabhāvaśca kṣātraṃ karma svabhāvajam ||18-43||",
+  "wordByWord": [
+    {
+      "term": "śauryam",
+      "meaning": "courage or prowess"
+    },
+    {
+      "term": "dākṣyam",
+      "meaning": "skill or competence"
+    },
+    {
+      "term": "yuddhe apalāyanam",
+      "meaning": "not fleeing in battle"
+    },
+    {
+      "term": "dānam",
+      "meaning": "generosity; दान"
+    },
+    {
+      "term": "īśvarabhāvaḥ",
+      "meaning": "lordliness or leadership"
+    }
+  ],
+  "spokenHindi": "कृष्ण क्षत्रिय के स्वभावजन्य कर्म में वीरता, तेज, धृति, दक्षता, युद्ध से न भागना, दान और ईश्वरभाव रखते हैं। दिए गए संस्करण में अंतिम पद नेतृत्व या प्रभुत्व की दिशा देता है। युद्ध का उल्लेख स्पष्ट है; अर्जुन के रणभूमि वाले प्रसंग को छिपाना उचित नहीं। फिर भी इससे हर आधुनिक विवाद में हिंसा करना या किसी अधिकारी का आदेश बिना विवेक मानना सही नहीं हो जाता। पाठ का विशेष कर्तव्य वर्णन और हमारा नैतिक अनुप्रयोग अलग हैं। आज नेतृत्व की छोटी दिशा यह हो सकती है कि कठिन बात में जिम्मेदारी लें, तथ्य तैयार करें और कमजोर व्यक्ति की सुरक्षा देखें। साहस केवल तेज आवाज या खतरे में कूदना नहीं। यह आधुनिक व्याख्या है, श्लोक में दी हुई नई सूची नहीं। दान के साथ क्षमता और स्थिरता का आना नेतृत्व को अपने लाभ से बड़ा प्रश्न बनाता है। एक सुरक्षित निर्णय में अपनी सुविधा से आगे साझा भलाई देखें। वास्तविक खतरे में मदद लेना या उचित दूरी रखना कायरता का सरल प्रमाण नहीं; परिस्थिति और जिम्मेदारी दोनों समझना जरूरी है।",
+  "clearEnglish": "The Kshatriya description includes courage, energy, firmness, competence, not fleeing battle, generosity, and lordliness or leadership. The battlefield element is explicit and should not be removed to make the verse sound like a modern management slogan. Arjuna's setting gives that wording its immediate force. At the same time, it is not a general authorization for violence in present disputes or unquestioning obedience to every command. A responsible contemporary application can focus on accountable leadership: prepare facts, accept a difficult responsibility, and consider the safety of people with less power. This is an inference, not an added list of Krishna's words. Courage need not be confused with loudness or reckless exposure to danger. The pairing with generosity also prompts reflection on whether strength serves more than the leader's own standing. Choose one safe situation in which care and competence can guide a decision. Assistance and appropriate distance in danger remain compatible with responsibility rather than proof of cowardice.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names courage, energy, firmness, competence, not fleeing battle, generosity, and leadership as Kshatriya activities born of nature."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Accountable leadership is a bounded modern application; battlefield wording does not authorize violence or blind obedience in unrelated situations."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "In one safe leadership decision, prepare the facts and identify whose safety or voice needs consideration."
+    }
+  ],
+  "reflectionQuestion": "Does my display of strength serve anyone beyond my own standing?",
+  "reflectionQuestionHindi": "मेरी दिखाई ताकत क्या मेरे सम्मान के अलावा किसी और की भलाई करती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

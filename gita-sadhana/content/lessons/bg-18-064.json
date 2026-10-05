@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-064",
+  "sequenceNumber": 687,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 64,
+  "verseEnd": 64,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Counsel offered from care / स्नेह से कही गई हित की बात",
+  "context": "After giving Arjuna room to choose, Krishna says he will speak once more because Arjuna is dearly loved.",
+  "contextHindi": "विचार और चुनाव का अवसर देने के बाद कृष्ण स्नेह से अर्जुन के हित की सबसे गुप्त बात फिर कहते हैं।",
+  "sanskritDevanagari": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः |\nइष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम् ||१८-६४||",
+  "transliteration": "sarvaguhyatamaṃ bhūyaḥ śṛṇu me paramaṃ vacaḥ .\niṣṭo.asi me dṛḍhamiti tato vakṣyāmi te hitam ||18-64||",
+  "wordByWord": [
+    {
+      "term": "sarvaguhyatamam",
+      "meaning": "most secret of all"
+    },
+    {
+      "term": "paramaṃ vacaḥ",
+      "meaning": "supreme word"
+    },
+    {
+      "term": "iṣṭaḥ asi me",
+      "meaning": "you are dear to me"
+    },
+    {
+      "term": "dṛḍham",
+      "meaning": "firmly"
+    },
+    {
+      "term": "te hitam",
+      "meaning": "what is for your good"
+    }
+  ],
+  "spokenHindi": "कृष्ण अभी अर्जुन से कह चुके हैं कि पूरा विचार करके अपनी इच्छा से काम करो। अब वे फिर बोलते हैं: सबसे गुप्त और सर्वोच्च वचन सुनो, क्योंकि तुम मुझे दृढ़ता से प्रिय हो और मैं तुम्हारे हित की बात कहूँगा। इस क्रम में स्नेह और स्वतंत्र विचार साथ दिखाई देते हैं। कृष्ण अपनी बात को हित से जोड़ते हैं, केवल अधिकार से नहीं। किसी मानव संबंध में यह पंक्ति इस्तेमाल हो तो सावधानी जरूरी है। कोई व्यक्ति मैं तुम्हारी भलाई चाहता हूँ कहकर दूसरे की सीमा या निर्णय पर कब्जा नहीं कर सकता। सच्ची चिंता सामने वाले को सुनती है और बात का कारण देती है। यहाँ अगला वचन अभी आया नहीं है, इसलिए इस श्लोक में आगे की शिक्षा पहले से भर देना उचित नहीं। आज जब आप किसी प्रिय को कठिन सलाह देना चाहें, पहले पूछें कि क्या वह सुनने को तैयार है। फिर स्पष्ट और दयालु भाषा में अपना कारण कहें। उनका उत्तर सुनना भी हित चाहने का हिस्सा है।",
+  "clearEnglish": "Krishna has just invited Arjuna to reflect and choose. He now says he will speak his supreme and most secret word again because Arjuna is firmly dear to him, and because he intends Arjuna's good. The sequence gives the counsel its tone: deep affection does not cancel the space for consideration established one verse earlier. This verse announces the counsel; it does not yet contain the words that follow. A lesson should therefore resist importing the next verse's full instruction into this one. In ordinary relationships, saying I want what is good for you is not enough to make advice trustworthy. The person offering it should listen, explain reasons, and respect a boundary. That is an ethical inference from the juxtaposition of care and deliberation, not a claim that Krishna gives a modern communication script. The text's claim is about Krishna's regard for Arjuna. It should never be turned into a human authority's assertion that love entitles them to control another person's faith or choices.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says he will tell Arjuna the highest and most secret word because Arjuna is dearly loved and he seeks his good."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Care can motivate counsel while still respecting deliberation; claimed affection is no human license for coercion."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Before offering difficult advice to someone dear, ask if they want to hear it, explain your concern, and listen to their response."
+    }
+  ],
+  "reflectionQuestion": "When I say a hard truth is for someone's good, have I listened to them first?",
+  "reflectionQuestionHindi": "जब मैं किसी की भलाई के लिए कठिन बात कहता हूँ, क्या पहले उन्हें सचमुच सुनता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

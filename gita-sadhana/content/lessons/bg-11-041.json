@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-041",
+  "sequenceNumber": 455,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 41,
+  "verseEnd": 41,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "परिचय को फिर देखना / Revisiting familiarity",
+  "context": "Arjuna recalls speaking casually to Krishna as a friend without knowing the greatness now revealed.",
+  "contextHindi": "अर्जुन कृष्ण को केवल मित्र मानकर प्रेम या असावधानी में कही बातों को याद करते हैं।",
+  "sanskritDevanagari": "सखेति मत्वा प्रसभं यदुक्तं\nहे कृष्ण हे यादव हे सखेति |\nअजानता महिमानं तवेदं\nमया प्रमादात्प्रणयेन वापि ||११-४१||",
+  "transliteration": "sakheti matvā prasabhaṃ yaduktaṃ he kṛṣṇa he yādava he sakheti .\najānatā mahimānaṃ tavedaṃ mayā pramādātpraṇayena vāpi ||11-41||",
+  "wordByWord": [
+    {
+      "term": "सखा इति मत्वा",
+      "meaning": "thinking of you as a friend"
+    },
+    {
+      "term": "प्रसभम्",
+      "meaning": "presumptuously or casually"
+    },
+    {
+      "term": "अजानता",
+      "meaning": "not knowing"
+    },
+    {
+      "term": "प्रणयेन",
+      "meaning": "out of affection"
+    }
+  ],
+  "spokenHindi": "अर्जुन याद करते हैं कि कृष्ण को मित्र समझकर उन्होंने हे कृष्ण, हे यादव, हे सखे जैसे संबोधन में क्या कुछ सहज या उतावला कहा। वे बताते हैं कि इस महिमा को न जानते हुए कभी प्रमाद और कभी प्रेम से ऐसा हुआ। प्रणयेन यानी स्नेह से, इसलिए हर पुरानी बातचीत को शत्रुता का प्रमाण नहीं बनाया गया है। फिर भी नया दर्शन पुराने व्यवहार को नए प्रकाश में रखता है। यह वाक्य अगले श्लोक में क्षमा की प्रार्थना तक पूरा होगा। अभी अर्जुन अपने अज्ञान और परिचय की सहजता को पहचानते हैं। इससे यह सामान्य निष्कर्ष नहीं निकलता कि मित्रता या परिचित संबोधन आध्यात्मिक रूप से गलत हैं। संदर्भ कृष्ण की अभी देखी महिमा है। हमारा उपयोग किसी करीबी व्यक्ति की उपेक्षित गरिमा पहचानना हो सकता है। परिचय के कारण कभी हम उसकी जरूरत पूछना छोड़ देते हैं। यदि कोई वास्तविक असावधानी हुई हो तो उसका नाम लें, पर हर साधारण मजाक के लिए अंतहीन आत्मदोष न करें। सम्मान बढ़ना स्वस्थ संवाद और उचित सुधार में दिख सकता है।",
+  "clearEnglish": "Arjuna reexamines words spoken in familiarity: Krishna, Yadava, friend. He had regarded Krishna simply as a companion, without knowing the greatness now disclosed, and attributes the casual speech to carelessness or affection. The inclusion of affection matters. The verse does not portray all previous intimacy as hostility, nor establish that friendship is spiritually wrong. It begins a sentence whose request for forgiveness follows. The new vision changes how Arjuna understands the relation, and therefore how he judges his earlier manner. A modern application can concern familiarity that has become inattentive. With someone close, we may stop asking what they need or assume that a joke is welcome. Review one real instance rather than turning every ordinary interaction into a reason for self-blame. If carelessness occurred, acknowledge it specifically and consider a proportionate repair. This is our relational inference, not a demand to replace all warm address with formality. The literal subject is Arjuna's recognition of Krishna's previously unrecognized greatness.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna recalls casual friendly speech made without knowing Krishna's greatness, through carelessness or affection."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Familiarity can be reviewed without condemning friendship or encouraging endless self-blame."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Review one actual moment",
+      "text": "Consider one recent interaction with someone close. If you overlooked a stated need or boundary, acknowledge that specific moment and choose a proportionate repair."
+    }
+  ],
+  "reflectionQuestion": "Where has familiarity made me less attentive to someone I value?",
+  "reflectionQuestionHindi": "परिचय के कारण मैं किस प्रिय व्यक्ति के प्रति कम ध्यान दे रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

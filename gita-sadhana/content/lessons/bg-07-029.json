@@ -1,0 +1,71 @@
+{
+  "id": "bg-07-029",
+  "sequenceNumber": 309,
+  "date": "2026-10-05",
+  "chapter": 7,
+  "verseStart": 29,
+  "verseEnd": 29,
+  "chapterNameSanskrit": "ज्ञानविज्ञानयोग",
+  "chapterNameEnglish": "Jñāna Vijñāna Yoga",
+  "theme": "जरा-मरण से मुक्ति की खोज | Seeking freedom from age and death",
+  "context": "Krishna describes those who strive for liberation from old age and death while taking refuge in him.",
+  "contextHindi": "कृष्ण अपनी शरण लेकर जरा और मृत्यु से मुक्ति का प्रयास करने वालों का वर्णन करते हैं।",
+  "sanskritDevanagari": "जरामरणमोक्षाय मामाश्रित्य यतन्ति ये |\nते ब्रह्म तद्विदुः कृत्स्नमध्यात्मं कर्म चाखिलम् ||७-२९||",
+  "transliteration": "jarāmaraṇamokṣāya māmāśritya yatanti ye .\nte brahma tadviduḥ kṛtsnamadhyātmaṃ karma cākhilam ||7-29||",
+  "wordByWord": [
+    {
+      "term": "जरामरणमोक्षाय",
+      "meaning": "For liberation from old age and death."
+    },
+    {
+      "term": "माम् आश्रित्य",
+      "meaning": "Taking refuge in me."
+    },
+    {
+      "term": "यतन्ति",
+      "meaning": "Strive or endeavor."
+    },
+    {
+      "term": "कृत्स्नम् अध्यात्मम्",
+      "meaning": "The whole of adhyatma, knowledge pertaining to the Self."
+    },
+    {
+      "term": "कर्म च अखिलम्",
+      "meaning": "And all action."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जो लोग उनकी शरण लेकर जरा और मरण से मुक्ति के लिए प्रयास करते हैं, वे ब्रह्म, पूरा अध्यात्म और समस्त कर्म जानते हैं। मुक्ति की इच्छा के साथ प्रयास भी आया है। यहाँ जरा और मृत्यु से मुक्ति को शरीर हमेशा युवा रहने का दावा नहीं मानना चाहिए। अध्याय का प्रसंग आध्यात्मिक मुक्ति का है। बीमारी में इलाज छोड़ना या उम्र के साथ आने वाली आवश्यकता को अस्वीकार करना इस कथन से नहीं निकलता। शरण और प्रयत्न साथ रखे गए हैं। अपने लिए इससे एक प्रश्न ले सकते हैं: जीवन की सीमा देखकर मैं किस गहरे आश्रय की ओर जाता हूँ? डर लगना कोई नैतिक दोष नहीं है। भरोसेमंद संबंध, अध्ययन और सहायता उसके साथ रह सकते हैं। जिन तकनीकी शब्दों का उल्लेख है, उनका अर्थ सावधानी से सीखना आवश्यक है; अभी उन्हें केवल अपनी पसंद का सामान्य विचार न बना दें। आज किसी परिचित आध्यात्मिक प्रश्न को लिखें और उसके समझने के लिए एक छोटा कदम चुनें। यह अभ्यास शब्दों से परिचय बढ़ाता है, मुक्ति का प्रमाण नहीं देता।",
+  "clearEnglish": "The seekers described here strive for liberation from old age and death, taking refuge in Krishna. He says they know Brahman, the whole of adhyatma, and all action. The scope of knowing is broad, but the terms should retain their philosophical setting rather than become a claim that devotion makes a person expert in every practical subject. Liberation from aging and death likewise belongs to the Gita's spiritual account; it is not a promise of biological immunity. The coexistence of refuge and effort is significant. Trust does not erase endeavor in the wording of the verse. A contemporary response might be to let awareness of mortality deepen a chosen inquiry rather than merely produce urgency. One can ask what spiritual question matters and pursue a manageable step of study. This application can coexist with healthcare and emotional support. Fear of age or death is not evidence of moral failure, and the passage does not require us to judge another person's spiritual attainment. It describes a goal and its seekers within Krishna's teaching.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Those who take refuge in Krishna and strive for liberation from old age and death know Brahman, all adhyatma, and all action."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Trust and effort can coexist in spiritual inquiry; the verse does not promise biological immunity or license neglect of care."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "One inquiry step",
+      "text": "Write one question about mortality or spiritual refuge and choose a brief, supported step of study."
+    }
+  ],
+  "reflectionQuestion": "What spiritual question becomes clearer when I remember life's limits?",
+  "reflectionQuestionHindi": "जीवन की सीमा याद आने पर मेरा कौन-सा आध्यात्मिक प्रश्न अधिक स्पष्ट होता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-011",
+  "sequenceNumber": 425,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 11,
+  "verseEnd": 11,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "सभी दिशाओं में आश्चर्य / Wonder on every side",
+  "context": "Sanjaya continues the description with divine garlands, clothing, fragrance and the endless all-facing form.",
+  "contextHindi": "संजय दिव्य माला, वस्त्र, सुगंध और सभी ओर मुख वाले अनंत रूप का वर्णन जारी रखते हैं।",
+  "sanskritDevanagari": "दिव्यमाल्याम्बरधरं दिव्यगन्धानुलेपनम् |\nसर्वाश्चर्यमयं देवमनन्तं विश्वतोमुखम् ||११-११||",
+  "transliteration": "divyamālyāmbaradharaṃ divyagandhānulepanam .\nsarvāścaryamayaṃ devamanantaṃ viśvatomukham ||11-11||",
+  "wordByWord": [
+    {
+      "term": "दिव्यमाल्याम्बरधरम्",
+      "meaning": "wearing divine garlands and garments"
+    },
+    {
+      "term": "दिव्यगन्धानुलेपनम्",
+      "meaning": "anointed with divine fragrance"
+    },
+    {
+      "term": "अनन्तम्",
+      "meaning": "endless"
+    },
+    {
+      "term": "विश्वतोमुखम्",
+      "meaning": "facing every direction"
+    }
+  ],
+  "spokenHindi": "संजय आगे दिव्य मालाएँ, वस्त्र और सुगंधित लेप का उल्लेख करते हैं। रूप सभी आश्चर्यों से भरा, अनंत और हर ओर मुख वाला है। वर्णन केवल आँख से दिखने वाली आकृतियों तक सीमित नहीं रहता; सुगंध की छवि भी आती है। हमें इससे आज की पूजा में कौन सा इत्र या फूल अनिवार्य है, ऐसा नियम नहीं निकालना चाहिए। यहाँ कृष्ण के दिव्य रूप की कथा है। विश्वतोमुख में एक दिशा पर टिके हमारे सामान्य देखने से अधिक व्यापकता है। सामने और पीछे का अंतर उस रूप को सीमित नहीं करता। यह पहले के अनेक अंगों वाले वर्णन को दूसरी अनुभूति देता है: सौंदर्य और असीमता साथ हैं। हमारा अभ्यास किसी शांत परिचित जगह को कई इंद्रियों से ध्यान देना हो सकता है। जो सुगंध वास्तव में मौजूद हो, जो कपड़े का स्पर्श महसूस हो, उन्हें बिना नया अनुभव पैदा किए पहचानें। यह साधारण निरीक्षण है, दिव्य दर्शन की नकल नहीं। दृश्य की पूरी अनुभूति के लिए कई पहलू साथ सुनना पाठ को अधिक जीवंत बना सकता है।",
+  "clearEnglish": "Garlands, garments and divine fragrance continue Sanjaya's description. The form is full of wonder, endless and facing in every direction. The imagery broadens beyond shape to a richly adorned presence, without making the passage a rule about required flowers, clothing or incense in contemporary worship. Its subject remains the revealed form. Vishvatomukha is especially important: no single front can exhaust the view. This differs from the way we normally organize an object around one favored angle. A practical analogy is to attend to several dimensions of an ordinary place, including actual sound, texture or scent. There is no need to manufacture a special sensation or to claim that this reproduces divine perception. The purpose of the exercise is ordinary attentiveness. In reading the verse, the descriptive features should also be held together rather than choosing ornament and ignoring limitlessness, or choosing grandeur and ignoring the intimate sensory images. Sanjaya is building a scene whose range exceeds a single familiar visual category.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Sanjaya describes divine adornment and fragrance, and a wondrous endless form facing all directions."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Multi-sensory attention is an ordinary analogy, not a ritual requirement or reproduction of divine vision."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Attend to what is present",
+      "text": "In a comfortable place, notice one real sound, texture and scent if available. Do not force a sensation that is absent."
+    }
+  ],
+  "reflectionQuestion": "Which aspect of a familiar place do I usually overlook?",
+  "reflectionQuestionHindi": "परिचित जगह के किस पहलू पर मेरा ध्यान सामान्यतः नहीं जाता?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-06-021",
+  "sequenceNumber": 254,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 21,
+  "verseEnd": 21,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "सुख का सत्य रूप / The real form of bliss",
+  "context": "Krishna has described meditation as a settled mind, and now he defines the inner state that marks deep practice: the yogin experiences a joy that is not grasped by the senses and cannot be shaken by sorrow. This is not a mood of comfort, but an inner steadiness rooted in the Self.",
+  "contextHindi": "कृष्ण ने ध्यान को स्थिर मन की साधना बताया है; अब वे उस अवस्था का वर्णन करते हैं जहाँ योगी अनुभव करता है कि आत्मिक आनंद न इन्द्रियों से पकड़ा जा सकता है, और न किसी दुख से विचलित होता है। यह सुख भावनात्मक राहत नहीं, बल्कि आत्म में स्थापित स्थिरता है।",
+  "sanskritDevanagari": "सुखमात्यन्तिकं यत्तद् बुद्धिग्राह्यमतीन्द्रियम् |\nवेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वतः ||६-२१||",
+  "transliteration": "sukhamātyantikaṃ yattad buddhigrāhyamatīndriyam .\nvetti yatra na caivāyaṃ sthitaścalati tattvataḥ ||6-21||",
+  "wordByWord": [
+    {
+      "term": "सुखम्",
+      "meaning": "Joy, but not ordinary sensory pleasure; the deep, stable contentment of a mind rooted in the Self."
+    },
+    {
+      "term": "अतीन्द्रियम्",
+      "meaning": "Beyond the senses; known through inner clarity rather than external contact."
+    },
+    {
+      "term": "तत्त्वतः",
+      "meaning": "In reality, truly; not as a passing feeling but as a steadfast truth."
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण ने साफ़ कहा है कि योग का आनंद इन्द्रियों के सुख जैसा नहीं होता। यह आनंद आत्मा से जुड़ा है, इसलिए मन की हर छोटी हलचल पर निर्भर नहीं करता। जब योगी अपने भीतर की स्थिरता को पहचानता है, तब बाहरी दुनिया की चंचलता उसे अपने केंद्र से नहीं हटाती। वह समझता है कि गहरी शांति केवल आराम या मनचाहा परिणाम मिलने से नहीं आती। यह भीतर टिके उस अनुभव से आती है जिसे बुद्धि समझ सकती है, पर इन्द्रियाँ नहीं पकड़ सकतीं। इस आनंद को जानने वाला व्यक्ति सत्य में स्थित रहता है। इसका अर्थ यह नहीं कि उसे कभी दुख नहीं होगा या वह भावनाएँ महसूस नहीं करेगा। श्लोक ध्यान से मिलने वाली उस स्थिरता का वर्णन करता है, जो बदलती परिस्थितियों के बीच भी बनी रहती है।",
+  "clearEnglish": "This verse is one of the clearest statements in the Gita that the yogin’s deepest joy is not a sensory pleasure. Krishna says the bliss is “buddhi-grāhyam,” graspable by the purified intellect, and “atīndriyam,” beyond the senses. In other words, the deepest spiritual contentment is not a reward for comfort; it is a state of inner reality. The mind that has become steady in the Self no longer swings with every event. It does not become invulnerable to suffering, but it is not thrown off its center by it. The point is not that a yogin is emotionally frozen, but that his awareness is rooted in something more stable than passing conditions. The verse therefore frames meditation as a way of knowing reality more directly, not as a technique for escape from life.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse directly states that the yogin knows a happiness beyond the senses, and that when established in that truth he is not moved from it. Krishna is describing the actual experience of stable inner awareness, not a fantasy of being untouched by life."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A reasonable inference is that genuine spiritual maturity is not measured by a life free from pain, but by the ability to remain anchored in deeper truth even when the body, mind, or circumstances are disturbed. This is a test of steadiness, not a promise of uninterrupted comfort."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "संतुलित मन",
+      "text": "When you feel strongly upset by a message, a setback, or an emotional trigger, pause for one minute, breathe slowly, and ask: 'What is the deeper reality here, beyond the immediate sensation?'"
+    },
+    {
+      "label": "आंतरिक आधार",
+      "text": "In difficult moments, instead of chasing reassurance from people or outcomes, return to one steady inner reference: your values, your breath, or your intention to act with clarity."
+    }
+  ],
+  "reflectionQuestion": "How do I notice whether my peace depends on outer conditions or on a steadier inner awareness?",
+  "reflectionQuestionHindi": "मैं यह कैसे पहचानूँ कि मेरी शांति बाहरी परिस्थितियों पर निर्भर है या आंतरिक स्थिरता पर?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-030",
+  "sequenceNumber": 402,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 30,
+  "verseEnd": 30,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "प्रह्लाद और समय / Prahlada and time",
+  "context": "Krishna names Prahlada among Daityas, time among reckoners, the lion among beasts and Garuda among birds.",
+  "contextHindi": "कृष्ण दैत्यों में प्रह्लाद, गणना करने वालों में काल, पशुओं में सिंह और पक्षियों में गरुड़ कहते हैं।",
+  "sanskritDevanagari": "प्रह्लादश्चास्मि दैत्यानां कालः कलयतामहम् |\nमृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम् ||१०-३०||",
+  "transliteration": "prahlādaścāsmi daityānāṃ kālaḥ kalayatāmaham .\nmṛgāṇāṃ ca mṛgendro.ahaṃ vainateyaśca pakṣiṇām ||10-30||",
+  "wordByWord": [
+    {
+      "term": "प्रह्लादः",
+      "meaning": "Prahlada"
+    },
+    {
+      "term": "कालः",
+      "meaning": "time"
+    },
+    {
+      "term": "कलयताम्",
+      "meaning": "among those who reckon or measure"
+    },
+    {
+      "term": "वैनतेयः",
+      "meaning": "son of Vinata; Garuda"
+    }
+  ],
+  "spokenHindi": "कृष्ण दैत्यों में प्रह्लाद, गणना करने वालों में काल, पशुओं में सिंह और पक्षियों में विनता के पुत्र गरुड़ को कहते हैं। प्रह्लाद का दैत्यों के बीच नाम आना ध्यान देने योग्य है। सूची केवल एक प्रतिष्ठित समूह के भीतर महिमा नहीं खोजती। इस श्लोक में प्रह्लाद की विस्तृत कथा नहीं आती, इसलिए उसे नई घटनाओं से भरने के बजाय नाम के स्थान पर ध्यान दें। काल सारे मापों को घेरता है: हम समय गिनते हैं, और समय हमारी योजनाओं की सीमा भी बन जाता है। सिंह तथा गरुड़ शक्ति और विशिष्टता के अलग धार्मिक और प्राकृतिक संकेत हैं। इन्हें मनुष्यों के लिए दूसरों पर हावी होने की सलाह नहीं बनाना चाहिए। हमारा अभ्यास अपनी पसंद की श्रेणियों के बाहर भी किसी अच्छे गुण को पहचानना हो सकता है। किसी समूह के बारे में बनी राय को एक व्यक्ति की वास्तविक क्षमता पर थोपने से पहले रुकें। फिर समय के संदर्भ में अपनी योजना देखें: उपलब्ध अवधि जितनी है, काम भी उतना ही चुनें। सीमा मानना कभी समझदारी की शुरुआत बनता है।",
+  "clearEnglish": "Prahlada among the Daityas makes this verse especially useful against a simplistic reading of categories. The catalogue can locate a prominent manifestation within a group that a listener might otherwise dismiss. The passage names Prahlada without retelling his full story, so the lesson should not invent a narrative around him. Time among reckoners adds another shift: the measure that structures calculations itself becomes the exemplar. The lion and Garuda then move into animal and sacred bird imagery. These identifications display distinct kinds of prominence; they do not prescribe domination as a human virtue. A careful inference is to remain attentive to qualities outside a favored group. General opinions about a category may obscure the actual person before us. A second practical lens concerns scheduling. Time cannot be made unlimited simply because a task feels important. Choosing a realistic scope can express respect for that limit. These are applications of the verse's range and imagery, while its literal content is the four identifications within their stated categories.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names Prahlada, time, the lion and Garuda in their respective categories."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Recognizing qualities across group boundaries and planning realistically are applications, not additional commands."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Recognize beyond a label",
+      "text": "Notice one skill or helpful act from someone outside your usual circle. Describe the actual act rather than relying on the group's reputation."
+    }
+  ],
+  "reflectionQuestion": "Which group label prevents me from noticing a person's actual qualities?",
+  "reflectionQuestionHindi": "कौन सा समूह का नाम मुझे किसी व्यक्ति के वास्तविक गुण देखने से रोकता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

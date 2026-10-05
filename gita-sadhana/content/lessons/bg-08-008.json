@@ -1,0 +1,67 @@
+{
+  "id": "bg-08-008",
+  "sequenceNumber": 318,
+  "date": "2026-10-05",
+  "chapter": 8,
+  "verseStart": 8,
+  "verseEnd": 8,
+  "chapterNameSanskrit": "अक्षरब्रह्मयोग",
+  "chapterNameEnglish": "Akṣara Brahma Yoga",
+  "theme": "अभ्यास से स्थिर ध्यान | Steadiness through practice",
+  "context": "Krishna describes habitual meditation following the instruction to remember him during action.",
+  "contextHindi": "कर्म के बीच स्मरण का निर्देश देने के बाद कृष्ण नियमित ध्यान के अभ्यास का वर्णन करते हैं।",
+  "sanskritDevanagari": "अभ्यासयोगयुक्तेन चेतसा नान्यगामिना |\nपरमं पुरुषं दिव्यं याति पार्थानुचिन्तयन् ||८-८||",
+  "transliteration": "orsaṃśayama abhyāsayogayuktena cetasā nānyagāminā .\nparamaṃ puruṣaṃ divyaṃ yāti pārthānucintayan ||8-8||",
+  "wordByWord": [
+    {
+      "term": "अभ्यासयोगयुक्तेन",
+      "meaning": "Joined with the yoga of repeated practice."
+    },
+    {
+      "term": "चेतसा",
+      "meaning": "By the mind."
+    },
+    {
+      "term": "नान्यगामिना",
+      "meaning": "Not going toward another object."
+    },
+    {
+      "term": "परमं पुरुषं दिव्यम्",
+      "meaning": "The supreme divine Person."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि अभ्यासयोग से जुड़ा हुआ, दूसरी ओर न जाने वाला मन परम दिव्य पुरुष का चिंतन करता हुआ उन्हें प्राप्त होता है। यहाँ अभ्यास का अर्थ बार-बार लौटना है। ध्यान की स्थिरता एक अचानक मिली उपलब्धि की तरह नहीं बताई गई। श्लोक का विषय परम पुरुष का चिंतन है; केवल किसी काम में उत्पादकता बढ़ाना उसका पूरा अर्थ नहीं है। फिर भी अपने अभ्यास में एक छोटी बात सीख सकते हैं: ध्यान भटके तो उसे पहचानकर चुने हुए विषय पर लौटाएँ। भटकने के कारण खुद को अपमानित करने की आवश्यकता नहीं है। शुरुआत में समय कम रखें, जैसे एक मिनट किसी परिचित प्रार्थना पर ध्यान देना। कठिनाई लगे तो विराम लेना या मार्गदर्शन माँगना ठीक है। यहाँ जिस एकाग्रता का वर्णन है, उसे दूसरों की देखभाल या आवश्यक काम से मुँह मोड़ने का कारण न बनाएँ। संग्रह की दी गई लिप्यंतरण पंक्ति में एक अतिरिक्त आरंभिक अंश है। उसे मूल प्रमाण के अनुसार सुरक्षित रखा गया है; व्याख्या संस्करण में दिए हुए मुख्य वाक्य पर आधारित है।",
+  "clearEnglish": "Habitual meditation provides the method described here. A mind joined to practice, not moving toward another object, contemplates the supreme divine Person and reaches that goal. The passage is devotional and theological; it is not simply an ancient prescription for efficiency or heightened performance. Its practical resonance lies in the relation between repetition and steadiness. When attention wanders during a chosen prayer or contemplation, returning to the object continues the practice rather than proving its failure. That gentle application is an inference suitable for beginners, not a claim that the verse defines clinical attention problems or sets a test everyone must pass. The direction of attention also matters: Krishna speaks of contemplating the supreme Person, not arbitrary fixation. A healthy practice can remain compatible with responding to other people and attending to bodily needs. The pinned transliteration supplied for this verse contains an extra opening fragment. It has been preserved exactly rather than silently corrected; the explanation follows the verse's main sentence as presented by the primary reading edition.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "A mind joined to habitual meditation, directed to no other object, reaches the supreme divine Person through contemplation."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Returning gently to a chosen devotional focus is a practical beginning; wandering attention is not a reason for self-shaming."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Return once",
+      "text": "For one minute, contemplate a familiar devotional name. If attention wanders, return once without criticism."
+    }
+  ],
+  "reflectionQuestion": "What helps me return to contemplation with patience?",
+  "reflectionQuestionHindi": "धैर्य से चिंतन पर लौटने में मुझे किस बात से सहायता मिलती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

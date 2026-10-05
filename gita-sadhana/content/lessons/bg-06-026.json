@@ -1,0 +1,75 @@
+{
+  "id": "bg-06-026",
+  "sequenceNumber": 259,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 26,
+  "verseEnd": 26,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "भटके मन को लौटाना, Returning a wandering mind",
+  "context": "Krishna continues the meditation instruction by addressing what happens when the mind wanders. Rather than treating distraction as a reason to give up, the verse describes noticing it, restraining it, and bringing it back toward the Self. It follows the gradual settling described in verse 25.",
+  "contextHindi": "पिछले श्लोक में मन को धीरे-धीरे शांत करने की बात थी। अब कृष्ण बताते हैं कि जब मन भटकता है, तब क्या करें: उसे पहचानें, संयमित करें और आत्मा की ओर वापस लाएँ। ध्यान में भटकाव को अभ्यास का हिस्सा मानकर यह निर्देश आगे बढ़ता है।",
+  "sanskritDevanagari": "यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् |\nततस्ततो नियम्यैतदात्मन्येव वशं नयेत् ||६-२६||",
+  "transliteration": "yato yato niścarati manaścañcalamasthiram .\ntatastato niyamyaitadātmanyeva vaśaṃ nayet ||6-26||",
+  "wordByWord": [
+    {
+      "term": "यतो यतः (yato yataḥ)",
+      "meaning": "From wherever, or whenever; the wording allows for repeated instances of wandering."
+    },
+    {
+      "term": "निश्चरति (niścarati)",
+      "meaning": "Goes out or wanders away; यहाँ मन का ध्यान से हटना।"
+    },
+    {
+      "term": "चञ्चलम्, अस्थिरम् (cañcalam, asthiram)",
+      "meaning": "Restless and unsteady."
+    },
+    {
+      "term": "नियम्य (niyamya)",
+      "meaning": "Having restrained or guided; not necessarily through harsh suppression."
+    },
+    {
+      "term": "आत्मनि एव (ātmani eva)",
+      "meaning": "In the Self alone; the verse’s spiritual destination, understood within the Gita’s framework."
+    },
+    {
+      "term": "वशं नयेत् (vaśaṃ nayet)",
+      "meaning": "One should bring under control or guide into steadiness."
+    }
+  ],
+  "spokenHindi": "कृष्ण यहाँ ध्यान की एक बहुत व्यावहारिक स्थिति को स्वीकार करते हैं: मन बार-बार इधर-उधर जा सकता है। “यतो यतो” में यही दोहराव सुनाई देता है—जहाँ-जहाँ से मन भटके, वहीं से उसे फिर सँभालना है। “नियम्य” का अर्थ संयमित करना है, और “आत्मन्येव” मन को आत्मा में टिकाने की दिशा बताता है। TEXT, यानी श्लोक का सीधा निर्देश, भटके हुए मन को बार-बार वापस लाने का है। यह नहीं कहता कि भटकाव कभी होगा ही नहीं, या ध्यान करने वाला व्यक्ति कमज़ोर है। इसलिए बार-बार लौटने को उपयोगी अभ्यास मानना INFERENCE है—एक ऐसा व्यावहारिक अर्थ जो निर्देश से मेल खाता है, लेकिन उसे शब्दशः वही दावा नहीं कहना चाहिए। आत्मा का विचार यहाँ गीता के आध्यात्मिक संदर्भ में है। आज इसे रोज़मर्रा में भी आज़माएँ: बातचीत, पढ़ाई या काम के दौरान ध्यान हटे, तो पहले पहचानें कि ऐसा हुआ है; फिर बिना शर्म या चिढ़ के अपने काम पर लौटें। लौटने का छोटा-सा क्षण भी सजग चुनाव बन सकता है।",
+  "clearEnglish": "Krishna takes distraction as something that can happen repeatedly in meditation. The phrase “from wherever” makes the instruction practical: notice where attention has gone, guide it back, and do so again when needed. “Niyamya” conveys restraint or guidance; it need not mean attacking the mind or demanding that it never wander. The destination named is the Self, understood within the Gita’s spiritual framework. The TEXT explicitly gives a repeated act of bringing the unsteady mind under control. It does not say that distraction proves a person is weak, or that a successful meditator never loses focus. Treating each return as part of the practice is a reasonable INFERENCE and application, rather than a separate literal statement of Krishna’s words. Outside meditation, the same pattern can be useful without turning every lapse in concentration into a spiritual diagnosis. In a conversation or while working, notice when attention has drifted, pause, and choose to re-engage. The aim is not perfect performance; it is a steadier response to wandering.",
+  "interpretationPerspectives": [
+    {
+      "label": "Text",
+      "explanation": "The verse directs the practitioner to bring the restless, unsteady mind back toward the Self from wherever it wanders."
+    },
+    {
+      "label": "Inference",
+      "explanation": "Seeing each return as part of practice is a reasonable application. The verse does not claim that distraction signals failure or that attention will never wander."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Notice and re-engage",
+      "text": "During one conversation or work session today, notice when your attention drifts, then gently return to listening or to the task."
+    }
+  ],
+  "reflectionQuestion": "What helps you notice that your attention has wandered and return without judging yourself?",
+  "reflectionQuestionHindi": "आपको यह पहचानने और बिना स्वयं को आँके ध्यान वापस लाने में क्या मदद करता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

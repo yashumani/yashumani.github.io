@@ -1,0 +1,75 @@
+{
+  "id": "bg-06-012",
+  "sequenceNumber": 245,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 12,
+  "verseEnd": 12,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "एकाग्रता का अभ्यास: मन, इंद्रियाँ, और आत्मा की शुद्धि | The practice of one-pointedness: calming the mind, senses, and inner self",
+  "context": "Krishna now moves from the external setup to the inner discipline of meditation. A seated posture is useful only if the mind is also gathered and the senses are not scattered by desire, restlessness, or impulsive reaction.",
+  "contextHindi": "अब कृष्ण बाहरी तैयारी से भीतर की अनुशासनात्मकता की ओर जाते हैं। आसन का उपयोग तभी सार्थक है जब मन भी एकाग्र हो और इंद्रियाँ क्षोभ, कामना या उधेड़बुन में बिखर न जाएँ।",
+  "sanskritDevanagari": "तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः |\nउपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये ||६-१२||",
+  "transliteration": "tatraikāgraṃ manaḥ kṛtvā yatacittendriyakriyaḥ .\nupaviśyāsane yuñjyādyogamātmaviśuddhaye ||6-12||",
+  "wordByWord": [
+    {
+      "term": "तत्र",
+      "meaning": "there, in that place; in the prepared seat and environment"
+    },
+    {
+      "term": "एकाग्रं",
+      "meaning": "one-pointed, gathered in one direction; not scattered"
+    },
+    {
+      "term": "मनः",
+      "meaning": "mind; the inner faculty that turns toward objects and thoughts"
+    },
+    {
+      "term": "यतचित्तेन्द्रियक्रियः",
+      "meaning": "with the mind and senses restrained and controlled"
+    },
+    {
+      "term": "उपविश्य",
+      "meaning": "having seated oneself; taking a deliberate place of attention"
+    },
+    {
+      "term": "आत्मविशुद्धये",
+      "meaning": "for the purification of the self; for inner clarity and refinement"
+    }
+  ],
+  "spokenHindi": "यह श्लोक बताता है कि ध्यान केवल बैठने से नहीं शुरू होता; उसे मन की एकाग्रता के साथ किया जाता है। ‘तत्रैकाग्रं मनः कृत्वा’ का अर्थ है—उस सही स्थान पर मन को एक बिंदु पर लाकर स्थिर करना। ‘यतचित्तेन्द्रियक्रियः’ का अर्थ है कि चित्त और इंद्रियाँ भी नियंत्रित हों, न कि हर बाहरी संकेत पर भटकें। ऐसे में व्यक्ति आसन पर बैठकर योग का अभ्यास करे—योग का अर्थ यहाँ केवल आसन नहीं, बल्कि आत्म-विशुद्धि के लिए मन की शुद्ध दिशा में लगना है। यह अभ्यास इसलिए आवश्यक है क्योंकि मन का चंचलपन अक्सर इंद्रियों की बहिर्मुखता से बढ़ता है। अगर मन को एक स्थान पर लाया जाए, तब शरीर की स्थिरता और मानसिक एकाग्रता मिलकर आत्मशुद्धि की ओर ले जाती है।",
+  "clearEnglish": "This verse gives the inner condition without which external posture is incomplete. Krishna says: “having made the mind one-pointed” and “with the mind and senses restrained,” one should sit and practise yoga for self-purification. The point is not merely to sit still, but to gather the mind away from wandering impulses. In ordinary life, attention is pulled by memory, anticipation, comparison, and sensory stimulation. Meditation reverses this tendency by directing the mind inward and calming the sense organs. That is why the verse pairs posture with regulation: the body is still, but so is the inner movement of desire and reaction. The goal is not self-attack or artificial rigidity. It is ātmaviśuddhi, purification of the self, meaning clarity, steadiness, and release from the restless pattern of grasping.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse explicitly links external stillness with inner discipline: one-pointed mind, restrained sensory activity, and meditation for self-purification. The phrase yatacittendriyakriyaḥ is significant because it distinguishes simple sitting from genuine yoga practice. Yoga here means disciplined attention, not only posture."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A practical implication is that meditation begins where mental restlessness is reduced, not where one only displays calmness. The verse suggests that purification is not magical; it is cultivated through repetition, environment, and intentional restraint. It does not say that all people need the same method, but it does teach that attention needs structure if it is to become steady and truthful."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "One-pointed attention",
+      "text": "Before a difficult task or before sleep, sit for a few minutes and gently stabilize attention on one breath, one sound, or one simple object. Notice when the mind wanders and return without self-criticism; this trains clarity rather than self-judgment."
+    }
+  ],
+  "reflectionQuestion": "When you sit quietly, which part of your mind is actually stronger: the impulse to focus, or the impulse to react and wander?",
+  "reflectionQuestionHindi": "जब आप शांत बैठे हैं, तो आपके मन का कौन-सा भाग वास्तव में मजबूत है—एकाग्र होने की प्रवृत्ति, या प्रतिक्रिया और भटकाव की प्रवृत्ति?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

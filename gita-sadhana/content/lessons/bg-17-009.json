@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-009",
+  "sequenceNumber": 604,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 9,
+  "verseEnd": 9,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "तीव्र स्वाद और परिणाम / Intense food qualities",
+  "context": "Krishna describes foods preferred by rajasic people and their traditional adverse effects.",
+  "contextHindi": "कृष्ण राजसिक लोगों को प्रिय तीव्र भोजन और उसके पारंपरिक प्रतिकूल फल बताते हैं।",
+  "sanskritDevanagari": "कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः |\nआहारा राजसस्येष्टा दुःखशोकामयप्रदाः ||१७-९||",
+  "transliteration": "kaṭvamlalavaṇātyuṣṇatīkṣṇarūkṣavidāhinaḥ .\nāhārā rājasasyeṣṭā duḥkhaśokāmayapradāḥ ||17-9||",
+  "wordByWord": [
+    {
+      "term": "kaṭu",
+      "meaning": "Bitter or pungent"
+    },
+    {
+      "term": "atyuṣṇa",
+      "meaning": "Excessively hot"
+    },
+    {
+      "term": "rūkṣa",
+      "meaning": "Dry"
+    },
+    {
+      "term": "vidāhinaḥ",
+      "meaning": "Burning or causing a burning sensation"
+    }
+  ],
+  "spokenHindi": "कृष्ण राजसिक लोगों को प्रिय भोजन में कड़वा, खट्टा, नमकीन, बहुत गरम, तीखा, रूखा और जलन पैदा करने वाले गुण बताते हैं। पाठ इनके साथ दुख, शोक और रोग के फल जोड़ता है। यह परम्परागत धार्मिक वर्णन है, किसी आधुनिक व्यक्ति की बीमारी का कारण तय करने की जांच नहीं। इसलिए एक मसाला खाने वाले को राजसिक घोषित करना या उपचार की जगह यह श्लोक रख देना उचित नहीं होगा। बहुत गरम और तीव्र गुणों का उल्लेख हमें अपनी पसंद को ध्यान से देखने का अवसर देता है। क्या हम शरीर की वास्तविक जरूरत सुनते हैं, या केवल उत्तेजक अनुभव की ओर भागते हैं? यह आधुनिक प्रश्न है, पाठ की चिकित्सा संबंधी पुष्टि नहीं। भोजन के विकल्प उपलब्धता, संस्कृति और खास स्वास्थ्य जरूरतों से भी बनते हैं। आज एक भोजन में जल्दबाजी से अलग ध्यान रखें कि आपके लिए क्या सहज और उपयुक्त है। किसी समस्या के लिए योग्य सलाह लें। अपना चुनाव समझना उपयोगी है; दूसरों की थाली देखकर उनके चरित्र का फैसला देना इस अध्ययन का लक्ष्य नहीं है।",
+  "clearEnglish": "Krishna describes foods dear to rajasic people through intense qualities: bitter or pungent, sour, salty, excessively hot, sharp, dry, and burning. He associates them with pain, grief, and disease. That is the traditional textual account and should be stated as such, without presenting it as clinical evidence for diagnosing an individual. The verse does not authorize a claim that a particular modern illness was caused by spiritual impurity, nor does it replace appropriate dietary or medical advice. A limited contemporary application can examine whether the pursuit of intensity has displaced attention to one's actual needs. Cultural habits, food access, and individual requirements also matter. Avoid turning another person's meal into a moral score. For your own practice, notice one choice calmly and consider what is suitable within your circumstances. If discomfort or a health concern needs attention, seek competent guidance. The reflective value lies in bringing discernment to preference rather than using a religious category to shame people.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna lists intense food qualities liked by rajasic people and associates them with adverse effects in the traditional account."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Attending to individual suitability is a modern application; the verse is not clinical evidence or a diagnosis."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Attend to suitability",
+      "text": "Notice one food preference and consider your actual needs without judging another person's diet."
+    }
+  ],
+  "reflectionQuestion": "Am I attending to my needs or only seeking a more intense experience?",
+  "reflectionQuestionHindi": "क्या मैं अपनी जरूरत सुन रहा हूँ या केवल अधिक तीव्र अनुभव चाहता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

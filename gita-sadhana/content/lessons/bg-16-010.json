@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-010",
+  "sequenceNumber": 581,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 10,
+  "verseEnd": 10,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "कभी न भरने वाली इच्छा / Insatiable desire",
+  "context": "Krishna describes desire, pretence, pride, delusion, and impure resolves in the demoniacal pattern.",
+  "contextHindi": "कृष्ण आसुरी दिशा में अतृप्त इच्छा, दिखावा, घमंड और अशुद्ध संकल्प का वर्णन करते हैं।",
+  "sanskritDevanagari": "काममाश्रित्य दुष्पूरं दम्भमानमदान्विताः |\nमोहाद्गृहीत्वासद्ग्राहान्प्रवर्तन्तेऽशुचिव्रताः ||१६-१०||",
+  "transliteration": "kāmamāśritya duṣpūraṃ dambhamānamadānvitāḥ .\nmohādgṛhītvāsadgrāhānpravartante.aśucivratāḥ ||16-10||",
+  "wordByWord": [
+    {
+      "term": "duṣpūram",
+      "meaning": "Difficult to satisfy; insatiable"
+    },
+    {
+      "term": "dambha",
+      "meaning": "Pretence or hypocrisy"
+    },
+    {
+      "term": "moha",
+      "meaning": "Delusion"
+    },
+    {
+      "term": "aśucivratāḥ",
+      "meaning": "Those with impure resolves or observances"
+    }
+  ],
+  "spokenHindi": "यहाँ इच्छा को दुष्पूर कहा गया है, यानी ऐसी जिसे भरना कठिन है। कृष्ण उसका साथ दिखावे, घमंड और मोह से जोड़ते हैं। जब इच्छा केवल एक जरूरत नहीं बल्कि अपनी श्रेष्ठता साबित करने का साधन बन जाए, तो पाने के बाद भी संतोष नहीं आता। फिर कोई नया प्रमाण चाहिए। भ्रम में पकड़े गए गलत विचार संकल्प को भी बिगाड़ते हैं। इसे हर साधारण चाह की निंदा न समझें। भोजन, सुरक्षा, सीखने या आराम की जरूरत रखना अपने आप में इस वर्णन के बराबर नहीं है। समस्या उस दिशा में है जहाँ इच्छा जांच से बच जाती है और दूसरों का हित पीछे छूटता है। आज जिस चीज को पाने की बेचैनी है, उससे एक ठोस प्रश्न पूछें: यह जरूरत पूरी करेगी या केवल मेरी छवि बढ़ाएगी? यदि जवाब दूसरा है, तो निर्णय थोड़ी देर रोकना उपयोगी हो सकता है। अपने साधनों और असर को देखिए। किसी खरीद या उपलब्धि को मन की पूरी शान्ति देने का काम सौंपना उसे असम्भव जिम्मेदारी देना है।",
+  "clearEnglish": "The desire described here is difficult to satisfy and accompanied by hypocrisy, pride, and intoxication with self-importance. Krishna also speaks of delusion, mistaken convictions, and impure resolves. These elements form a pattern: desire seeks support from a flattering story, and that story resists examination. The verse does not say that every need or preference is corrupt. Its object is an orientation in which craving and pretence govern conduct. A contemporary example is buying an object less for its use than for the promise that it will finally establish one's superiority. The promised completion soon moves to another object. This example is interpretive application, not Krishna's stated account of consumer life. Consider the difference between meeting a finite need and answering an indefinite demand for status. Before a purchase or commitment, name what would count as enough. If no answer seems possible, postpone the decision and examine the motive. Restraint can create room for a better judgement without condemning the wish itself.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes insatiable desire joined with pretence, pride, delusion, mistaken convictions, and impure resolves."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Distinguishing a finite need from an endless status demand applies this pattern to a modern choice."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Define enough",
+      "text": "Before one optional purchase, write the need it serves and what would count as sufficient."
+    }
+  ],
+  "reflectionQuestion": "Does this desire have a reasonable stopping point?",
+  "reflectionQuestionHindi": "क्या इस इच्छा के लिए पर्याप्त होने की कोई स्पष्ट सीमा है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "bg-06-017",
+  "sequenceNumber": 250,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 17,
+  "verseEnd": 17,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "Moderation brings steadiness, and steadiness removes suffering.",
+  "context": "Krishna has already taught that the mind must be trained and fixed in the Self. Here he gives the practical rhythm that makes meditation possible: food, effort, sleep, and wakefulness must be balanced, not driven by excess or deprivation.",
+  "contextHindi": "कृष्ण पहले ही बता चुके हैं कि मन को आत्मा में स्थिर किया जाए। यहाँ वे वही व्यवहारिक संतुलन देते हैं जो ध्यान को संभव बनाता है—भोजन, श्रम, नींद और जागरण को अति से मुक्त रखते हुए समता में रखना।",
+  "sanskritDevanagari": "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु |\nयुक्तस्वप्नावबोधस्य योगो भवति दुःखहा ||६-१७||",
+  "transliteration": "yuktāhāravihārasya yuktaceṣṭasya karmasu .\nyuktasvapnāvabodhasya yogo bhavati duḥkhahā ||6-17||",
+  "wordByWord": [
+    {
+      "term": "युक्ताहारविहारस्य",
+      "meaning": "moderate in eating and recreation; balanced nourishment and rest."
+    },
+    {
+      "term": "युक्तचेष्टस्य",
+      "meaning": "moderate in effort and activity; not overdriven by busyness."
+    },
+    {
+      "term": "युक्तस्वप्नावबोधस्य",
+      "meaning": "balanced in sleep and wakefulness; keeping the body-mind rhythm healthy."
+    },
+    {
+      "term": "योगः",
+      "meaning": "yoga; the disciplined state of inner steadiness and clarity."
+    },
+    {
+      "term": "दुःखहा",
+      "meaning": "remover of suffering; not an instant cure, but a state that weakens suffering through balance."
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण ने योग को जीवन के संतुलन से जोड़ दिया है। योग कोई खास अवस्था नहीं है, जहाँ मन की सारी हलचल अचानक रुक जाए; योग एक ऐसी जीवन-प्रणाली है, जहाँ भोजन, व्यायाम, श्रम, नींद और जागना—सबका स्तर समझदारी से तय होता है। अगर हम बहुत अधिक खाते हैं, बहुत अधिक सोते हैं, बहुत अधिक जागते हैं, या लगातार तड़पते रहते हैं, तो मन स्थिर नहीं रहता। इसलिए कृष्ण कहते हैं कि जो व्यक्ति अन्न, विहार, प्रयास और जागरण में संयम रखता है, उसके लिए योग दुखों को हटा सकता है। 'युक्त' शब्द यहाँ बहुत महत्वपूर्ण है—यानी अनुशासित, उपयुक्त, न कि अंध-आकर्षण से भरा हुआ।",
+  "clearEnglish": "This verse gives a practical definition of Yoga: it is not only a meditative state but a way of living that reduces suffering by restoring balance. Krishna is not speaking in abstractions. He is pointing to a real human rhythm: eating well without excess, resting without collapse, working without frantic overdrive, and sleeping without indulgence. When the body and mind are neither depleted nor overstimulated, attention becomes much easier to hold. The verse does not say that suffering disappears magically; it says that disciplined balance reduces the agitation that keeps the mind scattered. Yoga here is a practical discipline of moderation, and that discipline becomes the soil in which steadiness can grow.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse plainly states that yoga removes suffering for one who is moderate in eating, recreation, effort, sleep, and wakefulness. It describes a practical condition, not an esoteric status."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The verse implies that extreme habits disturb perception and concentration. A balanced rhythm is not merely physical health advice; it supports inner steadiness, which is essential for meditation and ethical clarity."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Daily rhythm",
+      "text": "For one day, keep meals, work, and sleep in a calm, regular rhythm and note how much more settled your attention becomes."
+    },
+    {
+      "label": "Notice extremes",
+      "text": "If you are either under-rested or overstimulated, reduce one extreme for a few hours and observe whether your mind feels less scattered."
+    }
+  ],
+  "reflectionQuestion": "When does my body or mind become less steady because I am too stimulated, overworked, or out of rhythm?",
+  "reflectionQuestionHindi": "कब मेरा शरीर या मन अधिक उत्तेजना, अति श्रम या असंतुलित जीवनशैली के कारण कम स्थिर हो जाता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

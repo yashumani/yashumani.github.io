@@ -1,0 +1,67 @@
+{
+  "id": "bg-15-002",
+  "sequenceNumber": 553,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 2,
+  "verseEnd": 2,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "Branches fed by qualities and desires / गुणों और विषयों से पोसी शाखाएँ",
+  "context": "Krishna expands the tree metaphor through guna-nourished branches, sense-object buds, and action-binding roots.",
+  "contextHindi": "कृष्ण वृक्ष की शाखाओं, विषयों की कोपलों और मनुष्यलोक में कर्म से जोड़ने वाली जड़ों का वर्णन करते हैं।",
+  "sanskritDevanagari": "अधश्चोर्ध्वं प्रसृतास्तस्य शाखा\nगुणप्रवृद्धा विषयप्रवालाः |\nअधश्च मूलान्यनुसन्ततानि\nकर्मानुबन्धीनि मनुष्यलोके ||१५-२||",
+  "transliteration": "adhaścordhvaṃ prasṛtāstasya śākhā guṇapravṛddhā viṣayapravālāḥ .\nadhaśca mūlānyanusantatāni karmānubandhīni manuṣyaloke ||15-2||",
+  "wordByWord": [
+    {
+      "term": "guṇapravṛddhāḥ",
+      "meaning": "grown or nourished by the gunas"
+    },
+    {
+      "term": "viṣayapravālāḥ",
+      "meaning": "having sense-objects as buds"
+    },
+    {
+      "term": "mūlāni",
+      "meaning": "roots; जड़ें"
+    },
+    {
+      "term": "karmānubandhīni",
+      "meaning": "binding or connecting through action"
+    }
+  ],
+  "spokenHindi": "कृष्ण वृक्ष की शाखाओं को नीचे और ऊपर फैलता बताते हैं। गुण उन्हें बढ़ाते हैं, इंद्रियों के विषय उनकी कोपलें हैं, और मनुष्यलोक में नीचे फैली जड़ें कर्म के बंधन से जुड़ी हैं। पिछले अध्याय के तीन गुण अब इस वृक्ष की वृद्धि में आते हैं। विषय का अर्थ केवल कोई निषिद्ध वस्तु नहीं; वह इंद्रियों के सामने आने वाला अनुभव भी है। बंधन समझने के लिए देखना होगा कि उससे कैसी चाह और फिर कैसा कर्म जुड़ता है। किसी वस्तु का विज्ञापन देखा, तुलना जागी, खरीद की योजना बनी और उसके लिए नई चिंता जुड़ गई। यह आज का उदाहरण है, श्लोक का बताया प्रसंग नहीं। हर आनंद या वस्तु को गलत कहना आवश्यक नहीं। प्रश्न यह है कि चाह और कर्म मिलकर कितनी जड़ें जमा रहे हैं। एक साधारण जरूरत पूरी करना और उसी के माध्यम से अपनी कीमत साबित करना अलग प्रेरणाएँ हैं। आज कोई छोटी चाह देखें, उसका अगला कर्म पहचानें और बिना दबाव के तय करें कि वह सच में उपयोगी है या नहीं।",
+  "clearEnglish": "The tree grows through the gunas, while sensory objects appear as its buds. Roots extend into the human world and bind through action. Krishna's metaphor connects qualities, attraction, and the continuing structure of worldly involvement. It should not be reduced to a claim that every sensory experience is forbidden. The relevant inquiry is how contact becomes attachment and attachment shapes action. A contemporary illustration is seeing an advertisement, beginning to compare oneself, planning a purchase, and adding obligations to maintain the new expectation. This illustrates a possible chain rather than a scriptural example. A needed purchase can serve a sensible purpose; the same purchase may also carry a demand to establish personal worth. Attending to that difference can make the next step freer and better informed. The verse's tree remains a cosmic image, but its interlocking parts invite reflection on the loops by which desires and actions sustain one another. Observe one loop before deciding how to participate.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The tree's branches are nourished by gunas, sense-objects are buds, and roots extend in the human world binding through action."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Tracing a contact-desire-action loop is a practical analogy and does not classify every sensory pleasure as wrong."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Trace one desire from its first trigger to the action it invites, then check the actual need."
+    }
+  ],
+  "reflectionQuestion": "Which action is putting down new roots around this desire?",
+  "reflectionQuestionHindi": "इस चाह के चारों ओर कौन सा कर्म नई जड़ें जमा रहा है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

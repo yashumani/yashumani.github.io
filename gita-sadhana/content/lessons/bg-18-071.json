@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-071",
+  "sequenceNumber": 694,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 71,
+  "verseEnd": 71,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "The value of receptive hearing / खुले मन से सुनना",
+  "context": "After praising teaching and study, Krishna speaks of a person who simply hears this dialogue with faith and without malice.",
+  "contextHindi": "समझाने और अध्ययन के बाद कृष्ण श्रद्धा और बिना द्वेष के सुनने वाले की बात करते हैं।",
+  "sanskritDevanagari": "श्रद्धावाननसूयश्च शृणुयादपि यो नरः |\nसोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम् ||१८-७१||",
+  "transliteration": "śraddhāvānanasūyaśca śṛṇuyādapi yo naraḥ .\nso.api muktaḥ śubhā.Nllokānprāpnuyātpuṇyakarmaṇām ||18-71||",
+  "wordByWord": [
+    {
+      "term": "śraddhāvān",
+      "meaning": "a person with faith or trust"
+    },
+    {
+      "term": "anasūyaḥ",
+      "meaning": "without fault finding malice"
+    },
+    {
+      "term": "śṛṇuyāt",
+      "meaning": "would hear or listen"
+    },
+    {
+      "term": "muktaḥ",
+      "meaning": "liberated or released"
+    },
+    {
+      "term": "śubhān lokān",
+      "meaning": "auspicious worlds"
+    }
+  ],
+  "spokenHindi": "कृष्ण अब केवल पढ़ाने या अध्ययन करने वाले की नहीं, सुनने वाले की भी बात करते हैं। जो व्यक्ति श्रद्धा के साथ और दोष खोजने वाली दुर्भावना के बिना इस संवाद को सुनेगा, वह भी मुक्त होकर पुण्य कर्म करने वालों के शुभ लोक प्राप्त करेगा। शृणुयात्, यानी सुनना, इस श्लोक का अपना महत्व है। सुनना कोई कमतर भागीदारी नहीं है। श्रद्धा को ऐसा अंधापन न समझें जिसमें प्रश्न पूछना मना हो। अनसूयः का भाव द्वेष से मुक्त होने का है; सावधानी से जाँच करना उससे अलग है। शुभ लोकों का कथन कृष्ण की धार्मिक प्रतिज्ञा है। हम उसे किसी जीवित व्यक्ति के भविष्य का पक्का अनुमान बनाने की स्थिति में नहीं हैं। यहाँ से एक आज का प्रयोग निकाला जा सकता है: किसी गहरी बात को सुनते समय तुरंत खंडन या सहमति की दौड़ से थोड़ा विराम लें। जो समझ आया उसे अपने शब्दों में दोहराएँ और फिर ईमानदार प्रश्न पूछें। इससे सुनना सक्रिय और सम्मानजनक होता है। यदि कोई शिक्षा नुकसान पहुँचा रही हो, तो विवेक और सुरक्षित सीमा बनाए रखना भी उचित है।",
+  "clearEnglish": "The sequence widens again. Verse 68 valued the devoted teacher; verse 70 valued the student; now Krishna includes one who hears. The listener is marked by faith and an absence of hostile fault finding. Krishna says that such a person, also liberated, will attain auspicious worlds associated with righteous deeds. This is a claim within the Gita's religious horizon; the verse does not provide a method for predicting any particular person's afterlife. Nor does the absence of malice cancel the ability to ask careful questions. Listening can be active: hold the speaker's thought accurately long enough to understand it, then examine it honestly. That is a present day inference rather than the literal meaning of the promised worlds. The verse also resists treating formal scholarship as the only worthy encounter with teaching. Someone who cannot read a long text may still listen deeply. At the same time, faith should not be used to pressure a vulnerable person into accepting harmful claims. Receptive hearing and responsible discernment can sit together.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says a faithful, nonmalicious hearer is also freed and reaches auspicious worlds of people of meritorious action."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Attentive listening can be meaningful study without requiring the listener to abandon questions or safe boundaries."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Listen and restate / सुनें और दोहराएँ",
+      "text": "In one conversation, summarize the other person's meaning before offering a question or reply."
+    }
+  ],
+  "reflectionQuestion": "Can I listen carefully before deciding whether I agree?",
+  "reflectionQuestionHindi": "क्या मैं सहमत या असहमत होने से पहले सामने वाले की बात ठीक से सुन सकता या सकती हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

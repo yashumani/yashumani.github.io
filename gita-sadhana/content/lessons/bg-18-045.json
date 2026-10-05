@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-045",
+  "sequenceNumber": 668,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 45,
+  "verseEnd": 45,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Perfection through one's own work / अपने कर्म में पूर्णता की दिशा",
+  "context": "Krishna says engagement in one's own work can lead to perfection and announces how this happens.",
+  "contextHindi": "कृष्ण अपने अपने कर्म में लगे मनुष्य की सिद्धि बताते हैं और उसकी विधि आगे सुनने को कहते हैं।",
+  "sanskritDevanagari": "स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः |\nस्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु ||१८-४५||",
+  "transliteration": "sve sve karmaṇyabhirataḥ saṃsiddhiṃ labhate naraḥ .\nsvakarmanirataḥ siddhiṃ yathā vindati tacchṛṇu ||18-45||",
+  "wordByWord": [
+    {
+      "term": "sve sve karmaṇi",
+      "meaning": "in one's own respective work"
+    },
+    {
+      "term": "abhirataḥ",
+      "meaning": "devoted or engaged"
+    },
+    {
+      "term": "saṃsiddhim",
+      "meaning": "perfection or fulfilment"
+    },
+    {
+      "term": "svakarmanirataḥ",
+      "meaning": "engaged in one's own work"
+    },
+    {
+      "term": "śṛṇu",
+      "meaning": "hear; सुनो"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि अपने अपने कर्म में लगा मनुष्य सिद्धि प्राप्त करता है। अपने कर्म में लगे हुए वह कैसे सिद्धि पाता है, इसे आगे सुनने को कहते हैं। यह पिछले भूमिका वर्णनों से आता है, इसलिए केवल किसी भी पसंद के काम से सफलता मिलती है, इतना कहना पर्याप्त नहीं। साथ ही यहाँ बाहरी प्रतिष्ठा की दौड़ को सिद्धि का अर्थ न दें। आध्यात्मिक पूर्णता और काम का संबंध खुलने वाला है। विधि अभी अगले श्लोक में आएगी; आज घोषणा को उसी सीमा में रखें। आधुनिक अनुप्रयोग में अपना जिम्मेदार, नैतिक काम गंभीरता से करना सीख सकते हैं। कोई छोटी सेवा भी ईमानदारी माँग सकती है। यह हमारे समय की दिशा है, हर नुकसानदेह संस्थागत आदेश को स्वधर्म कहने की अनुमति नहीं। अपने काम की उपयोगिता, क्षमता और दूसरों पर असर देखें। एक साधारण जरूरी काम पूरा करें और उसके उद्देश्य को याद रखें। काम को गरिमा देने का अर्थ पेशे में बंद कर देना नहीं; बदलती परिस्थिति में दायित्व की सावधान जाँच और सीखने की जगह बनी रह सकती है।",
+  "clearEnglish": "A person engaged in their own respective work attains perfection, and Krishna asks Arjuna to hear how that occurs. The statement follows the named role descriptions, so it should not be flattened into a promise that any preferred occupation guarantees success. Perfection here belongs to the spiritual inquiry, rather than merely status or income. The verse announces the method that the next verse will explain. A modern application is to take an ethical responsibility seriously even when it appears ordinary or receives little recognition. That is an inference for current life, not permission to sanctify a harmful institutional demand by calling it one's duty. Consider the work's purpose, one's actual capacity, and its effects on others. Then complete one manageable necessary task with care. Giving work dignity need not mean denying the possibility of learning or reassessing a role when circumstances change. The verse opens a relationship between responsible engagement and spiritual fulfilment; it does not settle every modern occupational decision.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Engagement in one's own respective work leads to perfection; Krishna announces that he will explain how."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Careful ethical work is a modern application, not a guarantee of worldly success or endorsement of harmful imposed tasks."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Complete one manageable necessary task carefully and state whose real need it serves."
+    }
+  ],
+  "reflectionQuestion": "What makes this task a responsibility rather than merely a demand for status?",
+  "reflectionQuestionHindi": "इस काम को जिम्मेदारी क्या बनाती है, केवल प्रतिष्ठा की माँग से अलग?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

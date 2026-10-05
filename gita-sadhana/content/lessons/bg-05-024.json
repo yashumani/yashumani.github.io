@@ -1,0 +1,75 @@
+{
+  "id": "bg-05-024",
+  "sequenceNumber": 228,
+  "date": "2026-10-05",
+  "chapter": 5,
+  "verseStart": 24,
+  "verseEnd": 24,
+  "chapterNameSanskrit": "कर्मसंन्यासयोग",
+  "chapterNameEnglish": "Karma Sannyāsa Yoga",
+  "theme": "अन्तःसुख और ब्रह्म-प्रज्ञा / Inner joy and Brahma-knowledge",
+  "context": "Krishna now gives the inner signature of the yogi: not merely endurance of impulses, but a state of inner joy, inward light, and identity with the Supreme. He makes the test personal and inward, not external and theatrical.",
+  "contextHindi": "कृष्ण अब योगी की आंतरिक पहचान देते हैं: सिर्फ़ काम-क्रोध के वेग को सहना नहीं, बल्कि भीतर आनंद, आंतरिक ज्योति और परम सत्य के साथ एकता की स्थिति। यह परीक्षा बाहरी दिखावे पर नहीं, भीतर की शुद्धता पर है।",
+  "sanskritDevanagari": "योऽन्तःसुखोऽन्तरारामस्तथान्तर्ज्योतिरेव यः |\nस योगी ब्रह्मनिर्वाणं ब्रह्मभूतोऽधिगच्छति ||५-२४||",
+  "transliteration": "yo.antaḥsukho.antarārāmastathāntarjyotireva yaḥ .\nsa yogī brahmanirvāṇaṃ brahmabhūto.adhigacchati ||5-24||",
+  "wordByWord": [
+    {
+      "term": "अन्तःसुख",
+      "meaning": "happy within; one whose joy is rooted in the Self, not in objects"
+    },
+    {
+      "term": "अन्तराराम",
+      "meaning": "delight in the inner realm; contentment found within"
+    },
+    {
+      "term": "अन्तर्ज्योति",
+      "meaning": "inner light, inward awareness, the illuminating Self"
+    },
+    {
+      "term": "ब्रह्मभूत",
+      "meaning": "become Brahman, established in the Supreme reality"
+    },
+    {
+      "term": "ब्रह्मनिर्वाण",
+      "meaning": "liberation in Brahman; freedom from the cycle of grasping and suffering"
+    }
+  ],
+  "spokenHindi": "यह श्लोक योगी की आंतरिक स्थिति बताता है। जो व्यक्ति भीतर सुख पाता है और भीतर ही आनंद से रहता है, वह बाहरी वस्तुओं पर निर्भर नहीं रहता। कृष्ण उसे ऐसा भी बताते हैं जिसकी अंतर्ज्योति—भीतर का प्रकाश—जाग्रत है। यहाँ अंतर्ज्योति का अर्थ भीतर की सद्भावना या विवेक नहीं, बल्कि आंतरिक प्रकाश है। ऐसा योगी ब्रह्मनिर्वाण प्राप्त करता है; यानी ब्रह्म में मुक्ति पाता है। श्लोक कहता है कि वह ब्रह्मभूत है, अर्थात् ब्रह्मस्वरूप हो गया है। यह केवल बौद्धिक समझ की बात नहीं, बल्कि उस अवस्था का वर्णन है। यहाँ ज़ोर भीतर के सुख, भीतर के आनंद और भीतर के प्रकाश पर है। कृष्ण बताते हैं कि ऐसी अवस्था वाला योगी ब्रह्मनिर्वाण तक पहुँचता है।",
+  "clearEnglish": "This verse presents the yogi as one who is happy within, delights within, and is illumined within. These words describe an inward source of joy and light, rather than happiness dependent on external stimulation. The verse then says that such a yogi attains Brahma-nirvana, himself becoming Brahman. “Brahma-nirvana” refers here to liberation in Brahman, and “becoming Brahman” states the verse’s meaning directly; it should not be weakened to merely becoming Brahman-like. The verse describes an attained spiritual state, not a change in outward appearance or social position. Its emphasis is on inward joy, inward delight, and inward illumination, culminating in liberation. The wording does not require adding further claims about how this state relates to ordinary life; it says that the yogi reaches Brahma-nirvana, himself becoming Brahman.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse plainly describes the accomplished yogi as one whose joy, rest, and illumination are inward. It does not present external status or social rank as the measure of spiritual maturity."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A mature inner life is not built by constant stimulation but by a quiet, steady awareness that does not depend on external rewards. This is a practical clue for daily life: more inner stillness, less compulsive chasing."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Inner anchor",
+      "text": "Before checking notifications or reacting to stressful news, pause and ask: where is my awareness right now? Return to a few breaths and the felt sense of calm before acting."
+    },
+    {
+      "label": "Quiet joy",
+      "text": "Build one daily practice of ten minutes with no external reward: sit in silence, notice what is peaceful within, and let that steadiness become the reference point for the rest of the day."
+    }
+  ],
+  "reflectionQuestion": "What in your life still makes your happiness depend on outer approval, success, or stimulation?",
+  "reflectionQuestionHindi": "आपके जीवन में क्या चीज़ अभी भी आपके सुख को बाहरी स्वीकृति, सफलता, या उत्तेजना पर निर्भर बनाती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

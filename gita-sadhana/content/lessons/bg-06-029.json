@@ -1,0 +1,71 @@
+{
+  "id": "bg-06-029",
+  "sequenceNumber": 262,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 29,
+  "verseEnd": 29,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "सर्वत्र समदर्शन: आत्मा और परमात्मा की एकता | All-seeing equanimity: the Self in all and all in the Self",
+  "context": "Krishna is describing the matured state of yoga: when the mind is steadied, the inner self is no longer seen as isolated in one body or one identity. The yogin recognizes that the same living reality is present in every being, and that every being is held within that reality.",
+  "contextHindi": "कृष्ण योगी की परिपक्व अवस्था का वर्णन कर रहे हैं: जब मन स्थिर होता है, तो आत्मा एक अकेले शरीर या एक अकेली पहचान में बंद नहीं रहती। योगी समझता है कि हर प्राणी में एक ही जीवन-सत्य मौजूद है, और हर प्राणी उसी सत्य के भीतर स्थित है।",
+  "sanskritDevanagari": "सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि |\nईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः ||६-२९||",
+  "transliteration": "sarvabhūtasthamātmānaṃ sarvabhūtāni cātmani .\nīkṣate yogayuktātmā sarvatra samadarśanaḥ ||6-29||",
+  "wordByWord": [
+    {
+      "term": "सर्वभूतस्थम्",
+      "meaning": "situated in all beings; present everywhere in living forms"
+    },
+    {
+      "term": "आत्मा",
+      "meaning": "the self, the inner core or witness; not just body-mind identity"
+    },
+    {
+      "term": "योगयुक्तात्मा",
+      "meaning": "one whose self is integrated by yoga; a mind united in steady practice"
+    },
+    {
+      "term": "समदर्शनः",
+      "meaning": "equal vision; seeing the same reality without discrimination born from ego"
+    }
+  ],
+  "spokenHindi": "योगी की दृष्टि में जगत अब बिलकुल अलग-थलग नहीं रहता। वह सब प्राणियों में आत्मा का भाव देखता है, और आत्मा को भी सब में पाता है। यह बात केवल विचार नहीं, अनुभव की स्थिति है: जब मन का उपर्युक्त झगड़ा शांत हो जाता है, तब बाहरी भेद केवल भेद नहीं रह जाते, वे एक आंतरिक एकता के भीतर दिखाई देते हैं। इसलिए किसी के प्रति घृणा, भय या भावनात्मक अलगाव का आधार भी कम होता है। यह श्लोक अपने को केंद्र में रखकर नहीं, अपने को सबके भीतर पहचानकर जीने की योग-प्रवृत्ति बताता है। तात्पर्य है कि योगी की सबसे बड़ी पहचान यही है कि वह हर जगह एक ही सत्य को देखता है। वह व्यक्ति, जाति, मित्र-शत्रु, सुख-दुःख की सीमाओं को पार कर अपने भीतर और बाहर की एकता का अनुभव करता है।",
+  "clearEnglish": "This verse describes the stable state of a yogin whose mind is no longer trapped in egoic separation. The self is not isolated in a private interior; it is seen as the same reality that dwells in all beings, and all beings are seen as expressions of that self. In practical terms, samadarśana means seeing humans and creatures without reducing them to merely useful, threatening, or favorable. The yogin does not deny differences of role, temperament, or circumstance; instead, the differences are no longer the final truth. The higher recognition is that the living presence beneath form is one. This does not mean every human error is harmless or that all actions are morally equivalent. It means the yogin’s perception is less driven by attachment, fear, and division. Ethical consequence: compassion is not sentimentality; it is a disciplined seeing of the same inner reality in another person, even when their behavior is difficult.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse states a direct experience: a yogin sees the Self in all beings and all beings in the Self. It describes a transformed perception, not a denial of external diversity."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A reasonable inference is that stable inner awareness reduces fear, hostility, and self-centered judgment. The yogin's ethical life becomes less reactive because the sense of separateness has diminished."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "आंतरिक समता",
+      "text": "किसी व्यक्ति के प्रति तीव्र प्रतिक्रिया से पहले अपने मन में 'मैं और वह अलग हैं' यह धारणा देखें। फिर एक-लínea स्मरण करें: 'सबके भीतर एक जीवन-तत्व है।'"
+    },
+    {
+      "label": "Equal vision",
+      "text": "When irritation rises, pause and name the human being behind the behavior; ask what the person may be carrying that makes their actions feel threatening or difficult."
+    }
+  ],
+  "reflectionQuestion": "When you feel threatened or irritated by another person, what part of your mind is making them feel separate from your own inner self?",
+  "reflectionQuestionHindi": "जब किसी व्यक्ति से आपको डर, घृणा या क्रोध महसूस होता है, तो आपका मन किस बात से उन्हें अपने आत्मीय जीवन से अलग मानता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

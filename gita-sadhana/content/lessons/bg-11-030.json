@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-030",
+  "sequenceNumber": 444,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 30,
+  "verseEnd": 30,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "सब ओर ग्रसता तेज / Radiance and consuming power",
+  "context": "Arjuna describes the flaming mouths devouring worlds and fierce rays filling and heating the universe.",
+  "contextHindi": "अर्जुन सभी ओर लोकों को ग्रसते मुख और पूरे जगत को तपाती उग्र किरणें देखते हैं।",
+  "sanskritDevanagari": "लेलिह्यसे ग्रसमानः समन्ताल्-\nलोकान्समग्रान्वदनैर्ज्वलद्भिः |\nतेजोभिरापूर्य जगत्समग्रं\nभासस्तवोग्राः प्रतपन्ति विष्णो ||११-३०||",
+  "transliteration": "lelihyase grasamānaḥ samantāl- lokānsamagrānvadanairjvaladbhiḥ .\ntejobhirāpūrya jagatsamagraṃ bhāsastavogrāḥ pratapanti viṣṇo ||11-30||",
+  "wordByWord": [
+    {
+      "term": "लेलिह्यसे",
+      "meaning": "you lick up"
+    },
+    {
+      "term": "ग्रसमानः",
+      "meaning": "devouring"
+    },
+    {
+      "term": "समन्तात्",
+      "meaning": "on every side"
+    },
+    {
+      "term": "उग्राः भासः",
+      "meaning": "fierce rays or radiance"
+    }
+  ],
+  "spokenHindi": "अर्जुन कृष्ण से कहते हैं कि आप ज्वलंत मुखों से सभी ओर पूरे लोकों को ग्रस रहे हैं। तेज पूरे जगत को भरता है और उग्र किरणें उसे तपाती हैं। विष्णो संबोधन अभी भी वही दिव्य संबंध रखता है, पर अनुभव में भयावहता स्पष्ट है। लेलिह्यसे निगलते हुए चाटने जैसी तीव्र क्रिया है; इसे साधारण शांत प्रकाश की छवि में बदलना पाठ को नरम कर देगा। फिर भी श्लोक के बाहर नई हिंसक बातें जोड़ना जरूरी नहीं। यह अर्जुन का दर्शन विवरण है, हमारे लिए किसी विनाश में आनंद लेने का आग्रह नहीं। जब कोई बहुत बड़ी घटना हमारी समझ से बाहर हो, तो उसकी खबर का विस्तार हमें छोटे जरूरी काम से दूर कर सकता है। हमारा उपयोग सीमित, विश्वसनीय जानकारी के साथ जिम्मेदार प्रतिक्रिया चुनना हो सकता है। वास्तविक संकट हो तो सुरक्षा और आवश्यक सहायता पहले आती है। यह आधुनिक विवेक का सुझाव है, दिव्य दृश्य की समान स्थिति नहीं। अर्जुन अब जिस शक्ति को देख रहे हैं उसके अर्थ के बारे में प्रश्न करेंगे; यहाँ हम उनके वर्णन की गंभीरता के साथ ठहरते हैं।",
+  "clearEnglish": "Arjuna describes consuming action on every side. Flaming mouths devour the worlds, and fierce radiance fills and heats the universe. The address Vishnu keeps the description within his relation to Krishna, while the action is unmistakably terrible. The verb of licking up adds force; smoothing it into a merely gentle light would alter the passage. Careful explanation can acknowledge this without adding graphic material beyond the text. The verse is a witness account, not an invitation to enjoy destruction or to imitate it. A modern application may concern attention during large, unsettling events. Expanding one's exposure to every detail is not always the same as understanding or helping. Seek reliable information, establish immediate safety where relevant, and choose a proportionate useful response. This remains an ordinary inference, not an equation of a present crisis with the cosmic form. The narrative is approaching Arjuna's question about the identity and activity of the fierce being. Here his description gives that question its urgency.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna describes flaming mouths devouring worlds and fierce radiance heating the universe."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Reliable information and proportionate care are modern responses; the account does not invite enjoyment of destruction."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Limit and respond",
+      "text": "During unsettling news, choose a reliable source and one useful response. If a real immediate threat exists, prioritize safety and appropriate assistance."
+    }
+  ],
+  "reflectionQuestion": "Is more exposure helping me understand or leaving me unable to act usefully?",
+  "reflectionQuestionHindi": "अधिक जानकारी देखना मुझे समझने में मदद करता है या उपयोगी काम करने से रोक देता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

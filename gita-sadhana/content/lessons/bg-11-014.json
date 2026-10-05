@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-014",
+  "sequenceNumber": 428,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 14,
+  "verseEnd": 14,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "आश्चर्य से प्रणाम / Wonder and reverence",
+  "context": "Sanjaya describes Arjuna's bodily response, bow and joined palms before he speaks.",
+  "contextHindi": "संजय अर्जुन के आश्चर्य, रोमांच, सिर झुकाने और हाथ जोड़कर बोलने का वर्णन करते हैं।",
+  "sanskritDevanagari": "ततः स विस्मयाविष्टो हृष्टरोमा धनञ्जयः |\nप्रणम्य शिरसा देवं कृताञ्जलिरभाषत ||११-१४||",
+  "transliteration": "tataḥ sa vismayāviṣṭo hṛṣṭaromā dhanañjayaḥ .\npraṇamya śirasā devaṃ kṛtāñjalirabhāṣata ||11-14||",
+  "wordByWord": [
+    {
+      "term": "विस्मयाविष्टः",
+      "meaning": "filled with wonder"
+    },
+    {
+      "term": "हृष्टरोमा",
+      "meaning": "with hair standing on end"
+    },
+    {
+      "term": "प्रणम्य",
+      "meaning": "having bowed"
+    },
+    {
+      "term": "कृताञ्जलिः",
+      "meaning": "with joined palms"
+    }
+  ],
+  "spokenHindi": "दर्शन के बाद अर्जुन आश्चर्य से भर जाते हैं और उनके रोम खड़े हो जाते हैं। वे सिर झुकाकर प्रणाम करते हैं और हाथ जोड़कर बोलते हैं। संजय अभी उनके शब्द नहीं, बोलने से पहले की प्रतिक्रिया बता रहे हैं। हृष्टरोमा उस अनुभव का शारीरिक संकेत है। हमें इसे साधना की सफलता मापने की अनिवार्य कसौटी नहीं बनाना चाहिए; हर व्यक्ति की शरीरगत प्रतिक्रिया अलग हो सकती है। प्रणाम और अंजलि अर्जुन की श्रद्धा के दृश्य रूप हैं। पाठ का अध्ययन करने वाले को वही मुद्रा अपनाना जरूरी है, ऐसा वाक्य यहाँ नहीं दिया गया। फिर भी प्रतिक्रिया और बोलने के बीच का विराम ध्यान देने योग्य है। आश्चर्य को तुरंत व्याख्या से ढक देने के बजाय अर्जुन पहले उसकी उपस्थिति स्वीकार करते हैं। हमारा अनुप्रयोग किसी गहरी या सुंदर बात के बाद थोड़ा रुकना हो सकता है। सहज हो तो आभार का शब्द कहें, या शांत रहें। शरीर में कोई खास अनुभूति पैदा करने की कोशिश न करें। यह छोटा विराम सुनने और जवाब देने के बीच एक खुली जगह बना सकता है।",
+  "clearEnglish": "Before Arjuna's speech, Sanjaya describes a response embodied in wonder, hair standing on end, a bowed head and joined palms. These details make the vision more than a set of propositions. They also locate the gestures in one character's experience. Hair rising is not established as a universal test of spiritual achievement, and the passage does not require every modern listener to reproduce Arjuna's posture. Different people express reverence differently. The narrative pause still has practical interest: Arjuna does not immediately reduce the event to an explanation. His response precedes the words that follow. A modest application is to allow a brief interval after encountering something meaningful, before speaking about it. The interval may include a chosen gesture of thanks or simply quiet attention. It should not involve forcing a bodily sensation. This is our analogy, distinct from the extraordinary event in the text. Sanjaya's verse prepares the transition from narrated vision to Arjuna's own account of what he sees.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Sanjaya reports Arjuna's wonder, bodily response, bow and joined palms before speaking."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A pause can express attention; bodily reactions or gestures are not made universal spiritual tests."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Pause before explaining",
+      "text": "After a meaningful passage or conversation, pause briefly before responding. Express thanks in a comfortable way without forcing a particular feeling or posture."
+    }
+  ],
+  "reflectionQuestion": "Can I let an experience matter before rushing to explain it?",
+  "reflectionQuestionHindi": "क्या मैं अनुभव को तुरंत समझाने की जल्दी से पहले उसके महत्व के साथ ठहर सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

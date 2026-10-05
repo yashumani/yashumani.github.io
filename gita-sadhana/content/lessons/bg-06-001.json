@@ -1,0 +1,83 @@
+{
+  "id": "bg-06-001",
+  "sequenceNumber": 234,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 1,
+  "verseEnd": 1,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "कर्म का फल छोड़कर करना; योग का अर्थ है मन की आसक्ति से मुक्त होना। / Do the duty, not the grasping; yoga is freedom from self-centered attachment.",
+  "context": "Krishna is clarifying the real meaning of renunciation and yoga before teaching meditation practice. He rejects the idea that yoga means abandoning all action. The point is simple: a person who acts for duty, not for reward, is the true renunciant and yogi.",
+  "contextHindi": "श्रीकृष्ण अभी ‘संन्यास’ और ‘योग’ के सही अर्थ को स्पष्ट कर रहे हैं। वे यह नहीं मानते कि योग का अर्थ है सब कर्म छोड़ देना। बात यह है कि जो व्यक्ति फल की इच्छा के बिना अपने कर्तव्य को करता है, वही असली संन्यासी और योगी है।",
+  "sanskritDevanagari": "श्रीभगवानुवाच |\nअनाश्रितः कर्मफलं कार्यं कर्म करोति यः |\nस संन्यासी च योगी च न निरग्निर्न चाक्रियः ||६-१||",
+  "transliteration": "śrībhagavānuvāca .\nanāśritaḥ karmaphalaṃ kāryaṃ karma karoti yaḥ .\nsa saṃnyāsī ca yogī ca na niragnirna cākriyaḥ ||6-1||",
+  "wordByWord": [
+    {
+      "term": "अनाश्रितः",
+      "meaning": "Not dependent on; without clinging to a result or support."
+    },
+    {
+      "term": "कर्मफलं",
+      "meaning": "The fruit of action; reward, outcome, or gain."
+    },
+    {
+      "term": "कार्यम्",
+      "meaning": "What is obligatory; the duty that must be done."
+    },
+    {
+      "term": "कर्म",
+      "meaning": "Action, duty, and practical effort in the world."
+    },
+    {
+      "term": "संन्यासी",
+      "meaning": "One who has renounced egoic grasping and attachment."
+    },
+    {
+      "term": "योगी",
+      "meaning": "One who lives in inward steadiness and disciplined union."
+    }
+  ],
+  "spokenHindi": "यह श्लोक योग की समझ को बहुत सीधे बदल देता है। श्रीकृष्ण कहते हैं कि योगी वह नहीं है जो सब काम छोड़ देता है, बल्कि वह है जो कर्म को करता है, मगर उसके फल पर अपनेपन से न चिपके। ‘अनाश्रितः कर्मफलं’ का अर्थ है—फल की आशा से अलग, बिना अपने को परिणामों में बाँधकर चलना। इसका मतलब यह नहीं कि व्यक्ति कुछ न करे। इसका अर्थ है कि कर्तव्य का पालन हो, लेकिन उसे अपने ईगो के लिए नहीं, अपने विवेक के लिए किया जाए। इसीलिए यहाँ कर्म को ‘संन्यास’ से जोड़ दिया गया है। अगर मन फल की पकड़ से मुक्त है, तो कर्म भी शुद्ध बनता है। यही योग का प्रारंभिक स्वरूप है।",
+  "clearEnglish": "This verse turns the usual idea of renunciation upside down. Krishna is not saying that a person should abandon all duty or become inactive. He says that the one who does what is required, without depending on the fruits, is a true saṃnyāsī and yogī. The key distinction is between action and attachment. Action is part of life; attachment is what binds the mind to egoic outcomes. In practical terms, a person can serve, work, care for family, and still remain a yogi if their motive is not reward, recognition, or control. The verse is not a denial of responsibility. It is a call to act with integrity, without letting results define self-worth. That is one of the clearest bridges between Karma Yoga and meditation.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse itself says that one who performs the obligatory action without depending on its fruits is a saṃnyāsī and a yogī. It does not say action is bad or that outer withdrawal is the path."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A practical inference is that ethical duty becomes spiritually transformative when performed without personal gain as the central motive. This supports a life of responsibility, not passivity."
+    },
+    {
+      "label": "COMMENTARY",
+      "explanation": "The Divine Life Society note interprets this as a praise of Karma Yoga, a stepping-stone toward meditation. That is useful context, but it does not mean every task automatically becomes yoga; the inner attitude is decisive."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Duty without drama",
+      "text": "When you complete a task, notice whether you are still mentally replaying outcomes: praise, reward, approval, or failure. Offer the work as service, then let the result be what it is."
+    },
+    {
+      "label": "Intent check",
+      "text": "Before starting work, ask: 'Am I acting from duty or from the need to win, control, or be seen?'. Let the answer soften the motive."
+    }
+  ],
+  "reflectionQuestion": "When you act, do you mainly seek the result or the integrity of the action itself?",
+  "reflectionQuestionHindi": "जब आप काम करते हैं, तो क्या आप मुख्यतः परिणाम चाहते हैं या कर्म की सच्ची निष्ठा चाहते हैं?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

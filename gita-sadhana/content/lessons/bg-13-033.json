@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-033",
+  "sequenceNumber": 522,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 33,
+  "verseEnd": 33,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Space as an image of nonattachment / निर्लिप्तता की आकाश उपमा",
+  "context": "Krishna compares the Self's untainted presence in the body with subtle, all-pervading space.",
+  "contextHindi": "कृष्ण देह में आत्मा की निर्लिप्तता को सूक्ष्म और सर्वव्याप्त आकाश की उपमा से समझाते हैं।",
+  "sanskritDevanagari": "यथा सर्वगतं सौक्ष्म्यादाकाशं नोपलिप्यते |\nसर्वत्रावस्थितो देहे तथात्मा नोपलिप्यते ||१३-३३||",
+  "transliteration": "yathā sarvagataṃ saukṣmyādākāśaṃ nopalipyate .\nsarvatrāvasthito dehe tathātmā nopalipyate ||13-33||",
+  "wordByWord": [
+    {
+      "term": "ākāśam",
+      "meaning": "space or ether in this philosophical image"
+    },
+    {
+      "term": "saukṣmyāt",
+      "meaning": "because of subtlety"
+    },
+    {
+      "term": "sarvagatam",
+      "meaning": "all-pervading"
+    },
+    {
+      "term": "nopalipyate",
+      "meaning": "is not tainted"
+    },
+    {
+      "term": "avasthitaḥ",
+      "meaning": "situated or present"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जैसे सर्वव्याप्त आकाश सूक्ष्म होने से लिप्त नहीं होता, वैसे ही देह में हर जगह स्थित आत्मा लिप्त नहीं होती। यह पिछले श्लोक के निर्लिप्त स्वरूप को एक उपमा देता है। आकाश को आधुनिक विज्ञान की किसी तकनीकी इकाई मानकर आत्मा का प्रयोगात्मक प्रमाण निकालना उचित नहीं। यहाँ सूक्ष्मता और व्यापक उपस्थिति के द्वारा संबंध समझाने की भाषा है। हम उपमा को उसकी सीमा में सुनें। अपने जीवन की छोटी तुलना में किसी विचार को आते जाते देख सकते हैं, बिना हर विचार को अपने पूरे मूल्य का निर्णय बनाए। यह अभ्यास आत्मा के निर्लिप्त स्वरूप का प्रत्यक्ष प्रमाण नहीं। कोई चिंता आए तो उसे नाम दें, उसके तथ्य देखें और जरूरत हो तो सहारा लें। चिंता को दबाना या उससे शर्मिंदा होना आवश्यक नहीं। साथ ही गलत कर्म के असर को ‘मैं लिप्त नहीं’ कहकर अनदेखा न करें। निर्लिप्तता का अध्ययन जिम्मेदार व्यवहार के साथ चल सकता है। उपमा हमें अनुभव और पहचान के संबंध पर अधिक धैर्य से प्रश्न रखने की जगह देती है।",
+  "clearEnglish": "As all-pervading space is not tainted because of its subtlety, so the Self present throughout the body is not tainted. Krishna uses a comparison to illuminate the claim made in the preceding verse. Akasha belongs to this philosophical image; it should not be replaced with a modern physical theory and then offered as experimental proof of the Self. An analogy clarifies a relationship without establishing every aspect of the thing compared. A limited contemporary exercise is to notice a passing thought without making it a verdict on one's whole worth. This does not demonstrate the metaphysical untaintedness described here. It can help distinguish an experience from the additional identification built around it. If the thought concerns a real problem, examine the facts and obtain support where appropriate. Harmful actions still require acknowledgment and repair. Study of nonattachment can coexist with that responsibility, while the space image invites patient reflection on how presence need not be equated with every passing condition.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The Self's untainted presence in the body is compared to all-pervading space untainted through subtlety."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Observing a thought without total identification is a limited exercise; the analogy is neither physical proof nor exemption from repair."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Name one passing thought, check whether it points to a real need, and avoid treating it as your complete identity."
+    }
+  ],
+  "reflectionQuestion": "What have I added to this thought by making it a verdict on myself?",
+  "reflectionQuestionHindi": "इस विचार को अपने ऊपर फैसला बनाकर मैंने उसमें क्या जोड़ दिया है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

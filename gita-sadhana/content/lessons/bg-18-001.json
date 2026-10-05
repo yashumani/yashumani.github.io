@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-001",
+  "sequenceNumber": 624,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 1,
+  "verseEnd": 1,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "संन्यास और त्याग का प्रश्न / A question about renunciation",
+  "context": "Arjuna opens the final discourse by asking Krishna to explain the essence of sannyasa and tyaga separately.",
+  "contextHindi": "अर्जुन अंतिम अध्याय की शुरुआत कृष्ण से संन्यास और त्याग का तत्व अलग अलग समझने की इच्छा से करते हैं।",
+  "sanskritDevanagari": "अर्जुन उवाच |\nसंन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् |\nत्यागस्य च हृषीकेश पृथक्केशिनिषूदन ||१८-१||",
+  "transliteration": "arjuna uvāca .\nsaṃnyāsasya mahābāho tattvamicchāmi veditum .\ntyāgasya ca hṛṣīkeśa pṛthakkeśiniṣūdana ||18-1||",
+  "wordByWord": [
+    {
+      "term": "saṃnyāsasya",
+      "meaning": "Of renunciation, sannyasa"
+    },
+    {
+      "term": "tyāgasya",
+      "meaning": "Of abandonment, tyaga"
+    },
+    {
+      "term": "tattvam",
+      "meaning": "Essence or truth"
+    },
+    {
+      "term": "pṛthak",
+      "meaning": "Separately"
+    }
+  ],
+  "spokenHindi": "अर्जुन पूछते हैं कि वे संन्यास और त्याग का तत्व अलग अलग जानना चाहते हैं। यह प्रश्न अंतिम अध्याय की दिशा खोलता है। अब तक कर्म, ज्ञान, भक्ति और आसक्ति की बातें आई हैं। सुनने वाले के लिए यह उलझन स्वाभाविक है कि छोड़ना आखिर किस चीज को कहते हैं। क्या काम छोड़ना है, इच्छा छोड़नी है, या फल की पकड़ छोड़नी है? इस श्लोक में अर्जुन इनका उत्तर नहीं देते; वे साफ समझ मांगते हैं। अलग अलग शब्दों का अर्थ अलग करके पूछना अध्ययन का अच्छा तरीका है। कभी हम किसी सम्मानित शब्द का उपयोग करते रहते हैं लेकिन उसके साथ अपना मन का अर्थ जोड़ देते हैं। आधुनिक अभ्यास में एक महत्वपूर्ण शब्द चुनें जिसका असर आपके निर्णय पर पड़ता है, जैसे जिम्मेदारी या स्वतंत्रता। पूछें कि उससे आप किस वास्तविक व्यवहार की बात कर रहे हैं। यह उदाहरण श्लोक का नया सिद्धांत नहीं है। अर्जुन की जिज्ञासा हमें बताती है कि गंभीर श्रद्धा के साथ भी स्पष्ट प्रश्न उठाए जा सकते हैं। समझ मांगना संवाद का हिस्सा है।",
+  "clearEnglish": "Arjuna begins the final chapter by asking to know the essence of sannyasa and tyaga separately. His request concerns a distinction, not a declaration that all activity should cease. Across the preceding dialogue, action and relinquishment have appeared together often enough to raise a practical question: what exactly is being relinquished? This verse leaves that question open for Krishna's reply. Preserving Arjuna's role matters because his request should not be presented as the answer. It also models careful use of important terms. Two respected words may sound similar while carrying different implications for conduct. A contemporary application can take one word used to justify a decision and ask what observable action it actually denotes. Responsibility, freedom, and sacrifice can each become vague when no distinction is made. That exercise is an analogy, not a definition of the Sanskrit terms. Approach the next teaching with a precise question rather than assuming that familiarity with a word already amounts to understanding its essence.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna asks Krishna to explain the essence of sannyasa and tyaga separately."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Clarifying an important term before using it in a decision applies Arjuna's method of questioning."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Define before deciding",
+      "text": "Choose one important word in a current decision and specify what action you mean by it."
+    }
+  ],
+  "reflectionQuestion": "Which distinction would make my understanding of relinquishment clearer?",
+  "reflectionQuestionHindi": "छोड़ने का अर्थ समझने में कौन सा फर्क मेरे लिए स्पष्ट होना जरूरी है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

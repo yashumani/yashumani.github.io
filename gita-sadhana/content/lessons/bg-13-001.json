@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-001",
+  "sequenceNumber": 490,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 1,
+  "verseEnd": 1,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Arjuna asks what must be understood / अर्जुन समझने का विषय पूछते हैं",
+  "context": "Arjuna opens the 35-verse Chapter 13 by asking Krishna about six related philosophical terms.",
+  "contextHindi": "इस 35 श्लोक वाले क्रम में अर्जुन का प्रश्न पहला श्लोक है; वे कृष्ण से प्रकृति, पुरुष, क्षेत्र, क्षेत्रज्ञ, ज्ञान और ज्ञेय पूछते हैं।",
+  "sanskritDevanagari": "अर्जुन उवाच |\nप्रकृतिं पुरुषं चैव क्षेत्रं क्षेत्रज्ञमेव च |\nएतद्वेदितुमिच्छामि ज्ञानं ज्ञेयं च केशव ||१३-१||",
+  "transliteration": "arjuna uvāca .\nprakṛtiṃ puruṣaṃ caiva kṣetraṃ kṣetrajñameva ca .\netadveditumicchāmi jñānaṃ jñeyaṃ ca keśava ||13-1||",
+  "wordByWord": [
+    {
+      "term": "prakṛtim",
+      "meaning": "Nature or matter; प्रकृति"
+    },
+    {
+      "term": "puruṣam",
+      "meaning": "Spirit or conscious principle; पुरुष"
+    },
+    {
+      "term": "kṣetram",
+      "meaning": "field; क्षेत्र"
+    },
+    {
+      "term": "kṣetrajñam",
+      "meaning": "knower of the field"
+    },
+    {
+      "term": "jñeyam",
+      "meaning": "that which is to be known"
+    }
+  ],
+  "spokenHindi": "यहाँ अर्जुन बोल रहे हैं। वे केशव से प्रकृति और पुरुष, क्षेत्र और क्षेत्रज्ञ, ज्ञान और ज्ञेय को जानने की इच्छा रखते हैं। छह शब्द तीन संबंधित जोड़ों में आते हैं। बाहर दिखाई देने वाली बात क्या है, उसे जानने वाला कौन है, और जानने का लक्ष्य क्या है? ये शुरुआती प्रश्न अध्याय की दिशा खोलते हैं, उनका अंतिम उत्तर अभी नहीं देते। इसलिए अर्जुन की जिज्ञासा को कृष्ण की घोषणा की तरह न सुनें। इस संस्करण में यही पहला श्लोक है; आगे का क्रम उसी आधार पर चलता है। हमारे अध्ययन में भी कोई बड़ा शब्द सुनकर तुरंत परिचित अर्थ चिपका देना समझ रोक सकता है। क्षेत्र को केवल खेती का खेत और पुरुष को केवल पुरुष लिंग का व्यक्ति मान लेने से यहाँ का दार्शनिक प्रश्न खो जाएगा। आज कोई एक शब्द चुनें और लिखें कि उसका अर्थ अभी कैसे समझते हैं। फिर पाठ में मिलने वाले उत्तर से उस समझ को जाँचें। प्रश्न पूछना श्रद्धा का विरोध नहीं; वह ध्यान देकर सीखने की जगह बना सकता है।",
+  "clearEnglish": "Arjuna is the speaker, asking to understand Nature and Spirit, the field and its knower, knowledge and what should be known. The three pairs organize an inquiry rather than provide its conclusion. They distinguish the experienced domain, the one who knows it, and the purpose and character of knowing. In the supplied 35-verse numbering, this question is the opening verse and Krishna's reply begins next. Keeping that sequence matters for both attribution and interpretation. Familiar everyday meanings can also mislead: field need not mean only farmland, and purusha here is not simply a male human being. The dialogue will develop these philosophical uses. A helpful study practice is to record one's provisional understanding before hearing the answer, then revise it in light of the text. This is a contemporary application of Arjuna's inquiry, not an additional teaching stated by him. Respectful questioning can make reverence more attentive by preventing a known word from being mistaken for a known meaning.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna asks about Nature, Spirit, field, knower, knowledge, and the knowable; this verse is a question, not Krishna's answer."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Recording a provisional definition and revising it through study applies the questioning stance."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Write a provisional meaning for one of Arjuna's six terms and mark it as a question for the chapter."
+    }
+  ],
+  "reflectionQuestion": "Which familiar term might I be understanding too quickly?",
+  "reflectionQuestionHindi": "किस परिचित शब्द का अर्थ मैं बहुत जल्दी तय कर लेता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

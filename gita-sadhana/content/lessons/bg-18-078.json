@@ -1,0 +1,75 @@
+{
+  "id": "bg-18-078",
+  "sequenceNumber": 701,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 78,
+  "verseEnd": 78,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Sanjaya's closing conviction / संजय का अंतिम विश्वास",
+  "context": "Sanjaya closes his report to Dhritarashtra with his conviction about Krishna and Arjuna together.",
+  "contextHindi": "संजय धृतराष्ट्र को अपना अंतिम मत बताता है: जहाँ कृष्ण और धनुर्धर अर्जुन साथ हैं, वहाँ शुभ फल हैं।",
+  "sanskritDevanagari": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः |\nतत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ||१८-७८||",
+  "transliteration": "yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanurdharaḥ .\ntatra śrīrvijayo bhūtirdhruvā nītirmatirmama ||18-78||",
+  "wordByWord": [
+    {
+      "term": "yogeśvaraḥ kṛṣṇaḥ",
+      "meaning": "Krishna, Lord of Yoga"
+    },
+    {
+      "term": "pārthaḥ dhanurdharaḥ",
+      "meaning": "Arjuna, bearer of the bow"
+    },
+    {
+      "term": "śrīḥ",
+      "meaning": "fortune, splendor, or prosperity"
+    },
+    {
+      "term": "vijayaḥ",
+      "meaning": "victory"
+    },
+    {
+      "term": "dhruvā nītiḥ",
+      "meaning": "firm policy or right guidance"
+    },
+    {
+      "term": "matiḥ mama",
+      "meaning": "this is my conviction"
+    }
+  ],
+  "spokenHindi": "गीता की आखिरी पंक्ति कृष्ण नहीं, संजय बोलता है। वह कहता है: जहाँ योगेश्वर कृष्ण हैं और जहाँ धनुष धारण किए पार्थ अर्जुन हैं, वहाँ श्री, विजय, भूति और स्थिर नीति है; यह मेरा मत है। श्री और भूति समृद्धि तथा कल्याण के रंग लाते हैं; विजय सफलता का शब्द है, और नीति सही दिशा या व्यवस्था की ओर संकेत करती है। दोनों व्यक्तियों का साथ इस वाक्य की धुरी है। केवल दिव्य उपदेश का नाम नहीं, अर्जुन की तैयार कार्रवाई भी मौजूद है। फिर भी संजय का मत हर आधुनिक संघर्ष में किसी पक्ष की जीत की गारंटी नहीं देता। इसे हिंसा या अपनी योजना को धर्म कहकर उचित ठहराने के लिए इस्तेमाल करना खतरनाक होगा। पाठ स्वयं मतिर् मम, मेरा मत, कहता है। हम इससे यह सावधान अनुमान निकाल सकते हैं कि समझ और जिम्मेदार कर्म साथ होने चाहिए। आज किसी निर्णय में पहले सचाई, दूसरों पर असर और अपने कर्तव्य की जाँच करें; सफलता की इच्छा अकेली कसौटी न बने। श्लोक के अंतिम शब्दों में संजय का दृढ़ विश्वास है, और हमारा काम उसे उसके प्रसंग में सुनना है।",
+  "clearEnglish": "The Gita ends with Sanjaya's conviction, not another speech by Krishna. Where Krishna, Lord of Yoga, and Arjuna, the bow bearer, are together, Sanjaya expects splendor, victory, flourishing, and firm policy. The closing 'this is my view' identifies the judgment as his. The pairing matters: Krishna's guidance and Arjuna's capacity to act have converged after a long dialogue in which Arjuna wrestled with his duty. Yet the sentence cannot simply be lifted as a guarantee that any group invoking Krishna will win, or that victory itself proves moral rightness. Those would be claims beyond Sanjaya's specific narrative setting. A responsible inference for ordinary life is to bring reflection and accountable action together, while testing both against their effect on others. The verse names prosperity and victory as expected outcomes in this story; it does not teach a formula that makes harm acceptable in pursuit of success. Ending with Sanjaya's own stated conviction leaves us with a witness's confident conclusion and the whole conversation still open for careful study.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Sanjaya states his conviction that where Krishna and armed Arjuna are together, there are splendor, victory, flourishing, and firm policy."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Joining clear guidance with accountable action is a possible application; the verse is no universal guarantee of victory or license for harm."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Guidance and action / दिशा और कर्म",
+      "text": "For one decision, write the guiding value, the action you may take, and who could be affected before proceeding."
+    }
+  ],
+  "reflectionQuestion": "What would responsible action look like when joined with my clearest understanding?",
+  "reflectionQuestionHindi": "मेरी सबसे साफ समझ के साथ जुड़ा जिम्मेदार कदम कैसा होगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

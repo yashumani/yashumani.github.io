@@ -1,0 +1,71 @@
+{
+  "id": "bg-09-030",
+  "sequenceNumber": 368,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 30,
+  "verseEnd": 30,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "दुराचार और सही संकल्प की दिशा | Grave misconduct and right resolve",
+  "context": "Krishna gives a challenging assurance concerning even a person of very bad conduct who worships him with undivided devotion.",
+  "contextHindi": "कृष्ण अत्यंत दुराचारी व्यक्ति के अनन्य भक्ति से अपनी उपासना करने पर एक कठिन आश्वासन देते हैं।",
+  "sanskritDevanagari": "अपि चेत्सुदुराचारो भजते मामनन्यभाक् |\nसाधुरेव स मन्तव्यः सम्यग्व्यवसितो हि सः ||९-३०||",
+  "transliteration": "api cetsudurācāro bhajate māmananyabhāk .\nsādhureva sa mantavyaḥ samyagvyavasito hi saḥ ||9-30||",
+  "wordByWord": [
+    {
+      "term": "सुदुराचारः",
+      "meaning": "One of very bad conduct; the supplied edition says the most sinful."
+    },
+    {
+      "term": "अनन्यभाक्",
+      "meaning": "Devoted to no other."
+    },
+    {
+      "term": "साधुः",
+      "meaning": "Righteous or good."
+    },
+    {
+      "term": "मन्तव्यः",
+      "meaning": "Should be regarded."
+    },
+    {
+      "term": "सम्यग्व्यवसितः",
+      "meaning": "Rightly resolved."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि अत्यंत दुराचारी भी अगर अनन्य होकर उन्हें भजता है, तो उसे साधु ही मानना चाहिए, क्योंकि उसका संकल्प सही दिशा में है। यह बहुत मजबूत आश्वासन है। इसे केवल पहले से अच्छा व्यक्ति अच्छा है कहकर हल्का नहीं कर सकते। फिर भी श्लोक गलत कर्म को सही कर्म नहीं कहता। वर्णन व्यक्ति की भक्ति और सही संकल्प की दिशा का है। जिन लोगों को उसके कर्मों से चोट पहुँची है, उन्हें अपनी सुरक्षा और जवाबदेही छोड़ने का आदेश यहाँ नहीं दिया गया। यह हमारे आधुनिक अनुप्रयोग की आवश्यक सावधानी है। परिवर्तन के लिए आशा रखना और नुकसान की ज़िम्मेदारी लेना साथ हो सकते हैं। केवल धार्मिक घोषणा करके परिणाम से बचना उचित निष्कर्ष नहीं। अपने जीवन में किसी गलती के बाद पूर्ण निराश होने के बजाय सुधार का वास्तविक कदम चुन सकते हैं। किसी को क्षमा या निकटता के लिए दबाव देना भी ठीक नहीं। आज किसी छोटे गलत काम की जिम्मेदारी लें और उचित सुधार सोचें। यह अभ्यास कृष्ण की अनन्य भक्ति वाले मूल कथन का नैतिक विस्तार है, उसका स्थानापन्न नहीं।",
+  "clearEnglish": "The verse's claim is deliberately strong: even a person of very bad conduct who worships Krishna with devotion to no other should be regarded as righteous, because the resolve is right. It should not be diluted into a statement about someone who was already morally exemplary. Yet the words also do not declare harmful acts harmless or cancel the experience of people injured by them. The focus is the person's undivided devotion and rightly directed resolve. In present application, hope for transformation can coexist with accountability, repair, and protective boundaries. A religious declaration alone should not become a way to evade consequences or pressure others into trust. These safeguards are ethical inferences, not extra conditions silently added to the Sanskrit promise. A reader who has made a mistake may take encouragement to turn seriously toward a better direction rather than treat the mistake as a permanent identity. The practical evidence of that turn includes taking responsibility where possible. The theological assurance remains about devotion to Krishna, while our response must not excuse ongoing harm.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Even one of very bad conduct who worships Krishna with undivided devotion should be regarded as righteous because the resolve is right."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Hope for change can coexist with accountability and boundaries; the statement does not label harmful actions good or compel victims to trust."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "A real step of repair",
+      "text": "For one mistake, acknowledge responsibility and choose an appropriate repair without demanding forgiveness."
+    }
+  ],
+  "reflectionQuestion": "What concrete repair would express a better direction today?",
+  "reflectionQuestionHindi": "आज कौन-सा वास्तविक सुधार मेरे बेहतर संकल्प की दिशा दिखा सकता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-070",
+  "sequenceNumber": 693,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 70,
+  "verseEnd": 70,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Study as an offering of knowledge / अध्ययन ज्ञान की आहुति",
+  "context": "Krishna shifts from teaching others to studying this dialogue between himself and Arjuna.",
+  "contextHindi": "दूसरों को समझाने के बाद कृष्ण अर्जुन के साथ हुए इस संवाद के अध्ययन की ओर आते हैं।",
+  "sanskritDevanagari": "अध्येष्यते च य इमं धर्म्यं संवादमावयोः |\nज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः ||१८-७०||",
+  "transliteration": "adhyeṣyate ca ya imaṃ dharmyaṃ saṃvādamāvayoḥ .\njñānayajñena tenāhamiṣṭaḥ syāmiti me matiḥ ||18-70||",
+  "wordByWord": [
+    {
+      "term": "adhyeṣyate",
+      "meaning": "will study"
+    },
+    {
+      "term": "dharmyaṃ saṃvādam",
+      "meaning": "this dialogue concerned with dharma"
+    },
+    {
+      "term": "āvayoḥ",
+      "meaning": "of the two of us, Krishna and Arjuna"
+    },
+    {
+      "term": "jñānayajñena",
+      "meaning": "by a sacrifice or offering of knowledge"
+    },
+    {
+      "term": "me matiḥ",
+      "meaning": "this is my view or conviction"
+    }
+  ],
+  "spokenHindi": "कृष्ण अब कहते हैं कि जो हमारे इस धर्म से जुड़े संवाद का अध्ययन करेगा, वह ज्ञानयज्ञ के द्वारा मेरी पूजा करेगा; यह मेरी मति है। यहाँ आवयोः, यानी हम दोनों, याद दिलाता है कि गीता केवल एक लंबा आदेश नहीं, कृष्ण और अर्जुन के बीच का संवाद भी है। अर्जुन ने पूछा, सुना, संदेह किया और फिर उत्तर दिया। अध्येष्यते का अर्थ ध्यान से पढ़ना या अध्ययन करना है। ज्ञानयज्ञ में ज्ञान की खोज को आहुति जैसा महत्व मिलता है; इसे हर पाठक के लिए कोई औपचारिक यज्ञ करने की अनिवार्यता न मानें। कृष्ण स्वयं इसे अपना मत कहते हैं। इस श्लोक से हमें यह संभावना दिखती है कि प्रश्नों के साथ ईमानदार अध्ययन भी भक्ति का एक रूप हो सकता है। यह आज का अनुप्रयोग है। एक कठिन पंक्ति पर रुकें, दोनों वक्ताओं की बात पहचानें, फिर एक विश्वसनीय स्रोत से उसका संदर्भ जाँचें। जल्दी सहमत हो जाना और सचमुच समझना अलग बातें हैं। धीरे पढ़ने में सम्मान और स्वतंत्र विवेक साथ रह सकते हैं।",
+  "clearEnglish": "Krishna says that a person who studies this dharmic dialogue of the two of them worships him through a knowledge sacrifice. He closes with 'this is my view.' The two voices are important. The Gita is framed by Arjuna's trouble and questions as well as Krishna's replies, so study can attend to the movement of a conversation rather than collect isolated slogans. Jñāna yajña evokes an offering through knowledge; the verse does not specify that every student must perform a separate physical rite. The word adhyeṣyate suggests engaged study, not mere possession of a book. A useful inference is to treat careful reading, checking context, and admitting unresolved questions as forms of respect for the dialogue. This does not make every interpretation equally strong; source wording and speaker identity still matter. One can read a passage aloud, write down what the text actually says, and then distinguish one's application from it. Krishna's claim honors the work of learning itself, not only the act of teaching others.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says studying the dharmic dialogue between him and Arjuna worships him by a knowledge sacrifice; he identifies this as his view."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Slow contextual study with honest questions is a fitting contemporary practice, though the verse does not prescribe a reading method."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Study a dialogue / संवाद पढ़ें",
+      "text": "Read one short exchange, identify who speaks, and write one sentence separating its words from your own inference."
+    }
+  ],
+  "reflectionQuestion": "Which question from Arjuna changes how I hear Krishna's answer?",
+  "reflectionQuestionHindi": "अर्जुन का कौन सा प्रश्न कृष्ण का उत्तर सुनने का मेरा ढंग बदलता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

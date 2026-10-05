@@ -1,0 +1,71 @@
+{
+  "id": "bg-09-031",
+  "sequenceNumber": 369,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 31,
+  "verseEnd": 31,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "धर्मात्मा होने और शांति का आश्वासन | Righteousness and lasting peace",
+  "context": "Krishna continues the assurance concerning the person of very bad conduct whose devotion and resolve turn toward him.",
+  "contextHindi": "अनन्य भक्ति और सही संकल्प वाले दुराचारी के प्रसंग में कृष्ण अपना आश्वासन आगे बढ़ाते हैं।",
+  "sanskritDevanagari": "क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति |\nकौन्तेय प्रतिजानीहि न मे भक्तः प्रणश्यति ||९-३१||",
+  "transliteration": "kṣipraṃ bhavati dharmātmā śaśvacchāntiṃ nigacchati .\nkaunteya pratijānīhi na me bhaktaḥ praṇaśyati ||9-31||",
+  "wordByWord": [
+    {
+      "term": "क्षिप्रम्",
+      "meaning": "Soon or quickly."
+    },
+    {
+      "term": "धर्मात्मा",
+      "meaning": "Righteous or of a righteous disposition."
+    },
+    {
+      "term": "शश्वत् शान्तिम्",
+      "meaning": "Lasting or eternal peace."
+    },
+    {
+      "term": "प्रतिजानीहि",
+      "meaning": "Declare or know for certain, in the supplied rendering."
+    },
+    {
+      "term": "न मे भक्तः प्रणश्यति",
+      "meaning": "My devotee is not destroyed."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि वह शीघ्र धर्मात्मा होता है और स्थायी शांति प्राप्त करता है। फिर अर्जुन से अपना आश्वासन घोषित करने को कहते हैं कि उनका भक्त नष्ट नहीं होता। पिछली बात में अत्यंत दुराचारी व्यक्ति की अनन्य भक्ति और सही संकल्प थे। यहाँ परिवर्तन की दिशा और शांति का फल सामने आता है। शीघ्र शब्द आश्वासन को बल देता है, लेकिन कोई दिन या घंटे की माप नहीं देता। यह कथन भक्त के आध्यात्मिक संबंध का है। इसे जीवन में कभी बीमारी, दुख या नुकसान न होने का सामान्य दावा बनाना ठीक नहीं। ऐसे अनुभव आने पर किसी को कम भक्त कहना भी अनुचित होगा। अपने अभ्यास में गलती के बाद सुधार की आशा रख सकते हैं। पहले ज़िम्मेदारी स्वीकारें, फिर उचित सहायता या बदलाव का छोटा कदम लें। शांति को दूसरों की शिकायत चुप कराने का साधन न बनाएँ। जिन पर चोट का प्रभाव है, उनके अनुभव का सम्मान बना रहना चाहिए। यह हमारी नैतिक सावधानी है। मूल श्लोक कृष्ण का दृढ़ आश्वासन देता है, जिसे करुणा और जिम्मेदारी के साथ सुन सकते हैं।",
+  "clearEnglish": "The assurance continues the preceding description of a grave wrongdoer whose devotion is undivided and resolve rightly directed. Krishna says that person soon becomes righteous and reaches lasting peace, then asks Arjuna to affirm that his devotee is never destroyed. The word soon conveys confidence, not a quantified timetable for moral repair. The promise is strong and should not be reduced to a pleasant sentiment, but neither does the verse say devotees never become ill, grieve, or suffer material loss. Those experiences are not reliable measures of spiritual failure. A contemporary application can support hope after wrongdoing while preserving responsibility to those affected. Turning toward a better direction may involve acknowledgment, restitution where appropriate, and help with changing conduct. Lasting peace should not be invoked to silence another person's complaint or demand immediate trust. These are safeguards in applying the assurance, not replacements for its theological meaning. The textual movement is from right resolve to righteousness and peace, with Krishna's emphatic pledge giving the passage its devotional force.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The devotee described soon becomes righteous and reaches lasting peace; Krishna tells Arjuna to affirm that his devotee is not destroyed."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Hope for reform can accompany real accountability; the assurance is not a universal promise of immunity from illness, grief, or loss."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Hope with repair",
+      "text": "After one mistake, name a responsible next step and one source of support for taking it."
+    }
+  ],
+  "reflectionQuestion": "What responsible step can I take while allowing hope for change?",
+  "reflectionQuestionHindi": "बदलाव की आशा रखते हुए मैं कौन-सा जिम्मेदार कदम उठा सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

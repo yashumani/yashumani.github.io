@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-033",
+  "sequenceNumber": 447,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 33,
+  "verseEnd": 33,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "विशिष्ट युद्ध में निमित्त / An instrument in this battlefield",
+  "context": "Krishna tells Arjuna to rise and fight, describing the warriors as already slain by him and Arjuna as an instrument.",
+  "contextHindi": "कृष्ण इसी युद्ध में अर्जुन को उठने को कहते हैं और उन्हें अपने कार्य का निमित्त बताते हैं।",
+  "sanskritDevanagari": "तस्मात्त्वमुत्तिष्ठ यशो लभस्व\nजित्वा शत्रून् भुङ्क्ष्व राज्यं समृद्धम् |\nमयैवैते निहताः पूर्वमेव\nनिमित्तमात्रं भव सव्यसाचिन् ||११-३३||",
+  "transliteration": "tasmāttvamuttiṣṭha yaśo labhasva jitvā śatrūn bhuṅkṣva rājyaṃ samṛddham .\nmayaivaite nihatāḥ pūrvameva nimittamātraṃ bhava savyasācin ||11-33||",
+  "wordByWord": [
+    {
+      "term": "उत्तिष्ठ",
+      "meaning": "rise"
+    },
+    {
+      "term": "निहताः पूर्वम् एव",
+      "meaning": "already slain before"
+    },
+    {
+      "term": "निमित्तमात्रम्",
+      "meaning": "a mere instrument or occasion"
+    },
+    {
+      "term": "सव्यसाचिन्",
+      "meaning": "Arjuna, skilled with both hands"
+    }
+  ],
+  "spokenHindi": "कृष्ण अर्जुन से उठने, यश पाने, शत्रुओं को जीतने और समृद्ध राज्य का भोग करने को कहते हैं। वे कहते हैं कि ये योद्धा पहले ही उनके द्वारा मारे गए हैं, और अर्जुन केवल निमित्त बनें। सव्यसाचिन् अर्जुन की दोनों हाथों से कुशलता का संबोधन है। श्लोक का कथन कठोर और युद्धविशिष्ट है। उसे केवल अपनी नौकरी अच्छी तरह करो में बदल देना पूरा अर्थ नहीं देगा। लेकिन इसी कारण इसे आज की निजी लड़ाई या बदले की योजना पर सीधे लागू करना भी गलत होगा। निमित्त का विचार इस दिव्य दृष्टि में अर्जुन की भूमिका से जुड़ा है, हर व्यक्ति के हर निर्णय को जिम्मेदारी से मुक्त नहीं करता। हमारा सीमित आधुनिक उपयोग किसी उपयोगी काम में योगदान देते हुए पूरे परिणाम का अकेला मालिक न बनने का है। ऐसे काम अहिंसक और जिम्मेदार हों। टीम में अपना हिस्सा निभाएं, दूसरों का सहयोग स्वीकारें और गलती हो तो जवाबदेही रखें। ईश्वर का औजार होने का दावा करके नुकसान को उचित ठहराना इस अनुप्रयोग में स्वीकार्य नहीं।",
+  "clearEnglish": "Krishna gives Arjuna a direct battlefield instruction: rise, gain fame, conquer enemies and enjoy the prosperous kingdom. He then states that the warriors have already been slain by him and asks Arjuna to be a mere instrument. Savyasachin addresses Arjuna through his martial skill with both hands. The severity and specificity should remain visible; reducing the verse to a general work ethic would conceal its actual setting. Equally, it cannot responsibly authorize a modern reader's private violence or revenge. Nimittamatra concerns Arjuna's role within this revealed divine action, not a universal exemption from accountability. A limited contemporary application is humility in a constructive shared task. Contribute without claiming to be the sole cause of success, while remaining answerable for the means used and any mistake made. That application must be nonviolent and ethically examined. Calling oneself an instrument of a higher power does not make harm permissible. The verse belongs to the extraordinary battlefield dialogue, and our ordinary analogy should keep that distance clear.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna directs Arjuna to fight and says he is an instrument of the already declared divine destruction."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Humility in constructive shared work is a limited nonviolent analogy; instrument language does not cancel accountability."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Contribute with accountability",
+      "text": "In one constructive shared task, do your part, acknowledge others' contributions and take responsibility for your own methods and mistakes."
+    }
+  ],
+  "reflectionQuestion": "Can I contribute without claiming all the credit or avoiding responsibility?",
+  "reflectionQuestionHindi": "क्या मैं सारा श्रेय लिए या जिम्मेदारी छोड़े बिना अपना योगदान दे सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

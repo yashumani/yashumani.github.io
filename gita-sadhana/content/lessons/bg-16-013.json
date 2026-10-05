@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-013",
+  "sequenceNumber": 584,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 13,
+  "verseEnd": 13,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "मेरा और अगला लाभ / The voice of acquisition",
+  "context": "Krishna quotes the inner speech of someone caught in acquisitive desire.",
+  "contextHindi": "कृष्ण धन और इच्छा में उलझे व्यक्ति की मन की बातें उद्धृत करते हैं।",
+  "sanskritDevanagari": "इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम् |\nइदमस्तीदमपि मे भविष्यति पुनर्धनम् ||१६-१३||",
+  "transliteration": "idamadya mayā labdhamimaṃ prāpsye manoratham .\nidamastīdamapi me bhaviṣyati punardhanam ||16-13||",
+  "wordByWord": [
+    {
+      "term": "labdham",
+      "meaning": "Obtained"
+    },
+    {
+      "term": "manoratham",
+      "meaning": "A desired object or wish"
+    },
+    {
+      "term": "me",
+      "meaning": "Mine; for me"
+    },
+    {
+      "term": "dhanam",
+      "meaning": "Wealth"
+    }
+  ],
+  "spokenHindi": "कृष्ण यहाँ एक व्यक्ति की आवाज सुनाते हैं: आज यह मिल गया, आगे यह इच्छा पूरी करूँगा, यह मेरा है और फिर और धन मिलेगा। यह कृष्ण का अपने लिए धन पाने का संकल्प नहीं है। वे आसुरी दिशा का भीतरी संवाद दिखा रहे हैं। हर उपलब्धि अगले लाभ की सीढ़ी बन जाती है। जो मिला है उसे समझने, उसका उपयोग देखने या दूसरों के योगदान को मानने का विराम नहीं आता। बचत और भविष्य की योजना अपने आप में गलत नहीं हैं। समस्या उस मानसिक घेराव में है जिसमें मेरा और अधिक ही पूरा संसार बन जाते हैं। इस श्लोक को सुनते समय अपनी आर्थिक स्थिति से शर्मिंदा होने की जरूरत नहीं। किसी छोटी उपलब्धि के बाद अपनी अगली प्रतिक्रिया देखें। क्या आप तुरन्त कमी गिनने लगते हैं, या मिले हुए साधन से कोई सही काम भी देख पाते हैं? आज जो आपके पास है, उसका एक उपयोग लिखिए। फिर अगले लक्ष्य की लागत और उद्देश्य स्पष्ट करें। योजना तब ज्यादा ईमानदार होती है जब उसके पीछे जीवन का वास्तविक कारण दिखाई दे।",
+  "clearEnglish": "This verse begins a quoted monologue. Krishna represents the acquisitive person's thought: something has been gained today, another desire will be obtained, existing possessions are mine, and further wealth will come. Attribution is crucial; these are not Krishna's ambitions or an instruction to repeat the words as an affirmation. The monologue's horizon is possession and future acquisition. Planning itself is not the problem. The problem in context is a self-enclosed account of life that recognizes gain but scarcely recognizes responsibility, dependence, or limits. A modern reading can notice how quickly an achievement becomes insufficient. Before the next target is chosen, ask what the present resource is for. Does it support a household, useful work, rest, or someone else's need? Those questions supply an application rather than a literal expansion of the verse. Try allowing an accomplishment to be acknowledged without instantly converting it into a deficit. Then make the next plan with an explicit purpose.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna quotes a possessive monologue about present gain, future desire, and further wealth."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Pausing to name the purpose of existing resources can interrupt acquisition as an endless self-description."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Purpose before next target",
+      "text": "Name one useful purpose of a resource you already have before setting a further goal."
+    }
+  ],
+  "reflectionQuestion": "What is the next gain meant to make possible?",
+  "reflectionQuestionHindi": "अगला लाभ मेरे जीवन में वास्तव में क्या सम्भव करेगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

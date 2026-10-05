@@ -1,0 +1,67 @@
+{
+  "id": "bg-08-004",
+  "sequenceNumber": 314,
+  "date": "2026-10-05",
+  "chapter": 8,
+  "verseStart": 4,
+  "verseEnd": 4,
+  "chapterNameSanskrit": "अक्षरब्रह्मयोग",
+  "chapterNameEnglish": "Akṣara Brahma Yoga",
+  "theme": "अधिभूत, अधिदैव और अधियज्ञ | Three further definitions",
+  "context": "Krishna answers Arjuna's remaining questions about the material field, the divine principle, and sacrifice within the body.",
+  "contextHindi": "कृष्ण अब अधिभूत, अधिदैव और देह में अधियज्ञ के विषय में अर्जुन को उत्तर देते हैं।",
+  "sanskritDevanagari": "अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम् |\nअधियज्ञोऽहमेवात्र देहे देहभृतां वर ||८-४||",
+  "transliteration": "adhibhūtaṃ kṣaro bhāvaḥ puruṣaścādhidaivatam .\nadhiyajño.ahamevātra dehe dehabhṛtāṃ vara ||8-4||",
+  "wordByWord": [
+    {
+      "term": "अधिभूतम्",
+      "meaning": "What pertains to beings or the elemental field."
+    },
+    {
+      "term": "क्षरः भावः",
+      "meaning": "Perishable existence or nature."
+    },
+    {
+      "term": "पुरुषः",
+      "meaning": "Purusha, here identified with adhidaiva."
+    },
+    {
+      "term": "अधियज्ञः",
+      "meaning": "The principle associated with sacrifice; Krishna identifies himself as this in the body."
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण तीन और शब्द स्पष्ट करते हैं। अधिभूत को वे क्षर भाव कहते हैं, यानी नष्ट होने वाला अस्तित्व या प्रकृति। अधिदैव के लिए वे पुरुष शब्द रखते हैं। दिए गए संस्करण में पुरुष को आत्मा कहा गया है। ध्यान रहे, यहाँ पुरुष और अधिदैव दो अलग स्तरों की सूची नहीं हैं; वाक्य पुरुष को ही अधिदैव बताता है। फिर कृष्ण कहते हैं कि इस देह में मैं ही अधियज्ञ हूँ। यह अर्जुन के उस प्रश्न का सीधा उत्तर है कि शरीर में अधियज्ञ कौन है। इन परिभाषाओं से हम कोई विस्तृत शरीर विज्ञान या मन की परतों का नक्शा नहीं बना सकते। उतना इस श्लोक में नहीं बताया गया है। हमारा अभ्यास यह हो सकता है कि पढ़ते समय हर शब्द का संबंध सही रखें। शरीर का बदलना देखकर उसकी देखभाल कम करना भी उचित निष्कर्ष नहीं है। शरीर नश्वर होने पर भी भोजन, आराम और आवश्यक सहायता महत्त्वपूर्ण हैं। कृष्ण की देह में उपस्थिति का कथन श्रद्धा से पढ़ा जा सकता है, बिना अपनी कल्पना को उनका शब्द मान लिए।",
+  "clearEnglish": "This verse completes a set of answers through three explicit identifications. Adhibhuta is perishable existence or nature; Purusha is adhidaiva; Krishna himself is adhiyajna here in the body. The grammar matters. An explanation that lists the conscious self and adhidaiva as separate additional layers would obscure the verse's identification of Purusha with adhidaiva. The supplied edition uses “soul” for Purusha, but the short passage does not provide a detailed account of individual and cosmic consciousness. Krishna's statement about adhiyajna responds directly to Arjuna's question about who is present in the embodied field of sacrifice. We can honor the statement without inventing a claim that each breath or desire is automatically a sacrificial act. For modern practice, the useful distinction is between what a passage names and what we later imagine around it. Recognizing bodily impermanence can encourage attentive care rather than neglect. A devotional reader may also contemplate divine presence within embodied life, while keeping that contemplation distinct from further metaphysical definitions not supplied here.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Adhibhuta is perishable existence, Purusha is adhidaiva, and Krishna says he himself is adhiyajna in this body."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The definitions can support careful contemplation of embodied life, but do not justify neglecting bodily needs or constructing unsupported layers."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Read the identifications",
+      "text": "Underline what is identified with what in the verse, then read those three relationships aloud."
+    }
+  ],
+  "reflectionQuestion": "Am I preserving the verse's identifications or adding extra categories?",
+  "reflectionQuestionHindi": "क्या मैं श्लोक में बताए गए संबंध समझ रहा हूँ, या अपनी ओर से अतिरिक्त श्रेणियाँ जोड़ रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

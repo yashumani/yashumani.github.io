@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-009",
+  "sequenceNumber": 498,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 9,
+  "verseEnd": 9,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Dispassion and embodied limits / वैराग्य और देह की सीमाएँ",
+  "context": "Krishna continues the qualities of knowledge with sensory dispassion, absence of egoism, and reflection on embodied suffering.",
+  "contextHindi": "ज्ञान की तैयारी वाले गुणों में कृष्ण वैराग्य, अहंकार का अभाव और जन्म मृत्यु जरा रोग के दुख पर विचार रखते हैं।",
+  "sanskritDevanagari": "इन्द्रियार्थेषु वैराग्यमनहंकार एव च |\nजन्ममृत्युजराव्याधिदुःखदोषानुदर्शनम् ||१३-९||",
+  "transliteration": "indriyārtheṣu vairāgyamanahaṃkāra eva ca .\njanmamṛtyujarāvyādhiduḥkhadoṣānudarśanam ||13-9||",
+  "wordByWord": [
+    {
+      "term": "vairāgyam",
+      "meaning": "dispassion or detachment"
+    },
+    {
+      "term": "anahaṃkāraḥ",
+      "meaning": "absence of egoism"
+    },
+    {
+      "term": "jarā",
+      "meaning": "aging; जरा"
+    },
+    {
+      "term": "vyādhi",
+      "meaning": "illness; व्याधि"
+    },
+    {
+      "term": "anudarśanam",
+      "meaning": "repeated consideration or reflection"
+    }
+  ],
+  "spokenHindi": "कृष्ण इंद्रियों के विषयों में वैराग्य, अहंकार का अभाव और जन्म, मृत्यु, बुढ़ापे, रोग तथा दुख की सीमाओं को देखने की बात कहते हैं। वैराग्य का अर्थ शरीर के साथ दुश्मनी करना नहीं। विषय का अनुभव हो सकता है, लेकिन उससे स्थायी सुरक्षा और पूरी पहचान मिलने की जिद पर प्रश्न उठता है। जीवन की सीमाएँ देखना भी निराशा फैलाने का आदेश नहीं है। एक ईमानदार दृष्टि हमें समय, देखभाल और प्राथमिकता का महत्व याद दिला सकती है। यह आधुनिक निष्कर्ष है; श्लोक कोई स्वास्थ्य योजना नहीं देता। मृत्यु का विचार कठिन हो तो उसे जबरन बार बार दोहराने की जरूरत नहीं। उपयुक्त सहारे के साथ सीमित और सुरक्षित चिंतन करें। आज किसी छोटी अनावश्यक चाह को देखें और पूछें कि क्या उसे पूरा करना मेरी वास्तविक जरूरत है। साथ में शरीर के लिए एक जिम्मेदार काम करें, जैसे जरूरी विश्राम या सहायता की व्यवस्था। वैराग्य और देखभाल साथ चल सकते हैं। सीमित जीवन की पहचान प्रेम और जिम्मेदारी की उपेक्षा का कारण नहीं बनती।",
+  "clearEnglish": "Krishna's list includes dispassion toward sensory objects, absence of egoism, and reflection on the painful limitations associated with birth, death, aging, and illness. The teaching questions the demand that embodied experiences provide permanent security. It does not require hostility toward the body or refusal of its needs. Awareness of limits can also sharpen care and priorities rather than simply produce pessimism. That is a practical inference; the verse does not supply a healthcare plan. Reflection should remain proportionate, especially when thoughts about death are distressing. It is reasonable to seek support and avoid forcing repetitive contemplation that worsens distress. A small exercise is to distinguish an optional craving from a real bodily need, then care for that need responsibly. This brings dispassion into relationship with attention rather than deprivation. The spiritual list is demanding, but its contemporary use need not become self-punishment. Recognizing that life is limited can encourage more thoughtful use of time and more considerate treatment of the people who share it.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna includes sensory dispassion, absence of egoism, and reflection on the suffering of birth, death, aging, and illness in the knowledge list."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Distinguishing craving from bodily need is a safe application; reflection on limits should remain proportionate and compatible with support."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Set aside one optional craving and take one realistic step of care for a bodily need."
+    }
+  ],
+  "reflectionQuestion": "Am I asking a temporary experience to provide permanent security?",
+  "reflectionQuestionHindi": "क्या मैं किसी अस्थायी अनुभव से स्थायी सुरक्षा की अपेक्षा कर रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-024",
+  "sequenceNumber": 619,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 24,
+  "verseEnd": 24,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "ॐ से आरम्भ / Beginning with Om",
+  "context": "Krishna explains that students of Brahman begin prescribed sacrifice, giving, and austerity with Om.",
+  "contextHindi": "कृष्ण बताते हैं कि ब्रह्म के अध्येता विधान के अनुसार यज्ञ, दान और तप को ॐ कहकर आरम्भ करते हैं।",
+  "sanskritDevanagari": "तस्मादोमित्युदाहृत्य यज्ञदानतपःक्रियाः |\nप्रवर्तन्ते विधानोक्ताः सततं ब्रह्मवादिनाम् ||१७-२४||",
+  "transliteration": "tasmādomityudāhṛtya yajñadānatapaḥkriyāḥ .\npravartante vidhānoktāḥ satataṃ brahmavādinām ||17-24||",
+  "wordByWord": [
+    {
+      "term": "om iti udāhṛtya",
+      "meaning": "Having uttered Om"
+    },
+    {
+      "term": "pravartante",
+      "meaning": "Are begun or undertaken"
+    },
+    {
+      "term": "vidhānoktāḥ",
+      "meaning": "Enjoined by ordinance"
+    },
+    {
+      "term": "brahmavādinām",
+      "meaning": "Of those devoted to or studying Brahman"
+    }
+  ],
+  "spokenHindi": "कृष्ण पिछले श्लोक से संबंध जोड़कर कहते हैं कि ब्रह्म के अध्येता यज्ञ, दान और तप की विधान में कही क्रियाएँ ॐ बोलकर आरम्भ करते हैं। ॐ का संबंध यहां आरम्भ और धार्मिक दिशा से है। श्लोक यह नहीं कहता कि केवल ध्वनि बोल देने से काम की गलती या गलत उद्देश्य ठीक हो जाएगा। पूरे अध्याय में विधि, श्रद्धा और प्रेरणा की गुणवत्ता बार बार सामने आई है। इसलिए उच्चारण के साथ जिम्मेदार कर्म की जरूरत समझना उचित है। यह आधुनिक निष्कर्ष है, श्लोक का नया नियम नहीं। यदि आप अपनी परम्परा में ॐ का प्रयोग करते हैं, तो उसे ध्यान से करें। यदि किसी साधारण काम में उसका प्रयोग नहीं करते, तो भी आरम्भ से पहले उद्देश्य स्पष्ट करने का छोटा अभ्यास किया जा सकता है। आज किसी देने या सीखने के काम से पहले एक क्षण रुकें। किसका हित है, किस तरह पूरा करेंगे, और क्या अपेक्षा छोड़नी है, इसे पहचानें। आरम्भ की सजगता आगे के काम में सहारा बन सकती है।",
+  "clearEnglish": "Krishna says that those devoted to Brahman begin the prescribed acts of sacrifice, giving, and austerity with the utterance of Om. The opening expression connects this practice with the designation introduced in the previous verse. The statement describes a religious commencement, not a guarantee that pronouncing a sound corrects a careless method or an ulterior motive. The chapter has repeatedly attended to procedure, faith, and purpose. A modern inference can therefore value an intentional beginning without confusing it with automatic spiritual efficacy. If Om belongs to your practice, use it with understanding and respect for its context. A secular analogy may be a brief pause before contributing or studying, but that analogy does not replace the ritual meaning. Clarify what the act is for and how you will carry it through. The benefit of such a pause is modest: it may help the subsequent action remain answerable to its purpose. The verse itself does not promise a productivity technique.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says prescribed sacrifice, giving, and austerity are begun with Om by those devoted to Brahman."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A purposeful pause is a modern analogy; utterance is not a guarantee that motive or execution is correct."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "An intentional beginning",
+      "text": "Before one contribution or study session, pause to state its purpose and responsible method."
+    }
+  ],
+  "reflectionQuestion": "What purpose am I carrying into the beginning of this act?",
+  "reflectionQuestionHindi": "इस काम की शुरुआत में मैं कौन सा स्पष्ट उद्देश्य लेकर जा रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

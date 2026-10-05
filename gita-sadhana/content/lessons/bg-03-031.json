@@ -1,0 +1,71 @@
+{
+  "id": "bg-03-031",
+  "sequenceNumber": 150,
+  "date": "2026-10-05",
+  "chapter": 3,
+  "verseStart": 31,
+  "verseEnd": 31,
+  "chapterNameSanskrit": "कर्मयोग",
+  "chapterNameEnglish": "Karma Yoga",
+  "theme": "विश्वास के साथ अभ्यास / Practising with trust",
+  "context": "After asking Arjuna to act without possessiveness or mental turmoil, Krishna describes how people relate to his teaching: they practise it with faith and without fault-finding, and are released from the binding effects of action.",
+  "contextHindi": "पिछले श्लोक में कृष्ण अर्जुन से आसक्ति और मानसिक व्याकुलता छोड़कर कर्म करने को कहते हैं। यहाँ वे बताते हैं कि जो लोग उनकी इस शिक्षा को श्रद्धा और खुले मन से जीवन में उतारते हैं, वे कर्मों के बंधन से मुक्त होते हैं।",
+  "sanskritDevanagari": "ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः |\nश्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः ||३-३१||",
+  "transliteration": "ye me matamidaṃ nityamanutiṣṭhanti mānavāḥ .\nśraddhāvanto.anasūyanto mucyante te.api karmabhiḥ ||3-31||",
+  "wordByWord": [
+    {
+      "term": "matam",
+      "meaning": "Teaching or view; here, Krishna’s instruction in the surrounding verses about acting without attachment."
+    },
+    {
+      "term": "anuṣṭhanti",
+      "meaning": "They put into practice or follow; the emphasis is on lived practice, not merely hearing."
+    },
+    {
+      "term": "śraddhāvantaḥ",
+      "meaning": "Those who have trust or faith; this need not mean abandoning thoughtful understanding."
+    },
+    {
+      "term": "anasūyantaḥ",
+      "meaning": "Without resentful fault-finding or spiteful disparagement; it does not by itself rule out sincere questions."
+    },
+    {
+      "term": "mucyante",
+      "meaning": "They become free or are released; in context, from the binding effects of action."
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण कहते हैं कि जो लोग उनकी इस शिक्षा का नियमित अभ्यास करते हैं, श्रद्धा रखते हैं, और द्वेषपूर्ण दोषारोपण नहीं करते, वे कर्मों के बंधन से मुक्त होते हैं। यहाँ श्रद्धा का अर्थ यह समझना ठीक होगा कि साधक इस मार्ग को गंभीरता से आज़माने के लिए तैयार है; इसका अर्थ अपनी समझ को बंद कर देना नहीं है। “अनसूयन्तः” में कटु, ईर्ष्यापूर्ण निंदा का भाव है। इसलिए इसे हर प्रश्न या असहमति पर रोक की तरह पढ़ना ज़रूरी नहीं। प्रसंग में शिक्षा है कि कर्म करते हुए फल और अहंकार से चिपकाव कम किया जाए। **TEXT:** श्लोक अभ्यास, श्रद्धा और दोष-दृष्टि छोड़ने को मुक्ति से जोड़ता है। **INFERENCE:** इस अभ्यास से काम करते समय स्वार्थी पकड़ और भीतर की बेचैनी घट सकती है; यह मनोवैज्ञानिक संभावना है, कोई मापी हुई गारंटी नहीं। आज किसी जिम्मेदारी को निभाते हुए परिणाम पर पूरा नियंत्रण मानने के बजाय अपने हिस्से का काम ईमानदारी से करें। बाद में देखें कि मन कहाँ अनावश्यक रूप से श्रेय या दोष पकड़ रहा था।",
+  "clearEnglish": "Krishna describes a posture of committed practice: people repeatedly live by his teaching, approach it with trust, and do not treat it with spiteful fault-finding. In this passage, the teaching concerns action without possessiveness and agitation. The verse says such practitioners are freed from actions; in context, this points to release from action’s binding force, not to a claim that they stop acting or escape ordinary consequences. **TEXT:** the stated conditions are steady practice, faith, and freedom from hostile disparagement; the stated result is release from bondage through action. **INFERENCE:** practising with trust may help someone act responsibly without making every outcome a measure of personal worth. That is a practical reading, not an empirical promise. Nor does the verse say that honest questions are forbidden: criticism motivated by careful inquiry is not automatically the same as resentful fault-finding. For a modest experiment today, choose one obligation, do it attentively, and notice whether you can let go of some demand for praise or control once your part is done.",
+  "interpretationPerspectives": [
+    {
+      "label": "Text",
+      "explanation": "The verse links consistent practice of Krishna’s teaching, faith, and absence of fault-finding with release from the binding effects of action."
+    },
+    {
+      "label": "Inference",
+      "explanation": "In this context, freedom can be understood as a changed relationship to action and its results. The verse does not establish that sincere questions are forbidden or promise a measurable outcome."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Attend to your part",
+      "text": "Choose one responsibility today and complete it attentively, while noticing when the wish for praise or total control begins to dominate."
+    }
+  ],
+  "reflectionQuestion": "Can I commit to a useful practice while still making room for sincere questions and careful understanding?",
+  "reflectionQuestionHindi": "क्या मैं किसी उपयोगी अभ्यास को ईमानदारी से अपना सकता हूँ और साथ ही सच्चे प्रश्नों तथा समझ के लिए जगह रख सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

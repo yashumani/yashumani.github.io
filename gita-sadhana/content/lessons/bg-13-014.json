@@ -1,0 +1,75 @@
+{
+  "id": "bg-13-014",
+  "sequenceNumber": 503,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 14,
+  "verseEnd": 14,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Presence enveloping every being / सबको घेरती उपस्थिति",
+  "context": "Krishna describes the knowable through hands, feet, eyes, heads, mouths, and ears everywhere.",
+  "contextHindi": "कृष्ण ज्ञेय की सर्वव्यापकता को हर ओर हाथ पैर, आँख, सिर, मुख और श्रवण की छवि में रखते हैं।",
+  "sanskritDevanagari": "सर्वतः पाणिपादं तत्सर्वतोऽक्षिशिरोमुखम् |\nसर्वतः श्रुतिमल्लोके सर्वमावृत्य तिष्ठति ||१३-१४||",
+  "transliteration": "sarvataḥ pāṇipādaṃ tatsarvato.akṣiśiromukham .\nsarvataḥ śrutimalloke sarvamāvṛtya tiṣṭhati ||13-14||",
+  "wordByWord": [
+    {
+      "term": "sarvataḥ",
+      "meaning": "everywhere or on all sides"
+    },
+    {
+      "term": "pāṇipādam",
+      "meaning": "hands and feet"
+    },
+    {
+      "term": "śrutimat",
+      "meaning": "having hearing or ears"
+    },
+    {
+      "term": "āvṛtya",
+      "meaning": "enveloping or pervading"
+    },
+    {
+      "term": "tiṣṭhati",
+      "meaning": "abides; स्थित है"
+    }
+  ],
+  "spokenHindi": "कृष्ण ज्ञेय का वर्णन करते हैं कि उसके हाथ पैर हर ओर हैं, आँख, सिर और मुख हर ओर हैं, और श्रवण हर ओर है। वह सबको घेरकर स्थित है। यह अनेक अंगों वाले साधारण शरीर की गिनती से अधिक व्यापक चित्र है। अध्याय की भूमिका भी सर्वोच्च सत्य को हर जगह व्याप्त एक सार बताती है। यह उस संस्करण की व्याख्या है, जो इस सर्वतः की पुनरावृत्ति को समझने में मदद करती है। श्लोक से किसी मानव की हर जगह निगरानी करने की शक्ति नहीं निकलती। रोजमर्रा का जिम्मेदार निष्कर्ष यह हो सकता है कि अपने स्थान को ही पूरी वास्तविकता न मानें। बहुत से लोग उसी समय अलग अनुभव और काम में हैं। यह आधुनिक अनुप्रयोग है। आज किसी सेवा को लेते समय उसके पीछे के अनदेखे हाथों को याद करें और उपलब्ध हो तो सम्मान व्यक्त करें। दिव्य उपस्थिति के कथन को मानव श्रम की उपमा में पूरी तरह सीमित न करें। उपमा हमें विनम्र बनाती है; पाठ का विषय उससे बड़ा है।",
+  "clearEnglish": "The knowable is portrayed with hands and feet, eyes, heads, mouths, and ears everywhere, enveloping all. The repeated everywhere moves the image beyond an ordinary bounded organism. Sivananda's chapter summary speaks of a universal essence pervading all, which provides a supported interpretation of the expansive description. This is a metaphysical account of presence, not a claim that a particular human being can monitor every private event. A modern ethical inference is to resist treating one's own viewpoint as the full extent of reality. Many lives and activities remain outside immediate awareness. When receiving a service, for example, one can remember the people whose work is not directly visible and respond with appropriate respect. That illustration does not reduce divine pervasion to human labor or establish the claim experimentally. It simply makes the limitation of a local perspective more concrete. The verse invites a wider horizon of regard while leaving the nature of universal presence a serious subject of spiritual inquiry.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The knowable is described as having faculties everywhere and enveloping all."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sivananda's chapter summary describes the Supreme Reality as one universal essence pervading all."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Respecting unseen contributors is a contemporary ethical response, not a reduction of divine pervasion to human labor."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Notice one service you receive and acknowledge an ordinarily unseen contributor when appropriate."
+    }
+  ],
+  "reflectionQuestion": "What exists beyond the small portion of life I can currently see?",
+  "reflectionQuestionHindi": "जीवन के जिस छोटे हिस्से को मैं अभी देख सकता हूँ, उसके बाहर क्या है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

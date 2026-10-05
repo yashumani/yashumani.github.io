@@ -1,0 +1,71 @@
+{
+  "id": "bg-05-026",
+  "sequenceNumber": 230,
+  "date": "2026-10-05",
+  "chapter": 5,
+  "verseStart": 26,
+  "verseEnd": 26,
+  "chapterNameSanskrit": "कर्मसंन्यासयोग",
+  "chapterNameEnglish": "Karma Sannyāsa Yoga",
+  "theme": "Freedom grows where desire and anger no longer govern the mind.",
+  "context": "The previous verse described sages devoted to the welfare of all beings. Krishna now describes freedom as present for self-controlled seekers who are free from desire and anger and have realized the Self.",
+  "contextHindi": "पिछले श्लोक में सभी प्राणियों के हित में लगे ऋषियों का वर्णन था। अब कृष्ण कहते हैं कि आत्मसंयमी, इच्छा और क्रोध से मुक्त, आत्मा को जानने वाले साधकों के लिए ब्रह्मनिर्वाण सुलभ है।",
+  "sanskritDevanagari": "कामक्रोधवियुक्तानां यतीनां यतचेतसाम् |\nअभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम् ||५-२६||",
+  "transliteration": "kāmakrodhaviyuktānāṃ yatīnāṃ yatacetasām .\nabhito brahmanirvāṇaṃ vartate viditātmanām ||5-26||",
+  "wordByWord": [
+    {
+      "term": "kāma",
+      "meaning": "Desire or craving; here, a force that can dominate judgment, not every ordinary preference."
+    },
+    {
+      "term": "krodha",
+      "meaning": "Anger; an intense reaction that can take over thought and action."
+    },
+    {
+      "term": "yatacetasām",
+      "meaning": "Those whose minds or awareness are restrained and trained."
+    },
+    {
+      "term": "viditātmanām",
+      "meaning": "Those who have known or realized the Self."
+    },
+    {
+      "term": "abhitaḥ",
+      "meaning": "On all sides, or present throughout; it emphasizes the pervasiveness of the freedom described."
+    }
+  ],
+  "spokenHindi": "यहाँ कृष्ण उन साधकों की बात करते हैं जिनके मन पर इच्छा और क्रोध का कब्ज़ा नहीं रहता। “काम” को हर चाह या सामान्य पसंद समझना ठीक नहीं होगा; यहाँ आशय ऐसी लालसा से है जो विवेक को अपने पीछे खींच ले। “क्रोध” भी केवल किसी बात पर असहमति नहीं, बल्कि वह आवेग है जो हमें बिना सोचे प्रतिक्रिया करने पर मजबूर कर सकता है। “यतचेतसाम्” का अर्थ है मन को साधने वाले, और “विदितात्मनाम्” आत्मा को जानने वालों के लिए है। TEXT: श्लोक कहता है कि ऐसे आत्मसंयमी, आत्मज्ञानी साधुओं के लिए ब्रह्मनिर्वाण “अभितः”—चारों ओर या सर्वत्र—विद्यमान है। INFERENCE: यह साधना को एक खास बाहरी जगह तक सीमित नहीं करता; भीतर की स्वतंत्रता जीवन की परिस्थितियों में भी खोजी जा सकती है। इसका अर्थ यह नहीं कि दुख या क्रोध कभी महसूस ही न हो। व्यावहारिक अभ्यास है: तीव्र इच्छा या गुस्से में निर्णय लेने से पहले रुकें, भावना को पहचानें, और ऐसा उत्तर चुनें जिससे किसी को अनावश्यक चोट न पहुँचे।",
+  "clearEnglish": "Krishna describes freedom in relation to the mind’s response to desire and anger. “Kāma” here is best heard as craving that can commandeer judgment, not every preference or hope. “Krodha” is anger when it becomes a driving impulse; the verse need not be taken to condemn every experience of anger or every disagreement. “Yatacetasām” describes people who have trained or restrained their awareness, and “viditātmanām” refers to those who know the Self. TEXT: Krishna says that Brahmanirvāṇa is present “abhitaḥ”—on all sides—for self-controlled, Self-knowing seekers who are free from desire and anger. INFERENCE: The wording can encourage us to look for steadiness in the midst of ordinary circumstances, rather than imagining that freedom depends only on reaching a special place. It does not promise that difficult feelings will never arise, nor does it replace practical support when someone is struggling. A useful practice is to notice the first surge of craving or anger, delay a consequential response, and then act in a way that does not needlessly harm anyone.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna links the presence of Brahmanirvāṇa with self-controlled seekers who are free from desire and anger and have realized the Self."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The verse can be applied as an invitation to pause before acting on strong impulses. It does not say that a person must never feel anger or desire."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Delay the impulse",
+      "text": "When a strong urge or anger rises today, take a brief pause before making a consequential choice; name what you feel, then choose a response that avoids needless harm."
+    }
+  ],
+  "reflectionQuestion": "What kind of pause could help you respond wisely when desire or anger begins to take over?",
+  "reflectionQuestionHindi": "जब इच्छा या क्रोध आप पर हावी होने लगे, तब कौन-सा छोटा विराम आपको समझदारी से उत्तर देने में मदद कर सकता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

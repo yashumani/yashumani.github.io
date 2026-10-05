@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-013",
+  "sequenceNumber": 608,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 13,
+  "verseEnd": 13,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "विधि और श्रद्धा का अभाव / Neglected sacrifice",
+  "context": "Krishna describes tamasic sacrifice through missing procedure, food distribution, mantras, gifts, and faith.",
+  "contextHindi": "कृष्ण विधि, अन्न वितरण, मंत्र, दक्षिणा और श्रद्धा से रहित यज्ञ को तामसिक बताते हैं।",
+  "sanskritDevanagari": "विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम् |\nश्रद्धाविरहितं यज्ञं तामसं परिचक्षते ||१७-१३||",
+  "transliteration": "vidhihīnamasṛṣṭānnaṃ mantrahīnamadakṣiṇam .\nśraddhāvirahitaṃ yajñaṃ tāmasaṃ paricakṣate ||17-13||",
+  "wordByWord": [
+    {
+      "term": "vidhihīnam",
+      "meaning": "Without the prescribed procedure"
+    },
+    {
+      "term": "asṛṣṭānnam",
+      "meaning": "Without distribution of food"
+    },
+    {
+      "term": "adakṣiṇam",
+      "meaning": "Without gifts or ritual remuneration"
+    },
+    {
+      "term": "śraddhāvirahitam",
+      "meaning": "Devoid of faith"
+    }
+  ],
+  "spokenHindi": "कृष्ण तामसिक यज्ञ का वर्णन कई अभावों से करते हैं। विधि नहीं निभी, अन्न नहीं बाँटा गया, मंत्र नहीं हैं, दक्षिणा नहीं है और श्रद्धा नहीं है। यह उस धार्मिक क्रिया का वर्णन है जिसमें जिम्मेदार तैयारी और भीतरी लगाव दोनों छूट गए हैं। अन्न और दक्षिणा का उल्लेख यह भी याद दिलाता है कि आयोजन में दूसरे लोगों की भागीदारी और जरूरत होती है। फिर भी इस श्लोक को किसी सीमित साधन वाले व्यक्ति की पूजा पर तिरस्कार का आधार न बनाएं। कौन सी विधि किस प्रसंग में आवश्यक है, उसे योग्य स्रोत से समझना पड़ता है। आधुनिक अनुप्रयोग में किसी आयोजन के नाम से आगे उसकी जिम्मेदारी देखें। काम करने वालों का सम्मान, संसाधनों की योजना और घोषित उद्देश्य का पालन हो रहा है या नहीं? बिना समझे सिर्फ औपचारिकता पूरी करना पर्याप्त नहीं। आज कोई छोटा साझा काम लें और उसकी एक छूटी जरूरत पहचानें। उसे अपनी क्षमता में पूरा करें या जिम्मेदार व्यक्ति को साफ बताएं। ध्यान से किया साधारण सुधार भी लापरवाही की दिशा रोक सकता है।",
+  "clearEnglish": "Krishna describes tamasic sacrifice as contrary to prescribed procedure, without food distribution, without mantras, without gifts or remuneration, and without faith. These are specific ritual features, not a generic claim that all inexpensive observances are defective. The verse's account should be preserved while recognizing that actual requirements need contextual understanding. It does not authorize contempt toward someone with limited resources. Food distribution and gifts also make visible that a ceremony involves responsibilities toward others, although modern applications should not pretend to replace the ritual meaning. In a shared event, ask whether the people doing the work are respected and whether a promised benefit is delivered. Neglect can hide behind a prestigious title. For practice, identify one omitted practical need in a project you are part of and help address it within your capacity. If the matter concerns a ritual requirement, consult someone competent rather than inventing a rule. Responsible attention is more useful than classifying an event from its appearance alone.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names missing procedure, food distribution, mantras, gifts, and faith in describing tamasic sacrifice."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Checking neglected responsibilities in a shared event is a modern application, not a judgement on poverty or a replacement ritual rule."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "One neglected responsibility",
+      "text": "Identify and address one omitted need in a shared task, or communicate it to the responsible person."
+    }
+  ],
+  "reflectionQuestion": "Which responsibility is hidden by the impressive name of this event?",
+  "reflectionQuestionHindi": "इस आयोजन के बड़े नाम के पीछे कौन सी जिम्मेदारी छूट गई है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

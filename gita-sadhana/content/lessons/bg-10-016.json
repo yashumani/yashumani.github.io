@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-016",
+  "sequenceNumber": 388,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 16,
+  "verseEnd": 16,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "विभूतियों का स्पष्ट अनुरोध / A request for the divine glories",
+  "context": "Arjuna now explicitly asks Krishna to describe the divine manifestations through which he pervades the worlds.",
+  "contextHindi": "यहाँ अर्जुन स्पष्ट रूप से उन दिव्य विभूतियों का वर्णन माँगते हैं जिनसे कृष्ण सारे लोकों में व्याप्त हैं।",
+  "sanskritDevanagari": "वक्तुमर्हस्यशेषेण दिव्या ह्यात्मविभूतयः |\nयाभिर्विभूतिभिर्लोकानिमांस्त्वं व्याप्य तिष्ठसि ||१०-१६||",
+  "transliteration": "vaktumarhasyaśeṣeṇa divyā hyātmavibhūtayaḥ .\nyābhirvibhūtibhirlokānimāṃstvaṃ vyāpya tiṣṭhasi ||10-16||",
+  "wordByWord": [
+    {
+      "term": "अशेषेण",
+      "meaning": "without remainder; fully"
+    },
+    {
+      "term": "आत्मविभूतयः",
+      "meaning": "one's own divine manifestations"
+    },
+    {
+      "term": "व्याप्य",
+      "meaning": "having pervaded"
+    },
+    {
+      "term": "तिष्ठसि",
+      "meaning": "you stand or abide"
+    }
+  ],
+  "spokenHindi": "अब अर्जुन का स्पष्ट अनुरोध आता है। वे कृष्ण से कहते हैं कि अपनी दिव्य विभूतियों को पूरा बताइए, जिनके द्वारा आप इन लोकों को व्याप्त करके स्थित हैं। यह प्रश्न अध्याय के शुरू में मान लेना क्रम की गलती होगी। पहले कृष्ण ने अपनी ओर से शिक्षा दी, फिर अर्जुन ने स्वीकार व्यक्त किया, और अब अधिक विवरण माँगा है। अशेषेण में पूरी बात सुनने की इच्छा है। लेकिन उस इच्छा का अर्थ यह नहीं कि असीम वास्तविकता कुछ उदाहरणों की सूची में समाप्त हो जाएगी। कृष्ण आगे प्रमुख उदाहरण देने वाले हैं। इस समय अर्जुन प्रश्नकर्ता हैं, कोई नई घोषणा करने वाले शिक्षक नहीं। हमारी पढ़ाई में इसका उपयोग यह हो सकता है कि बड़े विचार के सामने साफ प्रश्न रखें। केवल यह कहना कि सब दिव्य है कभी पर्याप्त नहीं लगता; समझ को यह भी चाहिए कि किन रूपों पर ध्यान टिके। हम अपना प्रश्न सीमित बना सकते हैं ताकि जवाब उपयोगी हो। फिर उदाहरण को अंतिम सीमा समझने की जल्दी से बचें। प्रश्न पूछना यहाँ श्रद्धा का विरोध नहीं, उसका आगे बढ़ना है।",
+  "clearEnglish": "This is the explicit request for the manifestations that give the chapter its name. Arjuna asks Krishna to speak fully about the divine glories by which he pervades and abides in the worlds. Locating the request here matters: the earlier verses were Krishna's unsolicited continuation of teaching, followed by Arjuna's recognition. Asheshena conveys the wish for a complete account. Yet a wish for completeness does not establish that an unlimited reality can be exhausted by a catalogue. Krishna's forthcoming response will select prominent manifestations. The narrative therefore holds together eagerness for detail and a limit on enumeration. A modern study application is to turn a broad claim into a usable question. If a teaching says that the divine is everywhere, one might ask what features of daily experience help contemplation become concrete. The answer can supply an entry point while remaining partial. This is an application of Arjuna's method of inquiry, not a promise that every object one chooses has been named by the text.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna asks for a full account of Krishna's divine manifestations that pervade the worlds."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Concrete questions can help study; examples are entry points and need not exhaust the reality described."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Make the question usable",
+      "text": "Take one broad teaching and write a specific question about how to understand it. Seek an answer in the supplied text before adding your own examples."
+    }
+  ],
+  "reflectionQuestion": "What precise question would make a broad spiritual idea clearer to me?",
+  "reflectionQuestionHindi": "कौन सा स्पष्ट प्रश्न किसी बड़े आध्यात्मिक विचार को मेरे लिए अधिक समझने योग्य बनाएगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-019",
+  "sequenceNumber": 590,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 19,
+  "verseEnd": 19,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "क्रूरता के धार्मिक परिणाम / The consequence of cruelty",
+  "context": "Krishna speaks in the first person about the rebirth consequence of persistent cruelty and hatred.",
+  "contextHindi": "कृष्ण निरंतर क्रूरता और द्वेष के पुनर्जन्म संबंधी परिणाम को अपने कथन में बताते हैं।",
+  "sanskritDevanagari": "तानहं द्विषतः क्रुरान्संसारेषु नराधमान् |\nक्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु ||१६-१९||",
+  "transliteration": "tānahaṃ dviṣataḥ krurānsaṃsāreṣu narādhamān .\nkṣipāmyajasramaśubhānāsurīṣveva yoniṣu ||16-19||",
+  "wordByWord": [
+    {
+      "term": "dviṣataḥ",
+      "meaning": "Those who hate"
+    },
+    {
+      "term": "krurān",
+      "meaning": "Cruel ones; canonical spelling retained"
+    },
+    {
+      "term": "āsurīṣu yoniṣu",
+      "meaning": "In demoniacal wombs or births"
+    },
+    {
+      "term": "kṣipāmi",
+      "meaning": "I cast or hurl"
+    }
+  ],
+  "spokenHindi": "यह श्लोक कठोर धार्मिक भाषा में क्रूर और द्वेष करने वालों के परिणाम बताता है। कृष्ण कहते हैं कि वे उन्हें संसार में बार बार आसुरी योनियों में डालते हैं। यहाँ पुनर्जन्म और ईश्वरीय निर्णय का कथन साफ मौजूद है। उसे केवल मन की आदत कहकर बदल देना पाठ के प्रति ईमानदार नहीं होगा। साथ ही हमें इससे वर्तमान लोगों के जन्म या सामाजिक स्थिति का फैसला करने का अधिकार नहीं मिलता। कोई व्यक्ति गरीबी, बीमारी या कठिन परिवार में है, इसलिए उसका पूर्व कर्म बुरा था, यह श्लोक ऐसा प्रमाण नहीं देता। इसका नैतिक ध्यान लगातार क्रूरता और द्वेष पर है। आधुनिक अभ्यास में हम उसके परिणामों की गंभीरता समझकर नुकसान रोकने का काम कर सकते हैं। यदि अपने व्यवहार में जानबूझकर चोट पहुँचाने की इच्छा दिखे, तो उसे सही ठहराने के बजाय विराम लें। परिस्थिति के अनुसार सहायता और सुरक्षित दूरी उपयोगी हो सकती है। दूसरों को आसुरी जन्म का प्रमाणपत्र देने से पहले अपने निर्णय में करुणा और जिम्मेदारी की जगह देखें।",
+  "clearEnglish": "Krishna uses strong first-person language: he casts the cruel, hateful wrongdoers described in this passage into demoniacal births repeatedly. The verse includes a religious account of divine judgement and rebirth. An honest explanation should acknowledge that account rather than silently replacing it with a theory of habits. At the same time, it does not give readers evidence for assigning a person's present poverty, illness, disability, or family circumstances to supposed past wrongdoing. Such a judgement would extend the passage far beyond its stated description of cruelty and hatred. A modern application can focus on interrupting deliberate harm while leaving the metaphysical claim in its proper textual category. When a wish to injure someone is noticed, do not nourish it with a story of deserved punishment. Seek an appropriate pause, support, or protective boundary. The severity of the language should increase care about one's conduct, not encourage contempt toward people whose lives are already difficult.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna states that cruel and hateful wrongdoers are repeatedly cast into demoniacal births."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Interrupting deliberate harm is a modern application; assigning present hardship to alleged past guilt is not supported here."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Interrupt deliberate harm",
+      "text": "If retaliation is tempting, pause and choose a protective or accountable response that avoids intentional injury."
+    }
+  ],
+  "reflectionQuestion": "Am I using moral language to justify cruelty?",
+  "reflectionQuestionHindi": "क्या मैं नैतिक भाषा से अपनी क्रूरता को सही ठहरा रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

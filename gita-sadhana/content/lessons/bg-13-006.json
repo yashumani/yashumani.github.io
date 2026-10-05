@@ -1,0 +1,75 @@
+{
+  "id": "bg-13-006",
+  "sequenceNumber": 495,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 6,
+  "verseEnd": 6,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "The field includes inner faculties / क्षेत्र में भीतर के साधन भी",
+  "context": "Krishna begins listing the field's components; the sentence continues into the next verse.",
+  "contextHindi": "कृष्ण महाभूत, अहंकार, बुद्धि, अव्यक्त, इंद्रियाँ और उनके विषय गिनाते हैं; सूची अगले श्लोक में आगे चलती है।",
+  "sanskritDevanagari": "महाभूतान्यहंकारो बुद्धिरव्यक्तमेव च |\nइन्द्रियाणि दशैकं च पञ्च चेन्द्रियगोचराः ||१३-६||",
+  "transliteration": "mahābhūtānyahaṃkāro buddhiravyaktameva ca .\nindriyāṇi daśaikaṃ ca pañca cendriyagocarāḥ ||13-6||",
+  "wordByWord": [
+    {
+      "term": "mahābhūtāni",
+      "meaning": "great elements"
+    },
+    {
+      "term": "ahaṃkāraḥ",
+      "meaning": "ego-making or I-sense"
+    },
+    {
+      "term": "buddhiḥ",
+      "meaning": "intellect or discernment"
+    },
+    {
+      "term": "avyaktam",
+      "meaning": "the unmanifest"
+    },
+    {
+      "term": "indriyagocarāḥ",
+      "meaning": "objects or domains of the senses"
+    }
+  ],
+  "spokenHindi": "कृष्ण क्षेत्र की सूची शुरू करते हैं: महाभूत, अहंकार, बुद्धि, अव्यक्त, दस इंद्रियाँ और एक, तथा इंद्रियों के पाँच विषय। स्वामी सिवानंद की टिप्पणी महाभूतों को पृथ्वी, जल, अग्नि, वायु और आकाश बताती है। दस इंद्रियों में जानने के पाँच और कर्म के पाँच साधन रखती है, और ‘एक’ को मन कहती है। ये टिप्पणी की स्पष्टताएँ हैं; श्लोक सूची के संक्षिप्त पद देता है। क्षेत्र अब केवल शरीर की बाहरी आकृति नहीं रह जाता। बुद्धि और अहंकार जैसे भीतर के पक्ष भी जानने के विषय बनते हैं। अहंकार को केवल घमंड तक सीमित न करें; ‘मैं’ बनाने की अनुभूति की दिशा भी यहाँ है। आधुनिक अभ्यास में किसी निर्णय को देखते समय सूचना, विचार और ‘मेरी बात’ का आग्रह अलग पहचान सकते हैं। इससे पूरी दार्शनिक सूची अनुभव से सिद्ध नहीं होती। यह छोटा निरीक्षण है। मन की भूमिका देखने का मतलब विचार बंद करने का आदेश नहीं, बल्कि उन्हें सावधानी से समझने की शुरुआत है।",
+  "clearEnglish": "Krishna begins a list that includes the great elements, ego-making, intellect, the unmanifest, ten senses and one, and five sensory domains. The sentence continues in the next verse. Sivananda's commentary identifies the five elements, distinguishes five faculties of knowledge from five faculties of action, and explains the additional one as mind. These are explicit clarifications supplied by the edition. The field is consequently broader than the body's outward shape: inner faculties can also be known and examined. Ahaṃkāra points toward the making of an I-sense and should not be confined to obvious vanity. A practical illustration is a decision in which information, reasoning, and the insistence that the answer be mine become intertwined. Separating those strands can improve understanding. That exercise does not verify every component of the philosophical account, but it makes the inclusion of inner processes more intelligible. The aim is careful observation of thought and identification, rather than an order to eliminate thinking or regard the body with contempt.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna lists elements, ego-making, intellect, unmanifest Nature, ten senses and one, and five sensory objects as field components."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sri Swami Sivananda explains the elements, the five knowledge and five action faculties, and the additional one as mind."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Distinguishing information, reasoning, and ownership of an opinion illustrates observation of inner processes."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "In one decision, separate the available information from the reasoning and the urge to defend your own answer."
+    }
+  ],
+  "reflectionQuestion": "Where does an honest inquiry become the demand that my answer win?",
+  "reflectionQuestionHindi": "ईमानदार जाँच कहाँ बदलकर मेरी ही बात जीतने का आग्रह बन जाती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

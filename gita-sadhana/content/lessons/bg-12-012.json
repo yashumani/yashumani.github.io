@@ -1,0 +1,67 @@
+{
+  "id": "bg-12-012",
+  "sequenceNumber": 481,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 12,
+  "verseEnd": 12,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "त्याग के बाद शांति / Peace following renunciation",
+  "context": "Krishna presents a comparative sequence of practice, knowledge, meditation and renunciation, ending in peace.",
+  "contextHindi": "कृष्ण अभ्यास, ज्ञान, ध्यान और कर्मफलत्याग का क्रम कहते हैं, जिसके अंत में त्याग से शांति है।",
+  "sanskritDevanagari": "श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते |\nध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम् ||१२-१२||",
+  "transliteration": "śreyo hi jñānamabhyāsājjñānāddhyānaṃ viśiṣyate .\ndhyānātkarmaphalatyāgastyāgācchāntiranantaram ||12-12||",
+  "wordByWord": [
+    {
+      "term": "ज्ञानम्",
+      "meaning": "knowledge"
+    },
+    {
+      "term": "ध्यानम्",
+      "meaning": "meditation"
+    },
+    {
+      "term": "कर्मफलत्यागः",
+      "meaning": "renunciation of action's fruits"
+    },
+    {
+      "term": "अनन्तरम्",
+      "meaning": "immediately after or next"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि अभ्यास से ज्ञान श्रेष्ठ है, ज्ञान से ध्यान अधिक श्रेष्ठ, ध्यान से कर्मफल का त्याग, और त्याग के बाद तुरंत शांति। इस तुलना का क्रम साफ रखना चाहिए; उसे अपनी पसंद के अनुसार उलट देना पाठ बदलना होगा। पिछले श्लोकों में क्षमता के अनुसार प्रवेश थे, यहाँ त्याग की महत्ता पर जोर देने वाला क्रम है। दिए गए अंश में इस पंक्ति पर अलग विस्तृत टिप्पणी नहीं है, इसलिए किसी विशेष व्याख्या को स्वामी शिवानंद का नाम देकर जोड़ना उचित नहीं। त्याग और शांति का संबंध धार्मिक कथन है। हमारा प्रयोग केवल इतने से किसी चिंतित व्यक्ति को कहना कि तुमने ठीक त्याग नहीं किया, इसलिए बेचैनी है, नहीं हो सकता। ऐसा आरोप अतिरिक्त और असंवेदनशील होगा। हम छोटे स्तर पर परिणाम की लगातार मांग को देखकर थोड़ी ढील देने का अभ्यास कर सकते हैं। क्या अभी उचित प्रयास किया है? क्या बाकी जांच की जरूरत है? इन प्रश्नों के बाद कुछ देर विश्राम लें। यह अभ्यास श्लोक के पूरे त्याग का प्रमाण नहीं, सिर्फ दैनिक अनुभव में संबंध को सावधानी से परखने का अवसर है।",
+  "clearEnglish": "The stated order is explicit: knowledge is better than practice, meditation better than knowledge, renunciation of the fruits of action better than meditation, and peace follows renunciation immediately. The ordering should not be silently reversed to suit a preferred method. It comes after alternatives according to capacity and now emphasizes the significance of relinquishment. The supplied excerpt gives no separate detailed commentary on this verse, so a particular interpretive resolution should not be attributed to Sivananda without evidence. The statement of peace is religious; applying it as an accusation against a distressed person would add an unwarranted conclusion that they simply failed to renounce properly. A modest exercise is to notice a demand for a specific result after responsible effort. Check whether further action is needed, then allow a short rest without repeatedly reopening the demand. This is a limited application, not proof that the complete renunciation has been achieved. The text gives the relation among the named practices and the peace associated with relinquishing fruits.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna states the comparative order and says peace follows renunciation of action's fruits."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A small release of result-demand can be explored without blaming distress or claiming complete renunciation."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Check, then rest",
+      "text": "After appropriate effort, decide whether any further action is actually needed. If not, take a short rest without repeatedly checking for recognition or a result."
+    }
+  ],
+  "reflectionQuestion": "What demand can I loosen after doing the work that is actually required?",
+  "reflectionQuestionHindi": "जरूरी काम कर लेने के बाद कौन सी मांग थोड़ी ढीली कर सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

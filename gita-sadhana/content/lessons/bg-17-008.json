@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-008",
+  "sequenceNumber": 603,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 8,
+  "verseEnd": 8,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "पोषण और प्रसन्नता / Nourishing food",
+  "context": "Krishna describes the qualities of foods dear to sattvic people.",
+  "contextHindi": "कृष्ण सात्त्विक लोगों को प्रिय भोजन के गुण और उनके पोषण संबंधी फल बताते हैं।",
+  "sanskritDevanagari": "आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः |\nरस्याः स्निग्धाः स्थिरा हृद्या आहाराः सात्त्विकप्रियाः ||१७-८||",
+  "transliteration": "āyuḥsattvabalārogyasukhaprītivivardhanāḥ .\nrasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvikapriyāḥ ||17-8||",
+  "wordByWord": [
+    {
+      "term": "āyuḥ",
+      "meaning": "Life or longevity"
+    },
+    {
+      "term": "snigdhāḥ",
+      "meaning": "Unctuous or nourishingly oily"
+    },
+    {
+      "term": "sthirāḥ",
+      "meaning": "Substantial or sustaining"
+    },
+    {
+      "term": "hṛdyāḥ",
+      "meaning": "Agreeable or pleasing"
+    }
+  ],
+  "spokenHindi": "कृष्ण सात्त्विक लोगों को प्रिय भोजन का वर्णन करते हैं। वह जीवन, स्पष्टता, बल, स्वास्थ्य, सुख और प्रसन्नता बढ़ाने वाला बताया गया है। उसमें रस, स्निग्धता, स्थिर पोषण और अच्छा लगने का गुण है। पाठ भोजन को जीवन संभालने वाले संबंध में रखता है। इसे किसी आधुनिक रोग का उपचार, हर व्यक्ति के लिए एक समान सूची, या केवल एक वस्तु की अनिवार्यता नहीं बनाना चाहिए। स्रोत में किसी खास दाल, फल या पकवान का नाम इस श्लोक में नहीं दिया गया है। हमारे लिए एक सुरक्षित अनुप्रयोग यह है कि भोजन चुनते समय केवल दिखावे या कठोर नियम से आगे पोषण, उपलब्धता और अपनी जरूरत देखें। स्वास्थ्य संबंधी खास जरूरत हो तो योग्य सलाह उपयोगी है। किसी के खाने को देखकर उसकी आध्यात्मिक श्रेणी तय करना जरूरी नहीं। आज अपना एक भोजन ध्यान से लें। जल्दबाजी कम करें, शरीर की जरूरत सुनें और उपलब्ध साधनों में सम्मानपूर्वक चुनाव करें। भोजन के प्रति कृतज्ञता का अर्थ किसी दूसरे की कठिन परिस्थिति पर फैसला देना नहीं होना चाहिए।",
+  "clearEnglish": "Krishna describes foods dear to sattvic people as supporting life, clarity, strength, health, happiness, and cheerfulness, and as savoury, unctuous, substantial, and agreeable. The verse supplies qualities rather than a named modern menu. Its traditional account should be reported accurately without converting it into clinical evidence or a universal treatment plan. No particular grain, fruit, or packaged product is specified here. A responsible contemporary application can attend to nourishment, individual needs, availability, and a calm relationship with eating. Where specific health requirements exist, qualified advice remains relevant. The spiritual classification should not become a reason to shame someone whose options are limited or whose diet differs for practical reasons. For one meal, notice whether your attention is on sustaining life or proving adherence to an impressive rule. Eating with care can include gratitude, adequate preparation, and responsiveness to the body. These are modest applications, not promises that a single meal produces spiritual purity.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna lists sustaining and agreeable food qualities dear to sattvic people and their traditional beneficial effects."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Attending to nourishment and individual needs is a modern application; the verse is not a medical diet prescription."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Care with one meal",
+      "text": "Take one meal attentively, considering your actual needs and available resources without judging others' food."
+    }
+  ],
+  "reflectionQuestion": "What would make this meal supportive rather than a test of my worth?",
+  "reflectionQuestionHindi": "यह भोजन मेरी देखभाल कैसे बने, मेरी श्रेष्ठता की परीक्षा कैसे न बने?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

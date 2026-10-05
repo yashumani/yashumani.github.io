@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-016",
+  "sequenceNumber": 587,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 16,
+  "verseEnd": 16,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "मोह का जाल / Entanglement and consequence",
+  "context": "Krishna returns from the quoted boasts to describing confusion, attachment, and the resulting fall.",
+  "contextHindi": "कृष्ण उद्धृत घमंड के बाद भ्रम, आसक्ति और पतन का वर्णन फिर अपने कथन में करते हैं।",
+  "sanskritDevanagari": "अनेकचित्तविभ्रान्ता मोहजालसमावृताः |\nप्रसक्ताः कामभोगेषु पतन्ति नरकेऽशुचौ ||१६-१६||",
+  "transliteration": "anekacittavibhrāntā mohajālasamāvṛtāḥ .\nprasaktāḥ kāmabhogeṣu patanti narake.aśucau ||16-16||",
+  "wordByWord": [
+    {
+      "term": "anekacittavibhrāntāḥ",
+      "meaning": "Bewildered by many thoughts or fancies"
+    },
+    {
+      "term": "mohajāla",
+      "meaning": "Net of delusion"
+    },
+    {
+      "term": "prasaktāḥ",
+      "meaning": "Deeply attached"
+    },
+    {
+      "term": "narake aśucau",
+      "meaning": "Into an impure or foul hell"
+    }
+  ],
+  "spokenHindi": "कृष्ण अनेक विचारों से भटके, मोह के जाल में घिरे और भोग से चिपके लोगों का अशुद्ध नरक में गिरना बताते हैं। श्लोक में नरक का धार्मिक कथन मौजूद है; उसे चुपचाप केवल खराब मनोदशा का नाम बना देना ठीक नहीं होगा। साथ ही आधुनिक अभ्यास के लिए हम मोह और आसक्ति की दिशा देख सकते हैं। एक इच्छा दूसरी को जन्म देती है, और मन हर ओर खिंचता है। यह वर्णन किसी व्यक्ति की सामान्य बेचैनी या मानसिक स्वास्थ्य की कठिनाई का नैतिक फैसला नहीं है। प्रसंग बार बार आत्मप्रशंसा, अन्याय और भोग को अंतिम लक्ष्य बनाने का है। यदि कोई चुनाव हमें तथ्य देखने से रोक रहा है, तो थोड़ी दूरी बनाकर जांचना उपयोगी है। आज अपनी किसी बार बार लौटती चाह को लिखें। उसके पक्ष में वास्तविक तथ्य और अपनी कल्पना अलग रखें। जरूरत हो तो भरोसेमंद व्यक्ति से बात करें। उद्देश्य अपने को डराना नहीं, उस जाल में एक साफ रास्ता खोलना है जहाँ इच्छा को ही प्रमाण मान लिया गया है।",
+  "clearEnglish": "Krishna describes people bewildered by many thoughts, caught in a net of delusion, and attached to gratification as falling into an impure hell. The religious consequence belongs to the text and should not be silently reduced to a metaphor for an unpleasant mood. A modern psychological analogy can still be offered, provided it is labelled as an inference. Repeated fantasies of gain can make attention unstable and make contrary evidence unwelcome. That analogy is about the ethical pattern developed across the passage, not a judgement on people with mental-health difficulties. The preceding boasts and unjust acquisition give the description its context. For practice, examine one recurring desire that seems to generate more imagined scenarios than usable information. Distinguish what is known from what is wished. Consulting someone trustworthy may help reveal an assumption that has become invisible through repetition. The point is to restore room for discernment, not to frighten yourself into obedience or treat every thought as a spiritual danger.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes confusion, delusion, attachment to gratification, and a fall into an impure hell."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Separating facts from recurring fantasies is a modern practice; it does not replace the verse's religious statement with a clinical claim."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Fact and fantasy",
+      "text": "For one recurring desire, write two known facts and one untested assumption."
+    }
+  ],
+  "reflectionQuestion": "Which repeated assumption am I treating as established fact?",
+  "reflectionQuestionHindi": "कौन सी बार बार लौटती कल्पना को मैं पक्का तथ्य मान रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

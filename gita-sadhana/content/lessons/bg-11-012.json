@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-012",
+  "sequenceNumber": 426,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 12,
+  "verseEnd": 12,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "हजार सूर्यों की उपमा / The comparison of a thousand suns",
+  "context": "Sanjaya uses a conditional comparison to convey the splendour of the revealed form.",
+  "contextHindi": "संजय एक साथ उठे हजार सूर्यों की काल्पनिक चमक से दिव्य रूप के तेज की उपमा देते हैं।",
+  "sanskritDevanagari": "दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता |\nयदि भाः सदृशी सा स्याद्भासस्तस्य महात्मनः ||११-१२||",
+  "transliteration": "divi sūryasahasrasya bhavedyugapadutthitā .\nyadi bhāḥ sadṛśī sā syādbhāsastasya mahātmanaḥ ||11-12||",
+  "wordByWord": [
+    {
+      "term": "सूर्यसहस्रस्य",
+      "meaning": "of a thousand suns"
+    },
+    {
+      "term": "युगपत्",
+      "meaning": "simultaneously"
+    },
+    {
+      "term": "यदि",
+      "meaning": "if"
+    },
+    {
+      "term": "भाः",
+      "meaning": "radiance or splendour"
+    }
+  ],
+  "spokenHindi": "संजय कहते हैं कि यदि आकाश में एक हजार सूर्यों की चमक एक साथ उठे, तो वह उस महात्मा के तेज जैसी हो सकती है। यदि का शब्द बताता है कि यह उपमा है। हम किसी वास्तविक खगोलीय घटना की खबर नहीं सुन रहे। युगपत् यानी एक साथ; साधारण सूर्य के परिचित प्रकाश को कल्पना में बहुत बढ़ाकर दिव्य दृश्य का तेज बताया गया है। इस छवि को रोशनी में घूरने, आँखों को तपाने या कोई कठिन अभ्यास करने का निर्देश नहीं बनाना चाहिए। उसका काम भाषा की मदद से विशालता का आभास देना है। किसी चीज की तीव्रता कभी शब्दों में सीधे नहीं पकड़ी जाती, इसलिए कवि तुलना का सहारा लेते हैं। हमारी पढ़ाई में पूछ सकते हैं कि कौन सा शब्द विवरण है और कौन सा उपमान। रोजमर्रा की बात में भी हम कहते हैं कि बहुत बड़ा बोझ था या समय उड़ गया। उन्हें अक्षरशः लेना अर्थ बिगाड़ सकता है। आज किसी प्रभावशाली वाक्य की तुलना पहचानें और फिर उसका सरल अर्थ अपने शब्दों में कहें। इससे सुंदरता भी बचती है और स्पष्टता भी।",
+  "clearEnglish": "The comparison is conditional: if a thousand suns rose in splendour at once, their light might resemble the radiance of the mighty being. Sanjaya uses a familiar source of brightness to approach an extraordinary vision. The verse is not a report that an astronomical event with a thousand suns occurred, and it provides no measurable unit of spiritual luminosity. Yugapat, simultaneously, intensifies the image by gathering the imagined light into one moment. This is poetic language doing the work that ordinary description cannot easily do. A modern reading practice is to preserve the force of a simile while identifying its limits. We use comparisons in everyday speech too, and a literal reading can distort them. Explain what a striking image contributes before converting it into a factual assertion. No visual exercise involving intense light is needed or warranted. The practice may simply involve rereading the verse and paraphrasing its function: the brightness of the divine form exceeds the scale of ordinary sight.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Sanjaya compares the radiance conditionally with a thousand suns shining at once."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Recognizing the simile preserves meaning; no astronomical measurement or light-exposure practice is supplied."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Identify the image",
+      "text": "Choose a striking comparison in a passage. State what it conveys and what it does not literally claim, without losing its poetic force."
+    }
+  ],
+  "reflectionQuestion": "Do I mistake powerful imagery for a literal measurement?",
+  "reflectionQuestionHindi": "क्या मैं प्रभावशाली उपमा को कभी वास्तविक माप समझ लेता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

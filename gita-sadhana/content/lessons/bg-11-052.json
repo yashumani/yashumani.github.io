@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-052",
+  "sequenceNumber": 466,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 52,
+  "verseEnd": 52,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "दुर्लभ दर्शन की चाह / The longing for a rare vision",
+  "context": "Krishna emphasizes the difficulty of seeing the form Arjuna has seen and says even gods long for it.",
+  "contextHindi": "कृष्ण अर्जुन के देखे रूप की दुर्लभता बताते हैं और कहते हैं कि देव भी उसके दर्शन की चाह रखते हैं।",
+  "sanskritDevanagari": "श्रीभगवानुवाच |\nसुदुर्दर्शमिदं रूपं दृष्टवानसि यन्मम |\nदेवा अप्यस्य रूपस्य नित्यं दर्शनकाङ्क्षिणः ||११-५२||",
+  "transliteration": "śrībhagavānuvāca .\nsudurdarśamidaṃ rūpaṃ dṛṣṭavānasi yanmama .\ndevā apyasya rūpasya nityaṃ darśanakāṅkṣiṇaḥ ||11-52||",
+  "wordByWord": [
+    {
+      "term": "सुदुर्दर्शम्",
+      "meaning": "very difficult to see"
+    },
+    {
+      "term": "दृष्टवान् असि",
+      "meaning": "you have seen"
+    },
+    {
+      "term": "देवाः अपि",
+      "meaning": "even the gods"
+    },
+    {
+      "term": "दर्शनकाङ्क्षिणः",
+      "meaning": "longing for a vision"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि मेरा जो रूप तुमने देखा, उसका दर्शन अत्यंत कठिन है। देव भी सदा उसे देखने की इच्छा रखते हैं। इदं रूपम् और दृष्टवानसि अभी हुए दर्शन को संबोधित करते हैं। इस पंक्ति में कृष्ण उसे नया विस्तृत रूपनाम नहीं देते; इसलिए चर्चा में उसके ठीक संकेत को अपनी ओर से अधिक निश्चित बनाना जरूरी नहीं। मुख्य जोर दुर्लभता और देवों की भी चाह पर है। कठिन दर्शन का मूल्य बताने से साधारण जीवन की देखभाल छोटी नहीं हो जाती। हमें किसी खास अनुभव की अनुपस्थिति को अपनी योग्यता की कमी का प्रमाण भी नहीं बनाना चाहिए। यह अंतिम बात हमारा सुरक्षित अनुप्रयोग है। यदि हम लगातार असाधारण अनुभूति की तुलना में अपना अध्ययन तौलते हैं, तो धीरे बनी समझ छूट सकती है। आज किसी छोटे वास्तविक बदलाव को देखें: क्या एक शब्द अधिक समझ आया, क्या प्रतिक्रिया में थोड़ी सावधानी आई? यह विश्वरूप के बराबर उपलब्धि नहीं, केवल दैनिक सीख को उसके अपने पैमाने पर पहचानना है। दुर्लभता की बात श्रद्धा दे सकती है, प्रतियोगिता बनाना आवश्यक नहीं।",
+  "clearEnglish": "Krishna stresses rarity. The form Arjuna has seen is very difficult to behold, and even gods continually desire its vision. The wording points back to the disclosure without supplying a new detailed label for the form in this sentence. A careful lesson can keep that reference as stated rather than overdetermining it through an imported debate. The emphasis is on the exceptional character of what Arjuna has received. A modern inference should not make the absence of extraordinary experience a verdict on someone's worth. The narrative's rarity is not a competitive scale for ordinary practitioners. In study, a real but small gain in understanding can be acknowledged on its own terms. Recognizing a word, asking a better question or acting with more care is not the cosmic vision, yet need not be dismissed because it lacks spectacle. This is practical guidance, separate from the divine claim. The verse gives the gods' longing and the difficulty of beholding the form, reminding Arjuna of the significance of the disclosure.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna calls the form Arjuna has seen difficult to behold and desired even by gods."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Rarity does not make ordinary progress worthless or the absence of special experience evidence of inadequacy."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Recognize ordinary learning",
+      "text": "Name one small genuine gain in understanding or care from study today. Assess it on its own terms without comparing it with extraordinary visions."
+    }
+  ],
+  "reflectionQuestion": "What real learning do I dismiss because it is not spectacular?",
+  "reflectionQuestionHindi": "कौन सी वास्तविक सीख को मैं केवल असाधारण न होने के कारण छोटा मानता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

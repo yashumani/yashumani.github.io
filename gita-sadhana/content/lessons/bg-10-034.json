@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-034",
+  "sequenceNumber": 406,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 34,
+  "verseEnd": 34,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "अंत, उद्भव और गुण / Ending, arising and valued qualities",
+  "context": "Krishna names death, the arising of what is to come, and a series of feminine-associated qualities.",
+  "contextHindi": "कृष्ण मृत्यु, आगे उत्पन्न होने का आधार और नारीणाम् के साथ जुड़े गुणों का उल्लेख करते हैं।",
+  "sanskritDevanagari": "मृत्युः सर्वहरश्चाहमुद्भवश्च भविष्यताम् |\nकीर्तिः श्रीर्वाक्च नारीणां स्मृतिर्मेधा धृतिः क्षमा ||१०-३४||",
+  "transliteration": "mṛtyuḥ sarvaharaścāhamudbhavaśca bhaviṣyatām .\nkīrtiḥ śrīrvākca nārīṇāṃ smṛtirmedhā dhṛtiḥ kṣamā ||10-34||",
+  "wordByWord": [
+    {
+      "term": "मृत्युः सर्वहरः",
+      "meaning": "death that takes everything"
+    },
+    {
+      "term": "उद्भवः",
+      "meaning": "arising or prosperity of what is to come in this edition"
+    },
+    {
+      "term": "मेधा",
+      "meaning": "intelligence or understanding"
+    },
+    {
+      "term": "धृतिः क्षमा",
+      "meaning": "steadfastness and forgiveness"
+    }
+  ],
+  "spokenHindi": "कृष्ण स्वयं को सब कुछ लेने वाली मृत्यु और भविष्य में उत्पन्न होने वालों का उद्भव बताते हैं। दिए गए संस्करण में दूसरे पद का अनुवाद आगे समृद्ध होने वालों की समृद्धि के रूप में भी रखा गया है। अंत और नया उठना दोनों सूची में हैं। फिर कीर्ति, श्री, वाणी, स्मृति, मेधा, धृति और क्षमा आते हैं, जिन्हें नारीणाम् के साथ जोड़ा गया है। यह स्त्रीसंबद्ध गुणों की भाषा है; इससे यह आदेश नहीं बनता कि हर स्त्री को क्षमा ही करते रहना चाहिए, या पुरुष में ये गुण नहीं हो सकते। ऐसी जन्म आधारित अपेक्षाएँ श्लोक से आगे जाएँगी। मृत्यु का उल्लेख गंभीर है, पर इसे किसी शोकग्रस्त व्यक्ति को तुरंत संयत होने का दबाव देने में इस्तेमाल न करें। हमारे लिए ध्यान यह हो सकता है कि जीवन सीमित है और फिर भी उसमें नई शुरुआतें होती हैं। याद रखने, स्पष्ट बोलने और धैर्य रखने का कोई छोटा अवसर चुनें। किसी कठिन संबंध में क्षमा का विचार हो तो सुरक्षा और अपनी सीमा भी साथ रखें।",
+  "clearEnglish": "The verse joins a stark ending with emergence: Krishna is all-taking death and the arising of what is to come. The supplied translation also renders the latter through the prosperity of those who are to prosper. That range should remain visible rather than concealed under one simplified phrase. The second line names fame, prosperity, speech, memory, intelligence, firmness and forgiveness in a feminine association. Care is needed not to convert this grammatical and religious grouping into fixed expectations for living people. It does not establish that women must tolerate mistreatment, that men lack these capacities, or that identity determines character. The death image likewise warrants sensitivity when used around grief. A contemplative inference is awareness of finitude, which can give an ordinary act of care a clearer priority. Choose one useful quality, such as remembering a commitment or speaking accurately, and practise it in a concrete setting. The practice is ours; the verse's literal role is to include both ending and valued qualities within the divine catalogue.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names all-taking death, emergence or coming prosperity, and a feminine-associated series of qualities."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "These qualities can be practised without imposing gender duties; finitude can invite care without suppressing grief."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Practise a named quality",
+      "text": "Choose memory, clear speech or steadfastness. Fulfil one small commitment today; do not use forgiveness to override your safety or another person's boundary."
+    }
+  ],
+  "reflectionQuestion": "Which named quality would improve one responsibility I have today?",
+  "reflectionQuestionHindi": "इन गुणों में कौन सा आज की मेरी एक जिम्मेदारी को बेहतर निभाने में मदद करेगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

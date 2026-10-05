@@ -1,0 +1,71 @@
+{
+  "id": "bg-15-019",
+  "sequenceNumber": 570,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 19,
+  "verseEnd": 19,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "Knowing becomes wholehearted devotion / समझ से पूर्ण भाव की भक्ति",
+  "context": "Krishna describes the undeluded recognition of himself as Purushottama and the wholehearted devotion it brings.",
+  "contextHindi": "पुरुषोत्तम नाम का अर्थ बताने के बाद कृष्ण उस पहचान से जुड़ी सर्वभाव भक्ति का फल कहते हैं।",
+  "sanskritDevanagari": "यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् |\nस सर्वविद्भजति मां सर्वभावेन भारत ||१५-१९||",
+  "transliteration": "yo māmevamasammūḍho jānāti puruṣottamam .\nsa sarvavidbhajati māṃ sarvabhāvena bhārata ||15-19||",
+  "wordByWord": [
+    {
+      "term": "asammūḍhaḥ",
+      "meaning": "undeluded; मोह रहित"
+    },
+    {
+      "term": "jānāti",
+      "meaning": "knows; जानता है"
+    },
+    {
+      "term": "sarvavit",
+      "meaning": "knowing all, in this spiritual context"
+    },
+    {
+      "term": "sarvabhāvena",
+      "meaning": "with one's whole being or disposition"
+    },
+    {
+      "term": "bhajati",
+      "meaning": "worships or devotes oneself"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जो उन्हें इस तरह पुरुषोत्तम जानता है और मोह में नहीं है, वह सर्वज्ञ होकर पूरे भाव से उनकी भक्ति करता है। ‘इस तरह’ पिछले श्लोकों से जुड़ा है: क्षर, अक्षर और उनसे परे धारण करने वाले परम की पहचान। इसलिए ज्ञान केवल नाम जानने की बात नहीं। वह संबंध और दृष्टि का परिवर्तन है, जिससे भक्ति पूरे भाव की होती है। ‘सर्ववित्’ को पढ़कर हर विषय की तकनीकी जानकारी होने का दावा करना उचित नहीं। आध्यात्मिक संदर्भ में यह मूल पहचान की व्यापकता की भाषा है। किसी को इस शब्द के सहारे चिकित्सक, वैज्ञानिक या हर निर्णय का अंतिम अधिकार मानना पाठ से आगे जाएगा। हमारे लिए छोटा अभ्यास है कि जिस मूल्य की बात श्रद्धा से करते हैं, वह एक साधारण व्यवहार में भी दिखे। जैसे सत्य की चर्चा के बाद अपनी जानकारी की सीमा स्वीकारना। यह आधुनिक अनुप्रयोग है, पूर्ण ज्ञान का दावा नहीं। समझ और भक्ति मिलकर ईमानदार आचरण की दिशा दे सकती हैं, जहाँ शब्द और व्यवहार दूर न रहें।",
+  "clearEnglish": "The person who knows Krishna as Purushottama without delusion is called a knower of all and worships him with the whole being. The phrase thus refers back to the preceding explanation of the perishable, imperishable, and Supreme. Recognition is connected with devotion, so understanding is not portrayed as detached possession of a correct label. It changes orientation. Sarvavit should be read within this spiritual scope, rather than as a guarantee of technical expertise in every field. The verse does not authorize treating a spiritual teacher as the final authority on medicine, engineering, or each personal decision. A contemporary application is to let a professed commitment influence ordinary conduct. If truthfulness is valued, acknowledging the limits of one's information can express it more fully than an impressive declaration. This practice is not equivalent to the complete knowledge described. It simply examines whether understanding and heartfelt commitment are becoming consistent in action. Wholeheartedness can include humility about what still needs to be learned.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Undeluded knowledge of Krishna as Purushottama is connected with knowing all and wholehearted worship."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Coherence between professed commitment and conduct is a practical application; sarvavit is not a guarantee of universal technical expertise."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Let one valued commitment guide a small action, such as acknowledging an uncertainty instead of claiming expertise."
+    }
+  ],
+  "reflectionQuestion": "Where could my conduct express more of the understanding I say I value?",
+  "reflectionQuestionHindi": "जिस समझ को महत्व देता हूँ, उसे मेरा आचरण कहाँ अधिक साफ दिखा सकता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

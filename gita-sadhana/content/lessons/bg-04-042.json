@@ -1,0 +1,75 @@
+{
+  "id": "bg-04-042",
+  "sequenceNumber": 204,
+  "date": "2026-10-05",
+  "chapter": 4,
+  "verseStart": 42,
+  "verseEnd": 42,
+  "chapterNameSanskrit": "ज्ञानकर्मसंन्यासयोग",
+  "chapterNameEnglish": "Jñāna Karma Sannyāsa Yoga",
+  "theme": "संदेह को काटना, योग में उठना | Cutting doubt with wisdom and rising in yoga",
+  "context": "The previous verse established that a yogic person is not bound by action. Now Krishna moves from diagnosis to practice: doubt is not just a thought problem; it is a condition of the heart. The solution is not more arguing but the cutting of ignorance through discernment, then a steadier engagement in yoga.",
+  "contextHindi": "पिछले श्लोक में भगवान ने बताया कि योगी कर्म से नहीं बंधता। अब वे अभ्यास की ओर आते हैं: संशय केवल बौद्धिक समस्या नहीं, हृदय की अवस्था है। समाधान तर्क-वितर्क से अधिक नहीं, बल्कि अज्ञान को विवेक से काटकर योग में स्थिर होना है।",
+  "sanskritDevanagari": "तस्मादज्ञानसम्भूतं हृत्स्थं ज्ञानासिनात्मनः |\nछित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत ||४-४२||",
+  "transliteration": "tasmādajñānasambhūtaṃ hṛtsthaṃ jñānāsinātmanaḥ .\nchittvainaṃ saṃśayaṃ yogamātiṣṭhottiṣṭha bhārata ||4-42||",
+  "wordByWord": [
+    {
+      "term": "तस्मात्",
+      "meaning": "therefore; in view of this truth."
+    },
+    {
+      "term": "अज्ञानसम्भूतं",
+      "meaning": "born of ignorance; created by delusion and confusion."
+    },
+    {
+      "term": "हृत्स्थं",
+      "meaning": "situated in the heart; lodged in the inner self."
+    },
+    {
+      "term": "ज्ञानासिनात्मनः",
+      "meaning": "with the sword of knowledge of the Self; insight is the instrument that cuts delusion."
+    },
+    {
+      "term": "योगम्",
+      "meaning": "yoga; steady union, disciplined inner alignment."
+    }
+  ],
+  "spokenHindi": "भगवान यहाँ बहुत स्पष्ट कहते हैं—संदेह नहीं बैठा है सिर्फ दिमाग में, वह हृदय में है। वह अज्ञान से जन्मा हुआ है, इसलिए उसे केवल बहस से नहीं, विवेक से काटना पड़ता है। ‘ज्ञान-आसि’ का अर्थ है ज्ञान की तलवार, जिस पर अहंकार, विकार और शंका नहीं टिकते। इसलिए श्लोक का अर्थ है: अपने हृदय में बैठे संशय को स्पष्ट समझ और आत्म-जागरूकता के द्वारा काटो; फिर योग में स्थिर रहो। ‘उत्तिष्ठ’—उठो, आगे बढ़ो। यह आदेश केवल युद्ध के लिए नहीं है, यह जीवन के भीतर भी है: जब मन भ्रम से भर जाए, तो यह दायित्व है कि हम विवेक से अपने भीतर की आंधी को साफ करें और फिर स्थिरता से आगे बढ़ें। योग का मतलब है भीतर की एकता, न कि मन की मानसिक भागदौड़।",
+  "clearEnglish": "This verse tells Arjuna to cut the doubt born of ignorance, which resides in the heart, with the sword of knowledge of the Self, and to take refuge in yoga. “Jñānāsinā” means “with the sword of knowledge”; the image describes knowledge as the means for cutting through doubt. “Hṛt-stham” means “situated in the heart,” and “yogam ātiṣṭha” calls Arjuna to establish himself in yoga. The verse does not promise that every question or uncertainty will disappear. It addresses doubt born of ignorance and gives a direct instruction: use knowledge to cut through that doubt, take refuge in yoga, and arise. In the context of the previous verse, knowledge cuts through doubt, while yoga offers a way to steady oneself and act. The closing command, “uttiṣṭha,” means “arise.” Krishna is urging Arjuna to put the teaching into practice rather than remain held back by this doubt.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse literally instructs: cut asunder the doubt born of ignorance that resides in the heart, and take refuge in yoga. It presents knowledge and disciplined practice as complementary, not oppositional."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "It is reasonable to infer that a person’s deepest conflict is often not a lack of information but a lack of inner clarity and steadiness. Wisdom reduces uncertainty, and practice keeps that wisdom from dissolving back into confusion."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Name the doubt",
+      "text": "When confusion rises, write one sentence: 'What am I actually afraid of, and what is the deeper truth here?' This turns vague anxiety into a concrete question."
+    },
+    {
+      "label": "Return to steadiness",
+      "text": "After a difficult decision, sit for two minutes, breathe deeply, and return to a simple intention: 'I will act from clarity rather than panic.'"
+    }
+  ],
+  "reflectionQuestion": "What kind of doubt in you is really a lack of knowledge, and what kind is a sign that you are attached to a result or identity?",
+  "reflectionQuestionHindi": "आपके भीतर किस प्रकार का संशय वास्तव में ज्ञान की कमी है, और किस प्रकार का संशय परिणाम या अपनी पहचान से चिपकने का संकेत है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

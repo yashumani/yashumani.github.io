@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-008",
+  "sequenceNumber": 631,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 8,
+  "verseEnd": 8,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "असुविधा के डर से छोड़ना / Withdrawal from fear of discomfort",
+  "context": "Krishna calls abandonment of action from fear of bodily trouble rajasic and denies it the fruit of renunciation.",
+  "contextHindi": "कृष्ण शरीर के कष्ट के डर से कर्म छोड़ने को राजसिक बताते हैं और उसमें त्याग का फल नहीं बताते।",
+  "sanskritDevanagari": "दुःखमित्येव यत्कर्म कायक्लेशभयात्त्यजेत् |\nस कृत्वा राजसं त्यागं नैव त्यागफलं लभेत् ||१८-८||",
+  "transliteration": "duḥkhamityeva yatkarma kāyakleśabhayāttyajet .\nsa kṛtvā rājasaṃ tyāgaṃ naiva tyāgaphalaṃ labhet ||18-8||",
+  "wordByWord": [
+    {
+      "term": "duḥkham iti",
+      "meaning": "Thinking it painful"
+    },
+    {
+      "term": "kāyakleśabhayāt",
+      "meaning": "From fear of bodily trouble"
+    },
+    {
+      "term": "rājasaṃ tyāgam",
+      "meaning": "Rajasic abandonment"
+    },
+    {
+      "term": "tyāgaphalam",
+      "meaning": "The fruit of renunciation"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि केवल कष्ट समझकर शरीर की परेशानी के डर से कर्म छोड़ने वाला राजसिक त्याग करता है और त्याग का फल नहीं पाता। यहां छोड़ने का कारण जांचा जा रहा है। उचित काम में कुछ असुविधा हो सकती है; हर असुविधा अपने आप उससे हटने का सही कारण नहीं बनती। फिर भी इस श्लोक को दर्द की अनदेखी करने या जरूरी स्वास्थ्य सहायता छोड़ने का आदेश न मानें। वास्तविक खतरा, क्षमता और देखभाल की जरूरत आधुनिक निर्णय में महत्वपूर्ण हैं। पाठ में राजसिक त्याग का वर्णन है; हमारे पास किसी दूसरे के दर्द का फैसला करने की पूरी जानकारी नहीं होती। अपने जीवन में एक सुरक्षित लेकिन असुविधाजनक काम चुनें, जैसे टाला हुआ स्पष्ट संदेश या जरूरी छोटी व्यवस्था। पूछें कि क्या केवल झिझक रोक रही है। यदि हाँ, तो सीमित समय का पहला कदम लें। यदि वास्तविक नुकसान का जोखिम है, तो उचित सलाह और बदलाव करें। विवेक से असुविधा का सामना करना और अपने शरीर की जिम्मेदार देखभाल साथ रह सकते हैं।",
+  "clearEnglish": "Krishna describes a person who abandons action simply because it is painful, from fear of bodily trouble, as making rajasic abandonment and not obtaining the fruit of renunciation. The verse evaluates the motive for leaving, rather than praising withdrawal merely because it looks austere. A useful contemporary distinction is between manageable discomfort in a legitimate task and circumstances involving harm or limits that need attention. That distinction is an application, not an exception enumerated by the verse. It prevents the teaching from becoming pressure to ignore pain, health needs, or unsafe conditions. We also lack the evidence to judge another person's bodily experience casually. For your own practice, choose a safe but awkward responsibility, such as a necessary conversation or neglected arrangement. If hesitation alone is the barrier, take a bounded first step. If there is a real risk, seek appropriate advice and alter the plan. Discernment can support both courage and responsible care.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna calls abandonment from fear of bodily trouble rajasic and says it does not yield the fruit of renunciation."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Distinguishing manageable discomfort from actual harm is a modern safeguard, not permission to judge another's pain."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "A bounded first step",
+      "text": "Take a small first step on one safe but uncomfortable responsibility, adjusting for actual limits."
+    }
+  ],
+  "reflectionQuestion": "Is hesitation or a real risk preventing this action?",
+  "reflectionQuestionHindi": "इस काम को झिझक रोक रही है या कोई वास्तविक जोखिम?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

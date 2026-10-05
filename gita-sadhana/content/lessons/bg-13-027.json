@@ -1,0 +1,67 @@
+{
+  "id": "bg-13-027",
+  "sequenceNumber": 516,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 27,
+  "verseEnd": 27,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Every being through field and knower / क्षेत्र और ज्ञाता से हर प्राणी",
+  "context": "Krishna describes the origin of moving and unmoving beings through the conjunction of field and knower.",
+  "contextHindi": "कृष्ण चर और अचर सभी प्राणियों की उत्पत्ति क्षेत्र तथा क्षेत्रज्ञ के संयोग से बताते हैं।",
+  "sanskritDevanagari": "यावत्सञ्जायते किञ्चित्सत्त्वं स्थावरजङ्गमम् |\nक्षेत्रक्षेत्रज्ञसंयोगात्तद्विद्धि भरतर्षभ ||१३-२७||",
+  "transliteration": "yāvatsañjāyate kiñcitsattvaṃ sthāvarajaṅgamam .\nkṣetrakṣetrajñasaṃyogāttadviddhi bharatarṣabha ||13-27||",
+  "wordByWord": [
+    {
+      "term": "sattvam",
+      "meaning": "a being or existent here, not specifically the sattva guna"
+    },
+    {
+      "term": "sthāvarajaṅgamam",
+      "meaning": "unmoving and moving"
+    },
+    {
+      "term": "saṃyogāt",
+      "meaning": "from conjunction or union"
+    },
+    {
+      "term": "kṣetrakṣetrajña",
+      "meaning": "field and its knower"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जो भी कोई चर या अचर प्राणी जन्म लेता है, वह क्षेत्र और क्षेत्रज्ञ के संयोग से है। ‘सत्त्व’ शब्द यहाँ प्राणी या अस्तित्व की दिशा में है, उसे अगले अध्याय वाले सत्त्व गुण के अर्थ में न मिलाएँ। चर और अचर का साथ कथन को व्यापक बनाता है। क्षेत्र की चर्चा केवल अपने शरीर के बारे में नहीं रह जाती, बल्कि सभी जन्म लेने वाले रूपों के संबंध तक जाती है। यह दार्शनिक उत्पत्ति का कथन है, जीवविज्ञान का पूरा विवरण नहीं। एक आधुनिक नैतिक निष्कर्ष यह हो सकता है कि अपने पसंद के प्राणी ही सम्मान के योग्य नहीं हैं। पौधे, पशु और अन्य मनुष्यों के साथ हमारी जिम्मेदारी अलग हो सकती है, फिर भी केवल उपयोगिता से उनका मूल्य तय करना संकीर्ण है। यह निष्कर्ष है, श्लोक की शब्दशः नियमावली नहीं। आज किसी जीवन रूप के लिए उपयुक्त छोटी देखभाल करें। पौधे को जरूरत अनुसार पानी दें या किसी के अनुभव को बिना उपेक्षा सुनें। साझा प्रश्न के साथ वास्तविक भिन्नता का ध्यान रखना भी जरूरी है।",
+  "clearEnglish": "Whatever being arises, moving or unmoving, comes from the conjunction of the field and its knower. The word sattvam here refers to a being or existent; it should not be confused with the particular guna named sattva in the following chapter. The paired moving and unmoving broadens the account beyond one's own embodied experience. This is a philosophical teaching about origin, rather than a complete biological explanation. One ethical inference is that regard need not be restricted to favored forms of life. Plants, animals, and other people may call for different kinds of care, yet usefulness to us is not the only possible basis for respect. This is an application, not a detailed rule given in the verse. Choose an appropriate small act, such as tending a plant according to its needs or listening without dismissing a person's account. Respect for the breadth of the teaching should remain compatible with attention to real differences, practical safety, and the particular needs of each being.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "All arising moving and unmoving beings come from the conjunction of field and knower; sattvam here means a being."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Appropriate regard for varied life is an ethical inference, not identical treatment or a biological theory."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Offer one suitable act of care to a life form you tend to overlook, attending to its actual needs."
+    }
+  ],
+  "reflectionQuestion": "Which living presence do I overlook because it is not immediately useful to me?",
+  "reflectionQuestionHindi": "किस जीवित उपस्थिति को मैं इसलिए अनदेखा करता हूँ कि वह तुरंत मेरे काम नहीं आती?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

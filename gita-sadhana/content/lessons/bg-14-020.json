@@ -1,0 +1,67 @@
+{
+  "id": "bg-14-020",
+  "sequenceNumber": 544,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 20,
+  "verseEnd": 20,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "Crossing the qualities and liberation / गुणों से पार की मुक्ति",
+  "context": "Krishna describes freedom from birth, death, aging, and pain upon transcending the three body-producing qualities.",
+  "contextHindi": "कृष्ण गुणों के पार जाने का आध्यात्मिक फल जन्म, मृत्यु, जरा और दुख से मुक्ति बताते हैं।",
+  "sanskritDevanagari": "गुणानेतानतीत्य त्रीन्देही देहसमुद्भवान् |\nजन्ममृत्युजरादुःखैर्विमुक्तोऽमृतमश्नुते ||१४-२०||",
+  "transliteration": "guṇānetānatītya trīndehī dehasamudbhavān .\njanmamṛtyujarāduḥkhairvimukto.amṛtamaśnute ||14-20||",
+  "wordByWord": [
+    {
+      "term": "atītya",
+      "meaning": "having crossed beyond"
+    },
+    {
+      "term": "dehasamudbhavān",
+      "meaning": "giving rise to the body"
+    },
+    {
+      "term": "vimuktaḥ",
+      "meaning": "freed; मुक्त"
+    },
+    {
+      "term": "amṛtam",
+      "meaning": "immortality; अमृत"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि शरीर की उत्पत्ति से जुड़े इन तीन गुणों को पार करके देही जन्म, मृत्यु, बुढ़ापे और दुख से मुक्त होकर अमृत का अनुभव करता है। यहाँ अमृत आध्यात्मिक मुक्ति की भाषा है। इसे पढ़कर शरीर कभी बीमार नहीं होगा या उम्र नहीं बढ़ेगी, ऐसा वादा करना पाठ से गलत अपेक्षा जोड़ देगा। श्लोक देही और देह में अंतर रखता है; आगे अर्जुन इसी पार होने के लक्षण और मार्ग पूछेंगे। इसलिए अभी यह दावा न करें कि किसी थोड़ी शांत स्थिति में गुणों से पूरी तरह परे पहुँच गए। अपने लिए एक छोटी दिशा यह हो सकती है कि बदलते शरीर और मन की देखभाल करें, पर उनमें हर बदलाव को अपने मूल्य का अंतिम फैसला न मानें। दर्द हो तो उपचार और सहारा लेना उचित है। आध्यात्मिक लक्ष्य देखभाल छोड़ने का कारण नहीं बनता। इस कथन को उसकी बड़ी मुक्ति संबंधी सीमा में सुनें और दिन के लिए धैर्य, जिम्मेदारी तथा करुणा का छोटा अभ्यास चुनें।",
+  "clearEnglish": "The embodied one who goes beyond the three qualities responsible for bodily emergence is freed from birth, death, aging, and pain and enjoys immortality. This is the chapter's language of liberation. It should not be offered as a prediction that a practitioner's biological body will stop aging or become immune to illness. The distinction between the embodied knower and the body is central to the claim. The next exchange will ask about the signs and method of going beyond, so a passing calm state should not be declared equivalent to the attainment named here. A bounded application is to care for changing bodily and mental conditions without treating each change as a final verdict on personal worth. Medical care, assistance, and grief support remain appropriate when needed. Such care can coexist with contemplation of a deeper identity. The verse enlarges the spiritual horizon; it does not give a shortcut for avoiding the practical demands of embodied life.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Transcending the three body-producing gunas brings freedom from birth, death, aging, and pain and attainment of immortality."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Caring for the body while reflecting on a deeper identity is an application; no promise of biological immunity follows."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Respond kindly to one bodily limitation today and arrange the practical care or help it needs."
+    }
+  ],
+  "reflectionQuestion": "Can I care for change without making it the complete measure of my worth?",
+  "reflectionQuestionHindi": "क्या मैं बदलाव की देखभाल कर सकता हूँ, उसे अपनी पूरी कीमत का पैमाना बनाए बिना?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

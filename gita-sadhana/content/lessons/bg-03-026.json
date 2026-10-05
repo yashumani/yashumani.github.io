@@ -1,0 +1,79 @@
+{
+  "id": "bg-03-026",
+  "sequenceNumber": 145,
+  "date": "2026-10-05",
+  "chapter": 3,
+  "verseStart": 26,
+  "verseEnd": 26,
+  "chapterNameSanskrit": "कर्मयोग",
+  "chapterNameEnglish": "Karma Yoga",
+  "theme": "ज्ञान, समत्व और मार्गदर्शन — wisdom, serenity, and guiding others",
+  "context": "Now Krishna gives a practical warning: the wise person should not disturb the minds of those still driven by attachment. Guidance must come from disciplined living, not from moral agitation or public shaming.",
+  "contextHindi": "अब कृष्ण अर्जुन को कहते हैं कि कर्म में आसक्त अज्ञानी लोगों के मन को चंचल न करो; ज्ञानी को अपने जीवन में समत्व से कर्म करना चाहिए और दूसरों को शांति से मार्ग दिखाना चाहिए।",
+  "sanskritDevanagari": "न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम् |\nजोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन् ||३-२६||",
+  "transliteration": "na buddhibhedaṃ janayedajñānāṃ karmasaṅginām .\njoṣayetsarvakarmāṇi vidvānyuktaḥ samācaran ||3-26||",
+  "wordByWord": [
+    {
+      "term": "बुद्धिभेदम्",
+      "meaning": "confusion, unsettling, or fragmentation of understanding"
+    },
+    {
+      "term": "जनयेत्",
+      "meaning": "should generate; should cause to arise"
+    },
+    {
+      "term": "अज्ञानाम्",
+      "meaning": "of the ignorant; of those whose discrimination is clouded"
+    },
+    {
+      "term": "कर्मसङ्गिनाम्",
+      "meaning": "those attached to action, bound by the grip of doing and result"
+    },
+    {
+      "term": "विद्वान्",
+      "meaning": "the one who knows; the wise person whose action is informed by insight"
+    },
+    {
+      "term": "युक्तः समाचरन्",
+      "meaning": "acting in harmony, engaged with steadiness and inner integration"
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण कहते हैं कि ज्ञानी व्यक्ति कर्म में आसक्त लोगों की समझ को विचलित न करे। साथ ही, वह स्वयं ठीक ढंग से आचरण करते हुए उन्हें सभी कर्मों में लगाए या प्रोत्साहित करे। 'बुद्धिभेद' का अर्थ है समझ में भ्रम या विचलन। 'जोषयेत्' का अर्थ है कर्म में लगाना या प्रोत्साहित करना; इसका अर्थ किसी को भीतर से स्थिर करना नहीं है। श्लोक यह नहीं कहता कि हर सुधार से बचना चाहिए। यह सावधान करता है कि दूसरों की समझ को तोड़ने के बजाय उन्हें कर्म करने में सहारा दिया जाए। ज्ञानी व्यक्ति अपनी बात और व्यवहार में धैर्य रखता है। वह केवल उपदेश नहीं देता, बल्कि स्वयं भी कर्म करता है। रोज़मर्रा में इसका अर्थ है कि किसी को सीख देते समय उसकी स्थिति का ध्यान रखें और काम का स्पष्ट रास्ता दिखाएँ। बात समझाने के साथ अपने आचरण से भी उसका उदाहरण दें।",
+  "clearEnglish": "The verse says that the wise should not unsettle the understanding of people who are attached to action. Instead, while acting with discipline, they should engage or encourage them in their actions. “Buddhibheda” refers to disturbing or dividing understanding, and “joṣayet” means to engage, encourage, or set people to action. The verse is not a call for passivity or for abandoning correction. It cautions against disrupting people’s understanding, while presenting the wise person as someone who acts and helps others stay engaged in action. “Samācaran” means acting or conducting oneself; it does not mean living in harmony with what is true. In practical terms, this teaching can guide someone who is helping a colleague or family member: explain the next step clearly, avoid needlessly unsettling them, and follow through with your own conduct. This application is one way to put the verse into practice, not an additional literal definition of its words.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse explicitly says that the wise should not disturb the understanding of the ignorant attached to action; instead, they should engage them in action with wisdom and steadiness. It is a guidance model, not a license for domination."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "From this, we can infer that genuine teaching is patient, practical, and self-regulating. When a person cannot yet act from insight, the wisest response is to offer a stable example and practical structure rather than a confrontational lecture."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Teach by steadiness",
+      "text": "In a team or family, avoid correcting everyone at once. Model the right action calmly and let your consistency convey the lesson more effectively than a debate."
+    },
+    {
+      "label": "Work with someone’s level",
+      "text": "If a person is overwhelmed, give one clear next step instead of a heavy moral lecture. Guidance becomes more effective when it meets people where they are, without shaming them."
+    }
+  ],
+  "reflectionQuestion": "Am I trying to fix others, or am I offering a stable example that invites them toward greater awareness?",
+  "reflectionQuestionHindi": "क्या मैं दूसरों को बदलने की कोशिश कर रहा हूँ, या अपने स्थिर आचरण से उन्हें सीखने का अवसर दे रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-046",
+  "sequenceNumber": 460,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 46,
+  "verseEnd": 46,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "चार भुजाओं वाले रूप की इच्छा / The requested four-armed form",
+  "context": "Arjuna specifies a crowned form with mace and discus, asking the thousand-armed cosmic form to appear with four arms.",
+  "contextHindi": "अर्जुन मुकुट, गदा और चक्र सहित चार भुजाओं वाला रूप स्पष्ट रूप से माँगते हैं।",
+  "sanskritDevanagari": "किरीटिनं गदिनं चक्रहस्तं\nइच्छामि त्वां द्रष्टुमहं तथैव |\nतेनैव रूपेण चतुर्भुजेन\nसहस्रबाहो भव विश्वमूर्ते ||११-४६||",
+  "transliteration": "kirīṭinaṃ gadinaṃ cakrahastaṃ icchāmi tvāṃ draṣṭumahaṃ tathaiva .\ntenaiva rūpeṇa caturbhujena sahasrabāho bhava viśvamūrte ||11-46||",
+  "wordByWord": [
+    {
+      "term": "किरीटिनम्",
+      "meaning": "crowned"
+    },
+    {
+      "term": "चक्रहस्तम्",
+      "meaning": "with a discus in hand"
+    },
+    {
+      "term": "चतुर्भुजेन",
+      "meaning": "with four arms"
+    },
+    {
+      "term": "सहस्रबाहो",
+      "meaning": "O thousand-armed one"
+    }
+  ],
+  "spokenHindi": "अर्जुन अपनी इच्छा को अब स्पष्ट करते हैं। वे मुकुट, गदा और हाथ में चक्र के साथ कृष्ण को देखना चाहते हैं, उसी चार भुजाओं वाले रूप में। वे उन्हें सहस्रबाहो और विश्वमूर्ते कहकर संबोधित करते हैं। इसलिए इस अनुरोध को सीधे दो हाथ वाले सामान्य मानव रूप की मांग कहना ठीक नहीं; चतुर्भुजेन शब्द स्पष्ट है। आगे कथा में सौम्य रूप और मानव रूप के शब्द आएँगे, पर यहाँ का विवरण अपने स्थान पर रहे। परिचित चिह्न उसी विराट दर्शन में पहले दिखे थे; अब अर्जुन एक सीमित, स्वीकार करने योग्य प्रस्तुति चाहते हैं। हमारा उपयोग अपनी जरूरत को अस्पष्ट शिकायत से स्पष्ट अनुरोध में बदलना हो सकता है। केवल इतना कहना कि यह बहुत ज्यादा है, उसकी तुलना में कहना कि मुझे छोटा चरण या धीमी गति चाहिए, दूसरों को मदद का अवसर देता है। यह साधारण संवाद का संकेत है, चार भुजाओं का मनोवैज्ञानिक सूत्र नहीं। अपनी मांग रखते समय दूसरे की स्वतंत्रता और परिस्थिति भी सुनें। स्पष्टता और सौम्यता साथ रह सकती हैं।",
+  "clearEnglish": "The requested form is specific: crowned, bearing a mace, with a discus in hand, and four-armed. Arjuna addresses the cosmic form as thousand-armed while asking for this more familiar presentation. Chaturbhujena should not be silently changed into a request for an ordinary two-armed human appearance. Later verses will speak of gentleness and a human form, but their wording should not overwrite the present request. The familiar emblems have already appeared within the immense vision; Arjuna now seeks a form he can receive more readily. A modest modern application is the value of a clear request. Instead of saying only that something feels excessive, specify a smaller step, a slower pace or a simpler explanation that would help. This does not make the four-armed image a psychological code. It is an analogy from the way the request becomes concrete. The other person's circumstances and choice also remain relevant. The verse itself records Arjuna's precise devotional wish for a particular divine form.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna explicitly requests the crowned, mace-bearing, discus-bearing four-armed form."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Specifying a manageable request is a modern analogy; the four-armed wording must remain distinct from later human-form language."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Make a request concrete",
+      "text": "For one difficult learning task, state whether a smaller step, slower pace or simpler explanation would help. Invite a realistic response."
+    }
+  ],
+  "reflectionQuestion": "What precise change would make my request easier to understand?",
+  "reflectionQuestionHindi": "कौन सा स्पष्ट बदलाव मेरे अनुरोध को समझना आसान बनाएगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-040",
+  "sequenceNumber": 412,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 40,
+  "verseEnd": 40,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "सूची की सीमा / The catalogue's limits",
+  "context": "Krishna closes the detailed list by reiterating that his divine glories have no end.",
+  "contextHindi": "विस्तृत उदाहरणों के बाद कृष्ण फिर बताते हैं कि विभूतियाँ अनंत हैं और यह केवल संक्षिप्त संकेत है।",
+  "sanskritDevanagari": "नान्तोऽस्ति मम दिव्यानां विभूतीनां परन्तप |\nएष तूद्देशतः प्रोक्तो विभूतेर्विस्तरो मया ||१०-४०||",
+  "transliteration": "nānto.asti mama divyānāṃ vibhūtīnāṃ parantapa .\neṣa tūddeśataḥ prokto vibhūtervistaro mayā ||10-40||",
+  "wordByWord": [
+    {
+      "term": "न अन्तः",
+      "meaning": "no end"
+    },
+    {
+      "term": "दिव्यानाम् विभूतीनाम्",
+      "meaning": "of divine glories"
+    },
+    {
+      "term": "उद्देशतः",
+      "meaning": "by way of brief indication"
+    },
+    {
+      "term": "प्रोक्तः",
+      "meaning": "stated or spoken"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि उनकी दिव्य विभूतियों का अंत नहीं है। अभी जो विस्तार बताया गया, वह केवल संक्षिप्त संकेत के रूप में है। यह बात सूची शुरू करते समय भी कही गई थी; अंत में लौटकर वह सुनने की सही दिशा फिर साफ करती है। अनेक नामों के बाद हमें लग सकता है कि अब पूरा विवरण मिल गया। उद्देशतः बताता है कि यह चुनकर दिखाना था, असीम को खत्म कर देना नहीं। इसलिए आगे की जिज्ञासा के लिए जगह बनी रहती है। सूची का उद्देश्य स्मरण का सहारा बनना है, केवल परीक्षा की तरह गिनती पूरी कराना हमारा अनुमान नहीं होना चाहिए। अपना अध्ययन करते समय एक उपयोगी तरीका है कि जो समझ आया और जो बाकी है, दोनों लिखें। बाकी बचना हमेशा असफलता नहीं; विषय की विशालता का संकेत भी हो सकता है। फिर एक सीमित अगला कदम चुनें ताकि असीम का विचार हमें निष्क्रिय न कर दे। यह आधुनिक पढ़ाई का उपयोग है। कृष्ण का स्पष्ट कथन अपनी महिमा की अनंतता और दिए गए वर्णन की संक्षिप्तता है।",
+  "clearEnglish": "The closing qualification repeats the opening one: Krishna's divine glories have no end, and the preceding account has been a brief indication. Repetition here shapes interpretation. After many vivid names, a listener could mistake familiarity with the list for completeness of knowledge. Uddeshatah corrects that impression by describing the mode of presentation as selective indication. The examples remain meaningful precisely because they point beyond themselves. A practical study inference is to keep a record of both understanding and open questions. An unanswered question need not make everything already understood useless. It may show that the subject is larger than the current account. At the same time, the idea of an unlimited subject should not become a reason to stop learning. Choose a bounded next step: clarify one category, revisit one passage or compare the wording with the supplied translation. That method belongs to our application. The verse's actual claim concerns the inexhaustibility of divine manifestations and the limited form of this spoken description.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna reiterates that his glories are endless and the account is a brief indication."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Acknowledging open questions can coexist with a bounded next step in study."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Record both kinds of learning",
+      "text": "Write one point understood and one open question from the catalogue. Choose a small next step for the question rather than trying to finish everything at once."
+    }
+  ],
+  "reflectionQuestion": "Can I acknowledge what remains unknown without dismissing what I have learned?",
+  "reflectionQuestionHindi": "क्या मैं बाकी अनजाने को मान सकता हूँ, सीखी हुई बात को निरर्थक किए बिना?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

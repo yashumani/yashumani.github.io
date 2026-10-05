@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-003",
+  "sequenceNumber": 598,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 3,
+  "verseEnd": 3,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "जिस पर भरोसा, वैसी दिशा / Faith shapes orientation",
+  "context": "Krishna relates each person's faith to their inner nature and describes the person as formed of faith.",
+  "contextHindi": "कृष्ण श्रद्धा को व्यक्ति के भीतरी स्वभाव से जोड़ते हुए कहते हैं कि जैसी श्रद्धा, वैसा व्यक्ति।",
+  "sanskritDevanagari": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत |\nश्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः ||१७-३||",
+  "transliteration": "sattvānurūpā sarvasya śraddhā bhavati bhārata .\nśraddhāmayo.ayaṃ puruṣo yo yacchraddhaḥ sa eva saḥ ||17-3||",
+  "wordByWord": [
+    {
+      "term": "sattvānurūpā",
+      "meaning": "Corresponding to one's inner nature here"
+    },
+    {
+      "term": "śraddhāmayaḥ",
+      "meaning": "Constituted or filled with faith"
+    },
+    {
+      "term": "puruṣaḥ",
+      "meaning": "The person"
+    },
+    {
+      "term": "yacchraddhaḥ",
+      "meaning": "Having such faith"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि हर व्यक्ति की श्रद्धा उसके स्वभाव के अनुसार होती है। व्यक्ति श्रद्धामय है; जैसी उसकी श्रद्धा, वैसा वह होता है। इस प्रसंग में सत्त्वानुरूप का अर्थ भीतरी स्वभाव के अनुसार है, केवल सात्त्विक श्रेणी का नाम नहीं। श्रद्धा हमें बताती है कि हम किस बात को भरोसे के योग्य मानते हैं। हमारा व्यवहार अक्सर उसी दिशा में संगठित होता है। यदि सम्मान पाने को ही सबसे बड़ा मान लें, तो बहुत से फैसले उसी के आसपास घूमने लगेंगे। यदि सत्य और सीखना महत्वपूर्ण हों, तो असुविधाजनक तथ्य के लिए भी जगह बन सकती है। ये आधुनिक उदाहरण हैं, श्लोक की अतिरिक्त सूची नहीं। अपने विश्वास के शब्दों और अपने दिन के चुनावों को साथ देखें। केवल कहने से पता नहीं चलता कि वास्तव में किस पर भरोसा है। आज समय या ध्यान का एक चुनाव देखें। उसने किस मूल्य को सबसे अधिक जगह दी? उत्तर कठोर फैसला देने के लिए नहीं, घोषित श्रद्धा और वास्तविक अभ्यास के बीच दूरी पहचानने के लिए उपयोगी है।",
+  "clearEnglish": "Krishna says that everyone's faith corresponds to their inner nature, and that a person is constituted by faith: as the faith is, so is the person. The term sattva in the opening compound concerns the inner disposition in this context; it should not be read as saying that everyone's faith already belongs to the sattvic category. Faith here helps describe what organizes a life. The practical question is not only which beliefs someone professes, but which commitments are allowed to govern decisions. A modern example is the difference between valuing truth in principle and avoiding every fact that threatens status. That example is an inference, not a claim that the verse contains a modern theory of personality. Examine one allocation of time, money, or attention. What did it treat as important? The answer may show a gap between spoken conviction and enacted priority. Recognizing that gap provides a place for practice without reducing your entire identity to a single choice.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna relates faith to inner nature and describes the person as constituted by the faith they hold."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Comparing professed values with one actual allocation of attention is a modern application of faith as an organizing orientation."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Declared and enacted",
+      "text": "Compare one value you profess with one choice you made today; name any gap without self-condemnation."
+    }
+  ],
+  "reflectionQuestion": "What did my latest choice reveal that I trust most?",
+  "reflectionQuestionHindi": "मेरे हाल के चुनाव ने किस मूल्य पर मेरा वास्तविक भरोसा दिखाया?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

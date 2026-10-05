@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-015",
+  "sequenceNumber": 610,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 15,
+  "verseEnd": 15,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "वाणी का तप / Discipline of speech",
+  "context": "Krishna defines verbal austerity through truthful, agreeable, beneficial, non-agitating speech and sacred study.",
+  "contextHindi": "कृष्ण सत्य, प्रिय, हितकारी और उद्वेग न देने वाली वाणी तथा स्वाध्याय को वाणी का तप बताते हैं।",
+  "sanskritDevanagari": "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् |\nस्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते ||१७-१५||",
+  "transliteration": "anudvegakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat .\nsvādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate ||17-15||",
+  "wordByWord": [
+    {
+      "term": "anudvegakaram",
+      "meaning": "Not causing agitation"
+    },
+    {
+      "term": "satyam",
+      "meaning": "Truthful"
+    },
+    {
+      "term": "priyahitam",
+      "meaning": "Agreeable and beneficial"
+    },
+    {
+      "term": "svādhyāyābhyasanam",
+      "meaning": "Practice of sacred study or recitation"
+    }
+  ],
+  "spokenHindi": "कृष्ण वाणी के तप में ऐसी बात रखते हैं जो उद्वेग न पैदा करे, सच हो, प्रिय हो और हितकारी हो। उसके साथ स्वाध्याय का अभ्यास भी है। ये गुण मिलकर वाणी की जांच करते हैं। केवल मीठा बोलना पर्याप्त नहीं, यदि बात झूठी हो। केवल सच कहना भी पूरा अभ्यास नहीं, यदि उद्देश्य चोट पहुँचाना हो। स्रोत की टिप्पणी सभी गुणों के मेल पर जोर देती है और मनुस्मृति का उदाहरण जोड़ती है। वह उदाहरण टिप्पणी है, इस श्लोक का अतिरिक्त वाक्य नहीं। आधुनिक जीवन में किसी नुकसान की शिकायत या जरूरी सीमा स्पष्ट करना कभी असुविधाजनक होगा। इसलिए इस शिक्षा को चुप रहने के दबाव में न बदलें। सही व्यक्ति, सही समय और स्पष्ट शब्द चुनना उपयोगी अनुप्रयोग है। आज एक कठिन संदेश भेजने से पहले पढ़ें। तथ्य बचाइए, अपमान हटाइए, और बताइए कि किस सुधार की जरूरत है। स्वाध्याय में भी एक छोटी बात ध्यान से पढ़कर समझें। बोलना और सीखना दोनों में जिम्मेदारी वाणी का वास्तविक अनुशासन बन सकती है।",
+  "clearEnglish": "Krishna defines austerity of speech through words that do not agitate, are truthful, agreeable, and beneficial, alongside the practice of sacred study. The qualities constrain one another. Pleasant falsehood does not meet the standard, and a fact delivered mainly to humiliate does not fulfil the whole discipline. Sivananda's supplied commentary stresses their combination and introduces a Manu Smriti saying; that additional source should remain identified as commentary rather than attributed directly to this verse. A responsible modern application must also preserve necessary reporting of harm. Some truthful boundaries cause discomfort, so non-agitation should not become a demand that vulnerable people remain silent. Consider timing, audience, purpose, and wording. Before one difficult message, preserve the relevant fact, remove contempt, and state the needed action. The study element matters too: disciplined speech includes learning what one intends to say. A brief, careful reading can prevent confident repetition of an unsupported claim.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names non-agitating, truthful, agreeable, beneficial speech and sacred study as verbal austerity."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Careful timing and wording can apply the verse while preserving necessary reporting and protective boundaries."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Read before sending",
+      "text": "Review one difficult message for truth, benefit, and unnecessary insult before sending it."
+    }
+  ],
+  "reflectionQuestion": "What useful change is my speech actually trying to bring about?",
+  "reflectionQuestionHindi": "मेरी बात वास्तव में कौन सा उपयोगी सुधार लाना चाहती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

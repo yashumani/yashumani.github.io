@@ -1,0 +1,67 @@
+{
+  "id": "bg-06-043",
+  "sequenceNumber": 276,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 43,
+  "verseEnd": 43,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "योगाभ्यास की निरंतरता — Continuity in the practice of Yoga",
+  "context": "Arjuna has asked what happens to a sincere practitioner who does not complete Yoga in one life. After describing possible favorable rebirths in verses 40–42, Krishna says that the person regains a connection with earlier understanding and strives again toward perfection.",
+  "contextHindi": "अर्जुन ने पूछा था कि श्रद्धा से साधना करने वाला व्यक्ति यदि एक जीवन में योग की सिद्धि तक न पहुँचे, तो उसका क्या होता है। पिछले श्लोकों में कृष्ण अनुकूल पुनर्जन्म की बात कहते हैं; अब वे बताते हैं कि वहाँ पूर्व की समझ फिर से जुड़ती है और साधक आगे प्रयास करता है।",
+  "sanskritDevanagari": "तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् |\nयतते च ततो भूयः संसिद्धौ कुरुनन्दन ||६-४३||",
+  "transliteration": "tatra taṃ buddhisaṃyogaṃ labhate paurvadehikam .\nyatate ca tato bhūyaḥ saṃsiddhau kurunandana ||6-43||",
+  "wordByWord": [
+    {
+      "term": "तत्र (tatra)",
+      "meaning": "There; in the favorable circumstances just described."
+    },
+    {
+      "term": "बुद्धिसंयोगम् (buddhisaṃyogam)",
+      "meaning": "A renewed connection with understanding or discernment; बुद्धि से फिर जुड़ना."
+    },
+    {
+      "term": "पौर्वदेहिकम् (paurvadehikam)",
+      "meaning": "Belonging to a former body or life, in the verse’s account."
+    },
+    {
+      "term": "संसिद्धौ (saṃsiddhau)",
+      "meaning": "Toward completion, fulfillment, or mature attainment."
+    }
+  ],
+  "spokenHindi": "यह श्लोक अर्जुन के उस प्रश्न का उत्तर आगे बढ़ाता है कि अधूरी रह गई योग-साधना का क्या होता है। कृष्ण कहते हैं कि साधक वहाँ पहले की बुद्धि से फिर जुड़ता है और पूर्णता की दिशा में पहले से अधिक प्रयास करता है। यहाँ “बुद्धि” का अर्थ केवल जानकारी जमा करना नहीं, बल्कि विवेक और साधना को समझने की क्षमता भी हो सकता है। “पौर्वदेहिकम्” पिछले शरीर या जीवन से संबंधित है; पुनर्जन्म का यह विचार गीता के अपने आध्यात्मिक ढाँचे में आता है। पाठ (TEXT) इतना कहता है कि पूर्व अभ्यास से जुड़ी समझ फिर उपलब्ध होती है और साधक प्रयास करता है। अनुमान (INFERENCE) यह हो सकता है कि साधना का मूल्य केवल तत्काल सफलता से नहीं आँका गया है। इसे किसी व्यक्ति के वर्तमान संघर्ष का प्रमाण या उसके पिछले जीवन के बारे में निश्चित दावा नहीं बनाना चाहिए। रोज़मर्रा में, सीखी हुई सजगता कठिन समय के बाद फिर काम आ सकती है। हम अभ्यास में लौटें तो अपने छोटे, वास्तविक कदम पहचानें—बिना यह मानकर कि प्रगति हमेशा सीधी या दिखाई देने वाली होगी।",
+  "clearEnglish": "This verse continues Krishna’s answer to Arjuna’s question about a sincere seeker who does not reach completion in Yoga in one life. Krishna says that, in the circumstances described just before, the person regains a connection with earlier understanding and strives further toward fulfillment. Buddhi can suggest more than stored information: it may also mean discernment, the capacity to recognize a path and work with it. The verse’s reference to what belongs to a former body expresses the Gita’s account of continuity through rebirth. TEXT: Krishna describes renewed access to prior understanding and renewed effort toward perfection. INFERENCE: the verse can encourage patience with gradual practice, but it does not let us verify another person’s past life or explain their present difficulties as karmic consequences. That distinction matters; a spiritual teaching should not become a reason to judge someone. In ordinary life, a skill or insight can return after a break and help us begin again. We can apply this modestly by noticing what has genuinely helped us before and choosing one workable next step, rather than demanding instant mastery or treating every setback as failure.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes a renewed connection with understanding associated with a former body and further effort toward completion."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The verse may support patience with gradual spiritual practice, but it is not empirical proof of reincarnation or a basis for diagnosing another person’s life."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Begin again",
+      "text": "If a useful practice has lapsed, recall what made it sustainable and choose one small step to resume today."
+    }
+  ],
+  "reflectionQuestion": "What understanding from an earlier experience could help you take one grounded step in your practice now?",
+  "reflectionQuestionHindi": "आपके पुराने अनुभव की कौन-सी समझ आज साधना में एक छोटा, ठोस कदम उठाने में मदद कर सकती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

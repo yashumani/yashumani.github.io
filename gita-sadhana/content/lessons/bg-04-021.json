@@ -1,0 +1,71 @@
+{
+  "id": "bg-04-021",
+  "sequenceNumber": 183,
+  "date": "2026-10-05",
+  "chapter": 4,
+  "verseStart": 21,
+  "verseEnd": 21,
+  "chapterNameSanskrit": "ज्ञानकर्मसंन्यासयोग",
+  "chapterNameEnglish": "Jñāna Karma Sannyāsa Yoga",
+  "theme": "ज्ञान और निष्काम कर्म: शांत मन, संतोष, और समभाव / Knowledge and detached action: calm mind, contentment, and evenness.",
+  "context": "Krishna is describing the inward condition of a yogi who acts without being trapped by ego, craving, or the fear of outcomes. The verse rejects the idea that avoiding action or hiding from life is the same as wisdom; the real test is whether action is done with a quiet, non-attached mind.",
+  "contextHindi": "श्री कृष्ण योगी की आंतरिक दशा का वर्णन कर रहे हैं, जो कर्म करता है, लेकिन अहंकार, लालच और परिणाम के भय से बंधा नहीं रहता। यह श्लोक बताता है कि कर्म से भागना या जीवन से हट जाना ही ज्ञान नहीं है; बाहरी कर्म चलता रहे, जबकि भीतर मन स्थिर और अनासक्त रहे।",
+  "sanskritDevanagari": "निराशीर्यतचित्तात्मा त्यक्तसर्वपरिग्रहः |\nशारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम् ||४-२१||",
+  "transliteration": "nirāśīryatacittātmā tyaktasarvaparigrahaḥ .\nśārīraṃ kevalaṃ karma kurvannāpnoti kilbiṣam ||4-21||",
+  "wordByWord": [
+    {
+      "term": "nirāśīḥ",
+      "meaning": "without hope or selfish expectation; free from craving for results"
+    },
+    {
+      "term": "yatacittātmā",
+      "meaning": "one whose mind and self are controlled; inwardly steadied"
+    },
+    {
+      "term": "tyaktasarvaparigrahaḥ",
+      "meaning": "having renounced all grasping, possession, and attachment"
+    },
+    {
+      "term": "śārīraṃ kevalaṃ karma",
+      "meaning": "mere bodily action, the outer movement of life, without inner egoic ownership"
+    },
+    {
+      "term": "kilbiṣam",
+      "meaning": "moral stain, defilement, or bondage created by unwise action"
+    }
+  ],
+  "spokenHindi": "इस श्लोक में श्रीकृष्ण बताते हैं कि मन को संयम में रखने वाला और संग्रह की आसक्ति छोड़ने वाला व्यक्ति शारीरिक कर्म करते हुए भी पाप से बचता है। ‘निराशी’ का अर्थ है फल की अपेक्षा से मुक्त होना। ‘यतचित्तात्मा’ उस व्यक्ति को कहता है जिसका मन और आत्मा संयमित हैं। ‘त्यक्तसर्वपरिग्रहः’ का अर्थ है सब तरह के संग्रह और पकड़ को छोड़ देना। ‘शारीरं केवलं कर्म’ का अर्थ है केवल शरीर से किया जाने वाला कर्म। यहाँ श्लोक ऐसे कर्मी की दशा बताता है, जो आशा और संग्रह की पकड़ में नहीं है और जिसका मन संयमित है। इसका अर्थ यह नहीं कि व्यक्ति कर्म करना छोड़ दे। वह अपने हिस्से का काम करता है, लेकिन फल की अपेक्षा और चीज़ों को जमा करने की आसक्ति उसे चलाती नहीं। श्लोक का सीधा आशय है कि ऐसी दशा में केवल शारीरिक कर्म करने से पाप नहीं लगता। यह बात इसी श्लोक के बताए गुणों पर केंद्रित है।",
+  "clearEnglish": "This verse describes a person who is free from expectation, has a controlled mind and self, and has given up grasping at possessions. Such a person performs bodily action without incurring sin. The verse does not say that the self stops identifying as the doer, or that action becomes neutral when the ego is quiet. Those ideas belong to the Gita’s broader discussion of action and inaction, especially the preceding verses. Here, the focus is on the disciplined condition in which bodily action takes place: without expectation and possessiveness, with the mind and self under control. This is not a call to avoid action. It describes action that does not bring the impurity named in the verse.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse plainly states that a person who is free from expectation, has a controlled mind, and has let go of grasping can act bodily without accumulating impurity or bondage."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A reasonable inference is that the Gita does not separate moral life from practical action; the decisive issue is whether the mind is attached to results, status, or self-importance."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Detached effort",
+      "text": "At work or at home, do the next right task without rehearsing rewards, praise, or fear of failure. Notice whether your attention is on the task or on your image of being the doer."
+    }
+  ],
+  "reflectionQuestion": "When you are busy, what part of your mind is still trying to control the outcome instead of simply doing the work?",
+  "reflectionQuestionHindi": "जब आप व्यस्त हों, तो आपका मन Outcome को नियंत्रित करने की कोशिश क्यों करता है, बजाय इसके कि बस काम करता रहे?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

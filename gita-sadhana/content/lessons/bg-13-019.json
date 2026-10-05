@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-019",
+  "sequenceNumber": 508,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 19,
+  "verseEnd": 19,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "A summary joined to devotion / भक्ति से जुड़ा सार",
+  "context": "Krishna summarizes the field, knowledge, and knowable and describes the result for a devotee who understands them.",
+  "contextHindi": "कृष्ण क्षेत्र, ज्ञान और ज्ञेय की संक्षिप्त शिक्षा को समेटकर उसे समझने वाले भक्त की दिशा बताते हैं।",
+  "sanskritDevanagari": "इति क्षेत्रं तथा ज्ञानं ज्ञेयं चोक्तं समासतः |\nमद्भक्त एतद्विज्ञाय मद्भावायोपपद्यते ||१३-१९||",
+  "transliteration": "iti kṣetraṃ tathā jñānaṃ jñeyaṃ coktaṃ samāsataḥ .\nmadbhakta etadvijñāya madbhāvāyopapadyate ||13-19||",
+  "wordByWord": [
+    {
+      "term": "samāsataḥ",
+      "meaning": "briefly; संक्षेप में"
+    },
+    {
+      "term": "madbhaktaḥ",
+      "meaning": "My devotee"
+    },
+    {
+      "term": "vijñāya",
+      "meaning": "having understood or discerned"
+    },
+    {
+      "term": "madbhāvāya",
+      "meaning": "toward My being or condition"
+    },
+    {
+      "term": "upapadyate",
+      "meaning": "becomes fit for or attains"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि क्षेत्र, ज्ञान और ज्ञेय संक्षेप में बताए गए हैं। उनका भक्त इसे जानकर उनके भाव के योग्य होता है। यह अभी तक की तीन धाराओं को जोड़ता है: अनुभव का क्षेत्र, समझ की तैयारी और जानने योग्य परम विषय। भक्ति तथा समझ यहाँ अलग रास्तों की तरह लड़ती नहीं दिखतीं। भक्त को जानने की बात है, केवल नाम या बाहरी पहचान रखने की नहीं। इस कथन से किसी पूजा शैली को सभी के लिए अनिवार्य बताना भी जरूरी नहीं। श्लोक उस तरह की विधि नहीं देता। अपने अध्ययन में एक छोटा अनुप्रयोग है कि तीनों विषयों को बिना मिलाए अपने शब्दों में रखें। शरीर और अनुभव के बारे में क्या कहा गया? सीखने वाले में कौन सा ढंग चाहिए? ज्ञेय के बारे में किस सीमा का वर्णन है? ये अध्ययन के प्रश्न हैं। उत्तर साफ न हो तो दुबारा पढ़ना ठीक है। भक्त होने की छवि बचाने के लिए अस्पष्टता छिपाने से बेहतर ईमानदार प्रश्न हो सकता है। संक्षिप्त सार अधिक गहरे अध्ययन का स्थान लेता नहीं, उसे दिशा देता है।",
+  "clearEnglish": "Krishna brings together the field, knowledge, and the knowable, saying that they have been stated briefly. His devotee, understanding this, becomes fit for his being. The summary links devotion with discernment: the devotee is not described merely through a name or outward membership, but through understanding the teaching. No specific ritual procedure is supplied here. The three subjects also need to remain distinguishable. The field concerns embodied experience, the knowledge list concerns the orientation that prepares understanding, and the knowable concerns the supreme reality described afterward. This outline is a study aid, not a replacement for the full metaphysical account. A practical exercise is to explain each subject in one's own words and mark where understanding is incomplete. Returning to the text is then an honest part of devotion rather than an embarrassment. The verse's promised result is spiritual; accurately completing a summary does not by itself establish that attainment. It can, however, make the relationship between reverence and careful inquiry more coherent.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Field, knowledge, and knowable have been summarized; Krishna's devotee who understands them becomes fit for his being."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Summarizing the three subjects distinctly is a study practice, not proof of the spiritual result."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Write one sentence each for field, knowledge, and knowable, marking any uncertain point for rereading."
+    }
+  ],
+  "reflectionQuestion": "Which of these three subjects have I been mixing together?",
+  "reflectionQuestionHindi": "इन तीन विषयों में से किन्हें मैं आपस में मिला रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "bg-06-033",
+  "sequenceNumber": 266,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 33,
+  "verseEnd": 33,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "मन की चंचलता और योग की स्थिरता | Restlessness of mind and the stability of yoga",
+  "context": "Arjuna has heard Krishna's teaching on equanimity, but now he names the practical problem: the mind is so restless that a steady, continuous state of Yoga seems difficult to sustain in daily life.",
+  "contextHindi": "अर्जुन ने योग की दृष्टि समझ ली थी, लेकिन अब वे मन की अस्थिरता को सामने रखते हैं। वह महसूस करते हैं कि समभाव का अभ्यास आसान नहीं है, क्योंकि मन अपने भीतर लगातार उथल-पुथल करता रहता है।",
+  "sanskritDevanagari": "अर्जुन उवाच |\nयोऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन |\nएतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम् ||६-३३||",
+  "transliteration": "arjuna uvāca .\nyo.ayaṃ yogastvayā proktaḥ sāmyena madhusūdana .\netasyāhaṃ na paśyāmi cañcalatvātsthitiṃ sthirām ||6-33||",
+  "wordByWord": [
+    {
+      "term": "योग",
+      "meaning": "yoga — union, discipline, inner alignment; here, the path of steady equanimity."
+    },
+    {
+      "term": "साम्येन",
+      "meaning": "sāmyena — through balance, evenness, and calm perspective."
+    },
+    {
+      "term": "चञ्चलत्वात्",
+      "meaning": "cañcalatvāt — because of restlessness, fickleness, and constant mental wavering."
+    },
+    {
+      "term": "स्थितिं स्थिराम्",
+      "meaning": "sthitim sthirām — a stable, lasting state of steadiness and continuity."
+    }
+  ],
+  "spokenHindi": "अर्जुन ने यहाँ अपने अनुभव को बहुत साफ़ कहा है: 'हे मधुसूदन, तुमने जो योग का उपदेश दिया है, वह समभाव से जुड़ा है, पर मैं उसे स्थिर रूप में नहीं देखता।' यह केवल भावुक असंतोष नहीं है; यह मन की वास्तविक स्थिति का वर्णन है। मन कभी एक विषय पर टिकता है, कभी दूसरे पर चला जाता है। इसलिए योग की स्थिरता, जैसा कि हम अनुभव करते हैं, एक बहुत बड़ी चुनौती लगती है। यह श्लोक हमें सिखाता है कि आध्यात्मिक जीवन में दिमाग की अशांति को झुठलाना नहीं, पहचानना पड़ता है। अगर हम सत्य को समझते हैं, तो अभ्यास का रास्ता भी सही बनता है।",
+  "clearEnglish": "Arjuna is not rejecting the teaching; he is naming the real difficulty. He has heard Krishna describe Yoga as a state of equanimity, but he says he cannot see how such mental steadiness can hold in practice. The point is not that the mind is morally bad, but that it naturally flickers, runs after objects, and resists attention. In modern terms, this is the challenge of sustaining a single focus when thoughts, emotions, and sensory inputs keep pulling the mind away. Krishna does not deny the problem; he later gives the remedy: disciplined effort and dispassion. What matters here is Arjuna's honesty. Real spiritual growth begins with a truthful assessment of the obstacle, not with pretending the mind is already still.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse directly states that the mind is restless and therefore the state of steady Yoga is hard to maintain. This is not a claim that all people are hopelessly trapped; it is a diagnostic description of a common human condition."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A practical inference is that yoga is not a one-time realization but a repeated training of attention. The difficulty is real, but so is the possibility of gradual mastery. The text invites work, not despair."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Name the drift",
+      "text": "When attention jumps between phone, task, and thought, label the drift calmly—“mind is wandering”—and return to one anchor such as breath or a simple object."
+    },
+    {
+      "label": "Short, consistent practice",
+      "text": "Do five minutes of one-pointed attention before beginning the day. The goal is not a perfect mind but a reliable return to the chosen focus."
+    }
+  ],
+  "reflectionQuestion": "When do I most clearly feel my mind resisting stillness, and what does that reveal about my attention habits?",
+  "reflectionQuestionHindi": "मैं मन की स्थिरता का सबसे ज़्यादा विरोध कब महसूस करता हूँ, और यह मेरी एकाग्रता की आदतों के बारे में क्या बताता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "bg-09-014",
+  "sequenceNumber": 352,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 14,
+  "verseEnd": 14,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "कीर्तन, प्रयत्न और प्रणाम | Glorifying, striving, and bowing",
+  "context": "Krishna elaborates the worship of the great souls described in the preceding verse.",
+  "contextHindi": "कृष्ण पिछले श्लोक के महात्माओं की उपासना का रूप आगे बताते हैं।",
+  "sanskritDevanagari": "सततं कीर्तयन्तो मां यतन्तश्च दृढव्रताः |\nनमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते ||९-१४||",
+  "transliteration": "satataṃ kīrtayanto māṃ yatantaśca dṛḍhavratāḥ .\nnamasyantaśca māṃ bhaktyā nityayuktā upāsate ||9-14||",
+  "wordByWord": [
+    {
+      "term": "कीर्तयन्तः",
+      "meaning": "Glorifying or singing praises."
+    },
+    {
+      "term": "यतन्तः",
+      "meaning": "Striving."
+    },
+    {
+      "term": "दृढव्रताः",
+      "meaning": "Firm in vows."
+    },
+    {
+      "term": "नमस्यन्तः",
+      "meaning": "Bowing or paying reverence."
+    },
+    {
+      "term": "नित्ययुक्ताः",
+      "meaning": "Ever steadfast."
+    },
+    {
+      "term": "उपासते",
+      "meaning": "Worship."
+    }
+  ],
+  "spokenHindi": "कृष्ण वर्णन करते हैं कि ये साधक उनका लगातार गुणगान करते हैं, प्रयत्न करते हैं, दृढ़ व्रत रखते हैं और भक्ति से उन्हें प्रणाम करते हुए उपासना करते हैं। कई क्रियाएँ साथ आई हैं। कीर्तन के साथ प्रयत्न है, प्रणाम के साथ स्थिरता है। इसलिए भक्ति को केवल किसी क्षण की भावना या केवल आवाज़ की ऊँचाई से न समझें। श्लोक किसी विशेष संगीत शैली या आयोजन का नियम नहीं देता। उसकी भाषा साधकों के सतत संबंध की है। आज के अभ्यास में इनमें से एक सरल, उपयुक्त क्रिया चुन सकते हैं, जैसे शांत नामस्मरण या सम्मानपूर्वक प्रणाम। शरीर की सुविधा के अनुसार प्रणाम का रूप चुनना हमारी व्यावहारिक सावधानी है। दर्द हो तो झुकने पर जोर न दें। दृढ़ व्रत को ऐसा छोटा संकल्प रखें जिसे समझदारी से निभा सकें, न कि गलती होते ही अपने प्रति कठोर फैसला। यह हमारा आधुनिक अनुप्रयोग है। मूल वाक्य कृष्ण की उपासना करने वाले स्थिर साधकों की तस्वीर देता है। उस तस्वीर से प्रेरणा लें और अभ्यास को अपनी वास्तविक परिस्थिति में सौम्य ढंग से रखें।",
+  "clearEnglish": "The verse gives devotion several verbs. The practitioners glorify Krishna, strive, remain firm in vows, bow to him with devotion, and worship while ever steadfast. This combination prevents the account from being reduced to either an emotional moment or a single outward gesture. It does not specify a musical genre, an attendance requirement, or an exact ritual sequence. Its focus is the sustained activity of the worshippers already described. A contemporary beginner can choose one fitting expression without pretending to reproduce the full ideal at once. Quiet praise or a respectful gesture may be appropriate, adapted to physical comfort. Firm vows can inspire a manageable commitment rather than an unforgiving demand that leaves no room for repair. Those adaptations are applications, not alternative translations of the devotional acts. They also preserve the direction of worship: Krishna is the one glorified and addressed here. The practical question is which act helps us express attention and reverence consistently, with care for our real circumstances and the people around us.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The worshippers constantly glorify Krishna, strive, keep firm vows, bow with devotion, and worship ever steadfast."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A beginner may adopt one manageable expression of devotion, adapting its physical form and allowing repair after mistakes."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "One fitting expression",
+      "text": "Choose a comfortable act of praise or reverence and give it a brief regular place today."
+    }
+  ],
+  "reflectionQuestion": "Which devotional act can I practice with attention rather than display?",
+  "reflectionQuestionHindi": "कौन-सा भक्ति का कार्य मैं प्रदर्शन के बजाय ध्यान से कर सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

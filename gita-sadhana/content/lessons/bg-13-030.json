@@ -1,0 +1,67 @@
+{
+  "id": "bg-13-030",
+  "sequenceNumber": 519,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 30,
+  "verseEnd": 30,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Nature acts; the Self is actionless / प्रकृति का कर्म, आत्मा की अकर्तृता",
+  "context": "Krishna defines seeing as recognizing all actions as Nature's and the Self as nonagent.",
+  "contextHindi": "कृष्ण सब कर्म प्रकृति द्वारा होने और आत्मा को अकर्ता देखने की बात करते हैं।",
+  "sanskritDevanagari": "प्रकृत्यैव च कर्माणि क्रियमाणानि सर्वशः |\nयः पश्यति तथात्मानमकर्तारं स पश्यति ||१३-३०||",
+  "transliteration": "prakṛtyaiva ca karmāṇi kriyamāṇāni sarvaśaḥ .\nyaḥ paśyati tathātmānamakartāraṃ sa paśyati ||13-30||",
+  "wordByWord": [
+    {
+      "term": "prakṛtyā eva",
+      "meaning": "by Nature alone"
+    },
+    {
+      "term": "karmāṇi",
+      "meaning": "actions; कर्म"
+    },
+    {
+      "term": "kriyamāṇāni",
+      "meaning": "being performed"
+    },
+    {
+      "term": "akartāram",
+      "meaning": "nonagent or non-doer"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि वही देखता है जो सभी कर्म प्रकृति द्वारा किए जाते हुए देखता है और आत्मा को अकर्ता जानता है। यह अध्याय के क्षेत्र तथा क्षेत्रज्ञ के भेद की एक गहरी दिशा है। बदलती प्रक्रियाएँ प्रकृति से जुड़ी हैं; ज्ञाता को उन्हीं क्रियाओं के स्तर पर नहीं रखा जाता। इसका अर्थ यह नहीं कि किसी को चोट पहुँचाकर कह दें, ‘मैंने कुछ नहीं किया।’ दार्शनिक अकर्तृता और व्यवहार की जिम्मेदारी अलग स्तर के प्रश्न हैं। रोजमर्रा में घटना के कारण समझना हमें सुधार का रास्ता दिखा सकता है। जल्दबाजी, आदत या अनदेखी सूचना ने निर्णय को प्रभावित किया हो तो उन्हें पहचानें। यह आधुनिक अनुप्रयोग है, अकर्ता आत्मा के साक्षात्कार का प्रमाण नहीं। जो प्रभाव दूसरे पर पड़ा, उसका उत्तर देना फिर भी जरूरी है। एक छोटी गलती में कारण और सुधार अलग लिखें। कारण बहाना न बने, बल्कि आगे की परिस्थिति सँवारने की जानकारी बने। आत्मनिरीक्षण से प्रतिक्रिया अधिक सजग हो सकती है, जबकि आत्मा और कर्म का बड़ा प्रश्न अध्ययन में खुला रहता है।",
+  "clearEnglish": "Krishna describes true seeing as recognizing actions performed by Nature alone and the Self as a nonagent. This develops the chapter's distinction between the changing field and its knower. The philosophical claim should not be turned into a defense that nobody is accountable for harmful behavior. An account of the Self's nonagency and the practical requirements of repair operate at different levels. A contemporary exercise is to understand conditions contributing to a mistake while still addressing its effects. Urgency, habit, or missing information may explain part of an action; explanation can guide prevention rather than cancel acknowledgment. This application does not establish realization of the nonacting Self. It simply helps make observation more responsible. Write the contributing condition and the corrective step separately so the former does not become a substitute for the latter. The verse's metaphysical inquiry can continue without requiring indifference to the people affected by ordinary actions or avoidance of necessary ethical decisions.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "All actions are performed by Nature, and the Self is seen as nonagent."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Understanding causes while making repair is a responsible application; metaphysical nonagency does not excuse harmful behavior."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "For one manageable mistake, name a contributing condition and a separate corrective action."
+    }
+  ],
+  "reflectionQuestion": "Am I using an explanation to improve my action or to avoid repairing its effect?",
+  "reflectionQuestionHindi": "क्या मैं कारण समझकर कर्म सुधार रहा हूँ या उसके प्रभाव की मरम्मत से बच रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

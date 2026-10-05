@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-008",
+  "sequenceNumber": 380,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 8,
+  "verseEnd": 8,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "समझ से भक्ति / Understanding that becomes devotion",
+  "context": "Krishna states his relation to all existence and describes the wise person's heartfelt response.",
+  "contextHindi": "कृष्ण स्वयं को सबका स्रोत बताते हैं और कहते हैं कि इसे समझकर ज्ञानी भाव सहित भजन करते हैं।",
+  "sanskritDevanagari": "अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते |\nइति मत्वा भजन्ते मां बुधा भावसमन्विताः ||१०-८||",
+  "transliteration": "ahaṃ sarvasya prabhavo mattaḥ sarvaṃ pravartate .\niti matvā bhajante māṃ budhā bhāvasamanvitāḥ ||10-8||",
+  "wordByWord": [
+    {
+      "term": "प्रभवः",
+      "meaning": "source or origin"
+    },
+    {
+      "term": "प्रवर्तते",
+      "meaning": "proceeds or unfolds"
+    },
+    {
+      "term": "बुधाः",
+      "meaning": "the wise or discerning"
+    },
+    {
+      "term": "भावसमन्विताः",
+      "meaning": "endowed with inward feeling or devotional disposition"
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण कहते हैं कि वे सबके स्रोत हैं और सब उन्हीं से चलता है। इस बात को समझकर ज्ञानी उन्हें भाव सहित भजते हैं। यहाँ समझ और भावना साथ आते हैं। भक्ति को केवल भावुकता समझना और ज्ञान को केवल सूखी चर्चा मानना, दोनों इस वाक्य को छोटा कर देंगे। बुध शब्द जागरूक समझ वाले व्यक्ति की ओर इशारा करता है, और भावसमन्वित उस समझ में जीवंत आंतरिक भाव होने को। दिए गए संस्करण में इस भाव के साथ ध्यान का संकेत भी है। लेकिन श्लोक किसी खास पूजा पद्धति की सूची नहीं देता। कोई परिवार जिस रीति से पूजा करता है, वह अलग सांस्कृतिक विषय होगा। हमारा छोटा उपयोग यह हो सकता है कि कृतज्ञता को विचार और आचरण से जोड़ें। जीवन का आधार याद करके भोजन, समय या दूसरे की मेहनत का सम्मान करें। कृष्ण की सार्वभौमिक स्रोत वाली घोषणा धार्मिक शिक्षा है; यह हर घटना का सरल कारण बताने या किसी पीड़ित की हालत के लिए उसे दोष देने का आधार नहीं बनती। समझ का फल संवेदनशीलता में दिखे।",
+  "clearEnglish": "This verse gives the chapter's argument a devotional center. Krishna identifies himself as the source of all and the ground from which everything proceeds. The wise respond by worshipping him with an inward disposition. Intellectual recognition and feeling are thus related, rather than assigned to separate kinds of people. The term budhah emphasizes understanding, while bhavasamanvitah indicates that the response is animated from within. Sivananda renders that disposition with a meditative emphasis. Neither phrase specifies a mandatory household ritual or implies that a public display is a measure of devotion. The verse is also a statement about ultimate dependence, not an explanation that lets us identify the personal cause of every hardship. It would be an unjustified application to blame a distressed person in the name of this universal source. A more modest practice is to let gratitude affect how we handle things we usually take for granted: another person's time, shared resources, or food. Such attention is our practical extension of the text's union of understanding and heartfelt worship.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says all proceeds from him and that the wise, recognizing this, worship him with feeling."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Gratitude expressed through care is an application; specific rituals and explanations of individual misfortune are not stated."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Gratitude with care",
+      "text": "At one meal, pause to notice the people and resources supporting it. Express gratitude by reducing waste or offering useful help."
+    }
+  ],
+  "reflectionQuestion": "What would change if my gratitude affected one ordinary decision?",
+  "reflectionQuestionHindi": "यदि मेरी कृतज्ञता एक सामान्य फैसले में दिखे, तो आज क्या बदलेगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

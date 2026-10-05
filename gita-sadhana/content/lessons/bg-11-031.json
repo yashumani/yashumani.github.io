@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-031",
+  "sequenceNumber": 445,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 31,
+  "verseEnd": 31,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "उग्र रूप से प्रश्न / Asking the fierce form",
+  "context": "Arjuna asks who the fierce being is, seeks grace and admits he does not understand its activity.",
+  "contextHindi": "अर्जुन उग्र रूप से उसकी पहचान और प्रवृत्ति पूछते हैं, प्रणाम करते हैं और अपनी अज्ञानता स्वीकारते हैं।",
+  "sanskritDevanagari": "आख्याहि मे को भवानुग्ररूपो\nनमोऽस्तु ते देववर प्रसीद |\nविज्ञातुमिच्छामि भवन्तमाद्यं\nन हि प्रजानामि तव प्रवृत्तिम् ||११-३१||",
+  "transliteration": "ākhyāhi me ko bhavānugrarūpo namo.astu te devavara prasīda .\nvijñātumicchāmi bhavantamādyaṃ na hi prajānāmi tava pravṛttim ||11-31||",
+  "wordByWord": [
+    {
+      "term": "आख्याहि",
+      "meaning": "tell or explain"
+    },
+    {
+      "term": "उग्ररूपः",
+      "meaning": "fierce in form"
+    },
+    {
+      "term": "विज्ञातुम् इच्छामि",
+      "meaning": "I wish to understand"
+    },
+    {
+      "term": "प्रवृत्तिम्",
+      "meaning": "activity or undertaking"
+    }
+  ],
+  "spokenHindi": "अर्जुन कहते हैं कि इस उग्र रूप में आप कौन हैं, मुझे बताइए। वे प्रणाम करते हैं, कृपा माँगते हैं और कहते हैं कि मैं आपको मूल स्वरूप में जानना चाहता हूँ, आपकी प्रवृत्ति नहीं समझता। यह प्रश्न पहले के स्वीकार को मिटाना नहीं है। सामने आया नया रूप उनकी पुरानी समझ से अधिक है, इसलिए वे उसके कार्य का अर्थ पूछते हैं। प्रवृत्ति यहाँ क्या किया जा रहा है, उस दिशा की बात है। श्रद्धा के बीच मैं नहीं जानता कहना संभव है। अर्जुन अपने भय को प्रश्न में बदलते हैं, पर अभी उत्तर उनकी ओर से नहीं बनाया गया है। अगले श्लोक में वक्ता कृष्ण होंगे। हमारा अनुप्रयोग किसी अस्पष्ट स्थिति में अनुमान कम करके साफ प्रश्न पूछना हो सकता है। कोई जिम्मेदारी या बदलाव समझ न आए तो पूछें कि उद्देश्य क्या है और मुझे क्या जानना चाहिए। यह आधुनिक संवाद है, किसी व्यक्ति को उग्र देवता मानने का विचार नहीं। उत्तर मिलने तक अपना अनिश्चित होना स्पष्ट रखना सूचना के गलत निष्कर्ष से बचा सकता है।",
+  "clearEnglish": "Arjuna asks for identity and purpose. Who are you in this fierce form? What is your activity? He offers salutations, asks for grace and says he wishes to understand the original being. The question does not simply undo his previous declarations. The revealed form has introduced a dimension beyond what he had understood, so renewed inquiry is appropriate within the narrative. Pravritti concerns activity or undertaking here, rather than only a private inclination. Arjuna's I do not know is explicit. Reverence has not removed the need to ask what the scene means. A modern application is to turn an unclear situation into a specific request for explanation before drawing conclusions. Ask about purpose, scope and what information is still needed. This is ordinary communication, not a reason to identify a forceful human authority with Krishna. The verse also prepares a speaker change: Arjuna asks, and Krishna will answer. Keeping that sequence clear lets uncertainty be acknowledged rather than filled with an invented answer.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna asks the fierce form's identity and activity, expresses reverence and admits he does not understand."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Specific questions can replace premature assumptions; reverence does not close inquiry."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Ask purpose and scope",
+      "text": "For one unclear responsibility, ask what its purpose is, what it includes and what information you still need. Avoid guessing another person's motive."
+    }
+  ],
+  "reflectionQuestion": "What question would replace an assumption I am currently making?",
+  "reflectionQuestionHindi": "मैं अभी जो अनुमान कर रहा हूँ, उसकी जगह कौन सा प्रश्न पूछ सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

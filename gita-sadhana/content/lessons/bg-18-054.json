@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-054",
+  "sequenceNumber": 677,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 54,
+  "verseEnd": 54,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Equanimity opening into devotion / समता से भक्ति",
+  "context": "After the disciplines of relinquishment, Krishna describes serenity, evenness toward beings, and supreme devotion.",
+  "contextHindi": "पूर्व श्लोक की शांति के बाद कृष्ण ब्रह्म भाव, शोक और चाह से मुक्ति, समता तथा अपनी भक्ति बताते हैं।",
+  "sanskritDevanagari": "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति |\nसमः सर्वेषु भूतेषु मद्भक्तिं लभते पराम् ||१८-५४||",
+  "transliteration": "brahmabhūtaḥ prasannātmā na śocati na kāṅkṣati .\nsamaḥ sarveṣu bhūteṣu madbhaktiṃ labhate parām ||18-54||",
+  "wordByWord": [
+    {
+      "term": "brahmabhūtaḥ",
+      "meaning": "having become Brahman"
+    },
+    {
+      "term": "prasannātmā",
+      "meaning": "serene in the self"
+    },
+    {
+      "term": "na śocati",
+      "meaning": "does not grieve"
+    },
+    {
+      "term": "samaḥ sarveṣu bhūteṣu",
+      "meaning": "equal toward all beings"
+    },
+    {
+      "term": "madbhaktiṃ",
+      "meaning": "devotion to me"
+    }
+  ],
+  "spokenHindi": "कृष्ण अब उस व्यक्ति की दशा बताते हैं जो ब्रह्म भाव को प्राप्त है: मन प्रसन्न है, वह शोक और लालसा से मुक्त है, सभी प्राणियों को सम दृष्टि से देखता है और कृष्ण के प्रति परम भक्ति पाता है। इस क्रम में समता और भक्ति अलग अलग खेमे नहीं बनते। सबके प्रति समान आदर का अर्थ यह नहीं कि हर काम समान रूप से सही है या हानि को अनदेखा करें। व्यक्ति की गरिमा को मानते हुए गलत व्यवहार रोकना संभव है। शोक न करना भी दुखी मनुष्य को चुप कराने का आदेश नहीं है। श्लोक एक आध्यात्मिक अवस्था का वर्णन करता है, हर साधक की तत्काल भावनाओं पर कठोर परीक्षा नहीं लगाता। आज किसी ऐसे व्यक्ति के बारे में सोचें जिसे आप जल्दी किसी एक पहचान से बाँध देते हैं। उनकी स्थिति को अधिक पूरे मन से देखने की कोशिश करें, फिर अपने व्यवहार की सीमा भी साफ रखें। भक्ति यदि इस सम दृष्टि को गहरा करे, तो वह दूसरे के प्रति उपेक्षा नहीं बढ़ाएगी।",
+  "clearEnglish": "Krishna describes the brahmabhuta person as serene, free from grief and craving, equal toward all beings, and attaining supreme devotion to him. The ordering is significant: a description of realization leads into bhakti, so knowledge and devotion are not portrayed here as rivals. Yet this is a stated spiritual condition, not a test to impose on someone experiencing loss. Telling a grieving person that they have failed the verse would confuse description with a demand and could cause needless harm. Equal vision also need not flatten moral distinctions. One may honor a person's dignity while resisting injury or holding conduct accountable. For a modest contemporary application, notice whether admiration or dislike is making one person's needs seem less real than another's. Respond fairly where you can, and keep reasonable boundaries. That application draws from sameness toward beings; it does not claim every practical relationship is identical. The verse invites the question of whether devotion expands one's concern rather than narrowing it to an in group.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes the Brahman realized person as serene, without grief or craving, equal to all beings, and attaining supreme devotion to him."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Equal regard can inform fair conduct, while boundaries and accountability still matter; the verse does not authorize shaming grief."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Offer one fair hearing to someone you are inclined to dismiss, while keeping any needed safety boundary."
+    }
+  ],
+  "reflectionQuestion": "Does my devotion widen my regard for others or make it narrower?",
+  "reflectionQuestionHindi": "क्या मेरी भक्ति दूसरों के प्रति आदर बढ़ाती है या उसे सीमित करती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

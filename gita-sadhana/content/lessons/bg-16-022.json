@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-022",
+  "sequenceNumber": 593,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 22,
+  "verseEnd": 22,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "रुकावट से शुभ कर्म तक / Freedom enables constructive action",
+  "context": "Krishna describes beneficial action and the supreme goal after release from the three gates.",
+  "contextHindi": "कृष्ण तीन अंधकारमय द्वारों से मुक्त होने के बाद अपने हित के कर्म और परम गति बताते हैं।",
+  "sanskritDevanagari": "एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः |\nआचरत्यात्मनः श्रेयस्ततो याति परां गतिम् ||१६-२२||",
+  "transliteration": "etairvimuktaḥ kaunteya tamodvāraistribhirnaraḥ .\nācaratyātmanaḥ śreyastato yāti parāṃ gatim ||16-22||",
+  "wordByWord": [
+    {
+      "term": "vimuktaḥ",
+      "meaning": "Released or freed"
+    },
+    {
+      "term": "tamodvāraiḥ",
+      "meaning": "Gates to darkness"
+    },
+    {
+      "term": "śreyas",
+      "meaning": "True welfare or higher good"
+    },
+    {
+      "term": "parāṃ gatim",
+      "meaning": "The supreme goal or destination"
+    }
+  ],
+  "spokenHindi": "यह श्लोक पिछले निषेध को सकारात्मक दिशा देता है। काम, क्रोध और लोभ के द्वारों से मुक्त व्यक्ति अपने सच्चे हित का आचरण करता है और परम गति को जाता है। केवल गलत काम रोकना अंतिम बात नहीं; उसके बाद अच्छे काम की जगह खुलती है। श्रेयस तत्काल अच्छा लगने से बड़ा शब्द है। किसी ईमानदार सुधार में असुविधा हो सकती है, फिर भी वह जीवन को बेहतर दिशा दे सकता है। स्रोत की टिप्पणी इस मार्ग में साधुओं की संगति, शिक्षा, मनन और ध्यान का विस्तार करती है। यह स्वामी शिवानन्द की व्याख्या है; पूरी सूची इस श्लोक के शब्द नहीं हैं। हमारे लिए एक छोटा प्रयोग है: जिस समय को क्रोध या लालच खा जाता है, उसका कुछ भाग उपयोगी काम में लगाना। किसी रुके काम को पूरा करें, भरोसेमंद बात सुनें या शांत होकर पढ़ें। इससे तुरंत मुक्ति का दावा नहीं किया जा सकता। पर यह दिखता है कि हानिकारक प्रेरणा से दूरी केवल खालीपन नहीं, जिम्मेदार विकल्प का अवसर भी है।",
+  "clearEnglish": "Krishna describes a person freed from the three gates to darkness as practising what serves true welfare and then reaching the supreme goal. The movement is constructive: release makes room for an appropriate way of living. The term śreyas points toward genuine good rather than merely immediate satisfaction. In the supplied commentary, Sivananda expands this into association with sages, instruction, scriptural listening, reflection, meditation, and Self-realisation. That expansion belongs to the named commentary; the verse itself states release, beneficial conduct, and the supreme destination. A modest contemporary application is to notice the capacity reclaimed when a harmful impulse is not followed. Time once spent preparing retaliation can support a needed conversation or completed responsibility. Money not used for an unnecessary status purchase may meet a real need. These are examples, not promises of immediate liberation. Choose a constructive replacement alongside a restraint. The practice becomes clearer when you can say both what you are leaving and what good you are now able to do.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says release from the three dark gates enables true welfare and leads to the supreme goal."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Pairing restraint with one constructive replacement applies the positive movement of the verse without promising immediate liberation."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Replace with a good",
+      "text": "Use a moment reclaimed from a harmful impulse for one useful responsibility."
+    }
+  ],
+  "reflectionQuestion": "What good action becomes possible when I decline this impulse?",
+  "reflectionQuestionHindi": "इस प्रेरणा को न मानने से कौन सा अच्छा काम सम्भव होता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

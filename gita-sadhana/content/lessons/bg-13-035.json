@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-035",
+  "sequenceNumber": 524,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 35,
+  "verseEnd": 35,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Distinction and the highest goal / भेद का ज्ञान और परम दिशा",
+  "context": "Krishna closes Chapter 13 with knowledge of the field-knower distinction and liberation from Nature as the path to the Supreme.",
+  "contextHindi": "अध्याय के अंतिम श्लोक में कृष्ण ज्ञान की दृष्टि से क्षेत्र क्षेत्रज्ञ का भेद और प्रकृति से मुक्ति जानने वालों की परम प्राप्ति कहते हैं।",
+  "sanskritDevanagari": "क्षेत्रक्षेत्रज्ञयोरेवमन्तरं ज्ञानचक्षुषा |\nभूतप्रकृतिमोक्षं च ये विदुर्यान्ति ते परम् ||१३-३५||",
+  "transliteration": "kṣetrakṣetrajñayorevamantaraṃ jñānacakṣuṣā .\nbhūtaprakṛtimokṣaṃ ca ye viduryānti te param ||13-35||",
+  "wordByWord": [
+    {
+      "term": "antaram",
+      "meaning": "distinction; अंतर"
+    },
+    {
+      "term": "jñānacakṣuṣā",
+      "meaning": "through the eye of knowledge"
+    },
+    {
+      "term": "bhūtaprakṛtimokṣam",
+      "meaning": "liberation from the Nature of beings"
+    },
+    {
+      "term": "param",
+      "meaning": "the Supreme; परम"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि ज्ञान की दृष्टि से क्षेत्र और क्षेत्रज्ञ का अंतर तथा प्राणियों की प्रकृति से मुक्ति जानने वाले परम को प्राप्त होते हैं। अध्याय की शुरुआत के प्रश्न अब भेद और मुक्ति के परिणाम में समेटे जाते हैं। स्वामी सिवानंद की टिप्पणी ध्यान, गुरु और शास्त्र की शिक्षा से खुली अंतर्दृष्टि की बात करती है। वह क्षेत्र को बदलता, सीमित और कर्मशील तथा ज्ञाता को शुद्ध चेतना, अकर्ता और असीम बताती है। आगे प्रकृति और अज्ञान की अंतिम असत्यता का अर्थ भी जोड़ती है। यह टिप्पणी की विशिष्ट दार्शनिक व्याख्या है, श्लोक के संक्षिप्त शब्दों का पूरा शाब्दिक विस्तार नहीं। उससे पर्यावरण, शरीर या दूसरे लोगों की वास्तविक जरूरत की उपेक्षा निकालना उचित नहीं। अपने लिए छोटा अभ्यास पूरे अध्याय की एक स्पष्ट बात और एक खुला प्रश्न लिखना है। यह परम प्राप्ति का दावा नहीं। जहाँ समझ बढ़ी है वहाँ जिम्मेदार व्यवहार करें; जहाँ अस्पष्टता है वहाँ आगे अध्ययन रखें। ज्ञान की आँख की खोज ईमानदार विवेक और देखभाल के साथ आगे चल सकती है।",
+  "clearEnglish": "The chapter closes with those who discern the distinction between field and knower through the eye of knowledge, and know liberation from the Nature of beings, reaching the Supreme. Sivananda's commentary adds an account of intuition opened through meditation, teacher, and scripture. It characterizes the field as changing, finite, and active, and its knower as pure consciousness, nonacting and infinite. It further interprets material Nature and ignorance through ultimate unreality. That final account is a named philosophical interpretation, not an exhaustive literal paraphrase of the short verse. It must not be used to dismiss bodily care, environmental responsibilities, or another person's needs. A modest study practice is to record one distinction that has become clearer and one unresolved question. This does not establish the Supreme attainment. It allows careful inquiry to continue without premature certainty. Let whatever has been understood inform a responsible action, while treating remaining uncertainty as a reason for further attention rather than for inventing a convenient conclusion.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Those discerning the field-knower distinction and liberation from Nature through knowledge reach the Supreme."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sri Swami Sivananda links intuition with meditation, teacher, and scripture; distinguishes changing field from pure consciousness; and interprets Nature and ignorance through ultimate unreality."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Recording insight and uncertainty supports study; the commentary's ultimate account does not cancel practical care or responsibility."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Write one clarified field-knower distinction and one unresolved question, then choose one responsible action informed by the insight."
+    }
+  ],
+  "reflectionQuestion": "What have I understood well enough to practice, and what still needs inquiry?",
+  "reflectionQuestionHindi": "क्या इतना समझा है कि अभ्यास कर सकूँ, और किस बात पर अभी खोज चाहिए?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

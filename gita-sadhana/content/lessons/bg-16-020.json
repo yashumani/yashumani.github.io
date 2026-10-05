@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-020",
+  "sequenceNumber": 591,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 20,
+  "verseEnd": 20,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "पतन का चक्र / A continuing downward course",
+  "context": "Krishna continues the account of demoniacal rebirth and failure to attain him.",
+  "contextHindi": "कृष्ण आसुरी जन्म, भ्रम और उन्हें प्राप्त न करने के परिणाम का वर्णन आगे बढ़ाते हैं।",
+  "sanskritDevanagari": "आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि |\nमामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम् ||१६-२०||",
+  "transliteration": "āsurīṃ yonimāpannā mūḍhā janmani janmani .\nmāmaprāpyaiva kaunteya tato yāntyadhamāṃ gatim ||16-20||",
+  "wordByWord": [
+    {
+      "term": "mūḍhāḥ",
+      "meaning": "Deluded"
+    },
+    {
+      "term": "janmani janmani",
+      "meaning": "Birth after birth"
+    },
+    {
+      "term": "mām aprāpya",
+      "meaning": "Without attaining me"
+    },
+    {
+      "term": "adhamāṃ gatim",
+      "meaning": "A still lower condition or destination"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि आसुरी योनियों में जन्म लेकर भ्रमित लोग जन्म जन्म में उन्हें नहीं प्राप्त करते और नीचे की गति को जाते हैं। पिछले श्लोक का पुनर्जन्म संबंधी वर्णन यहाँ जारी है। धार्मिक पाठ की यह गंभीरता बनाए रखनी चाहिए। इसे किसी व्यक्ति के भविष्य की हमारी भविष्यवाणी नहीं बना सकते। हमें न दूसरों के पिछले जन्म मालूम हैं, न इस श्लोक से उनके बारे में निजी निर्णय का अधिकार मिलता है। अध्याय का उद्देश्य क्रूरता और आसक्ति की दिशा से सावधान करना है। आधुनिक जीवन में एक सीमित समानता यह है कि जिस गलत तरीके को बार बार सही ठहराया जाए, उससे बाहर निकलना कठिन होता जाता है। यह समानता निष्कर्ष है, पुनर्जन्म के कथन का विकल्प नहीं। आज कोई छोटी आदत चुनें जिसमें आपने सुधार टाल रखा है। उसका पूरा भविष्य तय करने के बजाय अगला सही कदम तय करें। यदि नुकसान हो रहा है, तो सहायता लें और जवाबदेही बनाएं। चेतावनी सुनने का उपयोग डर में जम जाना नहीं, सुधार की उपलब्ध जगह को पहचानना हो सकता है।",
+  "clearEnglish": "The previous verse's rebirth account continues: those entering demoniacal births remain deluded, fail to attain Krishna, and move toward a lower condition. This is a serious religious claim about a downward course across births. It should neither be erased nor turned into a reader's private authority to pronounce another person's destiny. The chapter offers a warning about the disposition it has described, including cruelty, pride, and attachment. A limited modern analogy concerns how repeated self-justification can make a harmful habit harder to interrupt. That analogy is an inference; it does not exhaust or prove the metaphysical account. Its practical value lies in locating an available next step rather than declaring permanent hopelessness. If a pattern is causing harm, identify one interruption: a truthful admission, a changed procedure, a safe boundary, or qualified support. Moral seriousness need not become fatalism. Receiving a warning responsibly means becoming more answerable for conduct, while acknowledging the limits of what we can know about anyone's spiritual condition.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna continues the religious account of repeated demoniacal births, delusion, non-attainment, and a lower destination."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Interrupting a repeated harmful habit is a limited contemporary analogy, not a judgement about anyone's rebirth or destiny."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Available next step",
+      "text": "Choose one harmful habit and identify a realistic interruption or source of support."
+    }
+  ],
+  "reflectionQuestion": "What change is available without deciding my entire future?",
+  "reflectionQuestionHindi": "अपना पूरा भविष्य तय किए बिना अभी कौन सा सुधार सम्भव है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

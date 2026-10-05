@@ -1,0 +1,75 @@
+{
+  "id": "bg-09-021",
+  "sequenceNumber": 359,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 21,
+  "verseEnd": 21,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "पुण्य समाप्त होने पर वापसी | Return when merit is exhausted",
+  "context": "Krishna continues the account of the heavenly enjoyment described in the preceding verse.",
+  "contextHindi": "पिछले श्लोक में बताए स्वर्ग के भोग का आगे का परिणाम कृष्ण बताते हैं।",
+  "sanskritDevanagari": "ते तं भुक्त्वा स्वर्गलोकं विशालं\nक्षीणे पुण्ये मर्त्यलोकं विशन्ति |\nएवं त्रयीधर्ममनुप्रपन्ना\nगतागतं कामकामा लभन्ते ||९-२१||",
+  "transliteration": "te taṃ bhuktvā svargalokaṃ viśālaṃ kṣīṇe puṇye martyalokaṃ viśanti .\nevaṃ trayīdharmamanuprapannā gatāgataṃ kāmakāmā labhante ||9-21||",
+  "wordByWord": [
+    {
+      "term": "क्षीणे पुण्ये",
+      "meaning": "When merit is exhausted."
+    },
+    {
+      "term": "मर्त्यलोकम्",
+      "meaning": "The world of mortals."
+    },
+    {
+      "term": "त्रयीधर्मम्",
+      "meaning": "The dharma or injunctions of the three Vedas."
+    },
+    {
+      "term": "गतागतम्",
+      "meaning": "Going and returning."
+    },
+    {
+      "term": "कामकामाः",
+      "meaning": "Desiring objects of desire."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि विशाल स्वर्गलोक का सुख भोगने के बाद, पुण्य समाप्त होने पर ये लोग मर्त्यलोक में आते हैं। तीन वेदों के धर्म का अनुसरण करते हुए और इच्छित भोग चाहने वाले इस तरह जाना और लौटना पाते हैं। यहाँ पिछले श्लोक के सुख की सीमा साफ़ होती है। स्वर्ग की प्राप्ति को पंक्ति नकारती नहीं, लेकिन उसे अंतिम, अटल विश्राम भी नहीं मानती। दिए गए भाष्य में स्वामी शिवानंद कहते हैं कि संचित पुण्य समाप्त होने पर वे फिर इस संसार में आते हैं और स्वतंत्र नहीं हैं। यह पुनरावृत्ति की धार्मिक व्याख्या है। आधुनिक अभ्यास में कोई पुरस्कार मिलने के बाद अगली माँग उठने की आदत पर विचार कर सकते हैं। यह उपमा है, स्वर्ग का मनोवैज्ञानिक अनुवाद नहीं। हम पुरस्कार का सम्मान करते हुए भी उसकी सीमा जान सकते हैं। अपने किसी अच्छे परिणाम के लिए कृतज्ञ हों, फिर देखें कि आपका ध्यान तुरंत अगले लाभ में तो नहीं चला गया। ऐसा देखना खुद को लालची कहने के लिए नहीं, इच्छाओं की दिशा को धैर्य से समझने के लिए है।",
+  "clearEnglish": "The heavenly reward has an endpoint. After enjoying the vast heaven, the worshippers enter the mortal world when their merit is exhausted. Krishna characterizes this as going and returning for those who follow the three Vedas' injunctions while desiring desired objects. The sequence does not deny the previously described enjoyment; it locates it within recurrence. Sivananda's commentary emphasizes exhausted accumulated merit and lack of independence in the return. A modern analogy can examine how satisfaction from a reward gives way to another demand. That pattern may help us reflect, but it is not a reduction of the verse's heaven and rebirth to ordinary psychology. A useful response is to appreciate a good result without assuming it can permanently settle every want. Gratitude and honesty can coexist: we can recognize a benefit and also notice renewed seeking. This is not an invitation to shame ourselves for having needs. It is an exercise in distinguishing a limited reward from the deeper freedom the chapter is discussing.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "After heavenly enjoyment, these desire-seeking followers of the three Vedas return to the mortal world when merit ends, undergoing going and returning."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "An analogy with renewed desire after reward can clarify expectations, without reducing heavenly recurrence to psychology or shaming ordinary need."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sivananda says that when accumulated merit is exhausted, they return to this world and have no independence."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Pause after a result",
+      "text": "Recall one good result, appreciate it, and notice whether a new demand immediately replaced the appreciation."
+    }
+  ],
+  "reflectionQuestion": "What happens to my attention just after I receive a desired result?",
+  "reflectionQuestionHindi": "इच्छित फल मिलते ही मेरे ध्यान की दिशा क्या हो जाती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

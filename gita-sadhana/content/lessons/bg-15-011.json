@@ -1,0 +1,67 @@
+{
+  "id": "bg-15-011",
+  "sequenceNumber": 562,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 11,
+  "verseEnd": 11,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "Effort needs inward preparation / प्रयास के साथ भीतर की तैयारी",
+  "context": "Krishna contrasts striving yogis who discern the indwelling self with striving that lacks inward refinement and discernment.",
+  "contextHindi": "कृष्ण कहते हैं कि प्रयत्नशील योगी भीतर स्थित को देखते हैं, जबकि भीतर की तैयारी और विवेक के अभाव में प्रयास पर्याप्त नहीं होता।",
+  "sanskritDevanagari": "यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् |\nयतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः ||१५-११||",
+  "transliteration": "yatanto yoginaścainaṃ paśyantyātmanyavasthitam .\nyatanto.apyakṛtātmāno nainaṃ paśyantyacetasaḥ ||15-11||",
+  "wordByWord": [
+    {
+      "term": "yatantaḥ",
+      "meaning": "striving; प्रयास करते हुए"
+    },
+    {
+      "term": "ātmani avasthitam",
+      "meaning": "established within the self"
+    },
+    {
+      "term": "akṛtātmānaḥ",
+      "meaning": "those whose inner life is unprepared or unrefined"
+    },
+    {
+      "term": "acetasaḥ",
+      "meaning": "lacking discernment in this context"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि प्रयास करने वाले योगी इसे अपने भीतर स्थित देखते हैं। दूसरी ओर, भीतर की तैयारी और विवेक के अभाव वाले लोग कोशिश करते हुए भी इसे नहीं देखते। प्रयास का मूल्य बना है, लेकिन उसकी दिशा और मन की तैयारी भी जरूरी है। इस कथन को किसी कठिनाई झेल रहे व्यक्ति पर अयोग्यता का फैसला सुनाने के लिए न इस्तेमाल करें। किसी का ध्यान न टिकना उसके आध्यात्मिक मूल्य का पूरा प्रमाण नहीं। श्लोक आत्मदर्शन के संदर्भ में साधना की गुणवत्ता का अंतर बताता है। रोजमर्रा का उदाहरण है बहुत देर पढ़ना, पर प्रश्न स्पष्ट न होने से केवल शब्द दोहराते रहना। एक छोटा सुधार समय बढ़ाने के बजाय पढ़ने का उद्देश्य साफ करना हो सकता है। यह अध्ययन का अनुप्रयोग है, आत्मदर्शन की गारंटी नहीं। आज शांत और संभव समय चुनें, एक सवाल रखें और मन भटके तो वापस आएँ। जरूरत पड़ने पर सीखने की विधि या सहायता बदलें। ईमानदार तैयारी अभ्यास को कठोर दबाव के बजाय समझ की दिशा दे सकती है।",
+  "clearEnglish": "Striving yogis discern the one established within the self, while those whose inner life remains unprepared and whose discernment is lacking do not, even while striving. Krishna distinguishes the quality of effort from its mere presence. The verse does not imply that every difficulty in concentration proves a person's inferiority. It concerns preparation for spiritual discernment, and the supplied passage does not offer a psychological diagnosis. A useful analogy is studying for a long time without knowing what question the reading should clarify. Increasing duration may then repeat an ineffective approach. Refining attention, purpose, and method can be a more sensible next step. That practical example remains distinct from the attainment of self-vision described in the text. Choose an attainable period for study, keep one question in view, and return when distracted without turning the return into punishment. If an approach repeatedly fails, appropriate instruction or support can help. Effort becomes more meaningful when it is accompanied by honest examination of how one is practicing.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Striving yogis see the one established within, but striving without inner refinement and discernment does not result in that vision."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Improving a practice's purpose and method is an analogy for preparation; concentration difficulty alone is no verdict on spiritual worth."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Use a brief attainable study period with one clear question, and adjust the method if it does not help understanding."
+    }
+  ],
+  "reflectionQuestion": "Does my effort need more duration, or a clearer purpose and method?",
+  "reflectionQuestionHindi": "मेरे प्रयास को अधिक समय चाहिए या अधिक स्पष्ट उद्देश्य और विधि?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

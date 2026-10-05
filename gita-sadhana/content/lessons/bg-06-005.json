@@ -1,0 +1,75 @@
+{
+  "id": "bg-06-005",
+  "sequenceNumber": 238,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 5,
+  "verseEnd": 5,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "आत्म-नियंत्रण: आत्मा मित्र है, असंयत आत्मा शत्रु; Self-mastery: the Self as friend, the unruly self as enemy",
+  "context": "Krishna's teaching on meditation is now practical: the mind is not an enemy to be rejected, but a field to be guided by higher awareness. The verse names the inner criterion: if the Self governs the self, it becomes a friend; if it is abandoned to impulses, it works against us.",
+  "contextHindi": "कृष्ण ने ध्यान को स्थिर, संयमित, और वासना-रहित जीवन के रूप में समझाया है। अब वे बताते हैं कि आंतरिक बुद्धि और आत्म-साक्षात्कार ही मन को उठाने वाला है; अगर वह आत्मा के नियंत्रण में है, तो मन सहायक बनता है, नहीं तो वह अपने ही भीतर दुश्मन की तरह कार्य करता है।",
+  "sanskritDevanagari": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत् |\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ||६-५||",
+  "transliteration": "uddharedātmanātmānaṃ nātmānamavasādayet .\nātmaiva hyātmano bandhurātmaiva ripurātmanaḥ ||6-5||",
+  "wordByWord": [
+    {
+      "term": "उद्धरेत्",
+      "meaning": "lift up, raise, elevate; in context, to guide oneself toward higher awareness."
+    },
+    {
+      "term": "आत्मा",
+      "meaning": "the Self, the higher and governing principle; not merely the body or ego."
+    },
+    {
+      "term": "बन्धुः",
+      "meaning": "friend; one who supports and steadies the inner life."
+    },
+    {
+      "term": "रिपुः",
+      "meaning": "enemy; what acts against one’s own deepest welfare, especially untrained desire and fear."
+    }
+  ],
+  "spokenHindi": "इस श्लोक में श्रीकृष्ण कहते हैं कि मनुष्य को अपने को ऊपर उठाना चाहिए, नीचे नहीं गिराना चाहिए। यहाँ “उठाना” का अर्थ है विवेक और आत्मबोध के सहारे सही दिशा में आगे बढ़ना। श्लोक कहता है कि आत्मा ही अपने लिए मित्र है और आत्मा ही शत्रु बन सकती है। जब हम मन और इन्द्रियों को समझदारी से दिशा देते हैं, तो वे हमारा साथ देते हैं। जब हम बिना सोचे हर इच्छा या आवेग के पीछे चलते हैं, तो हमारे अपने चुनाव हमारे लिए बाधा बन सकते हैं। इसका अर्थ यह नहीं कि उदासी, निराशा या कठिन समय में होना कोई दोष है। यह श्लोक किसी की भावनाओं को दोष नहीं देता। यह अपने भीतर उपलब्ध सहारे और विवेक का उपयोग करने की सीख देता है। छोटी शुरुआत भी मददगार है: ठहरकर सोचें, फिर ऐसा कदम चुनें जो आपके मूल्यों और भलाई के अनुकूल हो।",
+  "clearEnglish": "In this verse, Krishna says that one should lift oneself up and not let oneself fall. “Lift up” points to moving in a sound direction with discernment and awareness of the Self. The verse says that the Self can be one’s own friend, and can also act as one’s own enemy. When we guide the mind and senses with care, they can support us. When we follow every impulse without reflection, our choices can become obstacles to our well-being. This is not a judgment on sadness, despair, guilt, or any other difficult feeling. The verse does not blame people for emotional suffering. Its teaching is about using the inner resources of discernment and self-guidance. A small step can be enough: pause, consider what matters to you, and choose an action that supports your values and well-being.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse literally says: the Self is the friend of the self for one who lifts oneself by the Self, and the self becomes an enemy when it drags itself downward."
+    },
+    {
+      "label": "COMMENTARY",
+      "explanation": "The DLS reading frames the lower self, mind, and senses as needing to be governed by the higher Self; this is a practical teaching of inner discipline rather than self-hatred."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The danger is not mainly external; it is the untrained reaction pattern of mind, fear, and desire. Inner clarity becomes a source of strength when it is trusted more than impulse."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Self-check",
+      "text": "When you feel mentally pulled down, pause for thirty seconds and ask: 'Which voice am I listening to—fear, craving, or the higher Self?' Then choose one action that supports calm and clarity."
+    },
+    {
+      "label": "Gentle discipline",
+      "text": "Instead of shaming yourself after a mistake, reset your attention and act in a way that reflects your values, because the self becomes a friend when it is guided wisely."
+    }
+  ],
+  "reflectionQuestion": "When your mind pulls you downward, what would it look like to lift yourself by the higher Self instead of by impulse or shame?",
+  "reflectionQuestionHindi": "जब आपका मन आपको नीचे खींचे, तो क्या होगा अगर आप अपने को विकार या शर्म के बजाय उच्च आत्मा से उठाएँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, translation, commentary context, and the practical teaching for Chapter 6, verse 5."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration for Chapter 6, verse 5 as used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

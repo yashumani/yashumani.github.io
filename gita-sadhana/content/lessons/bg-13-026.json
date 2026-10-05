@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-026",
+  "sequenceNumber": 515,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 26,
+  "verseEnd": 26,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Learning through attentive hearing / ध्यान से सुनकर सीखना",
+  "context": "Krishna includes those who worship after hearing from others and rely on the teaching they have heard.",
+  "contextHindi": "कृष्ण उन लोगों को भी मुक्ति की दिशा में रखते हैं जो दूसरों से सुनकर उपासना करते और सुनी शिक्षा का आश्रय लेते हैं।",
+  "sanskritDevanagari": "अन्ये त्वेवमजानन्तः श्रुत्वान्येभ्य उपासते |\nतेऽपि चातितरन्त्येव मृत्युं श्रुतिपरायणाः ||१३-२६||",
+  "transliteration": "anye tvevamajānantaḥ śrutvānyebhya upāsate .\nte.api cātitarantyeva mṛtyuṃ śrutiparāyaṇāḥ ||13-26||",
+  "wordByWord": [
+    {
+      "term": "śrutvā",
+      "meaning": "having heard"
+    },
+    {
+      "term": "anyebhyaḥ",
+      "meaning": "from others"
+    },
+    {
+      "term": "upāsate",
+      "meaning": "worship or attend devotionally"
+    },
+    {
+      "term": "śrutiparāyaṇāḥ",
+      "meaning": "devoted to what is heard"
+    },
+    {
+      "term": "atitaranti mṛtyum",
+      "meaning": "cross beyond death"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि कुछ लोग इस तरह स्वयं नहीं जानते, पर दूसरों से सुनकर उपासना करते हैं। सुनी शिक्षा का आश्रय लेने वाले वे भी मृत्यु को पार करते हैं। यह सुनकर सीखने की जगह को सम्मान देता है। शुरुआत में सबको जटिल दार्शनिक व्यवस्था समझ आना जरूरी नहीं। फिर भी सुनना केवल बिना ध्यान शब्द ग्रहण करना नहीं; उसमें ग्रहणशीलता और अभ्यास की दिशा है। श्लोक किसी मानव शिक्षक की हर बात को अचूक नहीं कहता। सत्य, आचरण और उचित सीमाओं की जाँच बनी रह सकती है। आज का छोटा अनुप्रयोग एक विश्वसनीय पाठ को ध्यान से सुनकर उसका अर्थ अपने शब्दों में कहना हो सकता है। यह मुक्ति की पूरी प्राप्ति का प्रमाण नहीं। यदि अर्थ अस्पष्ट है तो प्रश्न पूछें; दूसरों से सीखना कमजोरी नहीं। साथ ही कोई डर या अनुचित दबाव देकर आज्ञापालन माँगे तो सहयोग लें और विवेक बनाए रखें। सुनने से शुरू हुआ अध्ययन धीरे समझ में बदल सकता है, बिना अपनी वर्तमान सीमा को शर्म का कारण बनाए।",
+  "clearEnglish": "Krishna includes people who do not yet know in the previously described way but worship after hearing from others. Those devoted to what they have heard also cross beyond death. The verse gives a meaningful place to receptive learning rather than reserving the spiritual path for people who can immediately articulate a sophisticated system. Its promise remains a religious claim about liberation. Attentive hearing should not be conflated with unquestioning submission to every statement made by a human teacher. Source, conduct, and appropriate boundaries still matter in contemporary relationships. A small study practice is to hear a trustworthy passage, restate its meaning, and ask about what remains unclear. This exercise does not prove attainment, but it makes hearing active and accountable. Admitting that one is learning through another person need not be shameful. Likewise, threats or improper demands should not be justified as the price of devotion. Receptivity and discernment can develop together as understanding grows from a sincere beginning.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Those who hear from others and worship, devoted to what is heard, also cross beyond death according to Krishna."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Restating a trustworthy teaching and asking questions applies receptive learning without making every human authority infallible."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Listen to a reliable passage, summarize one point, and ask one honest question about it."
+    }
+  ],
+  "reflectionQuestion": "What did I actually understand from what I heard?",
+  "reflectionQuestionHindi": "जो सुना उसमें से मैंने वास्तव में क्या समझा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-12-014",
+  "sequenceNumber": 483,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 14,
+  "verseEnd": 14,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "संतोष और दृढ़ निश्चय / Contentment and firm direction",
+  "context": "Krishna completes the portrait with contentment, steady yoga, self-control, conviction and mind and intellect offered to him.",
+  "contextHindi": "कृष्ण संतोष, योग की स्थिरता, संयम, दृढ़ निश्चय और समर्पित मन बुद्धि वाले भक्त को प्रिय कहते हैं।",
+  "sanskritDevanagari": "सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः |\nमय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः ||१२-१४||",
+  "transliteration": "santuṣṭaḥ satataṃ yogī yatātmā dṛḍhaniścayaḥ .\nmayyarpitamanobuddhiryo madbhaktaḥ sa me priyaḥ ||12-14||",
+  "wordByWord": [
+    {
+      "term": "सन्तुष्टः",
+      "meaning": "content"
+    },
+    {
+      "term": "यतात्मा",
+      "meaning": "self-controlled"
+    },
+    {
+      "term": "दृढनिश्चयः",
+      "meaning": "firm in conviction"
+    },
+    {
+      "term": "अर्पितमनोबुद्धिः",
+      "meaning": "mind and intellect offered"
+    }
+  ],
+  "spokenHindi": "कृष्ण पिछले गुणों के साथ आगे संतोष, निरंतर योग, संयम और दृढ़ निश्चय रखते हैं। जिसका मन और बुद्धि उन्हें समर्पित है, वह भक्त उन्हें प्रिय है। इसलिए सूची का केंद्र केवल किसी एक अच्छी आदत में नहीं, कृष्ण की ओर पूरे संबंध की दिशा में है। सन्तुष्टः का अर्थ वर्तमान में टिकने की क्षमता हो सकता है; लेकिन जरूरी सुधार, उचित जरूरत या सहायता छोड़ देना उसका अनिवार्य उपयोग नहीं। दृढ़ निश्चय को जिद से भी अलग रखना चाहिए। निश्चय किसी अर्थपूर्ण दिशा में स्थिरता है; तथ्य बदलें तो समझदारी से तरीका बदलना संभव रहता है। यह आधुनिक व्याख्या है। मन और बुद्धि का समर्पण पहले भी आया था; भाव और विवेक दोनों साथ हैं। आज छोटा संकल्प चुनें और देखें कि उसे पूरा करते समय अपने पर कितना अनावश्यक दबाव डालते हैं। अच्छा काम सावधानी से करें, पर हर बार अपने को साबित करने की प्रतियोगिता न बनाएं। संतोष और प्रयास का साथ रहना हमारे व्यवहार में इस आदर्श को सीमित रूप से आजमाने का अवसर हो सकता है।",
+  "clearEnglish": "The description concludes with contentment, constant yoga, self-control, firm conviction, and mind and intellect offered to Krishna. The devotee so described is dear to him. The qualities are connected to a devotional orientation rather than presented as independent productivity targets. Contentment can be read as steadiness without importing a demand to abandon legitimate needs or useful change. Firm conviction likewise need not mean refusing evidence or clinging to an unsuitable method. Those distinctions are modern applications, not full definitions supplied by the verse. The renewed pairing of mind and intellect keeps feeling and understanding together. A practical exercise is a modest commitment pursued carefully without turning it into a test of one's whole value. Choose a useful action, decide what counts as enough, and complete it at a reasonable pace. Contentment and effort need not be enemies in that exercise. It remains a small exploration of the portrait rather than a claim that its full spiritual state has been achieved. Krishna names the devotee's integrated direction and his dearness.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna completes the portrait and calls the content, steady, self-controlled devotee with offered mind and intellect dear."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Contentment can coexist with necessary change; firm direction does not require ignoring evidence or capacity."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "A reasonable commitment",
+      "text": "Choose one small useful commitment, define enough clearly and complete it without turning it into a test of your entire worth."
+    }
+  ],
+  "reflectionQuestion": "Can my effort remain steady without becoming a demand to prove myself?",
+  "reflectionQuestionHindi": "क्या मेरा प्रयास स्थिर रह सकता है, खुद को साबित करने की मांग बने बिना?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

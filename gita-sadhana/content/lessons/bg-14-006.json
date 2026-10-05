@@ -1,0 +1,71 @@
+{
+  "id": "bg-14-006",
+  "sequenceNumber": 530,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 6,
+  "verseEnd": 6,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "Clarity can still bind / स्पष्टता में भी आसक्ति",
+  "context": "Krishna explains sattva first, including its benefits and its subtle form of bondage.",
+  "contextHindi": "तीन गुणों के नाम बताने के बाद कृष्ण सत्त्व की निर्मलता और उसके सूक्ष्म बंधन को समझाते हैं।",
+  "sanskritDevanagari": "तत्र सत्त्वं निर्मलत्वात्प्रकाशकमनामयम् |\nसुखसङ्गेन बध्नाति ज्ञानसङ्गेन चानघ ||१४-६||",
+  "transliteration": "tatra sattvaṃ nirmalatvātprakāśakamanāmayam .\nsukhasaṅgena badhnāti jñānasaṅgena cānagha ||14-6||",
+  "wordByWord": [
+    {
+      "term": "nirmalatvāt",
+      "meaning": "because of purity or clearness"
+    },
+    {
+      "term": "prakāśakam",
+      "meaning": "illuminating; प्रकाश देने वाला"
+    },
+    {
+      "term": "sukhasaṅgena",
+      "meaning": "through attachment to happiness"
+    },
+    {
+      "term": "jñānasaṅgena",
+      "meaning": "through attachment to knowledge"
+    }
+  ],
+  "spokenHindi": "कृष्ण सत्त्व को निर्मल होने के कारण प्रकाश देने वाला और अनामय कहते हैं। फिर वे एक चौंकाने वाला मोड़ जोड़ते हैं: सत्त्व भी सुख और ज्ञान की आसक्ति से बाँधता है। इसका अर्थ यह नहीं कि खुशी या सीखना बुरी चीजें हैं। अध्याय की भूमिका सत्त्व को विकसित करने की बात करती है, लेकिन साथ ही बताती है कि उससे चिपकना मुक्ति का अवरोध हो सकता है। हम समझने की क्षमता को सँवारें, फिर ‘मैं बहुत समझदार हूँ’ की छवि से सावधान रहें। कभी कोई शांत समय इतना प्रिय हो जाता है कि आवश्यक बातचीत भी हमें व्यवधान लगती है। कभी अपने विचार की सुंदरता बचाने के लिए हम नई बात सुनना बंद कर देते हैं। ये उदाहरण आधुनिक अनुप्रयोग हैं। श्लोक स्वयं सुख और ज्ञान से जुड़ाव की बात करता है। आज सीखने के बाद देखें कि क्या ज्ञान मुझे अधिक खुला और जिम्मेदार बना रहा है, या अपनी पहचान बचाने में अधिक कठोर। स्पष्टता के साथ विनम्रता रखना इस चेतावनी की उपयोगी दिशा है।",
+  "clearEnglish": "Sattva is praised for its clearness, illuminating character, and freedom from affliction, yet Krishna immediately describes how it binds. Its bond is attachment to happiness and knowledge. This is a more subtle problem than obvious greed or confusion: something beneficial can still become a possession around which identity hardens. The chapter summary encourages cultivating sattva while warning against attachment even to this quality. We can therefore distinguish developing clarity from demanding that pleasant clarity remain uninterrupted. A student may welcome understanding but resist a correction because being knowledgeable has become part of a cherished image. A peaceful person may avoid a needed conversation to protect a preferred feeling. These are contemporary illustrations, not examples named by Krishna. The verse does not ask us to seek confusion or reject learning. It asks us to recognize the claim we make upon good experiences. The practical challenge is to let knowledge improve judgment while remaining teachable when reality revises our assumptions.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Sattva illuminates through its purity, but binds through attachment to happiness and knowledge."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "The supplied Sivananda chapter summary recommends cultivating sattva and cautions that attachment even to it can bind."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Accepting correction without defending an identity of being knowledgeable illustrates nonattachment to knowledge."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "When corrected today, ask one clarifying question before defending your original explanation."
+    }
+  ],
+  "reflectionQuestion": "Do I want understanding, or the protected image of being someone who understands?",
+  "reflectionQuestionHindi": "मुझे समझ चाहिए, या समझदार दिखाई देने की सुरक्षित छवि?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

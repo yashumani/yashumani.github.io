@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-040",
+  "sequenceNumber": 454,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 40,
+  "verseEnd": 40,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "हर दिशा का प्रणाम / Salutation on every side",
+  "context": "Arjuna bows before, behind and on every side, linking the all-pervading form with infinite power.",
+  "contextHindi": "अर्जुन आगे, पीछे और हर दिशा में प्रणाम करते हैं और कृष्ण की अनंत शक्ति तथा सर्वव्याप्ति कहते हैं।",
+  "sanskritDevanagari": "नमः पुरस्तादथ पृष्ठतस्ते\nनमोऽस्तु ते सर्वत एव सर्व |\nअनन्तवीर्यामितविक्रमस्त्वं\nसर्वं समाप्नोषि ततोऽसि सर्वः ||११-४०||",
+  "transliteration": "namaḥ purastādatha pṛṣṭhataste namo.astu te sarvata eva sarva .\nanantavīryāmitavikramastvaṃ sarvaṃ samāpnoṣi tato.asi sarvaḥ ||11-40||",
+  "wordByWord": [
+    {
+      "term": "पुरस्तात्",
+      "meaning": "from the front"
+    },
+    {
+      "term": "पृष्ठतः",
+      "meaning": "from behind"
+    },
+    {
+      "term": "अमितविक्रमः",
+      "meaning": "immeasurable in prowess"
+    },
+    {
+      "term": "समाप्नोषि",
+      "meaning": "you pervade or encompass"
+    }
+  ],
+  "spokenHindi": "अर्जुन सामने से, पीछे से और सभी ओर कृष्ण को प्रणाम कहते हैं। वे अनंत वीर्य और अमित पराक्रम वाले हैं, सबको व्याप्त करते हैं, इसलिए सब हैं। यह पहले के विश्वतोमुख रूप की श्रद्धापूर्ण प्रतिक्रिया है। यदि रूप हर ओर है, तो एक दिशा से किया वर्णन ही पर्याप्त नहीं लगता। अर्जुन भाषा में दिशाओं का विस्तार करके सम्मान कहते हैं। इससे घर में कौन सी दिशा में बैठकर प्रार्थना करनी चाहिए, ऐसा अनिवार्य नियम नहीं निकलता। उनका विषय दिव्य व्यापकता है, हमारी दिनचर्या का वास्तु निर्देश नहीं। हमारा सीमित उपयोग यह हो सकता है कि जीवन में सम्मान केवल सामने दिख रहे हिस्से तक न रखें। किसी काम के पीछे की अनदेखी मेहनत को भी याद करें। सेवा देने वाला व्यक्ति सामने है, पर व्यवस्था में सफाई, रखरखाव और तैयारी का काम भी है। यह आधुनिक उदाहरण है, सारे कामों को विश्वरूप का प्रत्यक्ष दर्शन घोषित करने का दावा नहीं। एक अनदेखे योगदान को पहचानकर धन्यवाद देना छोटे स्तर पर हमारी नजर को अधिक व्यापक और जिम्मेदार बना सकता है।",
+  "clearEnglish": "Arjuna's salutation expands spatially: from the front, from behind and on every side. He describes Krishna as infinite in power and immeasurable in prowess, pervading all and therefore being all. This responds to the all-facing form rather than establishing a required direction for household prayer. The language makes a single viewpoint insufficient for the act of reverence itself. The verse remains Arjuna's praise, not a spatial rule addressed to every practitioner. A modest application is attention to contributions that remain out of view. A service we receive may depend on preparation, cleaning, maintenance and coordination that are not performed by the person directly before us. Acknowledging one such contribution can make gratitude less selective. That analogy does not claim to reproduce the cosmic form or equate every workplace with the theological statement. It is an ordinary way to broaden regard. The literal verse relates the directions of salutation to Krishna's all-pervading presence and immeasurable power.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna salutes in all directions and links Krishna's universal pervasion with infinite power."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Recognizing unseen contributions is an application; no household orientation rule is stated."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Acknowledge unseen work",
+      "text": "Notice one contribution behind a service you receive, such as maintenance or preparation. Offer specific appreciation where appropriate."
+    }
+  ],
+  "reflectionQuestion": "Whose work stays behind the visible part of what I receive?",
+  "reflectionQuestionHindi": "मुझे मिलने वाली सुविधा के दिखाई देने वाले हिस्से के पीछे किसकी मेहनत रहती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

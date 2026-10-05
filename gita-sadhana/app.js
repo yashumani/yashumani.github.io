@@ -105,11 +105,21 @@ function renderProgress() {
   $("#ring-value").style.strokeDashoffset = `${offset}`;
   $("#progress-ring").setAttribute("aria-label", `${percentage.toFixed(1)} percent complete`);
 
-  const nextDisplay = progress.nextVerse?.display || `${progress.nextVerse?.chapter || 1}.${progress.nextVerse?.verse || 1}`;
+  const journeyComplete = completed === total;
+  const nextDisplay = journeyComplete ? "Complete" : progress.nextVerse?.display || `${progress.nextVerse?.chapter || 1}.${progress.nextVerse?.verse || 1}`;
   $("#next-verse").textContent = nextDisplay;
   $("#progress-message").textContent = completed === 0
     ? `The sequential journey begins at Chapter ${progress.nextVerse?.chapter || 1}, Verse ${progress.nextVerse?.verse || 1}.`
-    : `Continue with Bhagavad Gita ${nextDisplay}.`;
+    : journeyComplete ? "The complete 701-verse journey is published." : `Continue with Bhagavad Gita ${nextDisplay}.`;
+
+  if (journeyComplete) {
+    const nextCard = $("#next-verse").closest(".progress-card");
+    nextCard.querySelector(".status-label").textContent = "Complete";
+    nextCard.querySelector("p").textContent = "Every verse in the selected edition is available in the published archive.";
+    const archiveLink = nextCard.querySelector("a");
+    archiveLink.href = "complete.html";
+    archiveLink.textContent = "Open the complete archive";
+  }
 
   if (progress.lastPublishedLessonId) {
     $("#last-published").textContent = progress.lastPublishedLessonId.replace("bg-", "").replaceAll("-", ".");
@@ -448,6 +458,7 @@ function appendTimelineLessons() {
       </div>`;
     timeline.insertBefore(article, nextItem);
   });
+  if (state.progress.completedSequentialVerses === 701) nextItem?.remove();
 }
 
 function applyFilters() {

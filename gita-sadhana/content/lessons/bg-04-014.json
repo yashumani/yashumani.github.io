@@ -1,0 +1,71 @@
+{
+  "id": "bg-04-014",
+  "sequenceNumber": 176,
+  "date": "2026-10-05",
+  "chapter": 4,
+  "verseStart": 14,
+  "verseEnd": 14,
+  "chapterNameSanskrit": "ज्ञानकर्मसंन्यासयोग",
+  "chapterNameEnglish": "Jñāna Karma Sannyāsa Yoga",
+  "theme": "ज्ञान से मुक्ति: कर्म नहीं, अहंकार बंधन बनाता है / Liberation through knowledge: bondage arises from ego and fruit-attachment, not from action itself.",
+  "context": "Krishna has just said the Lord is not the doer of actions. Now he defines the inner condition for freedom: one who knows the Lord in this way does not get bound by action, because there is no claim over the work and no craving for its results.",
+  "contextHindi": "कृष्ण ने अभी कहा है कि भगवान कर्म के कर्ता नहीं हैं। अब वे मुक्ति की आंतरिक स्थिति बताते हैं: जो व्यक्ति भगवान को इस तरह जान लेता है, वह कर्म से नहीं बंधता, क्योंकि वह अपने को कर्ता नहीं मानता और कर्म के परिणाम की इच्छा नहीं रखता।",
+  "sanskritDevanagari": "न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा |\nइति मां योऽभिजानाति कर्मभिर्न स बध्यते ||४-१४||",
+  "transliteration": "na māṃ karmāṇi limpanti na me karmaphale spṛhā .\niti māṃ yo.abhijānāti karmabhirna sa badhyate ||4-14||",
+  "wordByWord": [
+    {
+      "term": "न मां कर्माणि लिम्पन्ति",
+      "meaning": "actions do not taint Me; the sense is not moral impurity of divinity, but that the Lord is not contaminated by the egoic entanglement of action."
+    },
+    {
+      "term": "कर्मफले स्पृहा",
+      "meaning": "desire for the fruits of actions; this is the craving that makes work into bondage."
+    },
+    {
+      "term": "अभिजानाति",
+      "meaning": "knows truly, recognizes in direct understanding; it is not only intellectual knowledge but inner realization."
+    },
+    {
+      "term": "बध्यते",
+      "meaning": "बंधता है; कर्मबंधन में पड़ता है, जो संसार (जन्म-मृत्यु के चक्र) और पुनर्जन्म से मुक्ति में बाधा है।"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं: “कर्म मुझे लिप्त नहीं करते, और मुझे कर्मफल की इच्छा नहीं है।” यहाँ कृष्ण अपने बारे में कह रहे हैं। फिर वे कहते हैं कि जो उन्हें इस रूप में ठीक से जानता है, वह कर्मों से बंधता नहीं। इस श्लोक का दावा यह नहीं है कि साधक स्वयं अकर्ता है। बात यह है कि भगवान कर्मों से अछूते हैं और फल की इच्छा से रहित हैं; इस सत्य का ज्ञान कर्मबंधन से मुक्ति से जुड़ा है। हमारे लिए इसका व्यावहारिक संकेत यह हो सकता है कि अपना काम जिम्मेदारी से करें, लेकिन फल को लेकर आसक्ति न पालें। इसका अर्थ काम छोड़ना या उसके परिणामों की जिम्मेदारी से बचना नहीं है। काम करते समय अपने उद्देश्य को साफ रखें। सफलता या असफलता को अपने पूरे मूल्य का माप न बनने दें।",
+  "clearEnglish": "The verse is simplest in one sense and deepest in another: Krishna says that actions do not taint the Lord, and the Lord does not desire the fruits of action. In contrast, human beings become entangled when they treat action as a claim on selfhood and outcome. This is not a denial of moral responsibility. It is a description of the difference between human agency under ego and divine agency beyond ego. The one who knows this truth has a different relationship to work: they still act, but they do not seek to possess the result, and they do not tighten the knot of “I did it” and “I deserve this.” This is why the Gita repeatedly speaks of nishkama karma, action without attachment. The practical meaning is ethical engagement without possessiveness. It allows responsibility without becoming defined by success, failure, praise, or blame.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse states that actions do not taint the Lord and that the Lord has no craving for the fruits of action. The one who truly knows this is not bound by actions."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A fair inference is that the binding element in work is not work itself but attachment, ego, and result-driven desire. Freedom grows when attention is on duty and discernment, not on possession of outcomes."
+    },
+    {
+      "label": "COMMENTARY",
+      "explanation": "Traditional readings emphasize the loss of agency and fruit-attachment as the path to freedom. This helps interpret the verse as a practical discipline, not as a claim that persons are morally detached from consequences."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Work without clutching",
+      "text": "Before starting an important task, ask: am I acting out of responsibility and clarity, or am I tightening my grip on results? Do the work with sincerity, then release the outcome without identifying your worth with it."
+    }
+  ],
+  "reflectionQuestion": "In your current work or studies, what part of your stress comes from craving approval, success, or control over the result?",
+  "reflectionQuestionHindi": "आपके वर्तमान कार्य या पढ़ाई में, तनाव का कौन-सा भाग मान्यता, सफलता, या परिणाम पर नियंत्रण की इच्छा से आता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

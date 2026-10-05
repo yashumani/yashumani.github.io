@@ -1,0 +1,67 @@
+{
+  "id": "bg-13-021",
+  "sequenceNumber": 510,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 21,
+  "verseEnd": 21,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Processes and the experience of them / प्रक्रिया और उसका अनुभव",
+  "context": "Krishna distinguishes Nature's causal role in effect and cause from Spirit's role in experiencing pleasure and pain.",
+  "contextHindi": "कृष्ण कार्य कारण की उत्पत्ति में प्रकृति और सुख दुख के अनुभव में पुरुष की भूमिका अलग रखते हैं।",
+  "sanskritDevanagari": "कार्यकारणकर्तृत्वे हेतुः प्रकृतिरुच्यते |\nपुरुषः सुखदुःखानां भोक्तृत्वे हेतुरुच्यते ||१३-२१||",
+  "transliteration": "kāryakāraṇakartṛtve hetuḥ prakṛtirucyate .\npuruṣaḥ sukhaduḥkhānāṃ bhoktṛtve heturucyate ||13-21||",
+  "wordByWord": [
+    {
+      "term": "kāryakāraṇakartṛtve",
+      "meaning": "in producing effect and cause, following the supplied reading"
+    },
+    {
+      "term": "hetuḥ",
+      "meaning": "cause or explanatory ground"
+    },
+    {
+      "term": "bhoktṛtve",
+      "meaning": "in experiencing"
+    },
+    {
+      "term": "sukhaduḥkhānām",
+      "meaning": "of pleasure and pain"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि कार्य और कारण के कर्तृत्व में प्रकृति हेतु कही जाती है, और सुख दुख के अनुभव में पुरुष हेतु कहा जाता है। दिए गए संस्करण में पहले पद को प्रभाव और कारण की उत्पत्ति की दिशा में अनूदित किया गया है। यह बदलाव की प्रक्रिया तथा उसके अनुभव के बीच भेद रखता है। कोई बात घटती है और उसके सुखद या दुखद अनुभव का प्रश्न सामने आता है; दोनों को बिना सोचे एक ही स्तर मानना यहाँ चुनौती पाता है। यह दार्शनिक विभाजन है, दर्द की चिकित्सा का पूरा सिद्धांत नहीं। अपने जीवन के छोटे अभ्यास में घटना और उस पर बनी व्याख्या अलग लिख सकते हैं। बैठक देर से शुरू हुई, यह घटना है; ‘मेरे समय की किसी को परवाह नहीं’ हमारा निष्कर्ष हो सकता है। यह आधुनिक उदाहरण है। निष्कर्ष सही भी हो सकता है, पर उसे जाँच की जरूरत है। संवेदना को नकारे बिना तथ्य स्पष्ट करें और उचित बात कहें। कारण की जाँच तथा अनुभव का सम्मान साथ चलें तो प्रतिक्रिया अधिक जिम्मेदार बन सकती है।",
+  "clearEnglish": "Nature is named as the cause in the production of effect and cause, while Spirit is named in the experience of pleasure and pain. This follows the supplied edition's rendering of the compound; the lesson should not silently replace it with a different technical formulation. Krishna distinguishes causal processes from the experiencing of their consequences. The distinction is philosophical, rather than a complete theory for treating physical or psychological pain. A contemporary exercise can separate an event from an interpretation accompanying it. A meeting beginning late is observable; the conclusion that nobody respects one's time may require further evidence. This illustration does not define Purusha, nor does it dismiss the feeling produced by the delay. Both factual clarification and acknowledgment of experience matter. One can then raise the concern proportionately or revise the conclusion when new information arrives. The verse helps make the question of experience more careful while leaving embodied needs and ethical responsibility fully relevant.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Nature is the cause in producing effect and cause; Spirit is the ground of experiencing pleasure and pain in the supplied reading."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Separating event and interpretation is a limited exercise, not a definition of Purusha or a clinical theory of pain."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Write one event and its accompanying interpretation separately, then check what evidence supports the interpretation."
+    }
+  ],
+  "reflectionQuestion": "Which part is the event, and which part is my conclusion about it?",
+  "reflectionQuestionHindi": "कौन सा हिस्सा घटना है और कौन सा उसके बारे में मेरा निष्कर्ष?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

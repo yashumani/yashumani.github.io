@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-036",
+  "sequenceNumber": 450,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 36,
+  "verseEnd": 36,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "प्रशंसा की अलग प्रतिक्रियाएँ / Different responses to divine praise",
+  "context": "Arjuna resumes speaking, describing delight in the world, fear among Rakshasas and the bowing of perfected beings.",
+  "contextHindi": "अर्जुन फिर बोलते हैं और कृष्ण के गुणगान पर जगत का आनंद, राक्षसों का भय और सिद्धों का प्रणाम कहते हैं।",
+  "sanskritDevanagari": "अर्जुन उवाच |\nस्थाने हृषीकेश तव प्रकीर्त्या\nजगत्प्रहृष्यत्यनुरज्यते च |\nरक्षांसि भीतानि दिशो द्रवन्ति\nसर्वे नमस्यन्ति च सिद्धसङ्घाः ||११-३६||",
+  "transliteration": "arjuna uvāca .\nsthāne hṛṣīkeśa tava prakīrtyā jagatprahṛṣyatyanurajyate ca .\nrakṣāṃsi bhītāni diśo dravanti sarve namasyanti ca siddhasaṅghāḥ ||11-36||",
+  "wordByWord": [
+    {
+      "term": "स्थाने",
+      "meaning": "fittingly or rightly"
+    },
+    {
+      "term": "प्रकीर्त्या",
+      "meaning": "through praise or proclamation"
+    },
+    {
+      "term": "अनुरज्यते",
+      "meaning": "becomes attached with delight or love"
+    },
+    {
+      "term": "रक्षांसि",
+      "meaning": "Rakshasas in the sacred scene"
+    }
+  ],
+  "spokenHindi": "अर्जुन कहते हैं कि आपके गुणगान से जगत आनंदित और अनुरक्त होता है, यह उचित है। राक्षस भय से दिशाओं में भागते हैं और सिद्धों के सभी समूह प्रणाम करते हैं। हृषीकेश कृष्ण का संबोधन है। स्थाने में अर्जुन इस प्रतिक्रिया को उचित मानते हैं; यह उनकी स्तुति का हिस्सा है। दृश्य में आनंद और भय फिर अलग समूहों में रखे गए हैं। रक्षांसि को किसी आधुनिक धर्म, जाति या राजनीतिक पक्ष का नाम बनाकर अपमान करना अनुचित होगा। वे इस धार्मिक कथा के प्राणी हैं। अर्जुन का स्वयं भयभीत होना और यहाँ आनंद की बात करना विरोधाभास मिटाने की मांग नहीं करता; वे एक बड़ी प्रतिक्रिया का वर्णन कर रहे हैं। हमारा उपयोग किसी साझा घटना पर सबको समान भाव रखने की अपेक्षा छोड़ना हो सकता है। प्रशंसा किसी के लिए खुशी, दूसरे के लिए असुविधा ला सकती है। उस अंतर को पहले समझें, फिर निर्णय करें। यह आधुनिक संवाद का संकेत है, पाठ में कही धार्मिक प्रतिक्रियाओं को मनुष्यों की स्थायी श्रेणी बनाने का आधार नहीं।",
+  "clearEnglish": "Arjuna returns to praise and calls the world's delight fitting. The world rejoices and is drawn toward Krishna through his proclamation; Rakshasas flee in fear, while the hosts of perfected beings bow. These are differentiated responses within a sacred scene, not labels to assign to modern religious, social or political opponents. Hrishikesha addresses Krishna. The word sthane marks Arjuna's judgment that the response is appropriate. His own fear in the preceding narration does not make this praise dishonest; he can speak about a larger scene while remaining personally shaken. A modern inference is to avoid insisting that everyone respond identically to a shared event. Appreciation may be welcome to one person and uncomfortable to another, depending on context. Ask before interpreting the difference as disloyalty or bad character. That practice belongs to ordinary relationships and should not claim to classify people as mythic beings. The verse itself is Arjuna's devotional account of joy, fear and reverence around Krishna's greatness.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna describes fitting delight in the world, flight among Rakshasas and reverence among perfected beings."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Different responses deserve attention; mythic labels should not be assigned to present opponents."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Ask about a different response",
+      "text": "When someone reacts differently to an event you welcomed, ask what it meant to them before judging their character."
+    }
+  ],
+  "reflectionQuestion": "Do I treat a different reaction as evidence that someone is against me?",
+  "reflectionQuestionHindi": "क्या अलग प्रतिक्रिया को मैं अपने खिलाफ होने का प्रमाण मान लेता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

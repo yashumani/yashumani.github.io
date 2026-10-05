@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-022",
+  "sequenceNumber": 645,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 22,
+  "verseEnd": 22,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "एक हिस्से को पूरा मानना / Mistaking a part for the whole",
+  "context": "Krishna describes tamasic knowledge as clinging to one effect as though it were the whole, without reason or grounding in truth.",
+  "contextHindi": "कृष्ण एक कार्य को ही सब कुछ मानकर, तर्क और सत्य के आधार बिना चिपकने वाले सीमित ज्ञान को तामसिक बताते हैं।",
+  "sanskritDevanagari": "यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम् |\nअतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम् ||१८-२२||",
+  "transliteration": "yattu kṛtsnavadekasminkārye saktamahaitukam .\natattvārthavadalpaṃ ca tattāmasamudāhṛtam ||18-22||",
+  "wordByWord": [
+    {
+      "term": "kṛtsnavat",
+      "meaning": "As though it were the whole"
+    },
+    {
+      "term": "ekasmin kārye",
+      "meaning": "In one effect or object"
+    },
+    {
+      "term": "ahaitukam",
+      "meaning": "Without reason"
+    },
+    {
+      "term": "atattvārthavat",
+      "meaning": "Without grounding in truth or reality"
+    }
+  ],
+  "spokenHindi": "कृष्ण तामसिक ज्ञान में किसी एक कार्य या प्रभाव को ही पूरा मानकर चिपकना बताते हैं। उसमें उचित कारण नहीं, सत्य का आधार नहीं और दृष्टि छोटी है। यह केवल कम जानकारी होना नहीं; एक छोटे हिस्से को पूरे सच का अधिकार देना है। आधुनिक जीवन में एक संदेश देखकर किसी संबंध का अंतिम फैसला कर देना ऐसी दिशा का सीमित उदाहरण हो सकता है। यह उदाहरण श्लोक का पूरा दार्शनिक अर्थ नहीं। फिर भी जांच का अच्छा अभ्यास देता है। क्या मेरे पास जो तथ्य है, वह पूरी स्थिति बताता है या केवल एक हिस्सा? क्या कोई दूसरा कारण भी सम्भव है? अपनी पसंद की कहानी को तथ्य से अधिक अधिकार न दें। आज कोई जल्दी बना निर्णय लें और उसमें छूटे प्रमाण की सूची बनाएं। जरूरी सुरक्षा का कदम हो तो उसे टालना जरूरी नहीं; पूरी जानकारी की कमी और तत्काल जोखिम अलग देखे जा सकते हैं। जहां सम्भव हो, एक स्पष्ट प्रश्न पूछें। छोटे हिस्से से पूरे व्यक्ति या घटना का फैसला रोकना विवेक के लिए जगह बनाता है।",
+  "clearEnglish": "Krishna calls knowledge tamasic when it clings to one effect as though it were the whole, without reason, without grounding in truth, and with a narrow scope. The criticism is more than simply having incomplete information. It concerns giving a fragment the authority of a complete account while resisting adequate reasons. A contemporary analogy is treating one message as decisive evidence about an entire relationship. That example does not exhaust the philosophical statement, but it can make the pattern recognizable. Ask what your evidence actually establishes and what remains unknown. An alternative explanation need not be accepted merely because it is possible; it should be investigated where relevant. Nor must an immediate protective step wait for perfect information when a real risk exists. For one premature judgement, name the missing evidence and ask a clear question if appropriate. The aim is to keep a limited observation from hardening into an unsupported whole. Reasoned caution can coexist with necessary action.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes narrow knowledge clinging to one effect as the whole, without reason or truth-grounding, as tamasic."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Checking missing evidence before a global judgement is a modern application that preserves necessary protection."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "What does the evidence establish?",
+      "text": "For one quick judgement, state what the evidence proves and what remains unknown."
+    }
+  ],
+  "reflectionQuestion": "Am I giving a fragment the authority of the whole?",
+  "reflectionQuestionHindi": "क्या मैं एक हिस्से को पूरे सच का अधिकार दे रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

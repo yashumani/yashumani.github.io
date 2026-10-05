@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-041",
+  "sequenceNumber": 413,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 41,
+  "verseEnd": 41,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "महिमा के पीछे दिव्य तेज / Splendour and its source",
+  "context": "Krishna gives a general principle for recognizing splendour, prosperity and power beyond the named list.",
+  "contextHindi": "कृष्ण नामों की सूची के बाद महिमा, समृद्धि और शक्ति को पहचानने का सामान्य संकेत देते हैं।",
+  "sanskritDevanagari": "यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा |\nतत्तदेवावगच्छ त्वं मम तेजोंऽशसम्भवम् ||१०-४१||",
+  "transliteration": "yadyadvibhūtimatsattvaṃ śrīmadūrjitameva vā .\ntattadevāvagaccha tvaṃ mama tejoṃśasambhavam ||10-41||",
+  "wordByWord": [
+    {
+      "term": "विभूतिमत्",
+      "meaning": "possessing glory or distinction"
+    },
+    {
+      "term": "श्रीमत्",
+      "meaning": "splendid or prosperous"
+    },
+    {
+      "term": "ऊर्जितम्",
+      "meaning": "powerful or vigorous"
+    },
+    {
+      "term": "तेजोंऽशसम्भवम्",
+      "meaning": "arising from a portion of splendour"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जो भी अस्तित्व महिमावान, समृद्ध या शक्तिशाली है, उसे उनके तेज के अंश से उत्पन्न समझो। सूची अब एक सामान्य पहचान का रास्ता देती है। केवल पहले बताए नामों पर निर्भर रहने की जगह अर्जुन जहाँ वास्तविक महिमा देखते हैं, वहाँ उसके दिव्य आधार को याद कर सकते हैं। अंश का शब्द भी ध्यान देने योग्य है: सामने की प्रभावशाली चीज पूरी दिव्य वास्तविकता को समेट नहीं लेती। किसी व्यक्ति का धन या शक्ति देखकर उसे हर मामले में सही मान लेना आवश्यक निष्कर्ष नहीं। चमक और नैतिक चरित्र की जांच अलग रहती है। हमारा उपयोग किसी अच्छी क्षमता की प्रशंसा करते समय स्वामित्व की कठोर भावना थोड़ा ढीला करना हो सकता है। किसी संगीतकार की दक्षता में अभ्यास, अवसर और सहयोग भी हैं; प्रशंसा उस व्यक्ति को सब कुछ का अकेला स्रोत बना देना नहीं है। अपनी क्षमता पर भी ऐसा विचार कर सकते हैं। आभार और जिम्मेदारी साथ रहें तो प्रतिभा प्रदर्शन से आगे सेवा में काम आती है। यह अंतिम विचार हमारा अनुप्रयोग है, श्लोक में दिया पूरा सामाजिक कार्यक्रम नहीं।",
+  "clearEnglish": "Krishna supplies a principle that can extend contemplation beyond the catalogue: whatever is glorious, prosperous or powerful should be understood as arising from a portion of his splendour. The phrase portion keeps the relation asymmetrical. An impressive manifestation does not exhaust the source. It also does not follow that the possessor of worldly power is morally correct in every action. Recognizing capacity and evaluating its use remain different judgments. That distinction helps a modern listener admire excellence without surrendering critical attention. A musician's skill, for example, can be appreciated while remembering practice, opportunity and support; the example is ours, not an additional name in the text. For one's own abilities, the same reflection can encourage gratitude without denying effort. Ask what a capacity makes possible for others rather than treating admiration as its only purpose. This is a practical inference from the movement from manifestation to source. The literal teaching is the relationship between splendour in beings and Krishna's radiance.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says glorious, prosperous or powerful being arises from a portion of his splendour."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Appreciating excellence need not imply unconditional trust in its possessor; gratitude can inform responsible use of skill."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Use a capacity well",
+      "text": "Name one skill you possess, one support that helped develop it, and one useful act it can serve today."
+    }
+  ],
+  "reflectionQuestion": "Does admiration for power make me overlook how it is being used?",
+  "reflectionQuestionHindi": "क्या शक्ति के प्रति प्रशंसा मुझे उसके उपयोग की जांच भूलने देती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

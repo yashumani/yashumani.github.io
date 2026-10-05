@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-025",
+  "sequenceNumber": 439,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 25,
+  "verseEnd": 25,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "दिशा खोकर कृपा माँगना / Asking for grace amid disorientation",
+  "context": "Arjuna compares the terrible mouths with the fire of cosmic dissolution and asks for mercy.",
+  "contextHindi": "अर्जुन कालाग्नि जैसे मुख देखकर दिशा और सुख न मिलने की बात कहते हैं, फिर कृपा माँगते हैं।",
+  "sanskritDevanagari": "दंष्ट्राकरालानि च ते मुखानि\nदृष्ट्वैव कालानलसन्निभानि |\nदिशो न जाने न लभे च शर्म\nप्रसीद देवेश जगन्निवास ||११-२५||",
+  "transliteration": "daṃṣṭrākarālāni ca te mukhāni dṛṣṭvaiva kālānalasannibhāni .\ndiśo na jāne na labhe ca śarma prasīda deveśa jagannivāsa ||11-25||",
+  "wordByWord": [
+    {
+      "term": "कालानलसन्निभानि",
+      "meaning": "like the fire of cosmic dissolution"
+    },
+    {
+      "term": "दिशः न जाने",
+      "meaning": "I do not know the directions"
+    },
+    {
+      "term": "शर्म",
+      "meaning": "peace or comfort"
+    },
+    {
+      "term": "प्रसीद",
+      "meaning": "be gracious; have mercy"
+    }
+  ],
+  "spokenHindi": "अर्जुन कहते हैं कि भयानक दंष्ट्राओं वाले मुख कालाग्नि जैसे हैं। उन्हें दिशाएँ समझ नहीं आतीं और शांति नहीं मिलती। फिर वे कृष्ण से कृपा माँगते हैं, देवेश और जगन्निवास कहकर संबोधित करते हैं। दिशो न जाने का वर्णन साधारण रास्ता भूलने से अधिक, दर्शन की तीव्रता में दिशा खोने का है। कालानल धार्मिक प्रलय की अग्नि का चित्र है। इस उपमा को अपनी जिंदगी में हर मुश्किल घटना की भविष्यवाणी बनाना उचित नहीं। अर्जुन की प्रार्थना में सम्मान और मदद की जरूरत साथ हैं। वे डर छिपाकर बड़ी बात कहने की कोशिश नहीं करते। हमारा उपयोग किसी कठिन परिस्थिति में जरूरत स्पष्ट रखना हो सकता है। यदि सब उलझा लग रहा हो, तो अभी एक सुरक्षित कदम क्या है, यही पूछें। भरोसेमंद व्यक्ति से कह सकते हैं कि पहले मुझे स्थिति समझने में सहायता चाहिए। यह सामान्य सहारा लेने का विचार है, दिव्य दर्शन को मानसिक बीमारी की श्रेणी में रखने का दावा नहीं। पाठ का भारी चित्र असुविधा दे तो उसे विस्तार से कल्पना करने के बजाय थोड़ा विराम लेना भी संभव है।",
+  "clearEnglish": "Arjuna's report moves from fear to disorientation and a direct appeal for grace. The mouths with terrible teeth resemble the fire of cosmic dissolution; he cannot identify the directions or find comfort. The comparison belongs to a sacred vision, and it should not be turned into a prediction that an ordinary difficulty is cosmic punishment. The addresses Lord of gods and abode of the universe keep the appeal directed to Krishna. Respect does not prevent Arjuna from acknowledging that he needs help. A modern application is to make a request small and concrete when a situation feels overwhelming. Ask for assistance in understanding the next safe step rather than requiring an immediate explanation of everything. This is ordinary support guidance, not a diagnosis of the vision or a claim that a spiritual phrase resolves distress. The verse's force lies in its honesty: a person receiving an extraordinary disclosure can still speak from confusion and ask that the relation become gracious.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna describes fiery terrible mouths, disorientation and lack of peace, then asks Krishna for grace."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A concrete request for support can respect an ordinary limit; the image does not predict punishment for current difficulties."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Ask for one next step",
+      "text": "In a manageable difficulty, ask a trusted person to help identify one safe next step. Keep the request concrete rather than trying to settle everything at once."
+    }
+  ],
+  "reflectionQuestion": "What help can I ask for before I understand the whole situation?",
+  "reflectionQuestionHindi": "पूरी स्थिति समझने से पहले मैं कौन सी सहायता माँग सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

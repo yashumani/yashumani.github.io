@@ -1,0 +1,67 @@
+{
+  "id": "bg-12-019",
+  "sequenceNumber": 488,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 19,
+  "verseEnd": 19,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "निंदा स्तुति और अनिकेतता / Praise, blame and no fixed dwelling",
+  "context": "Krishna completes the description with equal regard for praise and blame, silence, contentment, no fixed dwelling, steady mind and devotion.",
+  "contextHindi": "कृष्ण निंदा स्तुति में समानता, मौन, संतोष, अनिकेतता, स्थिर बुद्धि और भक्ति से वर्णन पूरा करते हैं।",
+  "sanskritDevanagari": "तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् |\nअनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः ||१२-१९||",
+  "transliteration": "tulyanindāstutirmaunī santuṣṭo yena kenacit .\naniketaḥ sthiramatirbhaktimānme priyo naraḥ ||12-19||",
+  "wordByWord": [
+    {
+      "term": "तुल्यनिन्दास्तुतिः",
+      "meaning": "equal toward censure and praise"
+    },
+    {
+      "term": "मौनी",
+      "meaning": "silent"
+    },
+    {
+      "term": "अनिकेतः",
+      "meaning": "without fixed abode; homeless in this edition"
+    },
+    {
+      "term": "स्थिरमतिः",
+      "meaning": "steady-minded"
+    }
+  ],
+  "spokenHindi": "कृष्ण पिछले वर्णन को पूरा करते हैं: निंदा और स्तुति समान, मौन, जो मिले उसमें संतुष्ट, अनिकेत, स्थिर बुद्धि और भक्तिमान व्यक्ति उन्हें प्रिय है। अनिकेतः को दिए गए संस्करण में बेघर कहा गया है। इस स्पष्ट शब्द को केवल घर में सजावट कम करने का अर्थ बताना पाठ बदल देगा। साथ ही आधुनिक पाठक को आवास छोड़ने, आर्थिक असुरक्षा अपनाने या आश्रितों का सहारा हटाने की सलाह देना जिम्मेदार उपयोग नहीं होगा। आध्यात्मिक चित्र और हमारे सीमित दैनिक अभ्यास का अंतर साफ रखें। मौन भी हर जरूरी बात दबाने का आदेश नहीं; सहायता या सुरक्षा की बात कहना उचित रहता है। हमारा प्रयोग प्रशंसा और निंदा के बीच थोड़ी दूरी पर हो सकता है। कोई प्रतिक्रिया मिले तो तुरंत अपना पूरा परिचय उसी से न बनाएं। अपना वर्तमान काम और उसके वास्तविक मानक याद करें। संतोष का छोटा रूप उपलब्ध साधनों का उचित उपयोग हो सकता है, जरूरी सुधार बंद करना नहीं। यह सब अनुप्रयोग हैं; कृष्ण का पूरा चित्र उनसे अधिक व्यापक और कठोर है।",
+  "clearEnglish": "The portrait concludes with equal regard for censure and praise, silence, contentment with what comes, no fixed dwelling, a steady mind and devotion. The supplied edition renders aniketa as homeless, and that strong word should not be quietly replaced with a mild preference for simple decoration. At the same time, responsible modern guidance should not tell listeners to relinquish housing, create financial insecurity or withdraw shelter from dependents. The full spiritual description and a bounded practical exercise are different things. Silence likewise does not require suppressing necessary information about harm or assistance. An accessible application can concern praise and blame. Receive feedback without immediately making it the whole account of one's identity; return to the actual standards of the work and the needs it serves. Contentment may support using available resources well while appropriate improvements remain possible. These are practical inferences, not claims to have explained away the renunciatory wording. Krishna calls the devotee with this entire constellation dear.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names equal regard for praise and blame, silence, contentment, no fixed dwelling, steadiness and devotion."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A feedback exercise is only partial application; housing, essential care and necessary disclosure should not be abandoned."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Keep feedback in proportion",
+      "text": "After praise or criticism, state the actual standard of the task and one next step. Keep the reaction from becoming a complete judgment of your identity."
+    }
+  ],
+  "reflectionQuestion": "What standard can guide me when praise and blame pull in opposite directions?",
+  "reflectionQuestionHindi": "प्रशंसा और निंदा अलग दिशाओं में खींचें तो कौन सा वास्तविक मानक मेरा मार्गदर्शन करेगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

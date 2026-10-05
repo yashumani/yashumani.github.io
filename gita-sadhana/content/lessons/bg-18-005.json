@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-005",
+  "sequenceNumber": 628,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 5,
+  "verseEnd": 5,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "शुद्ध करने वाले कर्म / Practices to retain",
+  "context": "Krishna states that sacrifice, giving, and austerity should be performed because they purify the wise.",
+  "contextHindi": "कृष्ण कहते हैं कि यज्ञ, दान और तप छोड़ने के बजाय करने चाहिए, क्योंकि वे ज्ञानी लोगों को शुद्ध करते हैं।",
+  "sanskritDevanagari": "यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् |\nयज्ञो दानं तपश्चैव पावनानि मनीषिणाम् ||१८-५||",
+  "transliteration": "yajñadānatapaḥkarma na tyājyaṃ kāryameva tat .\nyajño dānaṃ tapaścaiva pāvanāni manīṣiṇām ||18-5||",
+  "wordByWord": [
+    {
+      "term": "na tyājyam",
+      "meaning": "Not to be abandoned"
+    },
+    {
+      "term": "kāryam eva",
+      "meaning": "Indeed to be performed"
+    },
+    {
+      "term": "pāvanāni",
+      "meaning": "Purifying"
+    },
+    {
+      "term": "manīṣiṇām",
+      "meaning": "Of the wise or thoughtful"
+    }
+  ],
+  "spokenHindi": "कृष्ण स्पष्ट कहते हैं कि यज्ञ, दान और तप नहीं छोड़ने चाहिए; उन्हें करना चाहिए। वे ज्ञानी लोगों के लिए पवित्र करने वाले बताए गए हैं। यह पहले आए मतभेद के बाद उनके निष्कर्ष का महत्वपूर्ण भाग है। त्याग को सारी उपयोगी गतिविधि से दूर होना नहीं माना जा रहा। धार्मिक कर्म, उदारता और अनुशासन में जीवन को संभालने की भूमिका है। फिर भी नाम भर से किसी हानिकारक अभ्यास को जरूरी कहना उचित नहीं। पिछले अध्याय में कठोर, दिखावटी और नुकसान वाले तप की अलग आलोचना हुई थी। आधुनिक प्रयोग में किसी जिम्मेदार योगदान को छोड़ने से पहले देखें कि उसका वास्तविक हित क्या है। यदि हम अपनी छवि या लाभ की पकड़ छोड़ना चाहते हैं, तो लाभकारी काम स्वयं क्यों छूटे? यह प्रश्न अनुप्रयोग है, श्लोक की नई सूची नहीं। आज एक छोटा अच्छा अभ्यास बनाए रखें जिसे आप समझते हैं और सुरक्षित ढंग से कर सकते हैं। केवल प्रेरणा कमजोर होने से उसे छोड़ने के बजाय तरीका सुधारें। निरंतर योगदान अक्सर बड़े त्याग के दावे से अधिक ठोस सीख देता है।",
+  "clearEnglish": "Krishna states that sacrifice, giving, and austerity should not be abandoned but should be performed, because they purify the wise. This gives a definite answer to the reported disagreement: useful spiritual practices are not simply discarded under the name of renunciation. The religious claim of purification belongs to the text. A modern application can ask whether leaving a beneficial contribution is actually necessary to loosen self-interest. It may be the demand for recognition that needs examination rather than the contribution itself. The passage should also be read with the preceding chapter's criticism of harmful and ostentatious austerity. Calling something discipline does not settle its quality. That contextual consideration prevents a general endorsement from being used to defend every severe practice. Choose one modest, understood commitment that you can carry out responsibly. If the motive has become confused, clarify it and improve the method. Continuing a worthwhile act can provide a more concrete exercise in relinquishment than announcing a dramatic withdrawal.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says sacrifice, giving, and austerity should be performed and are purifying for the wise."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Retaining a beneficial contribution while examining self-interest is a modern application; harmful austerity is not endorsed by its name."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Retain a useful practice",
+      "text": "Continue one modest beneficial commitment and clarify why it is worth doing."
+    }
+  ],
+  "reflectionQuestion": "Is the useful act the problem, or is my demand for recognition the problem?",
+  "reflectionQuestionHindi": "समस्या उपयोगी काम में है या उससे जुड़ी मेरी प्रशंसा की मांग में?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

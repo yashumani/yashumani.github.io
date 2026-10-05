@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-021",
+  "sequenceNumber": 644,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 21,
+  "verseEnd": 21,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "अलग अलग सत्ताओं का ज्ञान / Knowledge through separateness",
+  "context": "Krishna contrasts rajasic knowledge, which sees distinct entities of different kinds in all beings, with the preceding vision of unity.",
+  "contextHindi": "कृष्ण सभी जीवों में अलग प्रकार की अलग सत्ताएँ देखने वाले राजसिक ज्ञान को पिछले एकत्व से तुलना में बताते हैं।",
+  "sanskritDevanagari": "पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान् |\nवेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम् ||१८-२१||",
+  "transliteration": "pṛthaktvena tu yajjñānaṃ nānābhāvānpṛthagvidhān .\nvetti sarveṣu bhūteṣu tajjñānaṃ viddhi rājasam ||18-21||",
+  "wordByWord": [
+    {
+      "term": "pṛthaktvena",
+      "meaning": "As separate"
+    },
+    {
+      "term": "nānābhāvān",
+      "meaning": "Various entities or modes of being"
+    },
+    {
+      "term": "pṛthagvidhān",
+      "meaning": "Of distinct kinds"
+    },
+    {
+      "term": "rājasam",
+      "meaning": "Rajasic"
+    }
+  ],
+  "spokenHindi": "कृष्ण राजसिक ज्ञान को ऐसा बताते हैं जो सभी जीवों में अलग अलग प्रकार की सत्ताओं को पृथक देखता है। यह पिछले श्लोक के एक अविभक्त वास्तविकता के दर्शन से तुलना है। पाठ की दार्शनिक बात को केवल किसी व्यक्ति की बुरी आदत तक छोटा न करें। अलगाव का नजरिया यहां मुख्य है। साथ ही आधुनिक काम में वास्तविक फर्क पहचानना जरूरी हो सकता है। किसी की जरूरत, जिम्मेदारी या क्षमता अलग है, इसे देखना अपने आप इस श्लोक का पूरा दोष नहीं बन जाता। यह सावधानी अनुप्रयोग की सीमा स्पष्ट करती है। हमारे लिए एक प्रश्न यह हो सकता है कि भिन्नता देखते देखते क्या हम साझा गरिमा भूल जाते हैं। किसी दूसरे को केवल उसकी भूमिका, समूह या लेबल से समझना संबंध को संकुचित कर सकता है। आज किसी असहमति में देखें कि सामने वाले की बात सुनी गई है या बस श्रेणी तय कर दी गई है। अंतर स्पष्ट रखें, लेकिन पूरी कहानी जानने की जगह भी दें। दार्शनिक भेद का उपयोग सावधान देखने में करें, अपमान में नहीं।",
+  "clearEnglish": "Krishna describes rajasic knowledge as seeing various entities of distinct kinds as separate in all beings. Its contrast is the preceding account of one undivided reality. The issue is therefore a metaphysical orientation toward multiplicity and separateness, not simply a rule against noticing any difference. In ordinary life, distinctions of need, expertise, responsibility, and risk can be necessary for fair decisions. Recognizing those differences does not by itself exhaust the verse's classification. A modern ethical application asks whether differentiation has become the whole account of a person. A role or group label can obscure a shared claim to dignity and the details of an individual situation. That application is an inference rather than the full philosophical meaning. In one disagreement, identify the actual difference and then ask what information the label has hidden. Listen to the person's stated concern. Respectful attention can preserve useful distinctions while resisting the habit of treating separation as the only reality that matters.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna calls knowledge that sees various distinct entities as separate in all beings rajasic, in contrast with the preceding unity."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Looking beyond a group label is a modern application; practical differences still require attention."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Beyond the label",
+      "text": "In one disagreement, name the real difference and one relevant fact hidden by your label for the person."
+    }
+  ],
+  "reflectionQuestion": "What part of this person's situation does my label conceal?",
+  "reflectionQuestionHindi": "मेरा लेबल इस व्यक्ति की परिस्थिति का कौन सा हिस्सा छिपाता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

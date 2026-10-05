@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-061",
+  "sequenceNumber": 684,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 61,
+  "verseEnd": 61,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "The indwelling Lord and the turning world / हृदयस्थ ईश्वर और गति",
+  "context": "After describing Arjuna's nature, Krishna locates the Lord in every being's heart and uses an image of beings mounted on a machine.",
+  "contextHindi": "स्वभाव और कर्म की चर्चा के बाद कृष्ण सभी प्राणियों के हृदय में स्थित ईश्वर और माया की उपमा देते हैं।",
+  "sanskritDevanagari": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति |\nभ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया ||१८-६१||",
+  "transliteration": "īśvaraḥ sarvabhūtānāṃ hṛddeśe.arjuna tiṣṭhati .\nbhrāmayansarvabhūtāni yantrārūḍhāni māyayā ||18-61||",
+  "wordByWord": [
+    {
+      "term": "īśvaraḥ",
+      "meaning": "the Lord"
+    },
+    {
+      "term": "hṛddeśe",
+      "meaning": "in the region of the heart"
+    },
+    {
+      "term": "sarvabhūtāni",
+      "meaning": "all beings"
+    },
+    {
+      "term": "yantrārūḍhāni",
+      "meaning": "mounted on a machine"
+    },
+    {
+      "term": "māyayā",
+      "meaning": "through divine illusive power"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि ईश्वर सभी प्राणियों के हृदय में स्थित हैं और माया से उन्हें मानो किसी यंत्र पर बैठे हुए घुमा रहे हैं। हृदय का शब्द यहाँ भीतर की उपस्थिति को दिखाता है, और यंत्र वाली छवि हमारी सीमित स्वतंत्रता तथा बड़ी व्यवस्था का एहसास कराती है। उपमा को इतना खींच देना ठीक नहीं कि मनुष्य केवल निर्जीव पुर्जा बन जाए। अगली ही बात में कृष्ण अर्जुन को आश्रय लेने को कहेंगे, और आगे विचार करके इच्छा अनुसार करने को भी कहेंगे। इसलिए इस पंक्ति से जवाबदेही खत्म होने का सरल निष्कर्ष नहीं निकलता। यह भी नहीं कि किसी दूसरे की पीड़ा को ईश्वर की मशीन कहकर अनदेखा कर दें। आज जब किसी की प्रतिक्रिया आपको कठिन लगे, तो याद करें कि उसके अनुभव और परिस्थिति के कुछ कारण आपकी नजर से छूट सकते हैं। फिर भी वास्तविक नुकसान का समाधान खोजें। सबके भीतर ईश्वर की बात सम्मान बढ़ाए, निष्क्रियता नहीं।",
+  "clearEnglish": "Krishna says the Lord dwells in the heart of all beings and, through maya, causes them to revolve as though they were mounted on a machine. The as though signals an image, not a mechanical account that lets us calculate every choice. Coming after the remarks about Arjuna's nature, it widens the frame from an individual tendency to a divine presence within all beings. Philosophical schools may explain the relation of God's agency and human freedom differently. The verse alone should not be made to erase responsibility, especially because Krishna will soon invite Arjuna to reflect and act as he wishes. In practical terms, the claim that the Lord is in every heart can prompt humility toward people whose inner life we cannot fully see. That is an inference. It does not ask us to overlook abuse, excuse violence as machinery, or abandon help for someone in trouble. The machine metaphor describes a profound dependence in Krishna's teaching; ethical attention remains necessary in how listeners use it.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna locates the Lord in the hearts of all beings and compares their movement through maya to beings mounted on a machine."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The image can prompt humility about unseen causes, but it does not remove responsibility or justify indifference to suffering."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "In one difficult encounter, acknowledge what you cannot see of the other person's situation while addressing any concrete harm."
+    }
+  ],
+  "reflectionQuestion": "Does this image make me more respectful of another person's inner life?",
+  "reflectionQuestionHindi": "क्या यह उपमा मुझे दूसरे के भीतर के जीवन के प्रति अधिक सम्मान देती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

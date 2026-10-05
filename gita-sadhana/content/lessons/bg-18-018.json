@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-018",
+  "sequenceNumber": 641,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 18,
+  "verseEnd": 18,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "प्रेरणा और कर्म का आधार / Impulse and structure of action",
+  "context": "Krishna distinguishes knowledge, object, and knower from instrument, action, and agent.",
+  "contextHindi": "कृष्ण ज्ञान, ज्ञेय और जानने वाले की प्रेरणा को करण, कर्म और कर्ता के आधार से अलग बताते हैं।",
+  "sanskritDevanagari": "ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना |\nकरणं कर्म कर्तेति त्रिविधः कर्मसंग्रहः ||१८-१८||",
+  "transliteration": "jñānaṃ jñeyaṃ parijñātā trividhā karmacodanā .\nkaraṇaṃ karma karteti trividhaḥ karmasaṃgrahaḥ ||18-18||",
+  "wordByWord": [
+    {
+      "term": "jñānam",
+      "meaning": "Knowledge"
+    },
+    {
+      "term": "jñeyam",
+      "meaning": "The knowable or object known"
+    },
+    {
+      "term": "parijñātā",
+      "meaning": "The knower"
+    },
+    {
+      "term": "karmacodanā",
+      "meaning": "Impulse or prompting to action"
+    }
+  ],
+  "spokenHindi": "कृष्ण दो तीन भाग वाले समूह बताते हैं। ज्ञान, ज्ञेय और जानने वाला कर्म की प्रेरणा हैं। करण, कर्म और कर्ता कर्म का आधार हैं। दोनों समूहों में समान लगने वाले शब्द हैं, लेकिन उनका काम अलग है। पहले में किसी चीज को जानने और उसकी ओर बढ़ने की स्थिति है। दूसरे में साधन, किया जा रहा काम और करने वाला है। इससे हम कर्म को एक धुँधले शब्द में समेटने के बजाय उसकी परतें देख सकते हैं। आधुनिक उदाहरण में कोई समस्या पढ़ना, उसे अपना विषय समझना और फिर सही उपकरण से काम करना अलग चरण हो सकते हैं। यह उदाहरण दार्शनिक सूची का पूरा अर्थ नहीं। आज कोई काम शुरू करें तो पूछें कि आप क्या जानते हैं, किस विषय पर काम है और वास्तव में कौन सा साधन चाहिए। केवल जोर लगाने से अधूरी जानकारी पूरी नहीं होती। केवल जान लेने से काम भी अपने आप नहीं हो जाता। समझ और क्रिया के अलग पक्ष पहचानना तैयारी को अधिक स्पष्ट और जिम्मेदार बना सकता है।",
+  "clearEnglish": "Krishna presents two threefold groupings. Knowledge, the knowable, and the knower constitute the prompting to action; instrument, action, and agent constitute the basis or structure of action. The groups should not be collapsed because some terms sound similar. One concerns the knowing situation that impels action, while the other concerns its operative arrangement. The verse offers a philosophical analysis, not a modern project-management checklist. A limited contemporary application can nevertheless distinguish understanding a problem from having the means to address it. Strong intention cannot supply missing information, and accurate information does not automatically perform the work. Before one task, identify the relevant knowledge, the actual object of attention, and the means available for action. Notice where you have treated one as a substitute for another. This exercise can clarify whether further learning, a different tool, or a concrete step is needed. It preserves the distinction between understanding and execution without pretending that the Sanskrit categories are exhausted by a workplace analogy.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna distinguishes the threefold impulse of knowledge/object/knower from the threefold structure of instrument/action/agent."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Separating knowledge from available means in a task is a modern analogy, not the full philosophical definition."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Knowledge and means",
+      "text": "Before one task, identify what you know, what the task concerns, and the means needed to act."
+    }
+  ],
+  "reflectionQuestion": "Am I missing understanding, a means, or an actual next step?",
+  "reflectionQuestionHindi": "मेरे पास समझ की कमी है, साधन की, या वास्तविक अगले कदम की?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-04-035",
+  "sequenceNumber": 197,
+  "date": "2026-10-05",
+  "chapter": 4,
+  "verseStart": 35,
+  "verseEnd": 35,
+  "chapterNameSanskrit": "ज्ञानकर्मसंन्यासयोग",
+  "chapterNameEnglish": "Jñāna Karma Sannyāsa Yoga",
+  "theme": "ज्ञान से व्यापक दृष्टि — Knowledge and a wider vision",
+  "context": "After describing how a realized teacher can impart knowledge, Krishna tells Arjuna what that understanding can change: it can end his confusion and reshape how he sees all beings in relation to the Self and to Krishna.",
+  "contextHindi": "सच्चे ज्ञान को समझाने वाले गुरु की चर्चा के बाद कृष्ण अर्जुन को बताते हैं कि इस ज्ञान से उनकी दृष्टि कैसे बदलेगी: मोह घटेगा और वे सभी प्राणियों को आत्मा तथा कृष्ण के संबंध में देखेंगे।",
+  "sanskritDevanagari": "यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव |\nयेन भूतान्यशेषेण द्रक्ष्यस्यात्मन्यथो मयि (var अशेषाणि) ||४-३५||",
+  "transliteration": "yajjñātvā na punarmohamevaṃ yāsyasi pāṇḍava .\nyena bhūtānyaśeṣāṇi drakṣyasyātmanyatho mayi ||4-35||",
+  "wordByWord": [
+    {
+      "term": "मोह (moha)",
+      "meaning": "Confusion or delusion; here, a mistaken or constricted way of seeing."
+    },
+    {
+      "term": "भूतानि (bhūtāni)",
+      "meaning": "Beings or living creatures; the verse speaks of beings as a whole."
+    },
+    {
+      "term": "आत्मनि (ātmani)",
+      "meaning": "In the Self; the phrase invites a spiritual understanding of beings in relation to the Self."
+    },
+    {
+      "term": "मयि (mayi)",
+      "meaning": "In Me; Krishna presents himself as the divine reference point in this vision."
+    }
+  ],
+  "spokenHindi": "यहाँ कृष्ण अर्जुन से कहते हैं कि गुरु से मिला ज्ञान केवल नई जानकारी नहीं होगा; उससे उनका मोह और उलझन फिर पहले जैसे नहीं लौटेंगे। श्लोक की खास बात उसकी दृष्टि है: सभी प्राणियों को आत्मा में और फिर कृष्ण में देखना। पाठ में यही कहा गया है; यह नहीं कहा गया कि हर प्राणी का व्यवहार एक जैसा है, या किसी के कर्मों का व्यावहारिक महत्व मिट जाता है। इसे एक आध्यात्मिक एकता की शिक्षा के रूप में समझा जा सकता है, जिसमें दूसरों को केवल अपने लाभ या भय के चश्मे से नहीं देखा जाता। इससे अर्जुन की तत्काल युद्ध-स्थिति अपने आप हल नहीं होती; बल्कि उन्हें निर्णय करते समय व्यापक चेतना की ओर बुलाया जाता है। ज्ञान का दावा करने के बजाय हम यह जाँच सकते हैं कि हमारी समझ हमें अधिक न्यायपूर्ण और कम प्रतिक्रियाशील बना रही है या नहीं। इस श्लोक को सुनते समय पूछें: क्या मेरी दृष्टि किसी व्यक्ति को एक ही पहचान या गलती तक सीमित कर रही है? यह मनन का निमंत्रण है, किसी पर आध्यात्मिक श्रेष्ठता जताने का आधार नहीं।",
+  "clearEnglish": "Krishna describes knowledge here by its effect on perception, not as a collection of facts to memorize. Arjuna is told that he will no longer fall into the same confusion and that he will see all beings in the Self and in Krishna. The verse states this as a spiritual vision; it does not claim that every person behaves alike, that differences in conduct disappear, or that practical decisions no longer matter. One reasonable inference is that such a vision loosens the habit of treating others as mere obstacles, allies, or instruments of our own concerns. That inference should not be mistaken for a separate quotation from Krishna. Nor does the verse simply resolve Arjuna’s immediate crisis for him. It points toward a less fragmented way of seeing while the difficult question of action remains. In ordinary life, this can mean pausing before reducing someone to a label, while still holding clear boundaries and judging actions responsibly. The promise is profound, but it should not be used to claim spiritual attainment for ourselves or to silence another person’s concerns. The useful question is whether our understanding makes us less confused and more attentive to the reality of other beings.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says that knowledge will keep Arjuna from returning to this confusion and enable him to see all beings in the Self and in Krishna."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A less divided vision may support greater regard for others. That ethical application is an inference, not an additional literal statement in the verse."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Widen the view",
+      "text": "When a disagreement makes someone seem like only an opponent, pause and consider what you do not yet understand about their situation. Keep appropriate boundaries while resisting a one-dimensional judgment."
+    }
+  ],
+  "reflectionQuestion": "When have I reduced someone to a single label, and what might help me see them more fully?",
+  "reflectionQuestionHindi": "कब मैंने किसी व्यक्ति को एक ही पहचान या गलती तक सीमित कर दिया है, और उसे अधिक पूरी तरह देखने में क्या मदद कर सकता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

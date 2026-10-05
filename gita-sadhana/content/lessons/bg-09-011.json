@@ -1,0 +1,75 @@
+{
+  "id": "bg-09-011",
+  "sequenceNumber": 349,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 11,
+  "verseEnd": 11,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "मानव रूप और उच्च स्वरूप | Human form and higher being",
+  "context": "Krishna describes those who disregard him in human form without knowing his higher being.",
+  "contextHindi": "कृष्ण बताते हैं कि मानव रूप में उन्हें देखकर कुछ लोग उनका उच्च स्वरूप जाने बिना उनका तिरस्कार करते हैं।",
+  "sanskritDevanagari": "अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम् |\nपरं भावमजानन्तो मम भूतमहेश्वरम् ||९-११||",
+  "transliteration": "avajānanti māṃ mūḍhā mānuṣīṃ tanumāśritam .\nparaṃ bhāvamajānanto mama bhūtamaheśvaram ||9-11||",
+  "wordByWord": [
+    {
+      "term": "अवजानन्ति",
+      "meaning": "Disregard or despise."
+    },
+    {
+      "term": "मूढाः",
+      "meaning": "The deluded or foolish."
+    },
+    {
+      "term": "मानुषीं तनुम्",
+      "meaning": "A human body or form."
+    },
+    {
+      "term": "परं भावम्",
+      "meaning": "Higher being or nature."
+    },
+    {
+      "term": "भूतमहेश्वरम्",
+      "meaning": "The great Lord of beings."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि मूढ़ लोग मानव देह धारण किए हुए उनका तिरस्कार करते हैं, क्योंकि वे उनके उच्च भाव को नहीं जानते, जो प्राणियों के महान ईश्वर हैं। यहाँ मानव रूप और कृष्ण का उच्च स्वरूप साथ रखे गए हैं। श्लोक का विषय कृष्ण हैं। इसे यह कहने की छूट नहीं बनाना चाहिए कि कोई भी व्यक्ति स्वयं को ईश्वर कहे तो उसकी हर बात मान ली जाए। दिए गए भाष्य में स्वामी शिवानंद कहते हैं कि कृष्ण भक्तों को आशीर्वाद देने के लिए शरीर धारण करते हैं। यह भाष्य का विस्तार है। आधुनिक चिंतन में एक छोटी सीख हो सकती है कि केवल परिचित रूप देखकर मूल्य घटा देना जल्दबाज़ी है। फिर भी किसी शिक्षक के व्यवहार, दावे और ज़िम्मेदारी को परखना आवश्यक रह सकता है। प्रश्न पूछना अपने आप तिरस्कार नहीं। हम श्रद्धा और विवेक को साथ रख सकते हैं। आज देखें कि आपने किसी उपयोगी विचार को सिर्फ उसके साधारण प्रस्तुतीकरण के कारण अनसुना तो नहीं किया। यह निरीक्षण हमारी उपमा है; कृष्ण के दिव्य स्वरूप का दावा उससे कहीं विशिष्ट है।",
+  "clearEnglish": "The criticism concerns disregard for Krishna because he appears in a human form, coupled with failure to know his higher being as the great Lord of beings. The subject should remain specific. The verse is not an instruction to accept any human claimant's declaration of divinity. Sivananda's commentary adds that Krishna has taken the body to bless devotees, an explanation that belongs to the named interpreter. A contemporary analogy can address dismissal based on familiar appearance: something valuable may be overlooked because its presentation seems ordinary. That analogy should coexist with careful evaluation of a teacher's conduct and claims. Respect does not require surrendering judgment, and honest inquiry need not be contempt. The verse presents a theological identity for Krishna rather than a general exemption from accountability for religious leaders. A useful reflection is to notice whether familiarity or superficial impressions prevent us from hearing an idea fairly, then assess the idea on its substance. This keeps humility and discernment together without confusing them with the literal statement about Krishna's higher being.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The foolish disregard Krishna in human form, not knowing his higher being as the great Lord of beings."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A reader may examine superficial dismissal while retaining discernment and accountability toward human teachers."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sivananda explains that Krishna has taken this body to bless his devotees and that those without discrimination do not know his higher being."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Hear before dismissing",
+      "text": "Consider one idea you dismissed because it sounded ordinary. Assess its substance and evidence carefully."
+    }
+  ],
+  "reflectionQuestion": "Does familiarity make me dismiss something before understanding it?",
+  "reflectionQuestionHindi": "क्या किसी बात का परिचित होना मुझे समझने से पहले ही उसे अनसुना करा देता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -7,7 +7,13 @@ const ignoredDirectories = new Set([
   '.git',
   'node_modules',
   'playwright-report',
-  'test-results'
+  'test-results',
+  // Dedicated Gita local-only recovery/review assets are not public-site input.
+  // The prepared archive has separate content/hash and rendered-browser checks.
+  '.recovery',
+  '.automation-cache',
+  '.local-work',
+  '.local-release'
 ]);
 const errors = [];
 const warnings = [];
@@ -109,10 +115,17 @@ function resolveTarget(sourceFile, rawPath) {
 }
 
 async function idsFor(relativePath) {
-  const html = await text(relativePath);
+  const html = staticMarkup(await text(relativePath));
   return new Set(
     [...html.matchAll(/\bid\s*=\s*(["'])(.*?)\1/gi)].map((match) => match[2])
   );
+}
+
+function staticMarkup(html) {
+  // Keep opening tags (including script src) but ignore markup-like JS/CSS text.
+  return html
+    .replace(/(<script\b[^>]*>)[\s\S]*?(<\/script\s*>)/gi, '$1$2')
+    .replace(/(<style\b[^>]*>)[\s\S]*?(<\/style\s*>)/gi, '$1$2');
 }
 
 const legacyHomepageAnchors = new Set(['evidence', 'impact', 'roadmap']);
@@ -120,6 +133,7 @@ const htmlFiles = allFiles.filter((file) => file.endsWith('.html'));
 
 for (const htmlFile of htmlFiles) {
   const html = await text(htmlFile);
+  const markup = staticMarkup(html);
 
   if (!/^\s*<!doctype html>/i.test(html)) {
     errors.push(`${htmlFile}: missing HTML5 doctype`);
@@ -146,7 +160,7 @@ for (const htmlFile of htmlFiles) {
     errors.push(`${htmlFile}: missing main landmark`);
   }
 
-  const ids = [...html.matchAll(/\bid\s*=\s*(["'])(.*?)\1/gi)].map(
+  const ids = [...markup.matchAll(/\bid\s*=\s*(["'])(.*?)\1/gi)].map(
     (match) => match[2]
   );
   const duplicateIds = unique(ids.filter((id, index) => ids.indexOf(id) !== index));
@@ -154,13 +168,13 @@ for (const htmlFile of htmlFiles) {
     errors.push(`${htmlFile}: duplicate id "${id}"`);
   }
 
-  for (const imageTag of html.match(/<img\b[^>]*>/gi) ?? []) {
+  for (const imageTag of markup.match(/<img\b[^>]*>/gi) ?? []) {
     if (attribute(imageTag, 'alt') === null) {
       errors.push(`${htmlFile}: img element is missing alt text`);
     }
   }
 
-  for (const anchorTag of html.match(/<a\b[^>]*>/gi) ?? []) {
+  for (const anchorTag of markup.match(/<a\b[^>]*>/gi) ?? []) {
     if ((attribute(anchorTag, 'target') ?? '').toLowerCase() === '_blank') {
       const rel = (attribute(anchorTag, 'rel') ?? '').toLowerCase().split(/\s+/);
       if (!rel.includes('noopener')) {
@@ -169,7 +183,7 @@ for (const htmlFile of htmlFiles) {
     }
   }
 
-  const resourceTags = html.match(/<(?:a|link|script|img|source)\b[^>]*>/gi) ?? [];
+  const resourceTags = markup.match(/<(?:a|link|script|img|source)\b[^>]*>/gi) ?? [];
   for (const tag of resourceTags) {
     const tagName = tag.match(/^<([a-z]+)/i)?.[1]?.toLowerCase();
     const rawValue = tagName === 'script' || tagName === 'img' || tagName === 'source'

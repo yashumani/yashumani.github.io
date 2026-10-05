@@ -1,0 +1,67 @@
+{
+  "id": "bg-14-025",
+  "sequenceNumber": 549,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 25,
+  "verseEnd": 25,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "Beyond status and faction / मान और पक्ष से परे",
+  "context": "Krishna concludes the behavioral description of the person beyond the gunas before turning to the means of crossing them.",
+  "contextHindi": "कृष्ण गुणातीत व्यक्ति के आचरण का वर्णन पूरा करते हैं और मान, अपमान, पक्ष तथा आरंभों का त्याग बताते हैं।",
+  "sanskritDevanagari": "मानापमानयोस्तुल्यस्तुल्यो मित्रारिपक्षयोः |\nसर्वारम्भपरित्यागी गुणातीतः स उच्यते ||१४-२५||",
+  "transliteration": "mānāpamānayostulyastulyo mitrāripakṣayoḥ .\nsarvārambhaparityāgī guṇātītaḥ sa ucyate ||14-25||",
+  "wordByWord": [
+    {
+      "term": "mānāpamānayoḥ",
+      "meaning": "in honour and dishonour"
+    },
+    {
+      "term": "mitrāripakṣayoḥ",
+      "meaning": "toward the sides of friend and foe"
+    },
+    {
+      "term": "sarvārambhaparityāgī",
+      "meaning": "renouncing all undertakings"
+    },
+    {
+      "term": "guṇātītaḥ",
+      "meaning": "beyond the qualities"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि मान और अपमान में समान, मित्र और शत्रु के पक्ष में तुल्य तथा सभी आरंभों का त्याग करने वाला गुणातीत कहा जाता है। यहाँ पहले की समता सामाजिक सम्मान और पक्षपात तक फैलती है। मित्रता हमें गलत बात का समर्थन करने को बाध्य नहीं करती, और विरोधी का सही तथ्य केवल विरोध के कारण अस्वीकार करना भी जरूरी नहीं। ये आधुनिक अनुप्रयोग हैं। ‘सभी आरंभों का त्याग’ पाठ का मजबूत वाक्य है; इसे छिपाना नहीं चाहिए। व्यापक कर्मयोग के संदर्भ में एक व्याख्या इसे अहंकार और इच्छा से उठे उद्यमों का त्याग समझ सकती है, पर यह व्याख्या है, शब्दों का शाब्दिक दोहराव नहीं। दिए गए श्लोक से घर की देखभाल या वचनबद्ध जिम्मेदारी अचानक छोड़ने की सलाह निकालना सावधान पाठ नहीं होगा। आज देखें कि किस कदम का उद्देश्य केवल अपना पक्ष जिताना या सम्मान बचाना है। तथ्य और उचित दायित्व याद करके अगला कदम चुनें। समता निष्पक्ष विचार का अवसर देती है, गलत व्यवहार को सही ठहराने का नहीं।",
+  "clearEnglish": "The description now includes honour and dishonour, the sides of friend and enemy, and renunciation of all undertakings. Krishna calls such a person one who has crossed the qualities. Equality toward the two sides challenges partisan attachment; it does not imply that every claim is equally accurate or every act equally just. One can assess a friend's error and an opponent's valid point without letting loyalty settle the matter first. The phrase about renouncing all undertakings is strong and should remain visible. Interpreting it within the Gita's wider treatment of action as relinquishing ego-driven initiatives is an interpretive move, not the literal wording of this verse. The supplied excerpt adds no verse-specific commentary here. A responsible everyday application is therefore limited: examine a proposed act whose main aim is defending status or defeating a rival. Consider the facts and existing responsibilities before proceeding. This reflective pause does not authorize abandoning dependents, necessary work, or commitments that still require care.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The described person is equal in honour and dishonour and friend and enemy factions, and renounces all undertakings."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Reading the renunciation through the wider action teaching as release of ego-driven initiatives is interpretation; a practical pause should preserve responsible commitments."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Review one contested decision by its facts and obligations before considering whether your own side gains status."
+    }
+  ],
+  "reflectionQuestion": "Would I assess this claim differently if it came from the opposing side?",
+  "reflectionQuestionHindi": "यही बात विरोधी पक्ष कहता तो क्या मैं उसका मूल्यांकन अलग करता?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

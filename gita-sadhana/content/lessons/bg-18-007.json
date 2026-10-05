@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-007",
+  "sequenceNumber": 630,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 7,
+  "verseEnd": 7,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "भ्रम में जिम्मेदारी छोड़ना / Abandonment through delusion",
+  "context": "Krishna calls renunciation of obligatory action improper and its abandonment through delusion tamasic.",
+  "contextHindi": "कृष्ण नियत कर्म का संन्यास अनुचित और भ्रम से उसे छोड़ना तामसिक बताते हैं।",
+  "sanskritDevanagari": "नियतस्य तु संन्यासः कर्मणो नोपपद्यते |\nमोहात्तस्य परित्यागस्तामसः परिकीर्तितः ||१८-७||",
+  "transliteration": "niyatasya tu saṃnyāsaḥ karmaṇo nopapadyate .\nmohāttasya parityāgastāmasaḥ parikīrtitaḥ ||18-7||",
+  "wordByWord": [
+    {
+      "term": "niyatasya karmaṇaḥ",
+      "meaning": "Of obligatory or prescribed action"
+    },
+    {
+      "term": "na upapadyate",
+      "meaning": "Is not fitting or proper"
+    },
+    {
+      "term": "mohāt",
+      "meaning": "Through delusion"
+    },
+    {
+      "term": "parityāgaḥ",
+      "meaning": "Abandonment"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि नियत कर्म छोड़ना उचित नहीं, और भ्रम से उसे छोड़ना तामसिक कहा जाता है। इस श्लोक में प्रेरणा स्पष्ट है: मोह के कारण छोड़ा गया काम। इसे हर बार आराम लेने, सीमा रखने या हानिकारक परिस्थिति से हटने के खिलाफ नियम न बनाएं। कौन सा काम वास्तव में उचित जिम्मेदारी है, यह समझना जरूरी है। किसी दूसरे की मांग अपने आप आपकी नैतिक जिम्मेदारी नहीं बन जाती। यह आधुनिक सावधानी है, श्लोक की नई परिभाषा नहीं। अब अपने किसी टाले हुए काम को देखें। क्या तथ्य और क्षमता की जांच हुई है, या आपने बिना सोचे मान लिया कि कुछ फर्क नहीं पड़ता? किसी वचन को भूलकर छोड़ देना और साफ कारण से उसे दोबारा तय करना अलग व्यवहार हैं। आज एक छोटी वास्तविक जिम्मेदारी चुनें। यदि सम्भव है तो पहला कदम लें। यदि सम्भव नहीं, तो संबंधित व्यक्ति को स्पष्ट बताएं और नया उचित समझौता करें। भ्रम कम होने पर जिम्मेदारी अधिक साफ दिख सकती है, बिना अपने ऊपर असीम भार डाले।",
+  "clearEnglish": "Krishna says that renunciation of obligatory action is improper and that abandoning it through delusion is tamasic. The stated motive is delusion, and the action is described as obligatory. Both qualifications matter. The verse should not be extended into a command to remain in every harmful situation or fulfil every demand made by someone else. Identifying a legitimate obligation requires understanding; that is a contemporary safeguard rather than a new definition supplied here. A practical application can examine a neglected promise. Was the withdrawal based on relevant facts and actual capacity, or on an unexamined assumption that the responsibility no longer mattered? A clear renegotiation differs from disappearing without consideration. Choose one modest obligation and take a responsible first step. If it cannot be fulfilled, communicate that honestly and seek an appropriate adjustment. The exercise aims to replace confusion with clarity, not to accumulate limitless duties or treat the need for rest as spiritual failure.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna calls renunciation of obligatory action improper and its abandonment through delusion tamasic."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Clarifying or renegotiating a real obligation applies the verse; every external demand is not automatically legitimate duty."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Clarify an obligation",
+      "text": "Take a first step on one legitimate promise or clearly renegotiate it if it cannot be fulfilled."
+    }
+  ],
+  "reflectionQuestion": "Have I understood this responsibility before abandoning it?",
+  "reflectionQuestionHindi": "क्या इस जिम्मेदारी को छोड़ने से पहले मैंने उसे समझा है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

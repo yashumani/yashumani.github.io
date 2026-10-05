@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-015",
+  "sequenceNumber": 387,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 15,
+  "verseEnd": 15,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "स्वयं को जानने वाला दिव्य / Divine self-knowledge",
+  "context": "Arjuna addresses Krishna as the supreme person and says only he knows himself through himself.",
+  "contextHindi": "अर्जुन कृष्ण को पुरुषोत्तम और प्राणियों के आधार के रूप में संबोधित करके उनके आत्मज्ञान की बात कहते हैं।",
+  "sanskritDevanagari": "स्वयमेवात्मनात्मानं वेत्थ त्वं पुरुषोत्तम |\nभूतभावन भूतेश देवदेव जगत्पते ||१०-१५||",
+  "transliteration": "svayamevātmanātmānaṃ vettha tvaṃ puruṣottama .\nbhūtabhāvana bhūteśa devadeva jagatpate ||10-15||",
+  "wordByWord": [
+    {
+      "term": "स्वयम् एव",
+      "meaning": "you yourself alone"
+    },
+    {
+      "term": "आत्मना आत्मानम्",
+      "meaning": "yourself through yourself"
+    },
+    {
+      "term": "भूतभावन",
+      "meaning": "source or producer of beings"
+    },
+    {
+      "term": "जगत्पते",
+      "meaning": "Lord of the world"
+    }
+  ],
+  "spokenHindi": "अर्जुन कहते हैं कि हे पुरुषोत्तम, आप स्वयं ही अपने द्वारा अपने को जानते हैं। फिर वे कृष्ण को प्राणियों की उत्पत्ति करने वाला, प्राणियों का ईश्वर, देवों का देव और जगत का स्वामी कहते हैं। पिछले श्लोक में दूसरों के ज्ञान की सीमा थी; यहाँ उसी सीमा का दूसरा पहलू है। जिस दिव्य वास्तविकता का अर्जुन वर्णन कर रहे हैं, उसे उसके अपने प्रकाश में ही पूरी तरह जाना जा सकता है। आत्मना आत्मानम् को कोई आसान आत्मसहायता नारा बना देना इस संदर्भ को खो देगा। श्लोक का विषय कृष्ण का दिव्य आत्मज्ञान है, हर व्यक्ति की हर निजी धारणा का सही होना नहीं। फिर भी साधारण संबंधों में एक सीमित सीख ली जा सकती है। दूसरों के बारे में हमारी जानकारी अधूरी रहती है, इसलिए अनुमान के साथ उनके कहे अनुभव को भी सुनें। सुनना और जांचना साथ चल सकते हैं। अर्जुन इसी कारण कृष्ण से और बताने का आग्रह करने की तैयारी कर रहे हैं। अपनी सीमा पहचानकर प्रश्न रखना बातचीत को अधिक साफ बनाता है।",
+  "clearEnglish": "Arjuna develops the limit stated in the preceding verse. Krishna alone knows himself through himself. The sequence of addresses names him as supreme person, source of beings, Lord of beings, God of gods and ruler of the world. These are dimensions of a theological recognition, not separate instructions for self-improvement. In particular, the phrase about knowing oneself through oneself should not be detached from its divine subject and used to claim that private intuition is always correct. Arjuna's point is that adequate knowledge of Krishna cannot be supplied by a merely external observer. That prepares his request for Krishna to speak about his own manifestations. A cautious human analogy is the need to hear people about their experience before deciding that our impressions tell the whole story. Such listening does not remove the need for evidence when facts or harm are involved. It simply marks the difference between partial external observation and a person's own account. The verse directs attention to the proper source of this divine disclosure.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna says Krishna knows himself through himself and invokes his lordship and creative relation to beings."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Listening before assuming is a limited analogy; the verse does not make ordinary intuition infallible."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Ask before assuming",
+      "text": "In one low-stakes conversation, ask how the other person sees the situation before describing their motives. Keep observations distinct from guesses."
+    }
+  ],
+  "reflectionQuestion": "What have I assumed about someone without hearing their own account?",
+  "reflectionQuestionHindi": "किसी की अपनी बात सुने बिना मैंने उसके बारे में क्या मान लिया है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

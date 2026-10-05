@@ -1,0 +1,71 @@
+{
+  "id": "bg-15-008",
+  "sequenceNumber": 559,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 8,
+  "verseEnd": 8,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "The fragrance carried onward / आगे ले जाई गई सुगंध",
+  "context": "Krishna describes the embodied individual taking the faculties when entering and leaving a body, like wind carrying scents.",
+  "contextHindi": "कृष्ण देह ग्रहण और त्याग में मन तथा इंद्रियों को साथ ले जाने की बात हवा और गंध की उपमा से बताते हैं।",
+  "sanskritDevanagari": "शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः |\nगृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात् ||१५-८||",
+  "transliteration": "śarīraṃ yadavāpnoti yaccāpyutkrāmatīśvaraḥ .\ngṛhitvaitāni saṃyāti vāyurgandhānivāśayāt ||15-8||",
+  "wordByWord": [
+    {
+      "term": "avāpnoti",
+      "meaning": "obtains; प्राप्त करता है"
+    },
+    {
+      "term": "utkrāmati",
+      "meaning": "departs; निकलता है"
+    },
+    {
+      "term": "īśvaraḥ",
+      "meaning": "lord or master, here of the embodied faculties"
+    },
+    {
+      "term": "gṛhītvā",
+      "meaning": "having taken; लेकर"
+    },
+    {
+      "term": "gandhān",
+      "meaning": "scents; गंधों को"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जब यह स्वामी शरीर प्राप्त करता या उसे छोड़ता है, तो इनको साथ लेकर जाता है, जैसे वायु अपने स्थान से गंध ले जाती है। ‘इनको’ पिछले श्लोक के मन और इंद्रियों से जोड़कर समझना चाहिए। यहाँ ईश्वर शब्द इस प्रसंग में देहधारी जीव के स्वामीपन की भाषा है; इसे बिना संदर्भ सर्वोच्च सर्वव्यापी सत्ता के शरीर बदलने का सरल विवरण न बनाएँ। हवा और गंध की उपमा आगे जाने वाली निरंतरता को व्यक्त करती है। यह पुनर्जन्म की धार्मिक चर्चा है, साधारण उपकरण से जाँचा हुआ वैज्ञानिक परिणाम नहीं। अपने जीवन के लिए एक सीमित तुलना यह है कि किसी नए स्थान में जाते समय पुरानी प्रतिक्रियाएँ और अपेक्षाएँ भी साथ जा सकती हैं। यह आदत वाला उदाहरण मृत्यु के बाद की गति को सिद्ध नहीं करता। आज किसी नए संवाद में देखें कि पुरानी अपेक्षा पहले से अर्थ तय तो नहीं कर रही। साथ लाई गई आदत को पहचानें, फिर सामने के व्यक्ति और तथ्य को नया अवसर दें।",
+  "clearEnglish": "The embodied lord takes the faculties when acquiring and leaving a body, just as wind carries scents from their source. The preceding verse supplies the referent of these faculties: senses together with mind. In this immediate context, īśvara names the master of that embodied set, the living individual, rather than requiring us to picture the omnipresent Supreme as an ordinary traveler between bodies. The simile expresses continuity through transition while leaving the mechanism unelaborated. It belongs to the religious account of embodiment and rebirth, not an experimental claim established by the analogy itself. For present reflection, a limited comparison is how expectations and habits accompany us into a new setting. Moving to a different room or role does not automatically reset our responses. This comparison can guide attention without substituting for the postmortem teaching. In a new conversation, notice an old expectation, test it against current facts, and allow the other person to be encountered more accurately.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The embodied individual carries the faculties when obtaining or leaving a body, compared to wind carrying scents from their sources."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Examining habits carried into a new setting is a contemporary analogy; it does not prove the verse's religious account of rebirth."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "In a new conversation, name one old expectation privately and check it against what is actually said."
+    }
+  ],
+  "reflectionQuestion": "What expectation am I carrying into this new situation?",
+  "reflectionQuestionHindi": "इस नई परिस्थिति में मैं कौन सी पुरानी अपेक्षा साथ ला रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

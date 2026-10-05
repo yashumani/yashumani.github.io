@@ -1,0 +1,71 @@
+{
+  "id": "bg-11-001",
+  "sequenceNumber": 415,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 1,
+  "verseEnd": 1,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "अर्जुन की स्पष्टता / Arjuna reports clarity",
+  "context": "Arjuna begins the new chapter by saying Krishna's teaching concerning the Self has removed his delusion.",
+  "contextHindi": "नए अध्याय में अर्जुन कहते हैं कि कृष्ण की करुणापूर्ण आत्मविषयक शिक्षा से उनका यह मोह हट गया है।",
+  "sanskritDevanagari": "अर्जुन उवाच |\nमदनुग्रहाय परमं गुह्यमध्यात्मसंज्ञितम् |\nयत्त्वयोक्तं वचस्तेन मोहोऽयं विगतो मम ||११-१||",
+  "transliteration": "arjuna uvāca .\nmadanugrahāya paramaṃ guhyamadhyātmasaṃjñitam .\nyattvayoktaṃ vacastena moho.ayaṃ vigato mama ||11-1||",
+  "wordByWord": [
+    {
+      "term": "मदनुग्रहाय",
+      "meaning": "for my benefit or out of grace toward me"
+    },
+    {
+      "term": "गुह्यम्",
+      "meaning": "secret or profound"
+    },
+    {
+      "term": "अध्यात्मसंज्ञितम्",
+      "meaning": "concerning the Self"
+    },
+    {
+      "term": "मोहः",
+      "meaning": "delusion or confusion"
+    }
+  ],
+  "spokenHindi": "अर्जुन कहते हैं कि कृष्ण ने उनके अनुग्रह के लिए आत्मा से संबंधित जो परम गूढ़ वचन कहा, उससे उनका यह मोह दूर हो गया। यह अर्जुन का अपने अनुभव का कथन है। हमें इसे ऐसा सामान्य नियम नहीं बनाना चाहिए कि कोई भी पाठ सुनने से हर उलझन तुरंत समाप्त हो जाएगी। शब्द अयम् इस मोह की ओर इशारा करता है, संवाद में अर्जुन जिस भ्रम को पहचान रहे हैं उसकी ओर। अध्यात्मसंज्ञितम् बताता है कि शिक्षा आत्मा के विषय की है। गूढ़ का अर्थ यहाँ समझ की गहराई है, किसी व्यक्ति से जानकारी छिपाकर उसे नियंत्रित करना नहीं। स्वामी शिवानंद की टिप्पणी कहती है कि विभूतियाँ सुनकर अर्जुन में विश्वरूप देखने की तीव्र इच्छा उठी है। यह टिप्पणी आगे की दिशा स्पष्ट करती है। आज अपनी पढ़ाई में हम एक फर्क पहचान सकते हैं: किसी प्रश्न पर स्पष्टता मिली हो तो उसे नाम दें, और जो प्रश्न बाकी हैं उन्हें भी रहने दें। अर्जुन के लिए स्पष्टता नई जिज्ञासा की शुरुआत बनती है। यही हमारे सीमित अभ्यास का संकेत हो सकता है।",
+  "clearEnglish": "Arjuna describes a change brought about by Krishna's teaching concerning the Self. The delusion he refers to has gone. The statement belongs to Arjuna's report, so it should not become a universal promise that any listening session removes every kind of uncertainty. The phrase this delusion gives the declaration a specific place within the dialogue. Adhyatma identifies the subject of the instruction, while the language of a highest secret indicates depth rather than a modern system of withholding information. In the supplied commentary, Sivananda observes that hearing the glories has given Arjuna an intense wish for the cosmic vision. That addition helps connect the declaration to what follows. A contemporary learning practice can distinguish a resolved question from questions still open. Naming a real gain in clarity need not require claiming complete understanding. Arjuna's movement is toward further inquiry, not the end of the conversation. This is a useful inference from the narrative sequence, while the verse itself records his gratitude and the removal of his delusion.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna says Krishna's gracious teaching concerning the Self has removed this delusion of his."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Recognizing one clarified question can coexist with further inquiry; no universal instant result is promised."
+    },
+    {
+      "label": "COMMENTARY — Swami Sivananda",
+      "explanation": "Sivananda notes Arjuna's intense wish to see the cosmic form after hearing the divine glories."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Name a real clarification",
+      "text": "Write one question that a passage has clarified and one question it leaves open. Do not require the first answer to settle everything."
+    }
+  ],
+  "reflectionQuestion": "What exactly has become clearer, and what am I still asking?",
+  "reflectionQuestionHindi": "वास्तव में क्या स्पष्ट हुआ है, और मैं अभी क्या पूछना चाहता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-12-020",
+  "sequenceNumber": 489,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 20,
+  "verseEnd": 20,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "कहे हुए धर्म को अपनाना / Practising the teaching as described",
+  "context": "Krishna closes the chapter by calling faithful devotees who follow this immortal dharma with him as supreme exceedingly dear.",
+  "contextHindi": "कृष्ण कहते हैं कि श्रद्धा से उन्हें परम मानकर बताए हुए धर्मामृत को अपनाने वाले भक्त अत्यंत प्रिय हैं।",
+  "sanskritDevanagari": "ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते |\nश्रद्दधाना मत्परमा भक्तास्तेऽतीव मे प्रियाः ||१२-२०||",
+  "transliteration": "ye tu dharmyāmṛtamidaṃ yathoktaṃ paryupāsate .\nśraddadhānā matparamā bhaktāste.atīva me priyāḥ ||12-20||",
+  "wordByWord": [
+    {
+      "term": "धर्म्यामृतम्",
+      "meaning": "immortal dharma; righteous nectar-like teaching"
+    },
+    {
+      "term": "यथोक्तम्",
+      "meaning": "as described"
+    },
+    {
+      "term": "श्रद्दधानाः",
+      "meaning": "endowed with faith"
+    },
+    {
+      "term": "अतीव प्रियाः",
+      "meaning": "exceedingly dear"
+    }
+  ],
+  "spokenHindi": "कृष्ण अध्याय के अंत में कहते हैं कि जो श्रद्धा रखते हुए, उन्हें परम मानकर, इस बताए हुए धर्मामृत का अनुसरण करते हैं, वे भक्त अत्यंत प्रिय हैं। यथोक्तम् यानी जैसा कहा गया; इसलिए यह निष्कर्ष केवल मनपसंद एक पंक्ति चुनने तक सीमित नहीं। पहले के ध्यान, कर्म, त्याग और करुणापूर्ण गुण इस दिशा के संदर्भ हैं। अमृत यहाँ धर्म की जीवनदायी और अमर गुणवत्ता की धार्मिक छवि है, किसी औषधि या शारीरिक अमरता का दावा नहीं। अध्याय में कठिन आदर्श हैं और क्षमता के अनुसार प्रवेश भी। उन्हें सुनकर अपने पर एक साथ सब सिद्ध करने की मांग रखना हमारा जोड़ा दबाव होगा। हमारा उपयोग एक स्पष्ट गुण चुनकर उसका जिम्मेदार छोटा अभ्यास करना हो सकता है। आज करुणा, सत्यपूर्ण संवाद या परिणाम की पकड़ ढीली करने में से एक अवसर देखें। फिर शाम को पूछें कि क्या सीखा और कहाँ सहायता चाहिए, केवल सफलता असफलता का फैसला न करें। भक्ति की दिशा पूरे संबंध की है; छोटा अभ्यास उसकी ओर कदम हो सकता है, पूरा आध्यात्मिक प्रमाणपत्र नहीं।",
+  "clearEnglish": "The final verse gathers the chapter through the phrase as described. Faithful devotees who regard Krishna as supreme and follow this immortal dharma are exceedingly dear to him. The conclusion is therefore connected to the preceding teaching, not merely to a favorite isolated sentence. The nectar image concerns the religious quality of the dharma and should not become a claim of physical immortality or a medicinal effect. The chapter has offered both demanding portraits and approaches suited to different capacities. A modern practice need not require demonstrating all the qualities at once. Choose one concrete opportunity for compassion, careful speech or loosening a demand for results, then review what was learned and what support is still needed. That method is our application rather than a certificate of attainment. The verse's promise remains devotional: Krishna's dearness toward those who follow the teaching with faith and supreme orientation toward him. Its closing movement brings attention, work and relational conduct into one remembered direction.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna calls faithful devotees following the teaching as described, with him as supreme, exceedingly dear."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "One concrete practice can engage the teaching without demanding instant completion or claiming attainment."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "One quality, then reflection",
+      "text": "Choose one opportunity for compassion, careful speech or less attachment to a result. At day's end, note what you learned and any support needed."
+    }
+  ],
+  "reflectionQuestion": "Which part of the teaching can I practise responsibly today?",
+  "reflectionQuestionHindi": "इस शिक्षा के किस हिस्से का आज जिम्मेदारी से अभ्यास कर सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

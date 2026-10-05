@@ -1,0 +1,67 @@
+{
+  "id": "bg-14-009",
+  "sequenceNumber": 533,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 9,
+  "verseEnd": 9,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "Where the qualities attach attention / गुण ध्यान को कहाँ बाँधते हैं",
+  "context": "Krishna compares the characteristic attachments of sattva, rajas, and tamas.",
+  "contextHindi": "कृष्ण तीनों गुणों की अलग दिशा को एक साथ रखकर उनका बंधन स्पष्ट करते हैं।",
+  "sanskritDevanagari": "सत्त्वं सुखे सञ्जयति रजः कर्मणि भारत |\nज्ञानमावृत्य तु तमः प्रमादे सञ्जयत्युत ||१४-९||",
+  "transliteration": "sattvaṃ sukhe sañjayati rajaḥ karmaṇi bhārata .\njñānamāvṛtya tu tamaḥ pramāde sañjayatyuta ||14-9||",
+  "wordByWord": [
+    {
+      "term": "sukhe",
+      "meaning": "to happiness; सुख में"
+    },
+    {
+      "term": "karmaṇi",
+      "meaning": "to action; कर्म में"
+    },
+    {
+      "term": "āvṛtya",
+      "meaning": "having covered; ढककर"
+    },
+    {
+      "term": "pramāde",
+      "meaning": "to heedlessness; असावधानी में"
+    }
+  ],
+  "spokenHindi": "कृष्ण तीनों गुणों की दिशा साथ रखकर समझाते हैं। सत्त्व सुख से जोड़ता है, रज कर्म से, और तम ज्ञान को ढककर प्रमाद में लगाता है। पहले बताए गए गुण यहाँ हमारी रुचि और ध्यान की दिशा बनते दिखाई देते हैं। कोई अनुभव अच्छा लगे तो हम उसे पकड़ना चाहते हैं; बहुत काम हो तो अपने व्यस्त रहने को ही उपलब्धि मान सकते हैं; बात स्पष्ट न हो तो जरूरी जाँच भी छूट सकती है। ये रोजमर्रा के उदाहरण हैं, शब्दों का पूरा दार्शनिक अर्थ नहीं। सत्त्व की दिशा बाकी दोनों से अलग है, पर सुख का बंधन उसमें भी बताया गया है। इसलिए केवल अच्छा महसूस करना अंतिम कसौटी नहीं बन सकता। आज देखें कि ध्यान बार बार किस ओर लौट रहा है। फिर पूछें कि उस लौटने से क्या अधिक स्पष्ट हुआ और क्या छूट गया। अपने मन को दोषी बनाए बिना यह निरीक्षण करें। खुशी को जगह दें, काम को उद्देश्य दें और किसी अनदेखे तथ्य पर थोड़ी रोशनी डालें।",
+  "clearEnglish": "Krishna now places the three tendencies beside one another. Sattva connects the person with happiness, rajas with action, and tamas covers knowledge and connects the person with heedlessness. The comparison concerns the direction in which attention and attachment settle. It also prevents a simplistic division into one entirely free quality and two binding ones: sattva's attachment remains part of the account. A pleasant experience may assist understanding, yet dependence on repeating it can narrow our response to circumstances. Activity may accomplish something useful while its momentum becomes an end in itself. Obscured knowledge can make neglect feel unremarkable until a consequence arrives. These examples interpret the pattern for present life; they are not a list supplied by the verse. For reflection, watch what repeatedly captures attention during one ordinary hour. The aim is to recognize its effect on judgment. This is more informative than deciding that one's whole day was spiritually good or bad.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Sattva attaches to happiness, rajas to action, and tamas conceals knowledge and attaches to heedlessness."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Tracking where attention returns is a practical way to consider these tendencies without assigning fixed personal identities."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "During one hour, note where attention repeatedly returns and check one important fact that was overlooked."
+    }
+  ],
+  "reflectionQuestion": "What does my recurring focus help me see, and what does it hide?",
+  "reflectionQuestionHindi": "मेरा बार बार लौटता ध्यान क्या दिखाता है और क्या छिपा देता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

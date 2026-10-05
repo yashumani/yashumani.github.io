@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-002",
+  "sequenceNumber": 597,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 2,
+  "verseEnd": 2,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "श्रद्धा के तीन रूप / Three qualities of faith",
+  "context": "Krishna begins answering Arjuna by identifying three kinds of faith arising from one's nature.",
+  "contextHindi": "कृष्ण अर्जुन के उत्तर में स्वभाव से उत्पन्न श्रद्धा के तीन रूप बताते हैं।",
+  "sanskritDevanagari": "श्रीभगवानुवाच |\nत्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा |\nसात्त्विकी राजसी चैव तामसी चेति तां शृणु ||१७-२||",
+  "transliteration": "śrībhagavānuvāca .\ntrividhā bhavati śraddhā dehināṃ sā svabhāvajā .\nsāttvikī rājasī caiva tāmasī ceti tāṃ śṛṇu ||17-2||",
+  "wordByWord": [
+    {
+      "term": "trividhā",
+      "meaning": "Threefold"
+    },
+    {
+      "term": "dehinām",
+      "meaning": "Of embodied beings"
+    },
+    {
+      "term": "svabhāvajā",
+      "meaning": "Born of one's nature"
+    },
+    {
+      "term": "tāmasī",
+      "meaning": "Marked by darkness or dullness in this classification"
+    }
+  ],
+  "spokenHindi": "कृष्ण उत्तर देते हैं कि देहधारी लोगों की श्रद्धा तीन प्रकार की होती है और स्वभाव से उत्पन्न होती है। ये रूप सात्त्विक, राजसिक और तामसिक हैं। फिर वे अर्जुन को सुनने के लिए कहते हैं। यहाँ श्रद्धा केवल कितनी मजबूत है का प्रश्न नहीं; उसकी गुणवत्ता भी देखी जाती है। कोई विश्वास स्पष्टता की ओर ले जा सकता है, कोई दिखावे या बेचैनी की ओर, और कोई विवेक को ढक सकता है। यह आगे के वर्णन को समझने की दिशा है, अभी पूरी जांच की सूची नहीं। स्वभाव का उल्लेख सुनकर अपने को हमेशा के लिए एक श्रेणी में बंद न करें। आधुनिक अभ्यास में हम किसी विशेष काम की प्रेरणा देख सकते हैं। क्या मैं समझकर कर रहा हूँ, प्रशंसा पाने के लिए कर रहा हूँ, या बिना ध्यान के कर रहा हूँ? यह प्रश्न हमारी पूरी पहचान का निर्णय नहीं करता। आज एक प्रार्थना, दान या जिम्मेदारी से पहले अपनी प्रेरणा स्पष्ट करें। सुनने और देखने की जगह रखें; श्रद्धा सीखने से दूर होने का कारण नहीं बननी चाहिए।",
+  "clearEnglish": "Krishna answers that faith among embodied beings is threefold and arises from their nature: sattvic, rajasic, and tamasic. He asks Arjuna to listen to the distinction. The answer shifts attention from the mere presence of belief to its quality. Intensity alone does not settle the spiritual character of a practice. The verse names the categories but has not yet supplied the detailed examples that follow. A modern application can examine one action's motive without claiming to classify a whole person permanently. Is the action supported by careful understanding, a demand for recognition, or inattentive repetition? These questions are interpretive aids rather than literal definitions given in this verse. The reference to nature should not be treated as proof that inherited identity fixes anyone's spiritual capacity. For practice, make one motive visible before undertaking an observance or act of assistance. Listening begins when we allow the description to refine our judgement instead of immediately assigning a flattering category to ourselves.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies faith as threefold, arising from embodied beings' nature, and asks Arjuna to listen."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Examining the motive of one act is a modern aid; this verse does not establish immutable social categories."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Name the motive",
+      "text": "Before one valued act, write your actual motive in a plain sentence."
+    }
+  ],
+  "reflectionQuestion": "What quality of motive is supporting this act?",
+  "reflectionQuestionHindi": "इस काम के पीछे मेरी प्रेरणा की गुणवत्ता कैसी है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "bg-09-025",
+  "sequenceNumber": 363,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 25,
+  "verseEnd": 25,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "विविध पूजा के लक्ष्य, पर अंतिम शरण केवल भगवान / Different worships lead to different destinations, but the final refuge is the Lord.",
+  "context": "Krishna distinguishes the destinations of worship directed to gods, ancestors, beings or elemental deities as rendered in this edition, and to himself.",
+  "contextHindi": "कृष्ण देवताओं, पितरों, दिए गए संस्करण के अनुसार तत्त्वों के अधिष्ठाता देवताओं, और अपनी उपासना के अलग गंतव्य बताते हैं।",
+  "sanskritDevanagari": "यान्ति देवव्रता देवान्पितॄन्यान्ति पितृव्रताः |\nभूतानि यान्ति भूतेज्या यान्ति मद्याजिनोऽपि माम् ||९-२५||",
+  "transliteration": "yānti devavratā devānpitṝnyānti pitṛvratāḥ .\nbhūtāni yānti bhūtejyā yānti madyājino.api mām ||9-25||",
+  "wordByWord": [
+    {
+      "term": "देवव्रताः",
+      "meaning": "Those devoted to the gods; the inward orientation is directed toward divine forms."
+    },
+    {
+      "term": "पितृव्रताः",
+      "meaning": "Those devoted to ancestors; their reverence is aimed at the ancestral realm and lineage."
+    },
+    {
+      "term": "भूतेज्याः",
+      "meaning": "Those who worship the elemental powers or presiding beings of nature."
+    },
+    {
+      "term": "मद्याजिनः",
+      "meaning": "Those who worship Me; the term marks a devotee whose offering is directed to Krishna."
+    },
+    {
+      "term": "माम्",
+      "meaning": "Me; Krishna, the speaker."
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण अलग-अलग उपासना के अलग-अलग गंतव्य बताते हैं। देवताओं की उपासना करने वाले देवताओं को प्राप्त होते हैं। पितरों की उपासना करने वाले पितरों के पास जाते हैं। दिए गए संस्करण में “भूतेज्याः” को तत्त्वों के अधिष्ठाता देवताओं के उपासक समझा गया है; वे उन्हीं से जुड़े देवताओं या शक्तियों को प्राप्त होते हैं। इसके बाद कृष्ण कहते हैं कि उनकी उपासना करने वाले उन्हें प्राप्त होते हैं। इस तरह श्लोक हर उपासना की दिशा और उसका फल अलग-अलग बताता है; सभी को एक ही मंज़िल तक पहुँचने वाला नहीं कहता। यह बात किसी उपासक का उपहास करने के लिए नहीं है। कृष्ण बस बताते हैं कि उपासना का लक्ष्य महत्त्व रखता है। जो उनसे जुड़े रहते हैं और उनकी उपासना करते हैं, उनका गंतव्य स्वयं कृष्ण हैं। यह पंक्ति कोई विशेष पारिवारिक विधि नहीं बताती। अध्ययन में पूजा के विषय और बताए गए गंतव्य को अलग-अलग लिख सकते हैं। इससे अपनी ओर से सभी परिणाम एक कर देने से बचेंगे।",
+  "clearEnglish": "Krishna distinguishes four destinations. Those devoted to the gods go to the gods; ancestor worshippers go to the ancestors; worshippers of bhutas go to them; those who worship Krishna go to him. The supplied edition renders the bhuta group as deities presiding over the elements. That selected rendering should be identified without pretending the word has no interpretive questions. The verse names an object of worship and a corresponding destination, rather than prescribing a detailed family ritual. It also does not explicitly describe every destination's duration in this sentence. A contemporary reading exercise is to keep those pairings visible instead of blending them into a claim that all worship has the same outcome. This need not become mockery of other worshippers or a judgment based on social identity. It concerns direction within the theological account. One may ask what one's own worship is addressed to and what goal one understands it to have, while acknowledging the source's distinctions respectfully.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse states plainly that worshippers of gods go to gods, ancestor-worshippers go to ancestors, and those who worship elemental powers go to those powers; those devoted to the Lord come to Him."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The verse does not teach that one social class, ritual tradition, or mode of worship is spiritually superior by birth. It points instead to the direction of the heart and the reality of the final goal."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Clear intention",
+      "text": "Before beginning your day, name the one aim that is most important to you: service, truth, peace, or remembrance. Let that aim become the direction of your actions rather than a passing mood."
+    },
+    {
+      "label": "Daily offering",
+      "text": "Offer your work, words, and attention to the Lord in a simple way—through prayer, mindful effort, or a brief pause—without waiting for dramatic experiences."
+    }
+  ],
+  "reflectionQuestion": "When your devotion is clear, what different goals and attachments begin to lose their hold on your mind?",
+  "reflectionQuestionHindi": "जब आपकी भक्ति स्पष्ट हो, तो आपके मन से कौन-से अलग-अलग लक्ष्य और आसक्तियाँ धीरे-धीरे छूटने लगती हैं?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

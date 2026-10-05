@@ -1,0 +1,71 @@
+{
+  "id": "bg-15-009",
+  "sequenceNumber": 560,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 9,
+  "verseEnd": 9,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "Experience through senses and mind / इंद्रियों और मन से अनुभव",
+  "context": "Krishna explains how the embodied individual engages sensory objects through the faculties named earlier.",
+  "contextHindi": "मन और इंद्रियों को साथ ले जाने की बात के बाद कृष्ण उन्हीं के माध्यम से विषयों का अनुभव समझाते हैं।",
+  "sanskritDevanagari": "श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च |\nअधिष्ठाय मनश्चायं विषयानुपसेवते ||१५-९||",
+  "transliteration": "śrotraṃ cakṣuḥ sparśanaṃ ca rasanaṃ ghrāṇameva ca .\nadhiṣṭhāya manaścāyaṃ viṣayānupasevate ||15-9||",
+  "wordByWord": [
+    {
+      "term": "śrotram",
+      "meaning": "hearing or ear; सुनने की इंद्रिय"
+    },
+    {
+      "term": "cakṣuḥ",
+      "meaning": "sight or eye; दृष्टि"
+    },
+    {
+      "term": "rasanam",
+      "meaning": "taste; स्वाद"
+    },
+    {
+      "term": "ghrāṇam",
+      "meaning": "smell; गंध"
+    },
+    {
+      "term": "adhiṣṭhāya",
+      "meaning": "presiding over or depending upon"
+    }
+  ],
+  "spokenHindi": "कृष्ण कान, आँख, स्पर्श, स्वाद, गंध और मन को गिनाकर कहते हैं कि इनके आधार पर यह जीव विषयों का अनुभव करता है। पिछले श्लोकों में जिन साधनों का उल्लेख था, वे यहाँ साफ सामने आते हैं। अनुभव केवल बाहर की वस्तु नहीं है; उसे ग्रहण करने के साधन और मन भी साथ हैं। कोई धुन एक व्यक्ति को सुख देती है और दूसरे को किसी कठिन याद की ओर ले जाती है। यह आज का उदाहरण है, श्लोक में बताया प्रसंग नहीं। इससे हम सुनने की बात को मन की टिप्पणी से अलग देखना सीख सकते हैं। इंद्रियों का उल्लेख उन्हें शत्रु घोषित नहीं करता। भोजन का स्वाद, परिचित की आवाज और रास्ते का दृश्य जीवन में जानकारी तथा संबंध देते हैं। प्रश्न यह है कि अनुभव करते समय हमारी सजगता कैसी है। आज किसी साधारण अनुभव को थोड़ी देर स्पष्ट देखें। जो सीधे मिला और जो मन ने जोड़ा, दोनों पहचानें। यह अभ्यास जीव के पूरे स्वरूप का ज्ञान नहीं, अनुभव की जिम्मेदार समझ की शुरुआत है।",
+  "clearEnglish": "The embodied individual engages objects through hearing, sight, touch, taste, smell, and mind. Krishna makes explicit the faculties referred to in the preceding account of embodiment. The list includes both sensory channels and the inner faculty that accompanies their use. Experience is therefore not described solely as an object lying outside a person; it involves the individual and these means of engagement. A modern illustration is a familiar song bringing different associations to different listeners. The sound is received, while memory and expectation affect how it is encountered. That illustration does not establish the metaphysical identity of the soul, but it helps clarify the participation of mind. Nothing in this verse labels sensory faculties as enemies. They also provide information needed for care, communication, and safety. A practical inquiry is to notice one ordinary experience carefully, distinguishing its immediate sensory content from the interpretation that follows. This can improve attention without making a pleasant perception into either a spiritual achievement or a moral fault.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The embodied individual engages objects through the five sensory faculties and mind."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Distinguishing sensory content from interpretation illustrates attentive engagement; the verse does not condemn the sensory faculties."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "During one ordinary experience, identify the sensation first and the mental association second."
+    }
+  ],
+  "reflectionQuestion": "What was directly sensed, and what meaning did my mind add?",
+  "reflectionQuestionHindi": "सीधे इंद्रियों से क्या मिला, और मन ने उसमें क्या अर्थ जोड़ा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

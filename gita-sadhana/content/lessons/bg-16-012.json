@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-012",
+  "sequenceNumber": 583,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 12,
+  "verseEnd": 12,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "अन्याय से कमाई / Wealth pursued unjustly",
+  "context": "Krishna describes craving and anger binding people who accumulate wealth through unjust means.",
+  "contextHindi": "कृष्ण इच्छा और क्रोध से बंधे लोगों की अन्यायपूर्ण धन संचय की प्रवृत्ति बताते हैं।",
+  "sanskritDevanagari": "आशापाशशतैर्बद्धाः कामक्रोधपरायणाः |\nईहन्ते कामभोगार्थमन्यायेनार्थसञ्चयान् ||१६-१२||",
+  "transliteration": "āśāpāśaśatairbaddhāḥ kāmakrodhaparāyaṇāḥ .\nīhante kāmabhogārthamanyāyenārthasañcayān ||16-12||",
+  "wordByWord": [
+    {
+      "term": "āśāpāśa",
+      "meaning": "Bonds or snares of expectation"
+    },
+    {
+      "term": "kāmakrodhaparāyaṇāḥ",
+      "meaning": "Given over to desire and anger"
+    },
+    {
+      "term": "anyāyena",
+      "meaning": "By unjust means"
+    },
+    {
+      "term": "arthasañcayān",
+      "meaning": "Accumulations of wealth"
+    }
+  ],
+  "spokenHindi": "इस श्लोक में अनेक आशाओं के फंदे का चित्र आता है। कृष्ण कहते हैं कि इच्छा और क्रोध में लगे लोग भोग के लिए अन्याय से धन जमा करते हैं। आशा यहाँ हर अच्छी संभावना का नाम नहीं है; प्रसंग में वह हमें बाँधने वाली अपेक्षा बन गई है। धन भी अपने आप में दोष नहीं बताया गया। श्लोक साफ तौर पर अन्याय के साधन और भोग के लक्ष्य को जोड़ता है। यदि चाह पूरी करने के लिए धोखा, शोषण या नियमों का छिपा उल्लंघन जरूरी लगता है, तो इच्छा ने विवेक पर दबाव बना लिया है। क्रोध अक्सर तब बढ़ता है जब कोई इस रास्ते को रोकता है। अपने जीवन में बड़ा अपराध ढूँढ़ना जरूरी नहीं। छोटे लेनदेन में भी निष्पक्षता देखी जा सकती है। किसी काम के पैसे, समय या श्रेय में दूसरे का हिस्सा साफ रखिए। यदि गलती हुई है, तो सम्भव सुधार कीजिए। आज एक खर्च या कमाई की प्रक्रिया देखें और पूछें कि उसका लाभ किसी कमजोर व्यक्ति की कीमत पर तो नहीं आया।",
+  "clearEnglish": "The image of a hundred bonds of expectation conveys entanglement rather than a simple wish. Krishna describes people devoted to desire and anger who seek stores of wealth by unjust means for enjoyment. The ethical focus is precise: the verse connects the motive with the method. It does not condemn all income, savings, or material security. An honest livelihood and prudent provision are not identical with the accumulation described here. A modern application can examine ordinary transactions where craving presses against fairness: withholding earned payment, hiding a relevant cost, or taking another person's credit. Anger may then defend the advantage by treating questions as attacks. Instead of asking only whether an arrangement benefits you, ask whether its terms could be stated openly to everyone affected. That test is an inference, not a rule quoted from the verse. Where something cannot be honestly explained, investigate before proceeding. A small correction in payment or credit can interrupt a larger habit of self-justification.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes entanglement in expectations and unjust wealth accumulation for gratification, driven by desire and anger."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Transparent terms and fair payment are concrete modern ways to examine the unjust means named here."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Fair transaction",
+      "text": "Check one payment or allocation of credit and correct any identifiable unfairness."
+    }
+  ],
+  "reflectionQuestion": "Could I state the terms of this arrangement openly to those affected?",
+  "reflectionQuestionHindi": "क्या इस लेनदेन की शर्तें मैं सभी संबंधित लोगों को खुलकर बता सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

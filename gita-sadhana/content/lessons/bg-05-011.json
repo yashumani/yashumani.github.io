@@ -1,0 +1,71 @@
+{
+  "id": "bg-05-011",
+  "sequenceNumber": 215,
+  "date": "2026-10-05",
+  "chapter": 5,
+  "verseStart": 11,
+  "verseEnd": 11,
+  "chapterNameSanskrit": "कर्मसंन्यासयोग",
+  "chapterNameEnglish": "Karma Sannyāsa Yoga",
+  "theme": "कर्म का सही ढंग: फल से अलग, आत्म-शुद्धि के लिए।",
+  "context": "Arjuna is still weighing action against renunciation. Krishna answers that the issue is not whether one acts, but whether action is done with attachment to result. The yogi continues to live in the world while keeping the self free from clinging.",
+  "contextHindi": "अर्जुन अब भी कर्म और संन्यास के बीच का फर्क समझना चाहते हैं। कृष्ण कहते हैं कि सवाल यह नहीं है कि कोई काम करे या न करे, बल्कि यह है कि वह फल से क्यों जुड़ा है। योगी शरीर, मन, बुद्धि और इन्द्रियों को काम में लगाता है, पर अपने को परिणाम से अलग रखता है।",
+  "sanskritDevanagari": "कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि |\nयोगिनः कर्म कुर्वन्ति सङ्गं त्यक्त्वात्मशुद्धये ||५-११||",
+  "transliteration": "kāyena manasā buddhyā kevalairindriyairapi .\nyoginaḥ karma kurvanti saṅgaṃ tyaktvātmaśuddhaye ||5-11||",
+  "wordByWord": [
+    {
+      "term": "कायेन",
+      "meaning": "by the body; action is not suspended, but the body is used skillfully."
+    },
+    {
+      "term": "मनसा",
+      "meaning": "by the mind; the inner attitude, not just physical movement, matters."
+    },
+    {
+      "term": "सङ्गं",
+      "meaning": "attachment, clinging; the bond that makes action binding."
+    },
+    {
+      "term": "आत्मशुद्धये",
+      "meaning": "for the purification of the self; not for egoic display or gain."
+    }
+  ],
+  "spokenHindi": "यह श्लोक कहता है कि योगी ने कर्म करना छोड़ नहीं दिया, बल्कि वह कर्म को अपने लिए नहीं, अपने को शुद्ध करने के लिए करता है। ‘कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि’—शरीर, मन, बुद्धि, और इन्द्रियाँ सब सक्रिय रहती हैं, फिर भी योगी अपने को उस काम का स्वामी नहीं मानता। वह जानता है, ‘मैं नहीं करता; केवल उपकरण हूँ।’ यह बात बहुत गहरी है, क्योंकि अक्सर हम अपने काम को अपने अहंकार और परिणाम से जोड़ देते हैं। फल की इच्छा ही बाँधती है। जब मन फल से अलग हो जाता है, तब काम भी शुद्ध बन जाता है; वह पाप नहीं, श्रम बन जाता है। यहाँ ‘सङ्गं त्यक्त्वा’ का अर्थ है लगन, आसक्ति, ‘मुझे ही करना है’ जैसा भाव। यह सिखाता है कि कर्म का उद्देश्य आत्म-शुद्धि है, न कि अपने को साबित करना।",
+  "clearEnglish": "This verse defines a yogi not as a person who stops functioning, but as a person who acts without claiming the action as personal possession. The body, mind, intellect, and senses still operate; the transformation is in the inner stance. The word saṅga means attachment or clinging, especially the belief that ‘I am the doer’ and ‘I am entitled to the fruit.’ When that attachment is surrendered, action becomes a purification process rather than a source of bondage. Krishna is not praising passivity here. He is describing a disciplined mind that remains responsive without becoming possessive. In daily life, this means doing work, speaking, making decisions, and caring for responsibilities without treating them as a private identity project. The self is purified not by avoiding effort, but by releasing the egoic claim on effort and outcome.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse literally says yogis perform actions with body, mind, intellect, and senses, having abandoned attachment for self-purification."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A person can be active without being enslaved by the action when the mind sees effort as service rather than possession or self-importance."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Work without ego",
+      "text": "Before starting a task, notice whether you are thinking, 'I must get the credit' or 'I must control the result.' Shift to, 'I will do my duty well and let the outcome be what it is.'"
+    },
+    {
+      "label": "Inner reset",
+      "text": "After an interaction or project, spend two minutes asking: What was my attachment? Did I act from responsibility or from desire to be seen, praised, or reassured?"
+    }
+  ],
+  "reflectionQuestion": "When you act with full effort, how can you also keep your mind free from ownership of the result?",
+  "reflectionQuestionHindi": "जब आप पूरा प्रयास करते हैं, तो आप अपने मन को परिणाम की स्वामित्व से कैसे अलग रख सकते हैं?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

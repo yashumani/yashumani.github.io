@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-024",
+  "sequenceNumber": 595,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 24,
+  "verseEnd": 24,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "समझकर कर्म / Understand and then act",
+  "context": "Krishna closes the chapter by making scripture the authority for discerning what should and should not be done.",
+  "contextHindi": "कृष्ण अध्याय के अंत में करने और न करने का निर्णय शास्त्र से समझकर कर्म करने को कहते हैं।",
+  "sanskritDevanagari": "तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ |\nज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ||१६-२४||",
+  "transliteration": "tasmācchāstraṃ pramāṇaṃ te kāryākāryavyavasthitau .\njñātvā śāstravidhānoktaṃ karma kartumihārhasi ||16-24||",
+  "wordByWord": [
+    {
+      "term": "pramāṇam",
+      "meaning": "Authority or valid basis of judgement"
+    },
+    {
+      "term": "kāryākārya",
+      "meaning": "What ought and ought not to be done"
+    },
+    {
+      "term": "jñātvā",
+      "meaning": "Having understood"
+    },
+    {
+      "term": "kartum",
+      "meaning": "To perform or act"
+    }
+  ],
+  "spokenHindi": "अध्याय के अंतिम श्लोक में कृष्ण कहते हैं कि क्या करना चाहिए और क्या नहीं, इसका प्रमाण शास्त्र हो। उसके विधान को जानकर यहाँ कर्म करना चाहिए। जानकर शब्द पर ध्यान दें। निर्देश सुन लेने और उसका अर्थ समझ लेने में फर्क है। यह अध्याय निर्भयता, सत्य, करुणा और नम्रता से शुरू हुआ था; अंतिम सलाह उस नैतिक दिशा को निर्णय में उतारती है। पाठ शास्त्र को निर्णय का आधार बताता है, लेकिन किसी परिवार या व्यक्ति की हर प्रथा को शास्त्र का स्पष्ट विधान नहीं मानता। यदि कोई बात कठिन लगे, तो मूल स्रोत, प्रसंग और योग्य व्याख्या देखें। बिना समझे धार्मिक शब्दों से दूसरों को दबाना इस सीख का जिम्मेदार उपयोग नहीं होगा। आधुनिक अभ्यास के रूप में किसी उलझे फैसले में पहले प्रश्न साफ लिखें: कौन सा काम और कौन सा तरीका विचार में है? फिर संबंधित शिक्षा और वास्तविक असर समझें। अंत में एक उचित कदम लें। अध्ययन केवल जानकारी जमा करना नहीं; विचारपूर्वक कर्म करने में उसका परिणाम दिखाई देना चाहिए।",
+  "clearEnglish": "Krishna ends the chapter by identifying scripture as the authority in determining what ought to be done and what ought not to be done. After understanding its injunction, Arjuna should act in this world. The verse therefore combines guidance, understanding, and action. It does not recommend replacing inquiry with a person's unexplained assertion. Nor does it equate every inherited household or regional custom with a scriptural command. Those distinctions are modern interpretive safeguards, while the textual instruction remains explicitly scriptural. The chapter's earlier catalogue supplies a moral context of truth, compassion, discipline, and humility. When a decision is difficult, formulate the actual question before seeking a teaching that bears on it. Read the passage in context and, where needed, consult a competent source. Then decide on an action whose purpose and consequences you can explain. Study becomes practical when it sharpens responsibility rather than serving as a store of quotations for winning an argument.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names scripture as authority for discerning action and restraint, then instructs Arjuna to understand and act."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Distinguishing custom from explicit teaching and checking context are modern practices that help apply the instruction responsibly."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Question, guidance, action",
+      "text": "Write one decision question, consult its relevant guidance in context, and choose a concrete responsible step."
+    }
+  ],
+  "reflectionQuestion": "Have I understood the guidance I am using to justify this action?",
+  "reflectionQuestionHindi": "जिस शिक्षा से मैं यह काम सही बता रहा हूँ, क्या उसे समझा भी है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

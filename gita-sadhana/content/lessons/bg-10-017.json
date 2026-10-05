@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-017",
+  "sequenceNumber": 389,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 17,
+  "verseEnd": 17,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "ध्यान किस रूप में टिके / Finding a focus for contemplation",
+  "context": "Arjuna asks how to know Krishna through sustained contemplation and which forms can serve as its focus.",
+  "contextHindi": "अर्जुन निरंतर चिंतन में कृष्ण को जानने और किन रूपों पर ध्यान रखने का प्रश्न करते हैं।",
+  "sanskritDevanagari": "कथं विद्यामहं योगिंस्त्वां सदा परिचिन्तयन् |\nकेषु केषु च भावेषु चिन्त्योऽसि भगवन्मया ||१०-१७||",
+  "transliteration": "kathaṃ vidyāmahaṃ yogiṃstvāṃ sadā paricintayan .\nkeṣu keṣu ca bhāveṣu cintyo.asi bhagavanmayā ||10-17||",
+  "wordByWord": [
+    {
+      "term": "कथम्",
+      "meaning": "how"
+    },
+    {
+      "term": "परिचिन्तयन्",
+      "meaning": "contemplating continually"
+    },
+    {
+      "term": "भावेषु",
+      "meaning": "in forms, aspects or things"
+    },
+    {
+      "term": "चिन्त्यः",
+      "meaning": "to be contemplated"
+    }
+  ],
+  "spokenHindi": "अर्जुन का प्रश्न अब बहुत उपयोगी रूप लेता है। वे कहते हैं कि सदा चिंतन करते हुए आपको कैसे जानूँ, और किन किन रूपों में आपके बारे में सोचूँ? बड़े विचार को सुन लेना एक बात है; ध्यान में उसे टिकाना दूसरी। भावेषु का अर्थ यहाँ वे रूप या पहलू हैं जिनमें चिंतन का सहारा मिल सके। अर्जुन कृष्ण को योगिन कहकर संबोधित करते हैं, और अपनी जरूरत छिपाते नहीं। उन्हें केवल एक सिद्धांत की स्वीकृति नहीं, उसे जीने और याद रखने का रास्ता चाहिए। श्लोक इस समय प्रश्न है; उसका जवाब अपने मन से भरकर अर्जुन के शब्दों में जोड़ना ठीक नहीं होगा। हमारे अध्ययन में इसकी सीख यह हो सकती है कि अस्पष्टता को स्पष्ट प्रश्न बनाया जाए। ध्यान भटकता हो तो खुद को दोष देने के बजाय पूछें कि अभी कौन सा सीमित आधार मदद करेगा। कोई शब्द, पाठ का एक वाक्य या प्रकृति का शांत दृश्य हमारा चुना सहारा हो सकता है, लेकिन उस चुनाव को कृष्ण की अभी दी हुई सूची समझकर पेश न करें।",
+  "clearEnglish": "Arjuna asks a question about method, not merely about doctrine. How can he know Krishna while continually contemplating him, and in which aspects should contemplation be placed? A universal claim can be difficult to hold in attention. The question seeks accessible points of focus within that universality. Bhaveshu therefore concerns aspects or forms in this context, rather than only emotions. Arjuna's willingness to ask also shows that acceptance of the teaching has not automatically supplied a workable contemplative approach. We should hear the question before importing the answer from later verses. A modern learner can follow its form by identifying where understanding becomes difficult to sustain. Instead of saying simply that concentration is poor, ask what object or phrase is suitable for this particular period of study. A brief, chosen focus may make the task manageable. That is our application, not an additional item in Krishna's forthcoming list. The question preserves both the desire to know and the need for practical guidance.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna asks how and in which aspects Krishna is to be contemplated."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Turning vague difficulty into a specific question can aid study; the present verse supplies no list of answers."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Choose a study question",
+      "text": "After reading one passage, name exactly what you cannot yet hold clearly in mind. Spend two minutes considering that one question."
+    }
+  ],
+  "reflectionQuestion": "What kind of focus would help me understand this teaching more steadily?",
+  "reflectionQuestionHindi": "इस शिक्षा को अधिक स्थिरता से समझने के लिए किस तरह का आधार मुझे मदद देगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "bg-03-025",
+  "sequenceNumber": 144,
+  "date": "2026-10-05",
+  "chapter": 3,
+  "verseStart": 25,
+  "verseEnd": 25,
+  "chapterNameSanskrit": "कर्मयोग",
+  "chapterNameEnglish": "Karma Yoga",
+  "theme": "कर्म, अज्ञान और लोकसंग्रह — action, ignorance, and world welfare",
+  "context": "Krishna has just taught that the wise do not cease action by abandoning duty; now he clarifies the difference between attachment-driven conduct and wisdom-led action for the welfare of others.",
+  "contextHindi": "कृष्ण ने पहले ही समझाया था कि ज्ञानी कर्म छोड़कर नहीं चलता; अब वे यह स्पष्ट करते हैं कि आसक्ति से प्रेरित कर्म और विवेक से किया गया लोकहितकारी कर्म में क्या अंतर है।",
+  "sanskritDevanagari": "सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत |\nकुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसंग्रहम् ||३-२५||",
+  "transliteration": "saktāḥ karmaṇyavidvāṃso yathā kurvanti bhārata .\nkuryādvidvāṃstathāsaktaścikīrṣurlokasaṃgraham ||3-25||",
+  "wordByWord": [
+    {
+      "term": "सक्ताः",
+      "meaning": "attached, bound, entangled; driven by grasping and desire"
+    },
+    {
+      "term": "कर्मणि",
+      "meaning": "in action; in the field of duty and work"
+    },
+    {
+      "term": "विद्वांसः",
+      "meaning": "the wise or the knowledgeable; not merely educated, but discerning"
+    },
+    {
+      "term": "लोकसंग्रहम्",
+      "meaning": "welfare, uplift, or stabilizing the world; service through right action"
+    },
+    {
+      "term": "चिकीर्षुः",
+      "meaning": "desiring to do; intending to act with purpose"
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण अज्ञानी और ज्ञानी व्यक्ति के कर्म का अंतर बताते हैं। अज्ञानी व्यक्ति कर्म में आसक्त होकर काम करता है। ज्ञानी भी कर्म करता है, लेकिन बिना आसक्ति के और लोकसंग्रह के उद्देश्य से। 'सक्ताः' का अर्थ है आसक्त लोग और 'विद्वांसः' का अर्थ है ज्ञानी लोग। 'लोकसंग्रह' का अर्थ है लोक का कल्याण या जगत का संरक्षण। यहाँ बात केवल अपना लाभ पाने की नहीं, बल्कि ऐसे कर्म की है जिससे व्यापक भलाई हो। कृष्ण यह नहीं कहते कि ज्ञानी व्यक्ति कर्म छोड़ दे। वह अपने काम को जिम्मेदारी से करता है, पर अपने फल को लेकर बँधता नहीं। हमारे जीवन में इसका अर्थ हो सकता है कि हम अपना काम ईमानदारी से करें और यह भी देखें कि उससे दूसरों को क्या लाभ होता है। दूसरों के लिए उपयोगी होना इस श्लोक की शिक्षा को व्यवहार में लाने का एक तरीका है।",
+  "clearEnglish": "Krishna contrasts the actions of the attached with the actions of the wise. The verse says that those who are not wise act with attachment, while the wise should act without attachment, seeking lokasaṃgraha—the welfare or preservation of the world. It does not name pride or ego as motives here. In everyday life, this can mean doing work responsibly without becoming dependent on praise, fear, or gain. The verse does not ask the wise to become inactive; it presents engaged action without attachment as a way to serve a wider good. One practical interpretation is that people may learn from the conduct of those around them, so a steady example can be helpful. That is an application of the verse, not a separate literal definition of lokasaṃgraha.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse states that the ignorant act from attachment, while the wise act with a desire for the welfare of the world. It does not say that every form of social action is automatically virtuous; the key issue is motive, awareness, and self-control."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Krishna’s teaching implies that moral influence is strongest when a person is internally stable. The wise person does not stir confusion by preaching in a self-important way; they embody a steadier way of acting and invite others through example."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Do duty, not ego",
+      "text": "When you complete a task, focus on quality and responsibility rather than on applause, recognition, or the fear of criticism. Let the work be useful, not self-dramatizing."
+    },
+    {
+      "label": "Guide by example",
+      "text": "If someone around you is agitated or confused, respond with calm structure and practical support rather than a lecture. Your steadiness can be more effective than your opinions."
+    }
+  ],
+  "reflectionQuestion": "How do I know when I am acting for service and when I am acting to protect my ego?",
+  "reflectionQuestionHindi": "मैं कैसे जान सकता हूँ कि मैं सेवा के लिए कर्म कर रहा हूँ या अपने अहंकार की रक्षा के लिए?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

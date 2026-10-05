@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-010",
+  "sequenceNumber": 499,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 10,
+  "verseEnd": 10,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Care without possessive identification / अधिकार की पकड़ बिना देखभाल",
+  "context": "Krishna continues the knowledge list with nonattachment toward family and home and even-mindedness in desirable and undesirable outcomes.",
+  "contextHindi": "कृष्ण परिवार और घर से अनासक्ति तथा पसंद और नापसंद परिणामों में समचित्तता बताते हैं।",
+  "sanskritDevanagari": "असक्तिरनभिष्वङ्गः पुत्रदारगृहादिषु |\nनित्यं च समचित्तत्वमिष्टानिष्टोपपत्तिषु ||१३-१०||",
+  "transliteration": "asaktiranabhiṣvaṅgaḥ putradāragṛhādiṣu .\nnityaṃ ca samacittatvamiṣṭāniṣṭopapattiṣu ||13-10||",
+  "wordByWord": [
+    {
+      "term": "asaktiḥ",
+      "meaning": "nonattachment; अनासक्ति"
+    },
+    {
+      "term": "anabhiṣvaṅgaḥ",
+      "meaning": "absence of clinging identification"
+    },
+    {
+      "term": "putradāragṛhādiṣu",
+      "meaning": "toward child, spouse, home, and the like"
+    },
+    {
+      "term": "samacittatvam",
+      "meaning": "even-mindedness"
+    },
+    {
+      "term": "iṣṭāniṣṭopapattiṣu",
+      "meaning": "when desired or undesired events arise"
+    }
+  ],
+  "spokenHindi": "कृष्ण परिवार, जीवनसाथी, घर और ऐसी चीजों के प्रति अनासक्ति तथा चिपकी हुई पहचान का अभाव बताते हैं। साथ ही प्रिय और अप्रिय घटनाओं में लगातार समचित्तता रखते हैं। श्लोक की भाषा में पुत्र और पत्नी आते हैं, लेकिन यहाँ परिवार के अधिकार या किसी लिंग की आध्यात्मिक कम कीमत की घोषणा नहीं है। अपने समय में इसका अनुप्रयोग बच्चों और जीवनसाथी की स्वतंत्रता का सम्मान करते हुए किया जा सकता है। प्रेम के नाम पर हर चुनाव नियंत्रित करना और देखभाल करना अलग बातें हैं। यह आधुनिक व्याख्या है। अनासक्ति से जरूरी जिम्मेदारी समाप्त नहीं होती। किसी की सहायता, सुनना और अपनी सीमा स्पष्ट रखना साथ संभव है। आज किसी प्रिय व्यक्ति की छोटी पसंद सुनें, जिसमें सुरक्षा का मुद्दा न हो, और बिना अपनी इच्छा थोपे समझें। परिणाम पसंद का न आए तो भाव को पहचानें, फिर उचित प्रतिक्रिया चुनें। समता का अर्थ दुख को छिपाना या संबंध से गायब हो जाना नहीं; वह संबंध में अधिकार की अनावश्यक पकड़ ढीली करने की दिशा दे सकती है।",
+  "clearEnglish": "The verse names nonattachment and absence of clinging identification toward child, spouse, home, and similar concerns, together with even-mindedness when desired or undesired events occur. Its family wording does not establish a claim of lesser spiritual worth for any sex or a license to exercise ownership over relatives. A contemporary interpretation can instead distinguish caring commitment from possessive identification. A loved person's choice may disappoint us without becoming evidence that our entire self has been rejected. Care can continue while control is questioned. This application is not a literal social policy stated by the verse. Nor does nonattachment excuse abandoning dependents or avoiding communication. A manageable practice is to hear a safe preference without immediately replacing it with one's own demand. If disappointment follows, acknowledge the feeling and decide what response serves the relationship responsibly. Even-mindedness can support that decision without erasing grief, boundaries, or the practical duties that make affection reliable rather than merely sentimental.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Nonattachment toward child, spouse, home, and the like, and even-mindedness in desired and undesired occurrences continue the knowledge list."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Respecting a loved one's autonomy applies nonclinging without removing care, safety, or responsibilities."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Listen to one safe preference of a loved person without immediately turning it into your own demand."
+    }
+  ],
+  "reflectionQuestion": "Where have I confused care with the need to control another person's choice?",
+  "reflectionQuestionHindi": "मैंने कहाँ देखभाल को दूसरे की पसंद नियंत्रित करने की जरूरत समझ लिया है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

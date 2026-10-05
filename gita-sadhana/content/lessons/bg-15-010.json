@@ -1,0 +1,71 @@
+{
+  "id": "bg-15-010",
+  "sequenceNumber": 561,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 10,
+  "verseEnd": 10,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "The eye of knowledge / ज्ञान की दृष्टि",
+  "context": "Krishna contrasts failure to discern the embodied individual with seeing through knowledge during departure, residence, and experience.",
+  "contextHindi": "कृष्ण देह में रहने, अनुभव करने और निकलने वाले जीव को ज्ञान की दृष्टि से देखने का अंतर बताते हैं।",
+  "sanskritDevanagari": "उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम् |\nविमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुषः ||१५-१०||",
+  "transliteration": "utkrāmantaṃ sthitaṃ vāpi bhuñjānaṃ vā guṇānvitam .\nvimūḍhā nānupaśyanti paśyanti jñānacakṣuṣaḥ ||15-10||",
+  "wordByWord": [
+    {
+      "term": "utkrāmantam",
+      "meaning": "departing; निकलते हुए"
+    },
+    {
+      "term": "sthitam",
+      "meaning": "remaining; स्थित"
+    },
+    {
+      "term": "bhuñjānam",
+      "meaning": "experiencing or enjoying"
+    },
+    {
+      "term": "guṇānvitam",
+      "meaning": "associated with the qualities"
+    },
+    {
+      "term": "jñānacakṣuṣaḥ",
+      "meaning": "those with the eye of knowledge"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि मोहग्रस्त लोग गुणों से जुड़े हुए इस जीव को जाते, रहते या अनुभव करते नहीं देखते, पर ज्ञान की आँख वाले उसे देखते हैं। यहाँ देखना केवल शरीर की आँख से किसी चीज को पकड़ लेना नहीं। ‘ज्ञानचक्षु’ समझ की दृष्टि की छवि है। इसे शारीरिक दृष्टिहीनता या कम औपचारिक शिक्षा से जोड़कर लोगों की आध्यात्मिक कीमत तय करना गलत होगा। श्लोक का प्रसंग जीव और देह का संबंध है, सामान्य दृश्य पहचान की परीक्षा नहीं। बहुत कुछ दिखाई दे सकता है, फिर भी उसके अर्थ के बारे में हमारा अनुमान अधूरा रहता है। अपने दिन की तुलना में किसी व्यक्ति का व्यवहार देखकर उसकी पूरी कहानी तय कर देना ऐसा अधूरापन हो सकता है। यह आधुनिक उदाहरण है, जीव के प्रस्थान का प्रमाण नहीं। आज एक जल्द निष्कर्ष रोकें। देखें कि सच में क्या मालूम है, क्या अनुमान है और कौन सा प्रश्न अभी खुला है। ज्ञान की दृष्टि की खोज में विनम्रता हमारी सुनने और सीखने की क्षमता को जगह देती है।",
+  "clearEnglish": "Krishna says the deluded do not discern the individual departing, remaining, or experiencing in association with the qualities; those with the eye of knowledge see. The contrast concerns insight into embodiment, not merely the functioning of physical sight. Jñānacakṣus is a metaphor for knowing perception, and it gives no basis for ranking people by visual ability or formal educational credentials. The verse's claim reaches into the soul's relation to a body, including departure. We should keep that religious scope distinct from an ordinary observation exercise. Still, the image can question the confidence with which visible behavior is treated as a complete explanation. Seeing someone act impatiently does not tell us every relevant condition or establish their whole identity. A modest application is to distinguish observed facts from the interpretation placed upon them. Ask a clarifying question when appropriate, and leave unknown matters unknown. Such restraint does not claim spiritual vision; it makes room for better understanding before judgment.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Those with the eye of knowledge discern the embodied individual in departure, residence, and guna-associated experience; the deluded do not."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Separating facts from assumptions is a modest application of knowing perception, not proof of spiritual vision or a ranking by disability."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Revisit one quick judgment and distinguish what you observed from what you inferred."
+    }
+  ],
+  "reflectionQuestion": "What am I claiming to know merely because I saw one outward behavior?",
+  "reflectionQuestionHindi": "एक बाहरी व्यवहार देखकर मैं क्या पूरी तरह जान लेने का दावा कर रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "bg-09-015",
+  "sequenceNumber": 353,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 15,
+  "verseEnd": 15,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "एक, पृथक और अनेक रूपों में उपासना | One, distinct, and manifold",
+  "context": "Krishna describes other worshippers who approach him through the sacrifice of knowledge.",
+  "contextHindi": "कृष्ण ज्ञानयज्ञ के माध्यम से अपनी उपासना करने वाले अन्य साधकों का वर्णन करते हैं।",
+  "sanskritDevanagari": "ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते |\nएकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम् ||९-१५||",
+  "transliteration": "jñānayajñena cāpyanye yajanto māmupāsate .\nekatvena pṛthaktvena bahudhā viśvatomukham ||9-15||",
+  "wordByWord": [
+    {
+      "term": "ज्ञानयज्ञेन",
+      "meaning": "By the sacrifice of knowledge."
+    },
+    {
+      "term": "एकत्वेन",
+      "meaning": "As one or through oneness."
+    },
+    {
+      "term": "पृथक्त्वेन",
+      "meaning": "As distinct or through separateness."
+    },
+    {
+      "term": "बहुधा",
+      "meaning": "In many ways or manifold."
+    },
+    {
+      "term": "विश्वतोमुखम्",
+      "meaning": "Facing all directions; the all-faced."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि अन्य लोग ज्ञानयज्ञ द्वारा उनकी उपासना करते हैं: एक रूप में, पृथक रूप में और अनेक रूपों में, उन्हें विश्वतोमुख मानते हुए। ज्ञानयज्ञ शब्द में ज्ञान और अर्पण साथ हैं। श्लोक इन तरीकों को नाम देता है, पर किसी आधुनिक दार्शनिक विद्यालय की विस्तृत परिभाषा नहीं देता। एकत्व, पृथक्त्व और बहुधा को बिना स्रोत के किसी निश्चित संप्रदाय में बाँध देना जल्दी होगी। हमें पहले वही भेद समझना है जो शब्द दिखाते हैं। विश्वतोमुख का चित्र सब ओर मुख वाला है, यानी उपासना में व्यापक रूप सामने आता है। आधुनिक चिंतन में हम अपने सीखने के ढंग को देख सकते हैं: क्या मैं केवल अपनी परिचित अभिव्यक्ति को मानकर बाकी को अनसुना करता हूँ? इस प्रश्न का अर्थ सब विचारों को समान रूप से सही मानना नहीं। उनके तर्क और परिणाम परखना भी ज़रूरी है। उपासना की विविध तस्वीर सुनने से संवाद में विनम्रता आ सकती है। यह हमारा अनुप्रयोग है। मूल श्लोक कृष्ण की ज्ञानयज्ञ द्वारा एक, पृथक और अनेक प्रकार से उपासना को बताता है।",
+  "clearEnglish": "Krishna describes others who worship him through a knowledge sacrifice, as one, as distinct, and in manifold ways, addressing the all-faced reality. The three expressions should remain visible rather than being collapsed into a single statement that all approaches are identical. The verse names modes of worship but does not provide detailed definitions of philosophical schools or identify their institutional histories. Attaching those names would require additional evidence. Jnana-yajna also joins knowledge with the language of sacrifice, placing inquiry within devotional worship rather than depicting it as mere collection of facts. A modern application may be openness to understanding a different expression before evaluating it. Openness is compatible with asking whether an idea is coherent and whether its practice respects people. It is not the claim that every belief has equal truth. The passage can therefore encourage humility in dialogue while retaining Krishna as the object of worship and preserving the distinctions he names. Careful study hears variety without inventing an unsupported taxonomy.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Other worshippers approach Krishna through knowledge sacrifice as one, as distinct, and as manifold, the all-faced."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The named variety may encourage careful listening to unfamiliar expressions, without declaring every claim identical or equally true."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Understand a different expression",
+      "text": "When meeting a different devotional expression, ask what its practitioner means before evaluating it."
+    }
+  ],
+  "reflectionQuestion": "Can I understand a different expression without flattening its differences?",
+  "reflectionQuestionHindi": "क्या मैं भिन्न उपासना को समझते हुए उसके अंतर भी स्पष्ट रख सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

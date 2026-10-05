@@ -1,0 +1,67 @@
+{
+  "id": "bg-12-018",
+  "sequenceNumber": 487,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 18,
+  "verseEnd": 18,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "मित्र और शत्रु में समता / Evenness toward friend and foe",
+  "context": "Krishna begins a further description of evenness toward friend and foe, honor and dishonor, and changing conditions.",
+  "contextHindi": "कृष्ण मित्र शत्रु, मान अपमान, सर्दी गर्मी और सुख दुख में समता का अगला वर्णन शुरू करते हैं।",
+  "sanskritDevanagari": "समः शत्रौ च मित्रे च तथा मानापमानयोः |\nशीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः ||१२-१८||",
+  "transliteration": "samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ .\nśītoṣṇasukhaduḥkheṣu samaḥ saṅgavivarjitaḥ ||12-18||",
+  "wordByWord": [
+    {
+      "term": "शत्रौ मित्रे",
+      "meaning": "toward foe and friend"
+    },
+    {
+      "term": "मानापमानयोः",
+      "meaning": "in honor and dishonor"
+    },
+    {
+      "term": "शीतोष्ण",
+      "meaning": "cold and heat"
+    },
+    {
+      "term": "सङ्गविवर्जितः",
+      "meaning": "free from attachment"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि भक्त शत्रु और मित्र, मान और अपमान, सर्दी और गर्मी, सुख और दुख में सम है और आसक्ति से मुक्त है। वाक्य का आगे का हिस्सा अगले श्लोक में आएगा। विपरीत स्थितियों की यह सूची हमें बाहरी बदलाव की कई दिशाएँ सुनाती है। किसी का व्यवहार, हमारी प्रतिष्ठा और शरीर को मिलने वाली परिस्थिति अलग अलग विषय हैं। समता को हर व्यक्ति पर समान भरोसा रखना या हर मौसम में सुरक्षा भूलना नहीं बनाना चाहिए। गर्मी में पानी और सर्दी में उचित बचाव की जरूरत बनी रहती है। ये हमारी जिम्मेदार सीमाएँ हैं, पाठ के जोड़े हुए वैज्ञानिक नियम नहीं। मित्र और विरोधी के प्रति मूल गरिमा रखी जा सकती है, जबकि व्यवहार के अनुसार सीमा अलग हो। आज किसी आलोचना में उपयोगी तथ्य और अपमानपूर्ण लहजा अलग पहचानें। तथ्य का जवाब दें, लेकिन अपनी कीमत को पूरे तौर पर प्रशंसा या निंदा के हाथ न सौंपें। यह छोटा अभ्यास आध्यात्मिक समता की पूर्ण अवस्था नहीं, उसकी दिशा में हमारी सीमित जांच है।",
+  "clearEnglish": "The pairs cover relationships, reputation, bodily conditions and feeling: foe and friend, honor and dishonor, cold and heat, pleasure and pain. Krishna describes evenness and freedom from attachment, with the sentence continuing into the next verse. The range should be retained rather than treating the verse solely as advice about criticism. A responsible application also distinguishes evenness from identical trust or indifference to physical safety. Regard for a person can coexist with different boundaries based on conduct. Cold and heat still call for ordinary protective care. Those are practical limits, not extra rules stated in the verse. A useful exercise is to separate the content of feedback from the manner in which it was delivered. Address a valid point without handing the whole value of oneself to praise or contempt. This does not claim that the spiritual ideal is already complete. It gives one ordinary setting in which reaction and attachment can be observed while preserving safety, discernment and basic regard.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes evenness across the named opposing conditions and freedom from attachment; the sentence continues."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Evenness can coexist with differing trust, protective care and appropriate boundaries."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Separate feedback and tone",
+      "text": "In one piece of criticism, identify any useful factual point separately from an insulting tone. Respond to the point and keep a respectful boundary."
+    }
+  ],
+  "reflectionQuestion": "Can I hear useful feedback without surrendering my whole self-worth to it?",
+  "reflectionQuestionHindi": "क्या मैं उपयोगी प्रतिक्रिया सुन सकता हूँ, अपनी पूरी कीमत उसके हवाले किए बिना?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

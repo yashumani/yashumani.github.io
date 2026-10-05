@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-010",
+  "sequenceNumber": 633,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 10,
+  "verseEnd": 10,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "अप्रिय और प्रिय काम / Disagreeable and agreeable work",
+  "context": "Krishna describes the discerning renouncer as neither hating disagreeable work nor clinging to agreeable work.",
+  "contextHindi": "कृष्ण विवेकी त्यागी को अप्रिय काम से द्वेष न करने और प्रिय काम से न चिपकने वाला बताते हैं।",
+  "sanskritDevanagari": "न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते |\nत्यागी सत्त्वसमाविष्टो मेधावी छिन्नसंशयः ||१८-१०||",
+  "transliteration": "na dveṣṭyakuśalaṃ karma kuśale nānuṣajjate .\ntyāgī sattvasamāviṣṭo medhāvī chinnasaṃśayaḥ ||18-10||",
+  "wordByWord": [
+    {
+      "term": "akuśalam karma",
+      "meaning": "Disagreeable work in the supplied edition's reading"
+    },
+    {
+      "term": "kuśale",
+      "meaning": "In agreeable work in this context"
+    },
+    {
+      "term": "nānuṣajjate",
+      "meaning": "Does not become attached"
+    },
+    {
+      "term": "chinnasaṃśayaḥ",
+      "meaning": "Whose doubts are cut through"
+    }
+  ],
+  "spokenHindi": "कृष्ण त्यागी का वर्णन करते हैं जो सत्त्व से भरा, समझदार और संशय से मुक्त है। वह अप्रिय कर्म से द्वेष नहीं करता और प्रिय कर्म से चिपकता नहीं। स्रोत की पढ़त में यहां कुशल और अकुशल प्रिय तथा अप्रिय काम की दिशा में समझाए गए हैं। इसे गलत काम पसंद करने का आदेश न बनाएं। प्रसंग जिम्मेदार कर्म और आसक्ति की चर्चा है। पसंद या नापसंद से ऊपर उठकर काम की जरूरत देखना एक उपयोगी आधुनिक अभ्यास हो सकता है। कोई छोटा जरूरी काम उबाऊ लगता है, इसलिए हम उससे क्रोधित हो जाते हैं। कोई रोचक काम अच्छा लगता है, इसलिए बाकी जिम्मेदारियाँ छोड़कर उसी में लगे रहते हैं। दोनों में भावना चुनाव पर ज्यादा अधिकार ले सकती है। आज अपने कामों में एक कम प्रिय जिम्मेदारी को उचित समय दें और एक पसंदीदा काम की साफ सीमा तय करें। परिस्थिति और सुरक्षा की जांच बनी रहे। अपने भीतर के आकर्षण को पहचानना उसे मिटा देना नहीं; उसके बावजूद संतुलित व्यवहार चुनने की जगह बनाना है।",
+  "clearEnglish": "Krishna describes the renouncer, filled with sattva, discerning and free of doubt, as neither hating disagreeable work nor attaching to agreeable work. The supplied edition reads the terms kuśala and akuśala here through agreeable and disagreeable action. That contextual reading matters: the verse should not be presented as a recommendation to welcome wrongdoing. It continues the account of responsible action without clinging. A modern application can examine how preference distorts the allocation of effort. An uninteresting obligation may attract resentment, while an enjoyable activity consumes attention needed elsewhere. The aim is not to eliminate all preference, but to prevent liking and disliking from deciding the whole schedule. Choose one legitimate, less appealing responsibility and give it an appropriate period of attention. Set a reasonable stopping point for one enjoyable task as well. These are practical examples rather than promises of spiritual attainment. Discernment remains important, including the difference between ordinary discomfort and circumstances that require protection or change.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes the discerning renouncer as not hating disagreeable work or clinging to agreeable work, following the supplied edition's contextual reading."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Balancing attention between legitimate tasks is a modern application, not acceptance of wrongdoing."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Balance preference",
+      "text": "Give one less appealing duty a bounded time and set a reasonable limit on one enjoyable activity."
+    }
+  ],
+  "reflectionQuestion": "Where is preference deciding more than responsibility?",
+  "reflectionQuestionHindi": "कहाँ पसंद या नापसंद जिम्मेदारी से अधिक फैसला कर रही है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

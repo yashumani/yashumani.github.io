@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-072",
+  "sequenceNumber": 695,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 72,
+  "verseEnd": 72,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Krishna checks Arjuna's understanding / कृष्ण अर्जुन से समझ पूछते हैं",
+  "context": "At the close of his teaching, Krishna asks Arjuna whether he listened with focused mind and whether confusion born of ignorance has ended.",
+  "contextHindi": "उपदेश के अंत में कृष्ण पूछते हैं कि अर्जुन ने एकाग्र मन से सुना या नहीं और उसकी उलझन मिट गई या नहीं।",
+  "sanskritDevanagari": "कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा |\nकच्चिदज्ञानसम्मोहः प्रनष्टस्ते धनञ्जय ||१८-७२||",
+  "transliteration": "kaccidetacchrutaṃ pārtha tvayaikāgreṇa cetasā .\nkaccidajñānasammohaḥ pranaṣṭaste dhanañjaya ||18-72||",
+  "wordByWord": [
+    {
+      "term": "kaccit",
+      "meaning": "has it, asking a concerned question"
+    },
+    {
+      "term": "ekāgreṇa cetasā",
+      "meaning": "with a focused mind"
+    },
+    {
+      "term": "ajñāna sammohaḥ",
+      "meaning": "bewilderment arising from ignorance"
+    },
+    {
+      "term": "pranaṣṭaḥ",
+      "meaning": "gone or destroyed"
+    },
+    {
+      "term": "dhanañjaya",
+      "meaning": "an epithet addressing Arjuna"
+    }
+  ],
+  "spokenHindi": "इतनी लंबी शिक्षा के अंत में कृष्ण अपना निष्कर्ष थोपते नहीं, अर्जुन से दो प्रश्न पूछते हैं। हे पार्थ, क्या तुमने इसे एकाग्र मन से सुना? हे धनंजय, क्या अज्ञान से पैदा हुई तुम्हारी उलझन मिट गई? यहाँ एकाग्रेण चेतसा सुनने की गुणवत्ता पर ध्यान देता है। दूसरा प्रश्न असर के बारे में है: शब्द कान तक पहुँचे, पर क्या समझ बदली? यह पूछना और उत्तर की जगह देना संवाद को जीवित रखता है। अर्जुन की उलझन का फैसला कृष्ण उसके स्थान पर घोषित नहीं करते। हमें भी इससे सीख मिल सकती है कि सलाह देने के बाद सामने वाले की समझ पूछें, और उसके उत्तर को सचमुच सुनें। यह हमारी बातचीत के लिए अनुमान है; श्लोक में कोई आधुनिक शिक्षण विधि नहीं लिखी। कोई व्यक्ति अभी भी उलझा हो तो यह उसकी कमी का प्रमाण नहीं। कठिन निर्णयों में समय, और कभी भरोसेमंद सहायता, दोनों की जरूरत हो सकती है। कृष्ण का प्रश्न हमें जल्दबाजी से बचाता है: क्या मैंने ठीक से सुना, और किस बात पर अब भी सवाल बाकी है?",
+  "clearEnglish": "Krishna does not end by narrating Arjuna's inner state for him. He asks whether Arjuna heard with a concentrated mind and whether bewilderment born of ignorance has disappeared. The two questions distinguish attention from outcome. One may listen intently and still need to name a remaining doubt. The names Pārtha and Dhanañjaya keep the address personal, within a relationship developed across the dialogue. We should not recast the verse as a general diagnosis that anyone who hesitates is ignorant. Krishna is asking this particular Arjuna about the particular confusion that opened the Gita. A contemporary inference is to close a serious conversation with a check of understanding rather than assume that eloquence has settled everything. The other person can then correct what was misunderstood or say they need more time. In our own reading, we might identify one teaching we can explain and one question we still hold. That preserves honest agency and prepares us to hear Arjuna's answer in the next verse.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna asks Arjuna whether he listened with one pointed attention and whether his ignorance born delusion has ended."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Checking understanding and allowing an honest answer is a useful conversational practice, not a diagnosis of every hesitant person."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Check understanding / समझ जाँचें",
+      "text": "After explaining something important, ask what the other person heard and what remains unclear."
+    }
+  ],
+  "reflectionQuestion": "What part of this dialogue can I explain clearly, and what question remains open?",
+  "reflectionQuestionHindi": "इस संवाद की कौन सी बात मैं साफ समझा सकता या सकती हूँ, और कौन सा प्रश्न अभी बाकी है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

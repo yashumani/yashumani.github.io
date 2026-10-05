@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-021",
+  "sequenceNumber": 393,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 21,
+  "verseEnd": 21,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "आकाश में ध्यान के संकेत / Celestial points of recognition",
+  "context": "Krishna begins category-based examples with Vishnu, the sun, Marichi and the moon.",
+  "contextHindi": "कृष्ण आदित्यों, प्रकाशवान पिंडों, मरुतों और नक्षत्रों के बीच प्रमुख उदाहरण देते हैं।",
+  "sanskritDevanagari": "आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् |\nमरीचिर्मरुतामस्मि नक्षत्राणामहं शशी ||१०-२१||",
+  "transliteration": "ādityānāmahaṃ viṣṇurjyotiṣāṃ raviraṃśumān .\nmarīcirmarutāmasmi nakṣatrāṇāmahaṃ śaśī ||10-21||",
+  "wordByWord": [
+    {
+      "term": "आदित्यानाम्",
+      "meaning": "among the Adityas"
+    },
+    {
+      "term": "रविः अंशुमान्",
+      "meaning": "the radiant sun"
+    },
+    {
+      "term": "मरुताम्",
+      "meaning": "among the Maruts"
+    },
+    {
+      "term": "शशी",
+      "meaning": "the moon"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि आदित्यों में वे विष्णु हैं, प्रकाशवान पिंडों में किरणों वाला सूर्य, मरुतों में मरीचि और नक्षत्रों में चंद्रमा हैं। ये चार उदाहरण धार्मिक देवसमूह और दिखाई देने वाले आकाश को साथ लाते हैं। सूर्य की चमक और रात में चंद्रमा की उपस्थिति सुनने वाले के लिए सुलभ संकेत हैं। नक्षत्राणाम् का प्रयोग इस काव्यात्मक धार्मिक सूची में है; इससे आज की खगोलशास्त्रीय श्रेणियाँ तय नहीं करनी चाहिए। मरुतों के बारे में दिए गए संस्करण में सात या उनचास का उल्लेख है, इसलिए संख्या को एक निर्विवाद आधुनिक गणना बनाना भी जरूरी नहीं। ध्यान का काम यहाँ महिमा को पहचानना है। आज सुरक्षित जगह से दिन के प्रकाश या शाम के आकाश को देख सकते हैं। सीधे सूर्य में देखना अभ्यास का हिस्सा न बनाएं। दृश्य की सुंदरता को तुरंत तस्वीर या स्वामित्व में बदलने के बजाय एक क्षण उसकी उपस्थिति के साथ रहें। यह हमारे समय का प्रयोग है; श्लोक स्वयं आकाश देखने की कोई निश्चित दिनचर्या नहीं देता।",
+  "clearEnglish": "Four identifications move between sacred cosmology and visible sky: Vishnu among the Adityas, the radiant sun among luminaries, Marichi among the Maruts, and the moon among the nakshatras. Their arrangement gives Arjuna recognizable points of contemplation. It is a poetic catalogue of prominence, not a technical classification in modern astronomy. In particular, the moon's placement in the celestial group should be read within that literary setting. The supplied edition also preserves alternative counts for the Maruts, which cautions against turning every category into a rigid numerical claim. The sun and moon can be encountered directly as features of ordinary life, while the named divine groups carry inherited religious associations. A modest practice is to observe daylight or the evening sky from a safe position and attend to what is present before reaching for a camera. Directly staring at the sun is unnecessary and unsafe. Such observation is our application, and the verse itself specifies the identifications rather than an observation routine.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies prominent celestial examples within four religious and natural categories."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Safe observation of light or sky can support contemplation; this catalogue is not a modern astronomical classification."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Attend to light",
+      "text": "Notice daylight on a wall or look at the evening sky from a safe place for one minute. Let observation precede photographing; do not look directly at the sun."
+    }
+  ],
+  "reflectionQuestion": "When did I last notice light without immediately using or recording it?",
+  "reflectionQuestionHindi": "मैंने आखिरी बार प्रकाश को बिना इस्तेमाल या रिकॉर्ड करने की जल्दी के कब देखा था?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

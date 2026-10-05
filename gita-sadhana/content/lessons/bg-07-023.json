@@ -1,0 +1,71 @@
+{
+  "id": "bg-07-023",
+  "sequenceNumber": 303,
+  "date": "2026-10-05",
+  "chapter": 7,
+  "verseStart": 23,
+  "verseEnd": 23,
+  "chapterNameSanskrit": "ज्ञानविज्ञानयोग",
+  "chapterNameEnglish": "Jñāna Vijñāna Yoga",
+  "theme": "सीमित फल और भक्ति का लक्ष्य | Finite fruits and devotional destinations",
+  "context": "Following the account of worship and desired results, Krishna distinguishes their finite fruits and the destinations of worshippers.",
+  "contextHindi": "आराधना से इच्छित फल मिलने की बात के बाद कृष्ण उन फलों की सीमा और उपासकों की गति बताते हैं।",
+  "sanskritDevanagari": "अन्तवत्तु फलं तेषां तद्भवत्यल्पमेधसाम् |\nदेवान्देवयजो यान्ति मद्भक्ता यान्ति मामपि ||७-२३||",
+  "transliteration": "antavattu phalaṃ teṣāṃ tadbhavatyalpamedhasām .\ndevāndevayajo yānti madbhaktā yānti māmapi ||7-23||",
+  "wordByWord": [
+    {
+      "term": "अन्तवत्",
+      "meaning": "Having an end; finite."
+    },
+    {
+      "term": "फलम्",
+      "meaning": "Fruit or result."
+    },
+    {
+      "term": "अल्पमेधसाम्",
+      "meaning": "Of those of small understanding."
+    },
+    {
+      "term": "देवयजः",
+      "meaning": "Worshippers of the gods."
+    },
+    {
+      "term": "मद्भक्ताः",
+      "meaning": "My devotees, Krishna's devotees."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि उन अल्प समझ वाले लोगों का फल अंत वाला है। देवताओं के उपासक देवताओं को जाते हैं और उनके भक्त उन्हें प्राप्त होते हैं। पिछले प्रसंग में इच्छाओं से प्रेरित पूजा और उससे मिले फल की बात थी। अब उसकी सीमा सामने आती है। अल्पमेधसाम् एक कठोर मूल्यांकन है, जिसे केवल अलग-अलग पसंद का शांत वर्णन बनाकर नहीं पढ़ना चाहिए। लेकिन इस शब्द को किसी समुदाय का अपमान करने की छूट मानना भी हमारा उचित नैतिक निष्कर्ष नहीं होगा। श्लोक उपासना के लक्ष्य और फल में अंतर बताता है। आधुनिक चिंतन में हम पूछ सकते हैं कि अपनी प्रार्थना से कौन-सा परिणाम चाहते हैं और उसकी सीमा क्या है। नौकरी मिलना, धन आना या कोई काम सफल होना मूल्यवान हो सकता है, पर ऐसे परिणाम बदलते हैं। इससे ज़रूरत के समय प्रार्थना करना गलत नहीं हो जाता। बस किसी विशेष लाभ को अंतिम आध्यात्मिक लक्ष्य समझ लेने की भूल से सावधान रह सकते हैं। यह व्यावहारिक उपमा है; श्लोक स्वयं देवताओं और कृष्ण की प्राप्ति का भेद रखता है।",
+  "clearEnglish": "The verse assesses the fruits described in the preceding worship discussion as finite. It also uses a strong descriptor, alpamedhasam, those of small understanding, and distinguishes destinations: worshippers of the gods go to them, while Krishna's devotees come to him. A faithful account should preserve that contrast rather than flatten all goals into an identical outcome. At the same time, the passage is not a warrant for insulting people or making inherited religious identity a measure of intelligence. That is an ethical safeguard in present interpretation. A useful modern reflection concerns the difference between a sought benefit and an ultimate aim. Material help or success may be welcome and meaningful without providing an unending refuge. Recognizing this limit does not make prayer in need shameful; it asks us to be honest about what we are seeking. The theological destinations in the verse remain more than a metaphor for short term satisfaction. Our application can clarify expectations while leaving the stated devotional distinction intact.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The fruit of those of small understanding is finite; worshippers of the gods go to the gods, and Krishna's devotees go to him."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "One can distinguish a sought benefit from an ultimate aim without using the verse to insult a religious community."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Name the result's limit",
+      "text": "Name one result you hope for and one limit it would still have if obtained."
+    }
+  ],
+  "reflectionQuestion": "Am I asking a limited result to serve as an unlimited refuge?",
+  "reflectionQuestionHindi": "क्या मैं किसी सीमित फल से असीम सुरक्षा की अपेक्षा रखता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "bg-07-012",
+  "sequenceNumber": 292,
+  "date": "2026-10-05",
+  "chapter": 7,
+  "verseStart": 12,
+  "verseEnd": 12,
+  "chapterNameSanskrit": "ज्ञानविज्ञानयोग",
+  "chapterNameEnglish": "Jñāna Vijñāna Yoga",
+  "theme": "Qualities arise from Krishna, yet Krishna exceeds them — गुण उनसे उत्पन्न हैं, फिर भी वे गुणों से परे हैं",
+  "context": "Having described particular expressions of divine presence, Krishna now speaks of the three guṇa categories: sāttvika, rājasa, and tāmasa. He says they arise from him and are in him, while he is not confined to them. The next verse will discuss how these qualities can obscure recognition of the divine.",
+  "contextHindi": "बल और इच्छा की चर्चा के बाद कृष्ण अब सत्त्व, रज और तम से जुड़े भावों का उल्लेख करते हैं। वे कहते हैं कि ये उनसे उत्पन्न होते हैं और उनमें स्थित हैं, लेकिन वे स्वयं इनमें सीमित नहीं हैं। अगला श्लोक बताएगा कि इन गुणों के प्रभाव में जगत उन्हें क्यों नहीं पहचानता।",
+  "sanskritDevanagari": "ये चैव सात्त्विका भावा राजसास्तामसाश्च ये |\nमत्त एवेति तान्विद्धि न त्वहं तेषु ते मयि ||७-१२||",
+  "transliteration": "ye caiva sāttvikā bhāvā rājasāstāmasāśca ye .\nmatta eveti tānviddhi na tvahaṃ teṣu te mayi ||7-12||",
+  "wordByWord": [
+    {
+      "term": "सात्त्विकाः (sāttvikāḥ)",
+      "meaning": "Associated with sattva, a guṇa often linked with clarity or harmony; not a complete label for a person."
+    },
+    {
+      "term": "राजसाः (rājasāḥ)",
+      "meaning": "Associated with rajas, often understood as activity, movement, or drive."
+    },
+    {
+      "term": "तामसाः (tāmasāḥ)",
+      "meaning": "Associated with tamas, often understood as inertia or obscuration. These are traditional interpretive associations, not fixed moral verdicts."
+    },
+    {
+      "term": "मत्तः (mattaḥ)",
+      "meaning": "From me; Krishna presents these states as arising from him."
+    },
+    {
+      "term": "न त्वहं तेषु ते मयि (na tv ahaṃ teṣu te mayi)",
+      "meaning": "They are in me, but I am not in them: the verse distinguishes their ground from being limited to them."
+    }
+  ],
+  "spokenHindi": "यहाँ कृष्ण सत्त्व, रज और तम से जुड़े भावों की बात करते हैं। परंपरागत व्याख्या में सत्त्व को स्पष्टता या संतुलन, रज को गतिविधि या बेचैनी, और तम को जड़ता या ढकाव से जोड़ा जाता है। ये संकेत हैं, किसी व्यक्ति को अच्छा या बुरा ठहराने की मुहर नहीं। **पाठ:** कृष्ण कहते हैं कि ये भाव उनसे उत्पन्न होते हैं और उनमें स्थित हैं, पर वे स्वयं उनमें सीमित नहीं हैं। यह एक धार्मिक और दार्शनिक कथन है; इसे आधुनिक विज्ञान का सिद्ध किया हुआ वर्णन समझना उचित नहीं होगा। **अनुमान:** जीवन में अलग-अलग मनःस्थितियाँ आती-जाती हैं, इसलिए किसी एक स्थिति को अपना पूरा स्वरूप मान लेना जल्दबाज़ी हो सकती है। फिर भी इसका अर्थ यह नहीं कि कर्मों के परिणाम महत्वहीन हैं। यदि बेचैनी में हम कठोर बोलें, तो उसकी जिम्मेदारी हमें लेनी होगी। श्लोक का उपयोग अपने मन की दशा को देखने में करें, उसे दूसरों पर आध्यात्मिक दर्जा तय करने के लिए नहीं। स्पष्टता आए तो उसका सहारा लें; जड़ता या आवेग दिखे तो रुककर अगला कदम सोचें।",
+  "clearEnglish": "The verse groups states or qualities as sāttvika, rājasa, and tāmasa, then makes a theological distinction: they arise from Krishna and exist in him, but he is not contained or exhausted by them. Traditional explanations often associate these guṇas with clarity, activity, and inertia or obscuration. Those associations can help readers notice changing patterns, but they should not be turned into permanent rankings of people. **TEXT:** Krishna says the three kinds of states come from him and are in him, while he is not in them. **INFERENCE:** If moods and tendencies are changing conditions rather than a whole identity, a person may have room to respond differently. That does not erase responsibility for harmful actions, and it does not establish an empirical account of psychology or physics. A practical reading is to notice what is shaping a decision: clarity, agitation, or avoidance. Then consider the decision's effects and take responsibility for it. The verse points beyond the qualities in its own theological frame; it does not invite contempt for people who seem caught in a difficult state.",
+  "interpretationPerspectives": [
+    {
+      "label": "Text",
+      "explanation": "Krishna says the sāttvika, rājasa, and tāmasa states arise from him and are in him, yet he is not confined to them."
+    },
+    {
+      "label": "Inference",
+      "explanation": "The guṇas can be used as a reflective lens for changing states, not as a permanent moral ranking. This application does not make the verse an empirical psychological claim."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Notice the state",
+      "text": "Before an important response, pause and name what seems most active: clarity, agitation, or avoidance. Then decide based on the likely effects, not the label alone."
+    },
+    {
+      "label": "Take responsibility",
+      "text": "If a difficult mood contributed to an unkind action, acknowledge its impact and choose a repair rather than excusing the action."
+    }
+  ],
+  "reflectionQuestion": "Which changing state is shaping one of my decisions today, and how can I respond without treating that state as my whole identity?",
+  "reflectionQuestionHindi": "आज मेरे किसी निर्णय को कौन-सी बदलती मनःस्थिति प्रभावित कर रही है, और मैं उसे अपना पूरा स्वरूप माने बिना कैसे उत्तर दे सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

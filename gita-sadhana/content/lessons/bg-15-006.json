@@ -1,0 +1,71 @@
+{
+  "id": "bg-15-006",
+  "sequenceNumber": 557,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 6,
+  "verseEnd": 6,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "An abode beyond borrowed illumination / बाहरी प्रकाश से परे धाम",
+  "context": "Krishna describes the supreme abode as not illuminated by sun, moon, or fire and as the destination of no return.",
+  "contextHindi": "कृष्ण परम धाम को सूर्य, चंद्र और अग्नि से प्रकाशित न होने वाला तथा लौटना न पड़ने वाला बताते हैं।",
+  "sanskritDevanagari": "न तद्भासयते सूर्यो न शशाङ्को न पावकः |\nयद्गत्वा न निवर्तन्ते तद्धाम परमं मम ||१५-६||",
+  "transliteration": "na tadbhāsayate sūryo na śaśāṅko na pāvakaḥ .\nyadgatvā na nivartante taddhāma paramaṃ mama ||15-6||",
+  "wordByWord": [
+    {
+      "term": "bhāsayate",
+      "meaning": "illuminates; प्रकाशित करता है"
+    },
+    {
+      "term": "śaśāṅkaḥ",
+      "meaning": "moon; चंद्रमा"
+    },
+    {
+      "term": "pāvakaḥ",
+      "meaning": "fire; अग्नि"
+    },
+    {
+      "term": "dhāma",
+      "meaning": "abode or radiant station; धाम"
+    },
+    {
+      "term": "paramam",
+      "meaning": "supreme; परम"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि उस धाम को न सूर्य प्रकाशित करता है, न चंद्र और न अग्नि। जहाँ जाकर लौटना नहीं होता, वह उनका परम धाम है। इस कथन को किसी जगह के अँधेरे का साधारण विवरण समझना उचित नहीं। सूर्य, चंद्र और अग्नि हमारे अनुभव में प्रकाश के स्रोत हैं; उनके पार धाम की बात आध्यात्मिक लक्ष्य की अलग सीमा बताती है। श्लोक यहाँ कोई नक्शा, दूरी या देखने की तकनीक नहीं देता। हम उस सीमा का सम्मान रखते हुए एक आधुनिक तुलना ले सकते हैं: जो बात सही है, वह केवल प्रशंसा मिलने पर सही नहीं होती। ईमानदारी का मूल्य दर्शक न होने पर भी बना रह सकता है। यह तुलना परम धाम की परिभाषा नहीं है, बल्कि बाहर की मान्यता पर निर्भरता की जाँच है। आज कोई आवश्यक छोटा काम ऐसे करें कि उसका प्रमाण दिखाने की जल्दी न हो। आनंद आए तो स्वीकारें, पर उसे अमर उपलब्धि का दावा न बनाएँ। इस पद की भाषा मुक्ति की है, रोज की मनोदशा का माप नहीं।",
+  "clearEnglish": "Krishna describes his supreme abode through the absence of dependence on sun, moon, or fire for illumination. Reaching it entails no return. These are claims about a spiritual destination, not directions to a dark physical location or a technique for unusual visual experience. The familiar sources of light mark a contrast with the goal being named. The verse does not supply geographical coordinates or a scientific explanation of that realm. For contemporary reflection, an analogy concerns goods that do not depend entirely on external acknowledgment. An honest action may retain its value when nobody praises it. This does not define the supreme abode; it simply helps examine dependence on borrowed confirmation. A small practice is to perform a necessary act without immediately advertising it, while still documenting work when responsibility requires documentation. The aim is clearer motivation, not secrecy. Keep this everyday exercise distinct from the liberation claim so that a pleasant or private moment is not mistaken for attainment of the no-return state.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna's supreme abode is not illuminated by sun, moon, or fire; those reaching it do not return."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Examining dependence on external acknowledgment is an analogy, not a definition or proof of the supreme abode."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Perform one small necessary act without seeking immediate praise, while keeping any required accountability."
+    }
+  ],
+  "reflectionQuestion": "Which action would still matter to me if no one applauded it?",
+  "reflectionQuestionHindi": "कौन सा काम मेरे लिए तब भी सार्थक रहेगा जब कोई उसकी प्रशंसा न करे?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

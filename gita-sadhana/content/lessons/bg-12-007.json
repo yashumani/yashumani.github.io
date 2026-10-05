@@ -1,0 +1,67 @@
+{
+  "id": "bg-12-007",
+  "sequenceNumber": 476,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 7,
+  "verseEnd": 7,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "संसार सागर से उद्धार / Rescue from the ocean of samsara",
+  "context": "Krishna completes the preceding sentence with a promise to rescue those whose minds are set in him from mortal samsara.",
+  "contextHindi": "कृष्ण पिछले भक्तों के लिए कहते हैं कि वे मृत्युयुक्त संसार सागर से शीघ्र उद्धार करने वाले होते हैं।",
+  "sanskritDevanagari": "तेषामहं समुद्धर्ता मृत्युसंसारसागरात् |\nभवामि नचिरात्पार्थ मय्यावेशितचेतसाम् ||१२-७||",
+  "transliteration": "teṣāmahaṃ samuddhartā mṛtyusaṃsārasāgarāt .\nbhavāmi nacirātpārtha mayyāveśitacetasām ||12-7||",
+  "wordByWord": [
+    {
+      "term": "समुद्धर्ता",
+      "meaning": "rescuer or one who lifts out"
+    },
+    {
+      "term": "मृत्युसंसारसागरात्",
+      "meaning": "from the ocean of mortal samsara"
+    },
+    {
+      "term": "न चिरात्",
+      "meaning": "before long"
+    },
+    {
+      "term": "मय्यावेशितचेतसाम्",
+      "meaning": "of those whose minds are set in me"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जिनका मन उनमें लगा है, उन भक्तों के लिए वे शीघ्र मृत्यु वाले संसार सागर से उद्धार करने वाले होते हैं। यह पिछले श्लोक का उत्तर पूरा करता है। समुद्र की छवि यहाँ संसार की बंधनकारी और मृत्युयुक्त दशा के लिए है, किसी वास्तविक जलयात्रा का विवरण नहीं। समुद्धर्ता में ऊपर निकालने वाले सहारे का भाव है। न चिरात् धार्मिक आश्वासन की भाषा है; उसे कुछ दिन की तय समयसीमा या शारीरिक अमरता की गारंटी बनाना ठीक नहीं। मन की दिशा और पहले बताए समर्पित कर्म साथ पढ़े जाते हैं। हमारी जिंदगी में इस छवि से सहारा स्वीकारने पर विचार कर सकते हैं। कठिन परिस्थिति में सब अपने दम पर करना जरूरी मानने के बजाय उचित सहायता लें। यह मानवीय सहयोग दिव्य उद्धार का पूरा अर्थ नहीं, केवल हमारी सीमित तुलना है। जरूरत हो तो स्वास्थ्य या सुरक्षा की सहायता भी लें; भक्ति उसे रोकने का कारण नहीं। आज एक वास्तविक मदद की जरूरत पहचानकर भरोसेमंद और उपयुक्त व्यक्ति से स्पष्ट अनुरोध करना उपयोगी अभ्यास हो सकता है।",
+  "clearEnglish": "The promise completes the sentence begun in the preceding verse. For those whose minds are set in him, Krishna becomes the rescuer from the ocean of mortal samsara before long. The ocean is a religious image for conditioned existence marked by death and bondage, not an account of a physical voyage. Samuddharta presents the Lord as the one who lifts out. The assurance should not be converted into a fixed number of days, a guarantee of bodily immortality or a claim that every practical difficulty disappears immediately. Its conditions are read with the preceding offering and meditation. A modest modern analogy concerns willingness to receive help. Insisting on managing every problem alone can obscure support that is actually available. Ask for appropriate assistance where needed, including ordinary health or safety support. Such help is not identical to divine liberation, but faith need not be made an obstacle to it. The verse's central content is Krishna's saving relation to the described devotees, while the suggested practice addresses ordinary dependence and care.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna promises rescue from mortal samsara for the devotees whose minds are set in him."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Accepting appropriate help is a limited analogy; no fixed timeline or bodily immortality is established."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Request appropriate help",
+      "text": "Name one practical need and ask an appropriate trusted person or service for help. Do not treat devotion as a reason to avoid needed health or safety support."
+    }
+  ],
+  "reflectionQuestion": "What help am I refusing because I think I must manage alone?",
+  "reflectionQuestionHindi": "अकेले संभालना जरूरी मानकर मैं कौन सी सहायता नहीं ले रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

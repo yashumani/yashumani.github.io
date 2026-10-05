@@ -1,0 +1,71 @@
+{
+  "id": "bg-12-017",
+  "sequenceNumber": 486,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 17,
+  "verseEnd": 17,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "प्रिय वस्तु से स्वतंत्रता / Freedom around cherished things",
+  "context": "Krishna describes the devotee beyond rejoicing, hatred, grief and craving, renouncing good and evil; Sivananda applies this to desired and cherished objects.",
+  "contextHindi": "कृष्ण हर्ष द्वेष शोक कामना से परे और शुभ अशुभ त्यागने वाले भक्त का चित्र देते हैं; शिवानंद इसे प्रिय वस्तुओं से जोड़ते हैं।",
+  "sanskritDevanagari": "यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति |\nशुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः ||१२-१७||",
+  "transliteration": "yo na hṛṣyati na dveṣṭi na śocati na kāṅkṣati .\nśubhāśubhaparityāgī bhaktimānyaḥ sa me priyaḥ ||12-17||",
+  "wordByWord": [
+    {
+      "term": "न शोचति",
+      "meaning": "does not grieve"
+    },
+    {
+      "term": "न काङ्क्षति",
+      "meaning": "does not crave"
+    },
+    {
+      "term": "शुभाशुभपरित्यागी",
+      "meaning": "renouncing good and evil"
+    },
+    {
+      "term": "भक्तिमान्",
+      "meaning": "full of devotion"
+    }
+  ],
+  "spokenHindi": "कृष्ण ऐसे भक्त को प्रिय कहते हैं जो न हर्षित होता, न द्वेष करता, न शोक करता और न इच्छा करता है, तथा शुभ और अशुभ का त्याग करता है। यह मजबूत आध्यात्मिक चित्र है; उसे केवल थोड़ा शांत रहो कहकर शाब्दिक अर्थ बताना सही नहीं। स्वामी शिवानंद की टिप्पणी प्रिय वस्तु मिलने पर हर्ष, उसके छूटने पर शोक और अभी न मिली वस्तु की कामना से स्वतंत्रता के रूप में समझाती है। यह उनका विशेष विस्तार है। शुभ अशुभ का त्याग सुनकर नैतिक अंतर छोड़ देना और जो चाहे करना उचित निष्कर्ष नहीं। आधुनिक उपयोग में शोकग्रस्त व्यक्ति को मत रोओ कहना भी इस आदर्श से समर्थित नहीं होता। हमारा सीमित अभ्यास किसी सामान्य इच्छा के साथ अपनी पकड़ देखना हो सकता है। क्या इस वस्तु के बिना मेरा पूरा दिन बेकार लगने लगता है? उस सोच को पहचानें और किसी दूसरी अर्थपूर्ण गतिविधि में ध्यान दें। बड़ा दुख हो तो सहारा और समय की जरूरत सम्मान से रखें। आंतरिक स्वतंत्रता का आदर्श करुणा की जगह कम न करे।",
+  "clearEnglish": "The portrait is strong: the devotee neither rejoices, hates, grieves nor craves, and relinquishes good and evil. These words should not be diluted into a mild paraphrase about being somewhat calm. Sivananda's commentary relates them to gaining desired objects, parting from cherished objects and desiring what is not yet obtained. That is a specific interpretive expansion in the supplied source. Relinquishing good and evil cannot responsibly become permission to ignore ethical consequences. Nor should the absence of grief in a spiritual ideal be used to silence a bereaved person. A limited modern exercise is to examine attachment around an ordinary wish. Does not getting a small desired thing make the entire day seem worthless? Notice that judgment and direct attention toward another meaningful activity, without denying disappointment. Serious loss calls for care and support, not a compulsory display of detachment. The application is modest; it explores one aspect of clinging rather than claiming the full state described by Krishna.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes nonrejoicing, nonhatred, nongrieving, noncraving and renunciation of good and evil in the devoted person."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Reviewing attachment to an ordinary wish is an application; the ideal does not silence grief or cancel ethical judgment."
+    },
+    {
+      "label": "COMMENTARY — Swami Sivananda",
+      "explanation": "Sivananda explains the responses in relation to obtaining desired objects, losing cherished objects and desiring what is not yet attained."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Review a small wish",
+      "text": "Notice one ordinary wish whose frustration seems to spoil the whole day. Name the disappointment, then choose another meaningful activity without forcing it away."
+    }
+  ],
+  "reflectionQuestion": "How much of my day's value have I placed in one desired object or result?",
+  "reflectionQuestionHindi": "अपने दिन का कितना मूल्य मैंने एक मनचाही वस्तु या परिणाम पर रख दिया है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

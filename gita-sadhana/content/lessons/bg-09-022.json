@@ -1,0 +1,71 @@
+{
+  "id": "bg-09-022",
+  "sequenceNumber": 360,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 22,
+  "verseEnd": 22,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "योगक्षेम का आश्वासन | The assurance of provision and preservation",
+  "context": "Krishna contrasts reward-seeking recurrence with those who think of and worship him alone, ever united.",
+  "contextHindi": "फल चाहने की पुनरावृत्ति के बाद कृष्ण अनन्य चिंतन और नित्य उपासना करने वालों को आश्वासन देते हैं।",
+  "sanskritDevanagari": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते |\nतेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ||९-२२||",
+  "transliteration": "ananyāścintayanto māṃ ye janāḥ paryupāsate .\nteṣāṃ nityābhiyuktānāṃ yogakṣemaṃ vahāmyaham ||9-22||",
+  "wordByWord": [
+    {
+      "term": "अनन्याः चिन्तयन्तः",
+      "meaning": "Thinking of no other."
+    },
+    {
+      "term": "पर्युपासते",
+      "meaning": "Worship devotedly."
+    },
+    {
+      "term": "नित्याभियुक्तानाम्",
+      "meaning": "Of those ever united or steadfast."
+    },
+    {
+      "term": "योगक्षेमम्",
+      "meaning": "Obtaining what is not possessed and preserving what is possessed, in the supplied edition."
+    },
+    {
+      "term": "वहामि",
+      "meaning": "I bear or carry."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जो लोग अनन्य होकर उनका चिंतन और उपासना करते हैं, उन नित्य जुड़े हुए लोगों का योगक्षेम वे वहन करते हैं। दिए गए संस्करण में योगक्षेम का अर्थ है जो अभी प्राप्त नहीं है उसे उपलब्ध करना और जो प्राप्त है उसे सुरक्षित रखना। यह भक्त और भगवान् के संबंध का आश्वासन है। इसे हर इच्छा के तुरंत पूरा होने या कभी नुकसान न होने का सामान्य वादा बना देना अधिक होगा। वाक्य में अनन्य चिंतन और नित्य संबंध की विशेषता स्पष्ट है। सामान्य जीवन में इससे भरोसा रखने का अभ्यास ले सकते हैं, बिना आवश्यक काम छोड़ने के। भोजन, देखभाल और मदद की ज़िम्मेदारी किसी चमत्कार की प्रतीक्षा में रोकना उचित निष्कर्ष नहीं। अपनी आवश्यकता को ईमानदारी से समझें और उसे पूरा करने के जिम्मेदार कदम लें। साथ में एक प्रार्थना या स्मरण रखें। चिंता आने पर स्वयं को कम भक्त कहने की जरूरत नहीं। यह हमारा सौम्य अनुप्रयोग है। मूल श्लोक कृष्ण के द्वारा ऐसे उपासकों का योगक्षेम उठाने का धार्मिक कथन रखता है, हमारे लिए उनकी स्थिति नापने की परीक्षा नहीं।",
+  "clearEnglish": "Krishna says he carries the yoga and kshema of those who worship him alone, contemplating no other and remaining ever united. The supplied edition interprets the pair as securing what is not already possessed and preserving what is possessed. This is an assurance within a specific devotional description. Turning it into a guarantee that every wish will be fulfilled, every possession retained, or every loss prevented would broaden the claim beyond its wording. A contemporary response can combine trust with responsible attention to needs. Asking for help, maintaining ordinary care, and carrying out appropriate work need not contradict a devotional prayer. The verse does not direct us to suspend practical action and wait for miraculous provision. Nor does it provide a way to rank someone's faith by how little anxiety they feel. Those safeguards concern our application. The textual promise remains Krishna's bearing of provision and preservation for the devotees described. We can hear its relational assurance while being honest about the scope and limits of our own understanding.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says he bears the yoga and kshema of those who think of and worship him alone, ever united."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Trust may accompany responsible care and help seeking; the verse is not a universal guarantee of every desired outcome."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Trust with a responsible step",
+      "text": "Name one need, take one appropriate practical step toward it, and accompany it with a brief prayer if meaningful."
+    }
+  ],
+  "reflectionQuestion": "How can trust and responsible effort support each other?",
+  "reflectionQuestionHindi": "भरोसा और जिम्मेदार प्रयास एक-दूसरे को कैसे सहारा दे सकते हैं?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

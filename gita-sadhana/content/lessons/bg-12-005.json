@@ -1,0 +1,71 @@
+{
+  "id": "bg-12-005",
+  "sequenceNumber": 474,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 5,
+  "verseEnd": 5,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "देहधारी के लिए कठिनाई / Difficulty for the embodied",
+  "context": "Krishna says the unmanifest goal is more difficult for embodied practitioners; Sivananda interprets embodiment through identification with the body.",
+  "contextHindi": "कृष्ण अव्यक्त मार्ग की अधिक कठिनाई कहते हैं; शिवानंद देहधारी को शरीर से पहचान रखने वालों के संदर्भ में समझाते हैं।",
+  "sanskritDevanagari": "क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् |\nअव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते ||१२-५||",
+  "transliteration": "kleśo.adhikatarasteṣāmavyaktāsaktacetasām ||\navyaktā hi gatirduḥkhaṃ dehavadbhiravāpyate ||12-5||",
+  "wordByWord": [
+    {
+      "term": "क्लेशः अधिकतरः",
+      "meaning": "greater difficulty"
+    },
+    {
+      "term": "अव्यक्तासक्तचेतसाम्",
+      "meaning": "of minds attached to the unmanifest"
+    },
+    {
+      "term": "देहवद्भिः",
+      "meaning": "by the embodied"
+    },
+    {
+      "term": "दुःखम् अवाप्यते",
+      "meaning": "is reached with difficulty"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि अव्यक्त पर मन रखने वालों की कठिनाई अधिक है, क्योंकि देहधारी के लिए उस अव्यक्त लक्ष्य तक पहुँचना कठिन है। यह पिछले श्लोक के स्वीकार के बाद आता है। पहुंच संभव कही गई थी; अब उसकी कठिनाई का अंतर है। स्वामी शिवानंद की टिप्पणी देहधारी को उन लोगों के रूप में समझाती है जो अपने शरीर से पहचान रखते हैं, और ऐसे मन का गुणरहित आत्मा पर स्थिर होना कठिन बताती है। यह उनका विस्तार है। शरीर की देखभाल छोड़ना, बीमारी का इलाज न लेना या अपनी देह से घृणा करना यहाँ उचित अनुप्रयोग नहीं। धार्मिक पहचान की बात और वास्तविक देखभाल की जरूरत अलग रखें। हमारी जिंदगी में कोई अमूर्त विचार समझना कठिन लगे तो सहायक ठोस आधार लेना संभव है। कठिनाई को कमतर बुद्धि या नैतिक दोष का प्रमाण न मानें। एक छोटा उपयुक्त तरीका चुनें और अपनी स्थिति का सम्मान करें। यह आधुनिक सीख है; कृष्ण के कथन का केंद्र अव्यक्त लक्ष्य और देहधारी अनुभव के बीच की साधनगत कठिनाई है।",
+  "clearEnglish": "The distinction is difficulty, not impossibility. After saying that the described practitioners also reach him, Krishna says those attached to the unmanifest face greater trouble, because the unmanifest goal is difficult for the embodied to attain. Sivananda's commentary interprets embodied here through identification with the body and explains the restless mind's difficulty in settling on the attributeless Self. That is named commentary beyond the concise wording. It must not become advice to neglect the body, abandon needed treatment or treat physical existence with disgust. Spiritual identification and ordinary care are different issues. A modest application is to choose a suitable support when an abstract practice is hard to sustain. Difficulty does not establish inferior worth, nor does the preference for an accessible method erase the other route. One can use a concrete focus or a shorter period of study while retaining honest interest in the subject. This is practical guidance, not a promise of attainment. The text compares the demands of approaches for embodied practitioners.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna states greater difficulty in reaching the unmanifest for the embodied, after acknowledging its practitioners' arrival."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Choosing an accessible support does not imply inferiority; bodily care and needed treatment remain appropriate."
+    },
+    {
+      "label": "COMMENTARY — Swami Sivananda",
+      "explanation": "Sivananda interprets embodiment as identification with the body and describes difficulty fixing a restless mind on the attributeless Self."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Choose a suitable support",
+      "text": "If an abstract study feels difficult, use one clear phrase or example for a short session. Keep bodily comfort and needed care intact."
+    }
+  ],
+  "reflectionQuestion": "Can I adapt a method without treating difficulty as a defect in my worth?",
+  "reflectionQuestionHindi": "क्या मैं कठिनाई को अपनी कमी माने बिना अभ्यास का तरीका बदल सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

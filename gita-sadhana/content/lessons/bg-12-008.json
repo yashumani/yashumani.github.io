@@ -1,0 +1,67 @@
+{
+  "id": "bg-12-008",
+  "sequenceNumber": 477,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 8,
+  "verseEnd": 8,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "मन और बुद्धि की एक दिशा / Mind and intellect directed together",
+  "context": "Krishna tells Arjuna to place both mind and intellect in him and assures him of abiding in him.",
+  "contextHindi": "कृष्ण अर्जुन से मन और बुद्धि दोनों अपने में रखने को कहते हैं और उनमें निवास का आश्वासन देते हैं।",
+  "sanskritDevanagari": "मय्येव मन आधत्स्व मयि बुद्धिं निवेशय |\nनिवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः ||१२-८||",
+  "transliteration": "mayyeva mana ādhatsva mayi buddhiṃ niveśaya .\nnivasiṣyasi mayyeva ata ūrdhvaṃ na saṃśayaḥ ||12-8||",
+  "wordByWord": [
+    {
+      "term": "मनः आधत्स्व",
+      "meaning": "place the mind"
+    },
+    {
+      "term": "बुद्धिम् निवेशय",
+      "meaning": "establish the intellect"
+    },
+    {
+      "term": "निवसिष्यसि",
+      "meaning": "you will dwell or abide"
+    },
+    {
+      "term": "न संशयः",
+      "meaning": "there is no doubt"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि अपना मन केवल उनमें रखो और बुद्धि भी उनमें स्थापित करो; फिर उनमें ही निवास होगा, इसमें संदेह नहीं। मन और बुद्धि दोनों का उल्लेख ध्यान देने योग्य है। भक्ति केवल भाव की तेज लहर नहीं, समझ की दिशा भी है। बुद्धि को बंद करके कोई आदेश मान लेना इस वाक्य का आवश्यक अर्थ नहीं। विषय कृष्ण के साथ एकाग्र संबंध है। निवास धार्मिक रूपक में स्थायी संबंध का आश्वासन है, किसी भौतिक पते की बात नहीं। हमारा छोटा उपयोग विचार और भावना को एक जिम्मेदार उद्देश्य पर लाना हो सकता है। जिस मूल्य को महत्वपूर्ण कहते हैं, क्या काम के चुनाव में भी उसे याद रखते हैं? किसी निर्णय में अपने भाव को सुनें और तथ्य भी देखें। यह आधुनिक जांच श्लोक की पूरी साधना नहीं। ध्यान स्थिर न हो तो खुद को दोष देना जरूरी नहीं; अगले श्लोकों में क्षमता के अनुसार अन्य प्रवेश आएँगे। अभी कुछ क्षण एक स्पष्ट स्मरण चुनें और देखें कि उसके साथ अपनी समझ और व्यवहार को कैसे जोड़ सकते हैं।",
+  "clearEnglish": "Krishna names both mind and intellect, directing Arjuna to place them in him, with an assurance of abiding in him thereafter. The pairing matters. Devotion is not described solely as a surge of feeling; understanding is also oriented. Conversely, intellect need not be detached from the object of love. Nivasishyasi gives the language of dwelling or abiding, not a physical address. A practical inference is to examine whether emotion and judgment serve a coherent purpose in one decision. What value is being held, what feeling is present, and what evidence is relevant? That exercise is smaller than the verse's devotional instruction, but can make an ordinary action more integrated. The assurance in the text should remain religious rather than being advertised as a guaranteed mood change. If sustained attention is difficult, there is no need to turn this verse into self-condemnation; the subsequent passage offers further approaches according to capacity. Here the focus is the joint placement of mind and intellect in Krishna.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna directs mind and intellect into him and assures abiding in him."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Aligning feeling, evidence and purpose is an ordinary application; difficulty with attention need not become self-condemnation."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Connect feeling and judgment",
+      "text": "For one decision, name the feeling, the relevant evidence and the value you wish to serve. Choose a small action consistent with them."
+    }
+  ],
+  "reflectionQuestion": "Do my feeling and judgment point toward the same responsible purpose?",
+  "reflectionQuestionHindi": "क्या मेरी भावना और समझ एक ही जिम्मेदार उद्देश्य की ओर जाती हैं?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "bg-06-013",
+  "sequenceNumber": 246,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 13,
+  "verseEnd": 13,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "ध्यान का स्थिर आधार | Meditation as steady posture, calm mind, and focused devotion",
+  "context": "Arjuna has admitted the mind's restlessness, and Krishna now gives a practical meditation posture: keep the body upright, the gaze steady, and the attention inward rather than scattered by the world. The focus is not a rigid ritual but a disciplined way of training attention and removing agitation.",
+  "contextHindi": "अर्जुन ने मन की चंचलता को स्वीकार किया है; अब कृष्ण ध्यान का व्यावहारिक आधार दे रहे हैं—शरीर सीधा, दृष्टि स्थिर, और मन को बाहर की दुनिया में न बहाकर भीतर केंद्रित करना। यह रिवाज नहीं, एकाग्रता को प्रशिक्षित करने का सही ढंग है।",
+  "sanskritDevanagari": "समं कायशिरोग्रीवं धारयन्नचलं स्थिरः |\nसम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन् ||६-१३||",
+  "transliteration": "samaṃ kāyaśirogrīvaṃ dhārayannacalaṃ sthiraḥ .\nsamprekṣya nāsikāgraṃ svaṃ diśaścānavalokayan ||6-13||",
+  "wordByWord": [
+    {
+      "term": "समं",
+      "meaning": "even, balanced, level; not strained or bent."
+    },
+    {
+      "term": "काय-शिरो-ग्रीवं",
+      "meaning": "the body, head, and neck; the upright posture as one coordinated unit."
+    },
+    {
+      "term": "धारयन्",
+      "meaning": "keeping, maintaining, holding in a steady way."
+    },
+    {
+      "term": "अचलं",
+      "meaning": "motionless, unshaken; without restlessness or twitching."
+    },
+    {
+      "term": "स्थिरः",
+      "meaning": "firm, steady, calm; not rigidly tense."
+    },
+    {
+      "term": "नासिकाग्रं",
+      "meaning": "the tip of the nose; a simple point of focus."
+    },
+    {
+      "term": "अनवलोकयन्",
+      "meaning": "not looking around, not scanning the surroundings."
+    }
+  ],
+  "spokenHindi": "यह श्लोक योग की साधना का शरीर-व्यवहार बताता है. कृष्ण कहते हैं कि योगी अपने शरीर, सिर और गर्दन को सीधा रखे, अचल और स्थिर बैठे, पर बिना जकड़न के. यह केवल आसन की तकनीक नहीं है; यह समझ है कि मन तभी शांत हो सकता है जब शरीर भी संतुलित और केंद्रित रहता है. ‘समं’ का अर्थ है संतुलन, ‘अचल’ का अर्थ है बिना कंपकंपी के, ‘स्थिरः’ का अर्थ है न तो उत्तेजित, न हिलायमान. फिर कहा जाता है कि वह नासिका के अग्रभाग को देखे, चारों ओर की ओर आँखें न घुमाए. इसका मतलब है—बाहरी जगत के आकर्षण को थोड़ी देर के लिए अलग करना. नाक के अग्रभाग पर दृष्टि स्थिर करने से मन का ध्यान बाहरी रूप-रंग से हटकर एक बिंदु पर टिकता है. यह धीमी, सावधानीपूर्ण एकाग्रता है, न कि मन की अस्थिरता. शरीर को शांत रखना, दृष्टि को नियंत्रित करना, यही साधना की सही शुरुआत है.",
+  "clearEnglish": "This verse gives the practical foundation of meditation: a balanced body, a steady head and neck, and a gaze that does not drift. Krishna is not demanding a theatrical posture; he is describing the condition in which attention can become stable. The word samaṃ suggests balance, not stiffness. Acalam means unmoving, and sthiraḥ means firm without being tense. When the body is aligned and the eyes are not roaming, the mind has fewer sensory inputs to chase. Looking at the tip of the nose is not about a mystical trick; it is a simple way to reduce distraction and stop the mind from turning outward. In modern terms, this is a basic training in attention: less stimulation, clearer focus, and more deliberate calm.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna specifies an upright, steady posture and a limited gaze. The verse focuses on bodily steadiness, restrained vision, and mental stillness as preparation for meditation."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The body is treated as a support for attention, not as a source of purity by itself. A physical posture can reduce disturbance, but the deeper transformation is still the mind becoming less reactive and more focused."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Steady posture",
+      "text": "Today, sit for five minutes with the spine tall but not rigid, shoulders soft, and eyes resting lightly on the tip of the nose. Let the body settle before expecting the mind to settle."
+    }
+  ],
+  "reflectionQuestion": "What happens to my attention when I stop scanning the environment and gently fix my gaze inward for a few minutes?",
+  "reflectionQuestionHindi": "जब मैं कुछ पल के लिए चारों ओर देखने की आदत छोड़कर नाक के अग्र भाग पर हल्की दृष्टि रखता हूँ, तो मेरी एकाग्रता पर क्या असर पड़ता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

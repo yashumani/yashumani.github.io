@@ -1,0 +1,71 @@
+{
+  "id": "bg-12-001",
+  "sequenceNumber": 470,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 1,
+  "verseEnd": 1,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "भक्ति के दो रूपों का प्रश्न / A question about two devotional approaches",
+  "context": "Arjuna asks which practitioners know yoga best: steadfast worshippers of Krishna or worshippers of the imperishable unmanifest.",
+  "contextHindi": "अर्जुन कृष्ण की निरंतर उपासना और अक्षर अव्यक्त की उपासना करने वालों के योगज्ञान की तुलना पूछते हैं।",
+  "sanskritDevanagari": "अर्जुन उवाच |\nएवं सततयुक्ता ये भक्तास्त्वां पर्युपासते |\nये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः ||१२-१||",
+  "transliteration": "arjuna uvāca .\nevaṃ satatayuktā ye bhaktāstvāṃ paryupāsate .\nye cāpyakṣaramavyaktaṃ teṣāṃ ke yogavittamāḥ ||12-1||",
+  "wordByWord": [
+    {
+      "term": "सततयुक्ताः",
+      "meaning": "ever steadfast or continuously engaged"
+    },
+    {
+      "term": "अक्षरम्",
+      "meaning": "imperishable"
+    },
+    {
+      "term": "अव्यक्तम्",
+      "meaning": "unmanifest"
+    },
+    {
+      "term": "योगवित्तमाः",
+      "meaning": "best versed in yoga"
+    }
+  ],
+  "spokenHindi": "अर्जुन पूछते हैं कि जो भक्त निरंतर जुड़े रहकर आपकी उपासना करते हैं और जो अक्षर अव्यक्त की उपासना करते हैं, उनमें योग को सबसे अच्छी तरह कौन जानता है? यह प्रश्न है, कृष्ण का अभी दिया निर्णय नहीं। विश्वरूप के अनुभव के बाद अर्जुन अब साधना की दिशा स्पष्ट करना चाहते हैं। अक्षर में न बदलने वाला आधार है; अव्यक्त में जो रूप के रूप में सामने प्रकट नहीं है। इन शब्दों से किसी वर्तमान धार्मिक समुदाय को श्रेष्ठ या नीचा ठहराने की प्रतियोगिता बनाना आवश्यक नहीं। दिए गए संस्करण की टिप्पणी कहती है कि भक्तियोग ज्ञानयोग से अधिक सरल है; यह स्वामी शिवानंद का अध्याय संबंधी संकेत है। आगे कृष्ण का उत्तर अपने शब्दों में आएगा। हमारी पढ़ाई का उपयोग प्रश्न को साफ पहचानना हो सकता है। मैं किसकी उपासना और किस तरीके की तुलना कर रहा हूँ, पहले यह समझें। अपनी सुविधा या किसी अनुभव की पसंद को पाठ का निर्णय बताना जल्दी होगी। जिज्ञासा को थोड़ा ठहरने दें, ताकि उत्तर सुनते समय अपना पहले से तय मत उस पर न चढ़ जाए।",
+  "clearEnglish": "Arjuna asks which practitioners are best versed in yoga: those steadfastly worshipping Krishna and those worshipping the imperishable unmanifest. The verse is a question, not yet Krishna's evaluation. Its setting follows the cosmic vision, but the focus now turns toward the way of sustained spiritual engagement. Akshara names imperishability; avyakta names what is unmanifest rather than presented in a visible form. The categories should not be transformed into a ranking of contemporary communities or a judgment of people's worth. Sivananda's supplied commentary introduces the chapter by calling devotion easier than the yoga of knowledge. That is a named interpretive orientation, while Krishna's answer begins in the next verse. A practical application is to define the comparison before judging it. What exactly is being practised, and what does best mean in the question? Personal comfort is relevant to choosing an ordinary practice, but it is not automatically the text's own verdict. Clear inquiry leaves space for the answer rather than assuming it.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna asks which of the two named approaches is best versed in yoga."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Defining a comparison aids inquiry; the question is not a social ranking or Krishna's answer."
+    },
+    {
+      "label": "COMMENTARY — Swami Sivananda",
+      "explanation": "Sivananda's commentary introduces Bhakti Yoga as easier than Jnana Yoga in this chapter."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Clarify a comparison",
+      "text": "Before comparing two practices, name what each involves and what you mean by better. Read the actual answer before treating your preference as its conclusion."
+    }
+  ],
+  "reflectionQuestion": "What exactly am I comparing when I ask which practice is better?",
+  "reflectionQuestionHindi": "कौन सा अभ्यास बेहतर है पूछते समय मैं वास्तव में किस बात की तुलना कर रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

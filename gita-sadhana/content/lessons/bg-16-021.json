@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-021",
+  "sequenceNumber": 592,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 21,
+  "verseEnd": 21,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "तीन द्वार / Three gates to destruction",
+  "context": "Krishna identifies desire, anger, and greed as three gates of hell and urges their abandonment.",
+  "contextHindi": "कृष्ण काम, क्रोध और लोभ को नरक के तीन द्वार बताकर उन्हें छोड़ने को कहते हैं।",
+  "sanskritDevanagari": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः |\nकामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ||१६-२१||",
+  "transliteration": "trividhaṃ narakasyedaṃ dvāraṃ nāśanamātmanaḥ .\nkāmaḥ krodhastathā lobhastasmādetattrayaṃ tyajet ||16-21||",
+  "wordByWord": [
+    {
+      "term": "kāmaḥ",
+      "meaning": "Desire or lust in this destructive pattern"
+    },
+    {
+      "term": "krodhaḥ",
+      "meaning": "Anger"
+    },
+    {
+      "term": "lobhaḥ",
+      "meaning": "Greed"
+    },
+    {
+      "term": "tyajet",
+      "meaning": "One should abandon"
+    }
+  ],
+  "spokenHindi": "कृष्ण नरक के तीन द्वार बताते हैं: काम, क्रोध और लोभ। वे इन्हें अपने लिए विनाशकारी कहते हैं और छोड़ने को कहते हैं। सूची छोटी है, लेकिन अध्याय के लंबे वर्णन को एक साफ दिशा देती है। काम हमें पाने की ओर धकेलता है, क्रोध रुकावट से लड़ाता है, और लोभ मिले हुए पर भी रुकने नहीं देता। यह संबंध एक समझने योग्य अनुप्रयोग है; श्लोक स्वयं तीन नाम और उनका त्याग बताता है। साधारण भावना उठते ही अपने को बुरा घोषित न करें। जरूरी बात यह है कि हम उसे किस कर्म में बदलते हैं और कहाँ रोक सकते हैं। न्यायपूर्ण विरोध को छोड़ना या जरूरत से कम संसाधन स्वीकार करना इस अभ्यास का लक्ष्य नहीं है। आज कोई एक द्वार चुनिए जो अधिक सक्रिय लगता है। खरीद की जल्दबाजी, चुभता जवाब या अनुचित लाभ की चाह में छोटा विराम रखिए। उस विराम में जरूरत, परिणाम और निष्पक्षता देखें। भावना को दबाने के बजाय उसके आधार पर हानिकारक काम न करने का चुनाव करें।",
+  "clearEnglish": "Krishna names desire, anger, and greed as three gates of hell that destroy the self, and he urges their abandonment. The compact image gathers the chapter's extended description into three recognizable forces. The religious reference to hell remains part of the verse. A practical analogy can consider how desire seeks an object, anger reacts to obstruction, and greed refuses sufficiency. That sequence is an interpretive aid, not a sequence explicitly laid out here. Nor should the verse be used to shame someone for every passing feeling or to suppress appropriate protest against injustice. The question for practice is whether a feeling has acquired authority over the next action. Choose one ordinary setting where this occurs: an impulsive purchase, an insulting reply, or a chance to take an unfair advantage. Introduce a pause long enough to examine need and consequences. Abandoning the destructive direction begins with refusing to let craving, retaliation, or accumulation determine the means you use.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna calls desire, anger, and greed three self-destructive gates of hell and urges abandoning them."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A pause before an impulsive act is a modern practice, not a claim that every emotion is spiritual failure."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "One gate, one pause",
+      "text": "Choose craving, retaliation, or unfair accumulation and pause before acting on it today."
+    }
+  ],
+  "reflectionQuestion": "Which of these three most often decides my next action?",
+  "reflectionQuestionHindi": "इन तीनों में कौन मेरे अगले काम की दिशा सबसे अधिक तय करता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

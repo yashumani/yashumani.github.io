@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-048",
+  "sequenceNumber": 671,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 48,
+  "verseEnd": 48,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Smoke around necessary action / जरूरी कर्म के साथ धुआँ",
+  "context": "Krishna says not to abandon one's inherent work merely for its faults, comparing all undertakings' defects to smoke around fire.",
+  "contextHindi": "कृष्ण सहज कर्म में दोष होने पर भी उसे न छोड़ने और सभी आरंभों के दोष को अग्नि के धुएँ जैसा बताते हैं।",
+  "sanskritDevanagari": "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् |\nसर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः ||१८-४८||",
+  "transliteration": "sahajaṃ karma kaunteya sadoṣamapi na tyajet .\nsarvārambhā hi doṣeṇa dhūmenāgnirivāvṛtāḥ ||18-48||",
+  "wordByWord": [
+    {
+      "term": "sahajam karma",
+      "meaning": "inherent work, rendered duty to which one is born"
+    },
+    {
+      "term": "sadoṣam",
+      "meaning": "with faults"
+    },
+    {
+      "term": "na tyajet",
+      "meaning": "should not abandon"
+    },
+    {
+      "term": "sarvārambhāḥ",
+      "meaning": "all undertakings"
+    },
+    {
+      "term": "dhūmena agniḥ",
+      "meaning": "fire with smoke"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि सहज कर्म दोष सहित भी नहीं छोड़ना चाहिए, क्योंकि सभी आरंभ दोष से वैसे ढके हैं जैसे अग्नि धुएँ से। दिए गए संस्करण में सहज को उस दायित्व की दिशा में पढ़ा गया है जिसमें जन्म हुआ है। इस शब्द को छिपाए बिना उसकी व्याख्या और आज के अनुप्रयोग को अलग रखना जरूरी है। धुएँ की उपमा पूर्ण निर्दोषता की अपेक्षा पर प्रश्न रखती है। जरूरी काम में सीमाएँ हों तो सुधार संभव है; केवल अपूर्णता देखकर हर जिम्मेदारी छोड़ना उचित नहीं। पर वास्तविक अन्याय, असुरक्षा या हिंसा को सामान्य धुआँ कहकर सहते रहना जिम्मेदार निष्कर्ष नहीं होगा। यह आधुनिक नैतिक सीमा है। आज किसी सुरक्षित काम की छोटी त्रुटि पहचानें और उसे ठीक करें। यदि समस्या गंभीर हानि की है तो उसे छोटा न करें; सहायता या सुरक्षित बदलाव की जरूरत हो सकती है। यह अभ्यास श्लोक के सामाजिक संदर्भ का पूरा समाधान नहीं। वह हमें दोष की वास्तविक प्रकृति पूछने देता है, ताकि न पूर्णता की जिद काम रोके, न उपमा सुधार की जरूरत छिपाए।",
+  "clearEnglish": "One should not abandon inherent work merely because it has faults, for all undertakings are covered by defects as fire is covered by smoke. The supplied edition renders sahaja through duty to which one is born. That wording should remain explicit rather than being erased by a convenient modern paraphrase. The comparison questions a demand for entirely faultless action. A necessary task may have limitations that call for improvement instead of immediate abandonment. But ordinary imperfection must not be confused with serious injustice, danger, or violence. Treating those as harmless smoke would be an irresponsible application. For current practice, identify a small correctable defect in safe work and improve it. If the issue involves substantial harm, seek suitable assistance or a responsible change instead of minimizing it. This does not solve every question raised by the verse's social setting. It gives the metaphor a careful practical use: distinguish perfectionism that blocks useful effort from real defects that require accountability and correction.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Inherent work should not be abandoned merely for faults; all undertakings have defects like smoke covering fire. DLS renders sahaja as duty to which one is born."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Correcting ordinary imperfections applies the metaphor; serious harm or injustice should not be dismissed as unavoidable smoke."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Identify one small correctable defect in a safe necessary task and make the improvement; treat serious harm separately."
+    }
+  ],
+  "reflectionQuestion": "Is this an ordinary limitation to improve or a serious harm that requires a different response?",
+  "reflectionQuestionHindi": "यह सुधारने योग्य साधारण सीमा है या गंभीर हानि जिसके लिए अलग कदम चाहिए?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

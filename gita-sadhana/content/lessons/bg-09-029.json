@@ -1,0 +1,75 @@
+{
+  "id": "bg-09-029",
+  "sequenceNumber": 367,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 29,
+  "verseEnd": 29,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "समता और भक्तिमय संबंध | Equality and devotional relation",
+  "context": "Krishna describes equality toward all beings together with the mutual relation of devotional worshippers.",
+  "contextHindi": "कृष्ण सभी प्राणियों के प्रति समता और भक्तों के साथ परस्पर संबंध, दोनों बताते हैं।",
+  "sanskritDevanagari": "समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः |\nये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् ||९-२९||",
+  "transliteration": "samo.ahaṃ sarvabhūteṣu na me dveṣyo.asti na priyaḥ .\nye bhajanti tu māṃ bhaktyā mayi te teṣu cāpyaham ||9-29||",
+  "wordByWord": [
+    {
+      "term": "समः अहम्",
+      "meaning": "I am the same or equal."
+    },
+    {
+      "term": "सर्वभूतेषु",
+      "meaning": "Toward all beings."
+    },
+    {
+      "term": "द्वेष्यः",
+      "meaning": "Hated or hateful."
+    },
+    {
+      "term": "प्रियः",
+      "meaning": "Dear."
+    },
+    {
+      "term": "मयि ते",
+      "meaning": "They are in me."
+    },
+    {
+      "term": "तेषु च अहम्",
+      "meaning": "And I am in them."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि वे सभी प्राणियों के प्रति समान हैं। उनके लिए कोई द्वेष का पात्र नहीं और कोई प्रिय नहीं। फिर वे कहते हैं कि जो उनकी भक्ति से उपासना करते हैं, वे उनमें हैं और वे भी उन भक्तों में हैं। दोनों हिस्सों को साथ रखना चाहिए। केवल पहला सुनकर संबंध का दूसरा वाक्य मिटा देना अधूरा होगा। केवल दूसरा सुनकर कृष्ण को मनमाने पक्षपात वाला बताना भी ठीक नहीं। श्लोक समता और भक्ति के संबंध को साथ रखता है, उनका पूरा दार्शनिक समाधान यहाँ नहीं देता। आधुनिक व्यवहार में इससे एक सीमित अभ्यास ले सकते हैं कि सम्मान को केवल अपने पसंदीदा लोगों तक न रखें। हर व्यक्ति का सम्मान करते हुए निकट संबंधों में अधिक समय देना विरोधाभास होना आवश्यक नहीं। यह हमारी सामाजिक उपमा है, कृष्ण के कथन की पूरी परिभाषा नहीं। कोई हानि करे तो समता के नाम पर उसे सहना जरूरी नहीं। गरिमा बनाए रखते हुए सीमा और जवाबदेही रख सकते हैं। आज किसी कम परिचित व्यक्ति के प्रति सामान्य सम्मान का छोटा, वास्तविक संकेत दें।",
+  "clearEnglish": "Krishna states impartiality toward all beings: none is hateful or dear to him. The verse then describes a reciprocal relation with those who worship him with devotion: they are in him, and he is in them. Both claims must be heard. The first should not cancel the second, and the second should not be rewritten as arbitrary favoritism. The passage presents equality and devotional relation together without explaining every philosophical implication. A contemporary analogy can distinguish basic regard from the intimacy of a particular relationship. Offering dignity to everyone need not mean giving identical time to each person or abandoning meaningful closeness. That is a social application, not the literal account of divine presence. It also leaves room for boundaries and accountability where harm occurs. Equality does not require pretending every behavior is acceptable. A modest practice is to notice someone outside one's familiar circle and offer ordinary respect. The verse's theological reciprocity remains specific to devotion, while the modern ethical response can broaden the care we show in everyday interactions.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna is equal toward all beings, with none hateful or dear; devoted worshippers are in him and he is in them."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Basic dignity and particular closeness can coexist as a modern analogy, with boundaries against harmful behavior."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Respect beyond familiarity",
+      "text": "Give a simple respectful acknowledgment to someone outside your usual circle, without demanding closeness."
+    }
+  ],
+  "reflectionQuestion": "Whose dignity do I overlook because they are not close to me?",
+  "reflectionQuestionHindi": "अपने निकट न होने के कारण मैं किसकी गरिमा पर कम ध्यान देता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

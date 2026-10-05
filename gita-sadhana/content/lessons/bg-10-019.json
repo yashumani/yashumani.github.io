@@ -1,0 +1,71 @@
+{
+  "id": "bg-10-019",
+  "sequenceNumber": 391,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 19,
+  "verseEnd": 19,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "असीम का प्रमुख परिचय / Prominent examples of the limitless",
+  "context": "Krishna resumes speaking and agrees to describe prominent glories, explaining that their extent has no end.",
+  "contextHindi": "अब कृष्ण उत्तर देते हैं: वे प्रमुख दिव्य विभूतियाँ बताएँगे, क्योंकि उनके विस्तार का अंत नहीं है।",
+  "sanskritDevanagari": "श्रीभगवानुवाच |\nहन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः |\nप्राधान्यतः कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे ||१०-१९||",
+  "transliteration": "śrībhagavānuvāca .\nhanta te kathayiṣyāmi divyā hyātmavibhūtayaḥ .\nprādhānyataḥ kuruśreṣṭha nāstyanto vistarasya me ||10-19||",
+  "wordByWord": [
+    {
+      "term": "प्राधान्यतः",
+      "meaning": "by prominence; chiefly"
+    },
+    {
+      "term": "आत्मविभूतयः",
+      "meaning": "one's own divine glories"
+    },
+    {
+      "term": "विस्तरस्य",
+      "meaning": "of the extent or detailed expansion"
+    },
+    {
+      "term": "न अस्ति अन्तः",
+      "meaning": "there is no end"
+    }
+  ],
+  "spokenHindi": "कृष्ण अब फिर बोलते हैं और अर्जुन का अनुरोध स्वीकार करते हैं। वे कहते हैं कि अपनी दिव्य विभूतियों को प्रमुख रूप में बताऊँगा, क्योंकि उनके विस्तार का अंत नहीं है। यह उत्तर दो बातें साथ रखता है: सुनने वाले को समझने योग्य उदाहरण मिलेंगे, और उदाहरणों की सूची पूरी वास्तविकता नहीं बन जाएगी। प्राधान्यतः का अर्थ इसी चयन से है। स्वामी शिवानंद की टिप्पणी भी दिव्य महिमाओं को असीम बताती है। इसलिए आगे जिन नामों का उल्लेख होगा, वे ध्यान के महत्वपूर्ण प्रवेश होंगे, भगवान की उपस्थिति की बंद सीमा नहीं। किसी नाम का सूची में न होना अपने आप उसकी आध्यात्मिक कीमत कम नहीं करता। यह हमारी विवेकपूर्ण व्याख्या है। पढ़ते समय हम हर उदाहरण पर थोड़ी देर ठहर सकते हैं और देख सकते हैं कि वह किस गुण को सामने लाता है। सारे नाम तुरंत याद कर लेना जरूरी नहीं। बड़ी बात को समझने के लिए चुने हुए उदाहरण उपयोगी होते हैं, यदि हम याद रखें कि उनका काम रास्ता दिखाना है, असीम को पूरी तरह गिन लेना नहीं।",
+  "clearEnglish": "Krishna grants the request while setting a boundary on what an explanation can enumerate. He will describe the divine manifestations chiefly, or by prominence, because their expansion is endless. The qualification is not an evasion; it tells Arjuna how the examples should be used. A selection can make contemplation possible without claiming completeness. The supplied Sivananda commentary reiterates the limitless character of the glories. This framing matters for the catalogue that follows. Its named figures and objects are points of recognition, and absence from the list is not a textual declaration of worthlessness. That last observation is an inference from the stated limit, not an additional sentence of Krishna. In study, it is reasonable to choose one example and understand its setting before moving on. Memorizing every name may be useful to some listeners, but it is not the only way to respond to this verse. The principle is that a finite presentation can guide attention toward an extent it cannot exhaust.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna promises prominent examples because the detailed extent of his divine glories is endless."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Unlisted beings are not thereby declared worthless; examples can guide attention without exhausting the subject."
+    },
+    {
+      "label": "COMMENTARY — Swami Sivananda",
+      "explanation": "Sivananda's brief commentary states that the Lord's divine glories are limitless."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Study one example",
+      "text": "Choose one forthcoming example when you reach it. Learn its category and immediate meaning before trying to memorize the whole catalogue."
+    }
+  ],
+  "reflectionQuestion": "Can I use an example without treating it as the full boundary of the teaching?",
+  "reflectionQuestionHindi": "क्या मैं उदाहरण से सीख सकता हूँ, उसे शिक्षा की पूरी सीमा माने बिना?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-011",
+  "sequenceNumber": 634,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 11,
+  "verseEnd": 11,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "देहधारी के लिए कर्म / Action cannot cease entirely",
+  "context": "Krishna states that embodied beings cannot abandon all action and identifies the relinquisher of action's fruits as the renouncer.",
+  "contextHindi": "कृष्ण कहते हैं कि देहधारी सब कर्म पूरी तरह नहीं छोड़ सकता; कर्मफल छोड़ने वाला त्यागी कहलाता है।",
+  "sanskritDevanagari": "न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः |\nयस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते ||१८-११||",
+  "transliteration": "na hi dehabhṛtā śakyaṃ tyaktuṃ karmāṇyaśeṣataḥ .\nyastu karmaphalatyāgī sa tyāgītyabhidhīyate ||18-11||",
+  "wordByWord": [
+    {
+      "term": "dehabhṛtā",
+      "meaning": "By an embodied being"
+    },
+    {
+      "term": "aśeṣataḥ",
+      "meaning": "Entirely; without remainder"
+    },
+    {
+      "term": "karmaphalatyāgī",
+      "meaning": "One relinquishing the fruit of action"
+    },
+    {
+      "term": "tyāgī",
+      "meaning": "A renouncer or relinquishing person"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि देहधारी के लिए सभी कर्म पूरी तरह छोड़ना सम्भव नहीं। जो कर्म के फल का त्याग करता है, वही त्यागी कहलाता है। जीवन चलने में भी गतिविधि है। इसलिए त्याग का अर्थ सारी गति खत्म करना मान लेने से बात उलझती है। पाठ ध्यान को कर्मफल की पकड़ की ओर लौटाता है। स्रोत की टिप्पणी प्रकृति और अपने स्वभाव से कर्म होने की बात करती है, फिर कर्तापन और फल के भाव को छोड़ने का विस्तार जोड़ती है। वह टिप्पणी है; श्लोक का सीधा कथन पूर्ण कर्मत्याग की असम्भवता और फलत्यागी की पहचान है। आधुनिक अभ्यास में हम पूछ सकते हैं कि काम करते समय किस व्यक्तिगत परिणाम पर अधिकार मान रहे हैं। जिम्मेदारी और कानूनी जवाबदेही इस प्रश्न से नहीं मिटती। किसी गलती का सुधार फिर भी करना होगा। आज एक काम पूरा करते समय अपना पूरा मूल्य उसके परिणाम से न बांधने का छोटा प्रयोग करें। परिणाम देखिए, सीखिए और जरूरत का सुधार कीजिए। अपने बारे में अंतिम फैसला बनाने की पकड़ हल्की रखें।",
+  "clearEnglish": "Krishna states that an embodied being cannot abandon actions entirely, but the one who relinquishes the fruits of action is called a renouncer. This places the practical centre of relinquishment within living activity. Complete inactivity is not offered as the workable criterion. The supplied Sivananda commentary adds that nature and one's own nature urge action, and expands the teaching toward abandoning the idea of agency and the fruits. That expansion should remain identified as commentary. A modern application can examine the tendency to make a result the final measure of personal worth. A task can be completed, its consequences assessed, and its errors repaired without demanding that it certify one's superiority. This does not remove responsibility, legal accountability, or the need for competent work. Those remain part of ordinary ethical life. After one task, describe the result accurately, name what can be learned, and avoid converting a limited outcome into a total verdict about yourself. Learning offers a more useful next step than self-ownership of every result.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says total abandonment of action is impossible for embodied beings and calls the relinquisher of fruits a renouncer."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Learning from a result without making it a total verdict on self-worth is a modern practice; accountability remains."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Result, learning, next step",
+      "text": "After one task, state the result, one lesson, and one correction without making a global judgement about yourself."
+    }
+  ],
+  "reflectionQuestion": "What can this result teach without defining my whole worth?",
+  "reflectionQuestionHindi": "यह परिणाम मेरा पूरा मूल्य तय किए बिना क्या सिखा सकता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

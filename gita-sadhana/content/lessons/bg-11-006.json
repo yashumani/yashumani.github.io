@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-006",
+  "sequenceNumber": 420,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 6,
+  "verseEnd": 6,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "पहले अनदेखे आश्चर्य / Wonders not seen before",
+  "context": "Krishna names divine groups and invites Arjuna to behold wonders beyond his previous experience.",
+  "contextHindi": "कृष्ण देवसमूहों को नाम देकर अर्जुन को पहले न देखे हुए अनेक आश्चर्य देखने को कहते हैं।",
+  "sanskritDevanagari": "पश्यादित्यान्वसून्रुद्रानश्विनौ मरुतस्तथा |\nबहून्यदृष्टपूर्वाणि पश्याश्चर्याणि भारत ||११-६||",
+  "transliteration": "paśyādityānvasūnrudrānaśvinau marutastathā .\nbahūnyadṛṣṭapūrvāṇi paśyāścaryāṇi bhārata ||11-6||",
+  "wordByWord": [
+    {
+      "term": "आदित्यान्",
+      "meaning": "Adityas"
+    },
+    {
+      "term": "अश्विनौ",
+      "meaning": "the two Ashvins"
+    },
+    {
+      "term": "अदृष्टपूर्वाणि",
+      "meaning": "not seen before"
+    },
+    {
+      "term": "आश्चर्याणि",
+      "meaning": "wonders"
+    }
+  ],
+  "spokenHindi": "कृष्ण आदित्यों, वसुओं, रुद्रों, दोनों अश्विनों और मरुतों को देखने को कहते हैं। फिर अर्जुन को पहले न देखे हुए बहुत से आश्चर्य दिखने की बात आती है। ये धार्मिक देवसमूह हैं, अभी सामने बैठे मनुष्यों की कोई सूची नहीं। अश्विनौ द्विवचन है, इसलिए दोनों अश्विनों की बात है। कई नाम पिछले अध्याय में अलग उदाहरणों के रूप में आए थे; अब वे एक व्यापक दृश्य में देखने के लिए रखे गए हैं। अदृष्टपूर्वाणि बताता है कि अर्जुन के पिछले अनुभव से यह घटना आगे है। आश्चर्य का अर्थ समझ के रुक जाने जैसा हो सकता है, पर हर अजनबी बात को सही मान लेना उसका जरूरी परिणाम नहीं। हमारी सीख में नई चीज देखकर पहले निरीक्षण करना उपयोगी है। परिचित नाम देखकर भी यह पूछें कि वह इस बार किस संबंध में आया है। कोई जानकारी केवल इसलिए नहीं समझी गई कि उसका नाम पहले सुना था। आज एक परिचित शब्द की नई भूमिका पहचानें और एक नए तथ्य को धैर्य से जांचें। यह आधुनिक अध्ययन का प्रयोग है।",
+  "clearEnglish": "The named groups connect the vision with the sacred world already invoked in the teaching: Adityas, Vasus, Rudras, the two Ashvins and Maruts. Krishna then directs Arjuna toward many wonders never seen before. The dual form for the Ashvins is a small but useful detail, showing that careful reading still matters within an immense scene. The familiar names do not make the disclosure merely familiar; their presentation belongs to a new, comprehensive setting. Adrishtapurvani marks the gap between previous experience and what is about to be revealed. A modern study application is to resist two shortcuts: assuming a familiar word has the same role everywhere, or accepting a new claim solely because it feels astonishing. Observe context first, then examine the claim. This is ordinary learning guidance, distinct from Krishna's divine invitation. The verse itself names the groups and announces unprecedented wonders for Arjuna. It does not require novelty-seeking or promise that every extraordinary sensation is spiritually authoritative.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names divine groups and invites Arjuna to see many unprecedented wonders."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Contextual reading can distinguish familiar words in new roles; astonishment alone does not verify an ordinary claim."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Recheck a familiar word",
+      "text": "Choose one word you recognize in a passage. Explain its specific role there before assuming the familiar meaning covers the whole sentence."
+    }
+  ],
+  "reflectionQuestion": "What have I called understood merely because its name is familiar?",
+  "reflectionQuestionHindi": "किस बात का नाम परिचित होने से मैंने उसे समझा हुआ मान लिया है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

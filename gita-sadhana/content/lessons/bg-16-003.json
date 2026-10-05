@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-003",
+  "sequenceNumber": 574,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 3,
+  "verseEnd": 3,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "क्षमा में दृढ़ता / Strength with forgiveness",
+  "context": "Krishna completes the opening catalogue of divine qualities addressed to Arjuna.",
+  "contextHindi": "कृष्ण अर्जुन से बात करते हुए दैवी गुणों की आरम्भिक सूची पूरी करते हैं।",
+  "sanskritDevanagari": "तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता |\nभवन्ति सम्पदं दैवीमभिजातस्य भारत ||१६-३||",
+  "transliteration": "tejaḥ kṣamā dhṛtiḥ śaucamadroho nātimānitā .\nbhavanti sampadaṃ daivīmabhijātasya bhārata ||16-3||",
+  "wordByWord": [
+    {
+      "term": "tejaḥ",
+      "meaning": "Vigour or spiritual strength"
+    },
+    {
+      "term": "kṣamā",
+      "meaning": "Forgiveness or forbearance"
+    },
+    {
+      "term": "dhṛtiḥ",
+      "meaning": "Fortitude; steadiness"
+    },
+    {
+      "term": "nātimānitā",
+      "meaning": "Absence of excessive self-importance"
+    }
+  ],
+  "spokenHindi": "कृष्ण की सूची का अंतिम भाग शक्ति और कोमलता को साथ रखता है। तेज, क्षमा और धृति एक ही श्लोक में आते हैं। इससे समझ में आता है कि आध्यात्मिक जीवन में दृढ़ता और क्षमा विरोधी नहीं हैं। तेज को दूसरों पर दबाव बनाने की क्षमता समझना इस प्रसंग को छोटा कर देगा। यहाँ वह जीवन की जिम्मेदारियों को सँभालने वाली ऊर्जा के रूप में पढ़ा जा सकता है। क्षमा का अभ्यास बदले की आग को आगे न बढ़ाने में मदद करता है। फिर भी क्षमा का मतलब नुकसान पहुँचाने वाले व्यक्ति को फिर से वैसा ही अवसर देना जरूरी नहीं है। उचित सीमा और सहायता बनी रह सकती है। शौच स्वच्छता का गुण है, अद्रोह शत्रुता न पालने का, और नातिमानिता अपने को जरूरत से ज्यादा बड़ा न मानने का। कृष्ण इन्हें दैवी सम्पदा से जोड़ते हैं। आज किसी कठिन काम में टिकते समय देखें कि आपके भीतर शक्ति के साथ नम्रता भी है या नहीं। गलती सुधारना और अपनी सीमा स्वीकार करना भी दृढ़ता के रूप हो सकते हैं।",
+  "clearEnglish": "The closing portion of the opening catalogue includes vigour, forgiveness, fortitude, purity, absence of hatred, and absence of excessive pride. Krishna attributes these to the divine disposition. The arrangement challenges an easy division between strong virtues and gentle virtues. Fortitude can sustain a boundary, while forgiveness can prevent that boundary from becoming a project of revenge. Neither point requires pretending that an injury was harmless. The verse supplies a moral vocabulary, not detailed instructions for responding to abuse; seeking protection and support remains compatible with a responsible application. Excessive self-importance is another useful focus. It can make accepting correction seem like defeat, even when correction would strengthen one's work. Read the list as a set of qualities that moderate one another: energy benefits from humility, purity from freedom from hatred, and endurance from a forgiving outlook. In one demanding task, practise continuing without turning the difficulty into evidence that you are superior to others.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna completes the divine catalogue with vigour, forgiveness, fortitude, purity, non-hatred, and absence of excessive pride."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Keeping a protective boundary while releasing revenge is a responsible application; the verse does not prescribe a specific response to injury."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Firm and humble",
+      "text": "Accept one useful correction while keeping the commitment you need to fulfil."
+    }
+  ],
+  "reflectionQuestion": "Can I remain firm without treating correction as an insult?",
+  "reflectionQuestionHindi": "क्या मैं सुधार स्वीकार करते हुए भी अपने काम में दृढ़ रह सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

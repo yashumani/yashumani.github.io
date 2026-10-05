@@ -1,0 +1,67 @@
+{
+  "id": "bg-12-004",
+  "sequenceNumber": 473,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 4,
+  "verseEnd": 4,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "समबुद्धि और सभी का हित / Evenness and the welfare of all",
+  "context": "Krishna completes the description, saying these practitioners restrain the senses, remain even-minded and work for all beings' welfare, reaching him.",
+  "contextHindi": "कृष्ण बताते हैं कि इंद्रियसंयम, समबुद्धि और सभी प्राणियों के हित में रत ये साधक भी उन्हीं तक आते हैं।",
+  "sanskritDevanagari": "सन्नियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः |\nते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः ||१२-४||",
+  "transliteration": "sanniyamyendriyagrāmaṃ sarvatra samabuddhayaḥ .\nte prāpnuvanti māmeva sarvabhūtahite ratāḥ ||12-4||",
+  "wordByWord": [
+    {
+      "term": "इन्द्रियग्रामम्",
+      "meaning": "the whole group of senses"
+    },
+    {
+      "term": "समबुद्धयः",
+      "meaning": "even-minded"
+    },
+    {
+      "term": "सर्वभूतहिते",
+      "meaning": "in the welfare of all beings"
+    },
+    {
+      "term": "माम् एव",
+      "meaning": "to me indeed"
+    }
+  ],
+  "spokenHindi": "पिछले श्लोक के अव्यक्त उपासकों का वाक्य यहाँ पूरा होता है। इंद्रियों के पूरे समूह को संयमित करके, हर जगह समबुद्धि रखते हुए और सभी प्राणियों के हित में लगे हुए वे भी कृष्ण को ही प्राप्त होते हैं। यह स्पष्ट स्वीकार है। पहले कृष्ण ने एक दिशा को युक्ततम कहा था; अब दूसरे मार्ग को अस्वीकार नहीं कर रहे। सर्वभूतहिते विशेष महत्वपूर्ण है। अमूर्त चिंतन को दूसरों की जरूरत से काट देने की छूट यहाँ नहीं मिलती। समबुद्धि को सभी स्थितियों में एक जैसा व्यवहार कहना भी छोटा अर्थ होगा; अलग जरूरतों के लिए अलग मदद उचित हो सकती है। संयम आवेग की दिशा देखता है, इंद्रियों से घृणा करना आवश्यक अर्थ नहीं। हमारा अनुप्रयोग एक सरल सहायता चुनना हो सकता है जो केवल अपनी पसंद के व्यक्ति तक सीमित न हो। साथ में काम की सीमा स्पष्ट रखें ताकि सहायता सुरक्षित और टिकाऊ हो। यह आधुनिक अभ्यास है। कृष्ण का मुख्य कथन इस साधक की दृष्टि, व्यवहार और उसी दिव्य लक्ष्य तक पहुँचने की संभावना को साथ रखता है।",
+  "clearEnglish": "The sentence about unmanifest worship is completed by conduct and destination. With the senses restrained, even-minded everywhere and devoted to the welfare of all beings, these practitioners also reach Krishna. The acknowledgement is explicit. His earlier preference is not a declaration that the other approach has no spiritual destination. Sarvabhutahite also prevents the abstract orientation from being treated as a reason to ignore living beings. The verse joins contemplation with regard for welfare. A modern inference can distinguish even-mindedness from mechanically identical treatment. Different needs may call for different help without implying unequal basic regard. Sensory restraint likewise need not mean hostility toward embodied experience; it concerns regulation within the described practice. Choose one useful act extending beyond a favored circle, with realistic boundaries and consent where needed. That is our application, not a complete program prescribed by Krishna. The verse's literal teaching gives the practitioners' restraint, evenness and concern for all, then states their arrival at the same divine goal.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The unmanifest-oriented practitioners described reach Krishna with sensory restraint, evenness and care for all beings."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Fair regard can include different help for different needs; abstract contemplation need not withdraw from welfare."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Care beyond preference",
+      "text": "Offer one realistic useful act beyond your usual favored circle, respecting need, consent and your own capacity."
+    }
+  ],
+  "reflectionQuestion": "Does my concern for welfare extend beyond people I naturally prefer?",
+  "reflectionQuestionHindi": "क्या हित की मेरी चिंता उन लोगों से आगे भी जाती है जिन्हें मैं सहज पसंद करता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-054",
+  "sequenceNumber": 468,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 54,
+  "verseEnd": 54,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "अनन्य भक्ति का मार्ग / Undivided devotion",
+  "context": "Krishna states that through single-minded devotion he can be known, seen in reality and entered.",
+  "contextHindi": "कृष्ण कहते हैं कि अनन्य भक्ति से उन्हें यथार्थ रूप में जानना, देखना और उनमें प्रवेश करना संभव है।",
+  "sanskritDevanagari": "भक्त्या त्वनन्यया शक्य अहमेवंविधोऽर्जुन |\nज्ञातुं द्रष्टुं च तत्त्वेन प्रवेष्टुं च परन्तप ||११-५४||",
+  "transliteration": "bhaktyā tvananyayā śakya ahamevaṃvidho.arjuna .\njñātuṃ draṣṭuṃ ca tattvena praveṣṭuṃ ca parantapa ||11-54||",
+  "wordByWord": [
+    {
+      "term": "अनन्यया भक्त्या",
+      "meaning": "through undivided or single-minded devotion"
+    },
+    {
+      "term": "तत्त्वेन",
+      "meaning": "in truth or reality"
+    },
+    {
+      "term": "ज्ञातुम् द्रष्टुम्",
+      "meaning": "to know and to see"
+    },
+    {
+      "term": "प्रवेष्टुम्",
+      "meaning": "to enter into"
+    }
+  ],
+  "spokenHindi": "कृष्ण अब सकारात्मक बात कहते हैं: अनन्य भक्ति से उन्हें इस रूप में जानना, यथार्थ देखना और प्रवेश करना संभव है। जानना, देखना और प्रवेश करना तीन अलग क्रियाएँ हैं। उन्हें केवल एक भावुक क्षण के बराबर कर देना छोटा अर्थ होगा। अनन्य भक्ति में ध्यान और प्रेम की एक दिशा है। इसे किसी संस्था के प्रति अंधी निष्ठा या दूसरे मनुष्यों के प्रति घृणा का आदेश नहीं बनाना चाहिए। विषय कृष्ण हैं, और अगले श्लोक में सभी प्राणियों के प्रति निर्वैर होने की बात आएगी। प्रवेश का धार्मिक अर्थ दिव्य संबंध की गहराई है; कोई भौतिक दरवाजा पार करने की विधि यहाँ नहीं दी गई। हमारा अनुप्रयोग चुने हुए मूल्य या स्मरण को एक छोटे काम में स्थिरता से रखना हो सकता है। कुछ मिनट ध्यान दें, फिर देखें कि व्यवहार में ईमानदारी या करुणा की जरूरत कहाँ है। यह साधारण अभ्यास दर्शन की गारंटी नहीं। प्रेम और समझ को साथ रखने की दिशा में कदम हो सकता है। असाधारण अनुभव की खोज से ज्यादा अपने वर्तमान उद्देश्य की स्पष्टता पर ध्यान दें।",
+  "clearEnglish": "The positive statement follows the limits of the preceding verse. Through undivided devotion Krishna can be known, seen in reality and entered. The three verbs should retain their range. Knowing, seeing and entering are related but not merely identical names for a brief emotional peak. Tattvena qualifies the relation as real or truthful. Ananya devotion concerns Krishna as the devotional focus; it should not be converted into unquestioning loyalty to an institution or hostility toward other people. The next verse will explicitly include nonenmity toward all beings. Entering is spiritual language, not a physical procedure supplied here. A modest application is to give a chosen practice sustained attention and connect it with a concrete ethical action. Reflection that returns to honesty or care can have direction without promising an extraordinary vision. This is our practical extension. The literal teaching presents devotion as the means of this deep divine relation, and its significance exceeds any simple schedule or performance target.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says single-minded devotion allows knowing, seeing in truth and entering him."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Steady reflection joined to ethical conduct is an application; devotion does not authorize institutional blindness or hostility."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Unite attention and care",
+      "text": "Give a chosen devotional reflection two attentive minutes, then identify one truthful or caring action it can inform today. Do not require a special experience."
+    }
+  ],
+  "reflectionQuestion": "How does the focus of my devotion affect one ordinary action?",
+  "reflectionQuestionHindi": "मेरी भक्ति का केंद्र आज के एक साधारण काम को कैसे प्रभावित करता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

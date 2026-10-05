@@ -1,0 +1,75 @@
+{
+  "id": "bg-07-024",
+  "sequenceNumber": 304,
+  "date": "2026-10-05",
+  "chapter": 7,
+  "verseStart": 24,
+  "verseEnd": 24,
+  "chapterNameSanskrit": "ज्ञानविज्ञानयोग",
+  "chapterNameEnglish": "Jñāna Vijñāna Yoga",
+  "theme": "कृष्ण का अव्यय उच्च स्वरूप | The higher immutable nature",
+  "context": "Krishna moves from the limits of desired fruits to misunderstanding his unmanifest and higher nature.",
+  "contextHindi": "इच्छित फलों की सीमा के बाद कृष्ण अपने अव्यक्त और उच्च स्वरूप को न समझने की बात करते हैं।",
+  "sanskritDevanagari": "अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धयः |\nपरं भावमजानन्तो ममाव्ययमनुत्तमम् ||७-२४||",
+  "transliteration": "avyaktaṃ vyaktimāpannaṃ manyante māmabuddhayaḥ .\nparaṃ bhāvamajānanto mamāvyayamanuttamam ||7-24||",
+  "wordByWord": [
+    {
+      "term": "अव्यक्तम्",
+      "meaning": "Unmanifest."
+    },
+    {
+      "term": "व्यक्तिम् आपन्नम्",
+      "meaning": "Having become manifest."
+    },
+    {
+      "term": "अबुद्धयः",
+      "meaning": "Those without understanding; the foolish in the supplied edition."
+    },
+    {
+      "term": "परं भावम्",
+      "meaning": "Higher nature or state."
+    },
+    {
+      "term": "अव्ययम्",
+      "meaning": "Immutable or imperishable."
+    },
+    {
+      "term": "अनुत्तमम्",
+      "meaning": "Unsurpassed."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि बुद्धिहीन लोग उन्हें अव्यक्त से व्यक्त हुआ मानते हैं, क्योंकि वे उनके परम, अव्यय और अनुपम भाव को नहीं जानते। यहाँ मुख्य समस्या कृष्ण के स्वरूप को सीमित समझना है। श्लोक उनका उच्च स्वरूप अविनाशी और सर्वोत्तम बताता है। यह पंक्ति अवतार के बारे में हर दार्शनिक प्रश्न का पूरा उत्तर नहीं देती। इसलिए अपनी परिचित परंपरा की लंबी व्याख्या को सीधे इसके शब्द नहीं मानना चाहिए। जो कहा गया है, उसे पहले रखें: अव्यक्त, व्यक्त होने की धारणा, और उस धारणा के पीछे उच्च स्वरूप का अज्ञान। आधुनिक चिंतन में इससे बाहरी रूप और उसके बारे में अपने निष्कर्ष का अंतर देख सकते हैं। लेकिन किसी मनुष्य को देखकर उसकी पूरी आध्यात्मिक प्रकृति जान लेने का दावा करना भी अनुचित है। हम केवल यह स्वीकार कर सकते हैं कि दिखाई देने वाला पक्ष हमेशा पूरी जानकारी नहीं देता। श्रद्धापूर्ण अध्ययन में प्रश्न पूछना उपयोगी है। कठिन शब्द का अर्थ खोजें और यह देखें कि स्रोत किस सीमा तक समझाता है। आगे का अनुमान अनुमान के रूप में ही रखें।",
+  "clearEnglish": "Krishna criticizes the view that he, the unmanifest, has merely become manifest. The stated reason is failure to know his higher nature, described as immutable and unsurpassed. The verse's emphasis is therefore a limitation in understanding Krishna, not a comprehensive explanation of every question about divine incarnation. Reading it carefully requires preserving both sides of the statement: the inadequate view and the higher nature it overlooks. A commentator's fuller metaphysical account may illuminate the issue, but it should not be inserted here without supporting evidence. A contemporary analogy concerns premature conclusions from appearance. What is visible need not exhaust what can be known about a subject. That analogy should remain modest; it does not license us to claim hidden spiritual knowledge about other people. For study, the most helpful practice is to identify which predicates Krishna explicitly uses and which additional claims we bring from memory. The distinction allows reverence and intellectual honesty to work together rather than treating uncertainty as a failure of devotion.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Those without understanding regard Krishna, the unmanifest, as having become manifest, not knowing his higher immutable and unsurpassed nature."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The contrast can prompt caution about conclusions from appearance; it does not establish hidden knowledge about other people."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Separate predicates from assumptions",
+      "text": "List the three descriptions of Krishna's higher nature and distinguish them from a belief you bring to the passage."
+    }
+  ],
+  "reflectionQuestion": "Which claim about Krishna's nature is stated here, and which am I adding?",
+  "reflectionQuestionHindi": "कृष्ण के स्वरूप के बारे में कौन-सी बात यहाँ कही गई है और कौन-सी मैं जोड़ रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

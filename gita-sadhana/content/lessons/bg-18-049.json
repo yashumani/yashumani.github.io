@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-049",
+  "sequenceNumber": 672,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 49,
+  "verseEnd": 49,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Unattached intelligence / आसक्ति से मुक्त बुद्धि",
+  "context": "Krishna continues from imperfect inherent work to the inner renunciation that leads beyond binding action.",
+  "contextHindi": "कृष्ण अब कर्म की अपूर्णता से आगे बढ़कर मन की अनासक्ति और संयम की बात करते हैं।",
+  "sanskritDevanagari": "असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः |\nनैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति ||१८-४९||",
+  "transliteration": "asaktabuddhiḥ sarvatra jitātmā vigataspṛhaḥ .\nnaiṣkarmyasiddhiṃ paramāṃ saṃnyāsenādhigacchati ||18-49||",
+  "wordByWord": [
+    {
+      "term": "asaktabuddhiḥ",
+      "meaning": "intelligence unattached everywhere"
+    },
+    {
+      "term": "jitātmā",
+      "meaning": "one who has mastered oneself"
+    },
+    {
+      "term": "vigataspṛhaḥ",
+      "meaning": "free of craving"
+    },
+    {
+      "term": "naiṣkarmyasiddhiṃ",
+      "meaning": "perfection of freedom from binding action"
+    }
+  ],
+  "spokenHindi": "यहाँ कृष्ण काम छोड़ देने की जल्दी नहीं सिखा रहे हैं। वे उस मन की दशा बता रहे हैं जो हर जगह फल से चिपकना छोड़ता है। असक्त बुद्धि का मतलब है कि निर्णय साफ रहे, पर परिणाम को अपनी पूरी पहचान न बना लिया जाए। जितात्मा अपने आवेगों को देख और सँभाल सकता है; विगतस्पृह व्यक्ति हर उपलब्धि से अगली लालसा नहीं पालता। इस तरह संन्यास भीतर की पकड़ ढीली करने से जुड़ता है और निष्कर्म्य सिद्धि का रास्ता खुलता है। इसे आलस्य या जिम्मेदारियों से भागना समझना श्लोक को उलट देगा। यदि कोई जरूरी काम कठिन है, तो उसे ईमानदारी से करते हुए प्रशंसा की भूख देखी जा सकती है। आज एक काम चुनें और शुरू करने से पहले पूछें कि सेवा क्या माँगती है। काम पूरा होने पर उसकी गुणवत्ता जाँचें, गलती सुधारें, फिर मन को बार बार अपने महत्व के हिसाब में मत फँसाइए। आध्यात्मिक स्वतंत्रता का यह अभ्यास बाहर की जवाबदेही कम नहीं करता; वह उसे अधिक शांत और स्पष्ट बना सकता है।",
+  "clearEnglish": "Krishna has just acknowledged the imperfections that accompany ordinary work. Here he describes a different kind of renunciation: an intelligence not fastened to anything, a self brought under discipline, and longing that has receded. The stated result is the highest perfection of freedom from action's binding force. That does not mean a person can neglect a promise or pretend that consequences have disappeared. The verse locates the change in the worker's relation to action, not in an empty calendar. A useful test is what happens after a task: can you assess its real effects, accept correction, and release the demand that success prove your worth? This question is an application, not Krishna's literal instruction in these words. Self mastery also need not mean suppressing every feeling. It can mean noticing a craving before it dictates a decision. If a responsibility is unsafe or unjust, examine and address that condition directly. Detachment should sharpen responsible judgment, not shelter indifference.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Unattached intelligence, self mastery, and freedom from craving are connected with supreme freedom from binding action through renunciation."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Practising careful work without making its outcome one's identity is a bounded modern application; the verse does not excuse neglected duties."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Before one necessary task, name its real purpose and your craving for praise; complete and review it without making praise the measure of your worth."
+    }
+  ],
+  "reflectionQuestion": "Where does my wish for recognition interfere with clear work?",
+  "reflectionQuestionHindi": "प्रशंसा की चाह आज मेरे किस काम में साफ निर्णय को धुँधला करती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "bg-15-020",
+  "sequenceNumber": 571,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 20,
+  "verseEnd": 20,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "Wisdom and fulfilled purpose / बुद्धि और कृतार्थता",
+  "context": "Krishna closes Chapter 15 by calling the teaching most secret and describing wisdom and fulfilment through understanding it.",
+  "contextHindi": "कृष्ण अध्याय का अंत इस गहन शिक्षा को समझने से बुद्धिमान और कृतकृत्य होने की बात कहकर करते हैं।",
+  "sanskritDevanagari": "इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ |\nएतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत ||१५-२०||",
+  "transliteration": "iti guhyatamaṃ śāstramidamuktaṃ mayānagha .\netadbuddhvā buddhimānsyātkṛtakṛtyaśca bhārata ||15-20||",
+  "wordByWord": [
+    {
+      "term": "guhyatamam",
+      "meaning": "most secret or profound"
+    },
+    {
+      "term": "śāstram",
+      "meaning": "teaching or authoritative instruction"
+    },
+    {
+      "term": "buddhvā",
+      "meaning": "having understood; समझकर"
+    },
+    {
+      "term": "buddhimān",
+      "meaning": "wise or discerning"
+    },
+    {
+      "term": "kṛtakṛtyaḥ",
+      "meaning": "having accomplished what was to be done"
+    }
+  ],
+  "spokenHindi": "कृष्ण अर्जुन से कहते हैं कि उन्होंने यह अत्यंत गूढ़ शास्त्र बताया है। इसे समझकर मनुष्य बुद्धिमान और कृतकृत्य हो जाता है। ‘कृतकृत्य’ उस पूर्णता की दिशा देता है जिसमें करने योग्य मूल कार्य पूरा हुआ है। यह आध्यात्मिक उद्देश्य की बात है, अध्याय पढ़ते ही सारे बाहरी काम समाप्त होने का दावा नहीं। घर, संबंध और समाज की जिम्मेदारियाँ व्यवहार में बनी रह सकती हैं। ‘गूढ़’ को भी ऐसा बहाना न बनाएँ कि प्रश्न पूछना मना है। कृष्ण संवाद में शिक्षा दे रहे हैं, और समझने को महत्व दे रहे हैं। अध्याय के वृक्ष से शुरू हुए प्रश्न अब उसके मूल, जीव, दिव्य सहारे और पुरुषोत्तम के ज्ञान तक आए हैं। आज का छोटा अभ्यास किसी एक स्पष्ट हुई बात को लिखना और उससे जुड़ा प्रश्न रखना हो सकता है। यह अध्ययन की जिम्मेदार दिशा है। केवल समाप्ति का निशान लगाने से समझ नहीं बनती। धीरे सुनें, जो समझा उसे जीवन में सावधानी से देखें और जो अस्पष्ट है उसके लिए आगे अध्ययन की जगह रखें।",
+  "clearEnglish": "Krishna concludes by naming the teaching most secret or profound and saying that understanding it makes a person wise and fulfilled in what was to be done. The chapter's movement matters: the tree of entanglement leads to nonattachment, refuge, the individual soul, divine support, and the Supreme Person. The closing claim concerns spiritual fulfilment through understanding that teaching. It should not be reduced to finishing a reading checklist, nor should it be turned into permission to neglect remaining household or social obligations. Calling the teaching profound also does not make honest questions forbidden. The dialogue has made inquiry central, and the conclusion again emphasizes understanding. A practical response is to record one distinction that has become clearer and one question still unresolved. This does not establish the full fulfilment described by Krishna. It helps study continue with integrity, allowing insight to inform an ordinary action while resisting the temptation to declare completion merely because the last verse has been read.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna calls the teaching most secret and says that understanding it brings wisdom and accomplishment of what was to be done."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Recording insight and unresolved questions is a study practice; spiritual fulfilment does not automatically cancel ordinary obligations."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Write one clarified distinction from the chapter and one question for further study, then apply the insight in a small responsible action."
+    }
+  ],
+  "reflectionQuestion": "What have I understood more clearly, and what still deserves careful inquiry?",
+  "reflectionQuestionHindi": "मैंने क्या अधिक साफ समझा, और किस बात पर अभी ध्यान से पूछना चाहिए?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

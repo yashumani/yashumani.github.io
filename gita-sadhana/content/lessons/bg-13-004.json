@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-004",
+  "sequenceNumber": 493,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 4,
+  "verseEnd": 4,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "A map for careful inquiry / सावधान खोज के प्रश्न",
+  "context": "Krishna outlines what he will briefly explain about the field, its changes and origin, and its knower and powers.",
+  "contextHindi": "कृष्ण बताते हैं कि क्षेत्र का स्वरूप, परिवर्तन, मूल और क्षेत्रज्ञ की पहचान तथा प्रभाव संक्षेप में समझाएँगे।",
+  "sanskritDevanagari": "तत्क्षेत्रं यच्च यादृक्च यद्विकारि यतश्च यत् |\nस च यो यत्प्रभावश्च तत्समासेन मे शृणु ||१३-४||",
+  "transliteration": "tatkṣetraṃ yacca yādṛkca yadvikāri yataśca yat .\nsa ca yo yatprabhāvaśca tatsamāsena me śṛṇu ||13-4||",
+  "wordByWord": [
+    {
+      "term": "yādṛk",
+      "meaning": "of what kind or nature"
+    },
+    {
+      "term": "vikāri",
+      "meaning": "undergoing modifications"
+    },
+    {
+      "term": "yataḥ",
+      "meaning": "from what source"
+    },
+    {
+      "term": "prabhāvaḥ",
+      "meaning": "power or influence"
+    },
+    {
+      "term": "samāsena",
+      "meaning": "in brief; संक्षेप में"
+    }
+  ],
+  "spokenHindi": "कृष्ण अर्जुन से सुनने को कहते हैं। वे बताएँगे कि क्षेत्र क्या है, कैसा है, कैसे बदलता है और किससे आता है; साथ ही ज्ञाता कौन है और उसका प्रभाव क्या है। यह आने वाली शिक्षा की रूपरेखा है। अभी इनमें से हर प्रश्न का उत्तर इसी श्लोक में नहीं दिया गया। रूपरेखा की उपयोगिता यह है कि हम अलग प्रश्नों को एक धुँधली बात में न मिला दें। किसी चीज की अभी की हालत, उसका कारण और उसका जानने वाला अलग विषय हो सकते हैं। आज की छोटी तुलना में अपनी थकान को देखें: उसकी अनुभूति कैसी है, कौन सी परिस्थिति जुड़ी है और हम उसके बारे में क्या जानते हैं? यह तुलना स्वास्थ्य का निदान नहीं देती, बल्कि प्रश्न अलग करने का अभ्यास है। जरूरत हो तो उपयुक्त सहायता लें। अध्ययन में भी उत्तर मिलने से पहले प्रश्न साफ रखें। कृष्ण संक्षेप में कहने वाले हैं, इसलिए धीरे सुनना और अस्पष्ट पद पर लौटना समझ के लिए उपयोगी हो सकता है।",
+  "clearEnglish": "Krishna gives an outline of the inquiry: what the field is, its nature, its modifications and source, who the knower is, and the knower's powers. He asks Arjuna to hear this in brief. The verse is an agenda, not the full account of each item. Its structure can help prevent different questions from being blurred together. Describing a present condition is not the same as explaining its origin, and neither automatically settles the identity of the one who knows it. A practical analogy is examining a difficult experience by separating what is felt, what conditions may contribute, and what remains uncertain. That is a method of clarification, not a diagnosis or a proof of the metaphysical distinction. In study, the outline also encourages patience. A concise teaching may require returning to a term before assuming it is understood. Write the questions clearly and let the subsequent explanation address them, rather than filling every gap with a familiar but untested answer.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna announces a brief account of the field's nature, modifications, origin, and the knower's identity and powers."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Separating description, cause, and uncertainty is a study application of the announced inquiry."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "For one unclear experience, write separately what is observed, a possible cause, and what remains unknown."
+    }
+  ],
+  "reflectionQuestion": "Which question am I answering, and which have I accidentally assumed is already settled?",
+  "reflectionQuestionHindi": "मैं किस प्रश्न का उत्तर दे रहा हूँ, और किसे बिना जाँच पहले से तय मान रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

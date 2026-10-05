@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-009",
+  "sequenceNumber": 423,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 9,
+  "verseEnd": 9,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "संजय का वृत्तांत / Sanjaya's account",
+  "context": "Sanjaya tells Dhritarashtra that Krishna showed Arjuna the supreme lordly form after granting divine sight.",
+  "contextHindi": "संजय धृतराष्ट्र को बताते हैं कि कृष्ण ने ऐसा कहकर अर्जुन को परम ऐश्वर्यपूर्ण रूप दिखाया।",
+  "sanskritDevanagari": "सञ्जय उवाच |\nएवमुक्त्वा ततो राजन्महायोगेश्वरो हरिः |\nदर्शयामास पार्थाय परमं रूपमैश्वरम् ||११-९||",
+  "transliteration": "sañjaya uvāca .\nevamuktvā tato rājanmahāyogeśvaro hariḥ .\ndarśayāmāsa pārthāya paramaṃ rūpamaiśvaram ||11-9||",
+  "wordByWord": [
+    {
+      "term": "राजन्",
+      "meaning": "O king; addressed to Dhritarashtra"
+    },
+    {
+      "term": "महायोगेश्वरः",
+      "meaning": "great Lord of yoga"
+    },
+    {
+      "term": "दर्शयामास",
+      "meaning": "showed or revealed"
+    },
+    {
+      "term": "पार्थाय",
+      "meaning": "to Arjuna"
+    }
+  ],
+  "spokenHindi": "अब कथा की आवाज संजय की है। वे राजन् कहकर धृतराष्ट्र को संबोधित करते हैं और बताते हैं कि कृष्ण ने ऐसा कहने के बाद अर्जुन को अपना परम ऐश्वर्यपूर्ण रूप दिखाया। ऐसा कहने का संबंध पिछले श्लोक में दिव्य दृष्टि देने से है। इसलिए अर्जुन के दर्शन को साधारण आँखों की उपलब्धि बनाकर नहीं पढ़ना चाहिए। हरि कृष्ण का नाम है और पार्थ अर्जुन का। धृतराष्ट्र इस वाक्य में दर्शन माँगने वाले नहीं हैं; वे संजय की बात सुन रहे हैं। यह कथात्मक दूरी याद रखने से हम सही व्यक्ति के अनुभव को सही जगह रख पाते हैं। श्लोक घटना की शुरुआत बताता है, पूरी दृश्य सूची अभी आगे है। हमारी पढ़ाई में छोटा उपयोग यह हो सकता है कि किसी अनुभव का विवरण सुनते समय तीन बातों को अलग रखें: किसने देखा, किसने बताया और कौन सुन रहा है। रोजमर्रा की सूचना में भी ये भूमिकाएँ मिल जाती हैं। किसी दूसरे की कही बात को अपना प्रत्यक्ष ज्ञान बताने से बचना सचाई का सरल अभ्यास हो सकता है।",
+  "clearEnglish": "The narration returns to Sanjaya, who addresses the king, Dhritarashtra. He says that the great Lord of yoga, Krishna, showed the supreme lordly form to Arjuna after speaking. The preceding speech granted divine sight, so the event is linked to that gift. The names Hari and Partha identify Krishna and Arjuna respectively; the king addressed is not the recipient of the vision. This arrangement of witness, narrator and listener is a basic part of the chapter's meaning. It prevents a report from being confused with a direct statement by Krishna or an experience of Dhritarashtra. The verse initiates the disclosure, leaving the detailed description to the following lines. A useful modern inference is to preserve the source of information when recounting an event. Did I observe it, hear it from a witness, or receive a further retelling? Marking those differences does not make the account worthless. It makes the level of knowledge clear and keeps retelling honest.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Sanjaya addresses Dhritarashtra and reports Krishna's revelation of the supreme form to Arjuna."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Distinguishing witness, narrator and listener helps honest reporting; the king is not the vision's recipient here."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Name the source level",
+      "text": "When recounting one event, say whether you saw it, heard it from a witness, or received a retelling. Keep that distinction visible."
+    }
+  ],
+  "reflectionQuestion": "Do I ever retell something heard as though I directly witnessed it?",
+  "reflectionQuestionHindi": "क्या मैं सुनी हुई बात को कभी ऐसे बताता हूँ जैसे खुद देखा हो?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

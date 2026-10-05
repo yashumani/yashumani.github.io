@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-014",
+  "sequenceNumber": 585,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 14,
+  "verseEnd": 14,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "विजय का अहंकार / Boasting of domination",
+  "context": "Krishna continues quoting the demoniacal person's boast, now about enemies, power, and perfection.",
+  "contextHindi": "कृष्ण आसुरी व्यक्ति का उद्धृत घमंड आगे बताते हैं, जिसमें शत्रु, शक्ति और पूर्णता की बात आती है।",
+  "sanskritDevanagari": "असौ मया हतः शत्रुर्हनिष्ये चापरानपि |\nईश्वरोऽहमहं भोगी सिद्धोऽहं बलवान्सुखी ||१६-१४||",
+  "transliteration": "asau mayā hataḥ śatrurhaniṣye cāparānapi .\nīśvaro.ahamahaṃ bhogī siddho.ahaṃ balavānsukhī ||16-14||",
+  "wordByWord": [
+    {
+      "term": "śatruḥ",
+      "meaning": "Enemy"
+    },
+    {
+      "term": "īśvaraḥ aham",
+      "meaning": "I am the lord; a quoted boast here"
+    },
+    {
+      "term": "bhogī",
+      "meaning": "Enjoyer"
+    },
+    {
+      "term": "siddhaḥ",
+      "meaning": "Perfect or accomplished, claimed by the speaker"
+    }
+  ],
+  "spokenHindi": "इस श्लोक की आवाज कहती है कि मैंने एक शत्रु को मार दिया और दूसरों को भी मारूँगा। फिर वह अपने को स्वामी, भोगी, पूर्ण, शक्तिशाली और सुखी घोषित करती है। कृष्ण यह घमंड उद्धृत कर रहे हैं; इसे उनका हिंसा करने का आदेश नहीं पढ़ना चाहिए। किसी दूसरे को हराना यहाँ अपनी श्रेष्ठता का प्रमाण बन गया है। साथ ही पूर्ण होने का दावा सीखने और सुधारने का दरवाजा बंद कर देता है। आधुनिक जीवन में इस प्रवृत्ति का छोटा रूप तब दिख सकता है जब असहमति को मिटाने योग्य शत्रु मान लिया जाए। यह उदाहरण श्लोक का अनुप्रयोग है, उसका पूरा ऐतिहासिक अर्थ नहीं। अपने मत की दृढ़ता रखते हुए भी दूसरे को मनुष्य समझना सम्भव है। यदि कोई वास्तविक खतरा हो, तो सुरक्षा और उचित सहायता लें; निजी बदला समाधान नहीं बनता। आज किसी विवाद में जीत के शब्दों की जगह समस्या के शब्द चुनें। कौन सा व्यवहार रोकना है और किस सीमा की जरूरत है, इसे साफ कहिए। दूसरों को कुचलना आत्मविश्वास का प्रमाण नहीं है।",
+  "clearEnglish": "The quoted speaker now boasts of killing an enemy and intending to kill others, then claims lordship, enjoyment, perfection, strength, and happiness. Krishna is exposing this speech within his description of the demoniacal disposition. It is neither a divine command to attack opponents nor a recommendation for self-confidence. The combination reveals a closed system: domination supposedly proves power, and claimed perfection prevents correction. A contemporary analogy can be found in treating disagreement as an enemy that must be eliminated rather than a problem that needs examination. That analogy does not erase the literal violence in the verse. It helps identify a smaller pattern before it becomes more harmful. Where danger is real, protective action and appropriate assistance are necessary; the passage does not require passive acceptance. In an ordinary conflict, separate the behaviour you oppose from a fantasy of crushing the person. State the boundary, evidence, and needed remedy. Confidence that remains answerable to facts is more useful than a boast of invulnerability.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna quotes violent and self-exalting claims made by the person he is describing."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Replacing fantasies of domination with a clear boundary is a modern application, not a literal instruction in the monologue."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Problem, not conquest",
+      "text": "Describe one conflict using the behaviour, evidence, and needed boundary instead of a victory slogan."
+    }
+  ],
+  "reflectionQuestion": "Am I trying to resolve harm or prove my superiority?",
+  "reflectionQuestionHindi": "क्या मैं नुकसान रोकना चाहता हूँ या अपनी श्रेष्ठता साबित करना चाहता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

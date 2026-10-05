@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-032",
+  "sequenceNumber": 404,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 32,
+  "verseEnd": 32,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "आत्मविद्या और सार्थक संवाद / Self-knowledge and reasoned dialogue",
+  "context": "Krishna names the course of creation, knowledge of the Self, and reasoning in debate.",
+  "contextHindi": "कृष्ण सृष्टि के आरंभ, मध्य और अंत, विद्याओं में आत्मविद्या और संवाद में वाद को रखते हैं।",
+  "sanskritDevanagari": "सर्गाणामादिरन्तश्च मध्यं चैवाहमर्जुन |\nअध्यात्मविद्या विद्यानां वादः प्रवदतामहम् ||१०-३२||",
+  "transliteration": "sargāṇāmādirantaśca madhyaṃ caivāhamarjuna .\nadhyātmavidyā vidyānāṃ vādaḥ pravadatāmaham ||10-32||",
+  "wordByWord": [
+    {
+      "term": "सर्गाणाम्",
+      "meaning": "of creations"
+    },
+    {
+      "term": "अध्यात्मविद्या",
+      "meaning": "knowledge or science of the Self"
+    },
+    {
+      "term": "वादः",
+      "meaning": "reasoned discussion or logic"
+    },
+    {
+      "term": "प्रवदताम्",
+      "meaning": "among those who debate or speak"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि सृष्टियों का आरंभ, अंत और मध्य वे हैं। विद्याओं में वे अध्यात्मविद्या हैं और विचार करने वालों में वाद। पहले भी प्राणियों के पूरे जीवनक्रम की बात आई थी; यहाँ सृष्टि के संदर्भ में वही व्यापक आधार फिर सामने आता है। अध्यात्मविद्या अपने वास्तविक स्वरूप के बारे में ज्ञान है, केवल किसी धार्मिक संस्था का नाम नहीं। वाद को दिए गए संस्करण में विवाद करने वालों के बीच तर्क कहा गया है। इससे बातचीत का उद्देश्य सोचा जा सकता है। हम अक्सर जवाब देने की तैयारी करते हुए सुनते हैं; समझ बढ़ाने वाला संवाद किसी दावे के कारण और सीमा भी जांचता है। यह हमारा आधुनिक प्रयोग है, श्लोक में बहस की पूरी विधि नहीं दी गई। किसी मतभेद में सामने वाले का तर्क अपने शब्दों में ठीक से दोहराना एक शुरुआत हो सकती है। फिर बताएं कि किस तथ्य या मान्यता पर अंतर है। आत्मविद्या और वाद को साथ सुनना याद दिलाता है कि भीतर की खोज और विचार की स्पष्टता एक दूसरे से अलग बंद कमरे नहीं बनने चाहिए।",
+  "clearEnglish": "Krishna returns to beginning, middle and end, now in relation to creations, then identifies knowledge of the Self among sciences and vada among those who debate. The supplied edition renders vada as logic among controversialists. This pairing gives the catalogue an intellectual dimension. Self-knowledge is a field of inquiry, and reasoned discussion has a place within divine prominence. It would be too narrow to read the passage as a dismissal of questioning. At the same time, the verse does not lay out a complete debate method or say that every dispute is spiritually productive. A useful application is to distinguish inquiry from an effort merely to defeat someone. Before disagreeing, state the other person's argument in terms they can recognize. Then identify the actual point of difference: evidence, definition or assumption. That method is our practical extension. The textual identifications remain broad, but they create space to think of careful reasoning and inward inquiry as related pursuits rather than mutually exclusive habits.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies the course of creation, Self-knowledge among sciences, and reasoned discussion among debaters."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Understanding an argument before disagreeing is a modern application of the value placed on reasoned discussion."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Restate before replying",
+      "text": "In one manageable disagreement, restate the other person's point fairly. Then name the precise evidence or assumption on which you differ."
+    }
+  ],
+  "reflectionQuestion": "Am I seeking clearer understanding or only the last word?",
+  "reflectionQuestionHindi": "मैं अधिक स्पष्ट समझ चाहता हूँ या केवल आखिरी बात कहने की जीत?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

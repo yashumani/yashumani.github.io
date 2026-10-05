@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-035",
+  "sequenceNumber": 407,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 35,
+  "verseEnd": 35,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "गान, छंद और ऋतु / Hymn, metre and season",
+  "context": "Krishna names Brihatsaman, Gayatri metre, Margashirsha and the flowering season.",
+  "contextHindi": "कृष्ण सामगान, छंद, महीनों और ऋतुओं में विशिष्ट उदाहरण देते हैं।",
+  "sanskritDevanagari": "बृहत्साम तथा साम्नां गायत्री छन्दसामहम् |\nमासानां मार्गशीर्षोऽहमृतूनां कुसुमाकरः ||१०-३५||",
+  "transliteration": "bṛhatsāma tathā sāmnāṃ gāyatrī chandasāmaham .\nmāsānāṃ mārgaśīrṣo.ahamṛtūnāṃ kusumākaraḥ ||10-35||",
+  "wordByWord": [
+    {
+      "term": "बृहत्साम",
+      "meaning": "Brihatsaman hymn"
+    },
+    {
+      "term": "गायत्री",
+      "meaning": "Gayatri metre here"
+    },
+    {
+      "term": "मार्गशीर्षः",
+      "meaning": "Margashirsha month"
+    },
+    {
+      "term": "कुसुमाकरः",
+      "meaning": "flowering season; spring"
+    }
+  ],
+  "spokenHindi": "कृष्ण सामगानों में बृहत्साम, छंदों में गायत्री, महीनों में मार्गशीर्ष और ऋतुओं में फूलों से भरी ऋतु कहते हैं। गायत्री यहाँ छंद की श्रेणी में आती है। उसके नाम को सुनकर किसी विशेष मंत्र या पूजा की सारी नियमावली इस श्लोक में मान लेना उचित नहीं। गान और छंद में लय है; महीने और ऋतु में समय की पहचान। इसलिए सूची एक तरह से सुनने और मौसम देखने की दुनिया को साथ रखती है। मार्गशीर्ष भारतीय धार्मिक कैलेंडर का महीना है; उसे हर वर्ष किसी एक निश्चित आधुनिक तारीख से बाँध देना इस पाठ की बात नहीं। कुसुमाकर को दिए गए संस्करण में फूलों की ऋतु कहा गया है। हमारे लिए यह जीवन की बदलती लय पर ध्यान का अवसर हो सकता है। आसपास आज वास्तव में कौन सा मौसम है, उसे देखें; श्लोक के वसंत को अपनी वर्तमान स्थिति पर थोपना जरूरी नहीं। किसी पंक्ति को स्वाभाविक लय में पढ़ें और फिर एक मौसमी बदलाव पहचानें। यह छोटा अभ्यास सूची की विविधता को अनुभव से जोड़ता है।",
+  "clearEnglish": "Sound and time are the organizing domains here. Brihatsaman is named among Sama hymns, Gayatri among metres, Margashirsha among months, and the flowering season among seasons. The category attached to Gayatri matters: the verse identifies a metre, rather than supplying a complete ritual manual for a particular mantra. Likewise, a traditional calendar month should not be assigned one fixed Gregorian date without further evidence. The flowering season evokes a recognizable change in the environment, but its contemplative use need not require pretending that every listener is currently experiencing spring. A modern application is attention to rhythm as it actually occurs. Read a short line aloud at an unforced pace, then notice a real seasonal feature nearby: light, temperature, leaf growth or rainfall. This is an exercise inspired by the examples, not a procedure specified in the text. The verse's range reminds us that divine prominence may be found in structured sound as well as in the unfolding patterns of time.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names Brihatsaman, Gayatri metre, Margashirsha and the flowering season."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Attending to actual rhythm and season is an application; the verse does not supply a ritual manual or fixed modern calendar dates."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Notice rhythm and season",
+      "text": "Read one short line at a natural pace, then identify one seasonal change you can actually observe nearby."
+    }
+  ],
+  "reflectionQuestion": "Which recurring rhythm in my day do I move through without noticing?",
+  "reflectionQuestionHindi": "मेरे दिन की किस दोहराती लय से मैं बिना ध्यान दिए गुजरता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

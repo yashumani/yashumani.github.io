@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-037",
+  "sequenceNumber": 409,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 37,
+  "verseEnd": 37,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "अर्जुन भी उदाहरण / Arjuna within the catalogue",
+  "context": "Krishna names Vasudeva, Arjuna, Vyasa and Ushana among lineages, sages and poets.",
+  "contextHindi": "कृष्ण वृष्णियों में वासुदेव, पांडवों में अर्जुन, मुनियों में व्यास और कवियों में उशना कहते हैं।",
+  "sanskritDevanagari": "वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जयः |\nमुनीनामप्यहं व्यासः कवीनामुशना कविः ||१०-३७||",
+  "transliteration": "vṛṣṇīnāṃ vāsudevo.asmi pāṇḍavānāṃ dhanañjayaḥ .\nmunīnāmapyahaṃ vyāsaḥ kavīnāmuśanā kaviḥ ||10-37||",
+  "wordByWord": [
+    {
+      "term": "वासुदेवः",
+      "meaning": "Vasudeva; Krishna here"
+    },
+    {
+      "term": "धनञ्जयः",
+      "meaning": "Dhananjaya; Arjuna"
+    },
+    {
+      "term": "मुनीनाम्",
+      "meaning": "among sages"
+    },
+    {
+      "term": "कवीनाम्",
+      "meaning": "among poets or seers"
+    }
+  ],
+  "spokenHindi": "कृष्ण वृष्णियों में वासुदेव, पांडवों में धनंजय, मुनियों में व्यास और कवियों में उशना कवि कहते हैं। धनंजय अर्जुन का नाम है। यानी जो अभी पूछ रहा है, वह खुद भी विभूति के उदाहरणों में आ जाता है। यह संवाद का निजी क्षण है: बड़े धार्मिक और प्राकृतिक उदाहरणों के बीच अर्जुन की परिचित जिंदगी भी जगह पाती है। वासुदेव कृष्ण का संबोधन है; इसे इस संदर्भ में उनके पिता के अलग नाम से मिलाकर क्रम उलझाना नहीं चाहिए। व्यास और उशना ज्ञान तथा काव्य की अलग भूमिकाएँ सामने लाते हैं। इनके नाम से हर वंश सदस्य या हर कवि की समान सिद्धि घोषित नहीं होती। हमारा उपयोग यह हो सकता है कि प्रेरणा हमेशा दूर के असाधारण व्यक्ति में ही न खोजें। अपने परिचित संसार में किसी की वास्तविक दक्षता या सजगता पहचानें। साथ ही प्रशंसा को व्यक्ति की पूरी पहचान न बनाएं। अर्जुन की क्षमता का सम्मान उनके प्रश्नों की जरूरत समाप्त नहीं करता। अच्छा गुण और सीखते रहने की स्थिति एक व्यक्ति में साथ रह सकते हैं।",
+  "clearEnglish": "The listener himself becomes one of the examples: Dhananjaya is Arjuna, named among the Pandavas. Krishna also names Vasudeva among the Vrishnis, Vyasa among sages and Ushana among poets. Vasudeva refers to Krishna in this setting, and the similar names associated with his family should not be carelessly interchanged. Arjuna's inclusion gives the catalogue a personal immediacy. Divine prominence is not confined to remote celestial objects; the ongoing interlocutor is recognized within his own category. Yet the verse does not say that every member of a lineage has identical attainment or that being praised removes the need to learn. Arjuna still has questions. A modern application is specific appreciation within familiar life. Notice a demonstrated skill or thoughtful act in someone you know and describe it accurately, without turning one strength into an account of their entire character. This permits respect and fallibility to coexist. The textual content remains the four identifications; the broader practice of careful appreciation is our inference.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies Vasudeva, Arjuna as Dhananjaya, Vyasa and Ushana in their categories."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Recognizing a real strength need not imply infallibility or hereditary attainment."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Specific appreciation",
+      "text": "Acknowledge one demonstrated skill or thoughtful action in someone you know. Name the evidence rather than offering an unlimited judgment about their character."
+    }
+  ],
+  "reflectionQuestion": "Can I recognize someone's strength without expecting them to be beyond mistakes?",
+  "reflectionQuestionHindi": "क्या मैं किसी की क्षमता मान सकता हूँ, उससे भूलों से परे होने की अपेक्षा किए बिना?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

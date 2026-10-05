@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-027",
+  "sequenceNumber": 650,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 27,
+  "verseEnd": 27,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "फल की पकड़ में कर्ता / The doer governed by reward",
+  "context": "Krishna describes the rajasic doer through attachment, fruit-seeking, greed, harmfulness, impurity, and movement by joy and grief.",
+  "contextHindi": "कृष्ण आसक्त, फल चाहने वाले, लोभी, हिंसक, अशुद्ध और हर्ष-शोक से चलने वाले कर्ता को राजसिक बताते हैं।",
+  "sanskritDevanagari": "रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः |\nहर्षशोकान्वितः कर्ता राजसः परिकीर्तितः ||१८-२७||",
+  "transliteration": "rāgī karmaphalaprepsurlubdho hiṃsātmako.aśuciḥ .\nharṣaśokānvitaḥ kartā rājasaḥ parikīrtitaḥ ||18-27||",
+  "wordByWord": [
+    {
+      "term": "rāgī",
+      "meaning": "Attached or passionate"
+    },
+    {
+      "term": "karmaphalaprepsuḥ",
+      "meaning": "Seeking the fruit of action"
+    },
+    {
+      "term": "lubdhaḥ",
+      "meaning": "Greedy"
+    },
+    {
+      "term": "harṣaśokānvitaḥ",
+      "meaning": "Accompanied or moved by joy and sorrow"
+    }
+  ],
+  "spokenHindi": "कृष्ण राजसिक कर्ता में आसक्ति, कर्मफल की चाह, लोभ, हिंसक स्वभाव, अशुद्धता और हर्ष तथा शोक से चलना बताते हैं। यह पूरे गुणसमूह का वर्णन है। केवल किसी व्यक्ति को खुशी या दुख हुआ, इसलिए वह इस श्रेणी में है, ऐसा फैसला नहीं दिया जा सकता। महत्वपूर्ण बात यह है कि फल की पकड़ व्यवहार को किस दिशा में ले जाती है। यदि लाभ मिलता है तो हम दूसरों का श्रेय खा लेते हैं; लाभ रुकता है तो नुकसान पहुँचाने की इच्छा बढ़ती है। यह आधुनिक उदाहरण है, श्लोक में दी घटना नहीं। परिणाम के साथ जुड़ी खुशी और परेशानी को पहचानना उपयोगी है, लेकिन उन्हें दूसरों से अन्याय का आधार न दें। आज कोई लाभ की अपेक्षा वाला काम देखें। क्या उसकी चाह ने सही तरीका बदल दिया है? किसी की जरूरत दब रही है या सीमा तोड़ी जा रही है? जहां ऐसा दिखे, एक ठोस सुधार करें। खुद पर कठोर लेबल लगाने से अधिक उपयोगी है फल की पकड़ के कारण बिगड़े व्यवहार को ठीक करना।",
+  "clearEnglish": "Krishna describes the rajasic agent as attached, seeking the fruits of action, greedy, harmful, impure, and moved by joy and grief. These features form a combined pattern; a moment of happiness or sadness alone is not evidence for assigning a whole person to the category. The practical concern is how attachment to reward changes conduct. A modern example is taking another's credit when an outcome is favourable and becoming vindictive when recognition is withheld. That example is an inference rather than an event stated in the verse. Feelings can be noticed without granting them authority to justify unfair methods. Examine one task in which a personal benefit matters strongly. Has the hoped-for reward altered the terms, hidden a cost, or narrowed attention to someone else's welfare? If so, make a specific correction. The practice aims at conduct that can change, not a sweeping accusation about your identity. The verse's catalogue is most useful when it reveals an action requiring greater care.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies a rajasic doer through attachment, fruit-seeking, greed, harmfulness, impurity, and movement by joy and grief."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Checking whether reward-seeking has changed fair methods is a modern application; a single emotion does not classify a person."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Check the method",
+      "text": "In one reward-focused task, inspect whether your method remains fair and correct any identifiable harm."
+    }
+  ],
+  "reflectionQuestion": "Has my desired reward changed what I consider acceptable?",
+  "reflectionQuestionHindi": "क्या मनचाहे फल ने मेरे लिए स्वीकार्य तरीके की सीमा बदल दी है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

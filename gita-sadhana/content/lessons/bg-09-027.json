@@ -1,0 +1,75 @@
+{
+  "id": "bg-09-027",
+  "sequenceNumber": 365,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 27,
+  "verseEnd": 27,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "कर्म, भोजन और दान का अर्पण | Offering ordinary and sacred actions",
+  "context": "After accepting simple devotional gifts, Krishna tells Arjuna to make his actions an offering to him.",
+  "contextHindi": "सरल भक्ति अर्पण स्वीकार करने की बात के बाद कृष्ण अर्जुन को अपने कर्म अर्पण बनाने को कहते हैं।",
+  "sanskritDevanagari": "यत्करोषि यदश्नासि यज्जुहोषि ददासि यत् |\nयत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम् ||९-२७||",
+  "transliteration": "yatkaroṣi yadaśnāsi yajjuhoṣi dadāsi yat .\nyattapasyasi kaunteya tatkuruṣva madarpaṇam ||9-27||",
+  "wordByWord": [
+    {
+      "term": "यत् करोषि",
+      "meaning": "Whatever you do."
+    },
+    {
+      "term": "यत् अश्नासि",
+      "meaning": "Whatever you eat."
+    },
+    {
+      "term": "जुहोषि",
+      "meaning": "You offer in sacrifice."
+    },
+    {
+      "term": "ददासि",
+      "meaning": "You give."
+    },
+    {
+      "term": "तपस्यसि",
+      "meaning": "You practice as austerity."
+    },
+    {
+      "term": "मदर्पणम्",
+      "meaning": "An offering to me."
+    }
+  ],
+  "spokenHindi": "कृष्ण अर्जुन से कहते हैं कि जो करो, जो खाओ, जो यज्ञ में अर्पित करो, जो दो और जो तप करो, उसे उनके लिए अर्पण बनाओ। सूची में भोजन जैसी साधारण क्रिया और यज्ञ जैसी धार्मिक क्रिया साथ हैं। इसलिए अर्पण का प्रसंग केवल विशेष पूजा के कमरे तक सीमित नहीं रहता। फिर भी हर काम को केवल अर्पण नाम देकर सही साबित नहीं किया जा सकता। अगर किसी काम से नुकसान हो रहा है, तो उसके उद्देश्य और प्रभाव को जाँचना ज़रूरी है। यह हमारी नैतिक सावधानी है; श्लोक गलत कर्म को उचित घोषित नहीं करता। आज एक सामान्य काम चुन सकते हैं, जैसे भोजन तैयार करना या साझा जगह साफ़ करना। शुरू में थोड़ी देर कृष्ण को याद करें और फिर काम ध्यान से करें। अर्पण की भावना काम की गुणवत्ता से भागने का बहाना न बने। तप का उदाहरण भी शरीर को चोट देने की सलाह नहीं है। छोटे, समझदार अनुशासन को श्रद्धा के साथ निभाना हमारा अनुप्रयोग हो सकता है। इस पंक्ति में जीवन की कई क्रियाओं को एक भक्तिमय दिशा मिलती है।",
+  "clearEnglish": "The instruction spans five kinds of activity: doing, eating, sacrificing, giving, and practicing austerity. Krishna asks Arjuna to make them an offering to him. Including food alongside ritual and discipline broadens the devotional setting into ordinary life. The verse is an imperative about orientation, not simply a description of a special gift accepted earlier. A contemporary practice can begin with one ordinary task and a brief recollection of its devotional purpose. That orientation should accompany attention to the task's actual effects. Calling an act an offering does not remove responsibility for harm or make poor work acceptable. Those are ethical safeguards in applying the text, rather than additional clauses in the Sanskrit. Similarly, austerity need not become self-injury; a modest sustainable discipline is a suitable application for a modern listener. The central textual movement is toward Krishna as the recipient of activities across the day. The useful question is how that recollection changes care and intention in a concrete act, rather than how religious wording can excuse its consequences.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna instructs Arjuna to offer to him whatever he does, eats, sacrifices, gives, or practices as austerity."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "One ordinary act can be performed with devotional intention and care; calling an act an offering does not excuse harm or unsafe austerity."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Offer one ordinary task",
+      "text": "Before one helpful task, briefly remember Krishna, then do the task with attention to its effects."
+    }
+  ],
+  "reflectionQuestion": "How would offering this act change the care I give it?",
+  "reflectionQuestionHindi": "इस काम को अर्पण मानने से मैं उसमें कौन-सी सावधानी बढ़ाऊँगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

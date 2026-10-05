@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-027",
+  "sequenceNumber": 399,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 27,
+  "verseEnd": 27,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "पौराणिक वैभव और राजा / Mythic grandeur and kingship",
+  "context": "Krishna names the nectar-born horse, Airavata and the king among humans.",
+  "contextHindi": "कृष्ण अमृत से उत्पन्न उच्चैःश्रवा, ऐरावत और मनुष्यों में राजा को उदाहरण बनाते हैं।",
+  "sanskritDevanagari": "उच्चैःश्रवसमश्वानां विद्धि माममृतोद्भवम् |\nऐरावतं गजेन्द्राणां नराणां च नराधिपम् ||१०-२७||",
+  "transliteration": "uccaiḥśravasamaśvānāṃ viddhi māmamṛtodbhavam .\nairāvataṃ gajendrāṇāṃ narāṇāṃ ca narādhipam ||10-27||",
+  "wordByWord": [
+    {
+      "term": "उच्चैःश्रवसम्",
+      "meaning": "Ucchaihshravas, the named mythic horse"
+    },
+    {
+      "term": "अमृतोद्भवम्",
+      "meaning": "arisen from nectar"
+    },
+    {
+      "term": "ऐरावतम्",
+      "meaning": "Airavata, the named lordly elephant"
+    },
+    {
+      "term": "नराधिपम्",
+      "meaning": "king or ruler of humans"
+    }
+  ],
+  "spokenHindi": "कृष्ण अर्जुन से कहते हैं कि घोड़ों में मुझे अमृत से उत्पन्न उच्चैःश्रवा जानो, श्रेष्ठ हाथियों में ऐरावत और मनुष्यों में राजा। पहले दो नाम पौराणिक वैभव के हैं; तीसरा उस समय की सामाजिक नेतृत्व व्यवस्था से जुड़ा है। अमृतोद्भव घोड़े के धार्मिक उद्गम का विशेषण है। इस पद से किसी आज के पशु के बारे में जैविक दावा निकालना श्लोक का उद्देश्य नहीं होगा। राजा का उदाहरण खास सावधानी माँगता है। किसी शासक में विभूति का संकेत देखकर उसकी हर नीति को धर्म मान लेना आवश्यक निष्कर्ष नहीं है। पद और नैतिक चरित्र अलग जांच के विषय रहते हैं। हम इस उदाहरण को लोगों की साझा जिंदगी पर प्रभाव रखने वाली जिम्मेदारी के रूप में पढ़ सकते हैं। यह हमारा आधुनिक नैतिक उपयोग है। अपने छोटे अधिकार में, जैसे बैठक का समय तय करना या घर का काम बाँटना, देखें कि निर्णय से किसे लाभ और किसे असुविधा होगी। बड़ा नाम केवल आकर्षण पैदा करे, इतना पर्याप्त नहीं; प्रभाव के साथ जवाबदेही का विचार भी रखा जा सकता है।",
+  "clearEnglish": "Two mythic animals precede a human office: Ucchaihshravas, described as nectar-born, Airavata among lordly elephants, and the king among humans. The first descriptions belong to sacred narrative. Their role here is to evoke extraordinary prominence, not to supply a zoological history. Kingship then introduces political magnitude into the catalogue. A careful interpretation keeps prominence separate from blanket moral endorsement. Naming the king as a manifestation does not make every ruler's decision just or remove the need to assess the effects of power. That distinction is especially useful for a modern listener, for whom a sacred reference should not become an argument for unquestioning loyalty. One application concerns small areas of authority that many people hold: scheduling, allocating resources or coordinating a household. Consider who bears the cost of a decision before making it. This translates the idea of influence into responsibility while remaining clearly an inference. The verse itself identifies its exemplars; it does not prescribe a modern form of government or a complete ethic of leadership.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies Ucchaihshravas, Airavata and the king among humans."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Considering the impact of authority is an application; kingship is not a guarantee of justice."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Consider the cost of authority",
+      "text": "Before deciding a shared schedule or allocating a resource, ask who will bear the inconvenience. Adjust the decision where a fair alternative exists."
+    }
+  ],
+  "reflectionQuestion": "Who is affected by decisions I regard as small?",
+  "reflectionQuestionHindi": "मेरे जिन्हें मैं छोटे फैसले मानता हूँ, उनसे किन लोगों पर असर पड़ता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

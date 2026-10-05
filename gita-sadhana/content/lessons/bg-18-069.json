@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-069",
+  "sequenceNumber": 692,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 69,
+  "verseEnd": 69,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "The service of teaching / समझाने की सेवा",
+  "context": "Krishna continues praising the devoted person who shares this teaching with his devotees.",
+  "contextHindi": "कृष्ण भक्तों तक यह शिक्षा पहुँचाने वाले व्यक्ति के बारे में अपना स्नेह आगे व्यक्त करते हैं।",
+  "sanskritDevanagari": "न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः |\nभविता न च मे तस्मादन्यः प्रियतरो भुवि ||१८-६९||",
+  "transliteration": "na ca tasmānmanuṣyeṣu kaścinme priyakṛttamaḥ .\nbhavitā na ca me tasmādanyaḥ priyataro bhuvi ||18-69||",
+  "wordByWord": [
+    {
+      "term": "tasmāt",
+      "meaning": "than that person, the devoted teacher of the preceding verse"
+    },
+    {
+      "term": "priyakṛttamaḥ",
+      "meaning": "one doing what is dearest to me"
+    },
+    {
+      "term": "priyataraḥ",
+      "meaning": "dearer"
+    },
+    {
+      "term": "bhuvi",
+      "meaning": "on earth"
+    }
+  ],
+  "spokenHindi": "यहाँ तस्मात् का संकेत पिछले श्लोक के उस व्यक्ति की ओर है जो कृष्ण के भक्तों को उनकी गहरी शिक्षा समझाता है। कृष्ण कहते हैं कि मनुष्यों में उनसे प्रिय सेवा करने वाला कोई नहीं, और धरती पर उससे अधिक प्रिय कोई नहीं होगा। इतना ऊँचा कथन सुनते समय पिछले श्लोक का संदर्भ साथ रखना जरूरी है। यह किसी भी प्रचारक को दूसरों पर अधिकार देने वाला प्रमाण पत्र नहीं है। स्वामी शिवानंद की टिप्पणी भी इसी बात पर ठहरती है कि गीता को भक्तों तक पहुँचाना कृष्ण की बड़ी सेवा है। टिप्पणी सम्मान का कारण समझाती है; उसका मतलब यह नहीं कि एक शिक्षक गलती से ऊपर उठ गया। हम आज इससे यह सीख निकाल सकते हैं कि किसी उपयोगी बात को धैर्य और सच्चाई से आगे पहुँचाना स्वयं एक सेवा हो सकता है। लेकिन श्रोता की स्वतंत्रता, स्रोत की शुद्धता और अपनी सीमाओं की ईमानदार स्वीकृति जरूरी हैं। ये हमारी नैतिक सावधानियाँ हैं, श्लोक में लिखे अलग नियम नहीं। प्रिय बनने की दौड़ से अधिक महत्वपूर्ण है वह व्यक्ति जिसे सच में मदद मिल रही है।",
+  "clearEnglish": "The pronoun 'that person' reaches back to the devoted teacher in verse 68. Krishna says no one among human beings performs a service dearer to him, and no one on earth will be dearer. Read on its own, the superlative can sound like a blanket endorsement of anyone claiming to teach. Its antecedent makes the claim more precise: a person conveys this teaching among devotees with devotion to Krishna. Sivananda's supplied commentary explicitly explains this as immense service in handing down the Gita. That is a named commentary on the verse, not a separate sentence spoken by Krishna. The verse expresses Krishna's valuation of transmission; it does not certify a modern teacher as infallible or excuse coercion. An inference for present practice is that patient, accurate explanation can matter more than status or reach. It should remain open to correction because the teacher is serving something larger than personal reputation. When we pass on a cherished text, we can ask whether the listener gains clearer understanding and retains room for their own response.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna calls the devoted transmitter described in 18.68 his dearest servant among human beings and says no one on earth will be dearer."
+    },
+    {
+      "label": "COMMENTARY: Swami Sivananda",
+      "explanation": "The supplied DLS commentary identifies handing down the Gita to devotees as immense service to Krishna; this gloss is the commentator's explanation."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Accurate, patient teaching may be service, but no claim of teacher infallibility follows from the verse."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Teach one thing well / एक बात ठीक से",
+      "text": "When invited to explain a passage, verify its wording and context, then offer one clear point and welcome correction."
+    }
+  ],
+  "reflectionQuestion": "Does my way of teaching serve understanding more than my own status?",
+  "reflectionQuestionHindi": "मेरे समझाने से दूसरे की समझ बढ़ती है या मेरी अपनी छवि अधिक महत्वपूर्ण हो जाती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

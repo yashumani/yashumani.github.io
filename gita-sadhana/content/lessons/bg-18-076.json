@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-076",
+  "sequenceNumber": 699,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 76,
+  "verseEnd": 76,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Remembering the conversation with joy / संवाद की स्मृति में आनंद",
+  "context": "Sanjaya addresses the king and describes the joy that repeatedly returns when he remembers Krishna and Arjuna's dialogue.",
+  "contextHindi": "संजय राजा धृतराष्ट्र से कहता है कि कृष्ण और अर्जुन का संवाद याद कर उसे बार बार आनंद होता है।",
+  "sanskritDevanagari": "राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम् |\nकेशवार्जुनयोः पुण्यं हृष्यामि च मुहुर्मुहुः ||१८-७६||",
+  "transliteration": "rājansaṃsmṛtya saṃsmṛtya saṃvādamimamadbhutam .\nkeśavārjunayoḥ puṇyaṃ hṛṣyāmi ca muhurmuhuḥ ||18-76||",
+  "wordByWord": [
+    {
+      "term": "rājan",
+      "meaning": "O king, addressing Dhritarashtra"
+    },
+    {
+      "term": "saṃsmṛtya saṃsmṛtya",
+      "meaning": "remembering again and again"
+    },
+    {
+      "term": "saṃvādam",
+      "meaning": "the dialogue"
+    },
+    {
+      "term": "puṇyam",
+      "meaning": "holy or auspicious"
+    },
+    {
+      "term": "hṛṣyāmi muhur muhuḥ",
+      "meaning": "I rejoice repeatedly"
+    }
+  ],
+  "spokenHindi": "संजय राजा धृतराष्ट्र को संबोधित करके कहता है: केशव और अर्जुन के इस अद्भुत, पवित्र संवाद को बार बार याद करता हूँ, तो मुझे बार बार आनंद होता है। संस्मृत्य संस्मृत्य की दोहराई केवल सजावट नहीं है; वह स्मृति के लौटते रहने को कानों में उतारती है। मुहुर्मुहुः भी आनंद के फिर लौटने को कहता है। पिछले श्लोक में संजय ने बताया था कि वह यह योग कैसे सुन सका। अब वह बताता है कि सुनी हुई बातचीत उसके भीतर कैसे जीवित है। यह उसकी अपनी अनुभूति है, सभी पाठकों के लिए एक ही भाव महसूस करने का आदेश नहीं। हमें भी किसी अच्छी बातचीत को कभी फिर से याद करके देखने से नया अर्थ मिल सकता है। यह आधुनिक अनुमान है। पर यादें हमेशा सुखद नहीं होतीं; जिसे किसी घटना की स्मृति से पीड़ा होती हो, उसे बार बार उसमें लौटने के लिए दबाव न दें। यहाँ संजय के लिए याद करना हर्ष का स्रोत है। सुनना, याद रखना और अपनी प्रतिक्रिया को पहचानना, तीनों इस छोटे वाक्य में मिलते हैं।",
+  "clearEnglish": "Addressing Dhritarashtra as king, Sanjaya says that whenever he remembers the wonderful and holy conversation of Keshava and Arjuna, he rejoices again and again. The repeated verbs give the verse its rhythm. Remembering recurs, and joy recurs with it. Verse 75 told how he heard; this verse tells what continued to happen afterward. The object of recollection is specifically the dialogue between two people, not the later vision of Hari's form, which Sanjaya will mention separately in the next verse. This distinction keeps the closing testimony precise. The verse reports Sanjaya's experience; it does not require every listener to feel joy or prove the truth of an interpretation through emotional intensity. A possible present day application is to revisit a conversation that helped us see more clearly, noting which words still matter. We should choose such memories freely. For someone whose recollections cause distress, forcing repeated review would be unkind and is not Sanjaya's instruction. His testimony lets us see how meaningful speech can stay alive through remembrance.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Sanjaya tells the king that repeated recollection of Krishna and Arjuna's wonderful, holy dialogue repeatedly brings him joy."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Freely revisiting a helpful conversation may deepen understanding; Sanjaya's joy is his own report, not a requirement imposed on others."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Recall a helpful exchange / सहायक बात याद करें",
+      "text": "If comfortable, recall one conversation that clarified something and note the particular words that stayed with you."
+    }
+  ],
+  "reflectionQuestion": "Which remembered exchange still helps me see clearly, and why?",
+  "reflectionQuestionHindi": "कौन सी पुरानी बातचीत आज भी मुझे स्पष्टता देती है, और क्यों?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

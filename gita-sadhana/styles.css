@@ -353,7 +353,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .lesson-body { padding: 30px 34px 36px; }
 .verse-block { margin-bottom: 28px; padding: 28px; border: 1px solid rgba(124,55,72,0.14); border-radius: 20px; background: linear-gradient(145deg, rgba(124,55,72,0.04), rgba(196,155,69,0.06)); text-align: center; }
 .sanskrit { margin: 0; color: var(--maroon); font-family: var(--devanagari); font-size: clamp(1.45rem, 3vw, 2.15rem); line-height: 1.85; }
-.transliteration { margin: 14px 0 0; color: var(--ink-soft); font-family: var(--serif); font-size: 1.04rem; font-style: italic; line-height: 1.8; }
+.transliteration { margin: 14px 0 0; color: var(--ink-soft); font-family: var(--serif); font-size: 1.04rem; font-style: italic; line-height: 1.8; overflow-wrap: anywhere; }
 .word-grid { margin: 0 0 24px; display: flex; flex-wrap: wrap; gap: 8px; }
 .word-chip { padding: 8px 11px; border-radius: 10px; background: rgba(41,38,83,0.055); color: var(--ink-soft); font-size: 0.75rem; }
 .word-chip b { color: var(--indigo); }
@@ -378,6 +378,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 
 .section-foundation { position: relative; }
 .section-foundation::before { content: ""; position: absolute; inset: 70px -22px auto; height: 320px; z-index: -1; border-radius: 50%; background: radial-gradient(ellipse, rgba(124,55,72,0.06), transparent 70%); }
+@media (max-width: 600px) { .section-foundation::before { inset-inline: 0; } }
 .foundation-content { display: grid; gap: 24px; }
 .loading-card { padding: 36px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper); color: var(--ink-soft); text-align: center; }
 .foundation-verse { overflow: hidden; border: 1px solid rgba(124,55,72,0.2); border-radius: var(--radius-lg); background: var(--paper-solid); box-shadow: var(--shadow-md); }

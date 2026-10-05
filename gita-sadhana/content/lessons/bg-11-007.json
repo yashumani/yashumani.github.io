@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-007",
+  "sequenceNumber": 421,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 7,
+  "verseEnd": 7,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "एक में पूरा जगत / The whole world in one",
+  "context": "Krishna invites Arjuna to see the entire moving and unmoving universe together in his body.",
+  "contextHindi": "कृष्ण अर्जुन को अपने शरीर में चर और अचर सहित पूरा जगत एक स्थान में देखने को कहते हैं।",
+  "sanskritDevanagari": "इहैकस्थं जगत्कृत्स्नं पश्याद्य सचराचरम् |\nमम देहे गुडाकेश यच्चान्यद् द्रष्टुमिच्छसि ||११-७||",
+  "transliteration": "ihaikasthaṃ jagatkṛtsnaṃ paśyādya sacarācaram .\nmama dehe guḍākeśa yaccānyad draṣṭumicchasi ||11-7||",
+  "wordByWord": [
+    {
+      "term": "एकस्थम्",
+      "meaning": "situated together in one"
+    },
+    {
+      "term": "जगत् कृत्स्नम्",
+      "meaning": "the whole universe"
+    },
+    {
+      "term": "सचराचरम्",
+      "meaning": "with moving and unmoving"
+    },
+    {
+      "term": "मम देहे",
+      "meaning": "in my body"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि आज उनके शरीर में एक स्थान पर पूरा जगत देखो, चर और अचर सहित, और जो कुछ और देखना चाहते हो वह भी। पिछले अध्याय में सभी प्राणियों के आधार की बात थी; यहाँ उसी व्यापकता का दर्शन सामने आने वाला है। एकस्थम् अनेक चीजों का केवल ढेर नहीं, उन्हें एक में साथ देखने का संकेत देता है। चराचर से चलने वाले और स्थिर रूप दोनों शामिल हैं। इसे किसी सामान्य व्यक्ति के शरीर में सचमुच पूरा भौतिक ब्रह्मांड होने का दावा बनाना नहीं चाहिए। कथा में कृष्ण का दिव्य रूप विषय है। हमारा साधारण अनुप्रयोग किसी परिस्थिति को अलग टुकड़ों की बजाय संबंधों में देखना हो सकता है। भोजन की थाली में केवल अंतिम चीज नहीं, खेती, पानी, काम और परिवहन का सहयोग भी याद करें। यह मानवीय संबंधों की सीमित तुलना है, विश्वरूप के बराबर अनुभव नहीं। छोटे हिस्से पर ध्यान देना जरूरी रहता है, पर कभी पूरा संदर्भ देखना उस हिस्से की जिम्मेदारी भी साफ करता है। अर्जुन की देखने की इच्छा को कृष्ण व्यापक उत्तर देते हैं।",
+  "clearEnglish": "Krishna offers the entire universe centered in one body, including moving and unmoving beings and whatever else Arjuna wishes to see. The phrase ekastham emphasizes togetherness: the coming vision will not be a sequence of unrelated samples. The universal claim of the previous chapter is moving into a visual scene. Its subject is Krishna's divine body, not a claim that an ordinary human body physically contains all astronomical space. A contemporary analogy can help with the relation between parts and whole, but should remain modest. An everyday meal brings together farming, water, labor and transport, even though only the finished food is visible. Noticing those relations is not the cosmic vision; it is a way to broaden ordinary attention. The application may make a single act of care more informed. One can still focus on a particular task while remembering its larger setting. The verse itself is an expansive invitation, preparing Arjuna to see diversity gathered rather than leaving it as disconnected detail.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna invites Arjuna to see the whole moving and unmoving universe together in his body."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Tracing ordinary connections is a limited analogy, not an equivalent of the divine vision."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Trace a whole",
+      "text": "At a meal, name three processes supporting the food before you. Choose one small act that respects those supports, such as reducing waste."
+    }
+  ],
+  "reflectionQuestion": "What connections disappear when I look only at the finished result?",
+  "reflectionQuestionHindi": "केवल अंतिम परिणाम देखने से कौन से संबंध मेरी नजर से छूट जाते हैं?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

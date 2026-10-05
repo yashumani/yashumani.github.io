@@ -1,0 +1,71 @@
+{
+  "id": "bg-08-027",
+  "sequenceNumber": 337,
+  "date": "2026-10-05",
+  "chapter": 8,
+  "verseStart": 27,
+  "verseEnd": 27,
+  "chapterNameSanskrit": "अक्षरब्रह्मयोग",
+  "chapterNameEnglish": "Akṣara Brahma Yoga",
+  "theme": "सभी समय योग में स्थिरता | Yoga at all times",
+  "context": "Krishna concludes the bright and dark path discussion by urging Arjuna to remain steadfast in yoga at every time.",
+  "contextHindi": "उज्ज्वल और अंधकार वाले मार्गों की चर्चा का निष्कर्ष देते हुए कृष्ण अर्जुन को हर समय योग में स्थित होने को कहते हैं।",
+  "sanskritDevanagari": "नैते सृती पार्थ जानन्योगी मुह्यति कश्चन |\nतस्मात्सर्वेषु कालेषु योगयुक्तो भवार्जुन ||८-२७||",
+  "transliteration": "naite sṛtī pārtha jānanyogī muhyati kaścana .\ntasmātsarveṣu kāleṣu yogayukto bhavārjuna ||8-27||",
+  "wordByWord": [
+    {
+      "term": "सृती",
+      "meaning": "The two paths."
+    },
+    {
+      "term": "जानन्",
+      "meaning": "Knowing."
+    },
+    {
+      "term": "मुह्यति",
+      "meaning": "Is deluded."
+    },
+    {
+      "term": "सर्वेषु कालेषु",
+      "meaning": "At all times."
+    },
+    {
+      "term": "योगयुक्तः",
+      "meaning": "Established or steadfast in yoga."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि इन दो मार्गों को जानने वाला योगी भ्रमित नहीं होता। इसलिए वे अर्जुन को सभी समय योग में स्थित रहने के लिए कहते हैं। यहाँ निष्कर्ष सभी समय की साधना है। इससे पहले की चर्चा को केवल शुभ तारीख खोजने की कोशिश में बदल देना इस निर्देश को खो देना होगा। श्लोक अर्जुन की मनःस्थिति का नया वर्णन नहीं करता और यह भी नहीं कहता कि उन्होंने अभी कोई नया सवाल पूछा। कृष्ण ही शिक्षा का निष्कर्ष दे रहे हैं। साधारण जीवन में हम इससे एक सीमित अभ्यास ले सकते हैं: अनुकूल परिस्थितियों की प्रतीक्षा करते रहने के बजाय आज एक छोटा अभ्यास करें। दिन कठिन हो तो समय घटाया जा सकता है, सहायता ली जा सकती है, और अपने प्रति नरमी रखी जा सकती है। योग में स्थिरता का मतलब शरीर और मन की आवश्यकता को अनदेखा करना नहीं है। हमारी व्यावहारिक व्याख्या नियमित स्मरण की ओर है; श्लोक का स्पष्ट कथन दो मार्गों को जानना और हर समय योगयुक्त रहना है। अपनी समझ में दोनों बातें साथ रखना उपयोगी होगा।",
+  "clearEnglish": "The conclusion is a call to yoga at all times. Krishna first says that a yogi who knows these two paths is not deluded, then urges Arjuna to remain established in yoga. This wording draws attention away from preoccupation with a single favorable moment and toward ongoing practice. It does not claim that Arjuna has just posed another question or disclose a new account of his mental state. Nor should the verse be made to say that we determine every circumstance of death through our thoughts. Its stated connection is knowledge of the paths, freedom from delusion, and the instruction to steadfast yoga. A modern application can be to stop postponing a modest devotional practice until conditions seem perfect. On a difficult day, the practice can be brief and adapted to real needs. Consistency need not become rigidity or contempt for vulnerability. The point of that application is sustainable attention now, while the text's larger theological account of the paths remains distinct from our everyday scheduling choices.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Knowing the two paths, a yogi is not deluded; therefore Krishna tells Arjuna to be steadfast in yoga at all times."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "One can practice now rather than wait for perfect circumstances, while adapting gently to actual needs."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Practice under ordinary conditions",
+      "text": "Choose one minute of quiet recollection today, without waiting for an ideal setting."
+    }
+  ],
+  "reflectionQuestion": "What ideal condition am I waiting for before beginning?",
+  "reflectionQuestionHindi": "शुरू करने से पहले मैं किस आदर्श परिस्थिति का इंतज़ार करता रहता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

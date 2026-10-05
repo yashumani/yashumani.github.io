@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-020",
+  "sequenceNumber": 392,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 20,
+  "verseEnd": 20,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "सभी प्राणियों के भीतर / The Self in every being",
+  "context": "Krishna begins the account of manifestations with the Self present in all beings and their whole course of existence.",
+  "contextHindi": "विभूतियों की शुरुआत कृष्ण सभी प्राणियों के भीतर स्थित आत्मा और उनके आरंभ, मध्य तथा अंत से करते हैं।",
+  "sanskritDevanagari": "अहमात्मा गुडाकेश सर्वभूताशयस्थितः |\nअहमादिश्च मध्यं च भूतानामन्त एव च ||१०-२०||",
+  "transliteration": "ahamātmā guḍākeśa sarvabhūtāśayasthitaḥ .\nahamādiśca madhyaṃ ca bhūtānāmanta eva ca ||10-20||",
+  "wordByWord": [
+    {
+      "term": "आत्मा",
+      "meaning": "Self"
+    },
+    {
+      "term": "सर्वभूताशयस्थितः",
+      "meaning": "present in the inner dwelling of all beings"
+    },
+    {
+      "term": "आदिः",
+      "meaning": "beginning"
+    },
+    {
+      "term": "मध्यम् अन्तः",
+      "meaning": "middle and end"
+    }
+  ],
+  "spokenHindi": "पहला आधार किसी दूर की भव्य वस्तु से नहीं शुरू होता। कृष्ण कहते हैं कि वे सभी प्राणियों के अंतःस्थान में स्थित आत्मा हैं। साथ ही वे प्राणियों का आरंभ, मध्य और अंत हैं। गुडाकेश अर्जुन के लिए संबोधन है; श्लोक उसी से बात कर रहा है। भीतर की उपस्थिति और पूरे जीवनक्रम का आधार साथ रखने से दृष्टि बहुत व्यापक हो जाती है। यह केवल अपनी पसंद के व्यक्ति में दिव्यता देखने का विचार नहीं है। सर्वभूत सभी प्राणियों को शामिल करता है। इसका व्यावहारिक अर्थ हम सम्मान के रूप में ले सकते हैं: किसी की वर्तमान क्षमता, लोकप्रियता या उपयोगिता उसके प्रति बुनियादी आदर का अकेला आधार न बने। यह हमारा नैतिक अनुप्रयोग है, श्लोक में रिश्तों के नियम विस्तार से नहीं दिए गए हैं। सीमाएँ रखना और गलत काम को रोकना ऐसे आदर के साथ संभव है। आरंभ, मध्य और अंत को याद करके किसी बदलती स्थिति में देख सकते हैं कि एक क्षण ही पूरी कहानी नहीं है। ध्यान के लिए जीवन की साधारण निरंतरता भी एक गंभीर विषय बन सकती है।",
+  "clearEnglish": "Before naming outstanding members of particular categories, Krishna identifies himself as the Self abiding in all beings. He also describes himself as their beginning, middle and end. The opening is therefore universal and inward. It prevents the forthcoming focus on prominent examples from becoming the sole account of divine presence. All beings is a wider expression than admired beings or useful beings. A responsible ethical inference is that basic regard need not be earned through status, achievement or convenience. That inference does not remove boundaries or require approval of harmful conduct; those are separate practical judgments. The temporal sequence is also significant. Origin, continuance and conclusion are held together rather than treated as unrelated moments. In ordinary life we tend to define a person or situation by what is happening now. A contemplative application is to notice that the present phase belongs to a larger course. The verse's claim remains theological: Krishna is its ground. Our exercise simply invites broader attention to life and to the beings encountered within it.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says he is the Self within all beings and their beginning, middle and end."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Basic regard for all beings and attention to a larger life course are applications, compatible with ethical boundaries."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Notice a whole course",
+      "text": "Consider one changing project or relationship. Name its beginning, current phase and likely ending; choose one respectful action for the present phase."
+    }
+  ],
+  "reflectionQuestion": "Whom do I value mainly for their usefulness to me?",
+  "reflectionQuestionHindi": "मैं किसका मूल्य मुख्यतः अपने लिए उसकी उपयोगिता से तय करता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

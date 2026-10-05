@@ -1,0 +1,71 @@
+{
+  "id": "bg-04-022",
+  "sequenceNumber": 184,
+  "date": "2026-10-05",
+  "chapter": 4,
+  "verseStart": 22,
+  "verseEnd": 22,
+  "chapterNameSanskrit": "ज्ञानकर्मसंन्यासयोग",
+  "chapterNameEnglish": "Jñāna Karma Sannyāsa Yoga",
+  "theme": "ज्ञान और निष्काम कर्म: शांत मन, संतोष, और समभाव / Knowledge and detached action: calm mind, contentment, and evenness.",
+  "context": "Krishna deepens the same insight: a self-governed person is not thrown off balance by success or failure. The verse describes the inner equipoise that allows duty to continue without being corrupted by comparison, envy, or emotional swings.",
+  "contextHindi": "श्री कृष्ण इसी समझ को आगे बढ़ाते हैं: जो आत्म-नियंत्रित है, वह जीत या हार से विचलित नहीं होता। यह श्लोक वह आंतरिक समता बताता है जिससे कर्म चलता है, पर तुलना, ईर्ष्या और भावनात्मक उथल-पुथल से नहीं बंधता।",
+  "sanskritDevanagari": "यदृच्छालाभसन्तुष्टो द्वन्द्वातीतो विमत्सरः |\nसमः सिद्धावसिद्धौ च कृत्वापि न निबध्यते ||४-२२||",
+  "transliteration": "yadṛcchālābhasantuṣṭo dvandvātīto vimatsaraḥ .\nsamaḥ siddhāvasiddhau ca kṛtvāpi na nibadhyate ||4-22||",
+  "wordByWord": [
+    {
+      "term": "yadṛcchālābhasantuṣṭaḥ",
+      "meaning": "content with what comes without striving; satisfied by what life gives without compulsion"
+    },
+    {
+      "term": "dvandvātītaḥ",
+      "meaning": "beyond dualities such as pleasure and pain, gain and loss"
+    },
+    {
+      "term": "vimatsaraḥ",
+      "meaning": "free from envy, spite, or the need to compare oneself with others"
+    },
+    {
+      "term": "samaḥ",
+      "meaning": "even-minded, balanced, steady in changing conditions"
+    },
+    {
+      "term": "siddhāvasiddhau",
+      "meaning": "in success and failure, in accomplishment and setback"
+    }
+  ],
+  "spokenHindi": "यह श्लोक बताता है कि योगी के जीवन का आधार ‘क्या मिला’ नहीं, बल्कि ‘कैसे रहा’ है। ‘यदृच्छालाभसन्तुष्ट’ का अर्थ है जो बिना कोशिश के मिल जाए, उससे संतुष्ट रहना। ‘द्वन्द्वातीत’ का अर्थ है सुख-दुःख, जीत-हार, मान-अपमान जैसे द्वंद्वों से ऊपर उठना। ‘विमत्सर’ का अर्थ है ईर्ष्या का अभाव, किसी से अपनी तुलना न करना। ‘समः सिद्धावसिद्धौ’ का अर्थ है सफलता और असफलता में संतुलित रहना। इसका मतलब यह नहीं कि मन में भावनाएँ न हों या उन्हें दबाया जाए। सफलता और असफलता पर भावनाएँ आ सकती हैं; योगी उन्हें पहचानकर भी अपना संतुलन बनाए रखता है। जब मन इस प्रकार सम रहता है, तो कर्म बंधन नहीं बनता; वह सेवा में बदल जाता है। इसलिए योग का अर्थ भावनाओं को नकारना नहीं, बल्कि उनके बीच भी भीतर संतुलित रहना है।",
+  "clearEnglish": "This verse describes someone who is content with what comes, beyond the pairs of opposites, free from envy, and even-minded in success and failure. Though acting, such a person is not bound. The verse names these qualities; it does not name emotional volatility as their opposite. We may understand even-mindedness as a steadiness that helps a person respond thoughtfully when circumstances change, but that is an interpretation of the verse, not a phrase it states directly. Even-mindedness also need not mean that feelings disappear or that a person stops caring about the outcome. The focus is on contentment, freedom from envy, and an even attitude toward success and failure while acting.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse literally says that a person content with what comes, free from dualities and envy, and even in success and failure, is not bound by action."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "From this, we can infer that emotional steadiness is not a side effect of wisdom but a sign of it; the disciplined mind becomes less reactive and more just."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Even-minded response",
+      "text": "When you receive praise or criticism, pause before reacting. Notice the first emotional wave, breathe, and then respond in a way that is honest, steady, and useful rather than defensive or inflated."
+    }
+  ],
+  "reflectionQuestion": "What happens in your mind when success arrives or when a plan fails, and how does that affect your next action?",
+  "reflectionQuestionHindi": "जब आपको सफलता मिलती है या कोई योजना विफल होती है, तो आपके मन में क्या होता है, और इसका आपके अगले काम पर क्या असर पड़ता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

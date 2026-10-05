@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-029",
+  "sequenceNumber": 443,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 29,
+  "verseEnd": 29,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "अग्नि की ओर पतंग / Moths and the image of destruction",
+  "context": "Arjuna uses a second comparison, moths rushing into fire, to describe the beings entering the mouths.",
+  "contextHindi": "अर्जुन अग्नि में तेज गति से जाते पतंगों की दूसरी उपमा से विनाश का दृश्य कहते हैं।",
+  "sanskritDevanagari": "यथा प्रदीप्तं ज्वलनं पतङ्गा\nविशन्ति नाशाय समृद्धवेगाः |\nतथैव नाशाय विशन्ति लोकास्-\nतवापि वक्त्राणि समृद्धवेगाः ||११-२९||",
+  "transliteration": "yathā pradīptaṃ jvalanaṃ pataṅgā viśanti nāśāya samṛddhavegāḥ .\ntathaiva nāśāya viśanti lokāsa- tavāpi vaktrāṇi samṛddhavegāḥ ||11-29||",
+  "wordByWord": [
+    {
+      "term": "पतङ्गाः",
+      "meaning": "moths"
+    },
+    {
+      "term": "प्रदीप्तम् ज्वलनम्",
+      "meaning": "blazing fire"
+    },
+    {
+      "term": "नाशाय",
+      "meaning": "toward destruction"
+    },
+    {
+      "term": "समृद्धवेगाः",
+      "meaning": "with great speed"
+    }
+  ],
+  "spokenHindi": "अर्जुन दूसरी उपमा देते हैं: जैसे पतंगे तेज गति से प्रज्वलित अग्नि में जाकर नष्ट होते हैं, वैसे ही लोक उन मुखों में विनाश के लिए प्रवेश करते हैं। नदी की पिछली उपमा दिशा बताती थी; यहाँ अग्नि और नाश स्पष्ट हैं। पतंग का अर्थ इस संदर्भ में उड़ने वाला छोटा कीट है, आज की पतंग उड़ाने का खेल नहीं। नाशाय का दोहराव भी दृश्य का परिणाम साफ रखता है। यह पीड़ितों पर दोष लगाने का सिद्धांत नहीं। श्लोक उन लोगों की मनोवैज्ञानिक इच्छा का विश्लेषण नहीं करता; वह दृश्य की तुलना देता है। हमारा सीमित दैनिक उपयोग किसी बार बार किए जा रहे हानिकर चुनाव पर रुकना हो सकता है। लेकिन अगर कोई दबाव, शोषण या कठिन परिस्थिति में है, तो उसे अपनी गलती कहकर छोड़ना उचित नहीं। सहायता और वास्तविक विकल्प महत्वपूर्ण होते हैं। अपने लिए किसी नुकसानदायक आदत का एक छोटा सुरक्षित विराम चुनें और जरूरत हो तो सहयोग लें। यह उपमा से प्रेरित आधुनिक अनुप्रयोग है, सभी दुःखों का कारण बताने वाला पाठ नहीं।",
+  "clearEnglish": "The second simile is more explicitly destructive than the river image. Moths rush into a blazing fire, and beings rush into the divine mouths for destruction. The repetition of nashaya emphasizes the outcome. Patanga here refers to a moth, not the modern object flown as a kite. The comparison describes motion within Arjuna's vision; it does not supply a theory of victims' motives or a reason to blame people for suffering. A limited practical inference can concern recognizing a recurring choice that causes harm. Yet even that analogy needs care. People may be constrained by coercion, exploitation or circumstances that leave few real alternatives. Support and viable options matter more than a moralizing comparison. For an ordinary habit within one's control, choose a small interruption and ask for help if needed. This is our application and should not be presented as the explanation of all distress. The verse remains a stark simile within the cosmic battlefield scene, continuing Arjuna's report of what he sees.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna compares beings entering for destruction with moths rushing into a blazing fire."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Reviewing a harmful habit is a limited application; the simile does not justify blaming people constrained by harm."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Interrupt one manageable pattern",
+      "text": "Identify one low-risk habit you can safely pause today. Choose a realistic alternative and support if needed; do not use the exercise to blame yourself for circumstances beyond your control."
+    }
+  ],
+  "reflectionQuestion": "Which small pattern can I change, and where do I instead need support?",
+  "reflectionQuestionHindi": "कौन सी छोटी आदत बदल सकता हूँ, और कहाँ मुझे सहायता की जरूरत है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

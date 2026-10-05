@@ -1,0 +1,75 @@
+{
+  "id": "bg-18-060",
+  "sequenceNumber": 683,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 60,
+  "verseEnd": 60,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Habit and the pull of one's nature / स्वभाव का दबाव",
+  "context": "Krishna develops the preceding claim, telling Arjuna that action born of his nature will press through his reluctance.",
+  "contextHindi": "कृष्ण पहले श्लोक का विस्तार करते हैं कि स्वभाव से जन्मा कर्म अर्जुन को अनिच्छा में भी खींच सकता है।",
+  "sanskritDevanagari": "स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा |\nकर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोपि तत् ||१८-६०||",
+  "transliteration": "svabhāvajena kaunteya nibaddhaḥ svena karmaṇā .\nkartuṃ necchasi yanmohātkariṣyasyavaśopi tat ||18-60||",
+  "wordByWord": [
+    {
+      "term": "svabhāvajena",
+      "meaning": "born of one's own nature"
+    },
+    {
+      "term": "nibaddhaḥ",
+      "meaning": "bound"
+    },
+    {
+      "term": "svena karmaṇā",
+      "meaning": "by one's own action"
+    },
+    {
+      "term": "mohāt",
+      "meaning": "from delusion"
+    },
+    {
+      "term": "avaśaḥ api",
+      "meaning": "even without control or against one's will"
+    }
+  ],
+  "spokenHindi": "कृष्ण अर्जुन से कहते हैं कि अपने स्वभाव से जन्मे कर्म में बँधा होने के कारण, जिस काम को वह मोह से नहीं करना चाहता, उसे भी अनिच्छा में करेगा। पिछले श्लोक की प्रकृति वाली बात यहाँ और सीधी होती है। दिव्य जीवन संघ की टिप्पणी भी कहती है कि अर्जुन की प्रकृति उसे लड़ने को बाध्य करेगी। यह टिप्पणी इसी युद्ध प्रसंग की व्याख्या है, किसी दूसरे व्यक्ति के जीवन पर थोपने का लाइसेंस नहीं। स्वभाव को जन्म से तय अपरिवर्तनीय पहचान मान लेना भी सावधानी के बिना ठीक नहीं। आदतें, सीखी हुई भूमिकाएँ और परिस्थिति हमें खींचती हैं, पर उन्हें समझना और जिम्मेदारी लेना संभव है। आज उस काम पर ध्यान दें जिसे आप बार बार टालते हैं, फिर भी उसी ओर लौटते हैं। क्या कारण डर है, लगाव है या कोई वास्तविक दायित्व? यदि काम हानिकारक है तो दबाव को नियति कहकर मत मानें; सुरक्षित विकल्प और सहायता खोजें। श्लोक आत्म भ्रम पर रोशनी डालता है, नुकसान को उचित नहीं ठहराता।",
+  "clearEnglish": "Verse 60 intensifies the preceding challenge. Krishna tells Arjuna that his own action, born of his nature, binds him; what he does not wish to do through delusion he will do even against his will. Sivananda's supplied commentary applies this directly to fighting: Arjuna's nature will compel him despite reluctance. That named commentary is tied to the battlefield narrative and must not be converted into a blanket claim that any person's inherited role is unchangeable. The wording gives weight to conditioning and the limits of a proud declaration. It does not remove the need to examine consequences or seek safer choices where an action would injure others. In ordinary life, habits and commitments can pull us back toward a task after we have loudly disowned it. Naming the pull may help us decide more honestly. This is an inference, not a doctrine of psychological determinism drawn from the line. If someone uses fate to pressure you into harm, that pressure deserves scrutiny and support from trustworthy people.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says Arjuna is bound by action born of his own nature and may do reluctantly what delusion makes him resist."
+    },
+    {
+      "label": "COMMENTARY: Sri Swami Sivananda",
+      "explanation": "Sivananda's supplied commentary says Arjuna's nature will force him to fight despite his reluctance; this is an interpretation of this battlefield moment."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Recognizing the pull of habits and commitments can improve self knowledge, but this verse does not excuse harmful acts as fate."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Notice one recurring task you resist, name the pull behind it, and check whether a responsible and safe response is possible."
+    }
+  ],
+  "reflectionQuestion": "What force keeps drawing me toward the task I say I will avoid?",
+  "reflectionQuestionHindi": "जिस काम से बचने की बात करता हूँ, उसकी ओर मुझे बार बार क्या खींचता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

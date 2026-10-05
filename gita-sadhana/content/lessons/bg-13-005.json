@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-005",
+  "sequenceNumber": 494,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 5,
+  "verseEnd": 5,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Teaching supported by reason / तर्क से समर्थित शिक्षा",
+  "context": "Krishna places the field-knower teaching within sages' chants and reasoned, decisive statements about the Absolute.",
+  "contextHindi": "कृष्ण इस विषय को ऋषियों के विविध कथन, छंद और कारणयुक्त निश्चित पदों से जोड़ते हैं।",
+  "sanskritDevanagari": "ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधैः पृथक् |\nब्रह्मसूत्रपदैश्चैव हेतुमद्भिर्विनिश्चितैः ||१३-५||",
+  "transliteration": "ṛṣibhirbahudhā gītaṃ chandobhirvividhaiḥ pṛthak .\nbrahmasūtrapadaiścaiva hetumadbhirviniścitaiḥ ||13-5||",
+  "wordByWord": [
+    {
+      "term": "ṛṣibhiḥ",
+      "meaning": "by sages; ऋषियों द्वारा"
+    },
+    {
+      "term": "bahudhā",
+      "meaning": "in many ways"
+    },
+    {
+      "term": "brahmasūtrapadaiḥ",
+      "meaning": "by statements or aphoristic words pointing to Brahman"
+    },
+    {
+      "term": "hetumadbhiḥ",
+      "meaning": "supported by reasons"
+    },
+    {
+      "term": "viniścitaiḥ",
+      "meaning": "well determined or decisive"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि इस विषय को ऋषियों ने अनेक रूपों में, विविध छंदों में और कारणयुक्त निश्चित ब्रह्मसूत्र पदों में कहा है। दिए गए संस्करण का अनुवाद अंतिम पदों को परम सत्य की ओर संकेत करने वाले, तर्कपूर्ण और निर्णायक शब्दों की दिशा में रखता है। इस छोटे अंश से किसी विशेष ग्रंथ की रचना की तारीख या लेखक के बारे में निष्कर्ष नहीं निकालना चाहिए। यहाँ विषय की परंपरागत खोज और उसके विचारपूर्ण आधार सामने आते हैं। श्रद्धा तथा कारण की भाषा साथ है। आज के अध्ययन में उपयोगी अभ्यास यह हो सकता है कि किसी दावे का आधार पूछें: वह श्लोक में है, किसी व्याख्या में है या मेरा अनुमान है? यह आधुनिक विधि है, श्लोक की नई सूची नहीं। एक बात कई ढंग से कही जाए तो उसके शब्द बदल सकते हैं, पर अर्थ जाँचना फिर भी जरूरी है। सम्मान के साथ प्रश्न रखें और कारण को समझने की कोशिश करें। केवल प्रभावशाली भाषा को प्रमाण मान लेने से ज्ञान की खोज जल्दी रुक सकती है।",
+  "clearEnglish": "Krishna recalls the teaching's expression by sages in many ways, through varied chants and reasoned, well-determined statements concerning Brahman. The supplied translation presents the last phrases as suggestive words indicative of the Absolute, full of reasoning and decisive. This is enough to show a conjunction of tradition and rational articulation; it does not settle historical questions about the date or authorship of a particular text. The verse places the present instruction within an inherited inquiry rather than making novelty its authority. A useful modern practice is to ask what supports a claim and where it belongs: the verse, a named explanation, or one's own conclusion. That classification is an application, not a list stated by Krishna. Multiple expressions can aid understanding, but similarity of impressive language is not proof that they mean exactly the same thing. Read carefully, ask for reasons respectfully, and let the distinction between source and interpretation remain visible during study.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The teaching has been expressed by sages in varied chants and reasoned, decisive statements pointing to Brahman."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Checking a claim's source and reason is a study application; historical conclusions about a specific book are not established here."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Choose one claim in today's reading and identify its textual basis and the reasoning used to explain it."
+    }
+  ],
+  "reflectionQuestion": "What supports this claim besides the authority of its tone?",
+  "reflectionQuestionHindi": "इस बात की प्रभावशाली भाषा के अलावा उसका आधार क्या है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

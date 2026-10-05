@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-002",
+  "sequenceNumber": 416,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 2,
+  "verseEnd": 2,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "सुनकर मिला व्यापक संदर्भ / What Arjuna has heard",
+  "context": "Arjuna recalls hearing about the origin and dissolution of beings and Krishna's inexhaustible greatness.",
+  "contextHindi": "अर्जुन कहते हैं कि उन्होंने प्राणियों की उत्पत्ति, लय और कृष्ण की अव्यय महिमा विस्तार से सुनी है।",
+  "sanskritDevanagari": "भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया |\nत्वत्तः कमलपत्राक्ष माहात्म्यमपि चाव्ययम् ||११-२||",
+  "transliteration": "bhavāpyayau hi bhūtānāṃ śrutau vistaraśo mayā .\ntvattaḥ kamalapatrākṣa māhātmyamapi cāvyayam ||11-2||",
+  "wordByWord": [
+    {
+      "term": "भवाप्ययौ",
+      "meaning": "origin and dissolution"
+    },
+    {
+      "term": "श्रुतौ",
+      "meaning": "heard"
+    },
+    {
+      "term": "माहात्म्यम्",
+      "meaning": "greatness"
+    },
+    {
+      "term": "अव्ययम्",
+      "meaning": "inexhaustible or imperishable"
+    }
+  ],
+  "spokenHindi": "अर्जुन कहते हैं कि उन्होंने कृष्ण से प्राणियों की उत्पत्ति और लय विस्तार से सुनी है, और उनकी अविनाशी महिमा भी सुनी है। कमलपत्राक्ष कृष्ण के लिए स्नेहपूर्ण संबोधन है, कमल की पंखुड़ी जैसे नेत्र वाले। मुख्य क्रिया श्रुतौ है: अभी सुना गया ज्ञान याद किया जा रहा है। अर्जुन यह नहीं कहते कि विश्वरूप पहले ही देख लिया है। यही फर्क अगले अनुरोध को समझने के लिए जरूरी है। भव और अप्यय जीवन के उठने और समाने की दो दिशाएँ रखते हैं। किसी चीज की शुरुआत पर हमारा उत्साह होता है, अंत पर अक्सर नजर नहीं जाती। कृष्ण की अव्यय महिमा उन बदलते रूपों के साथ एक अलग आधार की बात है। हमारा अनुप्रयोग किसी छोटे काम का पूरा क्रम देखना हो सकता है। उसे शुरू करने के साथ यह भी तय करें कि कब रोकना, पूरा करना या जिम्मेदारी से समेटना है। यह योजना आध्यात्मिक शिक्षा का पूरा अर्थ नहीं है; केवल उत्पत्ति और अंत दोनों पर ध्यान देने का दैनिक उदाहरण है। सुनने से देखने की ओर अर्जुन का कदम अभी आने वाला है।",
+  "clearEnglish": "The verb of hearing anchors this verse. Arjuna says he has heard in detail about the origin and dissolution of beings and about Krishna's inexhaustible greatness. He is taking stock of instruction already received, not yet describing the cosmic form as something seen. That narrative distinction makes the next request intelligible. The affectionate address lotus-eyed belongs to Krishna, while the paired terms bhava and apyaya concern the arising and passing away of beings. The pairing discourages an account of existence that notices only beginnings. At the same time, imperishable greatness is not identical to every changing manifestation. A practical inference can concern the life cycle of an ordinary task. Starting with enthusiasm is easier than knowing when to conclude, hand over or stop responsibly. Include an ending condition in a small plan today. This does not reduce the theological claim to project management; it is simply an everyday exercise in attending to both sides of the pair. The verse itself remains Arjuna's account of what he has heard.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna recalls having heard the origin and dissolution of beings and Krishna's imperishable greatness."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Planning for an ending is an ordinary analogy; hearing should not be confused with the vision not yet granted."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Plan an ending",
+      "text": "For one small task, state what completion looks like and when you will stop. Include cleanup or handover if another person depends on it."
+    }
+  ],
+  "reflectionQuestion": "Do I give endings as much attention as beginnings?",
+  "reflectionQuestionHindi": "क्या मैं काम के अंत को उसके आरंभ जितना ध्यान देता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

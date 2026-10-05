@@ -1,0 +1,67 @@
+{
+  "id": "bg-14-001",
+  "sequenceNumber": 525,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 1,
+  "verseEnd": 1,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "Liberating knowledge / मुक्त करने वाला ज्ञान",
+  "context": "Krishna opens Chapter 14 after explaining the field and its knower, introducing knowledge that leads sages to highest fulfilment.",
+  "contextHindi": "क्षेत्र और क्षेत्रज्ञ की चर्चा के बाद कृष्ण अर्जुन को परम सिद्धि की ओर ले जाने वाला ज्ञान बताने का प्रस्ताव रखते हैं।",
+  "sanskritDevanagari": "श्रीभगवानुवाच |\nपरं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम् |\nयज्ज्ञात्वा मुनयः सर्वे परां सिद्धिमितो गताः ||१४-१||",
+  "transliteration": "śrībhagavānuvāca .\nparaṃ bhūyaḥ pravakṣyāmi jñānānāṃ jñānamuttamam .\nyajjñātvā munayaḥ sarve parāṃ siddhimito gatāḥ ||14-1||",
+  "wordByWord": [
+    {
+      "term": "param",
+      "meaning": "supreme; परम"
+    },
+    {
+      "term": "bhūyaḥ",
+      "meaning": "again; फिर से"
+    },
+    {
+      "term": "jñānamuttamam",
+      "meaning": "highest knowledge; उत्तम ज्ञान"
+    },
+    {
+      "term": "siddhim",
+      "meaning": "fulfilment or perfection; सिद्धि"
+    }
+  ],
+  "spokenHindi": "कृष्ण यहाँ अर्जुन से कहते हैं कि वे फिर उस उत्तम ज्ञान को समझाएँगे, जिसे जानकर मुनियों ने परम सिद्धि प्राप्त की। ‘फिर’ शब्द सुनने योग्य है। पहले कही बात को दोहराना व्यर्थ नहीं होता; नई दृष्टि से वही बात हमारी समझ को गहरा सकती है। इस ज्ञान की महत्ता केवल बहुत सारी जानकारी इकट्ठी करने में नहीं, जीवन के बंधन को समझने में है। अध्याय आगे प्रकृति के तीन गुणों की चर्चा करेगा। इसलिए अभी अपने मन को कोई स्थायी नाम देने की जल्दी न करें। शांत मन, बेचैन मन और सुस्त मन हमारी बदलती स्थितियाँ हैं। उन्हें पहचानना सीखना आगे की तैयारी है। मुनियों की सिद्धि का उल्लेख आध्यात्मिक लक्ष्य बताता है, किसी परीक्षा में ऊँचे अंक पाने की गारंटी नहीं। आज सुनते समय एक छोटी बात देखें: क्या मैं परिचित शब्द सुनकर मान लेता हूँ कि सब समझ गया? थोड़ी जिज्ञासा बची रहे तो पुराने पाठ में भी नया प्रश्न खुल सकता है।",
+  "clearEnglish": "Krishna begins with a promise about the significance of the teaching, rather than immediately listing the three qualities. He calls this knowledge supreme and recalls sages who reached the highest fulfilment through it. The measure of knowledge here is what it makes possible for a human life, not how impressive its vocabulary sounds. The chapter follows the distinction between the field of experience and its knower, so the new teaching belongs within that larger inquiry into bondage and freedom. We should not read the opening as a claim that studying a list automatically produces liberation. Knowing in this setting involves understanding deeply enough to alter one's identification with experience. A useful modern inference is to return to a familiar subject with a fresh question. Perhaps we already know the names sattva, rajas, and tamas, but have never noticed how our attachment changes with our mood. This verse invites attentive study before premature certainty.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna announces supreme knowledge through which sages attained highest fulfilment; the verse does not yet enumerate the gunas."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Returning to familiar teaching with attention is a study practice inferred from Krishna's announcement."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Before reading, write one honest question about a changing state of mind; let it guide attention."
+    }
+  ],
+  "reflectionQuestion": "Which familiar teaching have I named without carefully understanding it?",
+  "reflectionQuestionHindi": "किस परिचित सीख का नाम तो मुझे मालूम है, पर अर्थ अभी ठीक से नहीं समझा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

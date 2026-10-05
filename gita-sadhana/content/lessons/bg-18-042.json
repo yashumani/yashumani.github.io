@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-042",
+  "sequenceNumber": 665,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 42,
+  "verseEnd": 42,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Character in the Brahmana description / ब्राह्मण वर्णन में चरित्र",
+  "context": "Krishna lists the qualities and activities associated with Brahmana nature in the preceding social framework.",
+  "contextHindi": "कृष्ण ब्राह्मण कर्म के स्वभावजन्य गुणों में शम, दम, तप, शौच, क्षांति, आर्जव और ज्ञान की दिशा रखते हैं।",
+  "sanskritDevanagari": "शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च |\nज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम् ||१८-४२||",
+  "transliteration": "śamo damastapaḥ śaucaṃ kṣāntirārjavameva ca .\njñānaṃ vijñānamāstikyaṃ brahmakarma svabhāvajam ||18-42||",
+  "wordByWord": [
+    {
+      "term": "śamaḥ",
+      "meaning": "serenity or inward quiet"
+    },
+    {
+      "term": "damaḥ",
+      "meaning": "self-restraint"
+    },
+    {
+      "term": "ārjavam",
+      "meaning": "uprightness or honesty"
+    },
+    {
+      "term": "jñānam vijñānam",
+      "meaning": "knowledge and realization"
+    },
+    {
+      "term": "āstikyam",
+      "meaning": "belief or trust in God in the supplied rendering"
+    }
+  ],
+  "spokenHindi": "कृष्ण ब्राह्मण के स्वभावजन्य कर्म में शांति, संयम, तप, शौच, क्षांति, सीधापन, ज्ञान, विज्ञान और आस्तिकता रखते हैं। दिए गए संस्करण में विज्ञान को अनुभूत समझ और आस्तिकता को ईश्वर में विश्वास की दिशा में अनूदित किया गया है। सूची बाहरी पदवी के साथ भीतर के चरित्र को जोड़ती है। किसी का जन्म या धार्मिक परिचय अपने आप इन गुणों के होने का प्रमाण नहीं है। अनुष्ठान की कुशलता और ईमानदार आध्यात्मिक आचरण भी अलग जाँच माँगते हैं। यह आज की सावधान व्याख्या है। शौच का शब्द किसी दूसरे समुदाय को जन्म से अशुद्ध घोषित नहीं करता। हम इस सूची को अपने लिए अभ्यास की दिशा में भी पढ़ सकते हैं, बिना किसी पहचान का दावा किए। आज सीधापन चुनें: जहाँ उत्तर नहीं मालूम वहाँ साफ कहें और सही स्रोत खोजें। क्षांति का अर्थ असुरक्षा सहते रहना न बनाएँ। व्यवहार में गुण पहचानना नाम देखकर श्रद्धा या तिरस्कार तय करने से अधिक जिम्मेदार हो सकता है, जबकि पाठ का मूल सामाजिक संदर्भ स्पष्ट रहे।",
+  "clearEnglish": "The Brahmana description includes serenity, restraint, austerity, purity, patience, honesty, knowledge, realization, and belief in God, born of nature. The supplied translation gives realization for vijñāna and belief in God for āstikya. The list ties a named role to qualities of character and understanding. Birth or a religious title alone cannot responsibly be treated as evidence that the listed qualities are demonstrated. Ritual competence and ethical conduct also require distinct consideration. This is a contemporary discernment principle, not a denial that the verse names a particular social category. Purity supplies no statement that another inherited group is inherently impure. A manageable practice is straightforwardness in learning: acknowledge what is unknown and seek a suitable source. Patience should likewise remain compatible with boundaries in unsafe situations. Readers need not claim a social identity to reflect on honesty or restraint. The verse's context remains visible while the application asks whether conduct, rather than reputation, supports the trust being offered.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna lists serenity, restraint, austerity, purity, patience, honesty, knowledge, realization, and faith as Brahmana activities born of nature."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Judging trust by demonstrated character distinguishes inherited identity, ritual skill, and spiritual conduct; the list can prompt ethical self-reflection."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Acknowledge one limit honestly and seek a reliable source instead of protecting an appearance of expertise."
+    }
+  ],
+  "reflectionQuestion": "Am I trusting a title, a ritual skill, or demonstrated integrity?",
+  "reflectionQuestionHindi": "मैं पदवी, अनुष्ठान की कुशलता या वास्तव में दिखे ईमानदार आचरण पर भरोसा कर रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

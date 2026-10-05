@@ -10,3 +10,9 @@ local-drafts/
 node_modules/
 playwright-report/
 test-results/
+
+# Gita local recovery, review evidence and prepared release are not public artifacts.
+.recovery/
+.automation-cache/
+.local-work/
+.local-release/

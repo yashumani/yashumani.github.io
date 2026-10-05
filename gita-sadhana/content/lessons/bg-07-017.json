@@ -1,0 +1,75 @@
+{
+  "id": "bg-07-017",
+  "sequenceNumber": 297,
+  "date": "2026-10-05",
+  "chapter": 7,
+  "verseStart": 17,
+  "verseEnd": 17,
+  "chapterNameSanskrit": "ज्ञानविज्ञानयोग",
+  "chapterNameEnglish": "Jñāna Vijñāna Yoga",
+  "theme": "ज्ञान, प्रेम और स्थिर भक्तिभाव / Wisdom, devotion, and steady love",
+  "context": "Krishna has just distinguished different kinds of worship and now names the one who stands above them: the wise devotee whose knowledge is steady, loving, and inwardly integrated. This is not a mere intellectual superiority but a personal relation to the Lord that is stable even amid life’s confusion.",
+  "contextHindi": "कृष्ण ने अब तक भक्ति के अलग-अलग रूपों को समझाया है। अब वे उस भक्त की ओर संकेत कर रहे हैं जो ज्ञान, प्रेम और निष्ठा को एक साथ रखता है। यह केवल बौद्धिक श्रेष्ठता नहीं है, बल्कि भगवान् के प्रति स्थिर, अंतरंग, प्रेमपूर्ण समर्पण है।",
+  "sanskritDevanagari": "तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते |\nप्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रियः ||७-१७||",
+  "transliteration": "teṣāṃ jñānī nityayukta ekabhaktirviśiṣyate .\npriyo hi jñānino.atyarthamahaṃ sa ca mama priyaḥ ||7-17||",
+  "wordByWord": [
+    {
+      "term": "तेषाम्",
+      "meaning": "of them; among those kinds of worshippers"
+    },
+    {
+      "term": "ज्ञानी",
+      "meaning": "the wise knower; one who knows the Lord in truth"
+    },
+    {
+      "term": "नित्ययुक्त",
+      "meaning": "ever established, steadily engaged, constantly united"
+    },
+    {
+      "term": "एकभक्ति:",
+      "meaning": "single-pointed devotion; one-aimed loving surrender"
+    },
+    {
+      "term": "विशिष्यते",
+      "meaning": "stands out, excels, is distinguished"
+    }
+  ],
+  "spokenHindi": "यह श्लोक भगवान् के प्रति भक्ति के स्तर को साफ़ करता है। कृष्ण कहते हैं कि उन चार तरह के भक्तों में, जो ज्ञान के साथ स्थिर और प्रेमपूर्ण हैं, वही सबसे विशिष्ट है। ‘ज्ञानी’ शब्द यहाँ सिर्फ़ पांडित्य नहीं है; यह उस व्यक्ति के लिए है जिसने ईश्वर को समझा है और अपना मन उनके प्रति स्थिर किया है। ‘नित्ययुक्त’ का अर्थ है भगवान् से सदा जुड़ा रहना, न कि केवल कभी-कभी। ‘एकभक्तिः’ यानी एक ही लक्ष्य—भगवान् के लिए प्रेम, शरण और निष्ठा। इसलिए भगवान् कहते हैं, ‘मैं ज्ञानियों को अत्यंत प्रिय हूँ, और वे भी मुझसे प्रिय हैं।’ यह प्रेम का आदान-प्रदान है, केवल पूजा का व्यवहार नहीं।",
+  "clearEnglish": "This verse marks a decisive shift from the broad description of worship to the quality of the devotee’s inner state. Krishna does not say that all forms of devotion are equal in spiritual maturity. He says that among those who seek God in different ways, the wise devotee—one whose knowledge is steady, inwardly rooted, and directed to the Lord with love—is supreme. The Sanskrit word jñānī is not limited to academic knowledge; it includes living knowledge, a realization that is reflected in character and surrender. Nityayukta means ever united, not occasionally inspired. Ekabhakti means a single-pointed devotion that does not split the heart between the Lord and other objects of desire. The verse then turns to a relational truth: God is especially dear to the wise, and the wise one is dear to God because the heart has become transparent to the divine. This is not mere sentiment; it is the result of consistent inner alignment.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse states a clear hierarchy in spiritual disposition: the wise, steady, loving devotee is singled out as superior among the four kinds of worshippers. Krishna names the Lord’s love for such a devotee and the devotee’s love for the Lord."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A practical inference is that spiritual maturity is not measured by external ritual success alone, but by steady devotion, clarity of understanding, and a heart that is not divided. Knowledge without love can become cold; love without understanding can become sentimental. The verse suggests both are needed, yet love grounded in wisdom is the most stable path."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Single-pointed attention",
+      "text": "For one week, choose one recurring daily practice: before each task, pause for ten seconds and remember, 'My aim is to serve the divine in this moment, not merely to achieve results.'"
+    },
+    {
+      "label": "Steady love over emotional peaks",
+      "text": "When your devotion feels weak or your mind is distracted, do not judge yourself harshly. Return to a simple, regular practice—prayer, remembering, or listening—without demanding dramatic feelings."
+    }
+  ],
+  "reflectionQuestion": "If your understanding of the Divine is not reflected in steadiness and love, what in your life is still divided between devotion and desire?",
+  "reflectionQuestionHindi": "यदि भगवान् के प्रति आपकी समझ स्थिरता और प्रेम में नहीं दिखाई देती, तो आपकी जीवनशैली में भक्ति और इच्छा के बीच क्या अभी भी विभाजन है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

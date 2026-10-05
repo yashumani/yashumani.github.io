@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-029",
+  "sequenceNumber": 401,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 29,
+  "verseEnd": 29,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "जल, पूर्वज और संयम / Waters, ancestors and governance",
+  "context": "Krishna continues with Ananta, Varuna, Aryaman and Yama among sacred categories.",
+  "contextHindi": "कृष्ण अनंत, वरुण, अर्यमा और यम को नागों, जल देवताओं, पितरों और नियमन की श्रेणियों में रखते हैं।",
+  "sanskritDevanagari": "अनन्तश्चास्मि नागानां वरुणो यादसामहम् |\nपितॄणामर्यमा चास्मि यमः संयमतामहम् ||१०-२९||",
+  "transliteration": "anantaścāsmi nāgānāṃ varuṇo yādasāmaham .\npitṝṇāmaryamā cāsmi yamaḥ saṃyamatāmaham ||10-29||",
+  "wordByWord": [
+    {
+      "term": "अनन्तः",
+      "meaning": "Ananta among Nagas"
+    },
+    {
+      "term": "वरुणः",
+      "meaning": "Varuna among water deities in this edition"
+    },
+    {
+      "term": "पितॄणाम्",
+      "meaning": "among departed ancestors or manes"
+    },
+    {
+      "term": "संयमताम्",
+      "meaning": "among governors or restrainers"
+    }
+  ],
+  "spokenHindi": "कृष्ण नागों में अनंत, जल देवताओं में वरुण, पितरों में अर्यमा और नियमन करने वालों में यम कहते हैं। यह सूची दिखाई देने वाली चीजों से अधिक धार्मिक ब्रह्मांड की भूमिकाओं को सामने रखती है। नागों में अनंत और पिछले श्लोक के सर्पों में वासुकि अलग नाम और श्रेणियाँ हैं; उन्हें अनजाने में एक ही उदाहरण बना देना ठीक नहीं। पितृ का अर्थ यहाँ दिवंगत पूर्वजों का धार्मिक समूह है, केवल अपना तत्काल परिवार नहीं। यम संयम या शासन की श्रेणी में आते हैं। इससे किसी मनुष्य को कठोर व्यवहार करके स्वयं को यम का प्रतिनिधि घोषित करने का अधिकार नहीं मिलता। हमारा उपयोग नियम की भूमिका पर विचार करना हो सकता है। अच्छा नियम साझा जीवन को सुरक्षित और अनुमान योग्य बनाता है; केवल डर पैदा करना उसकी सफलता का प्रमाण नहीं। घर या काम में कोई सीमा तय करनी हो तो उसका कारण साफ रखें और उसे सब पर उचित ढंग से लागू करें। पूर्वजों को याद करना भी सम्मानपूर्ण हो सकता है, पर उनकी स्मृति से वर्तमान व्यक्ति की योग्यता स्वतः तय नहीं होती।",
+  "clearEnglish": "Ananta, Varuna, Aryaman and Yama extend the catalogue through Nagas, waters, ancestors and governance. The supplied edition renders Varuna within water deities and Yama among governors. These categories are part of a sacred account, and their distinctions deserve attention. Ananta among Nagas is not simply a duplicate of Vasuki among serpents in the preceding verse. Pitrs refers to departed ancestors in a religious setting, not only to one's immediate household. The presence of Yama also makes restraint or ordering a point of divine identification. It does not authorize a human being to imitate a feared judge or to call coercion holy. A constructive inference concerns the purpose of boundaries. A useful rule supports safety and predictable cooperation, and its reasons can be explained. Fear alone is not evidence that a rule is fair. One can review an ordinary boundary at home or work and ask whether it is proportionate and consistently applied. That application remains separate from the verse's naming of sacred figures.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies Ananta, Varuna, Aryaman and Yama within four sacred categories."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Fair boundaries are a possible application; the verse does not authorize coercion or hereditary worth."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Explain a boundary",
+      "text": "Review one ordinary rule you set or follow. State its protective purpose and check whether it is applied fairly and proportionately."
+    }
+  ],
+  "reflectionQuestion": "Does a boundary I maintain protect people or mainly make them afraid?",
+  "reflectionQuestionHindi": "मेरी बनाई सीमा लोगों की रक्षा करती है या मुख्यतः उन्हें डराती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

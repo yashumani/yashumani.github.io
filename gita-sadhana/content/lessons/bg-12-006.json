@@ -1,0 +1,67 @@
+{
+  "id": "bg-12-006",
+  "sequenceNumber": 475,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 6,
+  "verseEnd": 6,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "कर्म को समर्पण में रखना / Actions placed in devotion",
+  "context": "Krishna begins describing those who place all actions in him, take him as supreme and worship through undivided meditation.",
+  "contextHindi": "कृष्ण अपने में कर्म समर्पित करने, उन्हें परम मानने और अनन्य ध्यान से उपासना करने वालों का वाक्य शुरू करते हैं।",
+  "sanskritDevanagari": "ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्परः |\nअनन्येनैव योगेन मां ध्यायन्त उपासते ||१२-६||",
+  "transliteration": "ye tu sarvāṇi karmāṇi mayi saṃnyasya matparaḥ .\nananyenaiva yogena māṃ dhyāyanta upāsate ||12-6||",
+  "wordByWord": [
+    {
+      "term": "सर्वाणि कर्माणि",
+      "meaning": "all actions"
+    },
+    {
+      "term": "मयि संन्यस्य",
+      "meaning": "placing or renouncing them in me"
+    },
+    {
+      "term": "मत्परः",
+      "meaning": "taking me as supreme"
+    },
+    {
+      "term": "ध्यायन्तः",
+      "meaning": "meditating"
+    }
+  ],
+  "spokenHindi": "कृष्ण अब उन लोगों की बात शुरू करते हैं जो सभी कर्म उनमें समर्पित करते हैं, उन्हें परम लक्ष्य मानते हैं और अनन्य योग से ध्यान करते हुए उपासना करते हैं। इस वाक्य का फल अगले श्लोक में आएगा। संन्यस्य यहाँ कर्म को कृष्ण में रखने की दिशा है; इसे सभी जिम्मेदारियाँ छोड़ देने के अर्थ में लेना जरूरी नहीं। कर्म का केंद्र बदला जा रहा है, सिर्फ काम की संख्या नहीं। मत्परः सर्वोच्च दिशा बताता है और ध्यायन्तः ध्यान का पक्ष। हमारा उपयोग किसी साधारण जिम्मेदारी को ईमानदार भाव से करना हो सकता है। भोजन बनाना, जरूरी दस्तावेज ठीक करना या किसी की मदद करना भी ध्यानपूर्ण उद्देश्य से किया जा सकता है। ये उदाहरण हमारे हैं, श्लोक की नई सूची नहीं। समर्पण का नाम लेकर परिणामों की जांच या दूसरों की जरूरत भूलना उचित नहीं होगा। पहले पूछें कि यह काम वास्तव में उपयोगी और नैतिक है या नहीं। फिर श्रेय पर अपनी पकड़ देखते हुए सावधानी से करें। कृष्ण जिस उपासना का वर्णन कर रहे हैं उसमें कर्म और ध्यान अलग बंद हिस्सों की तरह नहीं हैं।",
+  "clearEnglish": "Krishna describes a devotional orientation across action and attention. All actions are placed in him, he is regarded as supreme, and worship proceeds through undivided meditation. The sentence continues into the following verse, where its result will be stated. Sannyasya here concerns the offering or relinquishing of actions in relation to Krishna; it should not automatically be read as abandoning every practical responsibility. The issue is where action is directed. A modern application can involve a routine obligation performed with a clear, responsible purpose. Preparing food, completing necessary paperwork or helping someone are our examples, not a list supplied by the verse. Calling an action an offering does not establish that it is useful or ethical; its effects and the needs of others still require attention. Check those first, then notice attachment to credit while doing the task carefully. This practical inference preserves the verse's joining of work and contemplation without pretending that ordinary busyness is already the full devotional ideal.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna begins describing those who offer all actions in him and meditate with him as supreme."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A responsible purpose can inform ordinary work; offering language does not justify neglect or harmful action."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Offer a responsible task",
+      "text": "Choose one necessary useful task. Clarify whom it serves, do it carefully, and notice attachment to recognition without abandoning standards."
+    }
+  ],
+  "reflectionQuestion": "What purpose directs the task I am doing?",
+  "reflectionQuestionHindi": "जो काम मैं कर रहा हूँ, उसे कौन सा उद्देश्य दिशा दे रहा है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

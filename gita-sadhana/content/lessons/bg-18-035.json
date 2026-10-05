@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-035",
+  "sequenceNumber": 658,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 35,
+  "verseEnd": 35,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Clinging to obscuring states / ढकने वाली दशाओं से चिपकना",
+  "context": "Krishna describes tamasic firmness as failure to release sleep, fear, grief, despondency, and conceit.",
+  "contextHindi": "कृष्ण निद्रा, भय, शोक, विषाद और मद को न छोड़ने वाली अविवेकी धृति को तामसी कहते हैं।",
+  "sanskritDevanagari": "यया स्वप्नं भयं शोकं विषादं मदमेव च |\nन विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी ||१८-३५||",
+  "transliteration": "yayā svapnaṃ bhayaṃ śokaṃ viṣādaṃ madameva ca .\nna vimuñcati durmedhā dhṛtiḥ sā pārtha tāmasī ||18-35||",
+  "wordByWord": [
+    {
+      "term": "svapnam",
+      "meaning": "sleep in the supplied rendering"
+    },
+    {
+      "term": "śokam",
+      "meaning": "grief; शोक"
+    },
+    {
+      "term": "viṣādam",
+      "meaning": "despondency; विषाद"
+    },
+    {
+      "term": "madam",
+      "meaning": "conceit or intoxicated pride"
+    },
+    {
+      "term": "na vimuñcati",
+      "meaning": "does not release"
+    }
+  ],
+  "spokenHindi": "कृष्ण जिस धृति को तामसी कहते हैं, उसमें नींद, भय, शोक, विषाद और मद को छोड़ा नहीं जाता। यहाँ टिकना अपने आप अच्छाई नहीं है; वह समझ ढकने वाले संबंध को भी बचाए रख सकता है। फिर भी भय या शोक का होना किसी व्यक्ति को दोषी घोषित नहीं करता। शोक समय ले सकता है और गंभीर उदासी में सहयोग जरूरी हो सकता है। श्लोक कोई चिकित्सकीय निदान नहीं देता। नींद भी शरीर की जरूरत है; चर्चा उसके साथ जड़ आसक्ति की दिशा में है, पर्याप्त आराम के विरुद्ध नहीं। आज का सुरक्षित अभ्यास किसी भावना को जबरन खत्म करना नहीं, उसके साथ बने कठोर निष्कर्ष को देखना हो सकता है। ‘दुख है, इसलिए कुछ भी संभव नहीं’ जैसी बात में दुख वास्तविक और निष्कर्ष अलग हो सकता है। यह आधुनिक उदाहरण है। अपनी क्षमता अनुसार एक छोटी सहायता स्वीकारें या सरल काम चुनें। भाव बना रहे तो भी समर्थन मिल सकता है। धृति की जाँच आत्मदंड के बजाय देखने की स्वतंत्रता और सहारे की जगह खोल सकती है।",
+  "clearEnglish": "The verse calls tamasic the firmness that does not release sleep, fear, grief, despondency, and conceit, in a condition of poor discernment. Persistence can thus preserve an obscuring attachment rather than support clarity. This is not a clinical account, and the presence of grief or fear does not establish someone's moral failure. Grief may need time, and significant distress may need suitable assistance. Ordinary sleep is necessary; the teaching should not be used against adequate rest. A safe contemporary application is to examine a rigid conclusion attached to a feeling rather than force the feeling away. Sadness may be real while the claim that no helpful step is possible remains open to question. This example does not diagnose tamas. One manageable response is to accept support or choose a small attainable action while acknowledging the feeling honestly. The inquiry can make room for care and revised understanding, rather than turn a difficult state into a reason for contempt toward oneself or another person.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Firmness that clings to sleep, fear, grief, despondency, and conceit without discernment is called tamasic."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Examining a rigid conclusion and accepting support is a safe application; grief, sleep needs, or distress are not diagnoses of moral failure."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Name a difficult feeling and one rigid conclusion attached to it; seek one small support without forcing the feeling away."
+    }
+  ],
+  "reflectionQuestion": "Which conclusion am I holding as tightly as the feeling itself?",
+  "reflectionQuestionHindi": "भावना जितना कसकर मैं उसके बारे में कौन सा निष्कर्ष पकड़े हुए हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

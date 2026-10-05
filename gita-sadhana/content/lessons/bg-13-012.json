@@ -1,0 +1,67 @@
+{
+  "id": "bg-13-012",
+  "sequenceNumber": 501,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 12,
+  "verseEnd": 12,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Knowledge has a purpose and a way of life / ज्ञान का उद्देश्य और जीवन की दिशा",
+  "context": "Krishna closes the preceding list by naming constancy in self-knowledge and insight into its goal as knowledge.",
+  "contextHindi": "कृष्ण आत्मज्ञान में स्थिरता और तत्वज्ञान के उद्देश्य को देखने के साथ पिछली सूची को ज्ञान कहते हैं।",
+  "sanskritDevanagari": "अध्यात्मज्ञाननित्यत्वं तत्त्वज्ञानार्थदर्शनम् |\nएतज्ज्ञानमिति प्रोक्तमज्ञानं यदतोऽन्यथा ||१३-१२||",
+  "transliteration": "adhyātmajñānanityatvaṃ tattvajñānārthadarśanam .\netajjñānamiti proktamajñānaṃ yadato.anyathā ||13-12||",
+  "wordByWord": [
+    {
+      "term": "adhyātmajñānanityatvam",
+      "meaning": "constancy in knowledge of the self"
+    },
+    {
+      "term": "tattvajñānārthadarśanam",
+      "meaning": "seeing the purpose or end of truth-knowledge"
+    },
+    {
+      "term": "etaj jñānam",
+      "meaning": "this is knowledge"
+    },
+    {
+      "term": "ajñānam",
+      "meaning": "ignorance; अज्ञान"
+    }
+  ],
+  "spokenHindi": "कृष्ण आत्मज्ञान में स्थिर रहने और तत्वज्ञान के उद्देश्य को देखने की बात कहते हैं। फिर कहते हैं कि यह ज्ञान कहा गया है और इससे भिन्न जो है वह अज्ञान है। ‘यह’ पिछले कई श्लोकों की पूरी सूची से जुड़ता है: विनम्रता, अहिंसा, संयम, अनासक्ति, भक्ति और ध्यान की दिशा। इसलिए केवल बहुत सूचना याद होना इस संदर्भ का पूरा ज्ञान नहीं। सीखने का उद्देश्य और सीखने वाले का ढंग भी शामिल है। आज का प्रश्न हो सकता है कि मेरी पढ़ाई मुझे अधिक स्पष्ट और जिम्मेदार बना रही है या केवल बहस में जीतने का साधन। यह आधुनिक अनुप्रयोग है, किसी व्यक्ति को अज्ञानी घोषित करने का अधिकार नहीं। कोई गुण कठिन लगे तो अभ्यास का छोटा पक्ष चुनें। एक सवाल को समझने के लिए नियमित थोड़ा समय देना संभव शुरुआत हो सकती है। साथ ही देखें कि उससे व्यवहार में क्या फर्क पड़ा। आत्मज्ञान का बड़ा दावा जल्दी न करें। निरंतरता और उद्देश्य को साथ रखकर अध्ययन अधिक ईमानदार खोज बन सकता है, केवल समाप्त करने वाली सूची नहीं।",
+  "clearEnglish": "Krishna closes the sequence with constancy in self-knowledge and perception of the purpose of truth-knowledge, declaring this to be knowledge and what differs from it ignorance. The word this points back to the qualities already listed, rather than only to intellectual recall. Humility, noninjury, restraint, nonattachment, devotion, and inward attention form part of the preparation for understanding. Knowledge here is consequently connected with a way of approaching life. A contemporary question is whether study makes judgment more honest or merely equips us to win arguments. That is an application of the list's purpose, not permission to label another person ignorant from one disagreement. Choose a small regular inquiry and watch whether its understanding affects conduct. Constancy need not mean demanding uninterrupted concentration; an attainable rhythm can be more responsible. The verse's account remains spiritually substantial, while the practice can stay modest. Keeping purpose visible helps prevent both accumulation without understanding and premature claims that the study is already complete.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Constancy in self-knowledge and seeing the end of truth-knowledge conclude the list called knowledge; what is otherwise is ignorance."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Checking how study changes conduct applies the list's purpose without labeling people or demanding uninterrupted attention."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Return to one study question for a brief regular period and note one effect on your conduct."
+    }
+  ],
+  "reflectionQuestion": "What is the purpose of this knowledge in the way I live?",
+  "reflectionQuestionHindi": "मेरे जीने के ढंग में इस ज्ञान का उद्देश्य क्या है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

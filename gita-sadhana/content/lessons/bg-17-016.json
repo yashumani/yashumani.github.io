@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-016",
+  "sequenceNumber": 611,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 16,
+  "verseEnd": 16,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "मन का तप / Discipline of the mind",
+  "context": "Krishna completes the body-speech-mind account with serenity, gentleness, silence, self-restraint, and purity of disposition.",
+  "contextHindi": "कृष्ण शरीर और वाणी के बाद प्रसन्नता, सौम्यता, मौन, आत्मसंयम और भाव की सफाई को मन का तप बताते हैं।",
+  "sanskritDevanagari": "मनः प्रसादः सौम्यत्वं मौनमात्मविनिग्रहः |\nभावसंशुद्धिरित्येतत्तपो मानसमुच्यते ||१७-१६||",
+  "transliteration": "manaḥ prasādaḥ saumyatvaṃ maunamātmavinigrahaḥ .\nbhāvasaṃśuddhirityetattapo mānasamucyate ||17-16||",
+  "wordByWord": [
+    {
+      "term": "manaḥ prasādaḥ",
+      "meaning": "Serenity or cheerfulness of mind"
+    },
+    {
+      "term": "maunam",
+      "meaning": "Silence"
+    },
+    {
+      "term": "ātmavinigrahaḥ",
+      "meaning": "Self-restraint"
+    },
+    {
+      "term": "bhāvasaṃśuddhiḥ",
+      "meaning": "Purity of disposition or intention"
+    }
+  ],
+  "spokenHindi": "कृष्ण मन के तप में मन की प्रसन्नता, सौम्यता, मौन, अपने ऊपर संयम और भाव की सफाई बताते हैं। मौन श्लोक में स्पष्ट है, भले स्रोत की संक्षिप्त अंग्रेजी पंक्ति उसे अलग नाम से न गिनती हो। इसका अर्थ बोलने की हर जरूरत छोड़ देना नहीं। मन का अभ्यास हमारी भीतर की तैयारी पर भी ध्यान देता है। यदि हम चुप हैं लेकिन लगातार बदले की कहानी बना रहे हैं, तो केवल आवाज का न होना पूरी बात नहीं है। यह आधुनिक समझ है, मौन की एकमात्र परम्परागत परिभाषा नहीं। प्रसन्नता को जबरन खुश दिखने का आदेश न बनाएं। दुख और परेशानी में मदद लेना इस अभ्यास के विरुद्ध नहीं है। आज एक छोटे विराम में अपनी प्रेरणा देखें। क्या अगला उत्तर समझ बढ़ाएगा या केवल चुभेगा? जरूरी बात हो तो शांत शब्दों में कहें। कोई विचार बार बार लौटता हो तो उसे पक्का सच मानने से पहले जांचें। मन का संयम अपने अनुभव से लड़ना नहीं, उस अनुभव के साथ अधिक जिम्मेदार चुनाव करना हो सकता है।",
+  "clearEnglish": "Krishna names serenity of mind, gentleness, silence, self-restraint, and purity of disposition as mental austerity. Silence is explicit in the canonical verse even though the supplied edition's compressed English translation does not list it separately. That is a wording difference worth noticing rather than silently blending the two. A modern interpretation can distinguish outward quiet from inward preparation. Someone may stop speaking while continuing to rehearse revenge; attention to intention then matters as much as sound. This does not establish a universal traditional definition of silence. Nor should serenity become a demand to display happiness or avoid needed support during distress. The practice concerns how we respond, not the denial of experience. Take a short pause before one reaction and notice the motive it would express. If a necessary point remains, say it with care. Mental discipline can give a difficult feeling less control over conduct without pretending that the feeling has vanished.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names serenity, gentleness, silence, self-restraint, and purity of disposition as mental austerity; silence is explicit in the canonical verse."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A short pause to examine intention is a modern application, not an instruction to suppress distress or needed speech."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Pause and inspect intention",
+      "text": "Before one reactive response, take a brief pause and name what your reply is intended to achieve."
+    }
+  ],
+  "reflectionQuestion": "What intention would my next response express?",
+  "reflectionQuestionHindi": "मेरा अगला उत्तर किस इरादे को प्रकट करेगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

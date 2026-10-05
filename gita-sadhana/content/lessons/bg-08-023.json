@@ -1,0 +1,71 @@
+{
+  "id": "bg-08-023",
+  "sequenceNumber": 333,
+  "date": "2026-10-05",
+  "chapter": 8,
+  "verseStart": 23,
+  "verseEnd": 23,
+  "chapterNameSanskrit": "अक्षरब्रह्मयोग",
+  "chapterNameEnglish": "Akṣara Brahma Yoga",
+  "theme": "लौटने और न लौटने का प्रसंग | Introducing two departures",
+  "context": "After describing the highest Purusha, Krishna announces an explanation of departure associated with return and nonreturn.",
+  "contextHindi": "परम पुरुष के वर्णन के बाद कृष्ण लौटने और न लौटने से जुड़े प्रयाण का प्रसंग खोलते हैं।",
+  "sanskritDevanagari": "यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिनः |\nप्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ ||८-२३||",
+  "transliteration": "yatra kāle tvanāvṛttimāvṛttiṃ caiva yoginaḥ .\nprayātā yānti taṃ kālaṃ vakṣyāmi bharatarṣabha ||8-23||",
+  "wordByWord": [
+    {
+      "term": "काले",
+      "meaning": "At a time; timing in this passage."
+    },
+    {
+      "term": "अनावृत्तिम्",
+      "meaning": "Nonreturn."
+    },
+    {
+      "term": "आवृत्तिम्",
+      "meaning": "Return."
+    },
+    {
+      "term": "प्रयाताः",
+      "meaning": "Having departed."
+    },
+    {
+      "term": "वक्ष्यामि",
+      "meaning": "I shall explain."
+    }
+  ],
+  "spokenHindi": "कृष्ण अर्जुन से कहते हैं कि वे उस समय का वर्णन करेंगे जिसमें प्रयाण करने वाले योगी लौटते हैं या नहीं लौटते। यह श्लोक एक नई व्याख्या की घोषणा है। अभी इसमें आग, प्रकाश, दिन या अन्य विशेष स्थितियों की सूची नहीं दी गई है। उन्हें जल्दी जोड़ देने से हम घोषणा और उसके आगे के विवरण को मिला देंगे। लौटना और न लौटना इस अध्याय के पुनर्जन्म और मुक्ति वाले संदर्भ में समझना चाहिए। यह रोज़ की यात्रा में वापस आने का सवाल नहीं है। ऐसे अंश पढ़ते समय मृत्यु की तारीख या समय को लेकर भय पैदा हो सकता है। लेकिन घोषणा किसी परिवार को शोक में दोष देने का आधार नहीं बनती। दिए गए अध्याय के सार में भक्ति और सतत स्मरण को व्यापक महत्त्व दिया गया है। हमारा अभ्यास अभी बस इतना हो सकता है कि पाठ की क्रमबद्धता बनाएँ: पहले प्रश्न या घोषणा, फिर विवरण, फिर निष्कर्ष। जब अर्थ अधूरा हो, तो अपनी आशंका से खाली जगह भरने के बजाय आगे की व्याख्या सुनने का धैर्य रखें।",
+  "clearEnglish": "This is an announcement of what Krishna will explain, not yet the detailed account itself. He speaks of the times at which departing yogis attain return or nonreturn. The surrounding discussion concerns rebirth and liberation, so those terms have a theological setting rather than the ordinary meaning of returning from a journey. A reader should resist filling the announcement with details that belong to subsequent verses. The distinction between an introduction and its explanation helps us follow an argument fairly. It also matters emotionally: passages about death can invite fearful conclusions before their context is complete. This verse gives no basis for blaming a family because of the hour at which someone died. The chapter summary in the supplied edition emphasizes steady devotion across circumstances, which belongs to the larger reading context. A responsible present practice is to note the question being opened and suspend judgment until the explanation has been heard. That patience is a reading habit we infer, not an additional doctrine Krishna states here.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna announces that he will describe times of departure associated with yogis' return or nonreturn."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Readers can withhold premature conclusions while hearing the full explanation, especially when the topic of death provokes anxiety."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Wait for the explanation",
+      "text": "Write the announced distinction in one sentence and leave space for the following explanation."
+    }
+  ],
+  "reflectionQuestion": "What am I assuming before the explanation has been given?",
+  "reflectionQuestionHindi": "व्याख्या सुनने से पहले मैं अपनी ओर से क्या मान लेता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

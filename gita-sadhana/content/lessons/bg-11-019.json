@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-019",
+  "sequenceNumber": 433,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 19,
+  "verseEnd": 19,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "सूर्य, चंद्र और अग्नि का रूप / Sun, moon and fire in the vision",
+  "context": "Arjuna describes endless power, innumerable arms, sun and moon as eyes, and the fiery radiance pervading the world.",
+  "contextHindi": "अर्जुन अनंत शक्ति, भुजाओं, सूर्य चंद्र जैसे नेत्र और जगत को तपाते तेज का वर्णन करते हैं।",
+  "sanskritDevanagari": "अनादिमध्यान्तमनन्तवीर्य-\nमनन्तबाहुं शशिसूर्यनेत्रम् |\nपश्यामि त्वां दीप्तहुताशवक्त्रं\nस्वतेजसा विश्वमिदं तपन्तम् ||११-१९||",
+  "transliteration": "anādimadhyāntamanantavīryam anantabāhuṃ śaśisūryanetram .\npaśyāmi tvāṃ dīptahutāśavaktraṃ svatejasā viśvamidaṃ tapantam ||11-19||",
+  "wordByWord": [
+    {
+      "term": "अनन्तवीर्यम्",
+      "meaning": "infinite in power"
+    },
+    {
+      "term": "शशिसूर्यनेत्रम्",
+      "meaning": "having moon and sun as eyes"
+    },
+    {
+      "term": "हुताशवक्त्रम्",
+      "meaning": "with fire as mouth"
+    },
+    {
+      "term": "तपन्तम्",
+      "meaning": "heating or burning"
+    }
+  ],
+  "spokenHindi": "अर्जुन बिना आदि, मध्य और अंत का, अनंत शक्ति तथा भुजाओं वाला रूप देखते हैं। चंद्र और सूर्य उसके नेत्र हैं, प्रज्वलित अग्नि मुख है, और अपने तेज से वह पूरे जगत को तपाता है। पिछले अध्याय में सूर्य और चंद्र अलग श्रेणियों के उदाहरण थे; यहाँ वे एक विशाल रूप के अंगों के रूप में आते हैं। इससे शब्दों का संबंध बदलता है। तेज की छवि अब केवल सुंदर चमक नहीं, तपाने वाली तीव्रता भी रखती है। दर्शन का यह पक्ष आगे भय की बात तक जाएगा। हमें उस क्रम को जल्द सरल खुशहाली के संदेश में समेटना नहीं चाहिए। श्लोक किसी वैज्ञानिक तापमान या खगोलीय शरीर की रचना नहीं बताता। हमारा अनुप्रयोग प्रभावशाली चीज में कई पहलू देखना हो सकता है। किसी बड़ी तकनीक या शक्ति से सुविधा आती है, साथ में सावधानी की जरूरत भी हो सकती है। उदाहरण आधुनिक है और दिव्य दृश्य का बराबर विकल्प नहीं। आज किसी संसाधन के लाभ और उसके जिम्मेदार उपयोग की शर्त दोनों लिखें; चमक देखते हुए असर भी देखना सीखें।",
+  "clearEnglish": "The imagery joins immeasurable extent with force. Arjuna sees no beginning, middle or end, infinite power and arms, the moon and sun as eyes, fire as mouth, and radiance heating the universe. Celestial examples that were previously named within separate categories now appear as features of one form. That change of relation is part of the movement from catalogue to vision. The light is also no longer merely decorative: heating gives it an intense and unsettling effect. The description should not be flattened into a general assurance that every spiritual experience feels pleasant. Nor is it a physical model from which temperatures or astronomical mechanisms can be calculated. A modest modern analogy is attention to both benefit and consequence when encountering a powerful capacity. A tool may be useful and still require careful handling. The application cannot capture the divine scene, but it can resist admiration that overlooks impact. The verse itself is Arjuna's account of boundless divine power and its fierce radiance.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna describes infinite extent and power, sun and moon eyes, fire mouth and world-heating radiance."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Considering a capacity's effects as well as its benefits is a limited analogy, not a physical model of the vision."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Notice impact as well as benefit",
+      "text": "For one powerful tool or resource you use, identify its benefit and one condition for responsible use."
+    }
+  ],
+  "reflectionQuestion": "What consequence do I overlook when something impresses me?",
+  "reflectionQuestionHindi": "किसी चीज से प्रभावित होते समय मैं उसका कौन सा परिणाम अनदेखा करता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

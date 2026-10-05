@@ -1,0 +1,75 @@
+{
+  "id": "bg-09-008",
+  "sequenceNumber": 346,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 8,
+  "verseEnd": 8,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "प्रकृति के वश में पुनः सृष्टि | Repeated emergence under nature",
+  "context": "Krishna elaborates how he sends forth the multitude through his own nature.",
+  "contextHindi": "कृष्ण अपनी प्रकृति के माध्यम से प्राणियों को बार-बार प्रकट करने की बात विस्तार से कहते हैं।",
+  "sanskritDevanagari": "प्रकृतिं स्वामवष्टभ्य विसृजामि पुनः पुनः |\nभूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात् ||९-८||",
+  "transliteration": "prakṛtiṃ svāmavaṣṭabhya visṛjāmi punaḥ punaḥ .\nbhūtagrāmamimaṃ kṛtsnamavaśaṃ prakṛtervaśāt ||9-8||",
+  "wordByWord": [
+    {
+      "term": "प्रकृतिं स्वाम्",
+      "meaning": "My own nature."
+    },
+    {
+      "term": "अवष्टभ्य",
+      "meaning": "Holding, sustaining, or animating."
+    },
+    {
+      "term": "पुनः पुनः",
+      "meaning": "Again and again."
+    },
+    {
+      "term": "भूतग्रामम्",
+      "meaning": "The multitude of beings."
+    },
+    {
+      "term": "अवशम्",
+      "meaning": "Helpless or not independent."
+    },
+    {
+      "term": "प्रकृतेः वशात्",
+      "meaning": "Under the power of nature."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि अपनी प्रकृति को आधार बनाकर वे इस पूरे प्राणिसमूह को बार-बार भेजते हैं। प्राणी प्रकृति के वश में अस्वतंत्र हैं। यह पिछली कल्प संबंधी बात का विस्तार है। अवश शब्द को सुनना ज़रूरी है; वह नियंत्रण की सीमा बताता है। लेकिन इसे आधुनिक जीवन में यह कहने का बहाना नहीं बनाना चाहिए कि किसी नुकसानदेह काम की हमारी ज़िम्मेदारी ही नहीं। श्लोक प्राणियों की ब्रह्मांडीय उत्पत्ति की बात करता है, किसी विशेष गलत निर्णय की अनुमति नहीं देता। हमारे अभ्यास के लिए अलग निष्कर्ष हो सकता है: परिस्थितियाँ, शरीर और सीखी हुई आदतें व्यवहार को प्रभावित करती हैं। उन प्रभावों को पहचानने से बदलाव का अवसर साफ़ दिख सकता है। यह मनोवैज्ञानिक उपमा है, प्रकृति शब्द की पूरी दार्शनिक परिभाषा नहीं। जहाँ अपने दम पर बदलाव कठिन हो, वहाँ सहयोग लेना भी उपयोगी है। आज एक छोटा प्रभाव देखें, जैसे थकान में जल्द उत्तर देना, और उसके लिए सहायक परिस्थिति बनाएँ। बड़े नियंत्रण की सीमाएँ पहचानकर भी छोटे जिम्मेदार विकल्प चुनना संभव है।",
+  "clearEnglish": "Krishna's own nature is the medium of repeated creation. He sends forth the whole multitude of beings again and again, while they are described as helpless under nature's power. The sentence thus distinguishes Krishna's agency from the beings' dependence in this cosmic account. Omitting helplessness would weaken the verse; using it to excuse any present misconduct would stretch it beyond its subject. It does not issue a command to abandon ethical responsibility. A modest contemporary analogy concerns conditions that shape behavior. Fatigue, surroundings, and learned habits can influence a response without making every action beyond examination. Recognizing those influences can suggest practical support, such as postponing a difficult message until one is rested or asking for help with a recurring difficulty. That exercise is our application and does not define the full concept of prakriti. The theological claim remains about the recurring multitude and Krishna's nature. We can let it encourage humility about dependence while still attending to the choices and repairs available in ordinary life.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna sends forth the entire multitude repeatedly through his own nature; beings are helpless under nature's power."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Recognizing conditions that influence behavior may help responsible change; cosmic dependence does not excuse harm."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Adjust one condition",
+      "text": "Identify one ordinary condition that worsens a response and change it gently, such as resting before replying."
+    }
+  ],
+  "reflectionQuestion": "Which condition can I adjust while accepting the limits of control?",
+  "reflectionQuestionHindi": "नियंत्रण की सीमा स्वीकार करते हुए मैं कौन-सी परिस्थिति थोड़ी बदल सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

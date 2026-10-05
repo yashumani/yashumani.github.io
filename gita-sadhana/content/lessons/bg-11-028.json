@@ -1,0 +1,71 @@
+{
+  "id": "bg-11-028",
+  "sequenceNumber": 442,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 28,
+  "verseEnd": 28,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "नदियों की गति की उपमा / The movement of rivers",
+  "context": "Arjuna compares the warriors entering the flaming mouths with rivers rushing toward the ocean.",
+  "contextHindi": "अर्जुन वीरों के प्रज्वलित मुखों में प्रवेश को नदियों के समुद्र की ओर बहने से तुलना करते हैं।",
+  "sanskritDevanagari": "यथा नदीनां बहवोऽम्बुवेगाः\nसमुद्रमेवाभिमुखा द्रवन्ति |\nतथा तवामी नरलोकवीरा\nविशन्ति वक्त्राण्यभिविज्वलन्ति ||११-२८||",
+  "transliteration": "yathā nadīnāṃ bahavo.ambuvegāḥ samudramevābhimukhā dravanti .\ntathā tavāmī naralokavīrā viśanti vaktrāṇyabhivijvalanti ||11-28||",
+  "wordByWord": [
+    {
+      "term": "अम्बुवेगाः",
+      "meaning": "currents or torrents of water"
+    },
+    {
+      "term": "अभिमुखाः",
+      "meaning": "directed toward"
+    },
+    {
+      "term": "नरलोकवीराः",
+      "meaning": "heroes of the human world"
+    },
+    {
+      "term": "अभिविज्वलन्ति",
+      "meaning": "blazing brightly"
+    }
+  ],
+  "spokenHindi": "अर्जुन कहते हैं कि जैसे नदियों की बहुत सी धाराएँ समुद्र की ओर दौड़ती हैं, वैसे ही मानव जगत के ये वीर प्रज्वलित मुखों में प्रवेश करते हैं। नदी की उपमा गति और दिशा को साफ करती है। यह युद्ध को सुंदर यात्रा कहकर हल्का करने की बात नहीं; पिछले कठोर दृश्य का प्रवाह समझाने की भाषा है। स्वामी शिवानंद की टिप्पणी अर्जुन को उन योद्धाओं का मृत्यु की ओर जाना देखते हुए समझाती है जिन्हें वे मारना नहीं चाहते थे। टिप्पणी आगे दिव्य निर्धारण की व्याख्या करती है; उसे अलग पहचानना चाहिए। हमारा आधुनिक उपयोग यह नहीं हो सकता कि नुकसान अवश्य होगा, इसलिए सहायता या सावधानी छोड़ दो। नदी की दिशा से सीमित संकेत यह ले सकते हैं कि कोई प्रक्रिया चल रही हो तो हम किन बातों पर असर डाल सकते हैं और किन पर नहीं। अपने वश में एक सुरक्षित काम चुनें। बड़े परिणाम पर पूरा नियंत्रण न होना जिम्मेदारी खत्म नहीं करता। मृत्यु की इस छवि को शोकग्रस्त व्यक्ति पर तर्क के रूप में थोपना भी ठीक नहीं।",
+  "clearEnglish": "The river comparison adds directed movement to the scene. Just as many currents rush toward the ocean, the heroes of the human world enter the flaming mouths. The simile concerns flow and convergence; it does not make the preceding destruction harmless or aesthetically comfortable. Sivananda's commentary interprets Arjuna as seeing the warriors he did not wish to kill rushing toward death, and adds an account of divine determination. That commentary should remain distinct from the literal comparison. It must not become general advice to stop preventing harm because an outcome seems inevitable. A modest modern application is to distinguish control from influence. When a large process is underway, identify a safe action still available within it, even if the final result cannot be guaranteed. Care and assistance may remain worthwhile under uncertainty. The analogy does not establish that every current event follows a predetermined course. The text concerns the extraordinary battlefield vision and its river-like movement, while our application concerns responsible action within ordinary limits.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna compares the warriors' entry into flaming mouths with rivers flowing to the ocean."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Limited control does not cancel care; the simile should not justify fatalism about ordinary harm."
+    },
+    {
+      "label": "COMMENTARY — Swami Sivananda",
+      "explanation": "Sivananda explains Arjuna's vision of the warriors he was reluctant to kill moving toward death and adds an interpretation of divine determination."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Find available influence",
+      "text": "In one uncertain situation, name what you cannot control and one safe, useful action you can still take. Do not assume the final result is fixed."
+    }
+  ],
+  "reflectionQuestion": "What responsibility remains even when I cannot guarantee the outcome?",
+  "reflectionQuestionHindi": "परिणाम की गारंटी न होने पर भी मेरी कौन सी जिम्मेदारी बनी रहती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

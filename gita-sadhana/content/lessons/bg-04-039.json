@@ -1,0 +1,71 @@
+{
+  "id": "bg-04-039",
+  "sequenceNumber": 201,
+  "date": "2026-10-05",
+  "chapter": 4,
+  "verseStart": 39,
+  "verseEnd": 39,
+  "chapterNameSanskrit": "ज्ञानकर्मसंन्यासयोग",
+  "chapterNameEnglish": "Jñāna Karma Sannyāsa Yoga",
+  "theme": "श्रद्धा, ज्ञान, और शांति: विश्वास के साथ विवेक और संयम मिलते हैं। / Faith, knowledge, and peace: truth is reached through trust, discipline, and steady devotion.",
+  "context": "Krishna has been explaining that knowledge is transformative because it burns ignorance and the weight of action. In this verse, he names the inner conditions needed to receive that knowledge: faith, focused devotion, and mastery of the senses.",
+  "contextHindi": "कृष्ण ने समझाया है कि ज्ञान अज्ञान को दूर करता है और कर्म के बंधन को जला देता है। इस श्लोक में उन्होंने ज्ञान पाने की आंतरिक स्थितियाँ बताई हैं—श्रद्धा, साधना में एकाग्रता, और इंद्रियों का संयम।",
+  "sanskritDevanagari": "श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः |\nज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति ||४-३९||",
+  "transliteration": "śraddhāvā.Nllabhate jñānaṃ tatparaḥ saṃyatendriyaḥ .\njñānaṃ labdhvā parāṃ śāntimacireṇādhigacchati ||4-39||",
+  "wordByWord": [
+    {
+      "term": "श्रद्धावान्",
+      "meaning": "one who is full of faith; trust that is lived, not merely claimed"
+    },
+    {
+      "term": "तत्परः",
+      "meaning": "devoted to that, absorbed in the path, not distracted by lesser aims"
+    },
+    {
+      "term": "संयतेन्द्रियः",
+      "meaning": "one whose senses are restrained and directed inward; disciplined attention"
+    },
+    {
+      "term": "परां शान्तिम्",
+      "meaning": "supreme peace; an inner stillness beyond emotional turbulence"
+    }
+  ],
+  "spokenHindi": "यह श्लोक सीधे बताता है कि ज्ञान केवल तर्क से नहीं मिलता, बल्कि श्रद्धा और संयम से मिलता है। ‘श्रद्धावान्’ का अर्थ है उस व्यक्ति का मन, जो सत्य के प्रति भरोसा रखता है और उसे जीवन में अपनाता है। ‘तत्परः’ का मतलब है जो उस ज्ञान की ओर पूरी तरह लग जाता है—वह छोटी-छोटी उलझनों में नहीं फँसता। ‘संयतेन्द्रियः’ का अर्थ है इंद्रियों को संभालना, ताकि मन भटककर बाहर न जाए। फिर भगवान कहते हैं: ऐसे व्यक्ति को ज्ञान मिलता है, और ज्ञान के बाद वह परा शांति को जल्दी प्राप्त करता है। यह शांति मन की स्थिरता है, न कि सिर्फ बाहरी शांति। इसीलिए ज्ञान का अर्थ केवल समझना नहीं; यह जीवन की आंतरिक शुद्धि है।",
+  "clearEnglish": "This verse defines the practical inner conditions for receiving wisdom. Krishna does not say that knowledge comes from abstract speculation alone. Faith, in the sense of earnest trust and sincere openness, is the soil in which understanding can grow. A person devoted to the path stops chasing every distraction; the mind becomes single-pointed. Sense-control is not a moralistic suppression but the capacity to keep attention from becoming scattered by craving, anger, or noise. Once those conditions are present, knowledge arises, and then it leads to a deeper peace, not merely a calm mood. The verse also implies that knowledge is not static information; it is a living transformation that settles the mind and reduces inner conflict. The perspective is practical: when the human being becomes more truthful, more disciplined, and more devoted, clarity naturally appears.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse directly states that one who has faith, is devoted, and has controlled the senses obtains knowledge and then supreme peace."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The verse suggests that knowledge is not merely intellectual; it is tied to trust, focus, and inner discipline. Without these, the mind remains restless and the truth is not fully assimilated."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Daily attention",
+      "text": "Before reading or reflecting, take one minute to settle your attention and ask: what do I really trust, and what am I chasing instead of understanding?"
+    },
+    {
+      "label": "Sense discipline",
+      "text": "Reduce unnecessary sensory stimulation for a short period each day; notice how calmer attention makes understanding easier."
+    }
+  ],
+  "reflectionQuestion": "What in my life makes me think I can understand truth without trust, discipline, and focused attention?",
+  "reflectionQuestionHindi": "मेरी जिंदगी में क्या वह चीज़ है, जो मुझे विश्वास, संयम और एकाग्रता के बिना सत्य समझने की भूल दे रही है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

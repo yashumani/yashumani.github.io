@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-043",
+  "sequenceNumber": 457,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 43,
+  "verseEnd": 43,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "विश्व के पिता और गुरु / Father and teacher of the world",
+  "context": "Arjuna praises Krishna as father of all moving and unmoving life and as the incomparable supreme teacher.",
+  "contextHindi": "अर्जुन कृष्ण को चर अचर जगत का पिता, पूज्य और अतुलनीय महान गुरु कहते हैं।",
+  "sanskritDevanagari": "पितासि लोकस्य चराचरस्य\nत्वमस्य पूज्यश्च गुरुर्गरीयान् |\nन त्वत्समोऽस्त्यभ्यधिकः कुतोऽन्यो\nलोकत्रयेऽप्यप्रतिमप्रभाव ||११-४३||",
+  "transliteration": "pitāsi lokasya carācarasya tvamasya pūjyaśca gururgarīyān .\nna tvatsamo.astyabhyadhikaḥ kuto.anyo lokatraye.apyapratimaprabhāva ||11-43||",
+  "wordByWord": [
+    {
+      "term": "पिता",
+      "meaning": "father; a divine relational image"
+    },
+    {
+      "term": "चराचरस्य",
+      "meaning": "of moving and unmoving existence"
+    },
+    {
+      "term": "गुरुः गरीयान्",
+      "meaning": "greatest or weightiest teacher"
+    },
+    {
+      "term": "अप्रतिमप्रभाव",
+      "meaning": "of unequalled power"
+    }
+  ],
+  "spokenHindi": "अर्जुन कहते हैं कि कृष्ण चर और अचर जगत के पिता हैं, उसके पूज्य हैं और महानतम गुरु हैं। तीनों लोकों में उनके बराबर कोई नहीं, तो उनसे बड़ा कौन होगा? यह दिव्य संबंध की स्तुति है। पिता का रूप यहाँ जगत के मूल और सहारे का संकेत देता है; सभी वास्तविक पिताओं को इसी अतुलनीय अधिकार में रख देना उचित नहीं। गुरुर्गरीयान् कृष्ण की व्यापक महिमा के संदर्भ में है। इससे किसी आज के गुरु या शिक्षक को जांच और जवाबदेही से परे करने का नियम नहीं मिलता। अर्जुन दिव्य रूप से अपने संबंध को नए ढंग से कह रहे हैं। हमारा छोटा उपयोग किसी शिक्षकीय मदद का महत्व पहचानना हो सकता है। जिसने कठिन बात समझने में सहायता की, उसके प्रति आभार रखें और अपनी समझ का इस्तेमाल जिम्मेदारी से करें। अच्छा मार्गदर्शन निर्भरता बढ़ाने के बजाय प्रश्न और क्षमता के लिए स्थान रख सकता है; यह आधुनिक मानवीय मानक है, श्लोक का शाब्दिक विवरण नहीं। आदर की भाषा तभी स्पष्ट रहेगी जब उसका विषय और सीमा दोनों पहचाने जाएँ।",
+  "clearEnglish": "Arjuna praises Krishna as father of the moving and unmoving world, worthy of worship, and the greatest teacher, without equal or superior in the three worlds. The scope is divine and universal. The father image concerns origin and sustaining relation; it should not be transferred into a claim of unlimited authority for every human parent. Likewise, the greatest guru here is Krishna in the revealed form, not any person who adopts a teaching role today. Human guidance still calls for boundaries, scrutiny and accountability. A practical inference is appreciation for real educational help. Name the understanding a teacher made possible and use it responsibly. Good ordinary guidance can leave room for questions and developing ability, although that is our contemporary standard rather than a sentence in the verse. This keeps respect from becoming dependence on an unchecked person. The literal passage is Arjuna's declaration of the incomparable divine teacher and source of the whole world, expressed through familiar relational language.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna calls Krishna the world's father, worshipful and greatest incomparable guru."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Gratitude for human teaching does not remove scrutiny, boundaries or accountability."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Acknowledge helpful guidance",
+      "text": "Name one understanding someone helped you gain. Thank them specifically and identify how you can use that understanding responsibly."
+    }
+  ],
+  "reflectionQuestion": "Does my respect for guidance leave room for questions and growing ability?",
+  "reflectionQuestionHindi": "मार्गदर्शन के प्रति मेरा आदर क्या प्रश्न और अपनी क्षमता बढ़ने की जगह रखता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

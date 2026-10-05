@@ -1,0 +1,71 @@
+{
+  "id": "bg-14-003",
+  "sequenceNumber": 527,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 3,
+  "verseEnd": 3,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "Nature as the cosmic womb / प्रकृति का गर्भ",
+  "context": "Krishna explains the origin of embodied beings through a cosmic womb and the placement of a germ.",
+  "contextHindi": "कृष्ण ज्ञान के फल से सृष्टि की उत्पत्ति की ओर मुड़ते हैं और गर्भ तथा बीज की उपमा देते हैं।",
+  "sanskritDevanagari": "मम योनिर्महद् ब्रह्म तस्मिन्गर्भं दधाम्यहम् |\nसम्भवः सर्वभूतानां ततो भवति भारत ||१४-३||",
+  "transliteration": "mama yonirmahad brahma tasmingarbhaṃ dadhāmyaham .\nsambhavaḥ sarvabhūtānāṃ tato bhavati bhārata ||14-3||",
+  "wordByWord": [
+    {
+      "term": "yoniḥ",
+      "meaning": "womb or source; गर्भ या उद्गम"
+    },
+    {
+      "term": "mahad brahma",
+      "meaning": "great expansive matrix, read here as cosmic Nature"
+    },
+    {
+      "term": "garbham",
+      "meaning": "germ or embryo; गर्भ"
+    },
+    {
+      "term": "sarvabhūtānām",
+      "meaning": "of all beings; सभी प्राणियों का"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि महद् ब्रह्म उनका गर्भ या उत्पत्ति का आधार है; उसमें वे गर्भ स्थापित करते हैं और उससे सभी प्राणी जन्म लेते हैं। यहाँ गर्भ की भाषा सृष्टि को समझाने वाली उपमा है। इसे केवल मानव शरीर के जैविक विवरण तक सीमित करने से बात छोटी हो जाएगी। अध्याय की भूमिका में स्वामी सिवानंद विश्व की प्रकृति को उत्पत्ति का आधार बताते हैं और ईश्वर को उसके माध्यम से सृष्टि करने वाला कहते हैं। ‘महद् ब्रह्म’ को इस संदर्भ में व्यापक प्रकृति का आधार समझना उसी व्याख्या के अनुरूप है। ब्रह्म शब्द देखकर इसे बिना संदर्भ हर जगह एक ही अर्थ में न लें। श्लोक उत्पत्ति में प्रकृति और दिव्य उपस्थिति का संबंध रखता है। अपने जीवन में इससे एक विनम्र संकेत लिया जा सकता है: कोई काम केवल मेरे इरादे से नहीं बनता। समय, साधन और दूसरे लोगों का सहयोग भी चाहिए। यह आधुनिक तुलना है; इससे श्लोक की पूरी सृष्टि संबंधी बात सिद्ध नहीं हो जाती।",
+  "clearEnglish": "Krishna presents creation through a generative image: the great Brahma is his womb, he places the germ within it, and the coming into being of all creatures follows. The chapter summary in the supplied edition treats cosmic Nature as the primal source of created things and explains the Supreme as bringing about creation through that Nature. Reading mahad brahma here as the vast matrix of Nature therefore has direct support in the source context. The wording should not be turned into a scientific account of reproduction or cosmology. Its philosophical work is to relate the many embodied beings to a common generative ground and divine agency. A practical analogy concerns interdependence in making anything. An intention alone does not produce a garden, a lesson, or a meal; materials and conditions also matter. Recognizing those conditions can reduce exaggerated claims of solitary authorship. That analogy illuminates our habits of attribution without pretending to exhaust the verse's account of creation.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes mahad brahma as his womb, the placement of a germ, and the resulting origin of all beings."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sivananda's chapter summary understands the cosmic creative matrix as Nature through which the Supreme brings forth creation."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Acknowledging enabling conditions in human work is a contemporary analogy, not a literal account of cosmic creation."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "For one completed task, acknowledge a person and a material condition that helped make it possible."
+    }
+  ],
+  "reflectionQuestion": "What conditions am I overlooking when I call something entirely my achievement?",
+  "reflectionQuestionHindi": "किस काम को केवल अपनी उपलब्धि कहते समय मैं उसके सहायक कारण भूल जाता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

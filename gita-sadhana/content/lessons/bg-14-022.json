@@ -1,0 +1,71 @@
+{
+  "id": "bg-14-022",
+  "sequenceNumber": 546,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 22,
+  "verseEnd": 22,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "No hatred or craving toward states / दशाओं से द्वेष और लालसा का घटाव",
+  "context": "Krishna begins answering Arjuna, describing the attitude of one beyond the qualities toward their presence and absence.",
+  "contextHindi": "कृष्ण अर्जुन को उत्तर देते हुए प्रकाश, प्रवृत्ति और मोह के आने जाने पर द्वेष और लालसा का अभाव बताते हैं।",
+  "sanskritDevanagari": "श्रीभगवानुवाच |\nप्रकाशं च प्रवृत्तिं च मोहमेव च पाण्डव |\nन द्वेष्टि सम्प्रवृत्तानि न निवृत्तानि काङ्क्षति ||१४-२२||",
+  "transliteration": "śrībhagavānuvāca .\nprakāśaṃ ca pravṛttiṃ ca mohameva ca pāṇḍava .\nna dveṣṭi sampravṛttāni na nivṛttāni kāṅkṣati ||14-22||",
+  "wordByWord": [
+    {
+      "term": "prakāśam",
+      "meaning": "illumination; प्रकाश"
+    },
+    {
+      "term": "pravṛttim",
+      "meaning": "activity; प्रवृत्ति"
+    },
+    {
+      "term": "moham",
+      "meaning": "delusion; मोह"
+    },
+    {
+      "term": "dveṣṭi",
+      "meaning": "hates; द्वेष करता है"
+    },
+    {
+      "term": "kāṅkṣati",
+      "meaning": "longs for; आकांक्षा करता है"
+    }
+  ],
+  "spokenHindi": "कृष्ण अर्जुन को उत्तर देते हैं कि गुणों से पार व्यक्ति प्रकाश, प्रवृत्ति और मोह के उपस्थित होने पर उनसे द्वेष नहीं करता, और उनके हटने पर उन्हें पाने की आकांक्षा नहीं करता। यह बात गुणों की गति के साथ भीतर के संबंध पर है। किसी दशा को तुरंत दुश्मन बना देना या पसंद की दशा वापस लाने के लिए बेचैन होना बंधन बढ़ा सकता है। फिर भी मोह को देखकर गलत निर्णय करना जरूरी नहीं। द्वेष का अभाव समझ और जिम्मेदारी का अभाव नहीं होता। हमारे दिन का सीमित अभ्यास यह है कि भ्रम दिखाई दे तो उसे शांत भाषा में स्वीकारें: अभी यह बात साफ नहीं है। फिर तथ्य पूछें या फैसला रोकें। स्पष्टता आए तो उसका उपयोग करें, पर उसे हमेशा रखने का दबाव न जोड़ें। ये व्यावहारिक उदाहरण पूर्ण गुणातीत अवस्था का प्रमाण नहीं हैं। श्लोक आदर्श का वर्णन करता है। हम उस दिशा में छोटी जगह बना सकते हैं जहाँ मन की बदलती दशा और हमारा अगला जिम्मेदार कदम एक ही चीज न बन जाएँ।",
+  "clearEnglish": "Krishna's first answer describes an attitude toward illumination, activity, and delusion: the person does not hate them when present or long for them when absent. These terms recall the qualities' characteristic expressions. The point concerns freedom from reactive rejection and craving around changing states. It does not require acting on delusion or abandoning discernment. One may recognize confusion without hating oneself, then seek clarification before deciding. Likewise, a clear period can be used well without demanding that it never end. These are modest applications of the description, not evidence that the full state of transcendence has been attained. The verse helps separate the occurrence of a mental condition from the additional struggle we build around it. A responsible response can acknowledge what is here and still select a suitable action. In this way, acceptance means seeing accurately enough to respond; it does not mean granting every impulse authority over behavior or refusing needed support.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The described person neither hates illumination, activity, or delusion when present nor longs for them when absent."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Acknowledging confusion and seeking clarification applies nonhatred while preserving discernment and responsibility."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "When a state shifts, name it calmly and choose a suitable next step instead of demanding its immediate disappearance."
+    }
+  ],
+  "reflectionQuestion": "What extra struggle am I adding to the state that is already present?",
+  "reflectionQuestionHindi": "जो दशा अभी है, उसके ऊपर मैं कौन सा अतिरिक्त संघर्ष जोड़ रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

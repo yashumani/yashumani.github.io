@@ -1,0 +1,67 @@
+{
+  "id": "bg-12-011",
+  "sequenceNumber": 480,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 11,
+  "verseEnd": 11,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "फल की पकड़ छोड़ना / Relinquishing the fruits of action",
+  "context": "Krishna offers renunciation of all action's fruits, with self-control and refuge in his yoga, if the preceding approach is difficult.",
+  "contextHindi": "कृष्ण पूर्व उपाय कठिन होने पर अपने योग का आश्रय लेकर संयम से कर्मफलों का त्याग कहते हैं।",
+  "sanskritDevanagari": "अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः |\nसर्वकर्मफलत्यागं ततः कुरु यतात्मवान् ||१२-११||",
+  "transliteration": "athaitadapyaśakto.asi kartuṃ madyogamāśritaḥ .\nsarvakarmaphalatyāgaṃ tataḥ kuru yatātmavān ||12-11||",
+  "wordByWord": [
+    {
+      "term": "मद्योगम् आश्रितः",
+      "meaning": "taking refuge in union with me"
+    },
+    {
+      "term": "सर्वकर्मफलत्यागम्",
+      "meaning": "renunciation of the fruits of all actions"
+    },
+    {
+      "term": "यतात्मवान्",
+      "meaning": "self-controlled"
+    },
+    {
+      "term": "कुरु",
+      "meaning": "do or practise"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि यदि यह भी नहीं कर सकते, तो उनके योग का आश्रय लेकर संयमित होकर सभी कर्मों के फल का त्याग करो। फलत्याग शब्द को कर्मत्याग से अलग सुनना जरूरी है। काम छोड़ना और उसके परिणाम पर पकड़ छोड़ना एक ही बात नहीं। यतात्मवान् में संयम है, इसलिए दिशा बेपरवाह होने की नहीं। पिछले उपायों की कठिनाई के बाद यह एक और प्रवेश है। इसका आधुनिक उपयोग काम को जिम्मेदारी से करके भी प्रशंसा या मनचाही सफलता पर पूरा अधिकार न मानना हो सकता है। परिणाम की समीक्षा और सुधार तब भी जरूरी रहते हैं। उचित वेतन, कानूनी अधिकार या सुरक्षा का दावा छोड़ देना इस अभ्यास का आवश्यक अर्थ नहीं। वह सामाजिक संदर्भ अलग है। किसी छोटे काम के बाद देखें कि क्या पूरा हो चुका काम मन में बार बार श्रेय की मांग बनकर घूम रहा है। उसे पहचानें, फिर ध्यान अगले उचित काम में लगाएँ। यह हमारी व्यावहारिक विधि है। कृष्ण के कथन में त्याग आध्यात्मिक संबंध के भीतर है, सब जिम्मेदारियों से मुक्त होने की घोषणा नहीं।",
+  "clearEnglish": "The object of renunciation is the fruit of action, not simply all action. Krishna says that if the preceding approach is difficult, Arjuna should take refuge in his yoga and renounce the fruits of all actions with self-control. Yatatmavan prevents the passage from becoming a counsel of careless disengagement. A modern inference is to distinguish responsible effort from an unlimited claim over the outcome. Work can be checked and improved even while the demand for recognition is loosened. This should not be used to tell people to surrender fair pay, lawful rights or safety. Those practical obligations require separate judgment, and the verse does not cancel them. After one bounded task, notice whether the mind keeps trying to extract a particular reward. Name that expectation and return to the next appropriate action. The method is our application, not a guarantee of spiritual attainment. Krishna places renunciation within a devotional relation and offers it as another approach according to capacity.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna directs renunciation of action's fruits, with self-control and refuge in his yoga."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Loosening demands for reward can coexist with review, fair rights and responsible effort."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Notice a reward demand",
+      "text": "After one task, name the reward you hoped for. Separate that hope from checking the work and taking the next responsible step."
+    }
+  ],
+  "reflectionQuestion": "Can I release a demand for recognition while keeping responsibility for the work?",
+  "reflectionQuestionHindi": "क्या मैं काम की जिम्मेदारी रखते हुए प्रशंसा की मांग ढीली कर सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

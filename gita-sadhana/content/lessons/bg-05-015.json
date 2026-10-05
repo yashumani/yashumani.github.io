@@ -1,0 +1,87 @@
+{
+  "id": "bg-05-015",
+  "sequenceNumber": 219,
+  "date": "2026-10-05",
+  "chapter": 5,
+  "verseStart": 15,
+  "verseEnd": 15,
+  "chapterNameSanskrit": "कर्मसंन्यासयोग",
+  "chapterNameEnglish": "Karma Sannyāsa Yoga",
+  "theme": "कर्म का आसक्ति से त्याग और ज्ञान की रोशनी | Renunciation without attachment, and knowledge that removes ignorance",
+  "context": "Krishna is deepening the teaching on Karma Yoga. He says the Lord does not accept anyone's sin or merit as if it were a personal possession. The real issue is that beings live under ignorance, and that ignorance veils the knowledge of the Self. This is not a dismissal of ethics; it is a description of how delusion hides reality.",
+  "contextHindi": "श्रीकृष्ण कर्मयोग को और स्पष्ट कर रहे हैं। वे कहते हैं कि भगवान किसी के पाप या पुण्य को अपना मानकर नहीं लेता। असली बात यह है कि जीव अज्ञान की स्थिति में रहता है, और उसी अज्ञान से आत्म-ज्ञान पर आवरण पड़ जाता है। यह नैतिकता को खारिज करने का कथन नहीं, बल्कि भ्रम की स्थिति का सही चित्रण है।",
+  "sanskritDevanagari": "नादत्ते कस्यचित्पापं न चैव सुकृतं विभुः |\nअज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तवः ||५-१५||",
+  "transliteration": "nādatte kasyacitpāpaṃ na caiva sukṛtaṃ vibhuḥ .\najñānenāvṛtaṃ jñānaṃ tena muhyanti jantavaḥ ||5-15||",
+  "wordByWord": [
+    {
+      "term": "विभुः",
+      "meaning": "the all-pervading Lord"
+    },
+    {
+      "term": "कस्यचित्",
+      "meaning": "of anyone"
+    },
+    {
+      "term": "पापं",
+      "meaning": "sin; demerit"
+    },
+    {
+      "term": "सुकृतं",
+      "meaning": "merit; good deed"
+    },
+    {
+      "term": "अज्ञानेनावृतं",
+      "meaning": "covered by ignorance; veiled by ignorance"
+    },
+    {
+      "term": "ज्ञानं",
+      "meaning": "knowledge of the Self, the clear inner knowing of reality"
+    },
+    {
+      "term": "जन्तवः",
+      "meaning": "living beings; embodied creatures who move through pleasure, pain, and confusion"
+    }
+  ],
+  "spokenHindi": "इस श्लोक में श्रीकृष्ण कहते हैं कि विभुः—सर्वव्यापी प्रभु—किसी का पाप या पुण्य ग्रहण नहीं करते। आगे वे कहते हैं कि ज्ञान अज्ञान से ढका रहता है, और इसी कारण जीव मोहित होते हैं। यहाँ श्लोक का सीधा कथन इतना ही है। यह किसी व्यक्ति को दोषी या निर्दोष ठहराने, उसके कर्मों के परिणाम बताने, या पाप-पुण्य को उसकी अंतिम पहचान कहने की चर्चा नहीं करता। इसलिए इन पंक्तियों से ऐसे निष्कर्ष नहीं निकालने चाहिए। अगले श्लोक में ज्ञान की बात आगे बढ़ती है: आत्मज्ञान से जिनका अज्ञान नष्ट होता है, उनके लिए ज्ञान सूर्य की तरह परम तत्त्व को प्रकाशित करता है। इन दोनों श्लोकों को पढ़ते समय उनके सीधे कथन और उनसे निकाली जा सकने वाली व्याख्या में फर्क रखना उपयोगी है। हमारी रोज़मर्रा की एक उपयोगी जाँच यह हो सकती है: किसी घटना के बारे में मुझे कितना पता है, और कितना मैंने मान लिया है? इस सवाल से निष्पक्ष समझ को जगह मिलती है। इसे श्लोक से प्रेरित अभ्यास समझें, अज्ञान की पूरी धार्मिक परिभाषा नहीं।",
+  "clearEnglish": "The verse says that the all-pervading Lord accepts neither anyone’s sin nor merit, and that beings are deluded because knowledge is covered by ignorance. It does not explain here what consequences actions have, or define a person by their sin or merit. Those claims should not be presented as the verse’s teaching. The next verse continues the discussion: for those whose ignorance has been destroyed by knowledge of the Self, knowledge reveals the Supreme, like the sun. A careful reading keeps the stated teaching distinct from further interpretation. One may reflect on ignorance and understanding in daily life, but that reflection is an application, not a literal definition of the verse. A useful ordinary exercise is to separate what we observed from what we assumed before judging an action. That exercise does not exhaust the religious meaning of ignorance, but it can make our reading more attentive and our decisions less hurried.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse plainly says that the Lord accepts neither a being's sin nor its merit, and that beings are deluded because knowledge is covered by ignorance."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "As a practical application, one may reflect on how understanding affects one’s choices. The verse itself does not describe moral consequences or define anyone by their actions."
+    },
+    {
+      "label": "SCOPE",
+      "explanation": "The verse says that knowledge is covered by ignorance and that beings are deluded. It does not specify here what ignorance consists of or describe it as a stain on the Self."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Pause before self-judgment",
+      "text": "After a difficult event, take a moment to notice what happened and what you can learn. Keep that reflection separate from conclusions about a person’s ultimate identity."
+    },
+    {
+      "label": "Separate action from identity",
+      "text": "After a success or disagreement, reflect on your action and intention, and consider what you might do differently next time."
+    }
+  ],
+  "reflectionQuestion": "What can you learn from an action or its outcome without treating an interpretation as the verse’s literal statement?",
+  "reflectionQuestionHindi": "किसी कर्म या उसके परिणाम से आप क्या सीख सकते हैं, और उसे श्लोक के सीधे कथन से कैसे अलग रखेंगे?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

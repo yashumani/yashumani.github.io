@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-062",
+  "sequenceNumber": 685,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 62,
+  "verseEnd": 62,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Wholehearted refuge and peace / पूरे मन से शरण",
+  "context": "Krishna responds to the vision of the indwelling Lord by asking Arjuna to seek refuge in him.",
+  "contextHindi": "हृदयस्थ ईश्वर का वर्णन करने के बाद कृष्ण अर्जुन को पूरे भाव से उनकी शरण लेने को कहते हैं।",
+  "sanskritDevanagari": "तमेव शरणं गच्छ सर्वभावेन भारत |\nतत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम् ||१८-६२||",
+  "transliteration": "tameva śaraṇaṃ gaccha sarvabhāvena bhārata .\ntatprasādātparāṃ śāntiṃ sthānaṃ prāpsyasi śāśvatam ||18-62||",
+  "wordByWord": [
+    {
+      "term": "tam eva",
+      "meaning": "to him alone"
+    },
+    {
+      "term": "śaraṇam gaccha",
+      "meaning": "go for refuge"
+    },
+    {
+      "term": "sarvabhāvena",
+      "meaning": "with one's whole being"
+    },
+    {
+      "term": "tatprasādāt",
+      "meaning": "by his grace"
+    },
+    {
+      "term": "parāṃ śāntim",
+      "meaning": "supreme peace"
+    }
+  ],
+  "spokenHindi": "पिछले श्लोक में ईश्वर को सबके हृदय में बताया गया। अब कृष्ण अर्जुन से कहते हैं कि पूरे भाव से उन्हीं की शरण जाओ; उनकी कृपा से परम शांति और शाश्वत स्थान मिलेगा। शरण केवल कठिनाई से बचने की चाल नहीं, अपने जीवन की दिशा सौंपने का गहरा धार्मिक शब्द है। फिर भी इसका अर्थ किसी मानव प्रतिनिधि के सामने बिना सवाल किए झुकना नहीं है। शांति का वादा आध्यात्मिक है; यह हर बाहरी संघर्ष के तुरंत मिट जाने की गारंटी नहीं देता। जो व्यक्ति संकट में है, उसे प्रार्थना के साथ भरोसेमंद लोगों और जरूरत के अनुसार सहायता का सहारा लेने की पूरी जगह है। पूरे भाव से शरण जाने में भय, भ्रम और संदेह को ईमानदारी से स्वीकार करना भी आ सकता है। आज थोड़ी देर रुककर पूछें कि किस बात को अकेले संभालने का दबाव आप पर है। जहाँ उचित हो, सहायता माँगें और अपने हिस्से का निर्णय स्पष्ट करें। आश्रय जिम्मेदारी को छोड़ना नहीं, उसे अधिक स्थिर मन से निभाने का आधार बन सकता है।",
+  "clearEnglish": "The previous image places the Lord in the heart of every being. Krishna now tells Arjuna to go to that Lord alone for refuge with his whole being, promising supreme peace and an eternal place through divine grace. Wholeheartedness adds more than an occasional wish for rescue; it names the orientation of the person. Still, the verse does not transfer divine authority to any human figure who demands unquestioning obedience. Nor should supreme peace be advertised as a quick cure for every outward crisis or emotional struggle. Within this spiritual claim, grace and peace have an ultimate horizon. A careful everyday application is to admit where solitary control is failing, pray or reflect according to one's practice, and seek trustworthy practical help when needed. The last step is an inference and not a substitute for Krishna's religious claim. Surrender can be honest about uncertainty. It can steady a person to make a needed decision, keep a boundary, or ask for assistance without treating any of those acts as a failure of faith.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna asks Arjuna to take refuge in the Lord with his whole being and promises supreme peace and the eternal abode by grace."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Seeking support while making responsible decisions can accompany spiritual refuge; this promise should not be sold as instant relief."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Name one burden you are carrying alone, make a short prayer or reflection, and ask for fitting practical support if needed."
+    }
+  ],
+  "reflectionQuestion": "Where could wholehearted refuge make me more honest rather than more passive?",
+  "reflectionQuestionHindi": "किस बात में पूरी शरण मुझे निष्क्रिय नहीं, अधिक ईमानदार बना सकती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

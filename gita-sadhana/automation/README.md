@@ -1,68 +1,18 @@
-# Gita Sadhana Cloud Automation
+# Gita Sadhana automation: historical and manual tools
 
-This directory contains the deterministic control plane for the public Gita Sadhana journey.
+The complete 701-verse study archive has been prepared and published from locally validated, independently assistant-reviewed content. The public state is in `../gita-progress.json`, `../content/manifest.json`, `../content/lessons/`, and `../content/complete-archive.json`. See [`../AUTOMATION.md`](../AUTOMATION.md) for the current public archive and source policy.
 
-## Active schedule
+There is no recurring Gita generation or publication schedule. The teacher, manual publisher, one-shot bulk, quota audit, and transcription repair workflows remain in `.github/workflows/` as historical or manually dispatched recovery tools. They must not be used to regenerate this complete archive or to incur Copilot usage. The original pilot's monthly provider quota failure is historical recovery evidence; it was not a dependency of local completion.
 
-- **Teacher cadence (America/New_York):** 12:07 AM, 3:07 AM, 6:07 AM, 9:07 AM, 12:07 PM, 3:07 PM, 6:07 PM, 9:07 PM — `.github/workflows/gita-daily-lesson.yml`
-- **Publisher cadence (America/New_York):** 1:07 AM, 4:07 AM, 7:07 AM, 10:07 AM, 1:07 PM, 4:07 PM, 7:07 PM, 10:07 PM — `.github/workflows/gita-publish.yml`
-
-This temporary Diwali 2026 acceleration provides up to eight validated publication cycles per day. Each cycle retains the existing deterministic one-or-two-verse scope and never crosses a chapter boundary, preserving the current quality and safety gates while providing enough capacity to complete the 701-verse journey by November 8, 2026. The seven-minute offset avoids the busiest top-of-hour window.
-
-## Verified source chain
-
-The daily teacher uses two complementary sources:
-
-1. **Primary reading edition:** the official Sri Swami Sivananda / Divine Life Society PDF. Each run downloads the PDF, validates its PDF signature, extracts its text, confirms the edition’s explicit 701-verse statement, and checks first-verse and Chapter 13 sentinels.
-2. **Exact Sanskrit source:** `gita-sadhana/data/sanskrit-701.json`, an immutable reduced corpus containing only ancient Devanagari text and Roman transliteration. It was built from a pinned upstream commit and verified against its Git blob hash. Its 701 positions, all chapter counts, and the distinctive 35-verse Chapter 13 numbering are revalidated before every lesson.
-
-The former IIT Kanpur page is not an operational dependency. Its public site migrated to a JavaScript application in September 2026, so the automation deliberately avoids scraping its placeholder page.
-
-## Daily delivery and publication
-
-At each scheduled teacher run, GitHub Actions:
-
-1. reads `gita-progress.json`;
-2. chooses the exact next one or two verses without crossing a chapter boundary;
-3. verifies the local Sanskrit corpus and downloads the official DLS PDF;
-4. constructs verse-specific evidence and an authoritative teacher prompt;
-5. uses GitHub Copilot CLI with the workflow’s short-lived `GITHUB_TOKEN`;
-6. validates the generated bilingual lesson deterministically; and
-7. creates a GitHub issue assigned to the repository owner.
-
-That assigned issue is the morning listening lesson and the immutable staging record.
-
-At each scheduled publisher run, GitHub Actions:
-
-1. finds the oldest unprocessed packet;
-2. validates its expected state, IDs, sequence, verse boundaries, and content fields;
-3. publishes the exact staged lesson objects without interpretive rewriting;
-4. updates the manifest and public progress in one commit;
-5. waits until GitHub Pages exposes the new JSON; and
-6. comments on and closes the staging issue.
-
-## Safety properties
-
-- The AI never decides which verse comes next.
-- A failed run cannot advance `gita-progress.json`.
-- A packet is idempotent and can be retried safely.
-- Previously explored Gita 5.18 does not count toward sequential completion.
-- The selected Sri Swami Sivananda / Divine Life Society numbering remains 701.
-- The 35-verse Chapter 13 numbering is tested explicitly.
-- Exact Sanskrit and transliteration are supplied as evidence rather than generated from memory.
-- No long-lived API key is stored in the repository.
-- Failures create a deduplicated alert issue assigned to the owner.
-
-## Main commands
+For current deterministic checks, run:
 
 ```bash
+node gita-sadhana/automation/verify-complete-publication.mjs
 node gita-sadhana/automation/gita-automation.mjs self-test
-node gita-sadhana/automation/source-preflight.mjs
-node gita-sadhana/automation/gita-automation.mjs stage
-node gita-sadhana/automation/gita-automation.mjs publish
-node gita-sadhana/automation/gita-automation.mjs verify
-node gita-sadhana/automation/gita-automation.mjs close
-node gita-sadhana/automation/gita-automation.mjs alert
+node gita-sadhana/automation/gita-bulk.mjs self-test
+node gita-sadhana/automation/gita-bulk-worker.mjs self-test
+npm run check:static
+npm run check:syntax
 ```
 
-The scheduled workflows also expose `workflow_dispatch` for an intentional manual run from GitHub Actions.
+The `verify-complete-publication.mjs` check requires all 701 tracked, published lessons in canonical order. It is wired into the main-branch site-quality workflow. The pinned corpus and primary source edition remain documented in `../AUTOMATION.md`.

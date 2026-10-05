@@ -1,0 +1,67 @@
+{
+  "id": "bg-13-024",
+  "sequenceNumber": 513,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 24,
+  "verseEnd": 24,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Knowledge that releases from rebirth / पुनर्जन्म से मुक्त करने वाला ज्ञान",
+  "context": "Krishna states the liberating result of knowing Spirit, Nature, and the qualities as described.",
+  "contextHindi": "कृष्ण पुरुष, प्रकृति और गुणों को इस तरह जानने वाले के लिए पुनर्जन्म का अभाव बताते हैं।",
+  "sanskritDevanagari": "य एवं वेत्ति पुरुषं प्रकृतिं च गुणैः सह |\nसर्वथा वर्तमानोऽपि न स भूयोऽभिजायते ||१३-२४||",
+  "transliteration": "ya evaṃ vetti puruṣaṃ prakṛtiṃ ca guṇaiḥ saha .\nsarvathā vartamāno.api na sa bhūyo.abhijāyate ||13-24||",
+  "wordByWord": [
+    {
+      "term": "evaṃ vetti",
+      "meaning": "knows in this manner"
+    },
+    {
+      "term": "guṇaiḥ saha",
+      "meaning": "together with the qualities"
+    },
+    {
+      "term": "sarvathā vartamānaḥ",
+      "meaning": "in whatever condition one exists"
+    },
+    {
+      "term": "na bhūyaḥ abhijāyate",
+      "meaning": "is not born again"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जो पुरुष और प्रकृति को गुणों सहित इस तरह जानता है, वह किसी भी अवस्था में रहते हुए फिर जन्म नहीं लेता। ‘इस तरह’ पिछले विवेचन से जुड़ता है; यह केवल कुछ नाम याद रखने का फल नहीं बताया गया। मुक्त करने वाले ज्ञान का संबंध अनुभव, प्रकृति और ज्ञाता की समझ से है। ‘किसी भी अवस्था’ को पढ़कर यह न मानें कि हानिकारक काम अब स्वीकार्य हो गया। श्लोक आत्मज्ञान के आध्यात्मिक फल की बात करता है, जिम्मेदारी समाप्त करने का प्रमाणपत्र नहीं। इसे किसी जन्मगत पहचान की शर्त भी नहीं बनाया गया। अपने लिए एक छोटे अभ्यास में परिस्थिति कठिन होने पर भी सीखने की संभावना याद रख सकते हैं। शांत माहौल अच्छा है, पर पूर्ण आदर्श परिस्थिति का इंतजार करके हर जाँच टालना जरूरी नहीं। यह आधुनिक अनुप्रयोग है, पुनर्जन्म न होने का दावा नहीं। आज उपलब्ध समय में एक प्रश्न समझें और उसके अनुसार जिम्मेदार कदम चुनें। ज्ञान की दिशा आचरण को साफ करे तो अध्ययन केवल दिखावा नहीं रह जाता।",
+  "clearEnglish": "Knowing Spirit and Nature together with the qualities in the manner described leads to no further birth, whatever one's condition. The phrase in this manner points back to the preceding analysis, so the claim is about substantial understanding rather than merely memorizing terminology. Whatever the condition broadens the spiritual statement without turning it into an exemption from ethical responsibility. Harmful conduct is not certified as acceptable, and the verse does not impose an inherited identity as the condition of access. A modest contemporary inference is that inquiry need not wait for a perfectly arranged life. A quieter setting may help, but an attainable moment of careful study is still available amid ordinary responsibilities. This exercise does not establish the no-rebirth attainment. It asks whether understanding can inform one responsible action under the conditions actually present. Keep the liberation claim in its religious scope while making the everyday response concrete, honest, and proportionate to what has truly been understood.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Knowing Spirit, Nature, and qualities as explained leads to no rebirth, whatever one's condition."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Studying within actual circumstances is a modest application; the spiritual result does not remove accountability or impose inherited identity requirements."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Use one attainable period today to clarify a question and let it inform a responsible action."
+    }
+  ],
+  "reflectionQuestion": "What can I understand now without waiting for perfect circumstances?",
+  "reflectionQuestionHindi": "पूर्ण परिस्थिति का इंतजार किए बिना अभी कौन सी बात समझ सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

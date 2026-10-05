@@ -1,0 +1,71 @@
+{
+  "id": "bg-09-007",
+  "sequenceNumber": 345,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 7,
+  "verseEnd": 7,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "कल्प का अंत और नया आरंभ | Cosmic dissolution and renewal",
+  "context": "Krishna explains the recurring emergence and withdrawal of beings through his nature.",
+  "contextHindi": "कृष्ण अपनी प्रकृति के माध्यम से प्राणियों के लय और फिर प्रकट होने का वर्णन करते हैं।",
+  "sanskritDevanagari": "सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम् |\nकल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम् ||९-७||",
+  "transliteration": "sarvabhūtāni kaunteya prakṛtiṃ yānti māmikām .\nkalpakṣaye punastāni kalpādau visṛjāmyaham ||9-7||",
+  "wordByWord": [
+    {
+      "term": "सर्वभूतानि",
+      "meaning": "All beings."
+    },
+    {
+      "term": "प्रकृतिं मामिकाम्",
+      "meaning": "My nature."
+    },
+    {
+      "term": "कल्पक्षये",
+      "meaning": "At the end of a kalpa, a cosmic period."
+    },
+    {
+      "term": "कल्पादौ",
+      "meaning": "At the beginning of a kalpa."
+    },
+    {
+      "term": "विसृजामि",
+      "meaning": "I send forth."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि कल्प के अंत में सभी प्राणी उनकी प्रकृति में जाते हैं और कल्प के आरंभ में वे उन्हें फिर भेजते हैं। कल्प यहाँ बहुत बड़े ब्रह्मांडीय समय का शब्द है। श्लोक उसका संख्यात्मक माप नहीं देता। अपने दिन के आरंभ और अंत को इससे जोड़ना एक उपमा हो सकती है, लेकिन मूल विषय सृष्टि की लय और पुनः उत्पत्ति है। कृष्ण की प्रकृति इस पूरे कथन का आधार है; लय को बिल्कुल समाप्त हो जाने वाले निजी अनुभव की तरह पढ़ना पर्याप्त नहीं होगा। यह आध्यात्मिक ब्रह्मांडदृष्टि का वर्णन है। हम इसे आधुनिक विज्ञान की पुष्टि का दावा बनाए बिना सुन सकते हैं। दैनिक चिंतन में एक सीमित सीख मिल सकती है: आरंभ और समाप्ति हमारे छोटे नियंत्रण से बड़े भी होते हैं। फिर भी किसी काम का पूरा होना, किसी संबंध का बदलना या शोक अपने-अपने महत्त्व रखते हैं। बड़े चक्र का विचार व्यक्ति के दुख को छोटा कहने का कारण नहीं है। आज किसी समाप्त हुए काम को सम्मान से बंद करने और किसी नए काम को सावधानी से शुरू करने की जगह दें।",
+  "clearEnglish": "The scale changes from an illustrative relation to a cosmic sequence. At the end of a kalpa, all beings enter Krishna's nature; at its beginning, he sends them forth again. The verse names the cosmic period without calculating its length. Its subject is not merely the daily alternation of sleep and waking, though that can serve as a limited analogy. The teaching attributes both withdrawal and renewed emergence to Krishna's nature and agency. It should be understood in the text's metaphysical setting rather than presented as a scientific conclusion about the universe. For contemporary reflection, the immense scale may temper our assumption that every beginning and ending belongs to our control. This need not diminish grief or practical responsibility. A person's loss remains significant even within a larger religious vision. One can acknowledge a completed task or changing phase with care, then take a responsible step into what follows. Such an exercise responds to the image of renewal without claiming that an everyday project enacts cosmic dissolution.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "All beings enter Krishna's nature at a kalpa's end, and he sends them forth again at its beginning."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The cosmic scale may encourage humility about change, while everyday losses and responsibilities retain their significance."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Mark an ending carefully",
+      "text": "Name one completed phase and one responsible next step, allowing any feeling about the change."
+    }
+  ],
+  "reflectionQuestion": "What ending needs acknowledgment before I rush into a new beginning?",
+  "reflectionQuestionHindi": "नया आरंभ करने से पहले किस समाप्ति को मुझे ध्यान से स्वीकार करना है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

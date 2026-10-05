@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-049",
+  "sequenceNumber": 463,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 49,
+  "verseEnd": 49,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "भय के बाद आश्वासन / Reassurance after fear",
+  "context": "Krishna reassures Arjuna and invites him to behold the former form again.",
+  "contextHindi": "कृष्ण अर्जुन को भय और भ्रम से आश्वस्त करके पहले वाला रूप फिर देखने को कहते हैं।",
+  "sanskritDevanagari": "मा ते व्यथा मा च विमूढभावो\nदृष्ट्वा रूपं घोरमीदृङ्ममेदम् |\nव्यपेतभीः प्रीतमनाः पुनस्त्वं\nतदेव मे रूपमिदं प्रपश्य ||११-४९||",
+  "transliteration": "mā te vyathā mā ca vimūḍhabhāvo dṛṣṭvā rūpaṃ ghoramīdṛṅmamedam .\nvyapetabhīḥ prītamanāḥ punastvaṃ tadeva me rūpamidaṃ prapaśya ||11-49||",
+  "wordByWord": [
+    {
+      "term": "मा ते व्यथा",
+      "meaning": "let there be no distress for you"
+    },
+    {
+      "term": "विमूढभावः",
+      "meaning": "bewilderment"
+    },
+    {
+      "term": "व्यपेतभीः",
+      "meaning": "with fear gone"
+    },
+    {
+      "term": "प्रीतमनाः",
+      "meaning": "with a gladdened mind"
+    }
+  ],
+  "spokenHindi": "कृष्ण अर्जुन से कहते हैं कि इस घोर रूप को देखकर व्यथा और भ्रम न रहे। भय दूर करके प्रसन्न मन से फिर उनका वही पहले वाला रूप देखो। यह अर्जुन की प्रार्थना के उत्तर में आश्वासन है। उसे साधारण परिस्थिति में किसी चिंतित व्यक्ति को बस डरना बंद करो कह देने के बराबर नहीं रखना चाहिए। कथा में कृष्ण साथ ही देखने की स्थिति बदलने वाले हैं। पहले की तीव्रता और अब सौम्यता की ओर लौटना इस वचन का संदर्भ है। प्रीतमनाः में प्रसन्न मन का आमंत्रण है, भावनाओं की जांच की परीक्षा नहीं। हमारा उपयोग मदद देते समय केवल आदेश न देकर सहायक परिस्थिति बनाने का हो सकता है। कोई कार्य बहुत भारी लगे तो उसे सरल करें, जरूरी विराम दें और व्यक्ति की बात सुनें। यह आधुनिक समर्थन का विचार है। अपने लिए भी एक सुरक्षित परिचित काम में लौटना संभव है। आश्वासन तब अधिक ठोस होता है जब उसके साथ जरूरत के अनुसार बदलाव हो। कृष्ण का वचन दर्शन के इस विशेष संबंध में है; हमारा छोटा अभ्यास सामान्य सहयोग तक सीमित रहे।",
+  "clearEnglish": "Krishna offers reassurance after Arjuna's appeal. He tells him not to remain distressed or bewildered by the terrible form, and to behold the former form again with fear dispelled and a glad mind. The reassurance belongs to a scene in which Krishna can also change what is being shown. It is therefore not equivalent to telling an anxious person simply to stop feeling fear. The narrative gives the words a concrete context of return. A modern application is to pair reassurance with useful adjustment: reduce the demand, offer a pause, or make the next step clearer. Listening to what the person needs may matter more than insisting on a composed response. This is ordinary supportive conduct, not a psychological technique stated in the verse. For oneself, returning to a familiar safe activity can be a reasonable pause. The text's invitation remains devotional and specific to Arjuna's vision; its practical extension concerns making reassurance responsive rather than merely verbal.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna reassures Arjuna and invites him to behold the former form with fear dispelled."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Supportive changes can accompany reassurance; ordinary distress should not be met with a demand simply to stop it."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Make reassurance concrete",
+      "text": "If supporting someone, offer one useful adjustment such as a pause or smaller task, then ask whether it helps."
+    }
+  ],
+  "reflectionQuestion": "What change would make my reassurance more useful than words alone?",
+  "reflectionQuestionHindi": "कौन सा बदलाव मेरे आश्वासन को केवल शब्दों से अधिक उपयोगी बनाएगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

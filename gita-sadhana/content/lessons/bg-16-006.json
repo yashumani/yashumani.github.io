@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-006",
+  "sequenceNumber": 577,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 6,
+  "verseEnd": 6,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "दो नैतिक दिशाएँ / Two moral orientations",
+  "context": "Krishna marks the transition from describing divine qualities to describing the demoniacal disposition.",
+  "contextHindi": "कृष्ण दैवी स्वभाव का वर्णन पूरा करके आसुरी स्वभाव का विस्तार आरम्भ करते हैं।",
+  "sanskritDevanagari": "द्वौ भूतसर्गौ लोकेऽस्मिन्दैव आसुर एव च |\nदैवो विस्तरशः प्रोक्त आसुरं पार्थ मे शृणु ||१६-६||",
+  "transliteration": "dvau bhūtasargau loke.asmindaiva āsura eva ca .\ndaivo vistaraśaḥ prokta āsuraṃ pārtha me śṛṇu ||16-6||",
+  "wordByWord": [
+    {
+      "term": "dvau",
+      "meaning": "Two"
+    },
+    {
+      "term": "bhūtasargau",
+      "meaning": "Types or classes of beings in this account"
+    },
+    {
+      "term": "daivaḥ",
+      "meaning": "Divine"
+    },
+    {
+      "term": "śṛṇu",
+      "meaning": "Listen"
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण कहते हैं कि इस संसार में दैवी और आसुरी दो प्रकार के प्राणी हैं। दैवी पक्ष का वर्णन हो चुका है; अब अर्जुन आसुरी पक्ष को सुने। यह अध्याय का मोड़ है। आगे की कठोर भाषा किस संदर्भ में आती है, उसे समझने के लिए यह संकेत जरूरी है। श्लोक में दो प्रकार स्पष्ट बताए गए हैं, इसलिए हम उसकी बात को मिटाकर केवल सामान्य सलाह नहीं बना सकते। साथ ही आधुनिक जीवन में इसे जन्म, जाति या समूह देखकर लोगों को स्थायी श्रेणी में रखने का साधन भी न बनाएँ। इस अध्याय में वर्णित व्यवहार से सीखना ज्यादा जिम्मेदार उपयोग है। सुनना यहाँ सक्रिय काम है: पहले विषय समझना, फिर अपने निर्णय को जाँचना। यदि अगली बात हमें केवल अपने विरोधी की याद दिलाए, तो थोड़ा रुकें। पूछें कि मैं सुन रहा हूँ या आरोप लगाने के लिए शब्द जुटा रहा हूँ। अपने व्यवहार में छल और करुणा की अलग दिशाओं को पहचानना कठिन हो सकता है, लेकिन उसी से सुधार की शुरुआत होती है।",
+  "clearEnglish": "Krishna describes two classes of beings in this world, the divine and the demoniacal, and announces that he will now explain the latter. This is a transition verse, so its contribution is structural as well as moral. It tells the listener how to read the severe descriptions that follow: they belong to an extended account of a destructive disposition. The text uses a twofold classification and should not be quietly rewritten as though it said nothing about beings. Yet applying that classification to inherited identity, ethnicity, or a whole contemporary community would go beyond the verse's stated criteria. The preceding lists concern qualities, and the coming descriptions concern attitudes and actions. A responsible modern inference therefore attends to conduct before attaching labels. The imperative to listen also deserves attention. Listening requires postponing the impulse to use every moral term against someone else. Read the contrast closely enough to recognize a direction of behaviour that you yourself can interrupt.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names divine and demoniacal types and asks Arjuna to hear the account of the demoniacal type."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Applying this contrast to observed conduct rather than inherited social identity is an ethical reading, not a new classification supplied by the verse."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Listen before labelling",
+      "text": "When a moral label arises today, describe the actual behaviour before using the label."
+    }
+  ],
+  "reflectionQuestion": "Am I observing a behaviour or making a judgement about an entire identity?",
+  "reflectionQuestionHindi": "क्या मैं कोई व्यवहार देख रहा हूँ या पूरी पहचान पर फैसला दे रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

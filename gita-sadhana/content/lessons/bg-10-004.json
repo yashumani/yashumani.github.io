@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-004",
+  "sequenceNumber": 376,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 4,
+  "verseEnd": 4,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "मानवीय अनुभव की विविधता / The range of human experience",
+  "context": "Krishna begins a list of qualities and conditions whose common source will be stated in the following verse.",
+  "contextHindi": "कृष्ण विभिन्न गुणों और अनुभवों की सूची शुरू करते हैं; उनके साझा स्रोत की बात अगले श्लोक में पूरी होगी।",
+  "sanskritDevanagari": "बुद्धिर्ज्ञानमसम्मोहः क्षमा सत्यं दमः शमः |\nसुखं दुःखं भवोऽभावो भयं चाभयमेव च ||१०-४||",
+  "transliteration": "buddhirjñānamasammohaḥ kṣamā satyaṃ damaḥ śamaḥ .\nsukhaṃ duḥkhaṃ bhavo.abhāvo bhayaṃ cābhayameva ca ||10-4||",
+  "wordByWord": [
+    {
+      "term": "बुद्धिः",
+      "meaning": "intellect or discriminating understanding"
+    },
+    {
+      "term": "दमः",
+      "meaning": "restraint of the senses"
+    },
+    {
+      "term": "शमः",
+      "meaning": "inner quiet or mental restraint"
+    },
+    {
+      "term": "भवः अभावः",
+      "meaning": "existence and nonexistence; birth and death in this edition"
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण एक लंबी सूची रखते हैं। बुद्धि, ज्ञान और भ्रम का न होना आते हैं; फिर क्षमा, सत्य, इंद्रियों का संयम और मन की शांति। इसके बाद सुख और दुख, अस्तित्व और उसका अंत, भय और निर्भयता भी आते हैं। ध्यान दें कि सूची केवल अच्छे लगने वाले गुणों की नहीं है। जीवन के कठिन अनुभव भी इसमें शामिल हैं। वाक्य अभी अधूरा है; अगले श्लोक में कृष्ण बताएँगे कि ये अलग अलग भाव उन्हीं से उत्पन्न होते हैं। इसलिए यहाँ अपने दुख को आध्यात्मिक असफलता का प्रमाण मान लेना ठीक नहीं होगा। दम और शम का फर्क मदद करता है: बाहर किसी आवेग पर रोक लगाना और भीतर उस आवेग को समझकर शांत होना जुड़े हुए, पर अलग काम हैं। आज की जिंदगी में क्षमा का अभ्यास करते समय सुरक्षित सीमा रखना भी जरूरी हो सकता है। यह हमारा उपयोग है, श्लोक में दी गई कोई विस्तृत प्रक्रिया नहीं। सूची सुनते हुए अपनी वास्तविक दशा पहचानें, किसी आदर्श छवि का अभिनय करने की जरूरत नहीं है।",
+  "clearEnglish": "The list unsettles a neat division between spirituality and ordinary experience. Krishna names intellectual capacities, moral dispositions, emotional conditions, and existence itself. Discernment, knowledge and freedom from confusion stand beside forgiveness, truthfulness, sensory restraint and inward calm. Happiness and pain, fear and fearlessness also belong to the sequence. Its grammatical conclusion comes in the next verse, so this verse should be heard as the first half of a larger statement. It does not instruct Arjuna to label every unpleasant emotion a personal failure. Nor does naming forgiveness settle how someone should respond to ongoing mistreatment. The distinction between dama and shama offers a practical lens: stopping an impulsive action is different from finding steadiness within the mind, although each can support the other. Reflecting on the list can help a listener describe their experience more honestly. That application is our inference; the text itself catalogues conditions before identifying their source. Awareness of a condition need not mean either glorifying it or condemning oneself for having it.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna lists capacities, virtues and opposing experiences; the sentence continues into the next verse."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Naming fear or pain honestly can support discernment without treating distress as spiritual failure."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Describe one condition",
+      "text": "Choose fear, forgiveness or restraint from the list. Describe one recent example, then identify a safe response that fits the actual situation."
+    }
+  ],
+  "reflectionQuestion": "Can I distinguish restraining an action from understanding the feeling behind it?",
+  "reflectionQuestionHindi": "क्या मैं किसी काम को रोकने और उसके पीछे की भावना समझने में फर्क कर सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-06-032",
+  "sequenceNumber": 265,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 32,
+  "verseEnd": 32,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "आत्म-उपमा से समदर्शिता; Equal vision born from the measure of the Self.",
+  "context": "This verse completes the teaching of verse 31 by showing how a yogi regards others: using oneself as a measure, one recognizes that others’ happiness and suffering matter as one’s own do. Krishna calls the yogi supreme who sees with this equal regard everywhere, whether happiness or suffering is involved.",
+  "contextHindi": "यह श्लोक पिछले श्लोक की शिक्षा को आगे बढ़ाता है। यहाँ योगी दूसरों को अपने समान समझता है: जैसे अपना सुख और दुख महत्त्वपूर्ण लगता है, वैसे ही वह दूसरों के सुख और दुख को भी महत्त्व देता है। कृष्ण ऐसे योगी को श्रेष्ठ कहते हैं, जो सुख हो या दुख, सबके प्रति समान दृष्टि रखता है।",
+  "sanskritDevanagari": "आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन |\nसुखं वा यदि वा दुःखं स योगी परमो मतः ||६-३२||",
+  "transliteration": "ātmaupamyena sarvatra samaṃ paśyati yo.arjuna .\nsukhaṃ vā yadi vā duḥkhaṃ sa yogī paramo mataḥ ||6-32||",
+  "wordByWord": [
+    {
+      "term": "ātmaupamyena",
+      "meaning": "by comparison with oneself; taking oneself as the measure"
+    },
+    {
+      "term": "sarvatra samaṃ paśyati",
+      "meaning": "sees equally everywhere"
+    },
+    {
+      "term": "paramo mataḥ",
+      "meaning": "is considered supreme; is regarded as the highest yogi"
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण बताते हैं कि श्रेष्ठ योगी दूसरों के सुख और दुख को किस तरह देखता है। आत्मौपम्येन का अर्थ है अपने को मानदंड बनाकर, अपनी उपमा से। जैसे अपना सुख हमें प्रिय और अपना दुख हमें पीड़ादायक लगता है, वैसे ही योगी दूसरों के सुख और दुख को भी महत्त्व देता है। वह यह नहीं सोचता कि केवल मेरा अनुभव मायने रखता है। वह हर जगह समान दृष्टि रखता है और दूसरे की खुशी या पीड़ा को हल्के में नहीं लेता। इसका अर्थ यह नहीं कि सभी के अनुभव एक जैसे हैं, या कि दुख महसूस नहीं करना चाहिए। बात यह है कि हम अपने अनुभव को समझने का आधार बनाकर दूसरों के अनुभव के प्रति संवेदनशील हों। इसी तरह की समदृष्टि और सहानुभूति को कृष्ण श्रेष्ठ योगी का लक्षण बताते हैं।",
+  "clearEnglish": "Krishna describes a yogi who uses their own experience as a measure for understanding others. Ātmaupamyena means “by comparison with oneself” or “taking oneself as the measure.” Just as our own happiness matters to us and our own suffering affects us, the yogi recognizes that others’ happiness and suffering matter to them too. This is not a claim that everyone has identical experiences, nor is it a teaching to suppress one’s feelings. It is a way of extending equal regard: we do not treat another person’s joy as unimportant or their pain as negligible simply because it is not ours. The verse calls such a person the highest yogi. Its emphasis is on seeing others with the same consideration we would want for ourselves, bringing empathy into the way we respond.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse says that the highest yogi sees equally everywhere, whether happiness or suffering is involved, using oneself as the measure for regarding others."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A practical implication is to take another person’s happiness and suffering seriously, as we do our own. This can guide us toward empathy without assuming that another person’s experience is identical to ours."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Equal response",
+      "text": "When someone shares good news or a difficulty, pause and consider how you would want your own happiness or suffering to be received. Listen and respond with that same consideration."
+    },
+    {
+      "label": "Compassionate steadiness",
+      "text": "In a disagreement or when someone is struggling, try to understand what the experience is like for them before reacting. Treat their feelings as worthy of attention, even when their circumstances differ from yours."
+    }
+  ],
+  "reflectionQuestion": "How might taking your own experience as a measure help you respond with care to another person’s happiness or suffering?",
+  "reflectionQuestionHindi": "अपने अनुभव को मानदंड बनाकर आप किसी दूसरे के सुख या दुख के प्रति संवेदनशीलता से कैसे प्रतिक्रिया दे सकते हैं?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

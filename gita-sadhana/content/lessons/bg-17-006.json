@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-006",
+  "sequenceNumber": 601,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 6,
+  "verseEnd": 6,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "शरीर को कष्ट देना तप नहीं / Harm within austerity",
+  "context": "Krishna completes the description by condemning torment of the body and of his presence within it.",
+  "contextHindi": "कृष्ण पिछले वर्णन को पूरा करके शरीर और उसमें उपस्थित उनके प्रति यातना की निंदा करते हैं।",
+  "sanskritDevanagari": "कर्षयन्तः शरीरस्थं भूतग्राममचेतसः |\nमां चैवान्तःशरीरस्थं तान्विद्ध्यासुरनिश्चयान् ||१७-६||",
+  "transliteration": "karṣayantaḥ śarīrasthaṃ bhūtagrāmamacetasaḥ .\nmāṃ caivāntaḥśarīrasthaṃ tānviddhyāsuraniścayān ||17-6||",
+  "wordByWord": [
+    {
+      "term": "karṣayantaḥ",
+      "meaning": "Tormenting or emaciating"
+    },
+    {
+      "term": "bhūtagrāmam",
+      "meaning": "The aggregate of bodily elements"
+    },
+    {
+      "term": "antaḥśarīrastham",
+      "meaning": "Dwelling within the body"
+    },
+    {
+      "term": "āsuraniścayān",
+      "meaning": "Of demoniacal resolve"
+    }
+  ],
+  "spokenHindi": "पिछले श्लोक में कठोर तप की गलत प्रेरणा बताई गई थी। अब कृष्ण कहते हैं कि ऐसे विवेकहीन लोग शरीर के तत्वों को और शरीर के भीतर उपस्थित उन्हें भी कष्ट देते हैं। उनकी निश्चय की दिशा आसुरी कही गई है। यह शरीर को नुकसान पहुँचाने की प्रशंसा नहीं, स्पष्ट आलोचना है। धार्मिक कथन में कृष्ण की भीतरी उपस्थिति है; व्यावहारिक स्तर पर शरीर को साधना का साधन मानकर देखभाल करना एक उचित निष्कर्ष हो सकता है। अपनी भूख, थकान या दर्द को अनदेखा करके आध्यात्मिक श्रेष्ठता साबित करना इस प्रसंग से समर्थन नहीं पाता। किसी कठिन अभ्यास के बारे में संदेह हो, तो भरोसेमंद मार्गदर्शन और जरूरत के अनुसार स्वास्थ्य संबंधी सहायता लें। यह सलाह आधुनिक देखभाल का अनुप्रयोग है, श्लोक में दिया उपचार नहीं। आज अपने शरीर की एक स्पष्ट जरूरत सुनें और जिम्मेदारी से उसका उत्तर दें। अभ्यास में संयम रहे, लेकिन अपने प्रति हिंसा को पवित्र नाम देने की जरूरत नहीं। धीरे सीखना भी गंभीर साधना हो सकता है।",
+  "clearEnglish": "The description now names bodily harm. Krishna says that these unthinking practitioners torment the aggregate of elements in the body and also him who dwells within it, and he calls their resolve demoniacal. This is a condemnation of harmful austerity, not praise for suffering as evidence of devotion. The divine presence within the body is the theological statement in the verse. A modern inference can recognize bodily care as compatible with serious spiritual practice. It should not be turned into a medical claim or a prescribed treatment. When an observance involves warning signs or uncertainty, seek competent guidance and necessary health support. Hunger, exhaustion, and pain should not automatically be dismissed as obstacles that must be conquered for prestige. Reflect on whether your discipline allows responsiveness to actual conditions. One responsible adjustment can preserve the purpose of practice better than rigidly displaying endurance. Let the verse challenge the assumption that neglecting the body necessarily honours the spiritual life.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna condemns tormenting the body's elements and his indwelling presence, calling the resolve demoniacal."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Attending to bodily needs and seeking appropriate support is a responsible application, not a treatment prescribed by the verse."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Responsive care",
+      "text": "Respond responsibly to one bodily need today and seek qualified advice if a practice is causing harm."
+    }
+  ],
+  "reflectionQuestion": "Does my discipline permit me to respond to a real bodily need?",
+  "reflectionQuestionHindi": "क्या मेरा अनुशासन शरीर की वास्तविक जरूरत सुनने की जगह देता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

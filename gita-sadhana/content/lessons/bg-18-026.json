@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-026",
+  "sequenceNumber": 649,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 26,
+  "verseEnd": 26,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "दृढ़ता और उत्साह / Steady and energetic agency",
+  "context": "Krishna describes the sattvic doer as unattached, free of egoistic claims, firm, enthusiastic, and unchanged by success or failure.",
+  "contextHindi": "कृष्ण आसक्ति और अहंकारी दावे से मुक्त, दृढ़, उत्साही और सफलता-असफलता में स्थिर कर्ता को सात्त्विक बताते हैं।",
+  "sanskritDevanagari": "मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः |\nसिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते ||१८-२६||",
+  "transliteration": "muktasaṅgo.anahaṃvādī dhṛtyutsāhasamanvitaḥ .\nsiddhyasiddhyornirvikāraḥ kartā sāttvika ucyate ||18-26||",
+  "wordByWord": [
+    {
+      "term": "muktasaṅgaḥ",
+      "meaning": "Free from attachment"
+    },
+    {
+      "term": "anahaṃvādī",
+      "meaning": "Not speaking or claiming egoistically"
+    },
+    {
+      "term": "dhṛtyutsāha",
+      "meaning": "Firmness and enthusiasm"
+    },
+    {
+      "term": "nirvikāraḥ",
+      "meaning": "Unchanged or steady"
+    }
+  ],
+  "spokenHindi": "कृष्ण सात्त्विक कर्ता को आसक्ति से मुक्त, अहंकारी दावा न करने वाला, दृढ़ता और उत्साह से युक्त बताते हैं। सफलता और असफलता में उसका भाव विकृत नहीं होता। इस वर्णन में उत्साह खास है। आसक्ति कम होने का मतलब उदासीन या निष्क्रिय होना नहीं। व्यक्ति ऊर्जा से काम करता है, लेकिन हर परिणाम को अपने महत्व की घोषणा नहीं बनाता। आधुनिक अनुप्रयोग में हम परिणाम देखकर सीख सकते हैं, बिना दूसरों पर अपना अहंकार उतारे। असफलता पर परेशानी अनुभव होना अपने आप पूरे व्यक्ति की आध्यात्मिक श्रेणी नहीं तय करता। यहां आदर्श गुणों का वर्णन है। आज किसी काम में तैयारी और मेहनत करें, फिर परिणाम को तथ्य की तरह देखें। सफल हो तो योगदानों को मानें। न हो तो कारण और सुधार पूछें। दोनों स्थिति में मैं ही सब हूँ या मैं कुछ नहीं हूँ के बड़े दावे रोकें। दृढ़ता का छोटा रूप अगले उचित कदम में दिखाई दे सकता है। उत्साह को निजी जीत की जिद से अलग रखने का अभ्यास काम को अधिक भरोसेमंद बनाता है।",
+  "clearEnglish": "Krishna describes the sattvic doer as free from attachment and egoistic assertion, endowed with firmness and enthusiasm, and unchanged by success or failure. Enthusiasm is important: the ideal is not passive indifference. The person acts energetically without making every outcome a claim about personal superiority. A contemporary application can combine engaged effort with a measured response to results. That does not mean ordinary disappointment proves spiritual failure or that emotion must be concealed. The verse presents qualities of a type; it is not a diagnostic instrument for judging someone from one reaction. After a task, assess what occurred and identify the next responsible step. If successful, acknowledge supporting contributions. If unsuccessful, investigate causes and possible corrections. Avoid both an inflated claim to sole credit and a total dismissal of yourself. These are practical extensions of steadiness, not a declaration that the full state described has been attained. Firmness can appear in returning to useful work with attention and proportion.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies the sattvic agent through non-attachment, absence of egoistic assertion, firmness, enthusiasm, and steadiness in success and failure."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Assessing results without global self-claims is a modern application; ordinary emotion is not a diagnosis of spiritual type."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Engaged, then measured",
+      "text": "Work attentively on one task, then assess the result and choose a next step without an inflated or condemning self-claim."
+    }
+  ],
+  "reflectionQuestion": "Can I keep enthusiasm while loosening the demand to win?",
+  "reflectionQuestionHindi": "जीतने की जिद कम करते हुए क्या मैं उत्साह बनाए रख सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

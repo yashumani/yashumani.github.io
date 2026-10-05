@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-052",
+  "sequenceNumber": 675,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 52,
+  "verseEnd": 52,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "A simple setting for steady attention / स्थिर ध्यान के लिए सादगी",
+  "context": "Krishna continues the sequence of disciplines, naming solitude, moderate eating, restraint, meditation, and dispassion.",
+  "contextHindi": "पिछले श्लोक की मानसिक तैयारी के बाद कृष्ण एकांत, हल्का भोजन, संयम, ध्यान और वैराग्य जोड़ते हैं।",
+  "sanskritDevanagari": "विविक्तसेवी लघ्वाशी यतवाक्कायमानसः |\nध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः ||१८-५२||",
+  "transliteration": "viviktasevī laghvāśī yatavākkāyamānasaḥ .\ndhyānayogaparo nityaṃ vairāgyaṃ samupāśritaḥ ||18-52||",
+  "wordByWord": [
+    {
+      "term": "viviktasevī",
+      "meaning": "one who seeks a secluded place"
+    },
+    {
+      "term": "laghvāśī",
+      "meaning": "one who eats lightly"
+    },
+    {
+      "term": "yatavākkāyamānasaḥ",
+      "meaning": "one whose speech, body, and mind are disciplined"
+    },
+    {
+      "term": "dhyānayogaparaḥ",
+      "meaning": "devoted to meditation"
+    }
+  ],
+  "spokenHindi": "अब कृष्ण एकांत में रहने, हल्का खाने, वाणी शरीर और मन को सँभालने, नियमित ध्यान और वैराग्य का वर्णन करते हैं। यह पिछले श्लोक की स्पष्ट बुद्धि के लिए जीवन की परिस्थितियाँ बनाने जैसा है। एकांत का मतलब हर संबंध तोड़ देना नहीं है। थोड़ी शांत जगह ध्यान में मदद कर सकती है, जबकि अकेलापन किसी के लिए कठिन भी हो सकता है। हल्का भोजन यहाँ साधना के प्रसंग का शब्द है; इसे दूसरों पर भोजन के कठोर नियम थोपने या स्वास्थ्य संबंधी सलाह बनाने की जरूरत नहीं। वाणी का संयम बोलने से पहले जाँचना है कि शब्द सच्चे और आवश्यक हैं या नहीं। शरीर का संयम उसे सजा देना नहीं है। मन का संयम लौट आने का अभ्यास है, जब ध्यान भटके। वैराग्य वस्तुओं से नफरत नहीं, उनसे चिपकाव कम करना है। आज अपनी परिस्थिति के अनुसार कुछ शांत मिनट चुनें। यदि मन बहुत अशांत हो तो सहज सहारा लें; साधना किसी सहायता से दूरी बनाने का आदेश नहीं देती।",
+  "clearEnglish": "Verse 52 adds the setting and rhythm of the discipline: seclusion, light eating, restraint of speech, body, and mind, sustained meditation, and dispassion. The sequence is concrete rather than a claim that insight comes merely from declaring it. Yet its terms belong to this contemplative path and should not become compulsory rules for every person or a substitute for medical advice. Solitude can be a protected interval for attention; it need not mean cutting off supportive relationships. Moderation at meals can be understood within the practice described, while individual health needs call for appropriate judgment. The threefold restraint of speech, body, and mind invites alignment: what we say, do, and repeatedly entertain can either support or disrupt attention. A small modern exercise is to reserve a few quiet minutes, put aside an avoidable distraction, and notice what returns. This is an inference, not the full discipline claimed by the verse. If quiet brings distress, a trusted person or qualified support may be more fitting than forcing isolation.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names seclusion, light eating, regulated speech, body and mind, regular meditation, and dispassion as features of the path."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A short quiet interval can help attention, but these contemplative disciplines are not universal health rules or a demand for isolation."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Choose a comfortable quiet interval today, set aside one distraction, and return gently when attention wanders."
+    }
+  ],
+  "reflectionQuestion": "What kind of quiet helps me become more attentive rather than cut off?",
+  "reflectionQuestionHindi": "किस तरह की शांति मुझे अधिक सजग बनाती है, अलग थलग नहीं करती?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

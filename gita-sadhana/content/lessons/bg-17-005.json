@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-005",
+  "sequenceNumber": 600,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 5,
+  "verseEnd": 5,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "कठोर तप की जांच / Severe austerity and motive",
+  "context": "Krishna begins a description of severe unscriptural austerities driven by hypocrisy, egoism, desire, and attachment.",
+  "contextHindi": "कृष्ण दिखावे, अहंकार और आसक्ति से प्रेरित अशास्त्रीय कठोर तप का वर्णन शुरू करते हैं।",
+  "sanskritDevanagari": "अशास्त्रविहितं घोरं तप्यन्ते ये तपो जनाः |\nदम्भाहंकारसंयुक्ताः कामरागबलान्विताः ||१७-५||",
+  "transliteration": "aśāstravihitaṃ ghoraṃ tapyante ye tapo janāḥ .\ndambhāhaṃkārasaṃyuktāḥ kāmarāgabalānvitāḥ ||17-5||",
+  "wordByWord": [
+    {
+      "term": "aśāstravihitam",
+      "meaning": "Not enjoined by scripture"
+    },
+    {
+      "term": "ghoram",
+      "meaning": "Terrible or severe"
+    },
+    {
+      "term": "dambhāhaṃkāra",
+      "meaning": "Hypocrisy and egoism"
+    },
+    {
+      "term": "kāmarāga",
+      "meaning": "Desire and attachment"
+    }
+  ],
+  "spokenHindi": "कृष्ण इस श्लोक में ऐसे कठोर तप का वर्णन शुरू करते हैं जिसका विधान शास्त्र में नहीं है और जिसके पीछे दम्भ, अहंकार, इच्छा और आसक्ति हैं। वाक्य का विस्तार अगले श्लोक में होगा, इसलिए यहाँ पहले प्रेरणा और तरीके पर ध्यान रखें। कठिन होना किसी अभ्यास के अच्छा होने का पर्याप्त प्रमाण नहीं। व्यक्ति अपने को विशेष साबित करने के लिए भी कष्ट चुन सकता है। फिर कष्ट की मात्रा ही उपलब्धि का मानक बन जाती है। इससे अध्ययन का एक जरूरी प्रश्न मिलता है: मैं यह अनुशासन किस उद्देश्य से कर रहा हूँ? ध्यान, व्रत या सेवा की परम्पराएँ अलग हो सकती हैं; इस श्लोक से अपने मन का नया कठोर नियम न गढ़ें। यदि अभ्यास में नुकसान का संकेत हो, तो उसे गौरव का कारण बनाने के बजाय योग्य सहायता और मार्गदर्शन लें। आज अपने किसी अनुशासन को देखें। उसकी कठिनाई से अलग उसका लाभ और सुरक्षित सीमा स्पष्ट करें। सीखना और संयम जीवन को संभालने के लिए हों, अहंकार की प्रतियोगिता के लिए नहीं।",
+  "clearEnglish": "Krishna begins a two-verse description of people who undertake terrible austerities not prescribed by scripture, joined with hypocrisy and egoism and driven by desire and attachment. This verse establishes the motive and character of the practice; the bodily consequence is developed in the following verse. Difficulty alone is therefore an unreliable measure of spiritual value. A demanding practice may serve learning and discipline, but it may also serve a wish to appear exceptional. The verse does not offer a new fasting schedule or authorize readers to invent severe observances. A contemporary application can ask whether the burden has displaced the purpose. If success is measured only by how much suffering can be displayed, the motive needs examination. Where a practice causes harm, appropriate guidance and support matter. Choose one discipline and state its intended benefit, reasonable limits, and basis in an understood teaching. That makes the practice answerable to more than the prestige of endurance.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes severe unscriptural austerity motivated by hypocrisy, egoism, desire, and attachment."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Checking the purpose and safe limits of a discipline applies the verse without inventing an austerity regimen."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Purpose of discipline",
+      "text": "State the intended benefit and reasonable limit of one discipline you practise."
+    }
+  ],
+  "reflectionQuestion": "Has difficulty itself become the reason I value this practice?",
+  "reflectionQuestionHindi": "क्या केवल कठिन होना ही इस अभ्यास की कीमत बन गया है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

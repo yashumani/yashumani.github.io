@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-016",
+  "sequenceNumber": 639,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 16,
+  "verseEnd": 16,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "आत्मा को अकेला कर्ता मानना / Mistaken isolated agency",
+  "context": "Krishna criticizes the untrained view that the isolated Self alone is the agent, following the five-cause account.",
+  "contextHindi": "पाँच कारणों के बाद कृष्ण अकेली आत्मा को कर्ता मानने वाली अपरिपक्व समझ की आलोचना करते हैं।",
+  "sanskritDevanagari": "तत्रैवं सति कर्तारमात्मानं केवलं तु यः |\nपश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः ||१८-१६||",
+  "transliteration": "tatraivaṃ sati kartāramātmānaṃ kevalaṃ tu yaḥ .\npaśyatyakṛtabuddhitvānna sa paśyati durmatiḥ ||18-16||",
+  "wordByWord": [
+    {
+      "term": "ātmānam kevalam",
+      "meaning": "The Self alone or isolated"
+    },
+    {
+      "term": "kartāram",
+      "meaning": "As the agent"
+    },
+    {
+      "term": "akṛtabuddhitvāt",
+      "meaning": "Because of untrained understanding"
+    },
+    {
+      "term": "na sa paśyati",
+      "meaning": "That person does not see correctly"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जब कर्म के अनेक कारण हैं, तब अपरिपक्व समझ से केवल आत्मा को कर्ता देखने वाला सही नहीं देखता। यह आत्मा और कर्म की दार्शनिक चर्चा है। इसे केवल मैंने अकेले काम किया के सामान्य घमंड तक छोटा कर देना पूरा अर्थ नहीं होगा। फिर भी उस घमंड में एक उपयोगी आधुनिक समानता दिखाई देती है। अपने योगदान को पूरी घटना मान लेने से दूसरे कारण छिप जाते हैं। पाठ आत्मा की अकेली कर्ता होने की धारणा को चुनौती देता है; इससे जिम्मेदारी या कर्म का वास्तविक असर मिटाने का अधिकार नहीं मिलता। अपनी भूमिका समझना और उसकी जवाबदेही स्वीकारना व्यवहार में जरूरी है। आज किसी परिणाम की बात करते समय मैं अकेला कारण हूँ वाला दावा जांचें। किन साधनों, सहयोग या परिस्थितियों पर आप निर्भर थे? अपनी जिम्मेदारी का हिस्सा भी लिखें। सम्मानपूर्वक दार्शनिक प्रश्न खुला रखें और तुरंत बड़ी आध्यात्मिक स्थिति का दावा न करें। सही देखने का अभ्यास कभी अपनी भूमिका को बढ़ाने के बजाय उसे ठीक स्थान पर रखने से शुरू होता है।",
+  "clearEnglish": "After listing the five causes, Krishna says that a person with untrained understanding who regards the isolated Self alone as the agent does not see correctly. The subject is philosophical agency and the Self, not merely a reminder to thank a team. A modern analogy with excessive personal credit can be useful, but it should not replace that deeper claim. The verse challenges an account that excludes the factors just described. It does not authorize denying the real effects of conduct or escaping ordinary accountability. For practice, examine a result you describe as entirely yours. What bodily capacities, instruments, efforts, assistance, and conditions have been left out of the story? At the same time, identify the decision for which you are responsible. The two observations can coexist. Recognizing dependence need not become helplessness, and accepting responsibility need not become a claim to be the sole source of an event. Keep the philosophical inquiry open rather than using it to announce an unverified spiritual status.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna criticizes untrained understanding that sees the isolated Self alone as the agent in light of the five causes."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Examining excessive personal credit is a limited modern analogy; the philosophical claim does not erase ordinary accountability."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Place your contribution accurately",
+      "text": "Describe one result by naming both supporting conditions and the decision for which you are responsible."
+    }
+  ],
+  "reflectionQuestion": "Can I acknowledge dependence without avoiding responsibility?",
+  "reflectionQuestionHindi": "क्या निर्भरता स्वीकार करते हुए मैं अपनी जिम्मेदारी भी साफ रख सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

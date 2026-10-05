@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-024",
+  "sequenceNumber": 396,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 24,
+  "verseEnd": 24,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "मार्गदर्शन, नेतृत्व और विस्तार / Guidance, leadership and vastness",
+  "context": "Krishna names Brihaspati among priests, Skanda among commanders, and the ocean among lakes or bodies of water.",
+  "contextHindi": "कृष्ण पुरोहितों में बृहस्पति, सेनानियों में स्कंद और जलाशयों में सागर के उदाहरण देते हैं।",
+  "sanskritDevanagari": "पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम् |\nसेनानीनामहं स्कन्दः सरसामस्मि सागरः ||१०-२४||",
+  "transliteration": "purodhasāṃ ca mukhyaṃ māṃ viddhi pārtha bṛhaspatim .\nsenānīnāmahaṃ skandaḥ sarasāmasmi sāgaraḥ ||10-24||",
+  "wordByWord": [
+    {
+      "term": "पुरोधसाम्",
+      "meaning": "among officiating priests or royal chaplains"
+    },
+    {
+      "term": "मुख्यम्",
+      "meaning": "chief or foremost"
+    },
+    {
+      "term": "सेनानीनाम्",
+      "meaning": "among commanders"
+    },
+    {
+      "term": "सागरः",
+      "meaning": "the ocean"
+    }
+  ],
+  "spokenHindi": "कृष्ण अर्जुन से कहते हैं कि पुरोहितों में मुझे प्रमुख बृहस्पति जानो, सेनानियों में स्कंद और जलाशयों में सागर। दिए गए संस्करण में पुरोहितों का संदर्भ राजाओं के घर से जुड़े धार्मिक मार्गदर्शकों का है। इस उदाहरण से किसी वर्तमान पुरोहित को जन्म या पद के कारण स्वतः श्रेष्ठ ठहराना पाठ से आगे होगा। बृहस्पति का विशिष्ट नाम है, सारी भूमिकाओं का समान प्रमाणपत्र नहीं। स्कंद सेनापति का धार्मिक उदाहरण हैं; उनका उल्लेख हमसे निजी संघर्ष में हिंसा अपनाने को नहीं कहता। सागर का विशाल आकार पहले दो संगठित भूमिकाओं के साथ एक अलग अनुभूति रखता है। मार्गदर्शन, नेतृत्व और व्यापकता तीन ध्यान बिंदु हैं। अपने काम में हम पूछ सकते हैं कि किसी जिम्मेदारी की गरिमा केवल अधिकार में है या योग्य सलाह, संयम और दूसरों की सुरक्षा में भी। यह हमारा नैतिक चिंतन है। किसी समूह में छोटा काम संभालते समय पहले जरूरतें सुनना और स्पष्ट योजना बनाना ऐसा उपयोग हो सकता है। नेतृत्व के उदाहरण को गौरव के साथ जिम्मेदारी की दिशा में पढ़ें।",
+  "clearEnglish": "Krishna moves through three domains: religious guidance, military command, and the immensity of water. Brihaspati is foremost among the purodhas, Skanda among commanders, and the ocean among lakes or bodies of water. The supplied edition places the priestly role in the setting of royal households. That specificity matters. The verse names a particular exemplar; it does not establish that a present person's priestly office or inherited identity guarantees wisdom. Skanda likewise belongs to the sacred catalogue and does not authorize private violence. These qualifications help us see the examples as contemplative identifications rather than instructions to imitate every associated function. A constructive application concerns responsibility in leadership. Whether coordinating a small group or offering advice, prominence can carry obligations to listen, plan clearly and consider others' safety. The ocean gives a different image, one of vastness exceeding a small container. Together the examples broaden attention beyond individual prestige. Our use of them remains an ethical inference; the verse itself gives the names and their categories.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies Brihaspati, Skanda and the ocean as prominent examples in three categories."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Responsible leadership is an application; office, ancestry or military imagery does not establish unchecked authority."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Lead by listening",
+      "text": "Before coordinating one shared task, ask those involved what they need and state a clear, proportionate plan that considers their safety."
+    }
+  ],
+  "reflectionQuestion": "What responsibility comes with the influence I have in a group?",
+  "reflectionQuestionHindi": "किसी समूह में मेरे प्रभाव के साथ कौन सी जिम्मेदारी आती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

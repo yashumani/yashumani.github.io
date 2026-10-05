@@ -1,0 +1,71 @@
+{
+  "id": "bg-15-007",
+  "sequenceNumber": 558,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 7,
+  "verseEnd": 7,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "The eternal individual and the senses / सनातन जीव और इंद्रियाँ",
+  "context": "Krishna introduces the individual living soul as an eternal portion of himself drawing the senses and mind within Nature.",
+  "contextHindi": "कृष्ण जीव को अपना सनातन अंश बताते हैं और प्रकृति में स्थित इंद्रियों तथा मन से उसका संबंध समझाते हैं।",
+  "sanskritDevanagari": "ममैवांशो जीवलोके जीवभूतः सनातनः |\nमनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति ||१५-७||",
+  "transliteration": "mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ .\nmanaḥṣaṣṭhānīndriyāṇi prakṛtisthāni karṣati ||15-7||",
+  "wordByWord": [
+    {
+      "term": "aṃśaḥ",
+      "meaning": "portion or share; अंश"
+    },
+    {
+      "term": "jīvabhūtaḥ",
+      "meaning": "having become a living individual"
+    },
+    {
+      "term": "sanātanaḥ",
+      "meaning": "eternal; सनातन"
+    },
+    {
+      "term": "manaḥṣaṣṭhāni",
+      "meaning": "with mind as the sixth"
+    },
+    {
+      "term": "karṣati",
+      "meaning": "draws or pulls; खींचता है"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि उनका सनातन अंश जीवलोक में जीव होकर प्रकृति में स्थित इंद्रियों को, मन को छठा मानकर, अपनी ओर खींचता है। यह शरीर, अनुभव और दिव्य संबंध को जोड़ने वाला कथन है। ‘अंश’ को किसी वस्तु के टूटकर बने भौतिक टुकड़े की तरह समझना जल्दबाजी होगी। दिए गए श्लोक से अलग दार्शनिक मतों की पूरी तुलना नहीं मिलती, इसलिए उस संबंध की सीमा में विनम्र रहें। मन को इंद्रियों के साथ रखने से अनुभव का आंतरिक पक्ष भी सामने आता है। बाहर की आवाज सुनने के साथ भीतर की अपेक्षा भी सुनने का अर्थ बदल सकती है। यह आज का उदाहरण है, श्लोक में बताई घटना नहीं। हम एक सरल अभ्यास कर सकते हैं: एक आवाज, एक दृश्य और उन पर उठती मानसिक टिप्पणी अलग पहचानें। इससे सुनने या देखने की जिम्मेदारी अधिक स्पष्ट हो सकती है। इस निरीक्षण से आत्मा का पूरा ज्ञान सिद्ध नहीं होता, पर अपने अनुभव को केवल बाहरी वस्तु समझने की आदत पर प्रश्न खुलता है।",
+  "clearEnglish": "Krishna calls the living individual an eternal portion of himself and describes it drawing the senses, with the mind counted as the sixth, within Nature. The statement relates individual experience to a divine source while retaining the role of embodied faculties. Aṃśa should not casually be imagined as a physical fragment broken from a material whole; explaining its metaphysical relation in detail would require a fuller philosophical discussion than the supplied excerpt offers. Mind's inclusion also prevents a purely external account of experience. What we notice through hearing or sight is accompanied by expectation, memory, and interpretation. These contemporary observations illustrate the involvement of mind, rather than proving the verse's claim about the eternal individual. A useful practice is to distinguish an immediate sensation from the comment forming around it. This may make attention more accurate and responses more deliberate. The exercise stays within observable experience while the larger teaching about the soul and Krishna remains a religious claim for study.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The living individual is Krishna's eternal portion and draws the senses with mind as the sixth within Nature."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Separating sensation from mental commentary illustrates mind's involvement; it neither settles a philosophical school's account of aṃśa nor proves the soul claim."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Notice one sound or sight and distinguish it from the expectation or judgment arising around it."
+    }
+  ],
+  "reflectionQuestion": "What have I added mentally to the experience I just received?",
+  "reflectionQuestionHindi": "अभी मिले अनुभव में मैंने मन से कौन सी बात जोड़ दी?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

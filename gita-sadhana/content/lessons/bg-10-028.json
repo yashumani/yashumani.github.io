@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-028",
+  "sequenceNumber": 400,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 28,
+  "verseEnd": 28,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "शक्ति, पोषण और उत्पत्ति / Power, nourishment and generation",
+  "context": "Krishna names the thunderbolt, wish-fulfilling cow, Kandarpa and Vasuki.",
+  "contextHindi": "कृष्ण वज्र, कामधुक गाय, उत्पत्ति से जुड़े कंदर्प और वासुकि का उल्लेख करते हैं।",
+  "sanskritDevanagari": "आयुधानामहं वज्रं धेनूनामस्मि कामधुक् |\nप्रजनश्चास्मि कन्दर्पः सर्पाणामस्मि वासुकिः ||१०-२८||",
+  "transliteration": "āyudhānāmahaṃ vajraṃ dhenūnāmasmi kāmadhuk .\nprajanaścāsmi kandarpaḥ sarpāṇāmasmi vāsukiḥ ||10-28||",
+  "wordByWord": [
+    {
+      "term": "वज्रम्",
+      "meaning": "thunderbolt"
+    },
+    {
+      "term": "कामधुक्",
+      "meaning": "wish-fulfilling cow"
+    },
+    {
+      "term": "प्रजनः",
+      "meaning": "progenitor; associated with generation"
+    },
+    {
+      "term": "कन्दर्पः",
+      "meaning": "Kandarpa, the god of love"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि आयुधों में वे वज्र, गायों में कामधुक, उत्पत्ति के क्षेत्र में कंदर्प और सर्पों में वासुकि हैं। दिए गए संस्करण में कामधुक को इच्छापूर्ति करने वाली सुरभि गाय कहा गया है। ये धार्मिक छवियाँ शक्ति, पोषण और जीवन की उत्पत्ति जैसे अलग विषयों को सामने लाती हैं। कंदर्प का संदर्भ प्रजनन से जुड़ा है; इसे हर इच्छा पूरी करने की स्वीकृति बनाना ठीक नहीं। संबंधों में सहमति और दूसरे की स्वतंत्रता हमारे आधुनिक नैतिक उपयोग की जरूरी शर्तें हैं। इसी तरह हथियार का नाम आने से व्यक्तिगत हिंसा का निर्देश नहीं बनता। वासुकि पौराणिक सर्प का विशिष्ट नाम है, सभी सर्पों की व्यवहारगत सलाह नहीं। इस श्लोक को सुनते हुए शक्ति और पोषण दोनों पर ध्यान जा सकता है। हम किसी क्षमता को केवल प्रभावशाली होने के कारण पसंद करते हैं, या यह भी देखते हैं कि उससे जीवन कैसे सुरक्षित और समर्थ होता है? आज कोई प्रबल इच्छा आए तो उसे तुरंत काम में बदलने से पहले उसके असर और उचित सीमा को पहचानें।",
+  "clearEnglish": "The verse places four potent images together: the thunderbolt among weapons, the wish-fulfilling cow among cows, Kandarpa in the sphere of generation, and Vasuki among serpents. Sivananda's edition identifies the cow as Surabhi. These are sacred exemplars with different functions, so reducing the verse to a general approval of desire would lose its structure. Kandarpa's association with generation does not say that every impulse should be acted upon. A modern application in relationships must preserve consent and another person's freedom. Similarly, the weapon image is an identification within the catalogue, not an instruction to employ violence. Vasuki is a named mythic serpent, and the verse is not a guide to handling animals. What the images can prompt is attention to the relation between capacity and its effects. Power, nourishment and generation all have consequences beyond the person wielding or experiencing them. Pausing before a strong wish becomes an action is a practical inference, while the textual statement remains the four divine identifications.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names the thunderbolt, wish-fulfilling cow, Kandarpa as progenitor, and Vasuki."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Considering consequences and consent is a modern application; power or desire is not given unrestricted permission."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Pause with a strong wish",
+      "text": "Before acting on a strong wish, name its likely effect on another person and whether consent or a boundary is involved. Choose a proportionate response."
+    }
+  ],
+  "reflectionQuestion": "Does the strength of a desire make me overlook its effect on others?",
+  "reflectionQuestionHindi": "क्या इच्छा की तीव्रता मुझे दूसरों पर उसके असर को भूलने देती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

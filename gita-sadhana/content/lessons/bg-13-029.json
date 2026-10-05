@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-029",
+  "sequenceNumber": 518,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 29,
+  "verseEnd": 29,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Equal vision and noninjury / समदृष्टि और अहानि",
+  "context": "Krishna relates seeing the Lord equally everywhere to not harming the Self by the self and reaching the highest goal.",
+  "contextHindi": "कृष्ण सर्वत्र समान ईश्वर की दृष्टि को आत्मा द्वारा आत्मा की हानि न करने और परम गति से जोड़ते हैं।",
+  "sanskritDevanagari": "समं पश्यन्हि सर्वत्र समवस्थितमीश्वरम् |\nन हिनस्त्यात्मनात्मानं ततो याति परां गतिम् ||१३-२९||",
+  "transliteration": "samaṃ paśyanhi sarvatra samavasthitamīśvaram .\nna hinastyātmanātmānaṃ tato yāti parāṃ gatim ||13-29||",
+  "wordByWord": [
+    {
+      "term": "samavasthitam",
+      "meaning": "equally established"
+    },
+    {
+      "term": "na hinasti",
+      "meaning": "does not injure or destroy"
+    },
+    {
+      "term": "ātmanā ātmānam",
+      "meaning": "the Self by the self"
+    },
+    {
+      "term": "parāṃ gatim",
+      "meaning": "the highest goal"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जो ईश्वर को सब जगह समान स्थित देखता है, वह आत्मा से आत्मा की हानि नहीं करता और परम गति को जाता है। आत्मा द्वारा आत्मा की भाषा को ध्यान से सुनें; यह आध्यात्मिक पहचान का कठिन पद है। अध्याय की भूमिका सर्वोच्च उपस्थिति को सभी में पहचानने से किसी को चोट न पहुँचाने की दिशा भी देती है। वह स्वामी सिवानंद की व्याख्यात्मक बात है। आज का नैतिक अनुप्रयोग अपने और दूसरे के प्रति अनावश्यक हानि घटाना हो सकता है। कोई बहस जीतने के लिए अपमान की जरूरत महसूस हो तो तथ्य कहने का सम्मानपूर्ण तरीका खोजें। यह पूर्ण आत्मदर्शन का दावा नहीं। अपने प्रति कठोरता भी सच को अधिक साफ नहीं बनाती। गलती हुई हो तो उसे सुधारें, अपने मूल्य पर हमला न करें। यदि कोई हानिकारक परिस्थिति है तो सुरक्षा और मदद लेना उचित है। समदृष्टि का अर्थ जोखिम सहते रहना नहीं। जीवन के सम्मान को छोटे, वास्तविक व्यवहार में उतारना इस श्लोक के साथ जिम्मेदारी से सोचने की दिशा है।",
+  "clearEnglish": "Seeing the Lord equally established everywhere is connected with not destroying the Self by the self and attaining the highest goal. The reflexive language belongs to the chapter's account of spiritual identity and deserves careful study rather than a hurried simplification. Sivananda's chapter summary also connects recognition of the supreme presence in all beings with noninjury. That is a supported commentary direction. A modest ethical application is to reduce avoidable harm in how one treats oneself and others. In an argument, truthful disagreement need not require humiliating words. After a mistake, repair can be pursued without attacking one's entire worth. These examples do not claim complete self-realization. Equal vision also does not require remaining in an unsafe situation; seeking protection and help can be responsible acts of care. The verse points toward a highest spiritual destination, while daily conduct offers a concrete place to examine whether the language of shared presence is making respect and accountability more consistent.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Equal vision of the Lord everywhere is linked to not destroying the Self by the self and reaching the highest goal."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sivananda's chapter summary connects seeing the supreme presence in all beings with noninjury."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Reducing humiliating speech and self-attack applies noninjury; safety and repair remain appropriate."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "State one disagreement truthfully without humiliation, or correct one mistake without attacking your worth."
+    }
+  ],
+  "reflectionQuestion": "How can I be truthful here while reducing avoidable injury?",
+  "reflectionQuestionHindi": "यहाँ सच कहते हुए अनावश्यक चोट कैसे कम कर सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

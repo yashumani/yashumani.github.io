@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-007",
+  "sequenceNumber": 496,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 7,
+  "verseEnd": 7,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Desire and feeling within the field / क्षेत्र में चाह और अनुभूति",
+  "context": "Krishna completes the field's brief description with desire, aversion, pleasure, pain, the bodily aggregate, awareness, and fortitude.",
+  "contextHindi": "कृष्ण क्षेत्र की सूची को इच्छा, द्वेष, सुख दुख, संघात, चेतना और धृति के साथ पूरा करते हैं।",
+  "sanskritDevanagari": "इच्छा द्वेषः सुखं दुःखं संघातश्चेतना धृतिः |\nएतत्क्षेत्रं समासेन सविकारमुदाहृतम् ||१३-७||",
+  "transliteration": "icchā dveṣaḥ sukhaṃ duḥkhaṃ saṃghātaścetanā dhṛtiḥ .\netatkṣetraṃ samāsena savikāramudāhṛtam ||13-7||",
+  "wordByWord": [
+    {
+      "term": "icchā",
+      "meaning": "desire; इच्छा"
+    },
+    {
+      "term": "dveṣaḥ",
+      "meaning": "aversion or hatred; द्वेष"
+    },
+    {
+      "term": "saṃghātaḥ",
+      "meaning": "aggregate, here the bodily complex"
+    },
+    {
+      "term": "cetanā",
+      "meaning": "sentient awareness in the embodied complex"
+    },
+    {
+      "term": "dhṛtiḥ",
+      "meaning": "fortitude or sustaining resolve"
+    }
+  ],
+  "spokenHindi": "कृष्ण इच्छा, द्वेष, सुख, दुख, संघात, चेतना और धृति का उल्लेख करके कहते हैं कि क्षेत्र को उसके विकारों सहित संक्षेप में बताया गया है। संघात शरीर के संयुक्त ढाँचे की दिशा देता है। चेतना का पद यहाँ देहगत अनुभव की क्षमता की सूची में है; इसे बिना चर्चा परम क्षेत्रज्ञ के साथ सीधे समान न कर दें। अब पसंद, नापसंद और महसूस होने वाला सुख दुख भी निरीक्षण के क्षेत्र में आते हैं। इसका अर्थ भावना को गलत मानकर दबाना नहीं। कोई इच्छा उठे तो उसे पहचान सकते हैं और फिर उसके अनुसार चलना है या नहीं, यह विचार कर सकते हैं। आज का उदाहरण है किसी बात से चिढ़ पैदा होना। चिढ़, उसके साथ उठा विचार और जवाब देने की इच्छा अलग दिख सकती हैं। यह व्यावहारिक उदाहरण है। हमें पूरी भावना बनकर प्रतिक्रिया नहीं करनी पड़ती। उचित सीमा या सहारा लेना भी संभव है। धृति की याद छोटे, जिम्मेदार कदम पर टिकने में मदद दे सकती है, चाहे मन का मौसम तुरंत न बदले।",
+  "clearEnglish": "The field's modifications include desire, aversion, pleasure, pain, the bodily aggregate, sentient awareness, and fortitude. Krishna closes the brief description here. Cetanā appears within the account of embodied experience and should not be casually collapsed into the transcendent knower without attending to the chapter's distinction. The list also makes emotions and preferences available for observation. Their inclusion does not condemn having feelings or require their suppression. A desire can be noticed before it is acted on, and aversion can be examined without treating it as the whole identity of the person feeling it. A modern example is recognizing irritation, the interpretation accompanying it, and the urge to reply sharply as distinguishable processes. This is a practical application, not a new item supplied by Krishna. Fortitude can support a measured response while the feeling remains present. Boundaries and assistance are still appropriate where needed. The distinction helps clarify how experience develops, rather than asking us to stop being humanly affected.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Desire, aversion, pleasure, pain, bodily aggregate, sentient awareness, and fortitude belong to the field with its modifications."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Observing a feeling before acting on its impulse applies the field distinction without requiring emotional suppression."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Name one feeling and one associated impulse separately, then choose a proportionate response."
+    }
+  ],
+  "reflectionQuestion": "What changes when I notice the feeling without treating its first impulse as an instruction?",
+  "reflectionQuestionHindi": "भावना को देखकर उसके पहले आवेग को आदेश न मानूँ तो क्या बदलता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

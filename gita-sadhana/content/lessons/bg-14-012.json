@@ -1,0 +1,71 @@
+{
+  "id": "bg-14-012",
+  "sequenceNumber": 536,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 12,
+  "verseEnd": 12,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "Restless expansion and craving / बेचैनी और बढ़ती चाह",
+  "context": "Krishna lists signs that rajas has become predominant.",
+  "contextHindi": "सत्त्व के संकेत के बाद कृष्ण बढ़े हुए रज में लोभ, सक्रियता, आरंभ, अशांति और स्पृहा बताते हैं।",
+  "sanskritDevanagari": "लोभः प्रवृत्तिरारम्भः कर्मणामशमः स्पृहा |\nरजस्येतानि जायन्ते विवृद्धे भरतर्षभ ||१४-१२||",
+  "transliteration": "lobhaḥ pravṛttirārambhaḥ karmaṇāmaśamaḥ spṛhā .\nrajasyetāni jāyante vivṛddhe bharatarṣabha ||14-12||",
+  "wordByWord": [
+    {
+      "term": "lobhaḥ",
+      "meaning": "greed; लोभ"
+    },
+    {
+      "term": "pravṛttiḥ",
+      "meaning": "activity or engagement; प्रवृत्ति"
+    },
+    {
+      "term": "ārambhaḥ",
+      "meaning": "undertaking; आरंभ"
+    },
+    {
+      "term": "aśamaḥ",
+      "meaning": "restlessness or lack of quiet"
+    },
+    {
+      "term": "spṛhā",
+      "meaning": "longing; चाह"
+    }
+  ],
+  "spokenHindi": "कृष्ण बढ़े हुए रज के संकेतों में लोभ, प्रवृत्ति, कर्मों का आरंभ, अशांति और चाह बताते हैं। इस सूची को सुनते समय केवल काम की संख्या गिनना पर्याप्त नहीं है। किसी की जिम्मेदारियाँ बहुत हों तो वह मेहनत कर सकता है; श्लोक की पूरी सूची में बढ़ती चाह और भीतर का अशम, यानी शांत न हो पाना, भी है। इसलिए निरीक्षण का केंद्र अपनी प्रेरणा हो। क्या नया काम जरूरत से शुरू हो रहा है, या कुछ छूट जाने के डर से? क्या संसाधन पर्याप्त हैं, फिर भी अधिक पाने की बेचैनी बनी है? ऐसे प्रश्न आज के अनुप्रयोग हैं। हम हर इच्छा को दबाएँ, यह निष्कर्ष आवश्यक नहीं। इच्छा को समझकर उसका आकार और दिशा देख सकते हैं। कोई योजना उत्साह में अच्छी लगे तो उसे शुरू करने से पहले समय, लागत और दूसरे कामों पर असर जाँचना मददगार है। विराम ऊर्जा का अपमान नहीं; वह ऊर्जा को उस काम की ओर लौटाता है जो वास्तव में जरूरी और संभव है।",
+  "clearEnglish": "Krishna's signs of predominant rajas combine outward movement with inward appetite: greed, activity, undertaking actions, restlessness, and longing. Reading the terms together matters. A large workload alone does not reveal someone's motivation, while an outwardly modest project may carry considerable craving. The list invites examination of the pressure behind expansion. Is a new undertaking serving a real need, or protecting us from the feeling that we might be left behind? Do we know what enough would look like? These questions are modern applications of the listed tendencies. They should not become grounds for judging another person's worth from visible success or ambition. Desire can be acknowledged and evaluated without being obeyed instantly. A concrete planning pause helps distinguish enthusiasm from an unexamined demand to keep adding. Checking capacity, cost, and obligations can preserve useful effort. The verse supplies signs for discernment; it does not condemn every new beginning or require inactivity.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Greed, activity, undertakings, restlessness, and longing arise when rajas increases."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Checking need and capacity before a new undertaking applies the whole list without treating every initiative as blameworthy."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Before adding a commitment, check the need it serves, available capacity, and what you would postpone."
+    }
+  ],
+  "reflectionQuestion": "What would enough look like in the undertaking I keep expanding?",
+  "reflectionQuestionHindi": "जिस काम को मैं बढ़ाता जा रहा हूँ, उसमें पर्याप्त होने का अर्थ क्या होगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

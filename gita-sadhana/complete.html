@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="A complete public bilingual verse archive of the Bhagavad Gita, preserving source provenance, interpretive distinctions, episode summaries and honest completion counts.">
+<title>Gita Sadhana — Complete Verse Archive</title>
+<style>
+:root{color-scheme:light;--ink:#203b33;--muted:#5f6d62;--rule:#d5dfd3;--paper:#fffdf6}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:18px/1.8 system-ui,sans-serif}main,header{max-width:960px;margin:auto;padding:28px}header{border-bottom:1px solid var(--rule)}h1{font-size:clamp(2rem,6vw,3.2rem);line-height:1.15;margin:12px 0}h2{line-height:1.4}h3{font-size:1.15rem;margin-top:1.7rem}p{white-space:pre-line}a{color:#28634d}nav{display:flex;gap:20px;flex-wrap:wrap}.status{background:#eaf0e5;padding:14px 18px;border-radius:10px}.tools{display:flex;gap:16px;flex-wrap:wrap;margin:24px 0}label{display:grid;gap:6px;font-size:15px}input,select,button{font:inherit;border:1px solid #92a48f;border-radius:8px;padding:9px 12px;background:white;color:var(--ink)}input{width:min(440px,80vw)}article{border-top:1px solid var(--rule);padding:24px 0 40px}small,.muted{color:var(--muted)}.sanskrit{font-size:1.35rem;line-height:1.9}.skip{position:absolute;left:-10000px}.skip:focus{position:static}li{margin-bottom:8px}@media(max-width:500px){main,header{padding:22px 18px}body{font-size:17px}}@media print{.tools,nav,.skip{display:none}article{break-before:page}}
+body{overflow-wrap:anywhere}.tools label{min-width:0}input,select{max-width:100%}
+</style>
+</head>
+<body>
+<a class="skip" href="#archive">Skip to lessons</a>
+<header><small>संस्कृत · सरल हिन्दी · Clear English</small><h1>Gita Sadhana</h1><p>A source-backed public verse archive, in the 701-verse Sivananda/DLS numbering.</p>
+<p class="status" id="status" role="status">Loading published lessons…</p>
+<nav aria-label="Archive links"><a href="site.htm">Listening study site</a><a href="complete-listening-archive.md" download>Download full text</a><a href="content/complete-archive.json">Archive data</a></nav>
+<p class="muted">All 701 verses are published. Assistant review is not human scholarly certification. Text, commentary, and inference are kept distinct. Religious claims are presented as teachings of the source, not empirical guarantees.</p></header>
+<main id="archive"><div class="tools"><label>Chapter<select id="chapter"><option value="">All chapters</option></select></label><label>Search reference or words<input id="search" type="search" placeholder="e.g. 13.1, अर्जुन, discernment"></label></div><p id="shown" aria-live="polite"></p><div id="lessons"></div></main>
+<script type="module">
+const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const p=(v,lang='')=>'<p'+(lang?' lang="'+lang+'"':'')+'>'+esc(v)+'</p>';
+const list=items=>'<ul>'+items.map(v=>'<li>'+v+'</li>').join('')+'</ul>';
+const chapter=document.querySelector('#chapter'),search=document.querySelector('#search'),container=document.querySelector('#lessons');
+try {
+ const response=await fetch('content/complete-archive.json',{cache:'no-store'});if(!response.ok)throw Error('Archive HTTP '+response.status);const archive=await response.json();
+ document.querySelector('#status').textContent=archive.totalVerses+'/701 published lessons.';
+ for(let c=1;c<=18;c++){const l=archive.lessons.find(l=>l.chapter===c);const o=document.createElement('option');o.value=String(c);o.textContent='Chapter '+c+(l?' — '+l.chapterNameEnglish:'');chapter.append(o)}
+ chapter.value='1';const recaps=new Map(archive.episodes.map(e=>[e.lessonIds.at(-1),e]));
+ function render(){const q=search.value.trim().toLocaleLowerCase();const selected=archive.lessons.filter(l=>(!chapter.value||String(l.chapter)===chapter.value)&&(!q||(l.chapter+'.'+l.verseStart+' '+JSON.stringify(l)).toLocaleLowerCase().includes(q)));document.querySelector('#shown').textContent=selected.length+' of '+archive.totalVerses+' published lessons shown';
+ container.innerHTML=selected.map(l=>{const e=recaps.get(l.id);return '<article id="'+esc(l.id)+'" data-reference="'+l.chapter+'.'+l.verseStart+'"><small>'+esc(l.chapterNameEnglish)+' · '+(l.publishedStatus==='published'?'Published':'Publication pending')+'</small><h2>Bhagavad Gita '+l.chapter+'.'+l.verseStart+' — '+esc(l.theme)+'</h2><h3>संस्कृत / Sanskrit</h3><p class="sanskrit" lang="sa">'+esc(l.sanskritDevanagari)+'</p><h3>Transliteration</h3>'+p(l.transliteration)+'<h3>Important terms</h3>'+list(l.wordByWord.map(t=>'<strong>'+esc(t.term)+'</strong>: '+esc(t.meaning)))+'<h3>Hindi context</h3>'+p(l.contextHindi,'hi')+'<h3>English context</h3>'+p(l.context)+'<h3>बोलचाल की हिन्दी</h3>'+p(l.spokenHindi,'hi')+'<h3>Clear English</h3>'+p(l.clearEnglish)+'<h3>Interpretive distinctions</h3>'+l.interpretationPerspectives.map(x=>p(x.label+': '+x.explanation)).join('')+'<h3>Practice</h3>'+l.practicalApplication.map(x=>p(x.label+': '+x.text)).join('')+'<h3>Reflection</h3>'+p(l.reflectionQuestionHindi,'hi')+p(l.reflectionQuestion)+'<h3>Sources</h3>'+list(l.sourceNotes.map(s=>'<a href="'+esc(s.url)+'" rel="noreferrer">'+esc(s.label)+'</a> — '+esc(s.scope)))+(e?'<h3>Episode recap</h3>'+p(e.dailyHindiSummary,'hi')+p(e.dailyEnglishSummary)+p(e.dailyPractice)+p(e.nextPreview):'')+'</article>'}).join('');}
+ chapter.addEventListener('change',render);search.addEventListener('input',render);render();
+}catch(error){document.querySelector('#status').textContent='Archive could not load. Please reload or return to the listening site. '+error.message;}
+</script>
+</body></html>

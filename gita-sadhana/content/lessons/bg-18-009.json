@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-009",
+  "sequenceNumber": 632,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 9,
+  "verseEnd": 9,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "कर्तव्य निभाते हुए त्याग / Relinquishment within duty",
+  "context": "Krishna defines sattvic abandonment as doing obligatory action because it should be done while relinquishing attachment and fruit.",
+  "contextHindi": "कृष्ण नियत कर्म को उचित कर्तव्य मानकर, आसक्ति और फल छोड़कर करने को सात्त्विक त्याग बताते हैं।",
+  "sanskritDevanagari": "कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जुन |\nसङ्गं त्यक्त्वा फलं चैव स त्यागः सात्त्विको मतः ||१८-९||",
+  "transliteration": "kāryamityeva yatkarma niyataṃ kriyate.arjuna .\nsaṅgaṃ tyaktvā phalaṃ caiva sa tyāgaḥ sāttviko mataḥ ||18-9||",
+  "wordByWord": [
+    {
+      "term": "kāryam iti",
+      "meaning": "Because it ought to be done"
+    },
+    {
+      "term": "niyatam",
+      "meaning": "Obligatory or prescribed"
+    },
+    {
+      "term": "saṅgam tyaktvā",
+      "meaning": "Having relinquished attachment"
+    },
+    {
+      "term": "sāttvikaḥ",
+      "meaning": "Sattvic; clear or pure in this account"
+    }
+  ],
+  "spokenHindi": "कृष्ण सात्त्विक त्याग का वर्णन करते हैं। नियत कर्म इसलिए किया जाता है कि उसे करना उचित है, और साथ में आसक्ति तथा फल छोड़ा जाता है। बाहर से देखने पर व्यक्ति काम कर रहा है, फिर भी भीतर त्याग का अभ्यास है। यह फर्क समझना जरूरी है। काम छोड़ देना हमेशा त्याग नहीं, और काम करना हमेशा बंधन नहीं माना गया। प्रश्न उसके आधार और पकड़ का है। आधुनिक जीवन में कोई जिम्मेदारी निभाते हुए धन्यवाद की मांग हल्की करना इसका सीमित उदाहरण हो सकता है। किसी अनुचित आदेश को कर्तव्य कहकर मानना जरूरी नहीं; वास्तविक जिम्मेदारी को समझना पहले आता है। आज कोई छोटा उचित काम चुनें जिसे आपने स्वीकार किया है। उसका उद्देश्य स्पष्ट रखें और तरीका ध्यान से पूरा करें। उसके बाद देखें कि मन अपने लिए किस फल पर दावा करता है। प्रशंसा, तुरंत सफलता या मनचाही प्रतिक्रिया की अपेक्षा दिखाई दे सकती है। उसे पहचानें, लेकिन काम की गुणवत्ता न छोड़ें। सात्त्विक दिशा का अभ्यास जिम्मेदारी और पकड़ के बीच इस अंतर में शुरू हो सकता है।",
+  "clearEnglish": "Krishna calls abandonment sattvic when obligatory action is performed simply because it ought to be done, with attachment and fruit relinquished. The apparent paradox is central: the person acts, yet practises relinquishment. The criterion is not mere inactivity. It concerns the ground of action and the hold of personal expectation. A contemporary example is fulfilling an accepted responsibility without making gratitude a condition of effort. That example is an application, not a complete definition of duty. An arbitrary or harmful command does not become a legitimate obligation merely because someone uses a moral word. Understanding the responsibility remains necessary. Choose a modest commitment you can explain and fulfil. Give proper attention to method and actual usefulness. Afterwards, notice the reward you silently expected: praise, immediate success, or a particular response. Recognizing that demand can clarify what is being relinquished while the useful work continues. The exercise should deepen responsibility rather than become an excuse for poor execution.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna calls obligatory action performed because it ought to be done, without attachment and fruit-seeking, sattvic abandonment."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Fulfilling a legitimate commitment without demanding gratitude applies the verse while preserving discernment and competent execution."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Commitment without a claim",
+      "text": "Complete one legitimate responsibility carefully, then identify one unspoken demand for recognition."
+    }
+  ],
+  "reflectionQuestion": "What personal claim can I loosen while keeping the responsibility?",
+  "reflectionQuestionHindi": "जिम्मेदारी निभाते हुए अपनी कौन सी निजी मांग ढीली कर सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

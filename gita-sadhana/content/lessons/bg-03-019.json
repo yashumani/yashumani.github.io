@@ -1,0 +1,63 @@
+{
+  "id": "bg-03-019",
+  "sequenceNumber": 138,
+  "date": "2026-10-05",
+  "chapter": 3,
+  "verseStart": 19,
+  "verseEnd": 19,
+  "chapterNameSanskrit": "कर्मयोग",
+  "chapterNameEnglish": "Karma Yoga",
+  "theme": "कर्तव्य में अनासक्ति; Freedom through unselfish action",
+  "context": "After discussing the fulfilled person who has no personal gain to seek, Krishna draws a practical lesson for Arjuna: continue doing the work that ought to be done, without clinging to its rewards. The verse connects such action with reaching the highest goal.",
+  "contextHindi": "पिछले श्लोकों में कृष्ण उस संतुष्ट व्यक्ति की बात करते हैं जिसे अपने लिए कुछ पाना बाकी नहीं है। अब वे अर्जुन को व्यावहारिक दिशा देते हैं: जो काम करना उचित है, उसे फल से चिपके बिना करो।",
+  "sanskritDevanagari": "तस्मादसक्तः सततं कार्यं कर्म समाचर |\nअसक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः ||३-१९||",
+  "transliteration": "tasmādasaktaḥ satataṃ kāryaṃ karma samācara .\nasakto hyācarankarma paramāpnoti pūruṣaḥ ||3-19||",
+  "wordByWord": [
+    {
+      "term": "असक्तः (asaktaḥ)",
+      "meaning": "Without attachment or possessiveness; this does not necessarily mean indifference to the quality of one's work."
+    },
+    {
+      "term": "कार्यम् कर्म (kāryaṃ karma)",
+      "meaning": "Action that is to be done or is one's proper responsibility in the situation."
+    },
+    {
+      "term": "परम् आप्नोति (param āpnoti)",
+      "meaning": "Reaches the highest or ultimate goal; the verse does not reduce that goal to a material reward."
+    }
+  ],
+  "spokenHindi": "यहाँ कृष्ण अर्जुन से कहते हैं कि जो काम करना उचित है, उसे लगातार करो, लेकिन उसके फल को अपनी पहचान या अपनी संपत्ति मत बना लो। “असक्त” का अर्थ लापरवाह होना नहीं है। इसका अर्थ है काम के परिणाम पर ऐसा अधिकार न जताना मानो सब कुछ केवल हमारे नियंत्रण में हो। “कार्यम् कर्म” उस काम की ओर संकेत करता है जिसे परिस्थिति में करना चाहिए; हर इच्छा को कर्तव्य मान लेना इसका अर्थ नहीं है। पिछले श्लोकों में आत्मतुष्ट व्यक्ति की चर्चा थी, इसलिए अर्जुन के मन में यह प्रश्न उठ सकता था कि क्या कुछ पाने को न रह जाने पर काम छोड़ देना चाहिए। यह श्लोक जवाब देता है कि भीतर की स्वतंत्रता और बाहर की जिम्मेदारी साथ चल सकती हैं। पाठ स्पष्ट रूप से अनासक्त होकर कर्म करने और परम लक्ष्य तक पहुँचने की बात कहता है। इससे हम यह निष्कर्ष निकाल सकते हैं कि सावधानी और प्रयत्न हमारे हाथ में हैं, जबकि परिणाम कई कारणों से बनता है। आज किसी जरूरी काम में अपना सर्वश्रेष्ठ दें, पर सफलता या असफलता को अपने पूरे मूल्य का फैसला न बनने दें।",
+  "clearEnglish": "Krishna’s instruction is not simply “keep busy.” The word kārya points toward work that ought to be done, while asakta describes acting without possessive attachment. That distinction matters: a person can care deeply about doing a task well without treating its outcome as a personal entitlement or the measure of their entire worth. In the surrounding discussion, the fulfilled person has no private gain to secure, yet action remains possible. This verse therefore presents inward freedom not as an excuse to withdraw, but as a different way to participate. TEXT: Krishna says to perform the appropriate action continually and without attachment, and says such action leads to the highest goal. INFERENCE: We can apply this by separating responsible effort from the parts of an outcome we cannot control. That is a spiritual interpretation, not a guarantee that every task will succeed or that effort removes real-world constraints. In a difficult conversation or a demanding responsibility, clarify what is yours to do, act with care, and release the demand that others respond exactly as you wish.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse instructs Arjuna to perform appropriate action continually and without attachment, and links this way of acting with reaching the highest goal."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The verse supports distinguishing responsible effort from control over outcomes. This is a practical application, not a promise of worldly success."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Effort and outcome",
+      "text": "Before a demanding task, name the part you can responsibly do, complete it carefully, and notice when you begin treating the outcome as proof of your personal worth."
+    }
+  ],
+  "reflectionQuestion": "What responsibility can you carry out wholeheartedly today without demanding that its result define you?",
+  "reflectionQuestionHindi": "आज आप कौन-सी जिम्मेदारी पूरी निष्ठा से निभा सकते हैं, बिना उसके परिणाम को अपने मूल्य का प्रमाण बनाए?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

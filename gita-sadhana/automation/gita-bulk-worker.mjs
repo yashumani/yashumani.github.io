@@ -34,7 +34,9 @@ function report(message) {
   if(process.env.GITHUB_STEP_SUMMARY) appendFileSync(process.env.GITHUB_STEP_SUMMARY,message+'\n\n');
 }
 async function engine() {
-  const source=await readFile('gita-sadhana/automation/gita-automation.mjs','utf8');
+  // Normalize checkout line endings before hashing/importing so the pinned
+  // Git blob is verified identically on Windows and Linux.
+  const source=(await readFile('gita-sadhana/automation/gita-automation.mjs','utf8')).replace(/\r\n/g,'\n');
   assert.equal(createHash('sha1').update(`blob ${Buffer.byteLength(source)}\0`).update(source).digest('hex'),LEGACY_BLOB,'Legacy validator changed; review before proceeding.');
   const cut=source.lastIndexOf('\nmain().catch(error => {');
   assert(cut>0,'Legacy CLI boundary missing.');

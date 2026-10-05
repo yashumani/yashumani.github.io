@@ -1,0 +1,71 @@
+{
+  "id": "bg-15-015",
+  "sequenceNumber": 566,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 15,
+  "verseEnd": 15,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "The indwelling source of knowing / जानने का भीतर स्थित आधार",
+  "context": "Krishna identifies his presence in all hearts and relates memory, knowledge, forgetting, and Vedic understanding to himself.",
+  "contextHindi": "कृष्ण सभी के हृदय में अपनी उपस्थिति बताते हैं और स्मृति, ज्ञान तथा उनके हटने को अपने से जोड़ते हैं।",
+  "sanskritDevanagari": "सर्वस्य चाहं हृदि सन्निविष्टो\nमत्तः स्मृतिर्ज्ञानमपोहनञ्च |\nवेदैश्च सर्वैरहमेव वेद्यो\nवेदान्तकृद्वेदविदेव चाहम् ||१५-१५||",
+  "transliteration": "sarvasya cāhaṃ hṛdi sanniviṣṭo mattaḥ smṛtirjñānamapohanañca .\nvedaiśca sarvairahameva vedyo vedāntakṛdvedavideva cāham ||15-15||",
+  "wordByWord": [
+    {
+      "term": "hṛdi sanniviṣṭaḥ",
+      "meaning": "seated in the heart"
+    },
+    {
+      "term": "smṛtiḥ",
+      "meaning": "memory; स्मृति"
+    },
+    {
+      "term": "apohanam",
+      "meaning": "removal or absence, rendered here as forgetting"
+    },
+    {
+      "term": "vedyaḥ",
+      "meaning": "to be known; जानने योग्य"
+    },
+    {
+      "term": "vedāntakṛt",
+      "meaning": "maker or author of Vedanta"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि वे सबके हृदय में स्थित हैं। उनसे स्मृति, ज्ञान और अपोहन होता है; दिए गए संस्करण में अंतिम पद को इनकी अनुपस्थिति की दिशा में रखा गया है। फिर वे स्वयं को सभी वेदों द्वारा जानने योग्य, वेदांत का कर्ता और वेदों का ज्ञाता कहते हैं। बाहर के प्रकाश और शरीर के पोषण के बाद अब जानने की भीतरी क्षमता दिव्य संबंध में आती है। हृदय की भाषा केवल किसी शारीरिक अंग का स्थान बताने तक सीमित नहीं; प्रसंग भीतर की उपस्थिति का है। भूलना सुनकर किसी स्मृति कठिनाई को पाप या श्रद्धा की कमी कहना अनुचित होगा। श्लोक ऐसा निदान नहीं देता। अपने लिए एक छोटा अभ्यास यह है कि सीखते समय विनम्रता रखें: जो याद है उसे जाँचें और जो भूल गए उसके लिए सहारा लें। नोट्स बनाना या दोबारा पूछना आध्यात्मिक कमजोरी नहीं। यह आधुनिक अनुप्रयोग है। ज्ञान का उद्देश्य केवल शब्द सँभालना नहीं, उसके आधार और अर्थ को अधिक ईमानदारी से समझना भी हो सकता है।",
+  "clearEnglish": "Krishna says he dwells in everyone's heart and that memory, knowledge, and their removal arise from him. The supplied edition renders the last element as their absence. He also identifies himself as the one to be known through all the Vedas, their knower, and the author of Vedanta. The sequence brings divine presence into the act of knowing itself, after describing light, growth, and digestion. It should not be converted into a diagnosis of memory problems or a judgment about devotion. The verse supplies a theological ground, not a clinical account of forgetting. For contemporary practice, the recognition that knowing is not wholly a personal possession can encourage intellectual humility. Check what is remembered, use notes, and ask again when needed. Such aids do not contradict spiritual study. This practical inference remains distinct from Krishna's claim to be the object and source of sacred knowledge. The passage asks us to consider what knowledge is for, not simply to accumulate impressive recall.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna is present in all hearts, is the source of memory, knowledge, and removal, and is what the Vedas seek to know, their knower, and author of Vedanta."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Checking memory and using learning aids expresses humility; the verse does not diagnose memory difficulties or equate them with deficient devotion."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Verify one remembered teaching and make a short note of what was corrected or remains uncertain."
+    }
+  ],
+  "reflectionQuestion": "What does my learning help me understand beyond the ability to repeat it?",
+  "reflectionQuestionHindi": "दोहराने की क्षमता के अलावा मेरी पढ़ाई मुझे क्या समझने में मदद करती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

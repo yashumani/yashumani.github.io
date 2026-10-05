@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-007",
+  "sequenceNumber": 602,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 7,
+  "verseEnd": 7,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "रोजमर्रा में गुण / Qualities in ordinary practices",
+  "context": "Krishna introduces the threefold distinctions in food preferences, sacrifice, austerity, and giving.",
+  "contextHindi": "कृष्ण भोजन की पसंद, यज्ञ, तप और दान में तीन प्रकार के भेद का परिचय देते हैं।",
+  "sanskritDevanagari": "आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रियः |\nयज्ञस्तपस्तथा दानं तेषां भेदमिमं शृणु ||१७-७||",
+  "transliteration": "āhārastvapi sarvasya trividho bhavati priyaḥ .\nyajñastapastathā dānaṃ teṣāṃ bhedamimaṃ śṛṇu ||17-7||",
+  "wordByWord": [
+    {
+      "term": "āhāraḥ",
+      "meaning": "Food"
+    },
+    {
+      "term": "priyaḥ",
+      "meaning": "Dear or preferred"
+    },
+    {
+      "term": "yajñaḥ",
+      "meaning": "Sacrifice"
+    },
+    {
+      "term": "dānam",
+      "meaning": "Giving or charity"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि लोगों का प्रिय भोजन भी तीन प्रकार का है, और यज्ञ, तप तथा दान भी। वे अर्जुन को इनके भेद सुनने को कहते हैं। इससे श्रद्धा की चर्चा रोजमर्रा की पसंद और काम तक पहुँचती है। अध्याय केवल मन में माने गए सिद्धांत नहीं देखता; शरीर का पोषण, धार्मिक कर्म, अनुशासन और सहायता भी महत्वपूर्ण हैं। अभी यह परिचय है। भोजन की अगली सूची को पहले से पढ़ाए बिना हम इतना समझ सकते हैं कि अभ्यास की गुणवत्ता कई जगह प्रकट होती है। आधुनिक जीवन में किसी एक पसंद को देखकर पूरे व्यक्ति का मूल्य तय करना सावधानी छोड़ना होगा। साधन, उपलब्धता, परिवार और स्वास्थ्य की जरूरतें भी चुनाव को प्रभावित करती हैं। आज अपने किसी साधारण काम को देखने का प्रयोग करें। उसके पीछे का कारण, तरीका और असर अलग अलग पहचानें। सिर्फ उसका नाम अच्छा होने से बात पूरी नहीं होती। किसी सेवा को सेवा कहने से पहले देखना पड़ता है कि वह किसके काम आई। छोटे कामों में ध्यान लाना श्रद्धा को जीवन से जोड़ने का रास्ता है।",
+  "clearEnglish": "Krishna introduces threefold distinctions in preferred food as well as sacrifice, austerity, and giving. This verse is a signpost: the details come in the following sections. It broadens the discussion of faith into ordinary and embodied practices. What people value appears not only in statements of belief but also in how they nourish themselves, undertake observances, discipline their conduct, and assist others. The verse itself does not provide a diet or a basis for diagnosing a whole person from one meal. A contemporary application should consider constraints, access, and individual needs rather than use food as a shortcut to moral judgement. For one ordinary act, separate motive, method, and effect. A respected name can conceal poor execution, and a modest act can serve a real need. These observations are interpretive extensions of the chapter's movement toward practice. Try attentive description before classification. Understanding what actually happened gives the later distinctions something concrete to illuminate.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna introduces threefold differences in preferred food, sacrifice, austerity, and giving."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Examining motive, method, and effect in an ordinary act is a modern practice; a single meal does not determine a person's worth."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Describe before classifying",
+      "text": "Describe one ordinary act's motive, method, and effect without assigning a category yet."
+    }
+  ],
+  "reflectionQuestion": "What does the actual effect show beyond the act's good name?",
+  "reflectionQuestionHindi": "काम के अच्छे नाम से आगे उसका वास्तविक असर क्या दिखाता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

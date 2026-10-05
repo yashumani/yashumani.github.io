@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-055",
+  "sequenceNumber": 678,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 55,
+  "verseEnd": 55,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Knowing through devotion / भक्ति से तत्त्व की पहचान",
+  "context": "Krishna follows the attainment of supreme devotion with a claim about knowing him truly and entering the Supreme.",
+  "contextHindi": "कृष्ण परम भक्ति के बाद कहते हैं कि भक्त उन्हें तत्त्व से जानता है और फिर उनमें प्रवेश करता है।",
+  "sanskritDevanagari": "भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः |\nततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम् ||१८-५५||",
+  "transliteration": "bhaktyā māmabhijānāti yāvānyaścāsmi tattvataḥ .\ntato māṃ tattvato jñātvā viśate tadanantaram ||18-55||",
+  "wordByWord": [
+    {
+      "term": "bhaktyā",
+      "meaning": "through devotion"
+    },
+    {
+      "term": "abhijānāti",
+      "meaning": "knows fully"
+    },
+    {
+      "term": "tattvataḥ",
+      "meaning": "in truth or according to reality"
+    },
+    {
+      "term": "viśate",
+      "meaning": "enters"
+    },
+    {
+      "term": "tadanantaram",
+      "meaning": "thereafter"
+    }
+  ],
+  "spokenHindi": "पिछले श्लोक में समता से परम भक्ति का उल्लेख था। अब कृष्ण कहते हैं कि भक्ति के द्वारा भक्त उन्हें तत्त्व से जानता है: वे क्या और कौन हैं। फिर उस सत्य ज्ञान के बाद उनमें प्रवेश का वर्णन है। यहाँ भक्ति को केवल भावना या उत्साह कहना कम होगा; श्लोक उसे सत्य पहचानने से जोड़ता है। दूसरी ओर केवल शब्द याद कर लेने को तत्त्व ज्ञान समझ लेना भी जल्दबाजी होगी। प्रवेश की भाषा आध्यात्मिक उपलब्धि बताती है; इसे किसी भौतिक जगह में कदम रखने की तरह समझाना आवश्यक नहीं। अलग परंपराएँ इस संबंध को अलग तरह से स्पष्ट कर सकती हैं, पर इस पंक्ति में कृष्ण का दावा इतना ही साफ है कि भक्ति और सही जानना जुड़े हैं। आज अपनी श्रद्धा से एक ईमानदार प्रश्न पूछें। क्या मेरा व्यवहार उस सत्य के अनुरूप है जिसे मैं मानता हूँ? प्रश्न उठाना भक्ति का अपमान नहीं; कभी वह उसे सतही आदत से गहरी समझ की ओर ले जाता है। किसी और पर एक ही भावनात्मक अनुभव थोपने की जरूरत नहीं।",
+  "clearEnglish": "Following the account of supreme devotion, Krishna says that through bhakti one truly knows him, what and who he is; knowing him in truth, one enters thereafter. The repeated emphasis on tattvata, in truth, prevents a loose reading in which any warm feeling counts as complete understanding. At the same time, the verse does not offer a checklist by which outsiders may certify another person's inner relation to Krishna. Devotion here has a knowing dimension, and knowledge is related to an ultimate participation expressed by enters. Traditions may explain that last image differently, so a short lesson should not claim a single detailed metaphysical mechanism from this line alone. A bounded modern inference is to let love of a spiritual teaching invite honest inquiry. When an admired phrase comforts you, also ask what it claims and whether your conduct reflects it. Respectful questioning need not be treated as betrayal of devotion. Nor should emotional intensity become a ranking of people. The verse speaks about Krishna's promised path, not permission to measure another person's worth.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says devotion leads to knowing him in truth, and after such knowing, to entering him."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Honest inquiry can deepen devotion, but the verse gives no license to rank other people's spiritual worth by outward emotion."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Choose one devotional claim you repeat and ask what it means in conduct, without pretending to assess someone else's inner state."
+    }
+  ],
+  "reflectionQuestion": "What would it mean for my devotion to seek truth rather than only comfort?",
+  "reflectionQuestionHindi": "मेरी भक्ति केवल सांत्वना नहीं, सत्य समझने की ओर कैसे बढ़ सकती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

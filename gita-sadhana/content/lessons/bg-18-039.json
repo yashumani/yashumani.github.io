@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-039",
+  "sequenceNumber": 662,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 39,
+  "verseEnd": 39,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Ease that obscures awareness / सजगता ढकने वाला आराम",
+  "context": "Krishna describes tamasic pleasure as delusive from beginning through consequence and arising from sleep, indolence, and heedlessness.",
+  "contextHindi": "कृष्ण तमस के सुख को शुरुआत और आगे दोनों में मोहकारी तथा निद्रा, आलस्य और प्रमाद से उठा बताते हैं।",
+  "sanskritDevanagari": "यदग्रे चानुबन्धे च सुखं मोहनमात्मनः |\nनिद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम् ||१८-३९||",
+  "transliteration": "yadagre cānubandhe ca sukhaṃ mohanamātmanaḥ .\nnidrālasyapramādotthaṃ tattāmasamudāhṛtam ||18-39||",
+  "wordByWord": [
+    {
+      "term": "anubandhe",
+      "meaning": "in continuation or consequence"
+    },
+    {
+      "term": "mohanam",
+      "meaning": "deluding or obscuring"
+    },
+    {
+      "term": "nidrālasya",
+      "meaning": "sleep and indolence"
+    },
+    {
+      "term": "pramādottham",
+      "meaning": "arising from heedlessness"
+    },
+    {
+      "term": "tāmasam",
+      "meaning": "tamasic"
+    }
+  ],
+  "spokenHindi": "कृष्ण तामसिक सुख को आरंभ और आगे दोनों में मोह पैदा करने वाला बताते हैं। यह निद्रा, आलस्य और प्रमाद से उठता है। बाकी सुखों में समय के साथ अलग फल बताए गए थे; यहाँ समझ का ढकना पूरी धारा में रहता है। इसका मतलब शरीर की जरूरी नींद को दोष देना नहीं। पर्याप्त विश्राम सजगता का सहारा बन सकता है। ध्यान उस आराम पर है जो किसी जरूरी तथ्य से लगातार बचने को सुगम बनाता है। यह हमारी व्याख्यात्मक दिशा है। आज का उदाहरण किसी महत्वपूर्ण पत्र को खोलने से बचना और थोड़ी राहत को समस्या के हल जैसा मान लेना हो सकता है। यह श्लोक की घटना नहीं। स्वयं को आलसी कहकर चोट पहुँचाने के बजाय अगला छोटा कदम चुनें: पत्र पढ़ना, अर्थ पूछना या सहयोग लेना। थकान या परेशानी अधिक हो तो मदद उचित है। फर्क देखें कि आराम के बाद समझ लौटती है या परदा और घना होता है। यही जाँच आनंद और जड़ बचाव के बीच जिम्मेदार अंतर खोजने में उपयोगी हो सकती है।",
+  "clearEnglish": "Tamasic pleasure obscures the self at the beginning and in its continuation, arising from sleep, indolence, and heedlessness. The temporal account differs from the two previous patterns: delusion persists throughout. The reference to sleep should not be used to condemn necessary rest. Rest can restore attention, whereas obscuring avoidance may keep a relevant fact out of view. That distinction is an interpretive application of the description. For instance, not opening an important notice may create a little relief without addressing its consequences. This is a contemporary example, not one stated by Krishna. A responsible response is a small manageable step: read the notice, ask what it means, or arrange assistance. Persistent fatigue or distress deserves appropriate support. The practice should not depend on insulting oneself as lazy. Ask what follows the relief: clearer capacity to engage, or a deeper refusal to know? This examines the function of the ease rather than measuring someone's worth by outward speed or productivity.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Pleasure that deludes throughout and arises from sleep, indolence, and heedlessness is called tamasic."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Distinguishing restorative rest from obscuring avoidance is a practical interpretation; bodily rest and needed assistance remain appropriate."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "After one period of ease, check whether clarity returned; address one manageable avoided fact with support if needed."
+    }
+  ],
+  "reflectionQuestion": "Does this relief restore my attention or keep a necessary fact hidden?",
+  "reflectionQuestionHindi": "यह राहत मेरा ध्यान लौटाती है या जरूरी तथ्य को छिपाए रखती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

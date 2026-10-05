@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-005",
+  "sequenceNumber": 419,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 5,
+  "verseEnd": 5,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "बहुरंगी दिव्य रूप / Many forms and colours",
+  "context": "Krishna begins his response by inviting Arjuna to behold countless divine forms of different colours and shapes.",
+  "contextHindi": "कृष्ण उत्तर शुरू करते हैं और अर्जुन को विविध रंगों तथा आकृतियों वाले असंख्य दिव्य रूप देखने को कहते हैं।",
+  "sanskritDevanagari": "श्रीभगवानुवाच |\nपश्य मे पार्थ रूपाणि शतशोऽथ सहस्रशः |\nनानाविधानि दिव्यानि नानावर्णाकृतीनि च ||११-५||",
+  "transliteration": "śrībhagavānuvāca .\npaśya me pārtha rūpāṇi śataśo.atha sahasraśaḥ .\nnānāvidhāni divyāni nānāvarṇākṛtīni ca ||11-5||",
+  "wordByWord": [
+    {
+      "term": "पश्य",
+      "meaning": "behold"
+    },
+    {
+      "term": "शतशः सहस्रशः",
+      "meaning": "by hundreds and thousands"
+    },
+    {
+      "term": "नानाविधानि",
+      "meaning": "of many kinds"
+    },
+    {
+      "term": "नानावर्णाकृतीनि",
+      "meaning": "of varied colours and shapes"
+    }
+  ],
+  "spokenHindi": "अब कृष्ण बोलते हैं। वे अर्जुन से कहते हैं कि मेरे सैकड़ों और हजारों, अनेक प्रकार के दिव्य रूप देखो, जिनके रंग और आकृतियाँ भी अलग हैं। पिछले अध्याय में प्रमुख नाम सुनाए गए थे; अब एक साथ दिखाई देने वाली विशाल विविधता की ओर संकेत है। संख्या को केवल गिनती का प्रश्न बनाना इस दृश्य की व्यापकता खो देगा। नानाविधानि में प्रकारों का अंतर है, नानावर्णाकृतीनि में रंग और आकार का। यहाँ वर्ण का प्रसंग रंग है; उसे सामाजिक जाति की श्रेणी मान लेना गलत संदर्भ होगा। यह किसी चित्रकार को एक ही अनिवार्य विश्वरूप चित्र बनाने का पूरा निर्देश भी नहीं है। दृश्य अभी आगे खुलेगा। हमारा छोटा अभ्यास विविधता को ध्यान से देखना हो सकता है। किसी साधारण स्थान में पाँच अलग आकार या रंग पहचानें और उन्हें तुरंत अच्छा बुरा न कहें। यह देखना दिव्य दृष्टि पाने का वादा नहीं है; केवल सूक्ष्म निरीक्षण की हमारी आधुनिक विधि है। व्यापक वर्णन को सुनते समय अलग रूपों के प्रति खुली नजर रखना मदद कर सकता है।",
+  "clearEnglish": "Krishna's response begins with an imperative to behold. Hundreds and thousands of divine forms, of many kinds and with varied colours and shapes, are offered to Arjuna's attention. The chapter moves from the selected verbal examples of the previous discourse toward a vision of simultaneous multiplicity. The numbers express immense range in the scene, rather than inviting a listener to audit a fixed inventory. Varna here belongs with colour, alongside shape; reading it as a social caste category would ignore the immediate compound. The verse also does not provide a complete artistic specification for one mandatory depiction of the universal form. Its function is an opening invitation to what follows. An everyday application is careful observation of diversity in a familiar place: notice several distinct shapes and colours before ranking them by preference. This exercise trains ordinary attention, and must not be sold as a method for producing the divine vision. The textual claim concerns Krishna's forms and the disclosure he is preparing to grant.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna invites Arjuna to behold numerous divine forms of varied kinds, colours and shapes."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Ordinary observation of variety can support attention, but does not reproduce the cosmic vision."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Observe variety",
+      "text": "In a familiar room or outdoor place, identify five distinct shapes or colours before evaluating whether you like them."
+    }
+  ],
+  "reflectionQuestion": "How much variety do I miss by naming a scene too quickly?",
+  "reflectionQuestionHindi": "किसी दृश्य को जल्दी नाम दे देने से उसकी कितनी विविधता छूट जाती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

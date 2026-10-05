@@ -1,0 +1,71 @@
+{
+  "id": "bg-15-005",
+  "sequenceNumber": 556,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 5,
+  "verseEnd": 5,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "Qualities of those reaching the lasting goal / अव्यय पद की दिशा के गुण",
+  "context": "Krishna describes those who reach the imperishable goal through freedom from pride, delusion, attachment, desire, and opposites.",
+  "contextHindi": "कृष्ण अव्यय पद तक पहुँचने वालों में अभिमान, मोह और आसक्ति से मुक्त होने तथा आत्मचिंतन में टिकने के गुण बताते हैं।",
+  "sanskritDevanagari": "निर्मानमोहा जितसङ्गदोषा\nअध्यात्मनित्या विनिवृत्तकामाः |\nद्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञैर्-\nगच्छन्त्यमूढाः पदमव्ययं तत् ||१५-५||",
+  "transliteration": "nirmānamohā jitasaṅgadoṣā adhyātmanityā vinivṛttakāmāḥ .\ndvandvairvimuktāḥ sukhaduḥkhasaṃjñaira- gacchantyamūḍhāḥ padamavyayaṃ tat ||15-5||",
+  "wordByWord": [
+    {
+      "term": "nirmānamohāḥ",
+      "meaning": "free from pride and delusion"
+    },
+    {
+      "term": "jitasaṅgadoṣāḥ",
+      "meaning": "having overcome the fault of attachment"
+    },
+    {
+      "term": "adhyātmanityāḥ",
+      "meaning": "constant in spiritual self-attention"
+    },
+    {
+      "term": "dvandvaiḥ",
+      "meaning": "by pairs of opposites"
+    },
+    {
+      "term": "amūḍhāḥ",
+      "meaning": "undeluded; मोह रहित"
+    }
+  ],
+  "spokenHindi": "कृष्ण अव्यय पद तक पहुँचने वालों का चित्र देते हैं। वे अभिमान और मोह से मुक्त हैं, आसक्ति के दोष को जीत चुके हैं, आत्मचिंतन में टिके हैं, उनकी कामनाएँ लौट गई हैं और सुख दुख के द्वंद्वों से मुक्त हैं। यह सूची केवल बाहरी पहचान या किसी पोशाक की नहीं है। भीतर का संबंध, समझ और चाह की पकड़ मुख्य हैं। अभिमान कम करना अपने मूल्य को नकारना नहीं; ‘मेरी बात कभी गलत नहीं हो सकती’ वाला आग्रह ढीला करना हो सकता है। सुख दुख के द्वंद्व से मुक्ति भी दुख में देखभाल लेने से मना नहीं करती। ये अर्थ की व्यावहारिक दिशा हैं, पूर्ण प्राप्ति का प्रमाण नहीं। हम एक साथ सारे गुण हासिल करने का दबाव न बनाएँ। आज एक छोटा और ईमानदार अवसर चुनें, जैसे अपनी गलती मानकर सुधार करना। यदि मन दुखी है तो उसे दबाने के बजाय सहारा लें और उपयुक्त कदम तय करें। आदर्श हमारी दिशा स्पष्ट कर सकता है, आत्मदंड की कसौटी बनना आवश्यक नहीं।",
+  "clearEnglish": "The people who reach the imperishable goal are described through several freedoms: from pride and delusion, from the fault of attachment, from desires, and from the opposites called pleasure and pain. They remain constant in spiritual self-attention and are undeluded. The description locates the path in understanding and orientation, not in clothing, public status, or inherited identity. For present reflection, humility can mean willingness to correct an error rather than denial of one's worth. Freedom concerning pleasure and pain likewise need not be interpreted as refusing care when distressed. These are responsible applications of the terms, not substitutes for the complete attainment. A list of demanding qualities can otherwise become an occasion for punishing oneself for ordinary difficulty. Choose one concrete opportunity for honesty instead: admit a mistake, repair it, and observe the attachment to appearing flawless. The spiritual goal remains larger than that exercise, while the exercise makes one aspect of the teaching available for careful practice.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Those free from pride, delusion, attachment, desire, and pleasure-pain opposites, and constant in spiritual attention, reach the imperishable goal."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Admitting and repairing one mistake is a bounded practice of humility, not a claim to possess the entire described attainment."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Acknowledge one manageable mistake accurately and make a proportionate correction without attacking your worth."
+    }
+  ],
+  "reflectionQuestion": "What would change if I valued correction more than appearing flawless?",
+  "reflectionQuestionHindi": "निर्दोष दिखने से अधिक सुधार को महत्व दूँ तो क्या बदल सकता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

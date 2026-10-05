@@ -1,0 +1,71 @@
+{
+  "id": "bg-09-024",
+  "sequenceNumber": 362,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 24,
+  "verseEnd": 24,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "सभी यज्ञों के भोक्ता और प्रभु | Enjoyer and Lord of all sacrifices",
+  "context": "Krishna gives the reason for the preceding qualification by identifying his relation to all sacrifices.",
+  "contextHindi": "पिछली विधि संबंधी बात का कारण कृष्ण सभी यज्ञों से अपनी पहचान और उन्हें ठीक से न जानने के द्वारा बताते हैं।",
+  "sanskritDevanagari": "अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च |\nन तु मामभिजानन्ति तत्त्वेनातश्च्यवन्ति ते ||९-२४||",
+  "transliteration": "ahaṃ hi sarvayajñānāṃ bhoktā ca prabhureva ca .\nna tu māmabhijānanti tattvenātaścyavanti te ||9-24||",
+  "wordByWord": [
+    {
+      "term": "सर्वयज्ञानाम्",
+      "meaning": "Of all sacrifices."
+    },
+    {
+      "term": "भोक्ता",
+      "meaning": "Enjoyer or recipient."
+    },
+    {
+      "term": "प्रभुः",
+      "meaning": "Lord."
+    },
+    {
+      "term": "तत्त्वेन",
+      "meaning": "In truth or essence."
+    },
+    {
+      "term": "च्यवन्ति",
+      "meaning": "They fall or return, in this context."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि वे सभी यज्ञों के भोक्ता और प्रभु हैं। लेकिन वे उपासक उन्हें तत्त्व से नहीं जानते, इसलिए च्युत होते हैं। दिए गए संस्करण में इस च्युत होने को मर्त्यलोक में लौटना समझाया गया है। पिछली पंक्ति की विधि संबंधी कमी का कारण यहाँ ज्ञान से जुड़ता है। पूजा का कार्य होते हुए भी कृष्ण को वास्तविक रूप में जानने का प्रश्न बना रहता है। श्लोक कोई ऐसा प्रमाणपत्र नहीं देता जिससे हम किसी व्यक्ति की पूरी साधना पर फैसला कर सकें। अपने लिए इससे पूछ सकते हैं कि बाहरी कार्य और उसके अर्थ में कितना संबंध है। किसी अर्पण के समय क्या बस गति दोहरा रहे हैं या उसे समझते भी हैं? यह हमारा अभ्यास है। समझ न हो तो शांत प्रश्न पूछना उचित हो सकता है। इससे हर रीति को तुरंत छोड़ना आवश्यक नहीं। स्रोत का संदर्भ, शिक्षक की व्याख्या और अपनी जिम्मेदार सोच साथ रखें। भोक्ता और प्रभु शब्द कृष्ण के धार्मिक आत्मवर्णन हैं; इन्हें किसी मानव अधिकारी को असीम अधिकार देने की अनुमति न समझें।",
+  "clearEnglish": "Krishna says he alone is the enjoyer and Lord of all sacrifices. The worshippers nevertheless do not know him in truth, and therefore fall; the supplied edition explains the fall as return to the mortal world. This gives the preceding qualification an issue of knowledge rather than merely outward variation. The text claims a divine relation to every sacrifice, but not every performance is accompanied by true knowledge of that relation. A contemporary application can examine the connection between an act and the understanding behind it. Repetition may preserve a valuable tradition while leaving a question unexplored; asking about meaning can deepen informed practice. That is an inference, not a command to abandon every familiar rite or to certify another person's spiritual failure. The titles enjoyer and Lord also belong to Krishna's self-description. They should not be transferred into an unlimited entitlement for a human ritual authority. Careful reading allows the theological claim to remain strong while keeping present relationships accountable and inquiry respectful.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna is the enjoyer and Lord of all sacrifices; those who do not know him in truth therefore fall or return."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "One may connect ritual activity with informed understanding, without claiming authority to judge others or granting unlimited power to human officiants."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Connect act and meaning",
+      "text": "Choose one ritual act and write what you understand its purpose to be, leaving room for one question."
+    }
+  ],
+  "reflectionQuestion": "Which act do I repeat without understanding its purpose?",
+  "reflectionQuestionHindi": "कौन-सा कार्य मैं दोहराता हूँ लेकिन उसका उद्देश्य अभी स्पष्ट नहीं समझता?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "bg-09-013",
+  "sequenceNumber": 351,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 13,
+  "verseEnd": 13,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "दैवी प्रकृति और अनन्य भक्ति | Divine nature and undivided worship",
+  "context": "Krishna contrasts the preceding deluded disposition with great souls who know and worship him.",
+  "contextHindi": "पिछली भ्रमित प्रवृत्ति के विपरीत कृष्ण अपने ज्ञाता और उपासक महात्माओं का वर्णन करते हैं।",
+  "sanskritDevanagari": "महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिताः |\nभजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम् ||९-१३||",
+  "transliteration": "mahātmānastu māṃ pārtha daivīṃ prakṛtimāśritāḥ .\nbhajantyananyamanaso jñātvā bhūtādimavyayam ||9-13||",
+  "wordByWord": [
+    {
+      "term": "महात्मानः",
+      "meaning": "Great souls."
+    },
+    {
+      "term": "दैवीं प्रकृतिम् आश्रिताः",
+      "meaning": "Having taken refuge in divine nature."
+    },
+    {
+      "term": "अनन्यमनसः",
+      "meaning": "With undivided minds."
+    },
+    {
+      "term": "भूतादिम्",
+      "meaning": "The source or beginning of beings."
+    },
+    {
+      "term": "अव्ययम्",
+      "meaning": "Imperishable."
+    }
+  ],
+  "spokenHindi": "कृष्ण अब महात्माओं की बात करते हैं। वे दैवी प्रकृति का आश्रय लेकर उन्हें अनन्य मन से भजते हैं और प्राणियों का अविनाशी उद्गम जानते हैं। पिछले श्लोक में भ्रमित आसुरी प्रवृत्ति थी; यहाँ उसके विपरीत दैवी प्रकृति का वर्णन है। महात्मा कोई पदवी भर नहीं है। इस वाक्य में पहचान उनके आश्रय, ज्ञान और भक्ति से होती है। किसी नाम, पहनावे या परिवार के आधार पर यह स्थिति प्रमाणित नहीं हो जाती। वह हमारे लिए सावधान नैतिक निष्कर्ष है। अनन्य मन कृष्ण की ओर एक दिशा का संकेत देता है। इसे रोज़ के काम और संबंधों की अनदेखी समझना आवश्यक नहीं। आधुनिक अभ्यास में अपने चुने हुए आध्यात्मिक लक्ष्य को याद रखते हुए काम करना एक छोटी शुरुआत हो सकती है। श्लोक की पूरी स्थिति को तुरंत अपने भीतर सिद्ध मान लेने के बजाय विनम्रता रखें। आज यह देखें कि आपकी श्रद्धा किस समझ से जुड़ी है। क्या केवल परिचित शब्द है, या आप उसका अर्थ जानने का प्रयास भी कर रहे हैं? ज्ञान और भक्ति को साथ सुनना इस पंक्ति की विशेषता है।",
+  "clearEnglish": "The contrast is between dispositions, and the description of the great souls is concrete. They take refuge in divine nature, worship Krishna with an undivided mind, and know him as the imperishable source of beings. The verse does not merely bestow an honorific; it associates greatness with this orientation and knowledge. A present reader should therefore be cautious about treating a title, dress, or inherited identity as proof that someone fits the description. That caution is an ethical inference rather than an additional social rule in the text. The knowledge named is also particular: Krishna as the beginning of beings and as imperishable, not unrestricted expertise in every subject. A modest application can join devotion with careful understanding of what one worships. This might mean recalling a chosen devotional focus while pursuing its source meaning through study. The passage offers an ideal of undivided worship; ordinary readers need not claim that ideal as already achieved. Humility allows the description to guide inquiry without becoming a badge of spiritual status.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Great souls, taking refuge in divine nature, worship Krishna with undivided minds, knowing him as the imperishable source of beings."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Spiritual titles or inherited identity do not by themselves demonstrate the knowledge and devotion described; study can accompany remembrance."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Join devotion with understanding",
+      "text": "Recall one description of Krishna in this verse and ask what it means in the source."
+    }
+  ],
+  "reflectionQuestion": "What understanding accompanies my devotional practice?",
+  "reflectionQuestionHindi": "मेरी भक्ति के साथ कौन-सी समझ जुड़ी है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

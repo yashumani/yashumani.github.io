@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-017",
+  "sequenceNumber": 640,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 17,
+  "verseEnd": 17,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "अकर्तापन की कठिन पंक्ति / A difficult claim about agency",
+  "context": "Krishna describes freedom from egoistic agency and an untainted intellect after explaining the five causes of action.",
+  "contextHindi": "कर्म के पाँच कारण समझाने के बाद कृष्ण अहंकार रहित भाव और अलिप्त बुद्धि वाले व्यक्ति की कठिन स्थिति बताते हैं।",
+  "sanskritDevanagari": "यस्य नाहंकृतो भावो बुद्धिर्यस्य न लिप्यते |\nहत्वाऽपि स इमाँल्लोकान्न हन्ति न निबध्यते ||१८-१७||",
+  "transliteration": "yasya nāhaṃkṛto bhāvo buddhiryasya na lipyate .\nhatvā.api sa imā.Nllokānna hanti na nibadhyate ||18-17||",
+  "wordByWord": [
+    {
+      "term": "nāhaṃkṛtaḥ bhāvaḥ",
+      "meaning": "No egoistic notion of agency"
+    },
+    {
+      "term": "na lipyate",
+      "meaning": "Is not tainted or attached"
+    },
+    {
+      "term": "hatvā api",
+      "meaning": "Even having slain"
+    },
+    {
+      "term": "na nibadhyate",
+      "meaning": "Is not bound"
+    }
+  ],
+  "spokenHindi": "यह श्लोक कठिन है और पूरा सुनना जरूरी है। कृष्ण कहते हैं कि जिसके भाव में अहंकार नहीं और जिसकी बुद्धि लिप्त नहीं होती, वह इन लोगों को मारकर भी नहीं मारता और बंधता नहीं। हत्या का शब्द पाठ में है; उसे हटाकर केवल शांत काम की सलाह बना देना ईमानदार व्याख्या नहीं होगी। साथ ही यह किसी के लिए हिंसा करने की अनुमति नहीं है। कथन विशेष आध्यात्मिक स्थिति की शर्तों और पहले बताए कर्तापन के प्रश्न से जुड़ा है। केवल मैं अहंकार से मुक्त हूँ कह देना उन शर्तों का प्रमाण नहीं। दार्शनिक अनुप्रयोग में कर्म के बाहरी असर और आत्मा के कर्तापन के प्रश्न को अलग समझने की कोशिश की जा सकती है। इस समझ से वास्तविक नुकसान, नैतिक जिम्मेदारी या कानून मिटते नहीं। आज कोई असहमति हो तो इस पंक्ति से अपना आक्रमण सही न ठहराएं। तथ्य, सुरक्षा और उचित सहायता देखें। अहंकार की जांच अपने निर्णय को जिम्मेदार बनाने के लिए करें, न कि दूसरों को चोट पहुँचाने के बाद उससे बच निकलने के लिए।",
+  "clearEnglish": "Krishna says that one without the egoistic notion of agency, whose intellect is untainted, does not kill and is not bound even though having slain these people. The violent wording is explicit and must not be erased. The statement also cannot responsibly be read as general permission to injure others. It describes a qualified spiritual condition in the context of the five causes and mistaken attribution of agency. Merely claiming to be free of ego does not establish that condition. A philosophical interpretation can distinguish the bodily event from the question of the Self's agency, but that is an interpretive explanation rather than an instruction to disregard consequences. Real injury, ethical responsibility, and legal accountability remain matters requiring attention in modern life. Do not use this verse as a formula to excuse aggression. In one conflict, examine the wish to justify yourself and choose an accountable response based on facts and protection. Humility about one's understanding is especially necessary when a passage could otherwise be recruited to defend harm.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna states that one free of egoistic agency and untainted in intellect does not kill or become bound even having slain these people."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Reading this through the philosophical question of agency is interpretation; it is not permission for violence or escape from accountability."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "No excuse for harm",
+      "text": "In one conflict, state the facts and protective response without using a spiritual claim to excuse injury."
+    }
+  ],
+  "reflectionQuestion": "Am I using a claim about ego to avoid responsibility for an effect?",
+  "reflectionQuestionHindi": "क्या अहंकार की बात से मैं किसी वास्तविक परिणाम की जिम्मेदारी टाल रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

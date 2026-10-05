@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-004",
+  "sequenceNumber": 418,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 4,
+  "verseEnd": 4,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "क्षमता की शर्त के साथ अनुरोध / A request qualified by capacity",
+  "context": "Arjuna asks Krishna to show the imperishable Self if Krishna considers him capable of seeing it.",
+  "contextHindi": "अर्जुन कहते हैं कि यदि कृष्ण उन्हें देखने योग्य समझें, तो अपना अव्यय स्वरूप दिखाएँ।",
+  "sanskritDevanagari": "मन्यसे यदि तच्छक्यं मया द्रष्टुमिति प्रभो |\nयोगेश्वर ततो मे त्वं दर्शयात्मानमव्ययम् ||११-४||",
+  "transliteration": "manyase yadi tacchakyaṃ mayā draṣṭumiti prabho .\nyogeśvara tato me tvaṃ darśayātmānamavyayam ||11-4||",
+  "wordByWord": [
+    {
+      "term": "यदि",
+      "meaning": "if"
+    },
+    {
+      "term": "शक्यम्",
+      "meaning": "possible"
+    },
+    {
+      "term": "मया द्रष्टुम्",
+      "meaning": "for me to see"
+    },
+    {
+      "term": "योगेश्वर",
+      "meaning": "Lord of yoga"
+    }
+  ],
+  "spokenHindi": "अर्जुन अपनी इच्छा को एक शर्त के साथ रखते हैं: यदि आप समझते हैं कि मेरे लिए उसे देखना संभव है, तो मुझे अपना अव्यय स्वरूप दिखाइए। यदि छोटा शब्द है, पर बहुत महत्वपूर्ण है। वह पिछले श्लोक की उत्सुकता के साथ अपनी क्षमता की सीमा स्वीकार करता है। योगेश्वर कृष्ण की योग शक्ति का संबोधन है। अर्जुन दर्शन को अपनी जिद से पैदा होने वाली वस्तु नहीं मान रहे। वे पूछते हैं, मांग रखते हैं, और उसे दूसरे के निर्णय में छोड़ते हैं। हमारी जिंदगी में यह रूप नए सीखने के अवसर पर लागू हो सकता है। उत्साह हो तो भी तैयारी, समय और सहयोग की जरूरत जांचें। यह किसी मानव शिक्षक को असीम अधिकार देने का निर्देश नहीं है; आधुनिक संबंधों में स्वतंत्र सहमति और उचित प्रश्न जरूरी रहते हैं। किसी चुनौतीपूर्ण काम के लिए कहना कि मुझे पहले छोटा चरण चाहिए, कमजोरी मानना जरूरी नहीं। अर्जुन की प्रार्थना में इच्छा दबाई नहीं गई है। इच्छा और सीमा दोनों साफ रखने से अनुरोध अधिक ईमानदार हो जाता है।",
+  "clearEnglish": "The conditional form of the request deserves attention. Arjuna asks Krishna to show his imperishable Self if Krishna considers it possible for Arjuna to see. Desire is now accompanied by an acknowledgment of capacity. He addresses Krishna as Lord of yoga, recognizing that the disclosure depends on divine power rather than on insistence. This does not mean a modern teacher should be given unlimited authority over someone's choices. Human learning relationships still require consent, reasonable boundaries and room for questions. A cautious application is to assess readiness without shaming the learner. A demanding task may call for preparation, a smaller first step or support from someone qualified. Saying so can make engagement more realistic. The verse does not offer a checklist for readiness; its literal content is a prayer with a condition. What it contributes to the narrative is the distinction between wanting to see and being able to receive the vision. Arjuna keeps his request clear while leaving its possibility open.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna asks for the imperishable form if Krishna judges it possible for him to see."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Readiness and preparation can be considered without shame; this does not establish unlimited human authority."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Ask for a manageable step",
+      "text": "For one challenging task, state what support or smaller first step would make participation realistic. Make the request without calling yourself inadequate."
+    }
+  ],
+  "reflectionQuestion": "Can I acknowledge a limit while keeping my wish to learn?",
+  "reflectionQuestionHindi": "क्या मैं सीखने की इच्छा रखते हुए अपनी सीमा भी स्वीकार कर सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

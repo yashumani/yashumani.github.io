@@ -1,0 +1,67 @@
+{
+  "id": "bg-12-002",
+  "sequenceNumber": 471,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 2,
+  "verseEnd": 2,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "स्थिर मन और श्रद्धा / Steady attention and faith",
+  "context": "Krishna answers that those whose minds are fixed on him and who worship steadily with supreme faith are most united in his view.",
+  "contextHindi": "कृष्ण अपने मत में मन उन्हें समर्पित करके उच्च श्रद्धा से निरंतर उपासना करने वालों को युक्ततम कहते हैं।",
+  "sanskritDevanagari": "श्रीभगवानुवाच |\nमय्यावेश्य मनो ये मां नित्ययुक्ता उपासते |\nश्रद्धया परयोपेताः ते मे युक्ततमा मताः ||१२-२||",
+  "transliteration": "śrībhagavānuvāca .\nmayyāveśya mano ye māṃ nityayuktā upāsate .\nśraddhayā parayopetāḥ te me yuktatamā matāḥ ||12-2||",
+  "wordByWord": [
+    {
+      "term": "मयि आवेश्य मनः",
+      "meaning": "fixing or placing the mind in me"
+    },
+    {
+      "term": "नित्ययुक्ताः",
+      "meaning": "ever steadfast"
+    },
+    {
+      "term": "श्रद्धया परया",
+      "meaning": "with supreme faith"
+    },
+    {
+      "term": "मताः",
+      "meaning": "considered or judged"
+    }
+  ],
+  "spokenHindi": "कृष्ण उत्तर देते हैं कि जो अपना मन उनमें लगाकर निरंतर उपासना करते हैं और उच्च श्रद्धा से युक्त हैं, उनके मत में वे सबसे अच्छे योगी हैं। यहाँ मन की दिशा, निरंतरता और श्रद्धा तीनों साथ हैं। केवल सार्वजनिक धार्मिक पहचान या एक जोरदार भावुक क्षण का उल्लेख नहीं। मताः से कृष्ण अपने उत्तर की भाषा स्पष्ट करते हैं। आगे अव्यक्त के उपासकों को भी स्वीकार किया जाएगा; इसलिए इस पंक्ति को दूसरों की आध्यात्मिक संभावना बंद करने की घोषणा न बनाएं। श्रद्धा को सामान्य मानव संबंध में किसी दावे की जांच छोड़ देने से भी नहीं मिलाना चाहिए। यह कृष्ण की उपासना का संदर्भ है। हमारा अभ्यास एक छोटा नियमित समय चुनना हो सकता है जिसमें ध्यान का उद्देश्य साफ हो। मन भटके तो उस क्षण की खबर लेना और फिर लौटना, हमारी व्यावहारिक विधि है; इस श्लोक में लौटने की पूरी तकनीक नहीं दी गई। निरंतरता को अपने खिलाफ कठोर हिसाब न बनाएं। इसका उपयोग ध्यान की दिशा स्पष्ट रखने में हो, दूसरों से तुलना में नहीं।",
+  "clearEnglish": "Krishna's answer emphasizes three linked features: placing the mind in him, steady worship and supreme faith. Such practitioners are, in his view, most united in yoga. The statement concerns an orientation, not merely a public identity or an isolated emotional intensity. It also comes before the acknowledgment of the unmanifest-oriented practitioners in the following verses, so it should not be read as denying their possibility of reaching him. Faith in this divine relation is not an instruction to suspend evidence or judgment in every human relationship. A modest application is to establish a brief period of attentive practice with a clear purpose. If attention wanders, notice that fact and return without turning the session into a harsh score. This returning method is our practical extension; the verse names the qualities rather than providing a detailed procedure. Its comparative answer is real and should not be erased, but the rest of the passage must still be heard. Steadiness can have direction without becoming a competition between people.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna considers steady worshippers with minds placed in him and supreme faith the best united in yoga."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Brief regular attention is an application; this preference does not erase the following acknowledgment of another approach."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "A short steady period",
+      "text": "Set aside two comfortable minutes for a chosen devotional reflection. Keep its purpose clear and return gently if attention moves."
+    }
+  ],
+  "reflectionQuestion": "Is my practice directed by a clear purpose or mainly by comparison with others?",
+  "reflectionQuestionHindi": "मेरे अभ्यास की दिशा स्पष्ट उद्देश्य से आती है या मुख्यतः दूसरों से तुलना से?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-022",
+  "sequenceNumber": 436,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 22,
+  "verseEnd": 22,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "कई समुदायों का एक विस्मय / Many groups in astonishment",
+  "context": "Arjuna names many divine and mythic groups as they look at Krishna in astonishment.",
+  "contextHindi": "अर्जुन अनेक देव और पौराणिक समुदायों को नाम देते हैं, जो कृष्ण को विस्मय से देख रहे हैं।",
+  "sanskritDevanagari": "रुद्रादित्या वसवो ये च साध्या\nविश्वेऽश्विनौ मरुतश्चोष्मपाश्च |\nगन्धर्वयक्षासुरसिद्धसङ्घा\nवीक्षन्ते त्वां विस्मिताश्चैव सर्वे ||११-२२||",
+  "transliteration": "rudrādityā vasavo ye ca sādhyā viśve.aśvinau marutaścoṣmapāśca .\ngandharvayakṣāsurasiddhasaṅghā vīkṣante tvāṃ vismitāścaiva sarve ||11-22||",
+  "wordByWord": [
+    {
+      "term": "ऊष्मपाः",
+      "meaning": "manes or ancestral beings in this edition"
+    },
+    {
+      "term": "गन्धर्वयक्षासुरसिद्धसङ्घाः",
+      "meaning": "hosts of Gandharvas, Yakshas, Asuras and perfected beings"
+    },
+    {
+      "term": "वीक्षन्ते",
+      "meaning": "look upon"
+    },
+    {
+      "term": "विस्मिताः",
+      "meaning": "astonished"
+    }
+  ],
+  "spokenHindi": "अर्जुन रुद्र, आदित्य, वसु, साध्य, विश्वेदेव, दोनों अश्विन, मरुत और पितरों का नाम लेते हैं। फिर गंधर्व, यक्ष, असुर और सिद्धों के समूह भी आते हैं। वे सभी आश्चर्य से कृष्ण को देख रहे हैं। कई श्रेणियों की यह लंबी ध्वनि विश्वरूप की व्यापकता सुनाती है। ऊष्मपाः को दिए गए संस्करण में पितरों के अर्थ में रखा गया है; उससे आज के किसी व्यक्ति की पहचान तय करना उचित नहीं। असुर भी इस दृश्य में देखने वाले समूह हैं। उन्हें वर्तमान समाज के विरोधी पक्ष का नाम बनाकर लोगों को अमानवीय ठहराना पाठ का जिम्मेदार उपयोग नहीं होगा। आश्चर्य इन अलग समूहों में साझा है, पर इस श्लोक में सबकी पूरी धार्मिक कहानी नहीं बताई गई। हमारा अभ्यास हो सकता है कि साझा अनुभव में भाग लेने वालों की विविधता को सुनें। किसी सभा या योजना को एक ही प्रकार के लोगों की बात समझकर न रोकें। जिनकी आवाज कम सुनी जाती है, उनके वास्तविक प्रश्न पूछें। यह समावेश का आधुनिक अनुप्रयोग है, विश्वरूप के सभी समूहों की बराबर सामाजिक व्याख्या नहीं।",
+  "clearEnglish": "A long list makes the reach of the vision audible: Rudras, Adityas, Vasus, Sadhyas, Visvedevas, the two Ashvins, Maruts, ancestral beings, and hosts of Gandharvas, Yakshas, Asuras and perfected ones. They all look on in astonishment. The supplied edition renders ushmapas through the manes or ancestors. The verse names sacred and mythic groups; it should not be used to classify present people as divine or demonic on the basis of disagreement. It also does not retell each group's history. Its narrative function is cumulative breadth, gathering many witnesses within one response of wonder. A modest contemporary application is to notice whose presence is missing from our account of a shared event. A meeting or community is rarely as uniform as a quick label suggests. Listening to a less-heard participant can make understanding more complete. This is an inclusion-oriented inference, not an assertion that every mythic category maps onto a social group today. Arjuna is describing the scope of those looking at Krishna.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna names many divine and mythic groups looking at Krishna in astonishment."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Attending to varied voices is an application; mythic categories should not dehumanize present people."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Hear a less-heard voice",
+      "text": "In one shared discussion, make room for a relevant participant who has spoken less. Ask for their view without deciding it in advance."
+    }
+  ],
+  "reflectionQuestion": "Whose presence does my quick account of a group leave out?",
+  "reflectionQuestionHindi": "किसी समूह का जल्दी दिया मेरा विवरण किन लोगों को छोड़ देता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

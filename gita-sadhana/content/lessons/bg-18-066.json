@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-066",
+  "sequenceNumber": 689,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 66,
+  "verseEnd": 66,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Taking refuge and releasing grief / शरण और शोक से राहत",
+  "context": "Krishna brings his final appeal to a single refuge and offers liberation from sin.",
+  "contextHindi": "कृष्ण अपने अंतिम आग्रह को एक शरण में समेटते हैं और पाप से मुक्ति का आश्वासन देते हैं।",
+  "sanskritDevanagari": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज |\nअहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ||१८-६६||",
+  "transliteration": "sarvadharmānparityajya māmekaṃ śaraṇaṃ vraja .\nahaṃ tvāṃ sarvapāpebhyo mokṣyayiṣyāmi mā śucaḥ ||18-66||",
+  "wordByWord": [
+    {
+      "term": "sarvadharmān parityajya",
+      "meaning": "having relinquished all dharmas or prescribed duties"
+    },
+    {
+      "term": "mām ekam",
+      "meaning": "me alone"
+    },
+    {
+      "term": "śaraṇaṃ vraja",
+      "meaning": "go for refuge"
+    },
+    {
+      "term": "sarvapāpebhyaḥ",
+      "meaning": "from all sins"
+    },
+    {
+      "term": "mā śucaḥ",
+      "meaning": "do not grieve"
+    }
+  ],
+  "spokenHindi": "यह गीता का बहुत गहरा और कभी कभी गलत इस्तेमाल होने वाला वाक्य है। कृष्ण अर्जुन से कहते हैं, सब धर्मों को छोड़कर केवल मेरी शरण में आओ; मैं तुम्हें सभी पापों से मुक्त करूँगा, शोक मत करो। सर्वधर्मान् में धर्म का अर्थ यहाँ कर्तव्य या धार्मिक मार्ग भी हो सकता है। इसलिए इसे जल्दी से ऐसा नियम बना देना ठीक नहीं कि किसी भी व्यक्ति की जिम्मेदारी, न्याय या दूसरों की सुरक्षा छोड़ दी जाए। पहले श्लोक के शब्द सुनें: शरण कृष्ण की है, किसी इंसानी अधिकारी की नहीं। उनका आश्वासन पाप और शोक के बारे में है; यह कर्मों के परिणाम छिपाने की छूट नहीं देता। अर्जुन से पहले कृष्ण ने सोचकर अपनी इच्छा से काम करने को भी कहा था। इस निकट प्रसंग से हम समझ सकते हैं कि आखिरी भरोसा उलझे हुए नियमों के भय से बड़ा हो सकता है। यह मेरी व्याख्या है। आज यदि गलती का बोझ है, तो उसका सामना करें, जहाँ उचित हो सुधार करें, और सहायता लेते हुए आशा बनाए रखें।",
+  "clearEnglish": "The wording is sweeping: relinquish all dharmas, seek refuge in me alone, and I will release you from all sins; do not grieve. Krishna addresses Arjuna after a long account of duty, discernment, and action. The verse therefore deserves slow reading. Dharma can carry senses of duty and religious obligation, while the command names Krishna as the refuge. The text does not appoint another human being to suspend ethical judgment on Krishna's behalf. Nor does a promise of release make harm inconsequential or erase responsibility to repair it. Those are boundaries for applying a devotional verse today, not extra clauses in its Sanskrit. In the immediate dialogue, Krishna has already asked Arjuna to reflect fully and then choose. A reasonable inference is that refuge can answer paralysis and moral fear without turning into careless abandonment. If one has done wrong, honest acknowledgement, appropriate restitution, and support can coexist with hope. The final words, do not grieve, address a person in anguish; they need not be used to silence someone else's pain.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna commands Arjuna to relinquish all dharmas and take refuge in him alone, promises release from all sins, and says not to grieve."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Trust may ease moral paralysis, but the verse cannot grant a human authority immunity from accountability or justify neglect of others' safety."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Hope with repair / आशा और सुधार",
+      "text": "If a past action weighs on you, identify one honest, safe step toward repair and one supportive person you can consult."
+    }
+  ],
+  "reflectionQuestion": "What responsibility can I face without surrendering hope?",
+  "reflectionQuestionHindi": "किस जिम्मेदारी का सामना मैं आशा छोड़े बिना कर सकता या सकती हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

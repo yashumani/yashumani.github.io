@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-016",
+  "sequenceNumber": 505,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 16,
+  "verseEnd": 16,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Near and far, subtle and pervasive / निकट दूर और सूक्ष्म उपस्थिति",
+  "context": "Krishna describes the knowable as inside and outside beings, moving and unmoving, subtle, near, and far.",
+  "contextHindi": "कृष्ण ज्ञेय को प्राणियों के भीतर बाहर, चर अचर, सूक्ष्म होने से अगोचर तथा दूर और निकट कहते हैं।",
+  "sanskritDevanagari": "बहिरन्तश्च भूतानामचरं चरमेव च |\nसूक्ष्मत्वात्तदविज्ञेयं दूरस्थं चान्तिके च तत् ||१३-१६||",
+  "transliteration": "bahirantaśca bhūtānāmacaraṃ carameva ca .\nsūkṣmatvāttadavijñeyaṃ dūrasthaṃ cāntike ca tat ||13-16||",
+  "wordByWord": [
+    {
+      "term": "bahir antaḥ",
+      "meaning": "outside and within"
+    },
+    {
+      "term": "acaram caram",
+      "meaning": "unmoving and moving"
+    },
+    {
+      "term": "sūkṣmatvāt",
+      "meaning": "because of subtlety"
+    },
+    {
+      "term": "avijñeyam",
+      "meaning": "not readily knowable, literally unknowable in this phrase"
+    },
+    {
+      "term": "antike",
+      "meaning": "near; निकट"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि वह प्राणियों के बाहर और भीतर है, अचर भी है और चर भी। सूक्ष्म होने से जानने में नहीं आता, और दूर भी है, निकट भी। यह वर्णन किसी वस्तु का साधारण पता बताने से अलग है। जो सबके भीतर और बाहर कहा जा रहा है, उसे केवल दूरी नापकर खोजने की कोशिश पर्याप्त नहीं होगी। पहले ज्ञेय का ज्ञान देने की बात आई थी, इसलिए यहाँ अगोचरता को पूरे अध्ययन की निरर्थकता न मान लें। सामान्य पकड़ की सीमा और सूक्ष्म विषय की कठिनाई सामने आती है। यह समझाने की व्याख्या है; श्लोक के सभी दार्शनिक पक्ष इससे समाप्त नहीं हो जाते। आधुनिक अभ्यास में भी कभी पास की घटना का अर्थ हम बिना ध्यान नहीं समझते। आज किसी परिचित व्यक्ति की बात ऐसे सुनें जैसे पहली बार सुन रहे हों। यह सुनने का अनुप्रयोग है, परम की अनुभूति का दावा नहीं। निकटता को जानकारी समझ लेने की आदत पर प्रश्न रखें और जो वास्तव में नहीं जानते उसे ईमानदारी से स्वीकारें।",
+  "clearEnglish": "The knowable is outside and within beings, both unmoving and moving, difficult to know through its subtlety, and both far and near. These descriptions resist treating it as an ordinary object whose location can simply be measured. The preceding promise to explain the knowable also matters: the language of unknowability here should not casually be used to declare every effort of understanding pointless. One interpretive direction is that ordinary grasp is inadequate to a subtle reality. That direction does not settle all philosophical questions raised by the verse. A limited everyday analogy is the difference between proximity and understanding. We may live close to someone yet fail to hear what their experience means. Attentive listening can challenge the assumption that familiarity already equals knowledge. This exercise is not a claim to perceive the Supreme. It merely makes the distinction between near in circumstance and understood in meaning more concrete. Let the unusual pairs remain invitations to careful inquiry rather than promises of a special experience on demand.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The knowable is inside and outside, moving and unmoving, subtle and not grasped, far and near."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The inadequacy of ordinary grasp is an interpretive direction; attentive listening provides only a limited analogy between proximity and understanding."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Listen carefully to a familiar person's account without assuming familiarity has already explained it."
+    }
+  ],
+  "reflectionQuestion": "Where have I mistaken closeness for understanding?",
+  "reflectionQuestionHindi": "मैंने कहाँ निकट होने को ही समझ लेने के बराबर मान लिया है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

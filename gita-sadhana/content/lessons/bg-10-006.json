@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-006",
+  "sequenceNumber": 378,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 6,
+  "verseEnd": 6,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "सृष्टि की ऋषि परंपरा / Sages within the cosmic account",
+  "context": "Krishna moves from qualities of beings to the sages and Manus associated with the world's populations.",
+  "contextHindi": "गुणों के बाद कृष्ण सृष्टि की प्रजा से जुड़े महर्षियों, प्राचीन चार और मनुओं का उल्लेख करते हैं।",
+  "sanskritDevanagari": "महर्षयः सप्त पूर्वे चत्वारो मनवस्तथा |\nमद्भावा मानसा जाता येषां लोक इमाः प्रजाः ||१०-६||",
+  "transliteration": "maharṣayaḥ sapta pūrve catvāro manavastathā .\nmadbhāvā mānasā jātā yeṣāṃ loka imāḥ prajāḥ ||10-6||",
+  "wordByWord": [
+    {
+      "term": "महर्षयः सप्त",
+      "meaning": "the seven great sages"
+    },
+    {
+      "term": "मनवः",
+      "meaning": "Manus, ancestral figures in the cosmic account"
+    },
+    {
+      "term": "मानसाः जाताः",
+      "meaning": "born of the mind"
+    },
+    {
+      "term": "प्रजाः",
+      "meaning": "creatures or populations"
+    }
+  ],
+  "spokenHindi": "यहाँ कृष्ण सात महर्षियों, प्राचीन चार और मनुओं का उल्लेख करते हैं। वे इन्हें अपने मन से जन्मा बताते हैं और कहते हैं कि संसार की ये प्रजाएँ उन्हीं से चली हैं। यह धार्मिक सृष्टि वर्णन की भाषा है। इसे आधुनिक जीवविज्ञान का विवरण बनाने की जरूरत नहीं। दिए गए संस्करण में इन आदिपुरुषों की शक्ति को भगवान में मन लगा रहने से जोड़ा गया है। श्लोक का मुख्य संबंध यह है कि सृष्टि को आगे बढ़ाने वाले पूज्य व्यक्तित्व भी स्वतंत्र अंतिम स्रोत नहीं हैं। उनका आधार भी कृष्ण हैं। इस बात से किसी वर्तमान परिवार, जाति या समुदाय की जन्मजात आध्यात्मिक श्रेष्ठता निकालना पाठ से आगे जाना होगा। हम एक सीमित व्यावहारिक संकेत ले सकते हैं: हमारा ज्ञान और जीवन बहुत से पहले आए लोगों की मदद पर टिका है। शिक्षक, देखभाल करने वाले और समाज की अनदेखी मेहनत को याद करना कृतज्ञता बढ़ा सकता है। साथ ही पुरानी परंपरा का सम्मान रखते हुए उसकी हर बात पर उचित प्रश्न पूछना संभव है। आदर और जांच एक दूसरे के विरोधी नहीं हैं।",
+  "clearEnglish": "The verse places ancestral figures inside Krishna's account of cosmic dependence. It names the seven great sages, the ancient four, and the Manus, says they were born of his mind, and associates them with the world's populations. Sivananda's rendering also describes their powers through minds fixed on the Lord. This is the vocabulary of sacred cosmology, not a modern account of biological inheritance. Its function in the chapter is to extend the claim of divine origin from qualities to the figures through whom creation unfolds. Care is needed when applying ancestral language to present society. Nothing here establishes that a contemporary lineage has greater spiritual worth or that inherited identity proves wisdom. A constructive inference concerns dependence across generations: learning, care and institutions reach us through people who came before us. Remembering those contributions can foster gratitude while leaving room to examine what should change. Respect for an inherited teaching does not require suspending judgment about its present use or treating a person's ancestry as their achievement.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna locates sages, the ancient four and Manus within a sacred account of beings originating from his mind."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Gratitude to predecessors is a possible application; hereditary superiority is not established by this verse."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Remember a contribution",
+      "text": "Name one teacher or caregiver whose effort supports your life. Acknowledge the contribution without assuming everything they taught was beyond question."
+    }
+  ],
+  "reflectionQuestion": "Whose earlier work do I rely on without noticing it?",
+  "reflectionQuestionHindi": "किन पहले आए लोगों की मेहनत पर मेरा जीवन टिका है, जिसे मैं अक्सर नहीं देखता?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

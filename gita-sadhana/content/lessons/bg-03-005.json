@@ -1,0 +1,67 @@
+{
+  "id": "bg-03-005",
+  "sequenceNumber": 124,
+  "date": "2026-10-05",
+  "chapter": 3,
+  "verseStart": 5,
+  "verseEnd": 5,
+  "chapterNameSanskrit": "कर्मयोग",
+  "chapterNameEnglish": "Karma Yoga",
+  "theme": "अवश कर्म और प्रकृति के गुण / Action under prakṛti and the guṇas",
+  "context": "Krishna is answering Arjuna’s doubt that wisdom should make action unnecessary. He explains that embodied life continues to act under the forces of prakṛti, so the real issue is not action itself but attachment, ego, and unawareness.",
+  "contextHindi": "कृष्ण अर्जुन के संदेह का उत्तर दे रहे हैं कि ज्ञान होने पर कर्म क्यों करना पड़ता है। वे कहते हैं कि देहधारी जीवन प्रकृति के गुणों से कर्म करता है, इसलिए सवाल कर्म नहीं, आसक्ति और अहंकार का है।",
+  "sanskritDevanagari": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् |\nकार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः ||३-५||",
+  "transliteration": "na hi kaścitkṣaṇamapi jātu tiṣṭhatyakarmakṛt .\nkāryate hyavaśaḥ karma sarvaḥ prakṛtijairguṇaiḥ ||3-5||",
+  "wordByWord": [
+    {
+      "term": "अकर्मकृत्",
+      "meaning": "one who does not perform action; one who remains without acting."
+    },
+    {
+      "term": "अवशः",
+      "meaning": "helplessly, under compulsion, without conscious mastery over the forces moving the body-mind."
+    },
+    {
+      "term": "प्रकृतिजैर्गुणैः",
+      "meaning": "by the guṇas born of prakṛti; the tendencies of nature that propel thought, desire, and activity."
+    }
+  ],
+  "spokenHindi": "यह श्लोक साफ़ बताता है कि मनुष्य किसी भी क्षण निष्क्रिय नहीं रह सकता, क्योंकि शरीर, मन, इन्द्रियाँ और प्रवृत्तियाँ प्रकृति के गुणों से चलती हैं। 'अवशः' का अर्थ है बिना अपने अहंकार को तर्कपूर्ण रूप से नियंत्रित किए, जैसे कोई नाव जल के प्रवाह में चली जाती है। इसलिए कर्म का निषेध केवल विचारों की शुद्धि नहीं है; जीवन का वास्तविक प्रश्न यह है कि हम किस भाव से कर्म करते हैं। यदि हम अपने काम को अहंकार, लोभ और आसक्ति के साथ करते हैं, तो वे हमें बँधन में डालते हैं; यदि हम उन्हें स्वभाव के अनुसार, बिना 'मैं' भाव के, सेवा और विवेक के साथ करते हैं, तो वे हमें ऊँचे स्तर तक ले जाते हैं। इसमें कोई यह समझे कि श्लोक 'अकर्म' का उपदेश नहीं देता; यह निष्क्रियता को नहीं, आसक्ति को अस्वीकार करता है।",
+  "clearEnglish": "Krishna is answering a practical question: if knowledge is higher, why not stop action altogether? He says that in ordinary embodied life, the guṇas of prakṛti keep the body-mind system moving. The point is not that all action is bondage, but that unawareness makes action mechanical. The ego says, “I am the doer”; the intellect then identifies with results and suffers. When the mind is dominated by rajas, tamas, and sattva, action emerges without genuine freedom. This verse does not deny liberation; it distinguishes liberation from inactivity. A liberated person may still act, but not as a self-claimed actor bound by desire. In modern terms, we are often driven by habit, fear, and reward cycles. Ethical work becomes conscious work: act, witness, and release the result.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse states that no embodied being can remain without action, because prakṛti's guṇas continuously activate body, mind, and impulse. The text is speaking about the mechanics of life, not a moral judgment that action is bad."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The practical conclusion is that freedom does not mean becoming inactive; it means acting without ownership, attachment, and egoic reactivity. When action is offered with clarity, it becomes a path rather than a trap."
+    },
+    {
+      "label": "COMMENTARY",
+      "explanation": "Traditional commentary often explains that the guṇas of rajas, tamas, and sattva propel action in embodied life. This helps explain the verse's framework, but it does not change the text's core teaching that the problem is not activity itself but attachment."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Pause before the task",
+      "text": "Before starting a task, ask: am I acting from fear, status, or compulsion, or from clarity and responsibility? If the answer is the former, slow down and reset attention."
+    }
+  ],
+  "reflectionQuestion": "When I feel driven by habit or urgency, what part of me is acting from ego rather than awareness?",
+  "reflectionQuestionHindi": "जब मैं आदत या जल्दबाज़ी से प्रेरित होता हूँ, तब मेरे भीतर क्या अहंकार से, जागरूकता के बजाय, काम कर रहा होता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

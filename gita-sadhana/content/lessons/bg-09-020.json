@@ -1,0 +1,75 @@
+{
+  "id": "bg-09-020",
+  "sequenceNumber": 358,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 20,
+  "verseEnd": 20,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "स्वर्ग चाहने वाले वैदिक उपासक | Vedic worshippers seeking heaven",
+  "context": "Krishna describes knowers of the three Vedas who worship through sacrifice and seek heavenly enjoyment.",
+  "contextHindi": "कृष्ण तीन वेदों के ज्ञाता, यज्ञ करने वाले और स्वर्ग चाहने वाले उपासकों का वर्णन करते हैं।",
+  "sanskritDevanagari": "त्रैविद्या मां सोमपाः पूतपापा\nयज्ञैरिष्ट्वा स्वर्गतिं प्रार्थयन्ते |\nते पुण्यमासाद्य सुरेन्द्रलोक-\nमश्नन्ति दिव्यान्दिवि देवभोगान् ||९-२०||",
+  "transliteration": "traividyā māṃ somapāḥ pūtapāpā yajñairiṣṭvā svargatiṃ prārthayante .\nte puṇyamāsādya surendralokaṃ aśnanti divyāndivi devabhogān ||9-20||",
+  "wordByWord": [
+    {
+      "term": "त्रैविद्याः",
+      "meaning": "Knowers of the three Vedas."
+    },
+    {
+      "term": "सोमपाः",
+      "meaning": "Drinkers of Soma."
+    },
+    {
+      "term": "पूतपापाः",
+      "meaning": "Purified of sins."
+    },
+    {
+      "term": "स्वर्गतिम्",
+      "meaning": "The way to heaven."
+    },
+    {
+      "term": "सुरेन्द्रलोकम्",
+      "meaning": "The world of the Lord of the gods."
+    },
+    {
+      "term": "देवभोगान्",
+      "meaning": "Pleasures of the gods."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि तीन वेदों के ज्ञाता, सोम पीने वाले और पापों से शुद्ध लोग यज्ञों से उनकी उपासना करके स्वर्ग की गति माँगते हैं। वे देवताओं के अधिपति के पवित्र लोक में पहुँचकर दिव्य भोग लेते हैं। सूची में सोमपान और पापशुद्धि भी आए हैं; केवल विद्वान लोग कहकर इन अंगों को छोड़ देना अधूरा होगा। फिर भी यह वर्णन किसी वर्तमान व्यक्ति को कोई पदार्थ लेने की सलाह नहीं है। वाक्य यज्ञ के वैदिक संदर्भ में है। यहाँ स्वर्ग के सुख की प्राप्ति कही गई है। उसका अंत और लौटना अभी इस पंक्ति में नहीं बताया गया; वह आगे की चर्चा है। अपने अभ्यास में हम उपासना की आशा को साफ़ नाम दे सकते हैं। क्या किसी फल की इच्छा है? उसे छिपाकर अपने को पूरी तरह निष्काम घोषित करना आवश्यक नहीं। लेकिन इच्छा होने से हर साधन उचित नहीं हो जाता। यह हमारा नैतिक निष्कर्ष है। आज किसी प्रार्थना के पीछे की आशा लिखें और देखें कि उसे पाने का आपका प्रयास दूसरों के प्रति जिम्मेदार है या नहीं।",
+  "clearEnglish": "The people described are knowers of the three Vedas, drinkers of Soma, and purified of sins. They worship Krishna through sacrifices and pray for heaven, then reach the holy world of the Lord of the gods and enjoy divine pleasures. Each qualification belongs to the verse's ritual setting. Calling them merely educated seekers would omit Soma and purification; calling the passage advice to ingest a substance would turn a description into an instruction it does not give. The verse explicitly describes heavenly enjoyment. Its exhaustion and return are the next part of the discussion, rather than a conclusion stated in this sentence. A contemporary reflection can examine the hope behind worship without disguising it as entirely selfless. Naming a desired result makes the motive clearer, but it does not automatically approve every means of pursuing it. The text's ritual account and our ethical reflection should remain separate. For present practice, one can identify a hoped-for benefit and assess whether the corresponding effort respects others, while allowing the source's theological sequence to unfold.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Knowers of the three Vedas, Soma drinkers, purified of sins, worship Krishna through sacrifices, seek heaven, and enjoy divine pleasures in the gods' lord's world."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A reader can name the desired result behind worship honestly; the description is not a substance-use instruction or approval of every means."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Name the hope",
+      "text": "Write one hoped-for result behind a prayer and consider whether your practical pursuit of it respects others."
+    }
+  ],
+  "reflectionQuestion": "What result do I seek, and how responsibly do I pursue it?",
+  "reflectionQuestionHindi": "मैं कौन-सा फल चाहता हूँ और उसे पाने का प्रयास कितना जिम्मेदार है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-033",
+  "sequenceNumber": 656,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 33,
+  "verseEnd": 33,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Steadiness that gathers attention / ध्यान को सँभालती धृति",
+  "context": "Krishna describes sattvic firmness after distinguishing the three kinds of intellect.",
+  "contextHindi": "बुद्धि के भेद के बाद कृष्ण मन, प्राण और इंद्रियों की क्रियाओं को योग से सँभालने वाली सात्त्विक धृति बताते हैं।",
+  "sanskritDevanagari": "धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः |\nयोगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी ||१८-३३||",
+  "transliteration": "dhṛtyā yayā dhārayate manaḥprāṇendriyakriyāḥ .\nyogenāvyabhicāriṇyā dhṛtiḥ sā pārtha sāttvikī ||18-33||",
+  "wordByWord": [
+    {
+      "term": "dhṛtiḥ",
+      "meaning": "firmness or sustaining resolve"
+    },
+    {
+      "term": "dhārayate",
+      "meaning": "holds or sustains"
+    },
+    {
+      "term": "manaḥprāṇendriyakriyāḥ",
+      "meaning": "functions of mind, vital force, and senses"
+    },
+    {
+      "term": "avyabhicāriṇyā",
+      "meaning": "unwavering"
+    },
+    {
+      "term": "yogena",
+      "meaning": "through yoga"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जिस अविचल धृति से योग के द्वारा मन, प्राण और इंद्रियों की क्रियाएँ सँभाली जाती हैं, वह सात्त्विक है। धृति केवल दाँत भींचकर किसी काम पर टिकना नहीं; उसके साथ योग की दिशा रखी गई है। पहले बुद्धि सही और गलत दिशा पहचानने का विषय थी। अब पहचानी दिशा में टिकने की क्षमता सामने आती है। मन भटकता है, इंद्रियाँ नई बात पकड़ती हैं और हमारी ऊर्जा बदलती रहती है। आज का छोटा अनुप्रयोग चुने हुए काम पर ध्यान लौटाने का अभ्यास हो सकता है। यह श्लोक में दी हुई समय विधि नहीं, रोजमर्रा की तुलना है। प्राण का उल्लेख अपने आप कोई विशेष साँस रोकने का निर्देश नहीं देता। सुरक्षित और साधारण तरीका रखें: काम का उद्देश्य याद करें, अनावश्यक बाधा कम करें और थकान हो तो उचित विराम लें। अविचलता को हर विचलन पर आत्मदंड में न बदलें। जरूरी दिशा में लौटने की ईमानदार कोशिश उत्साह और देखभाल के साथ चल सकती है।",
+  "clearEnglish": "Sattvic firmness sustains or restrains the functions of mind, vital force, and senses through unwavering yoga. Krishna has just distinguished kinds of intellect, so resolve now concerns remaining with a discerned direction rather than persistence alone. A person can persist intensely in an unhelpful aim; this verse links steadiness with a yogic orientation. A modest contemporary practice is to return attention to one chosen responsibility after distraction. Reducing a needless interruption and remembering the task's purpose can make the return concrete. These are applications, not a schedule prescribed in the Sanskrit. The reference to vital force also supplies no particular breath-retention exercise or healthcare technique. Practice should remain safe and proportionate to capacity. An appropriate break need not contradict steadiness when it supports responsible continuation. The teaching can help distinguish a stable commitment from harsh insistence on flawless performance. The aim is to gather activity around understanding, while acknowledging that ordinary concentration develops through repeated, patient returns.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Firmness that holds mind, vital force, and sensory functions through unwavering yoga is called sattvic."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Returning attention to a chosen responsibility is a practical adaptation; no breathing technique or demand for flawless concentration is stated."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Choose one brief task, reduce one distraction, and return to its purpose gently when attention wanders."
+    }
+  ],
+  "reflectionQuestion": "Is my persistence guided by understanding or only by pressure to continue?",
+  "reflectionQuestionHindi": "मेरे टिके रहने को समझ दिशा दे रही है या केवल चलते रहने का दबाव?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

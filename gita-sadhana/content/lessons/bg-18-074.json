@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-074",
+  "sequenceNumber": 697,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 74,
+  "verseEnd": 74,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Sanjaya reports the dialogue / संजय संवाद सुनाता है",
+  "context": "The narration returns to Sanjaya, who tells Dhritarashtra what he has heard between Krishna and Arjuna.",
+  "contextHindi": "अब कथा संजय की आवाज में लौटती है; वह धृतराष्ट्र को कृष्ण और अर्जुन के संवाद का अनुभव बताता है।",
+  "sanskritDevanagari": "सञ्जय उवाच |\nइत्यहं वासुदेवस्य पार्थस्य च महात्मनः |\nसंवादमिममश्रौषमद्भुतं रोमहर्षणम् ||१८-७४||",
+  "transliteration": "sañjaya uvāca .\nityahaṃ vāsudevasya pārthasya ca mahātmanaḥ .\nsaṃvādamimamaśrauṣamadbhutaṃ romaharṣaṇam ||18-74||",
+  "wordByWord": [
+    {
+      "term": "sañjaya uvāca",
+      "meaning": "Sanjaya said"
+    },
+    {
+      "term": "saṃvādam",
+      "meaning": "dialogue or conversation"
+    },
+    {
+      "term": "aśrauṣam",
+      "meaning": "I heard"
+    },
+    {
+      "term": "adbhutam",
+      "meaning": "wonderful or astonishing"
+    },
+    {
+      "term": "romaharṣaṇam",
+      "meaning": "making the hairs stand on end"
+    }
+  ],
+  "spokenHindi": "अब अर्जुन का उत्तर पूरा हुआ और बोलने वाला संजय है। वह धृतराष्ट्र को बताता है कि उसने वासुदेव कृष्ण और महान आत्मा अर्जुन का यह अद्भुत संवाद सुना, जिसे सुनकर रोंगटे खड़े हो जाते हैं। इस वाक्य में संजय अपने सुनने का दावा करता है और अपना भाव भी बताता है। रोमहर्षणम् कोई नया आदेश या दर्शन का सिद्धांत नहीं; वह इस बातचीत के असर का सजीव वर्णन है। संवादम् शब्द भी महत्वपूर्ण है। इतने अध्यायों में केवल एक वक्ता की आवाज नहीं चली: अर्जुन की उलझन और सवालों ने शिक्षण को आकार दिया। संजय स्वयं इन दोनों का साक्षी और कथावाचक है। हम आज किसी महत्वपूर्ण बातचीत को याद करते समय यह फर्क रख सकते हैं कि क्या कहा गया था और हम पर उसका क्या असर पड़ा। यह श्लोक से निकला व्यावहारिक अनुमान है। भावनात्मक तीव्रता किसी कथन को अपने आप सही सिद्ध नहीं करती, पर वह हमें ध्यान से देखने को बुला सकती है। संजय की विस्मय भरी गवाही में इसी सुनने की गंभीरता को जगह मिलती है।",
+  "clearEnglish": "Sanjaya takes over the narration after Arjuna's response. Speaking to Dhritarashtra, he says he heard the astonishing dialogue of Vasudeva and the great souled Partha, a conversation that made his hair stand on end. The verse is testimony from a listener within the story. It does not put a new instruction in Krishna's mouth. Both 'I heard' and the physical image of hair rising matter: Sanjaya names the event and the effect it had on him. The term saṃvāda also reminds us that the teaching took shape through two voices, including Arjuna's questions. We can infer a useful distinction for our own recollection of powerful exchanges: record what was said, then separately describe how it affected us. A strong feeling can invite attention without proving every interpretation true. Sanjaya's response is not a test that every reader must share; some may be moved quietly or have difficult questions. His wonder serves as the narrative bridge from Arjuna's renewed steadiness to the closing account of how this dialogue was heard.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Sanjaya says he heard the astonishing, hair raising dialogue of Krishna and Arjuna."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Separating a conversation's words from one's emotional response can help honest reflection; Sanjaya does not require identical feelings from all listeners."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Words and response / बात और असर",
+      "text": "Recall a meaningful conversation and write one sentence about what was said and another about how you felt."
+    }
+  ],
+  "reflectionQuestion": "Which part of a conversation moved me, and what exactly was said?",
+  "reflectionQuestionHindi": "किस बातचीत ने मुझे छुआ, और उसमें ठीक ठीक क्या कहा गया था?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

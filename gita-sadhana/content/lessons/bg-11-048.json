@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-048",
+  "sequenceNumber": 462,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 48,
+  "verseEnd": 48,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "साधनों की सीमा / The limits of prescribed means",
+  "context": "Krishna says study, sacrifices, gifts, rituals and severe austerities do not make this form available to others in the human world.",
+  "contextHindi": "कृष्ण इस रूप के दर्शन के लिए अध्ययन, दान, कर्मकांड और उग्र तप की सीमा बताते हैं।",
+  "sanskritDevanagari": "न वेदयज्ञाध्ययनैर्न दानैर्-\nन च क्रियाभिर्न तपोभिरुग्रैः |\nएवंरूपः शक्य अहं नृलोके\nद्रष्टुं त्वदन्येन कुरुप्रवीर ||११-४८||",
+  "transliteration": "na vedayajñādhyayanairna dānaira- na ca kriyābhirna tapobhirugraiḥ .\nevaṃrūpaḥ śakya ahaṃ nṛloke draṣṭuṃ tvadanyena kurupravīra ||11-48||",
+  "wordByWord": [
+    {
+      "term": "वेदयज्ञाध्ययनैः",
+      "meaning": "through study of Vedas and sacrifices"
+    },
+    {
+      "term": "दानैः",
+      "meaning": "through gifts"
+    },
+    {
+      "term": "क्रियाभिः",
+      "meaning": "through rites or actions"
+    },
+    {
+      "term": "तपोभिः उग्रैः",
+      "meaning": "through severe austerities"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि वेद और यज्ञ के अध्ययन, दान, क्रियाओं या उग्र तप से मानव जगत में अर्जुन के अलावा कोई उन्हें इस रूप में नहीं देख सकता। एवंरूपः की सीमा महत्वपूर्ण है: बात इस विशिष्ट दर्शन की है। इससे पढ़ाई, सहायता या सभी धार्मिक अभ्यास बिल्कुल बेकार हैं, ऐसा सार्वभौमिक निष्कर्ष नहीं निकलता। सूची में उग्र तप भी है, इसलिए शरीर को अत्यधिक कठिनाई में डालकर असाधारण दर्शन खरीदने की धारणा को यहाँ सहारा नहीं मिलता। साधन और फल को व्यापार की तरह जोड़ना इस कथन से कमजोर पड़ता है। आगे भक्ति की चर्चा आएगी; हम उसे अभी पूरी विधि बनाकर जोड़ने की जल्दी न करें। हमारा अनुप्रयोग किसी अच्छे काम को विशेष अनुभव की कीमत न बनाना हो सकता है। दान दें तो वास्तविक जरूरत के लिए, पढ़ें तो समझ के लिए। सफलता न दिखे तो अपने पर और कठोर नियम थोपना जरूरी नहीं। यह हमारी आधुनिक दिशा है। कृष्ण का कथन अपने अभी दिखाए हुए दिव्य रूप की उपलब्धता और अनुग्रह के विशेष संदर्भ में है।",
+  "clearEnglish": "Krishna limits the efficacy of several means for this particular vision: study of the Vedas and sacrifices, gifts, rituals and severe austerities. In the human world, he says, no one other than Arjuna can see him in this form through them. Evamrupah, in this form, prevents a sweeping conclusion that study, generosity or all practice is worthless. The statement concerns access to the exceptional disclosure just granted. Severe austerity is explicitly included, so escalating bodily hardship is not supported as a way to purchase the vision. A modern application is to separate useful action from an attempted transaction for a special experience. Give because assistance is needed; study because understanding matters. If no extraordinary feeling follows, harsher self-imposed demands are not the only response. This is our practical extension, not a complete doctrine of grace. Devotion will be discussed later, and should not be taught in full before its assigned verses. Here Krishna marks the limits of the named means in relation to this form.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says the listed means do not give others access to this specific form in the human world."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Useful study and generosity need not be transactions for special experiences; escalating hardship is not warranted."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Restore a practice's purpose",
+      "text": "Choose one act of study or generosity for its direct value today, without requiring an extraordinary feeling as payment."
+    }
+  ],
+  "reflectionQuestion": "Am I making a useful practice depend on receiving a special experience?",
+  "reflectionQuestionHindi": "क्या मैं उपयोगी अभ्यास का मूल्य किसी विशेष अनुभव मिलने पर निर्भर कर रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

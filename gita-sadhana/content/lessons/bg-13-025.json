@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-025",
+  "sequenceNumber": 514,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 25,
+  "verseEnd": 25,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Several approaches to self-knowledge / आत्मज्ञान की अनेक दिशाएँ",
+  "context": "Krishna names meditation, knowledge-oriented yoga, and action-oriented yoga as approaches to seeing the Self.",
+  "contextHindi": "कृष्ण आत्मदर्शन के लिए ध्यान, ज्ञान की योग दिशा और कर्मयोग के अलग मार्ग बताते हैं।",
+  "sanskritDevanagari": "ध्यानेनात्मनि पश्यन्ति केचिदात्मानमात्मना |\nअन्ये साङ्ख्येन योगेन कर्मयोगेन चापरे ||१३-२५||",
+  "transliteration": "dhyānenātmani paśyanti kecidātmānamātmanā .\nanye sāṅkhyena yogena karmayogena cāpare ||13-25||",
+  "wordByWord": [
+    {
+      "term": "dhyānena",
+      "meaning": "through meditation"
+    },
+    {
+      "term": "ātmanā",
+      "meaning": "by the self"
+    },
+    {
+      "term": "sāṅkhyena yogena",
+      "meaning": "through knowledge-oriented yoga in the supplied reading"
+    },
+    {
+      "term": "karmayogena",
+      "meaning": "through yoga of action"
+    },
+    {
+      "term": "kecit",
+      "meaning": "some; कुछ"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि कुछ लोग ध्यान से अपने द्वारा अपने भीतर आत्मा को देखते हैं, कुछ ज्ञान की योग दिशा से और कुछ कर्मयोग से। श्लोक अलग साधना रूपों को साथ रखता है। इसलिए केवल एक बाहरी तरीका देखकर बाकी अभ्यासियों को अस्वीकार करना इस वाक्य की सहज दिशा नहीं। दिए गए संस्करण में सांख्य योग को ज्ञान के योग के रूप में अनूदित किया गया है। ध्यान, विवेकपूर्ण समझ और कर्म का मार्ग यहाँ आत्मज्ञान के संदर्भ में आते हैं; कोई भी सामान्य गतिविधि अपने आप पूर्ण साधना घोषित नहीं होती। आज अपने लिए छोटी दिशा चुन सकते हैं: कुछ शांत निरीक्षण, एक सवाल का अध्ययन या स्वार्थ की पकड़ घटाकर जरूरी काम। यह आधुनिक अनुप्रयोग है, आत्मदर्शन की गारंटी नहीं। किसी दूसरे का रास्ता अलग हो तो पहले उसके उद्देश्य और आचरण को समझें। अपनी क्षमता के अनुसार अभ्यास चुनना आलस्य का बहाना नहीं, ईमानदार शुरुआत हो सकता है। मार्गों की विविधता सम्मान और गंभीरता दोनों माँगती है, केवल पसंद का नाम लगा लेने से समझ पूरी नहीं होती।",
+  "clearEnglish": "Krishna names several approaches to seeing the Self: meditation, the yoga of knowledge in the supplied edition's rendering, and the yoga of action. The variety belongs within a shared spiritual aim, so outward difference alone is not a sufficient reason to dismiss another practice. At the same time, the verse does not declare that any activity whatsoever automatically produces self-realization. Meditation, inquiry, and action acquire their significance through orientation and practice. A contemporary exercise is to choose one attainable form for today: quiet observation, careful study of a question, or responsible work undertaken with less demand for personal credit. These are modest applications, not guarantees of the attainment described. A different approach in another person's life can be met with curiosity about its purpose and conduct. This keeps respect from becoming indifference to quality. Variety does not abolish seriousness; it suggests that the path of understanding can be expressed through more than one kind of disciplined engagement.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Some see the Self through meditation, others through knowledge-oriented yoga, and others through karma yoga."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Choosing one attainable practice and respecting different forms applies the variety without declaring every activity spiritually sufficient."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Choose one small act of quiet observation, careful inquiry, or responsible service and give it full attention."
+    }
+  ],
+  "reflectionQuestion": "Which form of sincere practice is attainable for me today?",
+  "reflectionQuestionHindi": "आज मेरे लिए ईमानदार अभ्यास का कौन सा रूप संभव है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

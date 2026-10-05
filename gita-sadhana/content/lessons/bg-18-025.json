@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-025",
+  "sequenceNumber": 648,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 25,
+  "verseEnd": 25,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "परिणाम अनदेखे न करें / Action without regard for harm",
+  "context": "Krishna defines tamasic action as begun through delusion without regard for consequences, loss, injury, or capacity.",
+  "contextHindi": "कृष्ण भ्रम से, परिणाम, हानि, हिंसा और क्षमता का ध्यान बिना शुरू किए कर्म को तामसिक बताते हैं।",
+  "sanskritDevanagari": "अनुबन्धं क्षयं हिंसामनपेक्ष्य च पौरुषम् |\nमोहादारभ्यते कर्म यत्तत्तामसमुच्यते ||१८-२५||",
+  "transliteration": "anubandhaṃ kṣayaṃ hiṃsāmanapekṣya ca pauruṣam .\nmohādārabhyate karma yattattāmasamucyate ||18-25||",
+  "wordByWord": [
+    {
+      "term": "anubandham",
+      "meaning": "Consequences or ensuing effects"
+    },
+    {
+      "term": "kṣayam",
+      "meaning": "Loss or depletion"
+    },
+    {
+      "term": "hiṃsām",
+      "meaning": "Injury or harm"
+    },
+    {
+      "term": "anapekṣya",
+      "meaning": "Without regard; pinned reading retained"
+    }
+  ],
+  "spokenHindi": "कृष्ण तामसिक कर्म में भ्रम से शुरुआत और परिणाम, नुकसान, हिंसा तथा क्षमता की अनदेखी बताते हैं। यह सूची हमारे ध्यान को योजना की जिम्मेदारी पर लाती है। केवल उत्साह या निश्चय से काम उचित नहीं हो जाता। यदि हम संभावित असर नहीं देखते, तो अपने और दूसरों के लिए कठिनाई बना सकते हैं। एक पाठ संबंधी अंतर भी है: दिए पाठ में अनपेक्ष्य है, स्रोत के रोमन पाठ में अनवेक्ष्य है। दोनों इस प्रसंग में ध्यान या विचार न करने की दिशा बताते हैं; दिया मूल पाठ बदला नहीं गया है। आधुनिक अभ्यास में किसी योजना से पहले लागत, प्रभावित व्यक्ति और अपनी वास्तविक क्षमता देखें। यह श्लोक का नया नियम नहीं, उसके वर्णन का अनुप्रयोग है। हर परिणाम पहले से जानना सम्भव नहीं, लेकिन स्पष्ट जोखिम को छोड़ देना अलग बात है। आज कोई छोटा निर्णय लें और पूछें कि क्या नुकसान रोकने का आसान कदम उपलब्ध है। जहां जानकारी कम है, उसे मानें। काम शुरू करने से पहले जांच या सहायता लेना कमजोरी नहीं, जिम्मेदार तैयारी हो सकती है।",
+  "clearEnglish": "Krishna calls action tamasic when it begins through delusion without regard for consequences, loss, injury, and one's capacity. The description concerns neglected considerations, not merely an unfavourable result. Some outcomes cannot be predicted; ignoring an evident risk is a different matter. A wording difference should be visible: the pinned text reads anapekṣya, while DLS's Roman line reads anavekshya. Both support the contextual sense of disregarding these factors, and the canonical field remains unchanged. A contemporary application can examine costs, affected people, and actual ability before beginning a project. That is an application rather than a promise that planning prevents every difficulty. For one decision, name a foreseeable harm and one available precaution. If information is missing, acknowledge the uncertainty instead of treating determination as evidence. Seeking assistance or adjusting the scale may be the responsible response. The aim is not paralysis but action that remains answerable to consequences rather than hiding them behind enthusiasm.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes tamasic action as begun in delusion without regard for consequences, loss, injury, and capacity; the pinned anapekṣya differs from DLS anavekshya."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Checking foreseeable harm and capacity is a modern application; uncertainty need not prevent every action."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "One foreseeable risk",
+      "text": "Before one decision, name a foreseeable harm, your actual capacity, and one available precaution."
+    }
+  ],
+  "reflectionQuestion": "Which consequence have I avoided considering?",
+  "reflectionQuestionHindi": "किस परिणाम पर विचार करने से मैं बच रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

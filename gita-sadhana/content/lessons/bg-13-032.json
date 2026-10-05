@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-032",
+  "sequenceNumber": 521,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 32,
+  "verseEnd": 32,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Unchanging Self without taint / निर्विकार आत्मा और निर्लिप्तता",
+  "context": "Krishna explains the Supreme Self's nonacting and untainted character through beginninglessness and freedom from qualities.",
+  "contextHindi": "कृष्ण अनादि और निर्गुण होने से अव्यय परमात्मा को देह में रहते हुए भी अकर्ता तथा निर्लिप्त कहते हैं।",
+  "sanskritDevanagari": "अनादित्वान्निर्गुणत्वात्परमात्मायमव्ययः |\nशरीरस्थोऽपि कौन्तेय न करोति न लिप्यते ||१३-३२||",
+  "transliteration": "anāditvānnirguṇatvātparamātmāyamavyayaḥ .\nśarīrastho.api kaunteya na karoti na lipyate ||13-32||",
+  "wordByWord": [
+    {
+      "term": "anāditvāt",
+      "meaning": "because of beginninglessness"
+    },
+    {
+      "term": "nirguṇatvāt",
+      "meaning": "because of being without qualities"
+    },
+    {
+      "term": "avyayaḥ",
+      "meaning": "imperishable; अव्यय"
+    },
+    {
+      "term": "na karoti",
+      "meaning": "does not act"
+    },
+    {
+      "term": "na lipyate",
+      "meaning": "is not tainted"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि यह परमात्मा अनादि और निर्गुण होने से अव्यय है। शरीर में स्थित होकर भी वह न कर्म करता है, न लिप्त होता है। पिछले श्लोक की अकर्तृता अब उसके कारणों के साथ आती है। निर्गुण को नैतिक भलाई से खाली होने का अर्थ न दें; संदर्भ प्रकृति के गुणों से परे होने का है। शरीर में स्थिति और शरीर की हर बदलती क्रिया से पूरी समानता यहाँ अलग रखी गई हैं। यह आध्यात्मिक स्वरूप का दावा है। व्यवहार में ‘मैं निर्लिप्त हूँ’ कहकर गलत काम की आलोचना या सुधार से बचना उसका जिम्मेदार उपयोग नहीं। अपने दिन के लिए छोटी दिशा यह हो सकती है कि किसी गलती को पूरा परिचय बनाए बिना उसका सच स्वीकारें। शर्म में डूबकर खुद को सदा खराब कहना भी सुधार नहीं करता। यह आधुनिक अनुप्रयोग है, परमात्मा की अनुभूति का प्रमाण नहीं। गलती के तथ्य देखें, जरूरी मरम्मत करें और आगे अधिक सावधान परिस्थिति बनाएँ। गहरे आधार पर चिंतन व्यवहार की ईमानदारी के साथ चल सकता है।",
+  "clearEnglish": "Because the Supreme Self is beginningless and without qualities, it is imperishable; although present in the body, it neither acts nor is tainted. Krishna now gives reasons for the nonagency described earlier. Qualitylessness concerns the relation to Nature's gunas, not absence of ethical virtues. The teaching distinguishes indwelling presence from being wholly identified with every changing bodily process. That is a spiritual claim, and it should not become a declaration of immunity from criticism or responsibility. A contemporary application is to acknowledge a mistake without making it the permanent definition of the whole person. Accountability requires accurate recognition and repair; total self-condemnation does not add clarity to either. This exercise does not establish realization of the untainted Self. It allows reflection on a deeper ground to coexist with honest conduct. Attend to the actual harm, take a proportionate corrective step, and improve the conditions for future action instead of using metaphysical language to bypass the practical situation.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Beginningless and qualityless, the imperishable Supreme Self neither acts nor is tainted even while dwelling in the body."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Acknowledging mistakes without total self-condemnation is an application, not immunity from criticism or a claim to realization."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Describe one mistake factually, make a proportionate repair, and avoid turning it into a fixed identity."
+    }
+  ],
+  "reflectionQuestion": "Can I accept accountability without making one action the whole of who I am?",
+  "reflectionQuestionHindi": "क्या एक कर्म को अपना पूरा परिचय बनाए बिना उसकी जिम्मेदारी स्वीकार सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

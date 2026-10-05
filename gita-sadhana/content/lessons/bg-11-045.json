@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-045",
+  "sequenceNumber": 459,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 45,
+  "verseEnd": 45,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "आनंद और भय का स्पष्ट स्वीकार / Delight and fear together",
+  "context": "Arjuna says the unprecedented vision delights him and frightens his mind, then asks to see the former form.",
+  "contextHindi": "अर्जुन अनदेखे दर्शन से आनंदित हैं, फिर भी भय से व्यथित; वे पहले वाला रूप देखने की प्रार्थना करते हैं।",
+  "sanskritDevanagari": "अदृष्टपूर्वं हृषितोऽस्मि दृष्ट्वा\nभयेन च प्रव्यथितं मनो मे |\nतदेव मे दर्शय देव रूपं\nप्रसीद देवेश जगन्निवास ||११-४५||",
+  "transliteration": "adṛṣṭapūrvaṃ hṛṣito.asmi dṛṣṭvā bhayena ca pravyathitaṃ mano me .\ntadeva me darśaya deva rūpaṃ prasīda deveśa jagannivāsa ||11-45||",
+  "wordByWord": [
+    {
+      "term": "अदृष्टपूर्वम्",
+      "meaning": "never seen before"
+    },
+    {
+      "term": "हृषितः",
+      "meaning": "delighted"
+    },
+    {
+      "term": "भयेन प्रव्यथितम्",
+      "meaning": "deeply shaken by fear"
+    },
+    {
+      "term": "तदेव रूपम्",
+      "meaning": "that former form"
+    }
+  ],
+  "spokenHindi": "अर्जुन साफ कहते हैं कि पहले कभी न देखा रूप देखकर वे आनंदित हैं, और फिर भी उनका मन भय से व्यथित है। वे कृष्ण से पहले वाला रूप दिखाने और कृपा करने को कहते हैं। आनंद और डर को एक साथ कहना इस अध्याय की खास ईमानदारी है। उन्हें एक चुनकर दूसरा झुठलाना नहीं पड़ता। तदेव रूपम् उस परिचित रूप की ओर लौटने की इच्छा है; अगले श्लोक में वे और विशेषता बताएँगे। यहाँ उनकी सीमा का सम्मान करने वाला अनुरोध सामने है। हमारा दैनिक उपयोग किसी मूल्यवान अनुभव के बीच भी विराम चाहने की स्वतंत्रता हो सकता है। पसंद होने का मतलब यह नहीं कि हम उसकी हर तीव्रता अभी सहन कर सकते हैं। कोई अध्ययन या बातचीत उपयोगी हो, फिर भी कहना कि मुझे अभी थोड़ा रुकना है, उचित हो सकता है। यह आध्यात्मिक असफलता का प्रमाण नहीं। एक सुरक्षित परिचित गतिविधि की ओर लौटें और जरूरत हो तो सहयोग लें। यह सामान्य जीवन का अनुप्रयोग है, अर्जुन के दिव्य अनुभव की नकल नहीं।",
+  "clearEnglish": "Arjuna explicitly states two responses: delight at an unprecedented sight and a mind troubled by fear. He then asks Krishna to show the former form and be gracious. The coexistence matters. A meaningful experience does not have to produce only comfort, and appreciating it does not prevent a request for a change in intensity. Tadeva rupam points toward a return to the earlier form; the next verse will specify the desired features further. This verse keeps the request at the level of a former, familiar presentation. A modern application is permission to pause within something valued. A useful conversation, course of study or event may still be more than one can comfortably receive at the moment. State that limit clearly and choose an ordinary familiar activity or support. This is not an equation with Arjuna's extraordinary vision. It is a modest practice in acknowledging capacity. The text records his delight, fear and appeal together, without treating the request as a failure of devotion.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna reports both delight and fear, then asks for the former form and divine grace."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Valuing an experience can coexist with requesting a pause; the request need not signify failed commitment."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Pause within something valued",
+      "text": "If a useful activity feels too intense, state a brief pause or change you need. Return to a familiar safe activity and resume only when comfortable."
+    }
+  ],
+  "reflectionQuestion": "Can I value something and still ask for a gentler pace?",
+  "reflectionQuestionHindi": "क्या मैं किसी बात का महत्व मानते हुए उसकी धीमी गति भी माँग सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

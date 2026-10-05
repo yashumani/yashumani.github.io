@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-037",
+  "sequenceNumber": 660,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 37,
+  "verseEnd": 37,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Clarity that ripens into fulfilment / स्पष्टता से पकता संतोष",
+  "context": "Krishna describes sattvic pleasure as initially like poison, later like nectar, and arising from clarity of the self-oriented intellect.",
+  "contextHindi": "कृष्ण सात्त्विक सुख को पहले विष जैसा, परिणाम में अमृत जैसा और आत्मबुद्धि के प्रसाद से जन्मा बताते हैं।",
+  "sanskritDevanagari": "यत्तदग्रे विषमिव परिणामेऽमृतोपमम् |\nतत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम् ||१८-३७||",
+  "transliteration": "yattadagre viṣamiva pariṇāme.amṛtopamam .\ntatsukhaṃ sāttvikaṃ proktamātmabuddhiprasādajam ||18-37||",
+  "wordByWord": [
+    {
+      "term": "agre",
+      "meaning": "at first"
+    },
+    {
+      "term": "viṣam iva",
+      "meaning": "like poison"
+    },
+    {
+      "term": "pariṇāme",
+      "meaning": "in the result"
+    },
+    {
+      "term": "amṛtopamam",
+      "meaning": "like nectar"
+    },
+    {
+      "term": "ātmabuddhiprasādajam",
+      "meaning": "born of clarity or serenity of self-oriented understanding"
+    }
+  ],
+  "spokenHindi": "कृष्ण सात्त्विक सुख को पहले विष जैसा और परिणाम में अमृत जैसा बताते हैं। वह आत्मबुद्धि के प्रसाद से उत्पन्न है; दिए गए संस्करण में इसे आत्मसाक्षात्कार से मन की निर्मलता की दिशा में समझा गया है। विष और अमृत उपमाएँ हैं, वास्तविक विष लेने का निर्देश नहीं। सबसे महत्वपूर्ण बात यह है कि शुरुआती कठिनाई अकेली कसौटी नहीं; सुख का स्रोत स्पष्ट समझ और उसका परिणाम भी है। किसी हानिकारक संबंध या थकावट को केवल कठिन होने से सात्त्विक नहीं कह सकते। आज का एक सीमित उदाहरण अपनी गलती ईमानदारी से स्वीकारना हो सकता है। पहले असुविधा होती है, फिर सुधार और संबंध की स्पष्टता से संतोष मिल सकता है। यह आधुनिक तुलना आत्मसाक्षात्कार की पूर्णता का स्थान नहीं लेती। कोई सुरक्षित, आवश्यक सुधार चुनें और उसे धीरे करें। यदि कठिनाई क्षमता से बाहर हो तो सहायता लें। सुख को समय के साथ समझना हमें तुरंत पसंद तथा लंबे अर्थ के बीच अंतर देखने में मदद दे सकता है, बिना पीड़ा को अपने आप पुण्य बना दिए।",
+  "clearEnglish": "Sattvic pleasure is like poison at the beginning and nectar in its result, arising from clarity or serenity of self-oriented understanding. The supplied edition interprets this through purity of mind connected with Self-realization. Initial difficulty alone is therefore not the test. The source in understanding and the later consequence matter too. Poison and nectar are comparisons, not instructions to ingest anything harmful. Nor should abuse, exhaustion, or preventable injury be praised merely because they hurt. A limited contemporary example is honestly admitting a mistake: the first discomfort may yield relief and clearer relations when repair follows. This example illustrates a temporal pattern without equating ordinary relief with full realization. Choose a safe, necessary correction and proceed within capacity, using assistance when needed. The verse helps challenge the assumption that immediate ease always identifies the better course. It should make discernment more careful rather than create a new rule that the most painful option is always spiritually superior.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Sattvic pleasure is initially like poison, later like nectar, and born from clarity of self-oriented understanding."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Honest repair is a limited analogy; pain alone does not establish sattvic value or justify harmful conditions."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Make one safe, necessary correction whose initial discomfort serves clearer understanding or responsible care."
+    }
+  ],
+  "reflectionQuestion": "Is this difficulty serving clarity, or am I assuming that pain itself makes the choice good?",
+  "reflectionQuestionHindi": "यह कठिनाई स्पष्टता बढ़ा रही है या मैं दर्द को ही अच्छाई का प्रमाण मान रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

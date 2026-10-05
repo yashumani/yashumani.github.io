@@ -1,0 +1,71 @@
+{
+  "id": "bg-10-025",
+  "sequenceNumber": 397,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 25,
+  "verseEnd": 25,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "जप और स्थिरता / Repetition and stillness",
+  "context": "Krishna names Bhrigu, the single syllable, japa sacrifice and the Himalayas among further manifestations.",
+  "contextHindi": "कृष्ण भृगु, एक अक्षर, जपयज्ञ और हिमालय को अपनी विभूतियों में रखते हैं।",
+  "sanskritDevanagari": "महर्षीणां भृगुरहं गिरामस्म्येकमक्षरम् |\nयज्ञानां जपयज्ञोऽस्मि स्थावराणां हिमालयः ||१०-२५||",
+  "transliteration": "maharṣīṇāṃ bhṛgurahaṃ girāmasmyekamakṣaram .\nyajñānāṃ japayajño.asmi sthāvarāṇāṃ himālayaḥ ||10-25||",
+  "wordByWord": [
+    {
+      "term": "एकम् अक्षरम्",
+      "meaning": "the single syllable; Om in this edition"
+    },
+    {
+      "term": "जपयज्ञः",
+      "meaning": "sacrifice of mantra repetition"
+    },
+    {
+      "term": "स्थावराणाम्",
+      "meaning": "among immovable things"
+    },
+    {
+      "term": "हिमालयः",
+      "meaning": "the Himalayas"
+    }
+  ],
+  "spokenHindi": "कृष्ण महर्षियों में भृगु, वाणियों में एक अक्षर, यज्ञों में जपयज्ञ और स्थिर वस्तुओं में हिमालय कहते हैं। दिए गए संस्करण में एक अक्षर को ओम् और जप को मौन दोहराव के रूप में समझाया गया है। इस उदाहरण में बाहरी भव्य आयोजन की जगह साधारण, दोहराए जा सकने वाले स्मरण को महिमा मिलती है। हिमालय उस स्मरण के साथ स्थिरता का एक बड़ा दृश्य रखता है। स्वामी शिवानंद की टिप्पणी जप को विशेष महत्व देती है और उसके अहानिकर स्वरूप की बात करती है। वे मनु का एक कथन भी उद्धृत करते हैं; वह टिप्पणी का जोड़ा हुआ स्रोत है, कृष्ण के इस श्लोक के शब्द नहीं। उस उद्धरण से जन्म के आधार पर साधना की योग्यता तय करना आवश्यक निष्कर्ष नहीं। यदि जप आपकी पसंद है तो एक मिनट स्वेच्छा से शांत दोहराव करें। उसका मूल्य केवल गिनती पूरी करने में न रखें। कोई ध्वनि असुविधाजनक लगे तो रुककर साधारण शांत ध्यान चुनना संभव है। यह छोटा सुझाव हमारा अनुप्रयोग है, सबके लिए बाध्य धार्मिक नियम नहीं।",
+  "clearEnglish": "The verse pairs a sage, a syllable, a practice and a mountain range: Bhrigu, the single syllable identified as Om in the supplied edition, japa as sacrifice, and the Himalayas among immovable things. Its contemplative interest lies partly in scale. A very small utterance and a vast mountain range both become points of divine recognition. Sivananda's commentary gives mantra repetition special importance and emphasizes its lack of injury. It also cites a statement from Manu; that citation belongs to commentary and should not be presented as Krishna's literal wording. Neither the verse's identification nor a commentator's quotation needs to become a claim that inherited status determines spiritual capacity. A modern practice may be brief, voluntary repetition of a meaningful phrase, followed by a pause. Counting can help some people, but should not become the sole criterion of value. The text names japa as a prominent sacrifice; our suggestion is only one accessible way of attending to repetition and steadiness, not a universal ritual obligation.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies Bhrigu, the single syllable, japa sacrifice and the Himalayas as manifestations."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Brief voluntary repetition can support attention; no inherited identity is made a modern measure of spiritual capacity."
+    },
+    {
+      "label": "COMMENTARY — Swami Sivananda",
+      "explanation": "Sivananda emphasizes japa's importance and absence of injury; his quotation from Manu is commentary rather than this verse's literal teaching."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "A voluntary minute",
+      "text": "If comfortable, repeat one meaningful word quietly for a minute, then pause. Use gentle attention rather than a rigid counting target."
+    }
+  ],
+  "reflectionQuestion": "Does repetition help me attend, or has the count become the whole task?",
+  "reflectionQuestionHindi": "क्या दोहराव मेरा ध्यान बढ़ाता है, या गिनती ही पूरा काम बन गई है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

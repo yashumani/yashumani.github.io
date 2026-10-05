@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-023",
+  "sequenceNumber": 395,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 23,
+  "verseEnd": 23,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "देवसमूह, अग्नि और मेरु / Divine groups, fire and Meru",
+  "context": "Krishna gives further prominent examples: Shankara, Kubera, fire and Meru.",
+  "contextHindi": "कृष्ण विभूतियों की सूची में शंकर, कुबेर, अग्नि और मेरु के नाम जोड़ते हैं।",
+  "sanskritDevanagari": "रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम् |\nवसूनां पावकश्चास्मि मेरुः शिखरिणामहम् ||१०-२३||",
+  "transliteration": "rudrāṇāṃ śaṅkaraścāsmi vitteśo yakṣarakṣasām .\nvasūnāṃ pāvakaścāsmi meruḥ śikhariṇāmaham ||10-23||",
+  "wordByWord": [
+    {
+      "term": "शङ्करः",
+      "meaning": "Shankara among the Rudras"
+    },
+    {
+      "term": "वित्तेशः",
+      "meaning": "lord of wealth; Kubera here"
+    },
+    {
+      "term": "पावकः",
+      "meaning": "fire"
+    },
+    {
+      "term": "शिखरिणाम्",
+      "meaning": "among mountains"
+    }
+  ],
+  "spokenHindi": "यहाँ कृष्ण रुद्रों में शंकर, यक्षों और राक्षसों में धन के स्वामी कुबेर, वसुओं में अग्नि और पर्वतों में मेरु कहते हैं। अलग अलग धार्मिक समूहों के बीच उदाहरण रखने से उनकी शिक्षा किसी एक परिचित देवनाम पर नहीं रुकती। वित्तेश धन के स्वामी का शब्द है; दिए गए संस्करण में उसकी पहचान कुबेर से है। पावक अग्नि को कहते हैं। मेरु धार्मिक भूगोल का महान पर्वत है, इसलिए उसे किसी आधुनिक नक्शे के स्थान से बिना साक्ष्य मिलाना ठीक नहीं। सूची में धन, अग्नि और ऊँचाई जैसे प्रभावशाली संकेत आते हैं। हमारा चिंतन इनके उपयोग की जिम्मेदारी तक जा सकता है। संसाधन हैं तो वे किसके काम आ रहे हैं? ऊर्जा उपलब्ध है तो क्या उसे सावधानी से इस्तेमाल किया जा रहा है? यह श्लोक संपत्ति प्रबंधन की नियमावली नहीं, लेकिन महिमा का ध्यान हमें शक्ति के प्रति नम्र बना सकता है। अग्नि का सम्मान करने के लिए आग जलाना जरूरी नहीं; घर में ऊर्जा की बचत और सुरक्षित व्यवहार भी हमारा ठोस अनुप्रयोग हो सकता है।",
+  "clearEnglish": "The catalogue includes Shankara among the Rudras, Kubera as lord of wealth among Yakshas and Rakshasas, fire among the Vasus, and Meru among mountains. Each belongs to a particular inherited religious category. Keeping those categories visible avoids collapsing the verse into a loose list of powerful things. Meru is a mountain of sacred geography in this context; locating it on a modern map would require evidence outside this passage. The identifications also place wealth and elemental power beside divine names. They invite recognition of magnitude, but do not establish that every wealthy person possesses special moral authority. A practical extension is to consider stewardship. Resources and energy can sustain life, and their impressive scale also makes misuse consequential. Before a purchase or an energy-intensive task, ask what purpose it serves and whether it can be done responsibly. This is our ethical application, not a policy stated in the verse. Contemplation of fire does not require lighting a flame; ordinary attention to safe energy use can suffice.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names Shankara, Kubera, fire and Meru as prominent manifestations in their categories."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Responsible use of wealth and energy is an application; wealth itself is not proof of moral authority."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Review one resource use",
+      "text": "Choose one purchase or use of electricity today. Ask whether it serves a real need and how to reduce avoidable waste safely."
+    }
+  ],
+  "reflectionQuestion": "Does my respect for resources change how I use them?",
+  "reflectionQuestionHindi": "संसाधनों के प्रति मेरा आदर क्या उनके इस्तेमाल में भी दिखाई देता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

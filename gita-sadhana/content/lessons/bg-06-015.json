@@ -1,0 +1,75 @@
+{
+  "id": "bg-06-015",
+  "sequenceNumber": 248,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 15,
+  "verseEnd": 15,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "ध्यान की स्थिरता; steadiness of meditation",
+  "context": "Krishna has already described the yogi’s posture, one-pointed mind, and the discipline of inward attention. Now he explains that meditation becomes stable only when the mind is trained to remain calm, self-governed, and not driven by restless impulses.",
+  "contextHindi": "कृष्ण ने पहले योगी की आसन, एकाग्र मन, और अंतर्मुखी अनुशासन का वर्णन किया है। अब वह कहते हैं कि ध्यान तभी स्थिर बनता है जब मन को शांत, आत्मनियंत्रित और बेचैन इच्छाओं से मुक्त रखा जाए।",
+  "sanskritDevanagari": "युञ्जन्नेवं सदात्मानं योगी नियतमानसः |\nशान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ||६-१५||",
+  "transliteration": "yuñjannevaṃ sadātmānaṃ yogī niyatamānasaḥ .\nśāntiṃ nirvāṇaparamāṃ matsaṃsthāmadhigacchati ||6-15||",
+  "wordByWord": [
+    {
+      "term": "युञ्जन्",
+      "meaning": "practising, engaging, keeping the mind steadily in discipline; in ordinary speech, not merely thinking but training the mind."
+    },
+    {
+      "term": "सदात्मानम्",
+      "meaning": "सदा + आत्मानम्: स्वयं को निरंतर; यहाँ, योगाभ्यास में अपने को लगातार लगाए हुए।"
+    },
+    {
+      "term": "नियतमानसः",
+      "meaning": "one whose mind is regulated, restrained, and firmly directed; not scattered by impulse."
+    },
+    {
+      "term": "शान्तिम्",
+      "meaning": "calm, inner stillness, the settled state of mind that makes meditation possible."
+    },
+    {
+      "term": "निर्वाणपराम्",
+      "meaning": "the supreme peace that culminates in liberation; not only quietness but freedom from bondage."
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण कहते हैं कि योगी अपने मन को निरंतर संयम में रखता है, तभी उसे शांति मिलती है। “सदात्मानम्” का अर्थ है अपने को लगातार योग में स्थिर रखना; “नियतमानसः” का अर्थ है जिसका मन नियम में बंधा हुआ है। यह शांति केवल भावनात्मक हल्कापन नहीं है, बल्कि मन की स्थिरता है। फिर कृष्ण “मत्संस्थाम्” कहते हैं, अर्थात् “मुझमें स्थित।” वे इस शांति को अपने में स्थित बताते हैं; इससे यह निष्कर्ष नहीं निकलता कि आत्मा के भीतर शांति नहीं है। “निर्वाणपराम्” का अर्थ है उस शांति की अंतिम परिणति, जो मुक्ति तक पहुँचती है। इसलिए यह श्लोक बताता है कि मन का अनुशासन, निरंतर अभ्यास, और भगवान में स्थिरता — ये तीनों मिलकर शांति और मुक्ति देते हैं।",
+  "clearEnglish": "This verse gives the practical goal of Yoga in a compressed form: a disciplined mind, trained inwardly, reaches a peace that is not merely emotional calm but a state grounded in the Self. Krishna is not describing a mood; he is describing a stable inner condition. The phrase “niyatamānasaḥ” matters: the mind is not left to wander, but is consciously regulated. Such regulation does not eliminate life’s complexity; it reduces the mind’s compulsive reactions. In that state, one begins to live from the deeper Self rather than from agitation, fear, and desire. The peace mentioned here is not an absence of difficulty but a rooted steadiness that withstands disturbance. The final phrase, “matsamsthāmadhigacchati,” indicates a union with the divine ground of being, not a private emotional escape. This is the outcome of disciplined practice, not of mere wishful thinking.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse states a direct relationship: steady practice of the Self and a disciplined mind lead to peace and liberation."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A calm mind is not an automatic gift; it is produced by repeated self-control, inward attention, and honest restraint of mental turbulence."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Daily rhythm",
+      "text": "Before the day becomes crowded, spend five quiet minutes in stillness and watch the mind’s drift without judging it. Return gently to breath, awareness, or a simple mantra."
+    },
+    {
+      "label": "Mental reset",
+      "text": "When agitation rises, do not chase the thought. Name the distraction, soften the breath, and bring attention back to the inner self for a few slow cycles."
+    }
+  ],
+  "reflectionQuestion": "When your mind is restless, what specific pattern of attention keeps it from settling into the Self?",
+  "reflectionQuestionHindi": "जब आपका मन बेचैन हो, तो कौन-सी ध्यान की आदत उसे आत्मा में स्थिर होने से रोकती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-08-005",
+  "sequenceNumber": 315,
+  "date": "2026-10-05",
+  "chapter": 8,
+  "verseStart": 5,
+  "verseEnd": 5,
+  "chapterNameSanskrit": "अक्षरब्रह्मयोग",
+  "chapterNameEnglish": "Akṣara Brahma Yoga",
+  "theme": "अंत समय में कृष्ण का स्मरण | Remembering Krishna at departure",
+  "context": "After defining the terms Arjuna asked about, Krishna addresses remembrance at death.",
+  "contextHindi": "अर्जुन के पूछे शब्दों का अर्थ बताने के बाद कृष्ण प्रयाण के समय स्मरण की बात करते हैं।",
+  "sanskritDevanagari": "अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् |\nयः प्रयाति स मद्भावं याति नास्त्यत्र संशयः ||८-५||",
+  "transliteration": "antakāle ca māmeva smaranmuktvā kalevaram .\nyaḥ prayāti sa madbhāvaṃ yāti nāstyatra saṃśayaḥ ||8-5||",
+  "wordByWord": [
+    {
+      "term": "अन्तकाले",
+      "meaning": "At the final time, death."
+    },
+    {
+      "term": "माम् एव",
+      "meaning": "Me alone; Krishna is the object of remembrance."
+    },
+    {
+      "term": "कलेवरम्",
+      "meaning": "The body."
+    },
+    {
+      "term": "मद्भावम्",
+      "meaning": "My being or state, as expressed by Krishna."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जो व्यक्ति अंत समय में केवल उन्हें याद करते हुए शरीर छोड़ता है, वह उनके भाव को प्राप्त होता है। वे इस कथन के साथ कहते हैं कि इसमें संदेह नहीं है। यहाँ स्मरण का विषय कृष्ण हैं और समय जीवन का अंत है। यह भक्ति की आश्वस्त करने वाली भाषा है, लेकिन इसे किसी परिवार के दुख में दोष ढूँढ़ने का साधन नहीं बनाना चाहिए। श्लोक यह नहीं बताता कि बीमारी, दवा या चेतना की कठिनाई में हर व्यक्ति का अनुभव कैसा होगा। हम किसी की अंतिम दशा देखकर उसकी आध्यात्मिक स्थिति का निर्णय नहीं कर सकते। अपने लिए इससे एक सौम्य अभ्यास ले सकते हैं: सामान्य दिनों में भगवान् को याद करने का छोटा समय रखें। यह भविष्य को नियंत्रित करने का दावा नहीं, आज के संबंध को सँभालने का प्रयास है। जिस प्रिय नाम, प्रार्थना या शांत स्मृति से मन जुड़ता हो, उसे थोड़ी देर सम्मान से याद करें। भय बढ़े तो अभ्यास रोककर भरोसेमंद व्यक्ति से बात करना भी ठीक है।",
+  "clearEnglish": "Krishna makes a specific promise: one who departs from the body remembering him alone reaches his being. The statement addresses Arjuna's question about knowing the Lord at death, and its emphatic ending presents assurance within the devotional teaching. It does not give observers a reliable method for judging another person's final awareness. A person may be unable to speak, may receive medication, or may experience confusion; none of those circumstances allows us to infer spiritual failure from this verse. The practical implication for a reader concerns a relationship cultivated now. A short period of remembrance can express trust and affection without becoming an anxious attempt to guarantee a particular final thought. The wording also keeps the divine object clear: Krishna says “me,” not merely any pleasant memory. Readers from different backgrounds can study that theological claim accurately before deciding how it speaks to their own practice. Compassionate presence with a dying person remains more appropriate than testing whether they can perform an expected act of remembrance.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna states that one who leaves the body remembering him alone at death attains his being, without doubt."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Daily remembrance may be practiced gently; the verse does not authorize judging another person's awareness during illness or death."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "A moment of remembrance",
+      "text": "Spend one comfortable minute with Krishna's name or a familiar prayer, without testing yourself or anticipating death."
+    }
+  ],
+  "reflectionQuestion": "How can remembrance express trust rather than fear?",
+  "reflectionQuestionHindi": "भगवान् का स्मरण मेरे लिए डर के बजाय भरोसे की अभिव्यक्ति कैसे बन सकता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

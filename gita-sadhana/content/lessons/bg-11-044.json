@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-044",
+  "sequenceNumber": 458,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 44,
+  "verseEnd": 44,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "संबंध की भाषा में कृपा / Seeking grace through relationship",
+  "context": "Arjuna bows and asks Krishna to bear with him as a father, friend or beloved would.",
+  "contextHindi": "अर्जुन शरीर झुकाकर कृष्ण से पिता, मित्र और प्रिय के संबंधों जैसी क्षमा तथा सहनशीलता माँगते हैं।",
+  "sanskritDevanagari": "तस्मात्प्रणम्य प्रणिधाय कायं\nप्रसादये त्वामहमीशमीड्यम् |\nपितेव पुत्रस्य सखेव सख्युः\nप्रियः प्रियायार्हसि देव सोढुम् ||११-४४||",
+  "transliteration": "tasmātpraṇamya praṇidhāya kāyaṃ prasādaye tvāmahamīśamīḍyam .\npiteva putrasya sakheva sakhyuḥ priyaḥ priyāyārhasi deva soḍhum ||11-44||",
+  "wordByWord": [
+    {
+      "term": "प्रणिधाय कायम्",
+      "meaning": "having prostrated or laid down the body"
+    },
+    {
+      "term": "प्रसादये",
+      "meaning": "I seek grace or forgiveness"
+    },
+    {
+      "term": "सखेव सख्युः",
+      "meaning": "as a friend toward a friend"
+    },
+    {
+      "term": "सोढुम्",
+      "meaning": "to bear with or forgive"
+    }
+  ],
+  "spokenHindi": "अर्जुन प्रणाम करके शरीर झुकाते हैं और पूज्य ईश्वर से कृपा माँगते हैं। वे कहते हैं कि पिता पुत्र को, मित्र मित्र को और प्रिय अपने प्रिय को जैसे सहन करता है, वैसे मुझे सहन कीजिए। संबंधों की ये उपमाएँ पिछली विशाल स्तुति को निकटता देती हैं। कृष्ण अतुलनीय हैं, फिर भी अर्जुन उनकी दया को परिचित संबंधों की भाषा में पुकारते हैं। यहाँ हर वास्तविक परिवार या प्रेम संबंध हमेशा सुरक्षित और क्षमाशील होता है, ऐसा दावा नहीं है। उपमा आदर्श सहनशीलता की ओर है, किसी पीड़ित को असुरक्षित रिश्ते में बने रहने का आदेश नहीं। शरीर झुकाना भी अर्जुन की प्रार्थना का रूप है; अपनी शारीरिक क्षमता के विरुद्ध मुद्रा अपनाना आवश्यक अभ्यास नहीं। हमारा अनुप्रयोग गलती मानते समय संबंध की गरिमा बचाना हो सकता है। माफी माँगें तो सामने वाले की स्वतंत्र प्रतिक्रिया को जगह दें। कृपा की उम्मीद और उसे अपने अधिकार की तरह मांगना अलग हैं। आज अपने किसी संबंध में कोमल भाषा चुनें, साथ में जरूरी सीमा और सुधार का ठोस कदम भी रखें।",
+  "clearEnglish": "Arjuna's plea turns to relationships that make forbearance imaginable. Having bowed with his body, he asks the adorable Lord to bear with him as a father with a son, a friend with a friend, or a beloved with the beloved. The immense divine relation is addressed through intimate human images. These are comparisons, not a guarantee that every actual family or romantic relationship is safe or forgiving. They cannot require someone to remain in mistreatment. The posture also belongs to Arjuna's prayer and is not a demand to exceed one's physical capacity. A modern application concerns asking for repair without claiming entitlement to another person's forgiveness. Use clear, gentle words and allow the recipient a free response; appropriate boundaries can remain. Hope for kindness and pressure to supply it are different. This is our ethical extension from the relational imagery. The verse itself shows Arjuna seeking divine grace and forbearance, bringing humility and closeness together after his acknowledgment of disrespect.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna prostrates and asks divine forbearance through father, friend and beloved comparisons."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Hope for forgiveness does not create entitlement or require remaining in unsafe relationships."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Ask without pressure",
+      "text": "When a real apology is needed, use clear gentle language and allow time for the response. Keep any necessary safety boundary in place."
+    }
+  ],
+  "reflectionQuestion": "Can I seek kindness without demanding that it be given on my schedule?",
+  "reflectionQuestionHindi": "क्या मैं दया माँग सकता हूँ, उसे अपनी समयसीमा में देने की मांग किए बिना?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

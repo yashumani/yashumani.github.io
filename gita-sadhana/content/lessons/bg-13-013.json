@@ -1,0 +1,75 @@
+{
+  "id": "bg-13-013",
+  "sequenceNumber": 502,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 13,
+  "verseEnd": 13,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "The knowable beyond ordinary categories / सामान्य श्रेणियों से परे ज्ञेय",
+  "context": "Krishna begins describing what is to be known: beginningless supreme Brahman, knowing which brings immortality.",
+  "contextHindi": "ज्ञान की तैयारी के बाद कृष्ण ज्ञेय ब्रह्म का वर्णन शुरू करते हैं, जिसे जानने से अमृत की प्राप्ति कही जाती है।",
+  "sanskritDevanagari": "ज्ञेयं यत्तत्प्रवक्ष्यामि यज्ज्ञात्वामृतमश्नुते |\nअनादिमत्परं ब्रह्म न सत्तन्नासदुच्यते ||१३-१३||",
+  "transliteration": "jñeyaṃ yattatpravakṣyāmi yajjñātvāmṛtamaśnute .\nanādi matparaṃ brahma na sattannāsaducyate ||13-13||",
+  "wordByWord": [
+    {
+      "term": "jñeyam",
+      "meaning": "what is to be known"
+    },
+    {
+      "term": "amṛtam",
+      "meaning": "immortality; अमृत"
+    },
+    {
+      "term": "anādimat",
+      "meaning": "without beginning in the DLS reading"
+    },
+    {
+      "term": "paraṃ brahma",
+      "meaning": "supreme Brahman"
+    },
+    {
+      "term": "na sat na asat",
+      "meaning": "neither being nor nonbeing"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि वे जानने योग्य को बताएँगे, जिसे जानकर अमृत का अनुभव होता है। दिए गए संस्करण में यह अनादि परम ब्रह्म है, जिसे न सत कहा जाता है, न असत। साधारण वस्तुओं को मौजूद या गैरमौजूद कहने की हमारी श्रेणियाँ यहाँ पर्याप्त नहीं मानी गईं। इसका अर्थ यह नहीं कि कोई भी विरोधाभासी दावा बिना जाँच स्वीकार कर लें। श्लोक ब्रह्म के विषय में विशेष दार्शनिक कथन करता है। एक पाठ संबंधी बात भी रखें: दिए गए रोमन पाठ में इस पद का अंतराल अलग है, जबकि डीएलएस अनुवाद इसे आरंभरहित परम ब्रह्म समझता है। मूल रोमन पाठ जस का तस रखा गया है; अंतर को छिपाया नहीं गया। आज का अभ्यास अपनी भाषा की सीमा पहचानना हो सकता है। किसी गहरे प्रश्न को दो तैयार उत्तरों में बाँधने से पहले पूछें कि प्रश्न किस स्तर का है। यह अध्ययन का अनुप्रयोग है, अमृत की प्राप्ति का दावा नहीं। ध्यान से सुनना और अस्पष्टता को ईमानदारी से रखना आगे की समझ के लिए जगह देता है।",
+  "clearEnglish": "Krishna introduces the knowable as beginningless supreme Brahman, knowing which brings immortality, and says it is called neither being nor nonbeing. The claim challenges the adequacy of ordinary categories for the reality being discussed. It is not a general exemption from reasoning for every contradictory assertion. A wording issue deserves visibility: the supplied corpus preserves the Roman spacing anādi matparaṃ, while the DLS edition translates the phrase as beginningless supreme Brahman. The canonical Roman field remains unchanged; the explanation follows the stated reading edition without silently editing the evidence. The spiritual claim of immortality should likewise remain distinct from an everyday exercise. For study, consider whether a difficult question has been forced into two familiar options before its subject has been understood. Identifying the level of inquiry may clarify why those options are insufficient. This does not resolve Brahman into a neat definition; it encourages care about both the source wording and the limits of the concepts brought to it.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes the knowable as beginningless supreme Brahman in the DLS reading, neither being nor nonbeing, whose knowledge brings immortality."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Questioning an inadequate binary is a study practice, not permission to bypass reasoning or a claim to have realized Brahman."
+    },
+    {
+      "label": "TEXT — wording note",
+      "explanation": "The canonical Roman field spaces anādi matparaṃ; the DLS edition reads the compound as beginningless supreme Brahman. Both source roles are kept explicit without editing the supplied canonical field."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Write one deep question and check whether its two familiar answers adequately describe its subject."
+    }
+  ],
+  "reflectionQuestion": "Which category am I assuming fits the subject before I have understood it?",
+  "reflectionQuestionHindi": "विषय को समझने से पहले मैं कौन सी श्रेणी उस पर लागू मान लेता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

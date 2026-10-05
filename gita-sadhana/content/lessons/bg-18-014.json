@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-014",
+  "sequenceNumber": 637,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 14,
+  "verseEnd": 14,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "कर्म के पाँच आधार / Five contributors to action",
+  "context": "Krishna lists the bodily basis, doer, instruments, efforts, and divine factor as the five causes.",
+  "contextHindi": "कृष्ण शरीर का आधार, कर्ता, अलग उपकरण, विविध प्रयास और दैवी पक्ष को पाँच कारण बताते हैं।",
+  "sanskritDevanagari": "अधिष्ठानं तथा कर्ता करणं च पृथग्विधम् |\nविविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम् ||१८-१४||",
+  "transliteration": "adhiṣṭhānaṃ tathā kartā karaṇaṃ ca pṛthagvidham .\nvividhāśca pṛthakceṣṭā daivaṃ caivātra pañcamam ||18-14||",
+  "wordByWord": [
+    {
+      "term": "adhiṣṭhānam",
+      "meaning": "The basis or seat, read as the body in the supplied edition"
+    },
+    {
+      "term": "kartā",
+      "meaning": "The doer"
+    },
+    {
+      "term": "karaṇam",
+      "meaning": "Instrument; the senses in the supplied reading"
+    },
+    {
+      "term": "daivam",
+      "meaning": "The divine factor, rendered presiding Deity in the supplied edition"
+    }
+  ],
+  "spokenHindi": "कृष्ण पाँच कारणों की सूची देते हैं: अधिष्ठान, कर्ता, विभिन्न करण, अलग अलग चेष्टाएँ और पाँचवाँ दैव। स्रोत अधिष्ठान को शरीर, करण को इन्द्रियाँ, चेष्टाओं को विभिन्न कार्य और दैव को अधिष्ठाता देवता की दिशा में समझाता है। दैव को चुपचाप केवल किस्मत या संयोग कहना इस स्रोत की पढ़त बदल देगा। सूची में धार्मिक और दार्शनिक दोनों अर्थ हैं। आधुनिक समानता में हम शरीर की क्षमता, करने वाले की भूमिका, साधन और प्रयास को अलग देख सकते हैं, लेकिन वह पूरी सूची का विकल्प नहीं। किसी काम की सफलता पर केवल अपना नाम लिखना अधूरा हो सकता है। फिर भी बहुत कारण होने से अपने निर्णय की जिम्मेदारी समाप्त नहीं होती। आज एक छोटा काम देखें। क्या साधन ठीक हैं, शरीर की सीमा क्या है और कौन सा प्रयास वास्तव में जरूरी है? जहाँ कमी हो, अपनी क्षमता में सुधार करें। दैवी पक्ष का अध्ययन सम्मान से करें, और व्यवहार में अनियंत्रित परिस्थिति के साथ अपनी वास्तविक भूमिका को भी साफ रखें।",
+  "clearEnglish": "Krishna lists the basis or seat, the doer, the various instruments, different efforts or functions, and the divine factor as the fifth cause. The supplied edition reads the basis as the body, the instruments as the senses, and the divine factor as the presiding Deity. Those readings should be made explicit. Replacing daiva silently with luck would change the source's theological interpretation. A modern analogy may examine bodily capacity, the acting person's role, available means, and actual effort, but it does not exhaust the philosophical list. The passage broadens an account of action that might otherwise attribute everything to an isolated self. It does not follow that personal decisions carry no responsibility. For one task, distinguish a problem in means from a problem in effort or capacity. That can guide an appropriate correction more effectively than a global accusation. Acknowledge what you cannot command while remaining specific about the contribution you can make.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna lists basis, doer, instruments, diverse efforts, and daiva; the supplied edition reads these through body, senses, functions, and presiding Deity."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Separating means, effort, and capacity in a task is a modern analogy; daiva is not silently reduced to luck."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Locate the practical gap",
+      "text": "Identify whether one task's obstacle lies in means, effort, or actual capacity, then make one appropriate adjustment."
+    }
+  ],
+  "reflectionQuestion": "Am I blaming character for a problem in means or capacity?",
+  "reflectionQuestionHindi": "क्या साधन या क्षमता की समस्या को मैं चरित्र का दोष कह रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

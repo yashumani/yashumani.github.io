@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-038",
+  "sequenceNumber": 661,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 38,
+  "verseEnd": 38,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Immediate sweetness and later cost / तुरंत मिठास और बाद की कीमत",
+  "context": "Krishna describes rajasic pleasure from sense-object contact as initially nectar-like and later poison-like.",
+  "contextHindi": "कृष्ण विषय और इंद्रिय के संयोग से पैदा राजसी सुख को आरंभ में अमृत और परिणाम में विष जैसा बताते हैं।",
+  "sanskritDevanagari": "विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम् |\nपरिणामे विषमिव तत्सुखं राजसं स्मृतम् ||१८-३८||",
+  "transliteration": "viṣayendriyasaṃyogādyattadagre.amṛtopamam .\npariṇāme viṣamiva tatsukhaṃ rājasaṃ smṛtam ||18-38||",
+  "wordByWord": [
+    {
+      "term": "viṣayendriyasaṃyogāt",
+      "meaning": "from contact of objects and senses"
+    },
+    {
+      "term": "amṛtopamam",
+      "meaning": "nectar-like"
+    },
+    {
+      "term": "pariṇāme",
+      "meaning": "in the result"
+    },
+    {
+      "term": "viṣam iva",
+      "meaning": "like poison"
+    },
+    {
+      "term": "rājasam",
+      "meaning": "rajasic"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि विषय और इंद्रियों के संयोग से जो सुख पहले अमृत जैसा और परिणाम में विष जैसा होता है, वह राजसी कहा जाता है। यह सात्त्विक सुख के समय संबंध को उलट देता है। पहले स्वाद या आकर्षण बहुत अच्छा लग सकता है, फिर उसके पीछे की पकड़ कठिन असर छोड़ती है। इसे सुनकर हर स्वाद, संगीत या सुंदर दृश्य को दोषी घोषित करना जरूरी नहीं। श्लोक एक पूरी पहचान देता है जिसमें उत्पत्ति और बाद का विष जैसा फल दोनों शामिल हैं। आज का उदाहरण लगातार ध्यान खींचती सामग्री देखना हो सकता है: शुरू में मनोरंजन, बाद में समय का नुकसान और असंतोष। यह आधुनिक अनुप्रयोग है, श्लोक की बताई वस्तु नहीं। अपनी क्षमता और परिस्थिति के अनुसार एक स्पष्ट सीमा रखें। जरूरत का विश्राम तथा आनंद जीवन में स्थान रखते हैं। प्रश्न आनंद से युद्ध करने का नहीं, बल्कि उसके पूरे प्रभाव को देखने का है। जो असर सच में देखा है उसे लिखें; अनुमान से किसी व्यक्ति की खुशी को नीचा न मानें।",
+  "clearEnglish": "Rajasic pleasure arises through the contact of sensory objects and faculties, appears nectar-like at first, and turns poison-like in its result. The contrast with the previous verse reverses the time pattern. The description includes both source and consequence, so it should not become a blanket condemnation of every pleasant taste, sound, or view. A modern illustration might be absorbing content that begins as entertainment but repeatedly leaves lost time and dissatisfaction. This is an application, not an object named in the verse. Evaluate the pattern through observed effects rather than an assumption that enjoyment itself is suspect. A manageable boundary may protect another responsibility without eliminating recreation. Rest and ordinary pleasure can remain legitimate needs. The inquiry concerns the full shape of an experience, including the attachment it fosters and the cost that follows. It is better directed toward one's own choices than toward dismissing another person's joy from outside. Distinguish an actual consequence from a moralized guess.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Pleasure from sense-object contact that is nectar-like initially and poison-like afterward is called rajasic."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Setting a boundary around a repeatedly costly pleasure applies the pattern without condemning all sensory enjoyment."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "For one pleasure with a known later cost, choose a realistic limit that protects another responsibility."
+    }
+  ],
+  "reflectionQuestion": "Which later consequence do I overlook because the first moment feels good?",
+  "reflectionQuestionHindi": "पहला क्षण अच्छा लगने से मैं किस बाद के परिणाम को अनदेखा करता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

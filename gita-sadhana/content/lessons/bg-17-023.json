@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-023",
+  "sequenceNumber": 618,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 23,
+  "verseEnd": 23,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "ॐ तत् सत् / Threefold designation of Brahman",
+  "context": "Krishna introduces Om Tat Sat and links the designation of Brahman with ancient religious institutions.",
+  "contextHindi": "कृष्ण ॐ तत् सत् को ब्रह्म का तीन प्रकार का निर्देश बताकर प्राचीन धार्मिक व्यवस्था से जोड़ते हैं।",
+  "sanskritDevanagari": "ॐतत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः |\nब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिताः पुरा ||१७-२३||",
+  "transliteration": "OMtatsaditi nirdeśo brahmaṇastrividhaḥ smṛtaḥ .\nbrāhmaṇāstena vedāśca yajñāśca vihitāḥ purā ||17-23||",
+  "wordByWord": [
+    {
+      "term": "OM",
+      "meaning": "Om; supplied transliteration retained"
+    },
+    {
+      "term": "tat",
+      "meaning": "That"
+    },
+    {
+      "term": "sat",
+      "meaning": "Being, reality, or goodness"
+    },
+    {
+      "term": "brahmaṇaḥ",
+      "meaning": "Of Brahman, the supreme reality"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि ॐ, तत् और सत् ब्रह्म के तीन प्रकार के निर्देश माने गए हैं। वे बताते हैं कि इनके द्वारा प्राचीन समय में ब्राह्मण, वेद और यज्ञ स्थापित हुए। यह धार्मिक परम्परा के आधार की बात है, किसी आधुनिक ऐतिहासिक शोध का निष्कर्ष नहीं। ब्रह्म और ब्राह्मण शब्द को अलग समझें। ब्रह्म परम वास्तविकता है; ब्राह्मण इस पंक्ति में परम्परागत धार्मिक व्यक्तियों की श्रेणी है। दोनों को एक कर देना शब्द का भ्रम होगा। पाठ की बात से हर जन्मजात पहचान की नैतिक श्रेष्ठता अपने आप सिद्ध नहीं होती। ॐ तत् सत् को कोई जादुई सफलता का सूत्र भी न बनाएं। आगे इन शब्दों का कर्म से संबंध समझाया जाएगा। अभी उनका परिचय ध्यान से लें। आज किसी परिचित पवित्र शब्द को उसके वास्तविक अर्थ और प्रसंग में समझने का छोटा समय दें। उच्चारण के साथ समझ हो तो श्रद्धा अधिक जिम्मेदार बन सकती है। किसी शब्द को जानना और उसके नाम पर दावा करना अलग बातें हैं।",
+  "clearEnglish": "Krishna introduces Om, Tat, and Sat as the threefold designation of Brahman and connects it with the ancient establishment of Brahmanas, the Vedas, and sacrifices. This is the text's religious account of sacred foundations, not a finding of modern historical research. Brahman and Brahmana must be distinguished: the former names supreme reality here, while the latter names a traditional religious class. Conflating the terms creates a serious misunderstanding. The verse also does not demonstrate that inherited identity guarantees moral or spiritual excellence. The three expressions should not be advertised as a technique for automatic worldly success. Their relation to action is developed in the subsequent passage. A contemporary application is simply to understand a sacred expression before using it as authority. What does the term denote, and what claim is the passage making? Take a short moment to learn the context of a familiar phrase. Reverent use can include intellectual care rather than requiring confident claims beyond what has been read.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies Om Tat Sat as a threefold designation of Brahman and links it with ancient Brahmanas, Vedas, and sacrifices."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Learning sacred terms in context is a modern application; the verse does not establish automatic success or hereditary ethical superiority."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Understand a sacred term",
+      "text": "Choose one familiar sacred word and verify its meaning and immediate context before using it."
+    }
+  ],
+  "reflectionQuestion": "Am I using this word with understanding or merely familiarity?",
+  "reflectionQuestionHindi": "क्या मैं इस शब्द का उपयोग समझ से कर रहा हूँ या केवल परिचय से?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-13-018",
+  "sequenceNumber": 507,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 18,
+  "verseEnd": 18,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "The light and goal of knowledge / ज्ञान का प्रकाश और लक्ष्य",
+  "context": "Krishna describes the knowable as the light of lights, beyond darkness, and established in every heart.",
+  "contextHindi": "कृष्ण ज्ञेय को प्रकाशों का प्रकाश, तम से परे, ज्ञान और ज्ञान का लक्ष्य तथा सभी के हृदय में स्थित कहते हैं।",
+  "sanskritDevanagari": "ज्योतिषामपि तज्ज्योतिस्तमसः परमुच्यते |\nज्ञानं ज्ञेयं ज्ञानगम्यं हृदि सर्वस्य विष्ठितम् ||१३-१८||",
+  "transliteration": "jyotiṣāmapi tajjyotistamasaḥ paramucyate .\njñānaṃ jñeyaṃ jñānagamyaṃ hṛdi sarvasya viṣṭhitam ||13-18||",
+  "wordByWord": [
+    {
+      "term": "jyotiṣām jyotiḥ",
+      "meaning": "light of lights"
+    },
+    {
+      "term": "tamasaḥ param",
+      "meaning": "beyond darkness"
+    },
+    {
+      "term": "jñānagamyam",
+      "meaning": "reached through knowledge"
+    },
+    {
+      "term": "hṛdi sarvasya",
+      "meaning": "in everyone's heart"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि वह प्रकाशों का भी प्रकाश है और तम से परे है। उसे ज्ञान, ज्ञेय और ज्ञान से पहुँचने योग्य कहा जाता है; वह सभी के हृदय में स्थित है। यहाँ जानने की प्रक्रिया और उसका लक्ष्य एक व्यापक संबंध में रखे गए हैं। सामान्य प्रकाश हमें वस्तु दिखाता है; इस वर्णन में बात उस आधार तक जाती है जिसके संदर्भ में जानना संभव है। यह समझाने की दार्शनिक दिशा है, किसी भीतर चमक देखने की तकनीक नहीं। हृदय में स्थित होने से हर उठे विचार को ईश्वरीय आदेश भी नहीं माना जा सकता। विचार की सच्चाई और जिम्मेदारी जाँचना जरूरी है। आज का छोटा अनुप्रयोग पढ़ते समय पूछना हो सकता है कि जानकारी ने वास्तव में कौन सी बात स्पष्ट की। केवल शब्द याद रहना और अर्थ खुलना अलग अनुभव हैं। जो बात नहीं खुली उसे स्वीकारें और आगे प्रश्न रखें। यह अभ्यास श्लोक की पूर्ण प्राप्ति का दावा नहीं। भीतर की ईमानदारी और स्रोत की सावधान जाँच मिलकर हमारी सीख को अधिक भरोसेमंद बना सकती हैं।",
+  "clearEnglish": "The knowable is the light of lights, beyond darkness, knowledge, the object of knowledge, and what is reached through knowledge, established in everyone's heart. The description connects knowing with its ground and goal rather than treating information as an isolated possession. Ordinary light makes objects visible; this account points toward what makes understanding meaningful in a larger spiritual sense. That is an interpretive direction, not an instruction to produce an inner visual effect. Nor does indwelling presence mean that every private thought is a divine command. Claims still require discernment, particularly when they affect other people. A modest study exercise is to identify what has actually become clearer after reading. Recall alone may not resolve the question that brought us to the text. State the clarified point and retain what remains uncertain. This practical application does not establish realization of the light of lights, but it can keep inward honesty and careful source reading connected during the search for understanding.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The knowable is the light of lights beyond darkness, knowledge, the knowable, and the goal of knowledge, present in all hearts."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Checking what study has clarified applies the knowledge theme without treating every inner thought as authoritative revelation."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "After reading, state one point actually clarified and one uncertainty that remains."
+    }
+  ],
+  "reflectionQuestion": "What has become clearer, beyond the fact that I can repeat the words?",
+  "reflectionQuestionHindi": "शब्द दोहरा पाने के अलावा कौन सी बात वास्तव में अधिक स्पष्ट हुई है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

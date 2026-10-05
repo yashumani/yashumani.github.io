@@ -1,0 +1,75 @@
+{
+  "id": "bg-15-004",
+  "sequenceNumber": 555,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 4,
+  "verseEnd": 4,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "Seeking the source after release / छोड़ने के बाद मूल की खोज",
+  "context": "Krishna continues the previous verse's sentence, directing the seeker toward the goal of no return and the primeval Purusha.",
+  "contextHindi": "पिछले श्लोक के अनासक्ति वाले वाक्य को आगे बढ़ाकर कृष्ण परम पद और आद्य पुरुष का आश्रय लेने की बात कहते हैं।",
+  "sanskritDevanagari": "ततः पदं तत्परिमार्गितव्यं\nयस्मिन्गता न निवर्तन्ति भूयः |\nतमेव चाद्यं पुरुषं प्रपद्ये |\nयतः प्रवृत्तिः प्रसृता पुराणी ||१५-४||",
+  "transliteration": "tataḥ padaṃ tatparimārgitavyaṃ yasmingatā na nivartanti bhūyaḥ .\ntameva cādyaṃ puruṣaṃ prapadye .\nyataḥ pravṛttiḥ prasṛtā purāṇī ||15-4||",
+  "wordByWord": [
+    {
+      "term": "parimārgitavyam",
+      "meaning": "to be thoroughly sought"
+    },
+    {
+      "term": "padam",
+      "meaning": "goal or state; पद"
+    },
+    {
+      "term": "ādyaṃ puruṣam",
+      "meaning": "the primeval Person"
+    },
+    {
+      "term": "prapadye",
+      "meaning": "I take refuge or surrender"
+    },
+    {
+      "term": "purāṇī pravṛttiḥ",
+      "meaning": "ancient activity or creative movement"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि उसके बाद उस पद को खोजना चाहिए जहाँ पहुँचकर फिर लौटना नहीं होता। फिर उसी आद्य पुरुष का आश्रय लेने की भाषा आती है जिससे पुरानी प्रवृत्ति फैली है। यह पिछले श्लोक का आगे का वाक्य है: अनासक्ति केवल पकड़ कम करके खाली रह जाना नहीं, मूल की खोज की ओर ले जाती है। स्वामी सिवानंद की टिप्पणी पुरुष को सच्चिदानंद के रूप में विश्व में व्याप्त बताती है और निरंतर परम स्मरण वाली एकनिष्ठ भक्ति को आत्मसाक्षात्कार का शक्तिशाली साधन कहती है। यह टिप्पणी का विस्तार है; श्लोक स्वयं पद की खोज और आद्य पुरुष के आश्रय की बात करता है। आज का अभ्यास अपने छोड़े हुए आग्रह के स्थान पर एक सार्थक दिशा रखना हो सकता है। किसी बहस में हर हाल में जीतने की चाह छोड़ें तो सत्य समझने का उद्देश्य याद करें। यह आधुनिक तुलना है। आश्रय लेना किसी शिक्षक या अधिकारी की हर माँग आँख बंद करके मानना नहीं; विवेक, सुरक्षा और उचित जिम्मेदारी साथ रह सकती है।",
+  "clearEnglish": "The instruction continues directly from cutting the tree: seek the state from which one does not return and take refuge in the primeval Purusha, the source of the ancient movement of existence. Release is therefore linked to an orientation toward source, rather than merely leaving an empty space after a desire. Sivananda's commentary describes Purusha through the language of Satchidananda and presents single-minded devotion with continual remembrance as a powerful means of Self-realization. Those explanations belong to the named commentary; the verse itself supplies the sought goal and refuge. A contemporary analogy is replacing the demand to win an argument with a commitment to understand what is true. Letting go becomes more intelligible when we know what the released energy can serve. This practice does not establish the no-return state. It also does not make unconditional obedience to a human authority part of refuge. The devotional claim should retain its divine object while responsible discernment remains available in ordinary relationships.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "After release, the goal of no return is to be sought, with refuge in the primeval Purusha from whom ancient activity spread."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sri Swami Sivananda explains Purusha with Satchidananda and emphasizes single-minded remembrance and devotion as a means of Self-realization."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Replacing a status-driven demand with a truth-oriented purpose is an everyday analogy for seeking a meaningful source after letting go."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "In one disagreement, release the demand to win and identify the fact you honestly want to understand."
+    }
+  ],
+  "reflectionQuestion": "What worthwhile orientation can take the place of the insistence I am loosening?",
+  "reflectionQuestionHindi": "जिस आग्रह को ढीला कर रहा हूँ, उसकी जगह कौन सी सार्थक दिशा रख सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

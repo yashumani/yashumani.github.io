@@ -1,0 +1,75 @@
+{
+  "id": "bg-04-005",
+  "sequenceNumber": 167,
+  "date": "2026-10-05",
+  "chapter": 4,
+  "verseStart": 5,
+  "verseEnd": 5,
+  "chapterNameSanskrit": "ज्ञानकर्मसंन्यासयोग",
+  "chapterNameEnglish": "Jñāna Karma Sannyāsa Yoga",
+  "theme": "Krishna recalls the many births he and Arjuna have had, and the difference in what they remember.",
+  "context": "Arjuna asks how Krishna could have taught this Yoga long ago, since Vivasvan was born before him. Krishna replies that many births have passed for both of them, but he remembers them all and Arjuna does not.",
+  "contextHindi": "अर्जुन पूछते हैं कि कृष्ण ने बहुत पहले यह योग कैसे सिखाया, जबकि विवस्वान का जन्म उनसे पहले हुआ था। कृष्ण उत्तर देते हैं कि उनके और अर्जुन के अनेक जन्म बीत चुके हैं। वे उन सबको जानते हैं, जबकि अर्जुन उन्हें नहीं जानते।",
+  "sanskritDevanagari": "श्रीभगवानुवाच |\nबहूनि मे व्यतीतानि जन्मानि तव चार्जुन |\nतान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप ||४-५||",
+  "transliteration": "śrībhagavānuvāca .\nbahūni me vyatītāni janmāni tava cārjuna .\ntānyahaṃ veda sarvāṇi na tvaṃ vettha parantapa ||4-5||",
+  "wordByWord": [
+    {
+      "term": "बहूनि",
+      "meaning": "many"
+    },
+    {
+      "term": "व्यतीतानि",
+      "meaning": "have passed; gone by, already completed"
+    },
+    {
+      "term": "जन्मानि",
+      "meaning": "births"
+    },
+    {
+      "term": "सर्वाणि",
+      "meaning": "all; without exception"
+    },
+    {
+      "term": "परन्तप",
+      "meaning": "scourge of the enemy; a form of address to Arjuna"
+    }
+  ],
+  "spokenHindi": "अर्जुन ने पिछले श्लोक में पूछा था कि कृष्ण ने यह योग बहुत पहले विवस्वान को कैसे सिखाया, जबकि विवस्वान का जन्म उनसे पहले हुआ था। कृष्ण इस श्लोक में कहते हैं कि उनके और अर्जुन के अनेक जन्म बीत चुके हैं। वे उन सभी जन्मों को जानते हैं, लेकिन अर्जुन उन्हें नहीं जानते। “बहूनि मे व्यतीतानि जन्मानि तव चार्जुन” का सीधा अर्थ है: मेरे और तुम्हारे अनेक जन्म बीत चुके हैं, अर्जुन। यहाँ “परन्तप” अर्जुन को संबोधित करने का एक विशेषण है। कृष्ण इस अंतर की ओर ध्यान दिलाते हैं: दोनों के अनेक जन्म हुए हैं, पर कृष्ण को वे सब याद हैं और अर्जुन को नहीं। इस श्लोक में कृष्ण यह नहीं बताते कि वे क्यों प्रकट होते हैं या आगे क्या उद्देश्य पूरा करते हैं। इसका विषय उनके और अर्जुन के बीते जन्मों तथा उनके ज्ञान का अंतर है।",
+  "clearEnglish": "Arjuna had asked how Krishna could have taught this Yoga to Vivasvan long ago, since Vivasvan was born before Krishna. Krishna answers that many births have passed for both him and Arjuna. He knows all of them, while Arjuna does not. The verse addresses their different knowledge of those births; it does not say that Arjuna remembers none of his life, but that he does not know all the births Krishna refers to. “Parantapa” is an address to Arjuna, meaning “scorcher of foes” in the supplied translation. This verse does not explain why Krishna manifests or give the reason for divine manifestation. Those claims belong to the following verses, not to 4.5. Here, the point is specific: both Krishna and Arjuna have had many births, and Krishna knows them all while Arjuna does not. We can stay with that statement without adding a larger theory about cycles or the continuity of divine action.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse says that many births have passed for Krishna and Arjuna. Krishna knows them all, while Arjuna does not."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The verse may invite humility about the limits of one’s knowledge: Krishna knows all their past births, while Arjuna does not. It does not explain why Arjuna lacks this knowledge or connect that difference to present difficulties."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Acknowledge what you do not know",
+      "text": "When thinking about the past, notice what you know and what you do not. This verse says Krishna knows all the past births of both himself and Arjuna, while Arjuna does not; it does not ask us to explain present difficulties through that difference."
+    },
+    {
+      "label": "Stay with the verse",
+      "text": "Read the verse slowly and notice its specific contrast: many births have passed for Krishna and Arjuna; Krishna knows them all, while Arjuna does not. Avoid adding explanations for this difference that the verse does not give."
+    }
+  ],
+  "reflectionQuestion": "What does Krishna say about the past births of himself and Arjuna, and what does he know that Arjuna does not?",
+  "reflectionQuestionHindi": "कृष्ण अपने और अर्जुन के बीते जन्मों के बारे में क्या कहते हैं? वे क्या जानते हैं, जो अर्जुन नहीं जानते?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

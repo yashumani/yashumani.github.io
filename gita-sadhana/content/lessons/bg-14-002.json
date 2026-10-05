@@ -1,0 +1,71 @@
+{
+  "id": "bg-14-002",
+  "sequenceNumber": 526,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 2,
+  "verseEnd": 2,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "Freedom through shared divine nature / दिव्य स्वरूप की ओर",
+  "context": "Krishna describes the liberating result of relying on the knowledge announced in the preceding verse.",
+  "contextHindi": "कृष्ण इस ज्ञान का आश्रय लेने वालों के लिए सृष्टि और प्रलय के बंधन से मुक्ति का फल बताते हैं।",
+  "sanskritDevanagari": "इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः |\nसर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च ||१४-२||",
+  "transliteration": "idaṃ jñānamupāśritya mama sādharmyamāgatāḥ .\nsarge.api nopajāyante pralaye na vyathanti ca ||14-2||",
+  "wordByWord": [
+    {
+      "term": "upāśritya",
+      "meaning": "having taken refuge in; आश्रय लेकर"
+    },
+    {
+      "term": "sādharmyam",
+      "meaning": "sharing a nature or condition; समान धर्म"
+    },
+    {
+      "term": "sarge",
+      "meaning": "at creation; सृष्टि में"
+    },
+    {
+      "term": "pralaye",
+      "meaning": "at dissolution; प्रलय में"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि इस ज्ञान का आश्रय लेकर उनके साधर्म्य को प्राप्त लोग सृष्टि के आरंभ में जन्म नहीं लेते और प्रलय में व्याकुल नहीं होते। साधर्म्य का अर्थ समान स्वभाव या अवस्था की ओर है; इसे रोजमर्रा में किसी व्यक्ति का भगवान बन जाने का दावा न समझें। यहाँ चर्चा जन्म और विश्व के लय से परे आध्यात्मिक मुक्ति की है। स्वामी सिवानंद की टिप्पणी इसे परम आत्मा के ज्ञान की प्रशंसा बताती है। यह टिप्पणी अर्थ की दिशा खोलती है, जबकि श्लोक स्वयं ज्ञान के आश्रय और उसके फल की बात करता है। हमारे दिन में बदलाव आते हैं: नौकरी की भूमिका बदलती है, संबंधों की अपेक्षाएँ बदलती हैं, योजनाएँ समाप्त होती हैं। उनसे उत्पन्न दुख को दबाना इस श्लोक की साधना नहीं है। एक सीमित व्यावहारिक संकेत यह हो सकता है कि बदलती परिस्थिति को अपनी पूरी पहचान न बना लें। जरूरत हो तो सहयोग लें और परिवर्तन के बीच अपने मूल मूल्यों को फिर याद करें।",
+  "clearEnglish": "The result Krishna describes is freedom from participation in the cosmic cycle of creation and dissolution. Those who rely on this knowledge reach his sādharmya, a term pointing to shared nature or likeness in condition. Sivananda's brief commentary identifies the knowledge praised here as knowledge of the Supreme Self. That is an interpretive clarification supplied by the edition, not an additional phrase in the Sanskrit verse. The claim concerns liberation; it is larger than ordinary emotional composure. It would therefore be misleading to promise that a reader will feel no grief whenever something ends. For contemporary reflection, however, the verse can help distinguish an event from the whole identity of the person encountering it. Losing a role need not erase one's capacity for care, honesty, or learning. This is an application by analogy, not a replacement for the cosmic meaning. Support, time, and responsible action can accompany spiritual reflection when change is difficult.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Those taking refuge in this knowledge attain Krishna's sādharmya and are free from birth at creation and distress at dissolution."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sri Swami Sivananda identifies the praised knowledge as knowledge of the Supreme Self."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Remembering values during change is an analogy for practice, not proof that ordinary grief must disappear."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "During one transition, name what changed and one value you can still express through a concrete action."
+    }
+  ],
+  "reflectionQuestion": "When a role changes, what am I treating as the whole of my identity?",
+  "reflectionQuestionHindi": "कोई भूमिका बदलने पर मैं किस चीज को अपनी पूरी पहचान मान लेता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

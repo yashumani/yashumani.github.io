@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-042",
+  "sequenceNumber": 414,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 42,
+  "verseEnd": 42,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "एक अंश से जगत का आधार / The world sustained by one part",
+  "context": "Krishna closes the chapter by moving from many details to the whole world sustained by a single part of himself.",
+  "contextHindi": "अध्याय के अंत में कृष्ण अनेक विवरणों से पूरे जगत को एक अंश से धारण करने की बात तक आते हैं।",
+  "sanskritDevanagari": "अथवा बहुनैतेन किं ज्ञातेन तवार्जुन |\nविष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ||१०-४२||",
+  "transliteration": "athavā bahunaitena kiṃ jñātena tavārjuna .\nviṣṭabhyāhamidaṃ kṛtsnamekāṃśena sthito jagat ||10-42||",
+  "wordByWord": [
+    {
+      "term": "बहुना एतेन",
+      "meaning": "with this much detail"
+    },
+    {
+      "term": "विष्टभ्य",
+      "meaning": "supporting or sustaining"
+    },
+    {
+      "term": "कृत्स्नम् जगत्",
+      "meaning": "the entire world"
+    },
+    {
+      "term": "एकांशेन",
+      "meaning": "by one part"
+    }
+  ],
+  "spokenHindi": "कृष्ण अर्जुन से पूछते हैं कि इतने विवरण जानने से क्या विशेष प्रयोजन है। फिर वे कहते हैं कि वे इस पूरे जगत को एक अंश से धारण करके स्थित हैं। यह सूची को निरर्थक बताना नहीं है। उसने चिंतन के कई आधार दिए; अब कृष्ण उन सबके पीछे के व्यापक संबंध को सामने रखते हैं। एकांशेन को गणित की तरह किसी तय प्रतिशत में बदलना ठीक नहीं। भाषा दिव्य महिमा की विशालता और जगत के आधार का संकेत देती है। सारे उदाहरण मिलकर भी स्रोत को खत्म नहीं कर देते। पढ़ते समय हम भी कभी विवरण जुटाते रहते हैं और मुख्य विचार भूल जाते हैं। हमारा अभ्यास हो सकता है कि थोड़ी देर रुककर अपने शब्दों में संबंध कहें: विविध रूप हैं, और उनका आधार कृष्ण हैं। फिर रोजमर्रा में ऐसा कोई काम देखें जहाँ कई छोटी गतिविधियाँ एक बड़े उद्देश्य की सेवा करती हैं। यह तुलना हमारे समय की है, श्लोक का पूरा अर्थ नहीं। अध्याय इसी व्यापकता पर समाप्त होता है; अगला अध्याय नई घटना शुरू करेगा।",
+  "clearEnglish": "The closing question redirects attention from enumeration to support. Krishna asks what use so many details have for Arjuna, then says he sustains the entire world by one part of himself. The preceding examples are not thereby declared useless. They have provided ways to recognize divine prominence; the final statement gives their shared relation to the whole. One part is not offered as a measurable percentage or a physical subdivision of a deity. It conveys that the sustained world does not exhaust the sustaining reality. A practical study inference is to pause when detail has become an end in itself. Can the listener state the central relationship in plain words before collecting another example? The chapter joins diversity with dependence on Krishna. A modern analogy is a set of tasks serving a larger purpose, although that analogy cannot capture the full theological claim. Choose a single sentence that connects the examples, then return to one concrete practice of attention or care. The chapter ends here without teaching the next event in advance.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says he sustains the whole world by one part of himself, concluding the account of glories."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Returning from details to their central relationship can improve study; one part is not a stated mathematical proportion."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Connect the details",
+      "text": "Write one sentence linking the chapter's examples to their common source. Then choose one ordinary act of care that expresses your understanding."
+    }
+  ],
+  "reflectionQuestion": "What main relationship do I lose when I keep collecting details?",
+  "reflectionQuestionHindi": "विवरण जुटाते रहने में मैं कौन सा मुख्य संबंध भूल जाता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

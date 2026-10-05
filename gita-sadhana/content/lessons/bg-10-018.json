@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-018",
+  "sequenceNumber": 390,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 18,
+  "verseEnd": 18,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "अमृत जैसी वाणी को फिर सुनना / Listening with renewed interest",
+  "context": "Arjuna asks again for a detailed account of Krishna's yoga power and manifestations.",
+  "contextHindi": "अर्जुन कृष्ण की योग शक्ति और विभूति फिर विस्तार से सुनना चाहते हैं और वाणी को अमृत कहते हैं।",
+  "sanskritDevanagari": "विस्तरेणात्मनो योगं विभूतिं च जनार्दन |\nभूयः कथय तृप्तिर्हि शृण्वतो नास्ति मेऽमृतम् ||१०-१८||",
+  "transliteration": "vistareṇātmano yogaṃ vibhūtiṃ ca janārdana .\nbhūyaḥ kathaya tṛptirhi śṛṇvato nāsti me.amṛtam ||10-18||",
+  "wordByWord": [
+    {
+      "term": "विस्तरेण",
+      "meaning": "in detail"
+    },
+    {
+      "term": "भूयः",
+      "meaning": "again"
+    },
+    {
+      "term": "तृप्तिः",
+      "meaning": "satisfaction or having had enough"
+    },
+    {
+      "term": "अमृतम्",
+      "meaning": "nectar; figuratively life-giving speech here"
+    }
+  ],
+  "spokenHindi": "अर्जुन कृष्ण से फिर विस्तार से उनकी योग शक्ति और विभूति बताने को कहते हैं। वे कहते हैं कि आपकी अमृत जैसी बात सुनकर मेरा मन अभी भरा नहीं है। यहाँ तृप्ति न होने का अर्थ उपभोक्ता की बेचैनी समझना जरूरी नहीं; संदर्भ में अर्जुन की सीखने की रुचि है। अमृत वाणी की जीवनदायी गुणवत्ता का चित्र है। उसे किसी पेय, दवा या शरीर को अमर करने की विधि बना देना शब्द के इस प्रयोग को बिगाड़ देगा। पिछले प्रश्न में ध्यान का आधार पूछा गया था; अब अर्जुन उसी अनुरोध में उत्सुकता का भाव जोड़ते हैं। सुनने की इच्छा कभी समझ को गहरा करती है, पर हम अपने उपयोग में सुनते रहने और एक बात पर ठहरकर सोचने का संतुलन भी रख सकते हैं। यह संतुलन श्लोक का शाब्दिक आदेश नहीं है। आज कोई पसंदीदा पंक्ति फिर सुनें तो पूछें कि उसमें नया क्या समझ आया। केवल दोहराव की सुखद ध्वनि और अर्थ की स्पष्टता दोनों को अलग पहचानना अध्ययन को अधिक जागरूक बना सकता है।",
+  "clearEnglish": "The language of nectar expresses Arjuna's response to Krishna's speech. He asks for another detailed account of yoga power and divine manifestations because listening has not exhausted his interest. This is not a complaint that the teaching is inadequate; it is an invitation to continue. The repetition of again also links the request with the chapter's opening, where Krishna had offered to speak further for Arjuna's welfare. Amrita functions as a religious and poetic image for life-giving words in this setting. It should not be transformed into a physiological promise. A useful contemporary distinction is between renewed listening that brings understanding and endless consumption that avoids reflection. The verse praises Arjuna's eagerness, while that distinction is our own application. Revisit a short passage and see whether its meaning has become clearer, rather than measuring value only by how moving it sounds. One can enjoy the sound and still attend to the argument. Such listening gives curiosity a concrete direction.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna seeks a detailed repetition and describes Krishna's speech as nectar to him."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Reflective repetition can deepen learning; the nectar image does not state a bodily effect."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Listen again with a question",
+      "text": "Revisit one short passage and write a single point you understand more clearly this time. Keep the session brief enough to reflect afterwards."
+    }
+  ],
+  "reflectionQuestion": "When I revisit a passage, am I hearing its meaning more clearly?",
+  "reflectionQuestionHindi": "किसी पंक्ति को फिर सुनते समय क्या उसका अर्थ भी मेरे लिए अधिक साफ होता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

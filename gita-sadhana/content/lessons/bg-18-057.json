@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-057",
+  "sequenceNumber": 680,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 57,
+  "verseEnd": 57,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Offer action with clear intelligence / विवेक सहित कर्म अर्पण",
+  "context": "Krishna addresses Arjuna directly after saying action can continue under refuge and grace.",
+  "contextHindi": "कर्म करते हुए आश्रय की बात के बाद कृष्ण अर्जुन को मन से कर्म अर्पित करने को कहते हैं।",
+  "sanskritDevanagari": "चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः |\nबुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव ||१८-५७||",
+  "transliteration": "cetasā sarvakarmāṇi mayi saṃnyasya matparaḥ .\nbuddhiyogamupāśritya maccittaḥ satataṃ bhava ||18-57||",
+  "wordByWord": [
+    {
+      "term": "cetasā",
+      "meaning": "with the mind or inwardly"
+    },
+    {
+      "term": "sarvakarmāṇi",
+      "meaning": "all actions"
+    },
+    {
+      "term": "mayi saṃnyasya",
+      "meaning": "renouncing or offering into me"
+    },
+    {
+      "term": "buddhiyogam",
+      "meaning": "discipline of discerning intelligence"
+    },
+    {
+      "term": "maccittaḥ",
+      "meaning": "mind fixed on me"
+    }
+  ],
+  "spokenHindi": "कृष्ण अर्जुन से कहते हैं कि मन में अपने सभी कर्म उन्हें अर्पित करो, उन्हें सर्वोच्च लक्ष्य मानो, बुद्धियोग का आश्रय लो और चित्त को लगातार उन्हीं में रखो। यहाँ अर्पण बाहरी काम छोड़ देने का नाम नहीं है। पिछले श्लोक में कर्म करते रहने की बात थी; अब उसके भीतर की दिशा साफ की जाती है। बुद्धियोग जोड़ना भी महत्त्वपूर्ण है। केवल आवेश में कुछ कर डालकर उसे ईश्वर को समर्पित कहना इस पंक्ति का पूरा अर्थ नहीं होगा। सोच, परिणाम की जाँच और विनम्रता साथ रहने चाहिए। लगातार स्मरण का अर्थ हर क्षण तनाव से एक ही विचार पकड़े रहना भी नहीं है। दिन के काम में लौट लौटकर यह याद करना कि मेरा उद्देश्य क्या है, एक सहज अभ्यास हो सकता है। आज कोई काम शुरू करने से पहले उसका लाभ किसे होगा यह पूछें। यदि उससे किसी को हानि हो रही हो, तो धार्मिक भाषा से उसे ढकें नहीं; निर्णय पर फिर विचार करें। अर्पण जवाबदेही को गहरा करे, उससे बचाए नहीं।",
+  "clearEnglish": "Krishna asks Arjuna to renounce all actions in him mentally, regard him as the highest end, rely on buddhi yoga, and keep his mind fixed on him. The word mentally matters after the previous assurance about continuing to act. The proposed surrender changes the center from which action is undertaken; it does not erase the action or its effects. The explicit appeal to discerning intelligence also guards against treating a sudden impulse as divine authorization. A person can dedicate a task to a valued spiritual aim and still ask whether the task is accurate, lawful, fair, and safe. That last set of questions is an application, not a quotation of the verse. Constant remembrance need not be turned into compulsive self monitoring. A brief pause before and after a responsibility may help attention return to its chosen orientation. Because this is spoken to Arjuna within a specific dialogue, it should not be used by a third party to claim control over someone else's choices. Inner surrender and clear judgment are placed together here.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna calls Arjuna to offer all actions inwardly to him, make him the supreme goal, rely on buddhi yoga, and keep the mind on him."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Dedication can guide responsible work; it does not make impulsive or harmful conduct beyond scrutiny."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Before a real task, state its purpose, check foreseeable effects, and offer the effort without claiming infallibility."
+    }
+  ],
+  "reflectionQuestion": "Does my idea of surrender make my judgment clearer or let me avoid it?",
+  "reflectionQuestionHindi": "क्या मेरा समर्पण निर्णय को स्पष्ट करता है या मुझे उससे बचने देता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

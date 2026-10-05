@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-032",
+  "sequenceNumber": 655,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 32,
+  "verseEnd": 32,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "अधर्म को धर्म मानना / Reversal of judgement",
+  "context": "Krishna describes tamasic intellect as darkness-covered, taking adharma as dharma and seeing things in reversal.",
+  "contextHindi": "कृष्ण अंधकार से ढकी, अधर्म को धर्म और बातों को उलटा समझने वाली बुद्धि को तामसिक बताते हैं।",
+  "sanskritDevanagari": "अधर्मं धर्ममिति या मन्यते तमसावृता |\nसर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी ||१८-३२||",
+  "transliteration": "adharmaṃ dharmamiti yā manyate tamasāvṛtā .\nsarvārthānviparītāṃśca buddhiḥ sā pārtha tāmasī ||18-32||",
+  "wordByWord": [
+    {
+      "term": "adharmaṃ dharmam iti",
+      "meaning": "Taking adharma to be dharma"
+    },
+    {
+      "term": "tamasā āvṛtā",
+      "meaning": "Covered by darkness"
+    },
+    {
+      "term": "viparītān",
+      "meaning": "Reversed or contrary"
+    },
+    {
+      "term": "buddhiḥ",
+      "meaning": "Intellect or discernment"
+    }
+  ],
+  "spokenHindi": "कृष्ण तामसिक बुद्धि को अंधकार से ढकी बताते हैं। वह अधर्म को धर्म मानती है और अर्थों को उलटी दिशा में देखती है। पिछले श्लोक की गलत समझ से यहां बात और तीखी होती है: नुकसान वाली दिशा को सही नाम दिया जा रहा है। आधुनिक उदाहरण में अपमान को अनुशासन या छल को बुद्धिमानी कहकर बचाया जा सकता है। ये उदाहरण निष्कर्ष हैं, श्लोक की अपनी घटना नहीं। केवल असहमति होने से दूसरे की बुद्धि को तामसिक घोषित करना जिम्मेदार पढ़त नहीं। हमें वास्तविक व्यवहार, प्रमाण और असर देखना चाहिए। आज अपने किसी अच्छे सुनाई देने वाले औचित्य की जांच करें। जिस काम को सही कह रहे हैं, उससे किसकी गरिमा, सुरक्षा या भरोसा घटता है? यदि नुकसान स्पष्ट है, तो नाम बदलने से वह गायब नहीं होगा। आवश्यक जवाबदेही और सहायता की जगह रखें। निर्णय की भाषा को उसके वास्तविक परिणाम से मिलाकर देखना उपयोगी अभ्यास है। सत्य के प्रति नम्रता हमें प्रिय कहानी को गलत होने पर छोड़ने की क्षमता दे सकती है।",
+  "clearEnglish": "Krishna describes tamasic intellect as covered by darkness, taking adharma to be dharma and understanding things in reversal. The contrast with the previous verse is significant: inaccurate understanding becomes a more radical inversion. A contemporary analogy is calling humiliation discipline or deceit cleverness so that harmful conduct appears virtuous. These examples are applications, not events described in the verse. The classification should not become an insult directed at anyone who disagrees with us. Evidence, conduct, and consequences must remain central. Examine one justification that sounds morally favourable. What happens to the dignity, safety, or trust of those affected? If a clear harm is present, changing its name does not remove it. An accountable response may require correction, protection, or suitable support. Compare the language of your judgement with the reality of the act. This modest practice cannot certify complete discernment, but it can expose a reversal that convenience has concealed. Humility permits a preferred story to be revised when the facts do not support it.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna calls intellect covered by darkness, treating adharma as dharma and seeing things in reversal, tamasic."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Comparing a favourable label with actual harm is a modern application, not a licence to insult dissenters."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Label and consequence",
+      "text": "Compare one favourable justification with its actual effect on dignity, safety, or trust, and correct any clear contradiction."
+    }
+  ],
+  "reflectionQuestion": "Have I renamed a harm instead of addressing it?",
+  "reflectionQuestionHindi": "क्या मैंने नुकसान सुधारने के बजाय उसका अच्छा नाम रख दिया है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

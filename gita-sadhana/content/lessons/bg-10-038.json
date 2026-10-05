@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-038",
+  "sequenceNumber": 410,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 38,
+  "verseEnd": 38,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "नीति, मौन और ज्ञान / Strategy, silence and knowledge",
+  "context": "Krishna names the sceptre, statesmanship, silence and knowledge within the final series of examples.",
+  "contextHindi": "कृष्ण दंड, विजय चाहने वालों की नीति, रहस्यों का मौन और ज्ञानियों का ज्ञान कहते हैं।",
+  "sanskritDevanagari": "दण्डो दमयतामस्मि नीतिरस्मि जिगीषताम् |\nमौनं चैवास्मि गुह्यानां ज्ञानं ज्ञानवतामहम् ||१०-३८||",
+  "transliteration": "daṇḍo damayatāmasmi nītirasmi jigīṣatām .\nmaunaṃ caivāsmi guhyānāṃ jñānaṃ jñānavatāmaham ||10-38||",
+  "wordByWord": [
+    {
+      "term": "दण्डः",
+      "meaning": "sceptre or instrument of regulation"
+    },
+    {
+      "term": "नीतिः",
+      "meaning": "statesmanship or policy"
+    },
+    {
+      "term": "मौनम्",
+      "meaning": "silence"
+    },
+    {
+      "term": "गुह्यानाम्",
+      "meaning": "among secrets"
+    }
+  ],
+  "spokenHindi": "कृष्ण नियमन करने वालों में दंड, जीत चाहने वालों में नीति, रहस्यों में मौन और ज्ञानवानों में ज्ञान कहते हैं। दंड को दिए गए संस्करण में राजदंड के रूप में रखा गया है। इस नाम से किसी को अपमानित करने या मारने का धार्मिक अधिकार नहीं मिलता। नीति का अर्थ यहाँ राज्यों या नेतृत्व की रणनीति से जुड़ता है; उसे किसी भी चालाकी का समर्थन मानना शब्द को छोटा करेगा। मौन का उदाहरण खास है। हर ज्ञात बात तुरंत बोल देना जरूरी नहीं; कुछ जानकारी विश्वास से मिलती है और उसकी रक्षा जिम्मेदारी हो सकती है। लेकिन मौन को नुकसान या दुर्व्यवहार छिपाने की सलाह भी नहीं बनाना चाहिए। यह फर्क हमारा नैतिक अनुप्रयोग है। ज्ञानियों में ज्ञान कहना ध्यान को केवल व्यक्ति की प्रतिष्ठा से हटाकर वास्तविक समझ पर रखता है। आज कोई संदेश आगे भेजने से पहले सोचें कि क्या वह सत्य है, साझा करना जरूरी है, और उससे किसकी गोपनीयता प्रभावित होगी। यदि सुरक्षा का वास्तविक प्रश्न हो तो उचित सहायता तक बात पहुँचाना जिम्मेदार मौन की सीमा स्पष्ट करता है।",
+  "clearEnglish": "The verse names instruments and capacities: the sceptre among those who regulate, statesmanship among those seeking victory, silence among secrets, and knowledge among knowers. The supplied edition's political language should be preserved without turning it into permission for personal punishment. Niti concerns policy or statesmanship in this setting; it is not automatically any successful trick. Silence also has a precise category, secrets. That can support a modern reflection on confidentiality, but it cannot reasonably require concealing abuse or withholding necessary protection. The application needs that boundary. Knowledge among knowers then shifts attention from the prestige of a person to what is actually understood. In ordinary communication, these themes meet when deciding whether to pass information onward. Check truth, purpose and privacy before sharing a message. If a serious safety concern is involved, appropriate disclosure to someone able to help may be required. This is our ethical extension; Krishna's literal statement is a catalogue of exemplary capacities, not a complete contemporary code for punishment or disclosure.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies the sceptre, statesmanship, silence and knowledge within their respective domains."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Confidentiality deserves care, but silence does not require hiding harm or preventing needed help."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Check before forwarding",
+      "text": "Before sharing one message, check its truth, purpose and privacy. Where actual harm needs intervention, seek appropriate support rather than using silence as an excuse."
+    }
+  ],
+  "reflectionQuestion": "Is my silence protecting trust or concealing something that needs help?",
+  "reflectionQuestionHindi": "मेरा मौन विश्वास की रक्षा कर रहा है या ऐसी बात छिपा रहा है जिसे सहायता चाहिए?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

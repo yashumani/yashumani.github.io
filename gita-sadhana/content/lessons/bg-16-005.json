@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-005",
+  "sequenceNumber": 576,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 5,
+  "verseEnd": 5,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "अर्जुन को आश्वासन / Reassurance for Arjuna",
+  "context": "Krishna explains the different consequences of the two dispositions and reassures Arjuna directly.",
+  "contextHindi": "कृष्ण दोनों स्वभावों के फल बताते हैं और अर्जुन को सीधे आश्वासन देते हैं।",
+  "sanskritDevanagari": "दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता |\nमा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव ||१६-५||",
+  "transliteration": "daivī sampadvimokṣāya nibandhāyāsurī matā .\nmā śucaḥ sampadaṃ daivīmabhijāto.asi pāṇḍava ||16-5||",
+  "wordByWord": [
+    {
+      "term": "vimokṣāya",
+      "meaning": "For liberation"
+    },
+    {
+      "term": "nibandhāya",
+      "meaning": "For bondage"
+    },
+    {
+      "term": "mā śucaḥ",
+      "meaning": "Do not grieve"
+    },
+    {
+      "term": "daivī sampat",
+      "meaning": "Divine qualities or endowment"
+    }
+  ],
+  "spokenHindi": "कृष्ण बताते हैं कि दैवी सम्पदा मुक्ति की ओर और आसुरी सम्पदा बंधन की ओर ले जाती है। फिर वे अर्जुन से कहते हैं, शोक मत करो, तुम्हारे भीतर दैवी गुण हैं। यह बात संवाद के लिए बहुत महत्वपूर्ण है। अर्जुन ने पहले अपनी उलझन और भय खुलकर रखे थे। उसकी कठिनाई देखकर कृष्ण उसे आसुरी नहीं ठहराते। वे उसके भीतर की अच्छी दिशा पहचानते हैं और उसे आगे सीखने का सहारा देते हैं। स्रोत की टिप्पणी भी इस आश्वासन को अर्जुन की उदासी से जोड़ती है। हम इससे यह सीख सकते हैं कि ईमानदार उलझन नैतिक विफलता का प्रमाण नहीं है। फिर भी यह आधुनिक अनुप्रयोग है, हर व्यक्ति के बारे में कृष्ण का दिया हुआ निर्णय नहीं। अपने भीतर कोई कमजोरी दिखे तो उसे सुधारने के साथ मौजूद अच्छाई भी पहचानिए। सत्य बोलने, करुणा रखने या जिम्मेदारी निभाने का एक वास्तविक उदाहरण याद कीजिए। उससे अपने लिए ऊँचा प्रमाणपत्र नहीं, आगे के अभ्यास का आधार बनाइए। आश्वासन हमें जिम्मेदारी से दूर नहीं, उसके करीब ला सकता है।",
+  "clearEnglish": "Krishna states that the divine endowment leads toward liberation and the demoniacal endowment toward bondage. He then addresses Arjuna personally: do not grieve, for you possess the divine endowment. The movement from classification to reassurance is essential. Arjuna's distress has not disqualified him from spiritual learning. In the supplied edition, Sivananda's brief commentary explicitly connects this assurance with Arjuna's dejection and his sattvic tendencies. That is commentary on the dialogue, not a new universal guarantee that anyone reading the verse has already attained liberation. A contemporary application can distinguish honest uncertainty from deliberate cruelty or deceit. Moral growth needs accurate recognition of strengths as well as weaknesses. Otherwise a catalogue of virtues can become a source of paralysis. Recall one occasion when you acted truthfully or compassionately despite discomfort. Treat it as evidence of a capacity you can cultivate, while remaining open to correction. Reassurance works best when it supports the next responsible action rather than replacing it.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna contrasts liberation and bondage, then personally assures Arjuna that he has divine qualities."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Recognizing an existing ethical strength can support further practice; Arjuna's personal assurance is not an automatic verdict about every reader."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Remember a capacity",
+      "text": "Recall one truthful or compassionate action and repeat its essential quality in a small task."
+    }
+  ],
+  "reflectionQuestion": "Which existing strength can support the correction I need today?",
+  "reflectionQuestionHindi": "मेरी कौन सी मौजूदा अच्छी आदत आज के सुधार में सहारा दे सकती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

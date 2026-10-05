@@ -1,0 +1,67 @@
+{
+  "id": "bg-14-021",
+  "sequenceNumber": 545,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 21,
+  "verseEnd": 21,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "Arjuna asks for signs, conduct, and method / अर्जुन के तीन प्रश्न",
+  "context": "Arjuna asks Krishna how a person beyond the three qualities is recognized, behaves, and reaches that condition.",
+  "contextHindi": "यह श्लोक अर्जुन का प्रश्न है: गुणों से पार व्यक्ति के लक्षण, आचरण और पार होने की विधि क्या है?",
+  "sanskritDevanagari": "अर्जुन उवाच |\nकैर्लिङ्गैस्त्रीन्गुणानेतानतीतो भवति प्रभो |\nकिमाचारः कथं चैतांस्त्रीन्गुणानतिवर्तते ||१४-२१||",
+  "transliteration": "arjuna uvāca .\nkairliṅgaistrīnguṇānetānatīto bhavati prabho .\nkimācāraḥ kathaṃ caitāṃstrīnguṇānativartate ||14-21||",
+  "wordByWord": [
+    {
+      "term": "liṅgaiḥ",
+      "meaning": "by signs or marks; लक्षणों से"
+    },
+    {
+      "term": "atītaḥ",
+      "meaning": "gone beyond; पार गया"
+    },
+    {
+      "term": "ācāraḥ",
+      "meaning": "conduct; आचरण"
+    },
+    {
+      "term": "katham",
+      "meaning": "how; कैसे"
+    }
+  ],
+  "spokenHindi": "यहाँ वक्ता अर्जुन हैं। वे कृष्ण से पूछते हैं कि इन तीन गुणों को पार करने वाले के लक्षण क्या हैं, उसका आचरण कैसा है और वह गुणों से पार कैसे जाता है। यह प्रश्न है, कृष्ण की ओर से अभी दिया गया उत्तर नहीं। अर्जुन केवल एक बड़ा आध्यात्मिक नाम सुनकर संतुष्ट नहीं होते। वे पहचान, व्यवहार और विधि को अलग अलग पूछते हैं। इससे अध्ययन की अच्छी आदत सामने आती है: किसी आदर्श के बारे में सुनें तो पूछें कि जीवन में उसका अर्थ कैसे देखा जाएगा। हम भी किसी को केवल आत्मविश्वास, आकर्षक भाषा या शांत चेहरे के कारण सिद्ध मानने से बच सकते हैं। यह आधुनिक निष्कर्ष है; श्लोक किसी आज के शिक्षक का परीक्षण नहीं देता। आचरण और साधना के प्रश्न सम्मान के साथ उठाए जा सकते हैं। अपने लिए भी पूछें कि जिस गुण को सीखना चाहता हूँ, उसका छोटा व्यवहार क्या होगा। उत्तर अभी आने वाला है, इसलिए आज अर्जुन की जिज्ञासा के साथ ठहरें और शब्दों से आगे समझ माँगें।",
+  "clearEnglish": "Arjuna is the speaker. He asks three connected questions: by what signs is someone who has crossed the qualities recognized, what is that person's conduct, and how does the crossing occur? Keeping this attribution clear matters, because the verse requests teaching rather than declaring its content. Arjuna distinguishes recognition from behavior and both from method. That structure is valuable for study: an impressive description of a spiritual goal leaves practical questions unanswered. A contemporary inference is to ask respectfully how a claimed ideal shows itself in conduct and what practice supports it. Charisma, confidence, or a calm appearance alone should not settle those questions. The verse does not supply an examination for judging a particular teacher, but it encourages inquiry beyond labels. We can turn the inquiry toward our own aims as well. If we say we seek steadiness, what concrete behavior would express it, and what helps cultivate that behavior? Krishna's answer follows; this verse gives the questions their proper place.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna asks about the signs, conduct, and method of crossing the three gunas; he does not provide the answer here."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Asking how an ideal appears in behavior and practice is a study application of Arjuna's threefold inquiry."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Write one spiritual ideal you use, one question about its conduct, and one about its practice."
+    }
+  ],
+  "reflectionQuestion": "Which part of my ideal remains unclear: its signs, its conduct, or its method?",
+  "reflectionQuestionHindi": "मेरे आदर्श का कौन सा पक्ष अस्पष्ट है: लक्षण, आचरण या अभ्यास की विधि?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

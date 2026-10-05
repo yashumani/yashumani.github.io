@@ -1,0 +1,67 @@
+{
+  "id": "bg-14-014",
+  "sequenceNumber": 538,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 14,
+  "verseEnd": 14,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "Sattva and the destination at death / मृत्यु में सत्त्व की दिशा",
+  "context": "Krishna moves from present signs of the gunas to their stated consequences at death.",
+  "contextHindi": "गुणों के वर्तमान संकेतों के बाद कृष्ण मृत्यु के समय सत्त्व के प्रभाव का फल बताते हैं।",
+  "sanskritDevanagari": "यदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत् |\nतदोत्तमविदां लोकानमलान्प्रतिपद्यते ||१४-१४||",
+  "transliteration": "yadā sattve pravṛddhe tu pralayaṃ yāti dehabhṛt .\ntadottamavidāṃ lokānamalānpratipadyate ||14-14||",
+  "wordByWord": [
+    {
+      "term": "dehabhṛt",
+      "meaning": "the bearer of a body; देहधारी"
+    },
+    {
+      "term": "pralayam",
+      "meaning": "dissolution, here bodily death"
+    },
+    {
+      "term": "uttamavidām",
+      "meaning": "of knowers of the Highest"
+    },
+    {
+      "term": "amalān",
+      "meaning": "spotless; निर्मल"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि देहधारी जब बढ़े हुए सत्त्व में शरीर का अंत पाता है, तब वह उत्तम को जानने वालों के निर्मल लोकों को प्राप्त होता है। यहाँ प्रलय का संदर्भ शरीर की मृत्यु है, क्योंकि विषय देहधारी का अंत है। यह मृत्यु के बाद की गति पर श्लोक का आध्यात्मिक कथन है। इसे केवल अच्छी मनोदशा का रूपक कहकर हटाना भी पाठ को छोटा करेगा, और किसी शोकग्रस्त परिवार को निश्चित फैसला सुनाना भी अनुचित होगा। हमें किसी के अंतिम क्षणों के भीतर का पूरा ज्ञान नहीं होता। आधुनिक अभ्यास की दिशा अपने जीवित दिनों की समझ और आचरण में हो सकती है। ऐसा प्रश्न पूछें कि आज क्या स्पष्टता, करुणा और जिम्मेदारी को जगह देगा। यह प्रश्न श्लोक के लोक संबंधी दावे को साबित नहीं करता; वह हमारे वर्तमान चुनाव पर ध्यान लौटाता है। मृत्यु या शोक की चर्चा में संवेदनशील रहें। सांत्वना, साथ और आवश्यक देखभाल को आध्यात्मिक अनुमान के पीछे न रख दें।",
+  "clearEnglish": "Krishna turns from recognizing the qualities during life to a teaching about the embodied person's destination at death. When death occurs while sattva predominates, the person reaches spotless worlds of those who know the Highest. Pralaya here is the dissolution of embodied life, rather than the universal dissolution discussed at the chapter's opening. The verse makes a religious claim about a postmortem destination; it should neither be silently reduced to a mood metaphor nor presented as an empirically verified outcome. It also gives us no adequate basis for pronouncing on a particular deceased person's state. Grieving people deserve care without speculative rankings of their loved ones. A bounded contemporary application is to direct attention toward the quality of one's choices while alive. Cultivating clear understanding and considerate conduct is possible today, whereas judging another person's final inner condition is not. This application respects the verse's larger horizon while keeping practical responsibility within what we can actually address.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Death during predominant sattva leads, according to Krishna, to spotless worlds of knowers of the Highest."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Cultivating clearer conduct now is a practical response; the verse does not authorize verdicts about a particular deceased person."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Choose one living relationship in which a clear and considerate action can be taken today."
+    }
+  ],
+  "reflectionQuestion": "What can I improve in my conduct while leaving another person's final condition unjudged?",
+  "reflectionQuestionHindi": "किसी के अंतिम अनुभव का निर्णय किए बिना मैं अपने आचरण में क्या सुधार सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-042",
+  "sequenceNumber": 456,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 42,
+  "verseEnd": 42,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "विशिष्ट असम्मान के लिए क्षमा / Forgiveness for particular disrespect",
+  "context": "Arjuna completes the apology by recalling joking disrespect in ordinary shared settings, privately or publicly.",
+  "contextHindi": "अर्जुन साथ बैठने, खाने और विश्राम में मजाक से हुए असम्मान को कहकर अकेले या दूसरों के सामने की भूलों के लिए क्षमा माँगते हैं।",
+  "sanskritDevanagari": "यच्चावहासार्थमसत्कृतोऽसि\nविहारशय्यासनभोजनेषु |\nएकोऽथवाप्यच्युत तत्समक्षं\nतत्क्षामये त्वामहमप्रमेयम् ||११-४२||",
+  "transliteration": "yaccāvahāsārthamasatkṛto.asi vihāraśayyāsanabhojaneṣu .\neko.athavāpyacyuta tatsamakṣaṃ tatkṣāmaye tvāmahamaprameyam ||11-42||",
+  "wordByWord": [
+    {
+      "term": "अवहासार्थम्",
+      "meaning": "for the sake of joking"
+    },
+    {
+      "term": "असत्कृतः",
+      "meaning": "treated without respect"
+    },
+    {
+      "term": "तत्समक्षम्",
+      "meaning": "in others' presence"
+    },
+    {
+      "term": "क्षामये",
+      "meaning": "I ask forgiveness"
+    }
+  ],
+  "spokenHindi": "अर्जुन अपनी बात पूरी करते हैं। खेल, विश्राम, बैठने या भोजन के समय मजाक में जो असम्मान हुआ हो, अकेले में या दूसरों के सामने, उसके लिए वे क्षमा माँगते हैं। ये साधारण साझा जीवन के प्रसंग हैं। पिछले श्लोक की मित्रता अब विशिष्ट व्यवहार की समीक्षा बनती है। अवहासार्थम् मजाक के उद्देश्य को बताता है, लेकिन इरादा अच्छा होना असर को अपने आप मिटा नहीं देता। यह आखिरी बात हमारा आधुनिक निष्कर्ष है। अर्जुन कृष्ण की अपरिमेयता के सामने विनम्र हैं; इसका अर्थ हर मानव संबंध में लगातार डरते रहना नहीं। किसी वास्तविक गलती के लिए माफी में क्या किया और उसका असर क्या था, साफ रखना उपयोगी हो सकता है। यदि बात दूसरों के सामने हुई थी तो सुधार भी उचित ढंग से उसी संदर्भ को संबोधित करे। सामने वाले पर तुरंत क्षमा करने का दबाव न डालें। आज कोई छोटी असावधानी याद आए तो एक ईमानदार स्वीकार और आगे बदलने वाला काम पर्याप्त शुरुआत हो सकता है। हर वार्तालाप को अनंत जांचना इस अभ्यास की मांग नहीं।",
+  "clearEnglish": "The request for forgiveness becomes concrete. Arjuna names play, rest, sitting and meals as settings in which he may have treated Krishna disrespectfully for the sake of a joke, either alone or before others. Shared everyday life is being reconsidered in light of the divine greatness. The verse completes the preceding admission and preserves both private and public settings. A modern inference is that affectionate intention does not always cancel an unhelpful effect. That observation should lead to proportionate repair, not continual fearful examination of every conversation. A useful apology can state the actual behavior and how it will change. When disrespect was public, an appropriate public correction may also matter, provided it respects the affected person's preference. Do not demand immediate forgiveness. These are contemporary applications, distinct from Arjuna's plea to the immeasurable Krishna. The text does not make ordinary companionship a sin; it records acknowledgment of particular disrespect within a relationship now understood more fully.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna asks forgiveness for joking disrespect in shared activities, privately or before others."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Specific and proportionate repair can respect impact without demanding forgiveness or promoting constant checking."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "A proportionate apology",
+      "text": "If a real recent mistake needs repair, state the behavior briefly, acknowledge its impact and name one change. Let the other person choose their response."
+    }
+  ],
+  "reflectionQuestion": "What would repair the actual effect rather than merely defend my intention?",
+  "reflectionQuestionHindi": "सिर्फ अपने इरादे का बचाव करने के बजाय वास्तविक असर का सुधार क्या होगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

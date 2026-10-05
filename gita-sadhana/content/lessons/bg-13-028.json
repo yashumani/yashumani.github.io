@@ -1,0 +1,75 @@
+{
+  "id": "bg-13-028",
+  "sequenceNumber": 517,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 28,
+  "verseEnd": 28,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "The unperishing in perishing beings / नश्वर में अविनाशी",
+  "context": "Krishna defines true seeing as recognizing the Supreme Lord equally present in all beings and imperishable within their passing forms.",
+  "contextHindi": "कृष्ण सभी प्राणियों में समान स्थित और नष्ट होते रूपों में अविनाशी परमेश्वर को देखना वास्तविक दृष्टि कहते हैं।",
+  "sanskritDevanagari": "समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम् |\nविनश्यत्स्वविनश्यन्तं यः पश्यति स पश्यति ||१३-२८||",
+  "transliteration": "samaṃ sarveṣu bhūteṣu tiṣṭhantaṃ parameśvaram .\nvinaśyatsvavinaśyantaṃ yaḥ paśyati sa paśyati ||13-28||",
+  "wordByWord": [
+    {
+      "term": "samam",
+      "meaning": "equally; समान"
+    },
+    {
+      "term": "sarveṣu bhūteṣu",
+      "meaning": "in all beings"
+    },
+    {
+      "term": "parameśvaram",
+      "meaning": "Supreme Lord"
+    },
+    {
+      "term": "vinaśyatsu",
+      "meaning": "in those that perish"
+    },
+    {
+      "term": "avinaśyantam",
+      "meaning": "the unperishing"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि वही देखता है जो सभी प्राणियों में समान स्थित परमेश्वर को और नष्ट होते रूपों में अविनाशी को देखता है। स्वामी सिवानंद की टिप्पणी जन्म से शरीर में परिवर्तन, वृद्धि, क्षय और मृत्यु के आने की बात करती है, जबकि परम को जन्म और परिवर्तन से परे रखती है। यह देह की दशा और दिव्य उपस्थिति के बीच अंतर की व्याख्या है। समान उपस्थिति से किसी जाति, लिंग, आर्थिक स्थिति या प्रजाति की आध्यात्मिक तुच्छता का निष्कर्ष नहीं निकलता। व्यवहार में जरूरत और जोखिम अलग रह सकते हैं। सभी के लिए आदर होना हर दावे को सही मान लेना नहीं। आज किसी ऐसे व्यक्ति से बातचीत में यह याद रखें जिसकी भूमिका आपसे अलग है। पहले उसका अनुभव सुनें और उसकी वास्तविक जरूरत देखें। यह आधुनिक नैतिक अनुप्रयोग है, अविनाशी के प्रत्यक्ष ज्ञान का प्रमाण नहीं। शरीर की कठिनाई हो तो देखभाल दें। अविनाशी का विचार नश्वर देह को उपेक्षित करने का कारण नहीं, उसके बीच सम्मान बनाए रखने का अवसर हो सकता है।",
+  "clearEnglish": "True seeing is described as recognizing the Supreme Lord equally present in all beings, unperishing within what perishes. Sivananda's commentary distinguishes bodily birth and subsequent changes of growth, decay, and death from the Lord's changeless condition. The contrast should not become contempt for embodied needs. Equal divine presence also gives no textual basis for declaring a caste, sex, economic class, or species spiritually worthless. A practical inference is respect across differences while still recognizing distinct needs and risks. Equal regard does not mean that every factual claim is equally true or that safety precautions disappear. In a conversation with someone whose role differs from one's own, listen first to their account and consider the actual situation. This application does not establish direct realization of the imperishable. It lets the verse's breadth influence ordinary conduct in a bounded way. Care for a vulnerable body remains relevant even while contemplating what the teaching describes as beyond bodily change.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Seeing the Supreme equally present in all beings and unperishing within perishing forms is called true seeing."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sri Swami Sivananda contrasts the body's birth-related changes with the Lord's birthless and changeless condition."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Respect across identities follows ethically from equal presence while retaining distinctions of need, facts, and safety."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Listen respectfully to someone in a different role and respond to their actual need rather than their status."
+    }
+  ],
+  "reflectionQuestion": "Where am I letting outward status determine the respect I offer?",
+  "reflectionQuestionHindi": "कहाँ बाहरी हैसियत मेरे दिए सम्मान को तय कर रही है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

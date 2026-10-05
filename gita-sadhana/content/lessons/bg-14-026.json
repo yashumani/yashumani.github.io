@@ -1,0 +1,67 @@
+{
+  "id": "bg-14-026",
+  "sequenceNumber": 550,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 26,
+  "verseEnd": 26,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "Steady devotion as a path / स्थिर भक्ति का मार्ग",
+  "context": "Krishna answers how the gunas are crossed by naming unswerving service through devotion.",
+  "contextHindi": "लक्षण और आचरण के बाद कृष्ण गुणों से पार होने की विधि में अविचल भक्ति से अपनी सेवा बताते हैं।",
+  "sanskritDevanagari": "मां च योऽव्यभिचारेण भक्तियोगेन सेवते |\nस गुणान्समतीत्यैतान्ब्रह्मभूयाय कल्पते ||१४-२६||",
+  "transliteration": "māṃ ca yo.avyabhicāreṇa bhaktiyogena sevate .\nsa guṇānsamatītyaitānbrahmabhūyāya kalpate ||14-26||",
+  "wordByWord": [
+    {
+      "term": "avyabhicāreṇa",
+      "meaning": "without wavering or deviation"
+    },
+    {
+      "term": "bhaktiyogena",
+      "meaning": "through the yoga of devotion"
+    },
+    {
+      "term": "sevate",
+      "meaning": "serves; सेवा करता है"
+    },
+    {
+      "term": "brahmabhūyāya",
+      "meaning": "for becoming or attaining Brahman"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जो अविचल भक्ति योग से उनकी सेवा करता है, वह इन गुणों को पार करके ब्रह्मभाव के योग्य होता है। अर्जुन के ‘कैसे’ वाले प्रश्न का उत्तर अब स्पष्ट साधना की दिशा देता है। भक्ति केवल मन की पसंद की अवस्था खोजने के बजाय कृष्ण की ओर टिके संबंध और सेवा का मार्ग बनती है। श्लोक किसी खास पूजा सामग्री, क्षेत्रीय रीति या दैनिक समय का निर्देश नहीं देता। वे परिवार या परंपरा के अभ्यास हो सकते हैं, उन्हें इस वाक्य के बराबर न रखें। ‘अविचल’ को पढ़कर एक भटका विचार आने पर अपने को अयोग्य मानना भी जरूरी नहीं। साधना में फिर लौटना छोटा और संभव कदम है। आज कोई संक्षिप्त स्मरण चुनें और उसके साथ एक ईमानदार सेवा करें। यह आधुनिक अभ्यास पूर्ण ब्रह्मभाव का प्रमाण नहीं है। भक्ति का नाम लेकर किसी शिक्षक या संस्था की अनुचित माँग मानना भी श्लोक से नहीं निकलता। समर्पण में विवेक और जिम्मेदारी के लिए जगह बनी रह सकती है।",
+  "clearEnglish": "Krishna supplies a means of going beyond the gunas: serving him through unswerving devotion. Such a person crosses these qualities and becomes fit for Brahman. This moves from the description of steadiness to a relationship and practice oriented toward the divine. The verse specifies devotion and service but does not prescribe a regional ritual, particular offering, or timetable. Those may belong to custom and should not be attributed directly to these words. Nor should the standard of unwavering devotion be turned into a demand to punish oneself for every distracted thought. A contemporary practice can emphasize returning honestly to the chosen orientation and expressing it through a responsible act of care. That practice is a modest application, not proof of the complete attainment. Devotion also does not establish that every demand made by a human authority is legitimate. The verse concerns service to Krishna; applying it well requires discernment about how commitments affect oneself and others.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Serving Krishna with unswerving bhakti yoga crosses the gunas and makes one fit for Brahman."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A short remembrance joined to responsible service is a contemporary practice; ritual specifics and unquestioning obedience to human authorities are not stated here."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Choose a brief remembrance of Krishna and one honest act of service, returning gently if attention wanders."
+    }
+  ],
+  "reflectionQuestion": "How can devotion become a responsible act of care today?",
+  "reflectionQuestionHindi": "आज भक्ति को जिम्मेदार देखभाल के किस छोटे काम में उतार सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

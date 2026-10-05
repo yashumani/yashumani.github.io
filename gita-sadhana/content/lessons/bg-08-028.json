@@ -1,0 +1,75 @@
+{
+  "id": "bg-08-028",
+  "sequenceNumber": 338,
+  "date": "2026-10-05",
+  "chapter": 8,
+  "verseStart": 28,
+  "verseEnd": 28,
+  "chapterNameSanskrit": "अक्षरब्रह्मयोग",
+  "chapterNameEnglish": "Akṣara Brahma Yoga",
+  "theme": "पुण्यफल से परे परम लक्ष्य | Beyond the stated merits",
+  "context": "The eighth chapter closes by contrasting the stated fruits of study, sacrifice, austerity, and giving with the yogi's highest attainment.",
+  "contextHindi": "अध्याय के अंत में कृष्ण वेद, यज्ञ, तप और दान के बताए पुण्यफल से आगे योगी की परम प्राप्ति रखते हैं।",
+  "sanskritDevanagari": "वेदेषु यज्ञेषु तपःसु चैव\nदानेषु यत्पुण्यफलं प्रदिष्टम् |\nअत्येति तत्सर्वमिदं विदित्वा\nयोगी परं स्थानमुपैति चाद्यम् ||८-२८||",
+  "transliteration": "vedeṣu yajñeṣu tapaḥsu caiva dāneṣu yatpuṇyaphalaṃ pradiṣṭam .\natyeti tatsarvamidaṃ viditvā yogī paraṃ sthānamupaiti cādyam ||8-28||",
+  "wordByWord": [
+    {
+      "term": "वेदेषु",
+      "meaning": "In the Vedas or Vedic study."
+    },
+    {
+      "term": "यज्ञेषु",
+      "meaning": "In sacrifices."
+    },
+    {
+      "term": "तपःसु",
+      "meaning": "In austerities."
+    },
+    {
+      "term": "दानेषु",
+      "meaning": "In gifts or giving."
+    },
+    {
+      "term": "पुण्यफलम्",
+      "meaning": "The fruit of merit."
+    },
+    {
+      "term": "आद्यम्",
+      "meaning": "Primeval or original."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि वेदों, यज्ञों, तप और दान में जो पुण्यफल बताया गया है, यह जानकर योगी उस सबको पार करता है और परम आदिम स्थान को प्राप्त होता है। श्लोक की सूची स्पष्ट है। इसमें भक्ति को सीमित फल वाला अभ्यास कहकर जोड़ देना ठीक नहीं होगा। यहाँ यह कहा जा रहा है कि योगी की प्राप्ति इन बताए हुए पुण्यफलों से आगे है। इसका अर्थ यह भी नहीं कि दान रोक दें या सीखना व्यर्थ समझें। श्लोक उन कामों के फल से आगे लक्ष्य रखता है, कामों को बुरा नहीं कहता। आधुनिक जीवन में एक उपयोगी सवाल हो सकता है: मैं सेवा किसलिए करता हूँ? किसी की आवश्यकता पूरी करने के लिए, या अपनी अच्छी छवि बनाने के लिए? यह हमारा नैतिक चिंतन है, पूरा मुक्ति सिद्धांत नहीं। आज एक छोटा काम करें जिसका लाभ स्पष्ट हो, भले ही कोई आपको उसके लिए प्रशंसा न दे। परिणाम की ज़िम्मेदारी बनी रहे। फल से आगे देखना काम की गुणवत्ता और दूसरों की वास्तविक ज़रूरत को कम महत्त्व देना नहीं है।",
+  "clearEnglish": "The closing verse names the meritorious fruits associated with the Vedas, sacrifices, austerities, and gifts. A yogi, knowing this teaching, goes beyond all those fruits and reaches the supreme primeval abode. The list should be kept accurate: it does not add devotion to a category of practices with limited results. Nor does the statement define the highest abode as merely a psychological state of union. It presents attainment within the chapter's theological teaching without supplying every metaphysical detail. A contemporary application can examine reward seeking in worthy activity. Learning or generosity may be turned into a way to accumulate praise, status, or reassurance about one's goodness. Going beyond such fixation, as a practical analogy, means attending to the purpose and real effects of the action. It does not mean abandoning study or giving, since the verse does not condemn them. We can do useful work carefully without making recognition its sole measure, while retaining the distinction between that ethical practice and the yogi's supreme attainment described here.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Knowing this, the yogi goes beyond all stated meritorious fruits of Vedic study, sacrifice, austerity, and giving, attaining the supreme primeval abode."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "An ethical application is to serve a real purpose rather than make recognition the sole aim; the verse does not condemn study or giving."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "A useful unadvertised act",
+      "text": "Do one small act of help whose benefit you can identify, without seeking praise for it."
+    }
+  ],
+  "reflectionQuestion": "What real need could my next act of giving serve?",
+  "reflectionQuestionHindi": "मेरा अगला छोटा दान या सहायता किस वास्तविक आवश्यकता को पूरा कर सकता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "bg-04-017",
+  "sequenceNumber": 179,
+  "date": "2026-10-05",
+  "chapter": 4,
+  "verseStart": 17,
+  "verseEnd": 17,
+  "chapterNameSanskrit": "ज्ञानकर्मसंन्यासयोग",
+  "chapterNameEnglish": "Jñāna Karma Sannyāsa Yoga",
+  "theme": "कर्म की गहराई: सही कर्म, गलत कर्म और अकर्म को समझना | The deeper meaning of action: discerning duty, forbidden action, and inaction.",
+  "context": "Krishna says that action, vikarma (forbidden action), and inaction should all be understood. He adds that the course or nature of action is difficult to understand. The verse names these subjects but does not explain them through the idea of doership; that explanation appears in the commentary on the next verse.",
+  "contextHindi": "कृष्ण कहते हैं कि कर्म, विकर्म और अकर्म—तीनों को समझना चाहिए। वे यह भी कहते हैं कि कर्म की गति या प्रकृति को समझना कठिन है। इस श्लोक में इन विषयों का उल्लेख है, पर कर्तापन की व्याख्या नहीं है। वह व्याख्या अगले श्लोक की टीका में आती है।",
+  "sanskritDevanagari": "कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः |\nअकर्मणश्च बोद्धव्यं गहना कर्मणो गतिः ||४-१७||",
+  "transliteration": "karmaṇo hyapi boddhavyaṃ boddhavyaṃ ca vikarmaṇaḥ .\nakarmaṇaśca boddhavyaṃ gahanā karmaṇo gatiḥ ||4-17||",
+  "wordByWord": [
+    {
+      "term": "कर्मणः",
+      "meaning": "karmanaḥ — of action."
+    },
+    {
+      "term": "विकर्मणः",
+      "meaning": "vikarmaṇaḥ — prohibited, contrary, or destructive action; action that violates dharma and inner clarity."
+    },
+    {
+      "term": "अकर्मणः",
+      "meaning": "akarmaṇaḥ — inaction."
+    },
+    {
+      "term": "गहना",
+      "meaning": "gahanā — difficult to understand; the course or nature of action is profound."
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण तीन बातों को समझने की बात कहते हैं: कर्म, विकर्म और अकर्म। विकर्म का अर्थ है निषिद्ध कर्म। अकर्म का अर्थ है अक्रियता या कर्म का न होना। कृष्ण कहते हैं कि इन तीनों को जानना चाहिए। वे यह भी कहते हैं कि कर्म की गति या प्रकृति गहरी है और उसे समझना कठिन है। श्लोक इन बातों का नाम लेता है, पर यहाँ यह नहीं बताता कि अकर्म का अर्थ अहंकार से मुक्त होना है। न ही यहाँ कर्तापन की व्याख्या दी गई है। अगले श्लोक की टीका में कर्म करते हुए ‘मैं करता हूँ’ के भाव की चर्चा आती है। इसलिए श्लोक के सीधे अर्थ और टीका की व्याख्या को अलग रखना उपयोगी है। यह श्लोक हमें कर्म के स्वरूप पर सावधानी से विचार करने के लिए कहता है।",
+  "clearEnglish": "Krishna says that action, vikarma (forbidden action), and inaction should all be understood. He also says that the course or nature of action is difficult to understand. In this verse, akarma means inaction; the verse does not define it as freedom from ego or from the sense of being the doer. Those ideas belong to the commentary on the following verse, which explains action and inaction through the idea of agency. Keeping the verse and commentary distinct matters: the verse names the subjects to be understood, while the commentary offers an explanation of their spiritual significance. The verse calls for careful understanding rather than a quick judgment based only on what can be seen. It does not, by itself, say that motive, ego, or outward activity defines these terms.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse says that action, vikarma (forbidden action), and inaction should be understood, and that the course or nature of action is difficult to understand."
+    },
+    {
+      "label": "COMMENTARY",
+      "explanation": "The DLS commentary highlights that the core issue is the idea of agency: when the thought, ‘I am the doer,’ disappears, action loses its binding force. This supports a spiritual reading without turning it into a claim that all activity is automatically pure."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "From the verse, we infer that external activity and inner freedom are not the same. A person can be busy and still be entangled; a person can seem inactive and yet be internally driven by ego. Wisdom lies in discerning the quality of intention, not just the volume of work."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Daily check",
+      "text": "Before each task, ask: am I acting from fear, pride, or reward-seeking, or from duty and clarity? If the answer is fear or ego, pause, simplify, and return to the work with steadier awareness."
+    }
+  ],
+  "reflectionQuestion": "When you are busy, how can you tell whether your action is guided by wisdom or by egoic attachment?",
+  "reflectionQuestionHindi": "जब आप व्यस्त हों, तो कैसे पहचानेंगे कि आपका कर्म ज्ञान से चल रहा है या अहंकार और आसक्ति से?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

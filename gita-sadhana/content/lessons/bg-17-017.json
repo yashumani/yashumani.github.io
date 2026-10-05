@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-017",
+  "sequenceNumber": 612,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 17,
+  "verseEnd": 17,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "श्रद्धापूर्ण तीन प्रकार का तप / Threefold austerity with faith",
+  "context": "Krishna classifies the previously described bodily, verbal, and mental austerities by their motive and steadiness.",
+  "contextHindi": "कृष्ण पहले बताए शरीर, वाणी और मन के तप को श्रद्धा और निष्काम प्रेरणा से सात्त्विक बताते हैं।",
+  "sanskritDevanagari": "श्रद्धया परया तप्तं तपस्तत्त्रिविधं नरैः |\nअफलाकाङ्क्षिभिर्युक्तैः सात्त्विकं परिचक्षते ||१७-१७||",
+  "transliteration": "śraddhayā parayā taptaṃ tapastattrividhaṃ naraiḥ .\naphalākāṅkṣibhiryuktaiḥ sāttvikaṃ paricakṣate ||17-17||",
+  "wordByWord": [
+    {
+      "term": "śraddhayā parayā",
+      "meaning": "With highest or deep faith"
+    },
+    {
+      "term": "trividham",
+      "meaning": "Threefold"
+    },
+    {
+      "term": "aphalākāṅkṣibhiḥ",
+      "meaning": "By those not desiring the fruit"
+    },
+    {
+      "term": "yuktaiḥ",
+      "meaning": "By disciplined or steadfast people"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि तीन प्रकार का तप जब गहरी श्रद्धा से, संयमित लोगों द्वारा और फल की चाह के बिना किया जाए, तो उसे सात्त्विक कहते हैं। तीन प्रकार का मतलब पिछले वर्णन के शरीर, वाणी और मन के अभ्यास हैं। केवल एक क्षेत्र चमकाने से बात पूरी नहीं होती। बाहर अच्छा व्यवहार और भीतर बदले की तैयारी के बीच दूरी रह सकती है। श्रद्धा अभ्यास को गंभीरता देती है और फल की पकड़ कम होना उसे सौदे से बाहर रखता है। फिर भी परिणाम की जिम्मेदारी छोड़ी नहीं जाती। किसी अभ्यास से नुकसान हो, तो उसकी जांच जरूरी है। यह आज की जिम्मेदार समझ है, श्लोक में दिया नया नियम नहीं। आज इन तीन क्षेत्रों में एक छोटा मेल बनाएं। शरीर से कोई अहिंसक काम करें, बोलते समय सच और हित रखें, और भीतर की प्रेरणा देखें। बड़े संकल्प की जरूरत नहीं। एक सामान्य काम को ध्यान से करने का चुनाव पर्याप्त शुरुआत हो सकता है। अपनी प्रगति का माप प्रशंसा से पहले व्यवहार की गुणवत्ता में रखें।",
+  "clearEnglish": "Krishna calls the threefold austerity sattvic when disciplined people practise it with deep faith and without desire for reward. The reference is to the preceding account of body, speech, and mind. Austerity is therefore not confined to physical endurance or to a single impressive observance. Its quality depends on the orientation supporting all three domains. Faith gives the practice seriousness, while freedom from reward-seeking prevents it from becoming merely a transaction for approval. This does not imply that consequences can be ignored or that harmful practice must continue unquestioned. That safeguard is a contemporary application of responsible discernment. Choose one ordinary activity and attend to its bodily conduct, words, and inward motive. Can these support one another rather than contradict one another? The exercise need not involve a large promise. Its purpose is to discover whether sincerity is visible in what you actually do. Assess the practice by its care and consistency before measuring the recognition it receives.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna calls threefold austerity sattvic when practised with deep faith by steadfast people not seeking fruit."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Aligning bodily conduct, speech, and motive in one ordinary activity is a modern application."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "One act, three attentions",
+      "text": "In one task, attend to non-harming conduct, truthful speech, and a clear motive."
+    }
+  ],
+  "reflectionQuestion": "Where do my action, words, and motive fail to support one another?",
+  "reflectionQuestionHindi": "मेरे काम, शब्द और इरादे कहाँ एक दूसरे का साथ नहीं देते?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

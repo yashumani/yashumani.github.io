@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-002",
+  "sequenceNumber": 625,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 2,
+  "verseEnd": 2,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "क्या छोड़ा जाता है / Two forms of relinquishment",
+  "context": "Krishna begins his reply by reporting the sages' distinction between desire-motivated action and the fruits of all action.",
+  "contextHindi": "कृष्ण उत्तर में इच्छाप्रेरित कर्म छोड़ने और सभी कर्मों के फल छोड़ने का भेद बताते हैं।",
+  "sanskritDevanagari": "श्रीभगवानुवाच |\nकाम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः |\nसर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः ||१८-२||",
+  "transliteration": "śrībhagavānuvāca .\nkāmyānāṃ karmaṇāṃ nyāsaṃ saṃnyāsaṃ kavayo viduḥ .\nsarvakarmaphalatyāgaṃ prāhustyāgaṃ vicakṣaṇāḥ ||18-2||",
+  "wordByWord": [
+    {
+      "term": "kāmyānāṃ karmaṇām",
+      "meaning": "Of desire-motivated actions, often for desired results"
+    },
+    {
+      "term": "nyāsam",
+      "meaning": "Laying down or renunciation"
+    },
+    {
+      "term": "sarvakarmaphalatyāgam",
+      "meaning": "Relinquishment of the fruits of all actions"
+    },
+    {
+      "term": "vicakṣaṇāḥ",
+      "meaning": "The discerning or wise"
+    }
+  ],
+  "spokenHindi": "कृष्ण बताते हैं कि ज्ञानी लोग इच्छाप्रेरित कर्मों को छोड़ना संन्यास समझते हैं और सभी कर्मों के फल का त्याग त्याग कहते हैं। दोनों में छोड़ी जाने वाली चीज अलग है। पहले में चाह के लिए चुने कर्म की बात है, दूसरे में कर्म के फल की पकड़ की। इससे अर्जुन का अलग अलग जानने का प्रश्न आगे बढ़ता है। हर काम रोक देना इस श्लोक का सीधा निष्कर्ष नहीं। एक व्यक्ति जरूरी काम करते हुए भी अपने निजी लाभ की जिद को देख सकता है। यह आधुनिक प्रयोग है; धार्मिक अर्थ को केवल कामकाज की सलाह में समेटना उचित नहीं होगा। फल छोड़ना गुणवत्ता की जांच छोड़ना भी नहीं है। यदि हम किसी को मदद देने निकले हैं, तो सहायता पहुँची या नहीं देखना जिम्मेदारी है। आज कोई काम चुनें और उसकी दो परत लिखें: काम की वास्तविक जरूरत और उससे मिलने वाले व्यक्तिगत लाभ की अपेक्षा। दोनों अलग दिखाई दें तो पता चलेगा कि किस पकड़ को ढीला करना है और किस जिम्मेदारी को निभाना है।",
+  "clearEnglish": "Krishna reports that sages understand sannyasa as laying down desire-motivated actions, while the discerning call relinquishment of the fruits of all actions tyaga. The objects of relinquishment differ. One concerns actions undertaken for desired ends; the other concerns the fruits attached to action more generally. This distinction answers Arjuna's request without reducing the teaching to inactivity. It also prevents the phrase letting go from concealing several different decisions. A contemporary application may separate the need for a task from the personal reward hoped for through it. That application should not erase the religious meaning or imply that evaluating consequences is unnecessary. If a contribution fails to help, correction remains part of responsible work. The issue is the claim of personal acquisition, not competent attention. Write two short statements about one task: what it is meant to serve, and what you hope to receive. Seeing the difference can clarify what deserves commitment and what expectation may need examination.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna distinguishes sannyasa as renunciation of desire-motivated acts and tyaga as relinquishment of all actions' fruits."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Separating a task's purpose from one's hoped-for reward is a modern application, not abandonment of outcome assessment."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Purpose and personal expectation",
+      "text": "Write one task's actual purpose and your personal expectation separately."
+    }
+  ],
+  "reflectionQuestion": "Am I considering leaving the task or relinquishing my demand on its reward?",
+  "reflectionQuestionHindi": "क्या मैं काम छोड़ना चाहता हूँ या उसके इनाम पर अपनी मांग छोड़ना चाहता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

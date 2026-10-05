@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-011",
+  "sequenceNumber": 500,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 11,
+  "verseEnd": 11,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Devotion and chosen quiet / भक्ति और चुना हुआ एकांत",
+  "context": "Krishna adds unwavering devotion, resort to solitary places, and disinclination toward crowds to the qualities of knowledge.",
+  "contextHindi": "कृष्ण अनन्य भक्ति, एकांत स्थानों का सेवन और जनसमूह में अरुचि को ज्ञान की तैयारी में रखते हैं।",
+  "sanskritDevanagari": "मयि चानन्ययोगेन भक्तिरव्यभिचारिणी |\nविविक्तदेशसेवित्वमरतिर्जनसंसदि ||१३-११||",
+  "transliteration": "mayi cānanyayogena bhaktiravyabhicāriṇī .\nviviktadeśasevitvamaratirjanasaṃsadi ||13-11||",
+  "wordByWord": [
+    {
+      "term": "ananyayogena",
+      "meaning": "through undivided orientation"
+    },
+    {
+      "term": "avyabhicāriṇī bhaktiḥ",
+      "meaning": "unwavering devotion"
+    },
+    {
+      "term": "viviktadeśa",
+      "meaning": "solitary or secluded place"
+    },
+    {
+      "term": "janasaṃsadi",
+      "meaning": "in an assembly or crowd"
+    },
+    {
+      "term": "aratiḥ",
+      "meaning": "disinclination or lack of delight"
+    }
+  ],
+  "spokenHindi": "कृष्ण अपने प्रति अनन्य योग से अविचल भक्ति, एकांत स्थानों का सेवन और जनसमूह में अरुचि बताते हैं। यहाँ साधना की दिशा और उसके लिए जगह दोनों हैं। शब्दों में भीड़ से अरुचि आती है; इसे लोगों से घृणा करने की शिक्षा बना देना उचित नहीं। अकेला समय ध्यान में मदद दे सकता है, पर अकेलापन जब पीड़ा या असुरक्षा बढ़ाए तो सहारा लेना ठीक है। यह सुरक्षित आधुनिक अनुप्रयोग है। श्लोक परिवार, मित्रों और आवश्यक समुदाय से संबंध तोड़ने की योजना नहीं देता। एकांत का छोटा रूप दिन में कुछ शांत समय हो सकता है, जहाँ अनावश्यक बातचीत या तुलना थोड़ी देर रुक जाए। उस समय कृष्ण का स्मरण या एक स्पष्ट पाठ प्रश्न रखें। फिर अपने काम और संबंधों में लौटें। अविचलता को भटका विचार आते ही असफल होने का फैसला न बनाएँ। मन लौट सकता है। अभ्यास की जगह साधारण और संभव रखें, ताकि भक्ति भीतर की ईमानदार दिशा बने, छवि दिखाने या अपने को दूसरों से श्रेष्ठ मानने का साधन नहीं।",
+  "clearEnglish": "Krishna includes undivided devotion to himself, use of solitary places, and disinclination toward assemblies of people. The list concerns a devotional orientation and conditions that can support it. The wording about crowds should remain visible, but it should not be enlarged into hatred of people or a blanket requirement to break supportive relationships. Chosen solitude can offer room for attention, whereas painful isolation may call for connection and assistance. This distinction is a responsible contemporary application, not a replacement for the textual terms. A brief quiet period can be enough for an everyday exercise: reduce unnecessary social noise, keep a devotional remembrance or study question in view, and return to ordinary responsibilities afterward. Wandering attention need not be treated as total failure; returning can be part of practice. The verse does not prescribe a duration or setting. The aim of the exercise is a more coherent orientation, rather than an identity built around appearing secluded, superior, or immune to human needs.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Unwavering devotion to Krishna, resort to secluded places, and disinclination toward crowds are included in the knowledge list."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A short chosen quiet period applies the teaching while retaining support and responsibilities; solitude differs from harmful isolation."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Take a brief safe quiet period for remembrance or study, then return to one necessary relationship or responsibility."
+    }
+  ],
+  "reflectionQuestion": "What kind of quiet helps attention without cutting me off from needed support?",
+  "reflectionQuestionHindi": "किस तरह का शांत समय ध्यान में मदद करता है और जरूरी सहारे से मुझे काटता नहीं?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

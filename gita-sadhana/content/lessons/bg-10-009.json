@@ -1,0 +1,71 @@
+{
+  "id": "bg-10-009",
+  "sequenceNumber": 381,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 9,
+  "verseEnd": 9,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "विभूतियोग: भगवान में मन-प्राण का रुख, फिर प्रेम से स्मरण का आनंद। / Vibhūti Yoga: fixing mind and life on the Lord, then delighting in remembrance with love.",
+  "context": "Krishna continues his account of the wise devotees who recognize him as the source of all. Arjuna's request for a detailed description of divine glories comes later.",
+  "contextHindi": "कृष्ण उन भक्तों का वर्णन जारी रखते हैं जो उन्हें सबका स्रोत समझते हैं। अर्जुन का दिव्य विभूतियों को विस्तार से जानने का अनुरोध बाद में आता है।",
+  "sanskritDevanagari": "मच्चित्ता मद्गतप्राणा बोधयन्तः परस्परम् |\nकथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च ||१०-९||",
+  "transliteration": "maccittā madgataprāṇā bodhayantaḥ parasparam .\nkathayantaśca māṃ nityaṃ tuṣyanti ca ramanti ca ||10-9||",
+  "wordByWord": [
+    {
+      "term": "मच्चित्ता",
+      "meaning": "with minds fixed in Me (भगवान में मन लगा देने वाला)."
+    },
+    {
+      "term": "मद्गतप्राणाः",
+      "meaning": "whose lives are oriented toward Me (जीवन का रुख भगवान की ओर)."
+    },
+    {
+      "term": "बोधयन्तः",
+      "meaning": "instructing one another, awakening each other (एक-दूसरे को समझाना, जाग्रत करना)."
+    },
+    {
+      "term": "तुष्यन्ति",
+      "meaning": "are satisfied, pleased (तृप्त, प्रसन्न)."
+    },
+    {
+      "term": "रमन्ति",
+      "meaning": "delight, enjoy, become absorbed in that remembrance (आनंद लेना, उसमें रमना)."
+    }
+  ],
+  "spokenHindi": "यह श्लोक भक्त के आंतरिक स्वरूप की एक सुंदर तस्वीर देता है। कृष्ण कह रहे हैं कि जो व्यक्ति भगवान को अपने मन का केंद्र मानता है, उसके मन और प्राण उसी में लगे रहते हैं। वह परस्पर भगवान की बात को सुनता और बताता है—उनके नाम, रूप, लीला, गुण और सहारा। यह सामान्य ज्ञान का प्रसार नहीं है; यह प्रेम का जीवन है, जहाँ भगवान का स्मरण स्वभाव बन जाता है। जब मन और जीवन भगवान में स्थिर हो जाते हैं, तब तृप्ति आती है, खुशी आती है, और परस्पर का संवाद भी एक साधना बन जाता है। इसमें जड़ता नहीं, बल्कि जीवंत प्रेम है। यह वह स्थिति है जहाँ भगवान का गुणगान न केवल श्रवण का कार्य है, बल्कि जीवन का आचरण बन जाता है। श्लोक में परस्पर शब्द पर ध्यान दें: सीखना यहाँ साझा संवाद है। यह किसी खास समूह में शामिल होने की बाध्यता नहीं, बल्कि एक दूसरे की समझ बढ़ाने का चित्र है। असहमति हो तो सुनने की जगह भी बनी रह सकती है।",
+  "clearEnglish": "This verse describes the devotional atmosphere that makes divine truth livable. Krishna says that those whose minds are fixed on Him and whose lives are oriented toward Him do not remain isolated in private spirituality. They teach one another, speak of Him repeatedly, and are sustained by that remembrance. The point is not merely intellectual assent but a living relationship in which the divine becomes the center of attention, emotion, and practice. Joy here is not superficial excitement; it is the quiet satisfaction of a heart that has found its axis. In practical terms, the verse points to a community of remembrance: when people gather around the divine, their understanding deepens, their attention steadies, and their lives become more coherent. That is not sentimentalism; it is disciplined love. The reciprocal language is especially important: enlightenment moves between people, rather than belonging solely to one impressive speaker. As a modern application, a study conversation can include sincere questions and listening. Participation should be voluntary, and shared devotion need not require agreement on every interpretation.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse itself states that devotees with minds and lives centered on the Lord speak of Him, are pleased, and delight in His remembrance. This is a description of a lived devotional state, not an abstract doctrine."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A reasonable conclusion is that sincere remembrance is not solitary; it naturally becomes mutual teaching, shared joy, and a stabilizing inner discipline. The verse suggests that love of the divine deepens in community and repetition."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Daily remembrance",
+      "text": "Set aside two minutes before work or sleep to silently remember the Lord’s names or qualities, then share one short thought with another person or in a journal."
+    }
+  ],
+  "reflectionQuestion": "When I speak about the divine, do I mainly repeat habit, or do I speak from genuine remembrance and understanding?",
+  "reflectionQuestionHindi": "जब मैं भगवान के विषय में बोलता हूँ, तो क्या मैं मुख्यतः आदत दोहराता हूँ या सच्चे स्मरण और समझ से बोलता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

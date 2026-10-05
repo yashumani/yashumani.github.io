@@ -1,0 +1,75 @@
+{
+  "id": "bg-08-014",
+  "sequenceNumber": 324,
+  "date": "2026-10-05",
+  "chapter": 8,
+  "verseStart": 14,
+  "verseEnd": 14,
+  "chapterNameSanskrit": "अक्षरब्रह्मयोग",
+  "chapterNameEnglish": "Akṣara Brahma Yoga",
+  "theme": "नित्य स्मरण और सुलभता | The Lord accessible through steady remembrance",
+  "context": "Krishna speaks of constant undivided remembrance, shifting the emphasis to an ongoing devotional life.",
+  "contextHindi": "कृष्ण अब निरंतर, अनन्य स्मरण करने वाले योगी के लिए अपनी सुलभता की बात करते हैं।",
+  "sanskritDevanagari": "अनन्यचेताः सततं यो मां स्मरति नित्यशः |\nतस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः ||८-१४||",
+  "transliteration": "ananyacetāḥ satataṃ yo māṃ smarati nityaśaḥ .\ntasyāhaṃ sulabhaḥ pārtha nityayuktasya yoginaḥ ||8-14||",
+  "wordByWord": [
+    {
+      "term": "अनन्यचेताः",
+      "meaning": "With mind directed to no other object."
+    },
+    {
+      "term": "सततम्",
+      "meaning": "Constantly."
+    },
+    {
+      "term": "नित्यशः",
+      "meaning": "Daily or regularly."
+    },
+    {
+      "term": "सुलभः",
+      "meaning": "Easy to attain."
+    },
+    {
+      "term": "नित्ययुक्तस्य",
+      "meaning": "Of one ever steadfast or united."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जो योगी अनन्य मन से निरंतर और नित्य उनका स्मरण करता है, उसके लिए वे सुलभ हैं। अनन्य यहाँ ध्यान की एक दिशा बताता है। सुलभ का अर्थ आसानी से प्राप्त होने वाला है। इसलिए वाक्य में सुलभ होने वाले कृष्ण हैं, केवल साधक नहीं। इस छोटे व्याकरणिक अंतर से अर्थ साफ़ रहता है। दिए गए भाष्य में स्वामी शिवानंद जीवनभर निरंतर भगवान् को याद करने को उनकी प्राप्ति का सबसे सहज मार्ग कहते हैं। हमारा अभ्यास बहुत छोटा हो सकता है: दिन के किसी परिचित समय में एक शांत स्मरण रखें। पूर्ण एकाग्रता की तस्वीर देखकर अपने साधारण मन को तुच्छ मानना ज़रूरी नहीं है। यह आध्यात्मिक लक्ष्य का वर्णन है, किसी की उपयोगिता या सम्मान की परीक्षा नहीं। इस श्लोक से मन के रोगों या शरीर के तंत्र में बदलाव के बारे में दावा भी नहीं निकलता। ध्यान भटकने पर करुणा से लौटना हमारा आधुनिक अभ्यास है। घर, काम और संबंधों की ज़िम्मेदारी निभाते हुए भी श्रद्धा को एक छोटा, नियमित स्थान मिल सकता है।",
+  "clearEnglish": "Krishna identifies the recipient of his assurance: the yogi who remembers him constantly, daily, and with an undivided mind. For that practitioner, he says, “I am easy to attain.” The direction of this statement is important. It describes Krishna's accessibility to the devotee, rather than saying the devotee becomes accessible to divine grace. Sivananda's accompanying commentary calls lifelong constant remembrance the easiest way to attain the Lord. Neither the verse nor that comment supports a medical claim that remembrance changes the nervous system. The assurance can instead be heard within the devotional relationship it describes. A beginner may respond through a small regular practice, recognizing that the verse presents an ideal of sustained attention rather than a reason to despise ordinary distraction. An ethical application is to return patiently when attention wanders and keep remembrance compatible with care for others. That application does not measure anyone's spiritual worth or establish what their future psychological state will be.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says he is easily attained by the ever steadfast yogi who remembers him constantly and daily with an undivided mind."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A small regular practice can respond to this devotional ideal without judging distracted people or making medical claims."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sivananda calls constant remembrance of the Lord throughout life the easiest way to attain him."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "One regular moment",
+      "text": "Choose a familiar daily transition, such as finishing breakfast, for a brief comfortable remembrance."
+    }
+  ],
+  "reflectionQuestion": "Which everyday transition could hold a gentle moment of remembrance?",
+  "reflectionQuestionHindi": "दिन के किस सामान्य पड़ाव में मैं सौम्य स्मरण का छोटा समय रख सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

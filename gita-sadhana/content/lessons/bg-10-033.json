@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-033",
+  "sequenceNumber": 405,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 33,
+  "verseEnd": 33,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "अक्षर और अक्षय काल / Letter and inexhaustible time",
+  "context": "Krishna's examples enter grammar, then return to time and the all-facing dispenser.",
+  "contextHindi": "कृष्ण वर्ण और समास के उदाहरणों से अक्षय काल तथा सब ओर मुख वाले धाता की ओर आते हैं।",
+  "sanskritDevanagari": "अक्षराणामकारोऽस्मि द्वन्द्वः सामासिकस्य च |\nअहमेवाक्षयः कालो धाताहं विश्वतोमुखः ||१०-३३||",
+  "transliteration": "akṣarāṇāmakāro.asmi dvandvaḥ sāmāsikasya ca .\nahamevākṣayaḥ kālo dhātāhaṃ viśvatomukhaḥ ||10-33||",
+  "wordByWord": [
+    {
+      "term": "अकारः",
+      "meaning": "the letter A"
+    },
+    {
+      "term": "द्वन्द्वः",
+      "meaning": "coordinative or dual compound"
+    },
+    {
+      "term": "अक्षयः कालः",
+      "meaning": "inexhaustible or everlasting time"
+    },
+    {
+      "term": "विश्वतोमुखः",
+      "meaning": "facing in every direction"
+    }
+  ],
+  "spokenHindi": "कृष्ण वर्णों में अकार और समासों में द्वंद्व कहते हैं। फिर वे स्वयं को अक्षय काल और सब ओर मुख वाले धाता बताते हैं। भाषा की छोटी इकाई से शुरू होकर वाक्य समय और व्यापक व्यवस्था तक पहुँचता है। द्वंद्व समास में जुड़े पद साथ रखे जाते हैं; यह व्याकरण का उदाहरण है, जीवन के हर विरोध को बराबर अच्छा कहने का सिद्धांत नहीं। धाता को दिए गए संस्करण में कर्मों के फल देने वाले के अर्थ में समझाया गया है। वह अनुवाद की व्याख्या है; श्लोक में कोई विशेष घटना किस कर्म का फल है, इसकी सूची नहीं मिलती। विश्वतोमुख का चित्र एक सीमित दृष्टिकोण से कहीं व्यापक देखने का है। हमारा उपयोग बातचीत में छोड़े गए पक्ष को पहचानना हो सकता है। किसी फैसले का केवल अपना पहलू देखना आसान है। एक और संबंधित व्यक्ति की जरूरत सोचें और समय की लंबी अवधि में परिणाम भी देखें। यह हमारे निर्णय का अभ्यास है, भगवान की सर्वदृष्टि अपने पास होने का दावा नहीं। छोटे अक्षर से बड़ा चिंतन खुलना इस सूची की खास खूबी है।",
+  "clearEnglish": "The catalogue can include grammar as readily as mountains or deities. Krishna is the letter A among letters and the dvandva among compounds, before naming himself inexhaustible time and the all-facing dispenser. Dvandva is a particular grammatical form; it should not be turned into a doctrine that all opposing choices have equal moral value. The supplied edition interprets dhata through the distribution of the fruits of actions. That does not enable a listener to diagnose which past act caused another person's present hardship. The verse broadens the scale of attention from a basic unit of speech to time and a perspective facing every direction. A practical inference is to check the limits of one's own viewpoint. Before a shared decision, identify a person whose perspective has not yet been considered and a consequence that will emerge later. This is an exercise in fuller deliberation, not a claim to divine omniscience. The grammar examples remain concrete signs inside Krishna's much wider account.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies A, the dvandva compound, inexhaustible time and the all-facing dispenser."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Considering overlooked perspectives is an application; the verse does not let us assign individual suffering to a specific past act."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Add a missing perspective",
+      "text": "Before a shared decision, identify one affected person whose view is missing and one likely later consequence. Ask for that person's input where possible."
+    }
+  ],
+  "reflectionQuestion": "Whose perspective is absent from my account of this decision?",
+  "reflectionQuestionHindi": "इस फैसले की मेरी समझ में किसका दृष्टिकोण अनुपस्थित है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

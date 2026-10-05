@@ -1,0 +1,71 @@
+{
+  "id": "bg-03-039",
+  "sequenceNumber": 158,
+  "date": "2026-10-05",
+  "chapter": 3,
+  "verseStart": 39,
+  "verseEnd": 39,
+  "chapterNameSanskrit": "कर्मयोग",
+  "chapterNameEnglish": "Karma Yoga",
+  "theme": "ज्ञान पर काम का आवरण: desire veils wisdom",
+  "context": "Arjuna has asked why a person acts against his will. Krishna now calls desire the wise person’s constant enemy and says it veils wisdom and is as unappeasable as fire. The verse does not limit this claim to desire that overrides discernment. Distinguishing between different forms of desire would be an interpretation, not the verse’s explicit wording.",
+  "contextHindi": "अर्जुन ने पूछा कि मनुष्य अनिच्छा से भी पाप क्यों करता है। कृष्ण काम को ज्ञानी का नित्य शत्रु बताते हैं, जो ज्ञान को ढकता है और अग्नि की तरह अतृप्त है। श्लोक इस बात को केवल अनियंत्रित इच्छा तक सीमित नहीं करता। इच्छाओं के अलग-अलग रूपों में भेद करना व्याख्या होगी, श्लोक का सीधा कथन नहीं।",
+  "sanskritDevanagari": "आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा |\nकामरूपेण कौन्तेय दुष्पूरेणानलेन च ||३-३९||",
+  "transliteration": "āvṛtaṃ jñānametena jñānino nityavairiṇā .\nkāmarūpeṇa kaunteya duṣpūreṇānalena ca ||3-39||",
+  "wordByWord": [
+    {
+      "term": "आवृतं",
+      "meaning": "covered, veiled, enveloped; knowledge is obscured."
+    },
+    {
+      "term": "ज्ञानम्",
+      "meaning": "knowledge, wisdom, clear understanding; not mere information."
+    },
+    {
+      "term": "ज्ञानिनः",
+      "meaning": "of the wise one; the person who seeks truth and discrimination."
+    },
+    {
+      "term": "नित्यवैरिणा",
+      "meaning": "by the eternal enemy; the persistent inner force that never ceases to oppose wisdom."
+    },
+    {
+      "term": "कामरूपेण",
+      "meaning": "in the form of desire; the exact local corpus reading names desire as the form it takes."
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण कहते हैं कि काम ज्ञानी के ज्ञान को ढक देता है। वे काम को नित्य शत्रु कहते हैं और उसकी तुलना ऐसी आग से करते हैं जिसे तृप्त करना कठिन है। यहाँ ‘ज्ञान’ का अर्थ केवल जानकारी नहीं, बल्कि सही समझ और विवेक भी है। जब इच्छा बहुत प्रबल हो जाती है, तो व्यक्ति अपनी समझ के अनुसार देखना और निर्णय लेना कठिन पा सकता है। श्लोक यह नहीं कहता कि हर इच्छा गलत है; वह काम को ज्ञान पर आवरण डालने वाली शक्ति के रूप में बताता है। इसलिए इस बात पर ध्यान देना उपयोगी है कि कोई तीव्र चाह हमारे विचार और निर्णय को कैसे प्रभावित कर रही है। उसे पहचानना, बिना जल्दबाजी के देखना और फिर सोच-समझकर कदम चुनना विवेक को संभालने में मदद कर सकता है। अग्नि की उपमा याद दिलाती है कि केवल और अधिक पाने से तृप्ति हमेशा नहीं मिलती। यह हमारा चिंतन है; श्लोक का सीधा कथन ज्ञान पर काम का आवरण है।",
+  "clearEnglish": "Krishna says that desire veils the wisdom of the wise and calls it a constant enemy. He compares desire to an unappeasable fire: it is difficult to satisfy. Here, wisdom means more than information; it includes clear understanding and discernment. When a desire grows powerful, a person may find it harder to see and decide clearly. The verse does not say that every desire is wrong. It describes desire as a force that can cover wisdom. This makes the teaching practical: notice when a strong want is affecting your thoughts or choices. Seeing that influence without rushing to act can help preserve discernment. The comparisons with smoke, dust, and an embryo covered by its amnion belong to the preceding verse, 3.38, not this verse. In 3.39, the image is of desire as an unappeasable fire. The fire image invites reflection on whether feeding a particular want actually settles it or merely renews the demand. That observation is an application, not an additional Sanskrit definition.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna states that jñāna, or wisdom, is veiled by a constant enemy in the form of desire, which is difficult to satisfy like an unappeasable fire. The verse does not list the senses, mind, and intellect; that description appears in the next verse."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A careful reader can infer that wisdom grows through noticing urges, examining motives, and reducing attachment before action. This is not moral shaming; it is practical self-governance."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Pause before consuming",
+      "text": "When a strong craving appears, pause for ten breaths and ask: What am I really seeking, what is the cost, and what would a clear-minded person choose?"
+    }
+  ],
+  "reflectionQuestion": "When desire becomes strong, what part of your mind is trying to justify it instead of examining it?",
+  "reflectionQuestionHindi": "जब इच्छा तीव्र हो, तो आपका मन उसके कारण को समझने के बजाय उसे सही ठहराने में क्यों उलझ जाता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

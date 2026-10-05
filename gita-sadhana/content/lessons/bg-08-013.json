@@ -1,0 +1,71 @@
+{
+  "id": "bg-08-013",
+  "sequenceNumber": 323,
+  "date": "2026-10-05",
+  "chapter": 8,
+  "verseStart": 13,
+  "verseEnd": 13,
+  "chapterNameSanskrit": "अक्षरब्रह्मयोग",
+  "chapterNameEnglish": "Akṣara Brahma Yoga",
+  "theme": "ओम् और कृष्ण का स्मरण | Om with remembrance",
+  "context": "Krishna continues the concentration description associated with departure from the body; Arjuna does not ask a new question here.",
+  "contextHindi": "प्रयाण से जुड़े एकाग्रता के वर्णन को कृष्ण आगे बढ़ाते हैं। यहाँ अर्जुन कोई नया प्रश्न नहीं पूछते।",
+  "sanskritDevanagari": "ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन् |\nयः प्रयाति त्यजन्देहं स याति परमां गतिम् ||८-१३||",
+  "transliteration": "omityekākṣaraṃ brahma vyāharanmāmanusmaran .\nyaḥ prayāti tyajandehaṃ sa yāti paramāṃ gatim ||8-13||",
+  "wordByWord": [
+    {
+      "term": "ओम्",
+      "meaning": "The sacred syllable Om, here called Brahman."
+    },
+    {
+      "term": "एकाक्षरम्",
+      "meaning": "One syllable."
+    },
+    {
+      "term": "व्याहरन्",
+      "meaning": "Uttering."
+    },
+    {
+      "term": "माम् अनुस्मरन्",
+      "meaning": "Remembering me, Krishna."
+    },
+    {
+      "term": "परमां गतिम्",
+      "meaning": "The supreme goal."
+    }
+  ],
+  "spokenHindi": "पिछले श्लोक की एकाग्रता की बात यहाँ आगे चलती है। कृष्ण कहते हैं कि ओम्, इस एक अक्षर ब्रह्म का उच्चारण करते हुए और उन्हें याद करते हुए जो व्यक्ति देह छोड़कर जाता है, वह परम गति पाता है। उच्चारण और स्मरण दोनों साथ हैं। इसे केवल ध्वनि की कोई अपने आप काम करने वाली शक्ति का दावा समझना अधूरा होगा। वाक्य में कृष्ण का स्मरण भी स्पष्ट है। हम इसे श्रद्धा के साथ पढ़ सकते हैं, पर किसी व्यक्ति के अंतिम समय की कठिनाई को आध्यात्मिक कमी नहीं कह सकते। यहाँ दूसरों का आकलन करने की कसौटी नहीं दी गई। सामान्य अभ्यास में परिचित मंत्र का शांत उच्चारण किया जा सकता है। साँस सहज रहे और कोई दबाव न हो। यदि मन भटके, तो एक बार फिर स्मरण पर लौटें। इस छोटे अभ्यास से मृत्यु के बारे में कोई निश्चित भविष्यवाणी नहीं होती। इसका उद्देश्य आज की श्रद्धा और ध्यान को जगह देना है। किसी की देखभाल करते हुए उनका आराम और इच्छा पहले सुनना भी करुणा का हिस्सा है।",
+  "clearEnglish": "The sentence combines uttering Om with remembering Krishna. Its promise concerns one who departs in that condition: the supreme goal is attained. The preceding concentration description supplies the immediate setting, so this is a continuation of Krishna's answer rather than a fresh question from Arjuna. Om is called the one syllable Brahman in the passage. Reducing the teaching to a sound technique would omit the explicit devotional remembrance accompanying it. Conversely, adding predictions about a person's emotional condition at death would exceed the verse. It does not establish that years of practice eliminate panic or that inability to vocalize blocks grace. A respectful modern practice is therefore simple: one may utter the familiar syllable comfortably while recalling Krishna, without forced breathing or a performance standard. When caring for someone else, their consent and comfort matter more than making them repeat words. This distinction preserves the theological teaching while allowing compassionate conduct in situations the short verse does not explain in detail.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "One who departs uttering the one syllable Om, called Brahman, and remembering Krishna attains the supreme goal."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A comfortable devotional utterance can be practiced now; it does not justify predictions about another person's final awareness or emotion."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Sound with remembrance",
+      "text": "If comfortable, softly utter Om once while remembering Krishna. Keep the breath natural and stop if uneasy."
+    }
+  ],
+  "reflectionQuestion": "What is the difference between repeating a sound and remembering with it?",
+  "reflectionQuestionHindi": "केवल ध्वनि दोहराने और उसके साथ भगवान् को याद करने में क्या अंतर है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "bg-14-005",
+  "sequenceNumber": 529,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 5,
+  "verseEnd": 5,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "The three qualities bind / तीन गुणों का बंधन",
+  "context": "Krishna names sattva, rajas, and tamas as qualities arising from Nature that bind the embodied self.",
+  "contextHindi": "सृष्टि की उत्पत्ति समझाने के बाद कृष्ण प्रकृति के तीन गुणों और देह में उनके बंधन को बताते हैं।",
+  "sanskritDevanagari": "सत्त्वं रजस्तम इति गुणाः प्रकृतिसम्भवाः |\nनिबध्नन्ति महाबाहो देहे देहिनमव्ययम् ||१४-५||",
+  "transliteration": "sattvaṃ rajastama iti guṇāḥ prakṛtisambhavāḥ .\nnibadhnanti mahābāho dehe dehinamavyayam ||14-5||",
+  "wordByWord": [
+    {
+      "term": "guṇāḥ",
+      "meaning": "qualities or strands; गुण"
+    },
+    {
+      "term": "prakṛtisambhavāḥ",
+      "meaning": "arising from Nature"
+    },
+    {
+      "term": "dehinam",
+      "meaning": "the embodied one; देही"
+    },
+    {
+      "term": "avyayam",
+      "meaning": "imperishable; अविनाशी"
+    }
+  ],
+  "spokenHindi": "कृष्ण यहाँ सत्त्व, रज और तम को प्रकृति से उत्पन्न तीन गुण कहते हैं। ये देह में अविनाशी देही को बाँधते हैं। यह सुनकर किसी व्यक्ति को हमेशा के लिए सात्त्विक, राजसिक या तामसिक घोषित करना ठीक नहीं होगा। स्वामी सिवानंद की टिप्पणी साफ कहती है कि तीनों गुण सभी मनुष्यों में हैं और उनका प्रभाव बदलता रहता है। कभी स्पष्टता आगे आती है, कभी बेचैनी और कभी जड़ता। ‘देही’ तथा ‘देह’ का अंतर भी ध्यान देने योग्य है: जो शरीर धारण करता है, उसे शरीर में चलती स्थितियों से पूरी तरह समान नहीं माना जा रहा। रोजमर्रा की साधना में इसका मतलब अपनी जिम्मेदारी छोड़ना नहीं है। हम देख सकते हैं कि थकान, इच्छा या शांति निर्णय को कैसे प्रभावित करती है, फिर उचित कदम चुन सकते हैं। यदि लंबे समय तक ऊर्जा या ध्यान में कठिनाई हो, उसे केवल किसी गुण का दोष कहकर सहायता टालना उचित नहीं। निरीक्षण का उद्देश्य समझ बढ़ाना है, शर्म या आत्मदंड बढ़ाना नहीं।",
+  "clearEnglish": "Krishna names the three guṇas as products of Nature and says that they bind the imperishable embodied one within the body. The statement sets up a distinction between what changes in embodiment and the self described as imperishable. Sivananda's accompanying commentary is useful here: all three qualities operate in human beings, and their predominance is not constant. This makes fixed personality labels a poor use of the teaching. A person can show clarity in one circumstance, driven attachment in another, and heedlessness in a third. Observation should focus on processes, conditions, and choices. It should not become a ranking of people. A modern application is to notice what state precedes a decision and to adjust the setting when possible. Rest, reduced distraction, or a thoughtful conversation may improve the conditions for action. Persistent difficulties with energy or attention also deserve appropriate support. A spiritual vocabulary can aid reflection without serving as a diagnosis or a substitute for care.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Three qualities born of Nature bind the imperishable embodied one in the body."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sri Swami Sivananda says all three qualities operate in people and that their predominance changes; he recommends witnessing their operation."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Observing a changing state before a decision is a practical adaptation, not a diagnosis of an individual's spiritual worth."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Before one decision, describe your present clarity, urgency, and fatigue without using a fixed identity label."
+    }
+  ],
+  "reflectionQuestion": "Which changing state am I mistaking for a permanent description of myself?",
+  "reflectionQuestionHindi": "मन की किस बदलती दशा को मैं अपना स्थायी परिचय समझ रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

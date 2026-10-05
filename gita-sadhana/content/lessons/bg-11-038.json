@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-038",
+  "sequenceNumber": 452,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 38,
+  "verseEnd": 38,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "ज्ञाता, ज्ञेय और आश्रय / Knower, known and refuge",
+  "context": "Arjuna describes Krishna as primordial deity, supreme refuge, knower, knowable and all-pervading.",
+  "contextHindi": "अर्जुन कृष्ण को आदिदेव, परम आश्रय, जानने वाला, जानने योग्य और विश्व में व्याप्त कहते हैं।",
+  "sanskritDevanagari": "त्वमादिदेवः पुरुषः पुराणस्-\nत्वमस्य विश्वस्य परं निधानम् |\nवेत्तासि वेद्यं च परं च धाम\nत्वया ततं विश्वमनन्तरूप ||११-३८||",
+  "transliteration": "tvamādidevaḥ puruṣaḥ purāṇasa- tvamasya viśvasya paraṃ nidhānam .\nvettāsi vedyaṃ ca paraṃ ca dhāma tvayā tataṃ viśvamanantarūpa ||11-38||",
+  "wordByWord": [
+    {
+      "term": "पुरुषः पुराणः",
+      "meaning": "ancient person"
+    },
+    {
+      "term": "वेत्ता",
+      "meaning": "knower"
+    },
+    {
+      "term": "वेद्यम्",
+      "meaning": "what is to be known"
+    },
+    {
+      "term": "ततम्",
+      "meaning": "pervaded or spread through"
+    }
+  ],
+  "spokenHindi": "अर्जुन कृष्ण को आदिदेव और पुराण पुरुष कहते हैं, विश्व का परम आश्रय, जानने वाला और जानने योग्य भी। वे परम धाम हैं और उनसे अनंत रूप में विश्व व्याप्त है। वेत्ता और वेद्यम् का साथ महत्वपूर्ण है। साधारण ज्ञान में जानने वाला और ज्ञात वस्तु अलग लगते हैं; यहाँ अर्जुन दिव्य वास्तविकता को दोनों के आधार के रूप में स्तुति में रखते हैं। इस छोटी पंक्ति से पूरे दर्शन की सभी बहसें हल हो गईं, ऐसा दावा करना जरूरी नहीं। निधानम् का अर्थ यहाँ आश्रय है, केवल वस्तुओं का भंडारण नहीं। पुराण का मतलब प्राचीन है; किसी लिखे हुए पुराण ग्रंथ का नाम इस पद में नहीं दिया गया। हमारा अनुप्रयोग ज्ञान के संबंधों पर ध्यान देना हो सकता है। किसी बात के बारे में निष्कर्ष रखते समय पूछें कि कौन जान रहा है, किस आधार पर और क्या जाना जा रहा है। यह आधुनिक जांच दिव्य कथन का पूरा अर्थ नहीं। लेकिन अपनी भूमिका देखना हमें अकेली राय को सबका सत्य बना देने से रोक सकता है।",
+  "clearEnglish": "Arjuna's praise joins several relations: Krishna is primordial deity, ancient person, supreme refuge, knower, what is to be known and supreme abode, pervading the universe in infinite form. Vetta and vedya are not interchangeable; one names the knower and the other the knowable. Their pairing brings knowing itself into the scope of the declaration. Purana means ancient in this phrase and does not identify a particular book of that name. Nidhana is rendered as refuge in the supplied edition. The verse does not settle every philosophical account of subject and object, but it gives a rich theological recognition by Arjuna. A practical application is to examine the structure of an ordinary claim: who knows, through what evidence, and about which subject? The observer's standpoint may be relevant even when the evidence is good. This is a limited exercise in intellectual care, not a claim to divine knowledge. Arjuna's words concern the reality encompassing these relations, while our inquiry helps clarify our own smaller statements.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna calls Krishna primordial deity, refuge, knower, knowable and all-pervading infinite form."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Examining observer, evidence and subject is a limited application; ordinary knowledge does not become divine omniscience."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Examine a claim",
+      "text": "Choose one claim you make. Name its subject, your evidence and the limits of your standpoint before repeating it."
+    }
+  ],
+  "reflectionQuestion": "How does my standpoint shape the claim I am making?",
+  "reflectionQuestionHindi": "मेरा अपना दृष्टिकोण मेरे दावे को किस तरह आकार देता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

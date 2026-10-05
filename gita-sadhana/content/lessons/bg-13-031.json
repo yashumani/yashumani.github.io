@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-031",
+  "sequenceNumber": 520,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 31,
+  "verseEnd": 31,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Diversity resting in the One / एक में स्थित विविधता",
+  "context": "Krishna describes realization of beings' diversity rooted in and expanding from the One.",
+  "contextHindi": "कृष्ण अनेक प्राणियों के पृथक रूपों को एक में स्थित और उसी से विस्तृत देखना ब्रह्म की प्राप्ति से जोड़ते हैं।",
+  "sanskritDevanagari": "यदा भूतपृथग्भावमेकस्थमनुपश्यति |\nतत एव च विस्तारं ब्रह्म सम्पद्यते तदा ||१३-३१||",
+  "transliteration": "yadā bhūtapṛthagbhāvamekasthamanupaśyati .\ntata eva ca vistāraṃ brahma sampadyate tadā ||13-31||",
+  "wordByWord": [
+    {
+      "term": "bhūtapṛthagbhāvam",
+      "meaning": "the varied distinct conditions of beings"
+    },
+    {
+      "term": "ekastham",
+      "meaning": "resting in the One"
+    },
+    {
+      "term": "vistāram",
+      "meaning": "expansion or manifestation"
+    },
+    {
+      "term": "brahma sampadyate",
+      "meaning": "attains or becomes Brahman"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जब कोई प्राणियों की विविधता को एक में स्थित देखता है और उसी से उसका विस्तार समझता है, तब वह ब्रह्म को प्राप्त होता है। स्वामी सिवानंद की टिप्पणी अनेक रूपों के एक मूल में होने की अंतर्दृष्टि पर बल देती है और तरंग तथा किरण जैसी उपमाएँ रखती है। वे व्याख्या की उपमाएँ हैं; श्लोक स्वयं एक और विविधता का संबंध बताता है। यह संबंध विविध लोगों की अलग जरूरतों को मिटाने का कारण नहीं बनता। कोई सब एक हैं कहकर किसी की पीड़ा या असमान परिस्थिति को अनसुना करे तो व्यावहारिक सम्मान घटता है। आज का छोटा अनुप्रयोग एक साझा लक्ष्य में अलग योगदान देखना हो सकता है। टीम में लोग अलग कौशल और सीमा लाते हैं, फिर भी मिलकर एक काम करते हैं। यह तुलना ब्रह्म का प्रमाण या परिभाषा नहीं। साझा मूल की खोज के साथ भिन्नता को ध्यान से सुनें। एकता और विविधता को एक दूसरे के विरुद्ध रखे बिना समझने का अभ्यास हमारे संबंधों को अधिक ईमानदार बना सकता है।",
+  "clearEnglish": "When the diversity of beings is seen as resting in the One and expanding from that alone, Krishna says one attains Brahman. Sivananda's commentary emphasizes intuitive recognition of the many forms' common root and uses images of water's waves and sunlight's rays. Those illustrations belong to the commentary, while the verse states the relationship between variety and the One. A practical concern is that language of unity can be misused to silence differences. Saying that everyone shares a ground does not make each person's circumstances or suffering identical. A limited modern analogy is a common project built through distinct contributions. Participants have different skills and needs while their efforts meet in one purpose. This does not define Brahman or verify the spiritual attainment. It can teach attention to both connection and specificity. Practice naming a shared aim alongside a real difference that must be respected, so unity becomes a reason to listen more carefully rather than a reason to stop listening.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Seeing beings' diversity as resting in and expanding from the One leads to Brahman."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sri Swami Sivananda emphasizes intuitive knowledge of the many forms' common root and illustrates it through waves and rays."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A shared project with distinct contributions is an analogy; unity does not erase specific needs or suffering."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "In one shared task, name the common aim and one distinct contribution or need deserving acknowledgment."
+    }
+  ],
+  "reflectionQuestion": "Can I recognize connection without erasing what is particular to another person?",
+  "reflectionQuestionHindi": "क्या संबंध पहचानते हुए दूसरे की विशिष्ट स्थिति का सम्मान भी रख सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-021",
+  "sequenceNumber": 435,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 21,
+  "verseEnd": 21,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "स्तुति में भी भय / Praise amid fear",
+  "context": "Arjuna sees gods entering the form, some praising in fear, and sages and perfected beings offering benedictions and hymns.",
+  "contextHindi": "अर्जुन देवों को रूप में प्रवेश करते, कुछ को भय में स्तुति करते और ऋषि सिद्धों को मंगल कहते देखते हैं।",
+  "sanskritDevanagari": "अमी हि त्वां सुरसङ्घा विशन्ति\nकेचिद्भीताः प्राञ्जलयो गृणन्ति |\nस्वस्तीत्युक्त्वा महर्षिसिद्धसङ्घाः\nस्तुवन्ति त्वां स्तुतिभिः पुष्कलाभिः ||११-२१||",
+  "transliteration": "amī hi tvāṃ surasaṅghā viśanti kecidbhītāḥ prāñjalayo gṛṇanti .\nsvastītyuktvā maharṣisiddhasaṅghāḥ stuvanti tvāṃ stutibhiḥ puṣkalābhiḥ ||11-21||",
+  "wordByWord": [
+    {
+      "term": "विशन्ति",
+      "meaning": "enter"
+    },
+    {
+      "term": "भीताः",
+      "meaning": "afraid"
+    },
+    {
+      "term": "स्वस्ति",
+      "meaning": "may it be well; a benediction"
+    },
+    {
+      "term": "स्तुतिभिः",
+      "meaning": "with praises or hymns"
+    }
+  ],
+  "spokenHindi": "अर्जुन कहते हैं कि देवसमूह कृष्ण में प्रवेश कर रहे हैं। कुछ भय के साथ हाथ जोड़कर गुण कहते हैं। महर्षि और सिद्ध स्वस्ति कहकर विस्तृत स्तुतियाँ करते हैं। स्वस्ति में मंगल की कामना है, केवल सफल परिणाम का दावा नहीं। इस दृश्य में अलग प्रतिक्रियाएँ हैं: प्रवेश, भय के बीच प्रशंसा और मंगलवचन। कोई एक ही भाव सब पर नहीं थोपा गया। हाथ जोड़ना और स्तुति करना यहाँ भय मिट जाने का प्रमाण भी नहीं; कुछ लोग भयभीत रहते हुए ही ऐसा कर रहे हैं। इससे हमारा सीमित विचार हो सकता है कि कठिन समय में आभार या प्रार्थना और बेचैनी साथ रह सकते हैं। बाहरी मुद्रा देखकर दूसरे की भीतर की दशा तय करना जल्दबाजी होगी। धार्मिक दृश्य की इन क्रियाओं को आधुनिक व्यक्ति पर बाध्य रूप में नहीं डालना चाहिए। आज किसी मित्र से हाल पूछें तो केवल वह मुस्कुरा रहा है, इसलिए सब ठीक है, ऐसा न मानें। ध्यान से सुनना और सहायता की उसकी पसंद पूछना सम्मानपूर्ण प्रतिक्रिया हो सकती है। यह हमारा उपयोग है, श्लोक में नई चिकित्सा विधि नहीं।",
+  "clearEnglish": "Arjuna reports several responses within the divine scene. Hosts of gods enter the form; some praise with joined palms while afraid; sages and perfected beings say may it be well and offer abundant hymns. Swasti expresses benediction rather than a guaranteed forecast. The distinctions matter because praise and fear are not mutually exclusive here. A gesture of reverence does not by itself tell us that the person performing it feels calm. The verse's religious groups and actions belong to the vision, so a modern listener is not being required to adopt one prescribed response. A careful application is to avoid reading another person's inner state solely from outward behavior. Someone may express thanks, smile or pray while still feeling unsettled. Asking how they are and what kind of help they prefer can make care more accurate. This is ordinary interpersonal guidance, not a therapeutic protocol supplied by the text. Arjuna's account preserves a range of responses to one extraordinary manifestation.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna sees divine groups enter and praise, including praise in fear and benedictions from sages and perfected beings."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Reverent gestures do not establish calm; checking another person's actual experience is a modern application."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Ask beyond appearance",
+      "text": "In a suitable conversation, ask how someone actually feels and what support they prefer rather than assuming from their expression."
+    }
+  ],
+  "reflectionQuestion": "Do I assume a composed appearance means someone feels composed?",
+  "reflectionQuestionHindi": "क्या शांत दिखने से मैं मान लेता हूँ कि व्यक्ति भीतर भी शांत है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

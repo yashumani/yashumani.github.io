@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-004",
+  "sequenceNumber": 599,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 4,
+  "verseEnd": 4,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "पूजा की दिशा / Objects of worship",
+  "context": "Krishna illustrates the three kinds of faith through different objects of worship.",
+  "contextHindi": "कृष्ण तीन तरह की श्रद्धा को पूजा के अलग विषयों के उदाहरण से स्पष्ट करते हैं।",
+  "sanskritDevanagari": "यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसाः |\nप्रेतान्भूतगणांश्चान्ये यजन्ते तामसा जनाः ||१७-४||",
+  "transliteration": "yajante sāttvikā devānyakṣarakṣāṃsi rājasāḥ .\npretānbhūtagaṇāṃścānye yajante tāmasā janāḥ ||17-4||",
+  "wordByWord": [
+    {
+      "term": "devān",
+      "meaning": "Gods or divine beings"
+    },
+    {
+      "term": "yakṣarakṣāṃsi",
+      "meaning": "Yakshas and rakshasas"
+    },
+    {
+      "term": "pretān",
+      "meaning": "Departed spirits or ghosts"
+    },
+    {
+      "term": "bhūtagaṇān",
+      "meaning": "Hosts of spirits in this context"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि सात्त्विक लोग देवताओं की पूजा करते हैं, राजसिक यक्ष और राक्षसों की, और तामसिक प्रेतों तथा भूतगणों की। यह धार्मिक संसार के भीतर पूजा की दिशाओं का वर्णन है। यक्ष, राक्षस और भूतगण को मन से आधुनिक समुदायों या पेशों का नाम बना देना सही अर्थ नहीं होगा। भूत शब्द यहाँ सामान्य जीवों या पशुओं के लिए नहीं लिया गया है। इसलिए इससे किसी जानवर को आध्यात्मिक रूप से बुरा कहने का आधार नहीं मिलता। हम अलग परम्परा को देखकर उसके सभी लोगों पर एक गुण का फैसला भी नहीं दे सकते। आधुनिक अनुप्रयोग में पूजा की प्रेरणा जांचना उपयोगी हो सकता है: क्या मैं समझ और श्रद्धा से जुड़ रहा हूँ, केवल शक्ति पाने की चाह से, या डर के दबाव से? यह प्रश्न मूल सूची की जगह नहीं लेता। किसी अपरिचित पूजा को समझना हो, तो उसके वास्तविक स्रोत और मानने वालों का अर्थ सुनें। सम्मानपूर्वक सीखना आसान अनुमान से अधिक जिम्मेदार रास्ता है।",
+  "clearEnglish": "Krishna gives a religious illustration of the threefold faith: sattvic people worship gods, rajasic people yakshas and rakshasas, and tamasic people departed spirits and hosts of spirits. The named beings belong to the passage's religious vocabulary. Replacing them with arbitrary modern groups would fabricate a mapping the verse does not provide. In particular, bhūta here concerns spirits, not a declaration that ordinary animals are spiritually evil. The classification should also not become an instant judgement about every person associated with an unfamiliar tradition. Understanding the practice and its stated purpose requires more evidence than its appearance. A modern reflective extension can examine whether worship is pursued with understanding, a demand for power, or coercive fear. Those motives are offered as questions for practice, not as exhaustive definitions of the named beings. When encountering an unfamiliar observance, ask its practitioners what they understand themselves to be doing. Careful listening can prevent a theological distinction from becoming social contempt.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna links sattvic, rajasic, and tamasic worship with gods, yakshas/rakshasas, and spirits respectively."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Examining motives is a modern extension; the named beings are not labels for modern communities or ordinary animals."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Understand an observance",
+      "text": "Before judging an unfamiliar practice, seek an accurate account of its purpose from a reliable source."
+    }
+  ],
+  "reflectionQuestion": "What have I actually learned about this practice before judging it?",
+  "reflectionQuestionHindi": "इस अभ्यास पर फैसला करने से पहले मैंने वास्तव में क्या जाना है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

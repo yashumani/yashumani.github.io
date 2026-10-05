@@ -1,0 +1,67 @@
+{
+  "id": "bg-03-020",
+  "sequenceNumber": 139,
+  "date": "2026-10-05",
+  "chapter": 3,
+  "verseStart": 20,
+  "verseEnd": 20,
+  "chapterNameSanskrit": "कर्मयोग",
+  "chapterNameEnglish": "Karma Yoga",
+  "theme": "लोककल्याण के लिए कर्म; Action that sustains shared life",
+  "context": "Krishna points to Janaka and others as examples of attaining perfection through action. He then tells Arjuna to act with the welfare and cohesion of the world in view. The verse shifts attention from personal gain to responsible participation in a wider community.",
+  "contextHindi": "कृष्ण जनक और अन्य लोगों का उदाहरण देते हैं, जिन्होंने कर्म करते हुए सिद्धि प्राप्त की। फिर वे अर्जुन से कहते हैं कि लोकसंग्रह को भी ध्यान में रखकर काम करना उचित है।",
+  "sanskritDevanagari": "कर्मणैव हि संसिद्धिमास्थिता जनकादयः |\nलोकसंग्रहमेवापि सम्पश्यन्कर्तुमर्हसि ||३-२०||",
+  "transliteration": "karmaṇaiva hi saṃsiddhimāsthitā janakādayaḥ .\nlokasaṃgrahamevāpi sampaśyankartumarhasi ||3-20||",
+  "wordByWord": [
+    {
+      "term": "कर्मणा एव (karmaṇā eva)",
+      "meaning": "Through action itself; in this context, action is presented as a path rather than an obstacle."
+    },
+    {
+      "term": "संसिद्धिम् (saṃsiddhim)",
+      "meaning": "Perfection or fulfilment; the verse does not specify a worldly achievement."
+    },
+    {
+      "term": "लोकसंग्रहम् (lokasaṃgraham)",
+      "meaning": "The holding together, protection, or welfare of the world and its people; its emphasis is wider than private benefit."
+    },
+    {
+      "term": "सम्पश्यन् (sampaśyan)",
+      "meaning": "Seeing or keeping in view; here, acting with a broader consequence in mind."
+    }
+  ],
+  "spokenHindi": "कृष्ण यहाँ जनक और उनके जैसे लोगों का उदाहरण देते हैं। इस संवाद में जनक का महत्व यह है कि कर्म करते हुए भी सिद्धि संभव है; आध्यात्मिक खोज का मतलब अपने सारे सामाजिक काम छोड़ देना नहीं है। फिर कृष्ण अर्जुन से कहते हैं कि लोकसंग्रह को ध्यान में रखकर कर्म करना उचित है। “लोकसंग्रह” का भाव केवल लोगों को नियंत्रित करना नहीं, बल्कि साझा जीवन को संभालना और उसके हित को देखना है। पाठ इतना कहता है कि जनकादि ने कर्म से सिद्धि पाई और अर्जुन को भी लोकसंग्रह देखते हुए कर्म करना चाहिए। इससे हम यह समझ सकते हैं कि जिम्मेदार काम का असर हमारे निजी जीवन से आगे भी जाता है। लेकिन इसका अर्थ यह नहीं कि किसी नेता, परिवार-प्रमुख या सफल व्यक्ति की हर बात सही मानी जाए। उदाहरण से प्रेरणा लेना और बिना सोचे आज्ञा मानना अलग बातें हैं। आज अपने काम में पूछें: इससे किस पर असर पड़ेगा, और क्या मैं उस असर को ईमानदारी से देख रहा हूँ? दूसरों के हित की चिंता में अपनी सीमाएँ भी पहचानें; सेवा का अर्थ खुद को मिटा देना नहीं है।",
+  "clearEnglish": "Janaka’s example answers a possible misunderstanding: spiritual maturity need not require abandoning every public or practical responsibility. The verse presents action as compatible with perfection, then adds a social dimension. Lokasaṃgraha can be understood as the holding together or welfare of the world and its people. It points beyond private advantage, toward the effects our conduct has on shared life. TEXT: Krishna names Janaka and others as having attained perfection through action and says Arjuna should act with lokasaṃgraha in view. INFERENCE: A useful modern application is to consider who depends on a decision, who bears its costs, and whether a responsibility can be carried out fairly. The verse does not say that every tradition, authority, or inherited social arrangement is automatically just. Nor does one example prove that a public figure’s every choice is worthy of imitation. We can respect the example without turning it into unquestioning obedience. In a team, household, or community, do your part reliably, listen to those affected, and seek the common good without pretending you alone know what everyone needs.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse cites Janaka and others as attaining perfection through action and urges Arjuna to act with lokasaṃgraha in view."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Considering how decisions affect shared life is a reasonable application. The verse does not make every authority or social arrangement automatically just."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Widen the view",
+      "text": "Before making a decision that affects others, ask who benefits, who bears the burden, and whose perspective you have not yet heard."
+    }
+  ],
+  "reflectionQuestion": "How might one responsibility you have today support the well-being of people beyond yourself?",
+  "reflectionQuestionHindi": "आज आपकी कौन-सी जिम्मेदारी आपके अपने हित से आगे बढ़कर दूसरों के कल्याण में सहायक हो सकती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

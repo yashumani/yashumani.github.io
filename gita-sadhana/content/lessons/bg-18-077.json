@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-077",
+  "sequenceNumber": 700,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 77,
+  "verseEnd": 77,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Sanjaya remembers Hari's form / संजय हरि का रूप याद करता है",
+  "context": "After recalling the dialogue, Sanjaya separately recalls the extraordinary form of Hari and his continuing wonder.",
+  "contextHindi": "संवाद की स्मृति के बाद संजय हरि के अद्भुत रूप को अलग से याद करता है और अपना विस्मय बताता है।",
+  "sanskritDevanagari": "तच्च संस्मृत्य संस्मृत्य रूपमत्यद्भुतं हरेः |\nविस्मयो मे महान् राजन्हृष्यामि च पुनः पुनः ||१८-७७||",
+  "transliteration": "tacca saṃsmṛtya saṃsmṛtya rūpamatyadbhutaṃ hareḥ .\nvismayo me mahān rājanhṛṣyāmi ca punaḥ punaḥ ||18-77||",
+  "wordByWord": [
+    {
+      "term": "tac ca rūpam",
+      "meaning": "and that form"
+    },
+    {
+      "term": "atyadbhutam",
+      "meaning": "most astonishing"
+    },
+    {
+      "term": "hareḥ",
+      "meaning": "of Hari, Krishna"
+    },
+    {
+      "term": "vismayaḥ me mahān",
+      "meaning": "my wonder is great"
+    },
+    {
+      "term": "punaḥ punaḥ",
+      "meaning": "again and again"
+    }
+  ],
+  "spokenHindi": "अब संजय कहता है कि हरि के उस अत्यंत अद्भुत रूप को बार बार याद कर उसका विस्मय बहुत बड़ा हो जाता है, और उसे फिर फिर आनंद होता है। पिछले श्लोक में वह संवाद को याद कर रहा था; यहाँ विशेष रूप से रूपम्, हरि का रूप, उसकी स्मृति में आता है। गीता के पहले हिस्से में अर्जुन को दिखाया गया विश्वरूप इस स्मरण की पृष्ठभूमि है, पर इस श्लोक में संजय पूरी दृश्य कथा दुबारा नहीं सुनाता। विस्मय और हर्ष उसके अपने अनुभव हैं। हम इन भावों को सुन सकते हैं, पर खुद को वही अनुभूति करने के लिए बाध्य न करें। किसी विशाल अनुभव की स्मृति कभी आश्चर्य, कभी प्रश्न, कभी मौन ला सकती है। यह आज की सामान्य बात है, श्लोक का शाब्दिक वचन नहीं। अगर किसी कला, प्रकृति या प्रार्थना के क्षण ने हमें ठहराया हो, तो उसे एक पल याद कर सकते हैं और पूछ सकते हैं कि उसमें क्या सच में देखा था। भावनात्मक असर को ईमानदारी से पहचानें, लेकिन उसके आधार पर किसी दूसरे की अनुभूति पर फैसला न दें। संजय की आवाज यहाँ निजी विस्मय की आवाज है।",
+  "clearEnglish": "Sanjaya now remembers something distinct from the conversation: the exceedingly marvelous form of Hari. Repeated recollection brings great wonder and renewed joy. The earlier vision of Krishna's universal form gives narrative background, but this verse does not retell every image from that vision. The difference between verse 76 and verse 77 is worth keeping: first the sacred dialogue, then the form. The doubled remembering and recurring joy bind them together in Sanjaya's closing testimony. This is his firsthand narrative response, not a test of spiritual worth for later readers. Wonder may awaken attention, but an intense feeling alone does not settle how to interpret an event. A contemporary inference is to let a striking memory be examined with care: what did I actually perceive, what do I remember now, and what meaning am I adding? That distinction leaves room for reverence and honesty together. Some people may feel quiet gratitude rather than Sanjaya's exuberance. His verse gives language to his own amazement without prescribing a uniform emotional experience.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Sanjaya tells the king that remembering Hari's extraordinary form repeatedly brings him great wonder and recurring joy."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A listener can distinguish a remembered experience from the meaning later given to it, without being required to reproduce Sanjaya's feelings."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Observe and interpret / देखना और अर्थ",
+      "text": "Recall one awe filled moment if comfortable; write what you observed and what meaning you later gave it."
+    }
+  ],
+  "reflectionQuestion": "What detail of an experience do I truly remember, and what interpretation have I added?",
+  "reflectionQuestionHindi": "किस अनुभव का कौन सा दृश्य मुझे सच में याद है, और उसमें मैंने कौन सा अर्थ जोड़ा है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "bg-11-055",
+  "sequenceNumber": 469,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 55,
+  "verseEnd": 55,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "कर्म और निर्वैरता में भक्ति / Devotion in action and nonenmity",
+  "context": "Krishna closes the chapter with action for him, devotion, freedom from attachment and nonenmity toward every being.",
+  "contextHindi": "कृष्ण अध्याय समाप्त करते हुए अपने लिए कर्म, भक्ति, आसक्ति से मुक्ति और सभी प्राणियों के प्रति निर्वैरता कहते हैं।",
+  "sanskritDevanagari": "मत्कर्मकृन्मत्परमो मद्भक्तः सङ्गवर्जितः |\nनिर्वैरः सर्वभूतेषु यः स मामेति पाण्डव ||११-५५||",
+  "transliteration": "matkarmakṛnmatparamo madbhaktaḥ saṅgavarjitaḥ .\nnirvairaḥ sarvabhūteṣu yaḥ sa māmeti pāṇḍava ||11-55||",
+  "wordByWord": [
+    {
+      "term": "मत्कर्मकृत्",
+      "meaning": "doing actions for me"
+    },
+    {
+      "term": "मत्परमः",
+      "meaning": "taking me as the supreme goal"
+    },
+    {
+      "term": "सङ्गवर्जितः",
+      "meaning": "free from attachment"
+    },
+    {
+      "term": "निर्वैरः",
+      "meaning": "without enmity"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जो उनके लिए कर्म करता है, उन्हें परम मानता है, उनका भक्त है, आसक्ति से रहित और सभी प्राणियों के प्रति निर्वैर है, वह उन्हें प्राप्त होता है। अध्याय की बड़ी दृष्टि अब व्यवहार की दिशा में आती है। निर्वैर केवल अपने मित्रों के लिए नहीं; सर्वभूतेषु सभी प्राणियों को जोड़ता है। इसका अर्थ अन्याय को स्वीकार करना या सुरक्षा की सीमा छोड़ना नहीं निकालना चाहिए। नुकसान रोकना संभव है, बिना दूसरे को अमानवीय बनाने के। यह हमारा नैतिक अनुप्रयोग है। मत्कर्म में कार्य का केंद्र है और मत्परम में जीवन की सर्वोच्च दिशा। स्वामी शिवानंद की टिप्पणी इस श्लोक को पूरी गीता की शिक्षा का सार कहती है और परम आनंद तथा दिव्य एकता की व्याख्या जोड़ती है। वह उनका विस्तार है। आज कोई छोटा काम श्रद्धा से करें और श्रेय या परिणाम पर पकड़ को देखें। किसी मतभेद में व्यक्ति की गरिमा बचाते हुए उचित सीमा रखें। दिव्य दर्शन का अध्याय एक ऐसे संबंध पर समाप्त होता है जिसमें प्रेम, कर्म और अहिंसक मनोभाव साथ हैं।",
+  "clearEnglish": "The chapter closes with a compact description of the devotee: acting for Krishna, regarding him as supreme, devoted, free from attachment and without enmity toward all beings. These are not only features of a spectacular vision; they concern orientation and conduct. Sarvabhuteshu makes nonenmity wide in scope. A responsible modern inference distinguishes it from passivity in the face of harm. One can oppose an action, protect oneself and seek accountability without dehumanizing the person involved. The text does not spell out those procedures, but they keep the application ethically sound. Sivananda's supplied commentary calls the verse the essence of the Gita and expands its culmination through supreme bliss and divine unity. That is named commentary beyond the verse's concise promise of coming to Krishna. A small practice is to perform useful work while noticing attachment to credit, then meet a disagreement with a clear boundary and basic regard. Such action is an application, not proof of completion of the spiritual ideal.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes devotion through action, supreme orientation, freedom from attachment and nonenmity to all beings."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Nonenmity can coexist with protection and accountability; practical conduct is an application, not proof of spiritual attainment."
+    },
+    {
+      "label": "COMMENTARY — Swami Sivananda",
+      "explanation": "Sivananda calls the verse the essence of the Gita and interprets its fulfilment through supreme bliss, immortality and divine unity."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Work and regard",
+      "text": "Do one useful task without seeking extra credit. In a disagreement, keep a necessary boundary while describing the other person without contempt."
+    }
+  ],
+  "reflectionQuestion": "Can I oppose harm while refusing to cultivate hatred?",
+  "reflectionQuestionHindi": "क्या मैं हानि का विरोध करते हुए घृणा पालने से बच सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

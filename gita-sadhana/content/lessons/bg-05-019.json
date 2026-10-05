@@ -1,0 +1,67 @@
+{
+  "id": "bg-05-019",
+  "sequenceNumber": 223,
+  "date": "2026-10-05",
+  "chapter": 5,
+  "verseStart": 19,
+  "verseEnd": 19,
+  "chapterNameSanskrit": "कर्मसंन्यासयोग",
+  "chapterNameEnglish": "Karma Sannyāsa Yoga",
+  "theme": "समता में स्थिर मन और ब्रह्म-दृष्टि — A steady mind in equality and the vision of Brahman",
+  "context": "After verse 18 describes the wise as seeing with equal vision across people and animals, Krishna explains the significance of a mind established in equality. The verse connects that inner steadiness with being established in Brahman.",
+  "contextHindi": "पिछले श्लोक में ज्ञानी की समदृष्टि का वर्णन है। अब कृष्ण बताते हैं कि जब मन समता में टिकता है, तो उसका ब्रह्म में स्थित होने से क्या संबंध है।",
+  "sanskritDevanagari": "इहैव तैर्जितः सर्गो येषां साम्ये स्थितं मनः |\nनिर्दोषं हि समं ब्रह्म तस्माद् ब्रह्मणि ते स्थिताः ||५-१९||",
+  "transliteration": "ihaiva tairjitaḥ sargo yeṣāṃ sāmye sthitaṃ manaḥ .\nnirdoṣaṃ hi samaṃ brahma tasmād brahmaṇi te sthitāḥ ||5-19||",
+  "wordByWord": [
+    {
+      "term": "इह एव (ihaiva)",
+      "meaning": "Even here, in this life; the verse places the possibility in the present."
+    },
+    {
+      "term": "सर्ग (sarga)",
+      "meaning": "Creation, the created order, or worldly existence; its precise rendering depends on interpretation."
+    },
+    {
+      "term": "साम्ये स्थितं मनः (sāmye sthitaṃ manaḥ)",
+      "meaning": "A mind established in equality or evenness, not easily ruled by distinctions."
+    },
+    {
+      "term": "निर्दोषं समं ब्रह्म (nirdoṣaṃ samaṃ brahma)",
+      "meaning": "Brahman is described as without defect and equal."
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण कहते हैं कि जिनका मन समता में स्थिर है, उन्होंने इसी जीवन में सर्ग को जीत लिया है। यहाँ ‘सर्ग’ का अर्थ सृष्टि या जन्म-मरण के संसार से जोड़ा जा सकता है; शब्द का अनुवाद अलग-अलग ढंग से किया गया है, इसलिए इसे केवल किसी बाहरी दुनिया पर विजय न समझें। पिछले श्लोक में अलग-अलग मनुष्यों और प्राणियों के प्रति ज्ञानी की समदृष्टि की बात आई थी। अब कृष्ण उस दृष्टि को ब्रह्म के स्वरूप से जोड़ते हैं: ब्रह्म निर्दोष और सम है, इसलिए उसमें स्थित व्यक्ति का मन भी समता में टिकता है। **पाठ:** श्लोक स्पष्ट रूप से ब्रह्म को सम और निर्दोष कहता है, और समता में स्थित मन को ब्रह्म में स्थित होने से जोड़ता है। **निष्कर्ष:** यह समता अपने-आप में सभी के व्यवहार या परिस्थितियों को एक जैसा मानना नहीं है; बल्कि पक्षपात और अहंकार से बचकर देखने की दिशा देती है। इसका अर्थ अन्याय को अनदेखा करना भी नहीं। आज किसी असहमति में व्यक्ति की गरिमा बनाए रखते हुए तथ्य और नुकसान को साफ़-साफ़ देखना इस अभ्यास का छोटा रूप हो सकता है।",
+  "clearEnglish": "Krishna says that those whose minds rest in equality have, “even here,” overcome sarga. That word can mean creation or the created order, and it is also rendered in relation to worldly existence; the verse itself does not spell out one narrowly defined mechanism of liberation. The next line supplies its central reason: Brahman is described as stainless and equal, and these people are therefore established in Brahman. The link is between an even mind and the character of what it recognizes, not a claim that every outward circumstance is already fair. **TEXT:** The verse explicitly describes Brahman as equal and without defect, and connects a mind established in equality with being established in Brahman. **INFERENCE:** This can support a practice of looking beyond status-based preference and noticing shared dignity. It does not require pretending that harmful actions, unequal conditions, or distinct responsibilities are identical. A fair response may still name harm and set boundaries. In a disagreement today, try to separate a person’s worth from the specific action you need to assess. That is a practical exercise inspired by the verse, not a substitute for addressing injustice.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse says that those whose minds are established in equality have overcome sarga even here; it describes Brahman as equal and without defect, and says they are established in Brahman."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A practical ethical reading is to resist status-based partiality while still recognizing concrete differences in actions, needs, and harms. The verse does not itself give a detailed social or political program."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Notice partiality",
+      "text": "In one conversation today, pause before judging. Ask whether you would assess the same action differently if it came from someone with a different status or background."
+    }
+  ],
+  "reflectionQuestion": "Where might I confuse equal human dignity with pretending that every action or circumstance is the same?",
+  "reflectionQuestionHindi": "कहाँ मैं सबकी समान गरिमा को इस बात से मिला देता हूँ कि हर कर्म या परिस्थिति एक जैसी है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

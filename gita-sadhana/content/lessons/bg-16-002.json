@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-002",
+  "sequenceNumber": 573,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 2,
+  "verseEnd": 2,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "करुणा के साथ सत्य / Truth with compassion",
+  "context": "Krishna continues the list of divine qualities, emphasizing relationships, speech, and self-restraint.",
+  "contextHindi": "कृष्ण दैवी गुणों की सूची आगे बढ़ाते हुए बोलचाल और दूसरों के प्रति व्यवहार बताते हैं।",
+  "sanskritDevanagari": "अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् |\nदया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ||१६-२||",
+  "transliteration": "ahiṃsā satyamakrodhastyāgaḥ śāntirapaiśunam .\ndayā bhūteṣvaloluptvaṃ mārdavaṃ hrīracāpalam ||16-2||",
+  "wordByWord": [
+    {
+      "term": "ahiṃsā",
+      "meaning": "Non-harming"
+    },
+    {
+      "term": "apaiśunam",
+      "meaning": "Absence of malicious fault-finding or slander"
+    },
+    {
+      "term": "dayā bhūteṣu",
+      "meaning": "Compassion toward beings"
+    },
+    {
+      "term": "aloluptvam",
+      "meaning": "Absence of covetousness"
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण हमारे संबंधों की गुणवत्ता पर ध्यान लाते हैं। अहिंसा, सत्य, क्रोध से मुक्ति और शान्ति साथ रखे गए हैं। इसलिए केवल यह कह देना कि मेरी बात सच थी, कठोर व्यवहार को सही नहीं बना देता। सत्य बोलने की जरूरत बनी रहती है, लेकिन उसे करुणा और संयम के साथ कहा जा सकता है। अपैशुनम् दूसरों की निंदा या उनकी कमियों को फैलाने से बचने की ओर इशारा करता है। इसका अर्थ किसी नुकसान की सही शिकायत दबाना नहीं है। शिकायत जिम्मेदार व्यक्ति तक पहुँच सकती है; मनोरंजन के लिए किसी की बदनामी अलग बात है। सभी प्राणियों के प्रति दया हमारे ध्यान को अपने छोटे घेरे से बाहर ले जाती है। अलोलुप्त्व हमें हर दिखती चीज पाने की बेचैनी से बचाता है। कोमलता और संकोच का अर्थ अपनी गरिमा छोड़ देना नहीं है। आज किसी असहमति में तथ्य स्पष्ट रखिए और सामने वाले का अपमान हटाइए। अपने भीतर उठे क्रोध को पहचानिए, फिर तय कीजिए कि कौन सा उत्तर वास्तव में जरूरी है।",
+  "clearEnglish": "This continuation of the divine qualities places non-harming and truth within a wider relational ethic. Krishna also names absence of anger, renunciation, peace, freedom from slander, compassion for beings, lack of covetousness, gentleness, modesty, and steadiness. These qualities are not interchangeable. A statement can be accurate yet delivered with needless humiliation; a quiet response can still conceal dishonesty. Reading the list together invites a more demanding practice than selecting whichever virtue excuses one's existing habits. Freedom from slander especially concerns how we handle information about another person's faults. A responsible report of harm is different from circulating a story for pleasure or advantage. That distinction is a modern ethical application, not an additional definition supplied by Krishna. Compassion also extends beyond people we find agreeable. In a difficult conversation, try preserving the necessary fact while removing the insult. Notice whether your wish to speak serves understanding, protection, repair, or merely the satisfaction of winning.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna lists non-harming, truth, absence of anger, peace, compassion, gentleness, and related divine qualities."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Distinguishing responsible reporting from gossip applies the verse to modern communication without suppressing needed support."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Fact without insult",
+      "text": "Rewrite one difficult message so the relevant fact remains and personal insults disappear."
+    }
+  ],
+  "reflectionQuestion": "What necessary truth could I express more gently?",
+  "reflectionQuestionHindi": "कौन सी जरूरी सच्चाई मैं अधिक कोमल ढंग से कह सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

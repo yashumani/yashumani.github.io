@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-015",
+  "sequenceNumber": 586,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 15,
+  "verseEnd": 15,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "दान में भी दिखावा / Status behind generosity",
+  "context": "The quoted monologue turns to wealth, family prestige, sacrifice, giving, and enjoyment.",
+  "contextHindi": "उद्धृत आत्मप्रशंसा अब धन, परिवार की प्रतिष्ठा, यज्ञ, दान और आनंद पर पहुँचती है।",
+  "sanskritDevanagari": "आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया |\nयक्ष्ये दास्यामि मोदिष्य इत्यज्ञानविमोहिताः ||१६-१५||",
+  "transliteration": "āḍhyo.abhijanavānasmi ko.anyo.asti sadṛśo mayā .\nyakṣye dāsyāmi modiṣya ityajñānavimohitāḥ ||16-15||",
+  "wordByWord": [
+    {
+      "term": "āḍhyaḥ",
+      "meaning": "Wealthy"
+    },
+    {
+      "term": "abhijanavān",
+      "meaning": "Of distinguished family; claimed status"
+    },
+    {
+      "term": "yakṣye",
+      "meaning": "I shall sacrifice"
+    },
+    {
+      "term": "ajñānavimohitāḥ",
+      "meaning": "Deluded by ignorance"
+    }
+  ],
+  "spokenHindi": "यहाँ व्यक्ति कहता है कि मैं धनी हूँ, अच्छे कुल में जन्मा हूँ, मेरे बराबर कौन है। वह यज्ञ, दान और आनंद की बातें भी करता है। कृष्ण इस आवाज को अज्ञान से भ्रमित बताते हैं। इससे एक सूक्ष्म बात खुलती है: बाहर से अच्छा दिखने वाला काम भी अहंकार के लिए किया जा सकता है। दान का नाम लेने भर से देने वाले का उद्देश्य साफ नहीं हो जाता। इसी तरह परिवार की प्रतिष्ठा आध्यात्मिक गुण का प्रमाण नहीं है। श्लोक में कुल का घमंड उद्धृत है, कृष्ण का लोगों की जन्मजात श्रेष्ठता का निर्णय नहीं। आज दान या मदद करते समय यह देखें कि सामने वाले की जरूरत केंद्र में है या अपनी प्रशंसा। फोटो, धन्यवाद या नाम की जगह कोई काम पूरा होना अधिक जरूरी हो सकता है। सार्वजनिक सहायता हमेशा गलत नहीं; लेकिन सम्मान की इच्छा का निरीक्षण किया जा सकता है। अपनी क्षमता के भीतर कोई छोटी मदद करें और लाभ पाने वाले की गरिमा सुरक्षित रखें। किसी से तुलना किए बिना देने का मूल्य पहचानना इस घमंड को ढीला कर सकता है।",
+  "clearEnglish": "The quoted person claims wealth and distinguished birth, asks who is equal to him, and announces sacrifice, charity, and enjoyment. Krishna concludes that such people are deluded by ignorance. The verse is especially useful because morally respectable activities appear inside a boastful outlook. Giving and sacrifice can be recruited to advertise superiority. The reference to family distinction is the speaker's claim, not Krishna's endorsement of hereditary spiritual rank. A modern application examines what generosity is intended to accomplish. Public giving can sometimes mobilize useful support, so visibility alone does not settle the question. The more important issue is whether the recipient's need and dignity remain central. Would the help still seem worthwhile without praise? Would the giver accept a correction about what is actually needed? These questions are reflective inferences, not additional clauses in the verse. Consider a modest act of assistance that does not require comparison with another donor. Let the benefit received, rather than your rank, measure its success.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna quotes claims of wealth, prestigious birth, sacrifice, and giving, then identifies ignorance and delusion."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Evaluating generosity by the recipient's welfare rather than inherited prestige applies the criticism of boastful giving."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Recipient first",
+      "text": "Ask what assistance is actually useful before offering help, and protect the recipient's privacy."
+    }
+  ],
+  "reflectionQuestion": "Would this help still matter to me without recognition?",
+  "reflectionQuestionHindi": "क्या प्रशंसा न मिले तब भी यह सहायता मेरे लिए मूल्यवान होगी?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

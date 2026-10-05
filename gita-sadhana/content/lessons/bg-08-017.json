@@ -1,0 +1,75 @@
+{
+  "id": "bg-08-017",
+  "sequenceNumber": 327,
+  "date": "2026-10-05",
+  "chapter": 8,
+  "verseStart": 17,
+  "verseEnd": 17,
+  "chapterNameSanskrit": "अक्षरब्रह्मयोग",
+  "chapterNameEnglish": "Akṣara Brahma Yoga",
+  "theme": "ब्रह्मा की दिन-रात और Cosmic Time / Brahma’s day-night and the vast rhythm of creation",
+  "context": "Krishna has already described the highest goal, devotion, and the path of remembrance. Now He gives the cosmic scale of creation and dissolution so Arjuna sees that even the greatest worlds are temporary within a larger divine rhythm.",
+  "contextHindi": "भगवान ने पहले ही सर्वोच्च लक्ष्य, भक्ति और स्मरण के मार्ग का वर्णन किया है। अब वे सृष्टि और लय के बड़े समय-क्रम को बताते हैं, ताकि अर्जुन समझे कि सबसे बड़े जगत भी परम सत्य की तुलना में क्षणिक हैं।",
+  "sanskritDevanagari": "सहस्रयुगपर्यन्तमहर्यद् ब्रह्मणो विदुः |\nरात्रिं युगसहस्रान्तां तेऽहोरात्रविदो जनाः ||८-१७||",
+  "transliteration": "sahasrayugaparyantamaharyad brahmaṇo viduḥ .\nrātriṃ yugasahasrāntāṃ te.ahorātravido janāḥ ||8-17||",
+  "wordByWord": [
+    {
+      "term": "सहस्रयुगपर्यन्तम्",
+      "meaning": "up to a thousand ages; the vast measure of cosmic time."
+    },
+    {
+      "term": "अहः",
+      "meaning": "day; the period of manifestation and creation."
+    },
+    {
+      "term": "रात्रि",
+      "meaning": "night; the period of dissolution, withdrawal, and rest."
+    },
+    {
+      "term": "अहोरात्रविदः",
+      "meaning": "those who know the cycle of day and night; those who understand the rhythm of manifestation."
+    }
+  ],
+  "spokenHindi": "इस श्लोक में भगवान ने ब्रह्मा के काल-दर्शन को बताया है। ‘सहस्रयुगपर्यन्तम्’ से तात्पर्य है हज़ार युगों की लंबाई, और ‘अहः’ का अर्थ है ब्रह्मा का दिन। उसी तरह ‘रात्रि’ हज़ार युगों की रात्रि है। यह कहना है कि सृष्टि का बड़े पैमाने पर जीवन-चक्र बहुत विराट है, पर वह भी एक चक्र है। हम अपने दैनिक जीवन में समय को छोटा मानते हैं, लेकिन भगवान यहाँ हमें यह समझाते हैं कि ब्रह्मा के एक दिन और एक रात का समय इतना विशाल है कि उससे तुलना में हमारी छोटी-छोटी चिंताएँ भी बहुत क्षणिक लगती हैं। ‘अहोरात्रविदः’ का अर्थ है वे लोग जो दिन-रात का सही ज्ञान रखते हैं। यह ज्ञान हमें अहंकार को नहीं, बल्कि परम सत्य को देखने की दृष्टि देता है: सृष्टि उठती है, बहती है, और फिर लीन होती है। यह ज्ञान हमें अपने छोटेपन और महानता की सुंदर सीमा को समझाता है।",
+  "clearEnglish": "Krishna here gives the scale of cosmic time: a day of Brahma lasts a thousand yugas, and so does a night. The point is not to produce a modern astronomy timetable but to show that even the greatest visible order is cyclical. What seems permanent to us—our ambitions, identities, institutions, even long historical ages—is placed within a much larger rhythm. The verse also teaches that the wise recognize this pattern; they understand that manifestation arises and withdraws. Such understanding does not make life meaningless; it prevents fixation on the temporary. The wise do not deny creation, but they do not confuse a passing form with the abiding reality. In practical terms, this is a call to humility: the cosmos itself is not static, so our self-concern should be directed toward what remains steady beyond the changing world.",
+  "interpretationPerspectives": [
+    {
+      "label": "Text",
+      "explanation": "The verse literally states that the day and night of Brahma each last a thousand yugas, and those who know this cycle understand the rhythm of creation and withdrawal."
+    },
+    {
+      "label": "Inference",
+      "explanation": "The teaching points to a larger truth: even the grandest forms of cosmic order are temporary. This does not deny God's activity; it frames it within a vast unfolding and dissolution."
+    },
+    {
+      "label": "Commentary",
+      "explanation": "The source commentary on 8.18 identifies the coming of the day with the commencement of creation and the coming of the night with the commencement of dissolution."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Perspective shift",
+      "text": "When an achievement or loss feels overwhelming, pause and remember that the moment belongs to a larger rhythm. This reduces panic, ego, and fixation."
+    },
+    {
+      "label": "Daily humility",
+      "text": "Before starting the day, remind yourself that your plans, tasks, and worries are real but not ultimate. Ground your attention in what is deeper than fluctuation."
+    }
+  ],
+  "reflectionQuestion": "When I feel that my current situation is permanent, what would it mean to remember that even cosmic orders rise and fade within a larger rhythm?",
+  "reflectionQuestionHindi": "जब मुझे लगता है कि मेरी वर्तमान स्थिति स्थायी है, तो क्या होगा अगर मैं याद रखूँ कि यहाँ तक ब्रह्मा के बड़े काल-चक्र भी उठते और लीन होते हैं?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

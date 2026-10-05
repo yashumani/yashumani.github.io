@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-031",
+  "sequenceNumber": 403,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 31,
+  "verseEnd": 31,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "वायु और नदी / Wind and river",
+  "context": "Krishna names wind, Rama, makara and the Ganga as further manifestations.",
+  "contextHindi": "कृष्ण पवन, राम, मकर और जाह्नवी यानी गंगा को आगे के उदाहरण देते हैं।",
+  "sanskritDevanagari": "पवनः पवतामस्मि रामः शस्त्रभृतामहम् |\nझषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी ||१०-३१||",
+  "transliteration": "pavanaḥ pavatāmasmi rāmaḥ śastrabhṛtāmaham .\njhaṣāṇāṃ makaraścāsmi srotasāmasmi jāhnavī ||10-31||",
+  "wordByWord": [
+    {
+      "term": "पवनः",
+      "meaning": "wind"
+    },
+    {
+      "term": "शस्त्रभृताम्",
+      "meaning": "among bearers of weapons"
+    },
+    {
+      "term": "मकरः",
+      "meaning": "makara; rendered shark by this edition"
+    },
+    {
+      "term": "जाह्नवी",
+      "meaning": "Ganga"
+    }
+  ],
+  "spokenHindi": "कृष्ण शुद्ध करने वालों या तेज गति वालों में पवन, शस्त्र धारण करने वालों में राम, जलचर में मकर और धाराओं में जाह्नवी अर्थात गंगा कहते हैं। दिए गए संस्करण में पवताम् के लिए शुद्ध करने वाले और तेज चलने वाले दोनों संकेत हैं, और मकर का अनुवाद शार्क किया गया है। हम इस शब्द को बिना चर्चा किसी दूसरी निश्चित आधुनिक प्रजाति में बदलने से बचें। राम का नाम योद्धाओं के संदर्भ में है; यह श्लोक हमारे लिए निजी बल प्रयोग का निर्देश नहीं देता। वायु और नदी गति की दो अलग अनुभूतियाँ हैं। हवा देखी नहीं जाती, पर उसके प्रभाव महसूस होते हैं; नदी की धारा सामने दिखाई देती है। इन छवियों से हम अपने आसपास जीवन का समर्थन करने वाली साधारण प्रक्रियाओं को याद कर सकते हैं। यह हमारा चिंतन है। स्वच्छ पानी का उपयोग करते समय व्यर्थ बहाव रोकना, या किसी सार्वजनिक स्थान की सफाई में सुरक्षित मदद करना छोटा अनुप्रयोग हो सकता है। धार्मिक नदी का आदर केवल नाम लेने में नहीं, व्यवहार में देखभाल के रूप में भी दिख सकता है।",
+  "clearEnglish": "The supplied edition preserves a meaningful range for wind: among purifiers or speeders. It renders makara as shark, while Jahnavi is the Ganga. Rama is named among those bearing weapons. The translation choices should remain visible instead of silently replacing the aquatic term with a different modern species or treating its identification as settled zoology. The verse brings motion, martial prominence and flowing water into Krishna's catalogue. It does not direct listeners to use force in private disputes. Wind and river also offer accessible contemplative contrasts. Air is known through effects even when unseen; a stream's course can be watched. A practical application is attention to systems that sustain everyday life and are easy to overlook. Turning off unnecessary running water is a small act of care connected to the river image. That connection is our environmental inference, not a detailed policy supplied by Krishna. Reverence for a named sacred river can coexist with concrete responsibility toward ordinary water use.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies wind, Rama, makara and the Ganga; this edition preserves alternative senses for the wind category."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Responsible water use is a modern application; martial imagery does not authorize private violence."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Care for water",
+      "text": "Notice one point of unnecessary water use today and reduce it safely. Connect the act with attention to the water systems supporting your life."
+    }
+  ],
+  "reflectionQuestion": "What ordinary source of support do I notice only when it fails?",
+  "reflectionQuestionHindi": "कौन सा सामान्य सहारा मुझे सिर्फ उसके बंद होने पर याद आता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

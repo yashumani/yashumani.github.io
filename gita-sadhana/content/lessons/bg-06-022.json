@@ -1,0 +1,71 @@
+{
+  "id": "bg-06-022",
+  "sequenceNumber": 255,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 22,
+  "verseEnd": 22,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "अधिक लाभ का सार / The greater gain beyond ordinary gain",
+  "context": "Krishna continues the same teaching: once the yogin has experienced the Self, no other acquisition is considered truly valuable. The state of inner stability remains unshaken even under major pain, because the source of value has changed.",
+  "contextHindi": "कृष्ण उसी धारा को आगे बढ़ाते हैं: जब योगी आत्मा का अनुभव पा लेता है, तब उसे अन्य किसी उपलब्धि को सबसे बड़ा लाभ नहीं लगता। बड़ी दुखद स्थिति में भी यह आंतरिक स्थिरता नहीं डिगती, क्योंकि मूल्य का आधार बदल चुका होता है।",
+  "sanskritDevanagari": "यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः |\nयस्मिन्स्थितो न दुःखेन गुरुणापि विचाल्यते ||६-२२||",
+  "transliteration": "yaṃ labdhvā cāparaṃ lābhaṃ manyate nādhikaṃ tataḥ .\nyasminsthito na duḥkhena guruṇāpi vicālyate ||6-22||",
+  "wordByWord": [
+    {
+      "term": "लब्ध्वा",
+      "meaning": "Having obtained, after gaining; the verse points to the fruit of practice and recognition."
+    },
+    {
+      "term": "अपरं लाभम्",
+      "meaning": "Any other gain or acquisition; worldly success, object, or reward."
+    },
+    {
+      "term": "गुरुणापि",
+      "meaning": "Even by a great burden; even severe sorrow, not just minor disturbance."
+    },
+    {
+      "term": "विचाल्यते",
+      "meaning": "Is shaken, moved away, or disturbed from its centre."
+    }
+  ],
+  "spokenHindi": "यह श्लोक कहता है कि जब कोई व्यक्ति आत्मा के आनंद को समझ लेता है, तब वह बाकी सब लाभों को छोटी चीज़ मानने लगता है। यह इसलिए कि आत्मिक अनुभव का स्तर कुछ अलग है—वह जीवन के बाहरी परिणामों से नहीं आता। कृष्ण यहाँ उस योगी की अवस्था बताते हैं जो इस अनुभव में स्थिर है। ऐसे योगी का आधार बाहर नहीं, भीतर है; इसलिए बड़ी पीड़ा भी उसे उस आधार से विचलित नहीं करती। यह बात हर व्यक्ति से यह अपेक्षा नहीं करती कि वह दुख के बीच अविचल रहे। कृष्ण इस श्लोक में योगी की सिद्ध अवस्था का वर्णन करते हैं, न कि दुख से जूझ रहे लोगों की परीक्षा लेते हैं। शांति का यह वर्णन बताता है कि उस अवस्था में मन किस आधार पर टिकता है।",
+  "clearEnglish": "This verse clarifies what it means to have found a deeper gain. Krishna says that once the yogin has attained that state, he no longer considers any other acquisition as greater than it. The phrase “any other gain” includes status, pleasure, approval, success, comfort, or possession. When a person encounters the Self as the source of value, the ordinary measure of life changes. The second half of the verse is especially important: even severe sorrow does not move one who is established in that state. This does not mean the person is indifferent to suffering; rather, he recognizes that suffering is not the final authority on his identity. The inner center remains intact because it is not built on fluctuating conditions.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse explicitly says that once the yogin gains the higher state, he does not consider any other gain superior; and when established in this truth, he is not shaken even by great sorrow. It is an inner criterion, not a social or economic one."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A reasonable conclusion is that spiritual maturity means the capacity to revise one’s measuring stick. A person who values inner truth over outer rewards can hold steady in adversity without becoming cynical or numb. The verse encourages integrity of center over dependence on conditions."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "मूल्य की फिर से जाँच",
+      "text": "When a success, criticism, or loss strongly affects you, ask: 'Am I measuring my life by external gain, or by what is deeper and steadier within me?'"
+    },
+    {
+      "label": "कठिन समय में आधार",
+      "text": "During grief or burnout, do not make a major decision from panic. First identify one truth you can stand on, such as compassion, responsibility, or a simple breath-centered pause."
+    }
+  ],
+  "reflectionQuestion": "What would it look like to value a deeper inner steadiness more than external success or comfort?",
+  "reflectionQuestionHindi": "बाहरी सफलता या आराम से अधिक आंतरिक स्थिरता को महत्व देना कैसा होगा? यह व्यवहार में कैसे दिखेगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

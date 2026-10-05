@@ -1,0 +1,67 @@
+{
+  "id": "bg-09-023",
+  "sequenceNumber": 361,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 23,
+  "verseEnd": 23,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "अन्य देवताओं की पूजा और विधि का अंतर | Worship and its manner",
+  "context": "Krishna addresses worship of other deities following the assurance to those who worship him alone.",
+  "contextHindi": "अपनी अनन्य उपासना करने वालों को आश्वासन देने के बाद कृष्ण अन्य देवताओं की पूजा का संबंध बताते हैं।",
+  "sanskritDevanagari": "येऽप्यन्यदेवता भक्ता यजन्ते श्रद्धयान्विताः |\nतेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम् ||९-२३||",
+  "transliteration": "ye.apyanyadevatābhaktā yajante śraddhayānvitāḥ .\nte.api māmeva kaunteya yajantyavidhipūrvakam ||9-23||",
+  "wordByWord": [
+    {
+      "term": "अन्यदेवता भक्ताः",
+      "meaning": "Devotees of other deities."
+    },
+    {
+      "term": "श्रद्धया अन्विताः",
+      "meaning": "Endowed with faith."
+    },
+    {
+      "term": "माम् एव",
+      "meaning": "Me alone."
+    },
+    {
+      "term": "अविधिपूर्वकम्",
+      "meaning": "In an improper manner; the supplied edition says by the wrong method."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जो लोग श्रद्धा के साथ अन्य देवताओं की पूजा करते हैं, वे भी उनकी ही पूजा करते हैं, लेकिन अविधिपूर्वक। दिए गए संस्करण में इसका अर्थ गलत विधि से लिया गया है। वाक्य में दो बातें एक साथ हैं: पूजा कृष्ण तक संबद्ध है और उसके तरीके में कमी बताई गई है। केवल पहली बात लेकर कहना कि सभी तरीके बिल्कुल समान हैं, पूरा कथन नहीं होगा। केवल दूसरी लेकर दूसरे भक्तों का अपमान करना भी उचित अनुप्रयोग नहीं। यहाँ श्रद्धा वाले भक्तों का ही उल्लेख है। इसलिए विश्वास मौजूद होने पर भी समझ और विधि का प्रश्न बना रहता है। श्लोक किसी विशेष आधुनिक पूजा के लिए चरणों की सूची नहीं देता। किसी परिवार की रीत को इस एक पंक्ति से अमान्य घोषित करना जल्दी होगी। अपने अध्ययन में पूछा जा सकता है कि हम जिस उपासना को करते हैं, उसे किस समझ से जोड़ते हैं। यह प्रश्न सम्मान के साथ रखा जाए। परिचित परंपरा जानना और दूसरों की गरिमा बनाए रखना साथ संभव है। हमारा निष्कर्ष संवाद की सावधानी है, कृष्ण के कथन की कमी मिटाना नहीं।",
+  "clearEnglish": "The sentence includes both an inclusion and a qualification. Devotees of other gods, endowed with faith, also worship Krishna alone; yet they do so avidhipurvakam, rendered by the supplied edition as by the wrong method. Keeping both clauses matters. Omitting the qualification would turn the verse into an assertion that all methods are indistinguishable, while ignoring the first clause would lose Krishna's claimed relation to that worship. Faith is explicitly present in the description, so the issue is not simply a contrast between sincerity and insincerity. The passage does not name a particular present ritual or supply a manual for correcting it. A responsible modern inquiry can ask how the object and meaning of one's worship are understood without using the verse to ridicule another devotee. Such respectful dialogue is an ethical application, not a change to the theological judgment in the text. We can preserve a difficult qualification and still acknowledge the dignity of people whose practices differ from our own.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Faithful devotees of other gods also worship Krishna alone, but avidhipurvakam, by the wrong method in the supplied rendering."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "One can inquire respectfully into a worship practice's meaning without omitting the qualification or insulting other devotees."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Ask about the understanding",
+      "text": "Ask what object and meaning a familiar act of worship has, keeping the inquiry respectful."
+    }
+  ],
+  "reflectionQuestion": "Can I hear both the inclusion and the qualification in this verse?",
+  "reflectionQuestionHindi": "क्या मैं इस श्लोक में संबंध और विधि की कमी, दोनों बातों को साथ सुन सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

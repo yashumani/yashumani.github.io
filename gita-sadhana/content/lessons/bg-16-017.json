@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-017",
+  "sequenceNumber": 588,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 17,
+  "verseEnd": 17,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "नाम मात्र का यज्ञ / Ceremony as display",
+  "context": "Krishna describes ostentatious sacrifices undertaken by the self-conceited.",
+  "contextHindi": "कृष्ण आत्मप्रशंसा और धन के घमंड से किए जाने वाले दिखावटी यज्ञ का वर्णन करते हैं।",
+  "sanskritDevanagari": "आत्मसम्भाविताः स्तब्धा धनमानमदान्विताः |\nयजन्ते नामयज्ञैस्ते दम्भेनाविधिपूर्वकम् ||१६-१७||",
+  "transliteration": "ātmasambhāvitāḥ stabdhā dhanamānamadānvitāḥ .\nyajante nāmayajñaiste dambhenāvidhipūrvakam ||16-17||",
+  "wordByWord": [
+    {
+      "term": "ātmasambhāvitāḥ",
+      "meaning": "Self-conceited; esteeming oneself highly"
+    },
+    {
+      "term": "nāmayajñaiḥ",
+      "meaning": "Sacrifices in name only"
+    },
+    {
+      "term": "dambhena",
+      "meaning": "Through ostentation or pretence"
+    },
+    {
+      "term": "avidhipūrvakam",
+      "meaning": "Without observing the prescribed rule"
+    }
+  ],
+  "spokenHindi": "कृष्ण यहाँ ऐसे यज्ञ की बात करते हैं जो नाम का यज्ञ है, लेकिन भीतर दिखावे और धन के घमंड से चला है। व्यक्ति अपने को बड़ा मानता है और विधि की परवाह नहीं करता। धार्मिक कर्म की बाहरी भव्यता उसके भीतर की गुणवत्ता साबित नहीं करती। फिर भी इस श्लोक से हर बड़े आयोजन को दोषी कहना उचित नहीं होगा। कृष्ण विशेष प्रवृत्ति बता रहे हैं: आत्मप्रशंसा, अकड़, धन का मद और दिखावा। यह फर्क साधारण जीवन में भी दिखाई देता है। हम किसी अच्छे काम की घोषणा करते हैं, पर वास्तविक तैयारी या जिम्मेदारी छूट जाती है। आधुनिक अनुप्रयोग में पूछ सकते हैं कि आयोजन का उद्देश्य क्या है और उससे किसको लाभ होगा। यदि पूजा की वास्तविक विधि जाननी हो, तो योग्य स्रोत या जानकार से पूछना अलग काम है; मन से नए नियम गढ़ना उचित नहीं। आज किसी सेवा या धार्मिक काम में नाम चमकाने से पहले उसकी जरूरत, व्यवस्था और पूरा होने की जिम्मेदारी देखिए। सादगी अपने आप में प्रमाण नहीं, लेकिन ईमानदारी को जगह दे सकती है।",
+  "clearEnglish": "Krishna describes people who esteem themselves highly, remain rigid, and are intoxicated by wealth and pride. Their sacrifices are in name only, performed for show and without the prescribed procedure. The criticism concerns a combination of motive and conduct; it does not establish that every elaborate ceremony is hollow or every simple ceremony sincere. Ritual appearance can conceal a failure to honour the act's actual purpose. A contemporary analogy is announcing a charitable event while neglecting whether the promised assistance reaches anyone. That is an application rather than a substitution for the verse's reference to sacrifice. Where actual ritual requirements matter, they should be learned from an appropriate source rather than invented from a general moral reading. For a planned service or observance, examine the preparation as carefully as the publicity. Who is responsible for completion? What need does the act serve? Honest answers can expose a gap between a respected name and the reality beneath it.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes self-conceited people performing sacrifices in name, for show, and contrary to prescribed procedure."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Checking the preparation and beneficiaries of a service applies the criticism of nominal performance to modern life."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Reality behind the name",
+      "text": "For one promised service, verify the concrete need, preparation, and person responsible for completion."
+    }
+  ],
+  "reflectionQuestion": "What would remain of this good act if its publicity disappeared?",
+  "reflectionQuestionHindi": "प्रचार हट जाए तो इस अच्छे काम में वास्तव में क्या बचेगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

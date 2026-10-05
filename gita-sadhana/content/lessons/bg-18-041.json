@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-041",
+  "sequenceNumber": 664,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 41,
+  "verseEnd": 41,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Roles, qualities, and social categories / भूमिका, गुण और सामाजिक वर्ग",
+  "context": "After saying Nature's qualities affect all beings, Krishna introduces duties of the four named varna categories.",
+  "contextHindi": "गुणों की सर्वव्यापकता के बाद कृष्ण ब्राह्मण, क्षत्रिय, वैश्य और शूद्र के कर्मों को स्वभाव से उठे गुणों के अनुसार बताते हैं।",
+  "sanskritDevanagari": "ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप |\nकर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः ||१८-४१||",
+  "transliteration": "brāhmaṇakṣatriyaviśāṃ śūdrāṇāṃ ca parantapa .\nkarmāṇi pravibhaktāni svabhāvaprabhavairguṇaiḥ ||18-41||",
+  "wordByWord": [
+    {
+      "term": "brāhmaṇakṣatriyaviśām",
+      "meaning": "of Brahmanas, Kshatriyas, and Vaishyas"
+    },
+    {
+      "term": "śūdrāṇām",
+      "meaning": "of Shudras"
+    },
+    {
+      "term": "pravibhaktāni",
+      "meaning": "distributed or distinguished"
+    },
+    {
+      "term": "svabhāvaprabhavaiḥ guṇaiḥ",
+      "meaning": "by qualities arising from one's nature"
+    }
+  ],
+  "spokenHindi": "कृष्ण इस श्लोक में ब्राह्मण, क्षत्रिय, वैश्य और शूद्र का नाम लेते हैं। उनके कर्म स्वभाव से उत्पन्न गुणों के अनुसार विभाजित बताए गए हैं। पाठ के सामाजिक वर्गों को छिपाकर इसे केवल आधुनिक नौकरी की सूची कहना ठीक नहीं होगा। साथ ही इस वाक्य में किसी की जन्मगत पहचान को आध्यात्मिक श्रेष्ठता का प्रमाण नहीं कहा गया। गुण और स्वभाव की भाषा को ध्यान से रखना जरूरी है। परिवार का कोई वंशानुगत पेशे वाला नियम अपनी प्रथा का विषय होगा; उसका हर विवरण इस श्लोक में नहीं है। यह भेद हमारी व्याख्या की सीमा स्पष्ट करता है। आज का नैतिक अनुप्रयोग काम करने वाले व्यक्ति की क्षमता, चुनाव और गरिमा को देखना हो सकता है, केवल उपनाम देखकर मूल्य न तय करना। यह आधुनिक दिशा है, कृष्ण के सामाजिक कथन का शब्दशः विकल्प नहीं। आगे बताए जाने वाले गुणों को व्यवहार में देखें। अपना काम चुनते या बाँटते समय वास्तविक योग्यता और जिम्मेदारी पूछें। किसी को एक जन्मगत पहचान में बंद कर देना इस श्लोक की सावधान समझ नहीं बनता।",
+  "clearEnglish": "Krishna names Brahmanas, Kshatriyas, Vaishyas, and Shudras, saying their duties are distinguished according to qualities arising from their own nature. The named social framework should remain visible; reducing the verse to a generic modern job inventory would erase part of its content. At the same time, the sentence does not state that inherited identity proves spiritual superiority. Qualities and nature are the terms supplied for the distinction. Any family rule assigning an inherited occupation belongs to the category of custom and should not be treated as though every detail were stated here. A contemporary ethical application is to consider demonstrated ability, responsible choice, and dignity when assigning work, rather than deciding worth from a surname. This is an inference for present practice, not a rewritten literal teaching. The following descriptions can be studied as descriptions requiring discernment. Respectful reading neither conceals the social categories nor uses them to imprison a person's future or excuse contempt toward a group.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The four named varna categories' duties are distinguished through qualities arising from their nature."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Assessing demonstrated ability and dignity is a contemporary ethical application, not a replacement of the verse's social framework."
+    },
+    {
+      "label": "CUSTOM",
+      "explanation": "An inherited-occupation rule in a family or locality belongs to custom; its particulars are not all stated by this verse."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "When sharing a task, ask about actual ability and willingness rather than assuming them from inherited identity."
+    }
+  ],
+  "reflectionQuestion": "Which assumption about a person's work have I made from identity rather than demonstrated ability?",
+  "reflectionQuestionHindi": "किसके काम के बारे में मैंने वास्तविक योग्यता के बजाय पहचान से अनुमान लगाया है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

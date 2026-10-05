@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-023",
+  "sequenceNumber": 512,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 23,
+  "verseEnd": 23,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "The Supreme within the body / देह में परम की उपस्थिति",
+  "context": "Krishna names the Supreme Purusha in the body as witness, permitter, supporter, experiencer, great Lord, and Supreme Self.",
+  "contextHindi": "कृष्ण इस देह में पर पुरुष को साक्षी, अनुमंता, धारक, भोक्ता, महेश्वर और परमात्मा कहते हैं।",
+  "sanskritDevanagari": "उपद्रष्टानुमन्ता च भर्ता भोक्ता महेश्वरः |\nपरमात्मेति चाप्युक्तो देहेऽस्मिन्पुरुषः परः ||१३-२३||",
+  "transliteration": "upadraṣṭānumantā ca bhartā bhoktā maheśvaraḥ .\nparamātmeti cāpyukto dehe.asminpuruṣaḥ paraḥ ||13-23||",
+  "wordByWord": [
+    {
+      "term": "upadraṣṭā",
+      "meaning": "spectator or witness"
+    },
+    {
+      "term": "anumantā",
+      "meaning": "permitter"
+    },
+    {
+      "term": "bhartā",
+      "meaning": "supporter; धारक"
+    },
+    {
+      "term": "bhoktā",
+      "meaning": "experiencer; भोक्ता"
+    },
+    {
+      "term": "paramātmā",
+      "meaning": "Supreme Self"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि इस देह में पर पुरुष साक्षी, अनुमंता, धारक, भोक्ता, महेश्वर और परमात्मा भी कहा जाता है। एक ही विषय के कई नाम उसके संबंध के अलग पक्ष सामने लाते हैं। साक्षी देखता है, धारक सहारा देता है, और भोक्ता अनुभव से जुड़ता है। ये अर्थ की संक्षिप्त दिशाएँ हैं, पूर्ण दार्शनिक समाधान नहीं। ‘अनुमंता’ को सुनकर यह मान लेना गलत होगा कि जो हानिकारक काम हो रहा है उसे ईश्वर नैतिक रूप से सही घोषित कर रहा है। श्लोक की सत्ता संबंधी भाषा और मानव व्यवहार का औचित्य अलग प्रश्न हैं। हमें वास्तविक हानि रोकने और सहायता देने की जिम्मेदारी रहती है। आज का छोटा अभ्यास भीतर उठे आवेग को देखते हुए पूछना हो सकता है कि उसे कर्म में बदलने का निर्णय क्या होगा। यह आधुनिक अनुप्रयोग है, परमात्मा की भूमिका का पूरा चित्र नहीं। आवेग देखा जा सकता है, फिर विवेक से उत्तर चुना जा सकता है। साक्षी की भाषा जिम्मेदारी की जगह खाली करने के बजाय अधिक सजग प्रतिक्रिया की दिशा दे सकती है।",
+  "clearEnglish": "Krishna gives several designations for the Supreme Purusha within this body: witness, permitter, supporter, experiencer, great Lord, and Supreme Self. The cluster presents different aspects of a divine relation to embodied life. The short verse does not fully explain how those aspects are reconciled, so each term should retain its place without a hurried system being invented. Permitter especially requires care. An account of divine allowance or presence is not the same as declaring every harmful human act morally right. Preventing injury and offering support remain practical responsibilities. A contemporary exercise is to notice an impulse before deciding whether it should become action. Observation and authorization are distinguishable: being aware of anger does not require endorsing a cruel response. This example does not define the Supreme Self, but it makes the difference relevant to ordinary choice. Witness language can encourage clearer accountability when it helps us see what is occurring and choose a response based on facts and care.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The Supreme Purusha in the body is called witness, permitter, supporter, experiencer, great Lord, and Supreme Self."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Distinguishing awareness from endorsement is a practical analogy; divine permission language does not justify harmful conduct."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Notice one impulse and ask whether acting on it would be truthful, proportionate, and considerate."
+    }
+  ],
+  "reflectionQuestion": "Am I confusing the presence of an impulse with permission to act on it?",
+  "reflectionQuestionHindi": "क्या मैं आवेग के उपस्थित होने को उस पर चलने की अनुमति समझ रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

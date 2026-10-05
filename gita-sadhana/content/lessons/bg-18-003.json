@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-003",
+  "sequenceNumber": 626,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 3,
+  "verseEnd": 3,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "दो मत सामने / Two views reported",
+  "context": "Krishna reports differing views about abandoning action and retaining sacrifice, giving, and austerity.",
+  "contextHindi": "कृष्ण कर्म छोड़ने और यज्ञ, दान, तप बनाए रखने के अलग मत सामने रखते हैं।",
+  "sanskritDevanagari": "त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः |\nयज्ञदानतपःकर्म न त्याज्यमिति चापरे ||१८-३||",
+  "transliteration": "tyājyaṃ doṣavadityeke karma prāhurmanīṣiṇaḥ .\nyajñadānatapaḥkarma na tyājyamiti cāpare ||18-3||",
+  "wordByWord": [
+    {
+      "term": "tyājyam",
+      "meaning": "To be abandoned"
+    },
+    {
+      "term": "doṣavat",
+      "meaning": "As faulty or carrying defect"
+    },
+    {
+      "term": "eke",
+      "meaning": "Some"
+    },
+    {
+      "term": "apare",
+      "meaning": "Others"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि कुछ विचारक कर्म को दोषयुक्त मानकर छोड़ने योग्य बताते हैं। दूसरे कहते हैं कि यज्ञ, दान और तप नहीं छोड़ने चाहिए। यह दो मतों का उल्लेख है; इस श्लोक को कृष्ण का एक ही अंतिम निर्णय समझना सही नहीं होगा। वे पहले प्रश्न की पृष्ठभूमि साफ कर रहे हैं। आध्यात्मिक चर्चा में मतभेद की जगह दिखाई देना उपयोगी है। किसी विषय को एक ही नारे में समेट देने से वह जरूरी अंतर छूट सकता है जिस पर व्यवहार निर्भर है। आधुनिक उदाहरण में कोई काम उसके दोष के कारण छोड़ना चाहता है, जबकि दूसरा उसमें मौजूद जरूरी लाभ देखता है। यह तुलना मूल धार्मिक मतों का पूरा अर्थ नहीं है। हमारे लिए अभ्यास यह है कि किसी उलझे फैसले में दोनों पक्ष ईमानदारी से लिखें। छोड़ने का कारण क्या है, और निभाने की जिम्मेदारी क्या है? फिर केवल सुविधा के आधार पर किसी एक पक्ष को अंतिम न कहें। कृष्ण आगे अपना निष्कर्ष देंगे; अभी ध्यान से मतों का अंतर समझना संवाद में जरूरी तैयारी है।",
+  "clearEnglish": "Krishna presents two views: some thinkers say action should be abandoned as defective, while others say sacrifice, giving, and austerity should not be relinquished. This is a report of disagreement. It should not be treated as though Krishna has already endorsed both statements or resolved the issue within this verse. The passage prepares for his stated conclusion. That structure is useful for careful study because a contested question often becomes distorted when its alternatives are hidden. A modern analogy might involve a task that carries a genuine drawback but also serves an important need. The analogy does not replace the philosophical positions being reported. Its practical use is to keep reasons visible before deciding. Write the strongest relevant reason for leaving a commitment and the strongest reason for maintaining it. Neither discomfort nor an attractive label settles the matter by itself. Listen for the criteria that can distinguish the alternatives. Understanding a disagreement is part of learning, even before a conclusion is reached.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna reports one view that action should be abandoned as defective and another that sacrifice, giving, and austerity should remain."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Stating both sides of a decision fairly is a modern application of the reported disagreement."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Two reasons visible",
+      "text": "For one uncertain commitment, write a reason to leave and a reason to maintain it before deciding."
+    }
+  ],
+  "reflectionQuestion": "Have I understood the strongest relevant reason on each side?",
+  "reflectionQuestionHindi": "क्या मैंने दोनों पक्षों का सबसे जरूरी कारण समझा है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "bg-15-016",
+  "sequenceNumber": 567,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 16,
+  "verseEnd": 16,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "Perishable and imperishable / क्षर और अक्षर",
+  "context": "Krishna introduces two purushas, the perishable beings and the unchanging imperishable, before the next verse's Supreme Purusha.",
+  "contextHindi": "कृष्ण क्षर और अक्षर के दो स्तर बताते हैं; आगे उनसे भिन्न उत्तम पुरुष की चर्चा आने वाली है।",
+  "sanskritDevanagari": "द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च |\nक्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते ||१५-१६||",
+  "transliteration": "dvāvimau puruṣau loke kṣaraścākṣara eva ca .\nkṣaraḥ sarvāṇi bhūtāni kūṭastho.akṣara ucyate ||15-16||",
+  "wordByWord": [
+    {
+      "term": "kṣaraḥ",
+      "meaning": "perishable; क्षर"
+    },
+    {
+      "term": "akṣaraḥ",
+      "meaning": "imperishable; अक्षर"
+    },
+    {
+      "term": "sarvāṇi bhūtāni",
+      "meaning": "all beings"
+    },
+    {
+      "term": "kūṭasthaḥ",
+      "meaning": "unchanging or stable; कूटस्थ"
+    },
+    {
+      "term": "puruṣau",
+      "meaning": "two persons or principles in this philosophical context"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि संसार में दो पुरुष हैं, क्षर और अक्षर। सभी प्राणी क्षर हैं, और कूटस्थ अक्षर कहा जाता है। पुरुष शब्द यहाँ केवल पुरुष लिंग के मनुष्य की बात नहीं कर रहा; वह दार्शनिक स्तर का पद है। ‘कूटस्थ’ स्थिर या अपरिवर्तित की दिशा देता है। दिए गए अध्याय की भूमिका नश्वर जगत और अविनाशी व्यक्तिगत आत्मा का अंतर रखती है; यह उस संस्करण की व्याख्यात्मक दिशा है। श्लोक की संक्षिप्त भाषा को बिना चर्चा हर दार्शनिक मत का अंतिम समाधान न बनाएँ। आज का एक छोटा अभ्यास बदलती भूमिका और भीतर निभाए जा सकने वाले मूल्य का अंतर देखना हो सकता है। नौकरी, उम्र और परिस्थिति बदलती हैं, फिर भी सत्य कहने की कोशिश जैसी दिशा याद रखी जा सकती है। यह मूल्य का उदाहरण अक्षर की परिभाषा नहीं। हमारी आदतें और विचार भी बदलते हैं। क्षर और अक्षर का अध्ययन अधिक गहरा है; उसके लिए शब्दों को ध्यान से सुनें और जल्दी में भौतिक परिवर्तन को आध्यात्मिक हार न मानें।",
+  "clearEnglish": "Krishna introduces two purushas: the perishable and the imperishable. All beings are called perishable, while the unchanging kūṭastha is called imperishable. Puruṣa here is a philosophical designation, not a restriction of spiritual identity to male human beings. The chapter summary in the supplied edition distinguishes perishable phenomenal creation from an imperishable individual soul. That provides an interpretive direction while the verse itself remains concise. A complete comparison of schools would require further sources and should not be invented from these few terms. For practical reflection, one may notice the difference between a changing role and a continuing commitment, such as trying to speak truthfully through different circumstances. This is only an analogy: an ethical commitment is not thereby established as the metaphysical akṣara. Thoughts, habits, and bodily conditions still change. The value of the exercise is to make the question of stability more careful, without confusing external change with spiritual failure or claiming that a familiar sense of identity settles the teaching.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna distinguishes perishable beings from the imperishable kūṭastha."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "The supplied Sivananda chapter summary distinguishes perishable phenomenal creation from the imperishable individual soul."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Comparing changing roles with continuing commitments is an analogy, not a definition of akṣara or a resolution of philosophical schools."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Name one changing role and one commitment you can express responsibly within its present form."
+    }
+  ],
+  "reflectionQuestion": "What changes in this role, and what commitment can I still choose within it?",
+  "reflectionQuestionHindi": "इस भूमिका में क्या बदल रहा है, और उसमें कौन सा संकल्प अभी निभा सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

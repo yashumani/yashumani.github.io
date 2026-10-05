@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-067",
+  "sequenceNumber": 690,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 67,
+  "verseEnd": 67,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Readiness to hear / सुनने की तैयारी",
+  "context": "After his call to refuge, Krishna tells Arjuna when this teaching should not be spoken.",
+  "contextHindi": "शरण का संदेश देने के बाद कृष्ण बताते हैं कि यह शिक्षा किस स्थिति में नहीं कहनी चाहिए।",
+  "sanskritDevanagari": "इदं ते नातपस्काय नाभक्ताय कदाचन |\nन चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति ||१८-६७||",
+  "transliteration": "idaṃ te nātapaskāya nābhaktāya kadācana .\nna cāśuśrūṣave vācyaṃ na ca māṃ yo.abhyasūyati ||18-67||",
+  "wordByWord": [
+    {
+      "term": "nātapaskāya",
+      "meaning": "not to one without tapas, or disciplined effort"
+    },
+    {
+      "term": "abhaktāya",
+      "meaning": "to one without devotion"
+    },
+    {
+      "term": "aśuśrūṣave",
+      "meaning": "to one unwilling to listen or receive instruction"
+    },
+    {
+      "term": "abhyasūyati",
+      "meaning": "finds fault with or disparages me"
+    }
+  ],
+  "spokenHindi": "कृष्ण अभी बहुत अंतरंग बात कह चुके हैं। अब वे अर्जुन से कहते हैं कि इसे ऐसे व्यक्ति से न कहना चाहिए जिसमें तप की तैयारी नहीं, भक्ति नहीं, सुनने की इच्छा नहीं, या जो कृष्ण में दोष ही ढूँढ़ता है। पाठ की यह सीमा सुनने वाले की मनःस्थिति से जुड़ी है। इसे किसी की जन्मजात पहचान, शिक्षा का स्तर, या अलग मत के आधार पर उसकी गरिमा घटाने का आदेश न बनाएँ। अशुश्रूषवे खास शब्द है: अगर कोई सुनना ही नहीं चाहता, तो उस पर आध्यात्मिक बात थोपना संवाद नहीं होता। दूसरी ओर, ईमानदार सवाल को निंदा मान लेना भी सही नहीं। कोई श्रद्धा रखते हुए कठिन प्रश्न पूछ सकता है। हम इस श्लोक से यह व्यवहारिक बात निकाल सकते हैं कि गहरी बात साझा करने से पहले अनुमति और रुचि पूछें। यह आधुनिक अनुमान है, श्लोक की पूरी योग्यता सूची का विकल्प नहीं। अपने प्रिय विश्वास को बचाने के लिए दूसरों को दबाना जरूरी नहीं। बातचीत तभी फलती है जब दोनों ओर सम्मान और सुनने की जगह हो।",
+  "clearEnglish": "Krishna now turns from the content of refuge to the conditions for communicating it. He tells Arjuna not to speak this teaching to one lacking tapas, devotion, willingness to listen, or one who disparages him. These are attitudes and readiness within this devotional setting, not an inherited ranking of people. The negative list also matters because it follows a deeply personal promise. A message offered as intimacy may be distorted when forced on someone who has no wish to hear it. Yet the verse should not become an excuse to label every sincere questioner hostile. Critical inquiry and contempt are different human responses, and the Sanskrit does not give a modern teacher power to read another person's heart with certainty. A practical inference is to ask permission before offering a spiritual explanation and to accept a no. This does not prohibit respectful public study or honest disagreement; those are contemporary choices beyond the verse's literal directions to Arjuna. The aim is care in transmission, while respecting the dignity and agency of a potential listener.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna names lack of discipline, devotion, willingness to listen, and disparagement of him as reasons not to speak this teaching to someone."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Asking whether someone wants to hear a personal spiritual teaching can respect their agency; disagreement alone does not prove bad faith."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Ask before sharing / पहले पूछें",
+      "text": "Before giving spiritual advice, ask whether the person would welcome it; listen to their answer without pressure."
+    }
+  ],
+  "reflectionQuestion": "Do I check whether someone wants to hear a belief that matters deeply to me?",
+  "reflectionQuestionHindi": "क्या मैं अपनी प्रिय बात कहने से पहले पूछता या पूछती हूँ कि सामने वाला उसे सुनना चाहता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

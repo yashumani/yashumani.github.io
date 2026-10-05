@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-015",
+  "sequenceNumber": 638,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 15,
+  "verseEnd": 15,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "शरीर, वाणी, मन का कर्म / Causes across action",
+  "context": "Krishna applies the five causes to actions undertaken by body, speech, and mind, whether right or otherwise.",
+  "contextHindi": "कृष्ण शरीर, वाणी और मन के उचित या विपरीत कर्मों में इन्हीं पाँच कारणों का संबंध बताते हैं।",
+  "sanskritDevanagari": "शरीरवाङ्मनोभिर्यत्कर्म प्रारभते नरः |\nन्याय्यं वा विपरीतं वा पञ्चैते तस्य हेतवः ||१८-१५||",
+  "transliteration": "śarīravāṅmanobhiryatkarma prārabhate naraḥ .\nnyāyyaṃ vā viparītaṃ vā pañcaite tasya hetavaḥ ||18-15||",
+  "wordByWord": [
+    {
+      "term": "śarīravāṅmanobhiḥ",
+      "meaning": "By body, speech, and mind"
+    },
+    {
+      "term": "nyāyyam",
+      "meaning": "Right or just"
+    },
+    {
+      "term": "viparītam",
+      "meaning": "The opposite; wrong"
+    },
+    {
+      "term": "hetavaḥ",
+      "meaning": "Causes"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि मनुष्य शरीर, वाणी और मन से जो कर्म शुरू करता है, वह उचित हो या विपरीत, उसके ये पाँच कारण हैं। कारणों की सूची केवल अच्छे कर्म के लिए नहीं है। गलत काम का भी कारण समझा जा सकता है। लेकिन कारण समझना उसे सही मान लेना नहीं। यह फर्क आधुनिक जीवन में बहुत जरूरी है। कोई कठोर बात थकान, आदत और गलत सूचना से निकली हो सकती है; फिर भी उसका नुकसान स्वीकारकर सुधार करना होगा। यह उदाहरण श्लोक का नया नियम नहीं, नैतिक अनुप्रयोग है। शरीर, वाणी और मन साथ आने से कर्म का क्षेत्र भी बड़ा होता है। केवल हाथ से किया काम ही ध्यान योग्य नहीं; संदेश और मन में तैयार किया निर्णय भी महत्वपूर्ण हैं। आज एक गलतफहमी चुनें। पहले तथ्य देखें, फिर अपने शब्दों और परिस्थितियों का योगदान अलग करें। जहां आपकी जिम्मेदारी है, साफ स्वीकारें। कई कारणों का ज्ञान दोष से भागने के लिए नहीं, अधिक सही सुधार खोजने के लिए उपयोगी हो सकता है।",
+  "clearEnglish": "Krishna says that whatever action a person undertakes through body, speech, and mind, whether right or the opposite, has these five causes. The causal account therefore applies across moral differences. Explaining how a wrong action occurred is not the same as declaring it right. That distinction is a modern ethical application, but it is essential when using the passage responsibly. Fatigue, poor information, habitual reaction, and limited means may help explain an insulting message; they do not eliminate the need to acknowledge its harm. The example does not replace the philosophical causes listed earlier. The inclusion of speech and mind also expands attention beyond visible physical work. Decisions prepared inwardly and words sent to others are part of the field being considered. Examine one misunderstanding by separating facts, conditions, and your contribution. Accept the part that requires repair. A fuller explanation can support a more precise correction instead of serving as a sophisticated excuse for avoiding accountability.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna states that the five causes apply to bodily, verbal, and mental action, whether right or wrong."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Understanding causes while preserving responsibility is a modern application; explanation is not justification."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Explain and repair",
+      "text": "For one misunderstanding, identify relevant conditions and your contribution, then make the needed repair."
+    }
+  ],
+  "reflectionQuestion": "Does my explanation help correction or merely excuse my conduct?",
+  "reflectionQuestionHindi": "मेरी वजह बताने से सुधार होता है या केवल मेरा व्यवहार बचता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

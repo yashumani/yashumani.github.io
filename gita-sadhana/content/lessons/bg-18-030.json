@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-030",
+  "sequenceNumber": 653,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 30,
+  "verseEnd": 30,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "सात्त्विक विवेक / Discernment of action and release",
+  "context": "Krishna defines sattvic intellect through discernment of engagement, restraint, duty, fear, bondage, and liberation.",
+  "contextHindi": "कृष्ण प्रवृत्ति, निवृत्ति, करने-न-करने, भय-अभय और बंधन-मुक्ति का भेद जानने वाली बुद्धि को सात्त्विक बताते हैं।",
+  "sanskritDevanagari": "प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये |\nबन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी ||१८-३०||",
+  "transliteration": "pravṛttiṃ ca nivṛttiṃ ca kāryākārye bhayābhaye .\nbandhaṃ mokṣaṃ ca yā vetti buddhiḥ sā pārtha sāttvikī ||18-30||",
+  "wordByWord": [
+    {
+      "term": "pravṛttiṃ nivṛttiṃ",
+      "meaning": "Engagement and restraint or renunciation"
+    },
+    {
+      "term": "kāryākārye",
+      "meaning": "What should and should not be done"
+    },
+    {
+      "term": "bhayābhaye",
+      "meaning": "Fear and fearlessness"
+    },
+    {
+      "term": "bandhaṃ mokṣam",
+      "meaning": "Bondage and liberation"
+    }
+  ],
+  "spokenHindi": "कृष्ण सात्त्विक बुद्धि में कई फर्क जानना बताते हैं। प्रवृत्ति और निवृत्ति, करना और न करना, भय और अभय, बंधन और मुक्ति इसमें आते हैं। विवेक केवल तेज सोचने या बहस जीतने का नाम नहीं। वह निर्णय की दिशा समझता है। कोई काम कब शुरू करना है और कब रुकना है, दोनों महत्वपूर्ण हैं। पाठ में मुक्ति का आध्यात्मिक अर्थ भी है; उसे केवल रोजमर्रा की स्वतंत्रता में समेटना नहीं चाहिए। आधुनिक अनुप्रयोग में हम उचित काम और आकर्षक लेकिन हानिकारक तरीके को अलग कर सकते हैं। भय को हर बार शत्रु न मानें; कभी वह वास्तविक खतरे की सूचना देता है। निर्भयता भी लापरवाही का प्रमाणपत्र नहीं। आज किसी निर्णय में पूछें कि क्या करना चाहिए, क्या नहीं, और किस जोखिम को समझना जरूरी है। तथ्य और जिम्मेदारी लिखें, फिर एक सीमित कदम चुनें। यह पूरा सात्त्विक ज्ञान प्राप्त होने का दावा नहीं, विवेक का छोटा अभ्यास है। सही अंतर देखकर ही दृढ़ता उपयोगी दिशा में लग सकती है।",
+  "clearEnglish": "Krishna calls intellect sattvic when it knows engagement and restraint, what ought and ought not to be done, fear and fearlessness, bondage and liberation. The list describes morally and spiritually significant distinctions. Discernment is not merely quick reasoning or skill at argument. The reference to liberation retains its religious meaning and should not be reduced to ordinary convenience. A contemporary application can distinguish a legitimate aim from a harmful method, and a real risk from an exaggerated fear. Fear is not always useless, nor is confidence always wise. These are practical reflections, not detailed definitions provided by the verse. For one decision, write what should be undertaken, what should be avoided, and what risk needs attention. Use the available facts and acknowledge uncertainty. Then choose a bounded responsible step. The exercise does not certify attainment of the intellect described. It lets the teaching shape a concrete choice, where careful distinction can guide resolve more effectively than enthusiasm alone.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna defines sattvic intellect by knowing engagement/restraint, duty/non-duty, fear/fearlessness, and bondage/liberation."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Writing an aim, a forbidden method, and a relevant risk is a modern exercise; it does not certify spiritual attainment."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Three distinctions in one choice",
+      "text": "For one decision, name the proper action, a method to avoid, and one risk requiring attention."
+    }
+  ],
+  "reflectionQuestion": "Which distinction would make this decision more responsible?",
+  "reflectionQuestionHindi": "कौन सा फर्क समझने से यह निर्णय अधिक जिम्मेदार होगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

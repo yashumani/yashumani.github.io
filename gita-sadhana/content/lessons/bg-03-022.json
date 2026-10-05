@@ -1,0 +1,75 @@
+{
+  "id": "bg-03-022",
+  "sequenceNumber": 141,
+  "date": "2026-10-05",
+  "chapter": 3,
+  "verseStart": 22,
+  "verseEnd": 22,
+  "chapterNameSanskrit": "कर्मयोग",
+  "chapterNameEnglish": "Karma Yoga",
+  "theme": "Action without personal lack / निजी अपूर्णता के बिना भी कर्म।",
+  "context": "Krishna now speaks of his own action. He says that nothing in the three worlds remains for him to gain or accomplish, yet he continues to act. The next verse will explain the consequences he says would follow if he did not.",
+  "contextHindi": "पिछले श्लोक में कृष्ण ने बताया कि आदर्श व्यक्ति का आचरण दूसरों को दिशा दे सकता है। अब वे अपने बारे में कहते हैं कि उन्हें कुछ पाना बाकी नहीं, फिर भी वे कर्म में लगे रहते हैं।",
+  "sanskritDevanagari": "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन |\nनानवाप्तमवाप्तव्यं वर्त एव च कर्मणि ||३-२२||",
+  "transliteration": "na me pārthāsti kartavyaṃ triṣu lokeṣu kiñcana .\nnānavāptamavāptavyaṃ varta eva ca karmaṇi ||3-22||",
+  "wordByWord": [
+    {
+      "term": "कर्तव्यम्",
+      "meaning": "Something that must be done, or a duty."
+    },
+    {
+      "term": "त्रिषु लोकेषु",
+      "meaning": "In the three worlds; a traditional cosmological expression."
+    },
+    {
+      "term": "अनवाप्तम्",
+      "meaning": "Not attained or obtained."
+    },
+    {
+      "term": "अवाप्तव्यम्",
+      "meaning": "Something yet to be attained or obtained."
+    },
+    {
+      "term": "वर्ते",
+      "meaning": "I remain engaged or continue to act."
+    }
+  ],
+  "spokenHindi": "यहाँ कृष्ण अपने बारे में एक विशेष दावा रखते हैं: तीनों लोकों में उनके लिए कोई काम बाकी नहीं और उन्हें कुछ हासिल करना शेष नहीं, फिर भी वे कर्म में लगे रहते हैं। **पाठ:** श्लोक में कृष्ण कहते हैं कि वे किसी निजी कमी को पूरा करने के लिए काम नहीं कर रहे, फिर भी कर्म करते हैं। “तीन लोक” पारंपरिक ब्रह्मांड-वर्णन की भाषा है; इसे आधुनिक भूगोल का माप समझना जरूरी नहीं। **निष्कर्ष:** इस उदाहरण से यह विचार निकलता है कि काम का कारण केवल अपना लाभ, पहचान या अधूरापन नहीं होना चाहिए। यह मनुष्य के हर दायित्व को खत्म करने का आदेश भी नहीं है, और न ही यह प्रमाण है कि किसी व्यक्ति को कभी आराम नहीं करना चाहिए। पिछले श्लोक में उदाहरण के प्रभाव की बात थी; यहाँ कृष्ण अपने आचरण को उसी व्यापक जिम्मेदारी के संदर्भ में रख रहे हैं। हमारे लिए इसका एक व्यावहारिक अर्थ है: जब कोई काम उपयोगी हो, तो उसे केवल प्रशंसा पाने के लिए नहीं, बल्कि उसके वास्तविक हित के लिए किया जा सकता है। अपनी सीमाएँ पहचानना भी जिम्मेदार कर्म का हिस्सा है।",
+  "clearEnglish": "Krishna presents himself as acting despite having no personal task left to complete and nothing still to obtain. The three worlds belong to the verse’s traditional cosmological language; they need not be treated as a claim about modern geography. **TEXT:** Krishna says that he has no unmet personal aim in those worlds, yet remains engaged in action. **INFERENCE:** His example suggests that action need not be driven only by acquisition, status, or a sense of personal deficiency. It does not follow that every person has no duties, that rest is wrong, or that people should ignore their limits. Krishna is speaking about his own position in the dialogue, not offering empirical evidence that human beings can act without needs. In the previous verse he described the influence of exemplary behaviour; here his own continued activity illustrates that point in context. A useful contemporary application is to notice whether a worthwhile task serves people or a shared purpose, rather than merely seeking praise. This perspective can support service without demanding self-neglect: realistic boundaries help make sustained, responsible action possible.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says that he has nothing left to accomplish or attain in the three worlds, yet remains active."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The verse can support action not driven solely by personal gain. It does not establish that ordinary people have no duties or should neglect rest and limits."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Notice your motive",
+      "text": "For one useful task today, ask whether you can do it for its real benefit rather than for recognition alone."
+    },
+    {
+      "label": "Keep a humane boundary",
+      "text": "Choose a manageable way to contribute, and include the rest or support needed to do it responsibly."
+    }
+  ],
+  "reflectionQuestion": "What worthwhile action could I take today without making recognition its main purpose?",
+  "reflectionQuestionHindi": "आज कौन-सा उपयोगी काम मैं प्रशंसा को मुख्य उद्देश्य बनाए बिना कर सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

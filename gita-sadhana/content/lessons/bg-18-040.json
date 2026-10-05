@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-040",
+  "sequenceNumber": 663,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 40,
+  "verseEnd": 40,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "No embodied exception to the qualities / प्रकृति के गुणों से देहगत छूट नहीं",
+  "context": "Krishna closes the classifications by saying no being on earth or among heavenly gods is free from the three Nature-born qualities.",
+  "contextHindi": "कृष्ण कहते हैं कि पृथ्वी या देवताओं में कोई प्राणी प्रकृति से उत्पन्न तीन गुणों से मुक्त नहीं है।",
+  "sanskritDevanagari": "न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः |\nसत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः ||१८-४०||",
+  "transliteration": "na tadasti pṛthivyāṃ vā divi deveṣu vā punaḥ .\nsattvaṃ prakṛtijairmuktaṃ yadebhiḥ syāttribhirguṇaiḥ ||18-40||",
+  "wordByWord": [
+    {
+      "term": "sattvam",
+      "meaning": "a being here"
+    },
+    {
+      "term": "prakṛtijaiḥ",
+      "meaning": "born of Nature"
+    },
+    {
+      "term": "tribhir guṇaiḥ",
+      "meaning": "by the three qualities"
+    },
+    {
+      "term": "divi deveṣu",
+      "meaning": "in heaven among gods"
+    },
+    {
+      "term": "muktam",
+      "meaning": "free; मुक्त"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि पृथ्वी पर या स्वर्ग में देवताओं के बीच ऐसा कोई प्राणी नहीं जो प्रकृति से उत्पन्न इन तीन गुणों से मुक्त हो। यहाँ सत्त्व का अर्थ प्राणी है, केवल सत्त्व गुण नहीं। यह कथन गुणों की चर्चा को कोई विशेष बाहरी पहचान बचाकर रखने से रोकता है। ऊँचा पद, धार्मिक प्रतिष्ठा या पसंद का समुदाय हमें बदलती प्रवृत्तियों से अपने आप छूट नहीं देता। यह आधुनिक निष्कर्ष है। गुणों से पार आध्यात्मिक ज्ञान की बात को भी देह और प्रकृति की क्रियाओं से अलग स्तर पर पढ़ना होगा; यहाँ उनके भीतर के सभी प्राणियों का संदर्भ है। जल्द किसी को पूर्ण शुद्ध और किसी को पूर्ण खराब घोषित करने से समझ कम होती है। आज अपने निर्णय में स्पष्टता, चाह और असावधानी के अलग संकेत देखें। जिस संकेत से निर्णय धुँधला हो रहा है उसे सँवारने का छोटा कदम चुनें। निरीक्षण अपनी जिम्मेदारी के लिए रखें। दूसरे की प्रतिष्ठा देखकर आलोचनात्मक प्रश्न बंद करना या कठिनाई देखकर उसे नीचा मानना इस व्यापक कथन का सावधान उपयोग नहीं होगा।",
+  "clearEnglish": "No being on earth or among the gods in heaven is free from the three qualities born of Nature. Sattvam here means a being, not exclusively the quality sattva. Krishna closes the classifications with their universal scope within manifested existence. A prestigious role or religious reputation is not thereby an automatic exemption from changing tendencies. That is a contemporary inference, useful especially when admiration makes us stop asking relevant questions. The chapter's spiritual language about freedom also requires care about levels of discussion: this verse concerns beings within Nature's operation, while realization concerns one's relation to that operation. The distinction should be studied rather than used to invent a quick contradiction or declare a person's perfect purity. For practice, notice clarity, craving, and heedlessness around one decision and adjust what can responsibly be adjusted. This is self-examination, not a ranking of others. The verse can encourage humility about the conditions affecting action without denying the possibility of deeper spiritual understanding.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "No being on earth or among heavenly gods is free from Nature's three qualities; sattvam means a being here."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Prestige does not exempt a person's decisions from scrutiny; observing one's tendencies is an application, not a rank of spiritual worth."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Before one decision, notice clarity, craving, and inattention, then adjust one manageable condition."
+    }
+  ],
+  "reflectionQuestion": "Where have I assumed a role or reputation removes the need for discernment?",
+  "reflectionQuestionHindi": "कहाँ मैंने मान लिया कि पद या प्रतिष्ठा के कारण विवेक की जरूरत नहीं रह जाती?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

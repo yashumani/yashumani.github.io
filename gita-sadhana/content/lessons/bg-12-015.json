@@ -1,0 +1,67 @@
+{
+  "id": "bg-12-015",
+  "sequenceNumber": 484,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 15,
+  "verseEnd": 15,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "उद्वेग का संबंध / Agitation between person and world",
+  "context": "Krishna describes one who neither agitates the world nor is agitated by it, and is free from joy, envy, fear and anxiety.",
+  "contextHindi": "कृष्ण ऐसे भक्त को प्रिय कहते हैं जिससे जगत उद्विग्न नहीं और जो जगत से उद्विग्न नहीं, हर्ष अमर्ष भय उद्वेग से मुक्त।",
+  "sanskritDevanagari": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः |\nहर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः ||१२-१५||",
+  "transliteration": "yasmānnodvijate loko lokānnodvijate ca yaḥ .\nharṣāmarṣabhayodvegairmukto yaḥ sa ca me priyaḥ ||12-15||",
+  "wordByWord": [
+    {
+      "term": "उद्विजते",
+      "meaning": "is agitated or disturbed"
+    },
+    {
+      "term": "हर्ष",
+      "meaning": "joy or elation"
+    },
+    {
+      "term": "अमर्ष",
+      "meaning": "envy or resentful intolerance"
+    },
+    {
+      "term": "उद्वेग",
+      "meaning": "anxiety or agitation"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जिससे जगत उद्विग्न नहीं होता और जो जगत से उद्विग्न नहीं होता, तथा जो हर्ष, अमर्ष, भय और उद्वेग से मुक्त है, वह उन्हें प्रिय है। यह दोनों दिशाओं का संबंध है। केवल भीतर शांति की तलाश और बाहर दूसरों को परेशान करते रहना आदर्श का आधा पढ़ना होगा। हर्ष को दिए गए संस्करण में आनंद और अमर्ष को ईर्ष्या कहा गया है; इस सूची को सरल बनाकर सिर्फ गुस्सा मत करो कहना पूरा अर्थ नहीं। फिर भी आधुनिक व्यक्ति को चिंता होने पर आध्यात्मिक रूप से दोषी कहना उचित अनुप्रयोग नहीं। श्लोक एक आध्यात्मिक दशा बताता है, चिकित्सकीय जांच नहीं। हमारा छोटा अभ्यास अपनी प्रतिक्रिया से पैदा अनावश्यक परेशानी कम करना हो सकता है। कोई संदेश जल्द क्रोध में भेजना चाहें तो पहले तथ्य और उद्देश्य देखें। साथ ही उचित सीमा रखने से किसी को असुविधा हो सकती है; हर असुविधा को अपनी गलती मानना भी जरूरी नहीं। मदद और सुरक्षा का अधिकार बना रहता है। आदर्श की ओर विनम्र कदम लें, अपनी भावनाओं को झूठा घोषित न करें।",
+  "clearEnglish": "The relation runs in both directions: the world is not agitated by the person, and the person is not agitated by the world. Krishna also names freedom from joy or elation, envy, fear and anxiety, calling such a devotee dear. The wording should not be reduced to a single command against anger. Nor should this spiritual portrait become a clinical test or a reason to blame someone who experiences anxiety. A responsible modern inference concerns avoidable disturbance created by one's actions. Before sending a reactive message, check facts, purpose and likely effect. This does not mean every discomfort caused to another person is automatically wrong. A necessary boundary or honest correction may be unwelcome while still appropriate. Care and protection remain relevant. Likewise, inner distress can be acknowledged and support sought rather than concealed to appear spiritually advanced. The verse describes an ideal relation with the world; a small application can move toward less unnecessary agitation without claiming emotional invulnerability.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna calls dear the person with reciprocal nonagitation and freedom from the named affective disturbances."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Reducing avoidable disturbance can coexist with boundaries and support; anxiety is not a verdict on spiritual worth."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Check a reactive message",
+      "text": "Before sending a message in agitation, verify the facts and purpose. Keep any necessary boundary, but remove needless insult or speculation."
+    }
+  ],
+  "reflectionQuestion": "What part of the disturbance I create is avoidable?",
+  "reflectionQuestionHindi": "मेरी प्रतिक्रिया से पैदा परेशानी का कौन सा हिस्सा टाला जा सकता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

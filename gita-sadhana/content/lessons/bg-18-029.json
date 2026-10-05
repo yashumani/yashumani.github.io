@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-029",
+  "sequenceNumber": 652,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 29,
+  "verseEnd": 29,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "बुद्धि और धृति के भेद / Discernment and firmness",
+  "context": "Krishna introduces the threefold distinction of intellect and firmness according to the gunas.",
+  "contextHindi": "कृष्ण गुणों के अनुसार बुद्धि और धृति के तीन तीन भेद स्पष्ट सुनने का परिचय देते हैं।",
+  "sanskritDevanagari": "बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं शृणु |\nप्रोच्यमानमशेषेण पृथक्त्वेन धनञ्जय ||१८-२९||",
+  "transliteration": "buddherbhedaṃ dhṛteścaiva guṇatastrividhaṃ śṛṇu .\nprocyamānamaśeṣeṇa pṛthaktvena dhanañjaya ||18-29||",
+  "wordByWord": [
+    {
+      "term": "buddheḥ",
+      "meaning": "Of intellect or discernment"
+    },
+    {
+      "term": "dhṛteḥ",
+      "meaning": "Of firmness or resolve"
+    },
+    {
+      "term": "guṇataḥ",
+      "meaning": "According to the qualities"
+    },
+    {
+      "term": "pṛthaktvena",
+      "meaning": "Distinctly or separately"
+    }
+  ],
+  "spokenHindi": "कृष्ण अब बुद्धि और धृति के गुणों के अनुसार तीन भेद सुनने को कहते हैं। वे इन्हें पूरी तरह और अलग अलग बताएंगे। यह श्लोक अगले विवरण की भूमिका है। बुद्धि निर्णय समझने की शक्ति है और धृति उसे संभालने वाली दृढ़ता की दिशा में आती है। दोनों का अलग उल्लेख उपयोगी है। कोई व्यक्ति बहुत जिद्दी हो सकता है लेकिन गलत बात पकड़े हुए हो। कोई सही फर्क समझ सकता है, लेकिन उसे निभाने का सहारा कमजोर हो सकता है। ये आधुनिक उदाहरण हैं, अभी इस श्लोक में पूरी श्रेणियाँ नहीं दी गई हैं। हमारे लिए अभ्यास यह है कि अपने निर्णय की स्पष्टता और अपनी निरंतरता को अलग देखें। केवल जोर लगाने को समझ न मानें। केवल समझ लेने को काम पूरा होना भी न मानें। आज एक जिम्मेदारी में पूछें कि समस्या सही दिशा चुनने में है या चुनी दिशा पर टिकने में। उत्तर के अनुसार जानकारी, सहायता या छोटा व्यावहारिक कदम चुनें। आगे की शिक्षा सुनते समय दोनों प्रश्न खुले रखें; मजबूत निश्चय को पहले से अच्छा घोषित न करें।",
+  "clearEnglish": "Krishna asks Arjuna to hear the threefold distinctions of intellect and firmness according to the gunas, presented fully and separately. The verse introduces another analytical pair. Discernment and resolve are related, but they are not identical. In a modern analogy, someone may persist strongly in an ill-judged plan, while another understands the issue yet struggles to follow through. These examples prepare for the teaching without claiming to supply its complete categories. The practical question is which faculty needs attention in a current responsibility. Is the direction unclear, or is support for maintaining an understood direction missing? More effort will not necessarily solve a problem of understanding, and more information will not automatically provide a workable routine. Identify the gap before choosing the response. Further inquiry, suitable assistance, or a smaller step may each be appropriate. Keep both questions open while reading the coming distinctions. Strength of conviction alone is not enough evidence that the conviction is well directed.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna introduces distinct threefold classifications of intellect and firmness according to the gunas."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Separating unclear direction from difficulty following through is a modern preparatory analogy."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Direction or follow-through?",
+      "text": "In one responsibility, identify whether you need clearer understanding or practical support for continuing."
+    }
+  ],
+  "reflectionQuestion": "Am I trying to solve uncertainty with more force?",
+  "reflectionQuestionHindi": "क्या मैं समझ की कमी को केवल अधिक जोर से पूरा करना चाहता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

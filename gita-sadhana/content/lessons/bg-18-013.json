@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-013",
+  "sequenceNumber": 636,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 13,
+  "verseEnd": 13,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "पाँच कारण सुनें / Introducing five causes",
+  "context": "Krishna introduces five causes for the accomplishment of all actions, as declared in the Sankhya account.",
+  "contextHindi": "कृष्ण सांख्य में बताए सभी कर्मों की सिद्धि के पाँच कारण सुनने का परिचय देते हैं।",
+  "sanskritDevanagari": "पञ्चैतानि महाबाहो कारणानि निबोध मे |\nसाङ्ख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम् ||१८-१३||",
+  "transliteration": "pañcaitāni mahābāho kāraṇāni nibodha me .\nsāṅkhye kṛtānte proktāni siddhaye sarvakarmaṇām ||18-13||",
+  "wordByWord": [
+    {
+      "term": "pañca",
+      "meaning": "Five"
+    },
+    {
+      "term": "kāraṇāni",
+      "meaning": "Causes"
+    },
+    {
+      "term": "sāṅkhye",
+      "meaning": "In the Sankhya account"
+    },
+    {
+      "term": "siddhaye",
+      "meaning": "For accomplishment"
+    }
+  ],
+  "spokenHindi": "कृष्ण अर्जुन को सभी कर्मों की सिद्धि के पाँच कारण समझने को कहते हैं। स्रोत इसे सांख्य व्यवस्था का कथन बताता है। इस श्लोक में सूची अभी नहीं आई है, इसलिए पहले उसका उद्देश्य समझें। किसी कर्म का पूरा होना केवल एक व्यक्ति की इच्छा से नहीं समझाया जाएगा। आगे कारणों का विवरण आएगा। आधुनिक जीवन में इसका सीमित अभ्यास किसी सफलता के पीछे अनेक योगदान देखना हो सकता है। यह उस दार्शनिक सूची की जगह नहीं है। जब काम अच्छा हो जाता है, हम अक्सर कहते हैं कि मैंने किया। उस वाक्य में साधन, परिस्थिति, सहयोग और समय छूट सकते हैं। जब काम बिगड़ता है, केवल अपने या दूसरे के चरित्र को कारण कहना भी अधूरा हो सकता है। आज एक परिणाम लें और बिना दोष या श्रेय का फैसला दिए पूछें कि किन परिस्थितियों ने उसे सम्भव बनाया। अपनी भूमिका भी ईमानदारी से देखें। अनेक कारण स्वीकार करने से जिम्मेदारी गायब नहीं होती; उसका स्थान अधिक ठीक से दिखाई दे सकता है। आगे की सूची सुनने के लिए यह सजगता उपयोगी तैयारी है।",
+  "clearEnglish": "Krishna asks Arjuna to learn five causes for the accomplishment of all actions, as declared in the Sankhya account. This verse introduces the explanation; the causes themselves are listed next. Its immediate role is to move the discussion of agency toward a fuller account of how action occurs. A contemporary application can prepare by noticing that a result rarely depends on an isolated intention. Tools, conditions, assistance, and bodily capacity may all matter. These examples are a modern analogy, not a replacement list for the philosophical causes. The distinction is important because reducing the passage to teamwork would miss its concern with the Self and agency. For practice, examine one recent outcome before distributing blame or credit. What conditions made it possible, and what was your actual contribution? Keep the account concrete. Recognizing dependence need not erase responsibility; it can place responsibility more accurately. Let the coming list refine the explanation rather than filling it in from a preferred modern slogan.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna introduces five causes for all actions' accomplishment, as stated in the Sankhya account."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Noticing multiple contributions to a result is a modern preparatory analogy, not a replacement for the philosophical list."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Conditions before credit",
+      "text": "List several conditions behind one result before assigning personal credit or blame."
+    }
+  ],
+  "reflectionQuestion": "What conditions am I leaving out when I explain this result?",
+  "reflectionQuestionHindi": "इस परिणाम की वजह बताते समय मैं कौन सी परिस्थितियाँ छोड़ रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

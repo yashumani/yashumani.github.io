@@ -1,0 +1,71 @@
+{
+  "id": "bg-08-006",
+  "sequenceNumber": 316,
+  "date": "2026-10-05",
+  "chapter": 8,
+  "verseStart": 6,
+  "verseEnd": 6,
+  "chapterNameSanskrit": "अक्षरब्रह्मयोग",
+  "chapterNameEnglish": "Akṣara Brahma Yoga",
+  "theme": "जीवनभर की दिशा और अंतिम स्मृति | A sustained orientation",
+  "context": "Krishna follows the promise about remembering him with a broader statement about sustained thought and departure.",
+  "contextHindi": "अपने स्मरण के फल के बाद कृष्ण बताते हैं कि लगातार जिस भाव में मन रहता है, उसका अंतिम स्मरण से संबंध है।",
+  "sanskritDevanagari": "यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् |\nतं तमेवैति कौन्तेय सदा तद्भावभावितः ||८-६||",
+  "transliteration": "yaṃ yaṃ vāpi smaranbhāvaṃ tyajatyante kalevaram .\ntaṃ tamevaiti kaunteya sadā tadbhāvabhāvitaḥ ||8-6||",
+  "wordByWord": [
+    {
+      "term": "भावम्",
+      "meaning": "A state, being, or object of thought in this context."
+    },
+    {
+      "term": "स्मरन्",
+      "meaning": "Remembering."
+    },
+    {
+      "term": "सदा",
+      "meaning": "Always or continually."
+    },
+    {
+      "term": "तद्भावभावितः",
+      "meaning": "Having been formed or absorbed in that state."
+    }
+  ],
+  "spokenHindi": "यहाँ कृष्ण कहते हैं कि व्यक्ति जिस भाव को याद करते हुए अंत में शरीर छोड़ता है, उसी को प्राप्त होता है, क्योंकि वह लगातार उसी भाव से प्रभावित रहा है। श्लोक का अंतिम भाग ध्यान देने योग्य है। बात केवल एक अचानक आने वाले विचार की नहीं, जीवन में बार-बार बनी हुई दिशा की है। दिए गए स्रोत में स्वामी शिवानंद समझाते हैं कि जीवन का प्रमुख विचार अंतिम समय में मन को घेरता है और अगले जन्म के शरीर से जुड़ता है। यह उनकी पुनर्जन्म संबंधी व्याख्या है। आधुनिक अभ्यास के लिए हम अलग, सीमित निष्कर्ष ले सकते हैं: जिसे बार-बार ध्यान देते हैं, वह हमारी परिचित मानसिक दिशा बन सकता है। इसका अर्थ यह नहीं कि अनचाहा विचार आते ही कोई बुरा परिणाम तय हो गया। दुख, चिंता या उलझन के लिए व्यक्ति को दोष देना उचित नहीं है। आज बस देखें कि आपके दिन में किस तरह की यादों को जगह मिलती है। किसी एक पोषक स्मृति, संबंध या प्रार्थना के लिए थोड़ा समय रख सकते हैं।",
+  "clearEnglish": "The final phrase explains the earlier statement: a person has continually been shaped by the state remembered at departure. This gives the verse a temporal depth that is easily lost when it is reduced to a rule about a single last thought. Krishna describes attainment corresponding to remembered being or state; Sivananda's commentary interprets the dominant thought of a lifetime as determining the body of the next birth. That is a theological account, not an experimentally established claim about memory. A modest modern analogy concerns familiarity: repeated attention makes certain concerns readily available to us. The analogy helps reflection but does not prove the verse's teaching about rebirth. It is particularly important not to convert unwanted intrusive thoughts into spiritual threats. An involuntary thought is not the same as a deliberately cultivated orientation, and the verse provides no basis for forecasting someone's destiny from a moment of distress. We can instead consider which relationships and values we willingly nourish over time, with patience toward the mind's ordinary fluctuations.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna connects the state remembered at death with attainment of that state, noting continual absorption in it."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Repeated attention may shape familiar mental habits; this analogy is distinct from the verse's claim about attainment after death."
+    },
+    {
+      "label": "COMMENTARY — Sri Swami Sivananda",
+      "explanation": "Sivananda says the most prominent thought of life occupies the mind at death and determines the body attained in the next birth."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Notice a recurring concern",
+      "text": "Identify one concern you repeatedly return to, then choose one small nourishing focus to give attention today."
+    }
+  ],
+  "reflectionQuestion": "What do I willingly nourish through repeated attention?",
+  "reflectionQuestionHindi": "बार-बार ध्यान देकर मैं स्वेच्छा से किस बात को पोषित करता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

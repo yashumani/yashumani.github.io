@@ -1,0 +1,71 @@
+{
+  "id": "bg-10-003",
+  "sequenceNumber": 375,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 3,
+  "verseEnd": 3,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "अजन्मा आधार / The beginningless source",
+  "context": "Krishna explains what it means to recognize him as the source of gods and sages.",
+  "contextHindi": "देवों और ऋषियों के स्रोत की बात के बाद कृष्ण अपने अजन्मा स्वरूप को पहचानने का फल बताते हैं।",
+  "sanskritDevanagari": "यो मामजमनादिं च वेत्ति लोकमहेश्वरम् |\nअसम्मूढः स मर्त्येषु सर्वपापैः प्रमुच्यते ||१०-३||",
+  "transliteration": "yo māmajamanādiṃ ca vetti lokamaheśvaram .\nasammūḍhaḥ sa martyeṣu sarvapāpaiḥ pramucyate ||10-3||",
+  "wordByWord": [
+    {
+      "term": "अजम्",
+      "meaning": "unborn; not produced by a prior birth"
+    },
+    {
+      "term": "अनादिम्",
+      "meaning": "without a beginning"
+    },
+    {
+      "term": "लोकमहेश्वरम्",
+      "meaning": "great Lord of the worlds"
+    },
+    {
+      "term": "असम्मूढः",
+      "meaning": "undeluded"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जो उन्हें अजन्मा, अनादि और सारे लोकों का महान ईश्वर जानता है, वह मनुष्यों में भ्रम से मुक्त होकर पापों से छूटता है। अजन्मा का मतलब केवल किसी असामान्य जन्म की कहानी नहीं है। यहाँ पिछले श्लोक का विचार आगे बढ़ता है: सबका स्रोत खुद किसी पहले स्रोत से पैदा नहीं हुआ। अनादि इसी बात को समय की भाषा में कहता है। स्वामी शिवानंद भी समझाते हैं कि सारे जगत के कारण का अपना कोई पूर्व कारण नहीं होता। इस पहचान को केवल नाम याद कर लेने से अलग समझें। यह जीवन के आधार के बारे में दृष्टि बदलने की बात है। पापों से मुक्ति का वचन धार्मिक है; इससे किसी को दूसरों के प्रति अपनी जिम्मेदारी मिटा देने का अधिकार नहीं मिलता। हमारा व्यावहारिक विचार यह हो सकता है कि अपनी सीमित समझ को अंतिम सत्य मानना छोड़ें। गलती हुई हो तो उसे स्वीकारकर सुधारना, ऐसी विनम्रता का ठोस रूप हो सकता है।",
+  "clearEnglish": "The claim concerns the relation between the ultimate source and everything derived from it. Krishna describes himself as unborn and beginningless, then connects recognizing that reality with freedom from delusion and sin. These descriptions differ from saying that a particular person is very old or powerful. An ultimate source cannot be another event inside the chain it explains. Sivananda's supplied commentary develops that causal point: the source of the worlds has no source of its own. The verse also gives knowledge spiritual consequence. Knowing is more than reciting a metaphysical definition; it changes the person's orientation. We should nevertheless distinguish the stated promise of liberation from modern claims about automatic moral innocence. Understanding this teaching does not erase the need to acknowledge harm or make repair. A useful application is intellectual humility: notice where an explanation of reality has become a claim to personal superiority. The beginningless Lord is the subject of the verse; our capacity to describe him remains limited.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna states that knowing him as unborn, beginningless and Lord of the worlds frees the undeluded person from sins."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Humility and responsibility can express the changed orientation; the verse does not grant immunity from accountability."
+    },
+    {
+      "label": "COMMENTARY — Swami Sivananda",
+      "explanation": "Sivananda explains that the cause of the worlds has no preceding cause and is therefore beginningless and unborn."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Causal humility",
+      "text": "Write one belief you hold strongly and one question it leaves open. If an actual mistake needs repair, name a practical repair separately."
+    }
+  ],
+  "reflectionQuestion": "Where does confidence in my understanding become a claim of superiority?",
+  "reflectionQuestionHindi": "मेरी समझ पर भरोसा कब खुद को दूसरों से श्रेष्ठ मानने लगता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

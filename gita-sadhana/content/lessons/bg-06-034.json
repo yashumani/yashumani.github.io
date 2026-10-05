@@ -1,0 +1,75 @@
+{
+  "id": "bg-06-034",
+  "sequenceNumber": 267,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 34,
+  "verseEnd": 34,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "मन की चंचलता और उसे वश में करने की कठिनाई | The restless mind and the difficulty of restraining it",
+  "context": "After saying that steady Yoga seems difficult to sustain, Arjuna explains why: the mind is restless, turbulent, strong, and stubborn. He tells Krishna that restraining it seems as difficult as restraining the wind.",
+  "contextHindi": "स्थिर योग को बनाए रखना कठिन लगने की बात कहने के बाद, अर्जुन बताते हैं कि ऐसा क्यों है। वे कृष्ण से कहते हैं कि मन चंचल, उथल-पुथल मचाने वाला, बलवान और दृढ़ है। उसे वश में करना उन्हें वायु को रोकने जितना कठिन लगता है।",
+  "sanskritDevanagari": "चञ्चलं हि मनः कृष्ण प्रमाथि बलवद् दृढम् |\nतस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम् ||६-३४||",
+  "transliteration": "cañcalaṃ hi manaḥ kṛṣṇa pramāthi balavad dṛḍham .\ntasyāhaṃ nigrahaṃ manye vāyoriva suduṣkaram ||6-34||",
+  "wordByWord": [
+    {
+      "term": "चञ्चलम्",
+      "meaning": "cañcalam — restless, flickering, always moving from one object to another."
+    },
+    {
+      "term": "प्रमाथि",
+      "meaning": "pramāthi — agitates, disturbs, throws one off balance and makes the field of awareness unstable."
+    },
+    {
+      "term": "बलवत् दृढम्",
+      "meaning": "balavat dṛḍham — very strong and stubborn; not weak or easily redirected."
+    },
+    {
+      "term": "निग्रहं",
+      "meaning": "nigrahaṃ — restraint, control, disciplined regulation of the mind."
+    }
+  ],
+  "spokenHindi": "इस श्लोक में अर्जुन कृष्ण से मन की कठिनाई बताते हैं। वे कहते हैं, “हे कृष्ण, मन चंचल, उथल-पुथल मचाने वाला, बलवान और दृढ़ है। मुझे उसे रोकना वायु को रोकने जैसा कठिन लगता है।” यहाँ मन को बुरा या दोषी नहीं कहा गया है। अर्जुन अपने अनुभव को साफ़ शब्दों में रख रहे हैं। मन बार-बार बदलता है और उसे रोकना आसान नहीं लगता। वायु से तुलना इसी कठिनाई को सामने लाती है। इस श्लोक में अर्जुन अपनी चिंता और मन को साधने की चुनौती बताते हैं। अभ्यास और वैराग्य से मन को साधने का उत्तर अगले श्लोक, 6.35 में आता है। इसलिए इस श्लोक को पढ़ते समय अर्जुन की बात और कृष्ण के अगले उत्तर को अलग-अलग समझना ज़रूरी है।",
+  "clearEnglish": "In this verse, Arjuna tells Krishna why steady Yoga seems difficult to sustain. He says that the mind is restless, turbulent, strong, and stubborn, and that restraining it seems as difficult as restraining the wind. This is Arjuna describing his experience; Krishna is being addressed, not speaking here. The wind comparison conveys how hard the task feels, rather than making a judgment about the person whose mind wanders. The verse names the difficulty plainly and does not give Krishna’s answer yet. That answer comes in the next verse, 6.35, where Krishna speaks about practice and dispassion. Keeping these verses distinct matters: here we hear Arjuna’s concern, and then we hear Krishna’s response. The verse invites an honest look at how forceful and unsettled the mind can feel without confusing that description with the teaching that follows.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna describes the mind as restless, strong, and difficult to restrain, comparing the task to controlling the wind. The verse expresses the difficulty he sees; it does not call a person spiritually inferior."
+    },
+    {
+      "label": "COMMENTARY",
+      "explanation": "The Divine Life Society edition notes that the mind keeps shifting from one object to another and is more difficult to control than the wind. That commentary supports the literal teaching without turning it into a universal moral judgment."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "One reasonable conclusion is that concentration is a trained skill. The path is not passive acceptance of a restless mind but repeated, patient redirection over time."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Anchor the breath",
+      "text": "For two minutes, count ten breaths slowly and gently. Each time the mind wanders, return to the breath without scolding yourself."
+    },
+    {
+      "label": "Create frictionless repetition",
+      "text": "Set one daily cue—such as tea, walking, or before sleep—to practice a simple focused attention. Repetition builds the inner strength needed to manage mental turbulence."
+    }
+  ],
+  "reflectionQuestion": "What patterns of thought most often pull my attention away, and which single practice helps me return most reliably?",
+  "reflectionQuestionHindi": "मेरे मन को सबसे ज़्यादा भटकाने वाली कौन-कौन सी सोचें हैं, और कौन-सा एक अभ्यास मुझे सबसे ज़्यादा बार लौटने में मदद करता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

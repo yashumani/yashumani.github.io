@@ -1,0 +1,67 @@
+{
+  "id": "bg-13-034",
+  "sequenceNumber": 523,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 34,
+  "verseEnd": 34,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "One illuminator of the whole field / पूरे क्षेत्र का एक प्रकाशक",
+  "context": "Krishna compares the field's knower illuminating the whole field with one sun illuminating the world.",
+  "contextHindi": "कृष्ण क्षेत्री के पूरे क्षेत्र को प्रकाशित करने की तुलना एक सूर्य के जगत को प्रकाशित करने से करते हैं।",
+  "sanskritDevanagari": "यथा प्रकाशयत्येकः कृत्स्नं लोकमिमं रविः |\nक्षेत्रं क्षेत्री तथा कृत्स्नं प्रकाशयति भारत ||१३-३४||",
+  "transliteration": "yathā prakāśayatyekaḥ kṛtsnaṃ lokamimaṃ raviḥ .\nkṣetraṃ kṣetrī tathā kṛtsnaṃ prakāśayati bhārata ||13-34||",
+  "wordByWord": [
+    {
+      "term": "raviḥ",
+      "meaning": "sun; सूर्य"
+    },
+    {
+      "term": "kṛtsnam",
+      "meaning": "the whole; पूरा"
+    },
+    {
+      "term": "kṣetrī",
+      "meaning": "the one who possesses or knows the field"
+    },
+    {
+      "term": "prakāśayati",
+      "meaning": "illuminates; प्रकाशित करता है"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जैसे एक सूर्य इस पूरे जगत को प्रकाशित करता है, वैसे ही क्षेत्री पूरे क्षेत्र को प्रकाशित करता है। क्षेत्र की सूची में शरीर, इंद्रियाँ, मन, इच्छा और अनुभव के अनेक रूप आए थे। अब एक प्रकाशक की उपमा उनके ज्ञात होने के संबंध को सामने रखती है। दिए गए संस्करण का अनुवाद क्षेत्र के स्वामी को सर्वोच्च आत्मा की दिशा में पढ़ता है। सूर्य का उदाहरण यह नहीं कहता कि आत्मा शरीर में कोई छोटा चमकता पदार्थ है। वह जानने और प्रकाशित होने का संबंध समझाने की उपमा है। हमारे दिन का सीमित अभ्यास अनुभव की पूरी स्थिति देखना हो सकता है। किसी चिंता में केवल एक विचार न पकड़ें; देह की संवेदना, तथ्य, उम्मीद और प्रतिक्रिया भी पहचानें। यह आत्मा के स्वरूप का प्रमाण नहीं, ध्यान की चौड़ाई का अभ्यास है। सब पक्ष देखकर उचित कदम चुनें। जो अभी नहीं मालूम उसे अनुमान से न भरें। एक उपमा कई अनुभवों को साथ देखने की दिशा दे सकती है, बिना कठिन दार्शनिक प्रश्न को जल्द बंद किए।",
+  "clearEnglish": "One sun illuminates the whole world, and the field's possessor or knower similarly illuminates the whole field. The supplied edition renders the latter through the Supreme Self. The image relates many elements of experience to their being known, following the earlier list of bodily and inner components. It is not an assertion that the Self is a small luminous object hidden in the body. The comparison concerns illumination as a way of describing knowing. A limited practice is to broaden attention when one concern dominates. Instead of holding only a single anxious sentence, notice the bodily sensation, available facts, expectation, and impulse to respond. This does not establish the metaphysical knower or require continuous monitoring. It can make the situation more complete before a decision. Missing information should remain marked as missing rather than supplied by assumption. The verse's image offers a coherent question about the whole field, while an ordinary observation exercise remains smaller than the realization the chapter describes.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The field's knower illuminates the whole field as one sun illuminates the world; the DLS rendering identifies this with the Supreme Self."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Broadening attention to several aspects of an experience is a limited application of whole-field illumination, not proof of the knower."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "For one concern, briefly note a sensation, a fact, an expectation, and a possible response."
+    }
+  ],
+  "reflectionQuestion": "Which part of this experience disappears when I focus only on one thought?",
+  "reflectionQuestionHindi": "केवल एक विचार पर अटकने से इस अनुभव का कौन सा पक्ष छूट जाता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-002",
+  "sequenceNumber": 491,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 2,
+  "verseEnd": 2,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "The body as field / शरीर को क्षेत्र समझना",
+  "context": "Krishna begins answering Arjuna by identifying the body as the field and its knower as the knower of the field.",
+  "contextHindi": "अर्जुन के प्रश्न के उत्तर में कृष्ण शरीर को क्षेत्र और उसे जानने वाले को क्षेत्रज्ञ बताते हैं।",
+  "sanskritDevanagari": "श्रीभगवानुवाच |\nइदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते |\nएतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः ||१३-२||",
+  "transliteration": "śrībhagavānuvāca .\nidaṃ śarīraṃ kaunteya kṣetramityabhidhīyate .\netadyo vetti taṃ prāhuḥ kṣetrajña iti tadvidaḥ ||13-2||",
+  "wordByWord": [
+    {
+      "term": "śarīram",
+      "meaning": "body; शरीर"
+    },
+    {
+      "term": "kṣetram",
+      "meaning": "field of experience; क्षेत्र"
+    },
+    {
+      "term": "vetti",
+      "meaning": "knows; जानता है"
+    },
+    {
+      "term": "kṣetrajñaḥ",
+      "meaning": "knower of the field"
+    },
+    {
+      "term": "tadvidaḥ",
+      "meaning": "those who understand this"
+    }
+  ],
+  "spokenHindi": "कृष्ण अर्जुन से कहते हैं कि यह शरीर क्षेत्र कहलाता है। जो इसे जानता है, उसे इस विषय के ज्ञानी क्षेत्रज्ञ कहते हैं। अभी शरीर और उसके ज्ञाता का अंतर रखा गया है। खेत की उपमा हमें कुछ समझने में मदद देती है: खेत में बहुत कुछ उगता और बदलता है, जबकि खेत को पहचानने वाला उसे देख सकता है। यह हमारी समझाने की तुलना है; श्लोक खुद अभी शरीर को क्षेत्र नाम देता है। आगे शरीर के साथ मन और अनुभव के कई पक्ष भी क्षेत्र में गिने जाएँगे। इसलिए इसे शरीर की उपेक्षा का आदेश न समझें। जिस क्षेत्र में जीवन का अनुभव हो रहा है उसकी देखभाल जरूरी है। आज एक सुरक्षित अभ्यास करें: कोई साधारण देहगत संवेदना पहचानें और उसके बारे में उठते विचार को अलग देखें। संवेदना और विचार दोनों दिखाई देते हैं, पर उनसे आत्मा का पूरा स्वरूप तुरंत सिद्ध नहीं हो जाता। यह अंतर जल्द निष्कर्ष के बजाय ध्यान और अधिक अध्ययन की शुरुआत हो सकता है।",
+  "clearEnglish": "Krishna defines the body as the field and says that the one who knows it is called its knower by those who understand the distinction. The opening answer introduces a relationship between what is experienced and the knowing of it. A field can host many changes, which makes the name useful for reflection, but an explanatory farming analogy should not be attributed to the verse as an added claim. The chapter will broaden the field's contents beyond a bare physical description. At this point, the essential move is to avoid simply collapsing the known body and the knower into one unexamined category. This does not make bodily care unimportant. A limited practice is to observe an ordinary sensation and the thought that forms about it, recognizing that both can be noticed. That observation does not by itself prove a complete metaphysics of the self. It provides a careful starting point for studying the distinction while remaining attentive to real embodied needs.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna calls the body the field and the one who knows it the field's knower."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Noticing a sensation and its accompanying thought is an introductory observation exercise, not proof of the self's complete nature."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Notice one neutral bodily sensation and distinguish it from the thought that describes it."
+    }
+  ],
+  "reflectionQuestion": "What is being noticed, and what am I adding to it through thought?",
+  "reflectionQuestionHindi": "क्या सीधे देखा जा रहा है, और विचार से मैं उसमें क्या जोड़ रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

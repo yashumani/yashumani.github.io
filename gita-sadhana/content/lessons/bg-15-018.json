@@ -1,0 +1,67 @@
+{
+  "id": "bg-15-018",
+  "sequenceNumber": 569,
+  "date": "2026-10-05",
+  "chapter": 15,
+  "verseStart": 18,
+  "verseEnd": 18,
+  "chapterNameSanskrit": "पुरुषोत्तमयोग",
+  "chapterNameEnglish": "Puruṣottama Yoga",
+  "theme": "Why Krishna is called Purushottama / पुरुषोत्तम नाम का कारण",
+  "context": "Krishna explains the title Purushottama by his transcendence of the perishable and superiority to the imperishable.",
+  "contextHindi": "कृष्ण स्पष्ट करते हैं कि क्षर से परे और अक्षर से भी उत्तम होने के कारण वे पुरुषोत्तम कहलाते हैं।",
+  "sanskritDevanagari": "यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः |\nअतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः ||१५-१८||",
+  "transliteration": "yasmātkṣaramatīto.ahamakṣarādapi cottamaḥ .\nato.asmi loke vedeca prathitaḥ puruṣottamaḥ ||15-18||",
+  "wordByWord": [
+    {
+      "term": "kṣaram atītaḥ",
+      "meaning": "beyond the perishable"
+    },
+    {
+      "term": "akṣarāt api uttamaḥ",
+      "meaning": "higher even than the imperishable"
+    },
+    {
+      "term": "prathitaḥ",
+      "meaning": "renowned or declared"
+    },
+    {
+      "term": "puruṣottamaḥ",
+      "meaning": "Supreme Person"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि वे क्षर से परे हैं और अक्षर से भी उत्तम हैं; इसी कारण संसार और वेद में पुरुषोत्तम के रूप में प्रसिद्ध हैं। नाम का कारण स्वयं श्लोक में दिया गया है। यह केवल सम्मान का बड़ा विशेषण नहीं, पिछले दो श्लोकों के दार्शनिक अंतर का निष्कर्ष है। पहले नश्वर प्राणियों और अपरिवर्तित अक्षर की बात आई, फिर सबको धारण करने वाले परमात्मा की। अब कृष्ण उस सर्वोच्च पहचान को अपनी ओर रखते हैं। किसी मनुष्य की सामाजिक श्रेष्ठता या पद का दावा इस कथन से नहीं निकलता। अध्ययन में उपयोगी अभ्यास यह हो सकता है कि बड़ा शब्द इस्तेमाल करते समय उसका कारण समझें। ‘पुरुषोत्तम’ सुनकर केवल भावनात्मक प्रभाव पर न रुकें; पाठ ने किन संबंधों से उसका अर्थ बनाया, उन्हें फिर देखें। यह अध्ययन की विधि है, श्लोक के परमत्व का प्रमाण नहीं। आज तीन पद अलग लिखें: क्षर, अक्षर और पुरुषोत्तम। उनके बारे में जो स्पष्ट है उसे रखें, और जो अभी प्रश्न है उसे ईमानदारी से खुला रहने दें।",
+  "clearEnglish": "Krishna explains why he is known as Purushottama in the world and the Vedas: he transcends the perishable and is higher even than the imperishable. The title is thus a conclusion within the sequence, not merely an honorific added for emotional force. The preceding distinction between changing beings and the unchanging principle is followed by the sustaining Supreme, and Krishna now identifies himself with that highest position. The assertion concerns divine identity; it does not transfer superior spiritual worth to a human office or social class. For study, the verse models the importance of connecting a significant term to the reason supplied for it. Repeating a title without recalling its surrounding argument can leave understanding vague. A useful exercise is to set out kṣara, akṣara, and Purushottama in brief notes and mark what remains uncertain. This exercise does not verify the metaphysical claim. It keeps devotional language and careful inquiry connected so that reverence need not replace attention to meaning.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna is called Purushottama because he transcends the perishable and is higher even than the imperishable."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Tracing a title to the reasons supplied in the text is a study practice; the claim gives no human social hierarchy."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Write a brief distinction between kṣara, akṣara, and Purushottama, marking any unresolved question rather than guessing."
+    }
+  ],
+  "reflectionQuestion": "Can I explain the reason for this title in the sequence of the teaching?",
+  "reflectionQuestionHindi": "क्या मैं इस नाम का कारण पाठ की क्रमबद्ध बात से समझा सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

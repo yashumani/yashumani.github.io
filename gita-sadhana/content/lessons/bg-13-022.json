@@ -1,0 +1,71 @@
+{
+  "id": "bg-13-022",
+  "sequenceNumber": 511,
+  "date": "2026-10-05",
+  "chapter": 13,
+  "verseStart": 22,
+  "verseEnd": 22,
+  "chapterNameSanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग",
+  "chapterNameEnglish": "Kṣetra Kṣetrajña Vibhāga Yoga",
+  "theme": "Attachment and continuing birth / गुणों का लगाव और जन्म",
+  "context": "Krishna explains Spirit's experience of Nature's qualities and attachment as the cause of further births.",
+  "contextHindi": "कृष्ण प्रकृति में स्थित पुरुष के गुणों के अनुभव और उनसे लगाव को आगे के जन्म का कारण बताते हैं।",
+  "sanskritDevanagari": "पुरुषः प्रकृतिस्थो हि भुङ्क्ते प्रकृतिजान्गुणान् |\nकारणं गुणसङ्गोऽस्य सदसद्योनिजन्मसु ||१३-२२||",
+  "transliteration": "puruṣaḥ prakṛtistho hi bhuṅkte prakṛtijānguṇān .\nkāraṇaṃ guṇasaṅgo.asya sadasadyonijanmasu ||13-22||",
+  "wordByWord": [
+    {
+      "term": "prakṛtisthaḥ",
+      "meaning": "situated in Nature"
+    },
+    {
+      "term": "bhuṅkte",
+      "meaning": "experiences or enjoys"
+    },
+    {
+      "term": "prakṛtijān guṇān",
+      "meaning": "qualities born of Nature"
+    },
+    {
+      "term": "guṇasaṅgaḥ",
+      "meaning": "attachment to the qualities"
+    },
+    {
+      "term": "sadasadyoni",
+      "meaning": "good and bad births in this religious account"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि प्रकृति में स्थित पुरुष प्रकृति से पैदा गुणों का अनुभव करता है। उन गुणों से लगाव उसके शुभ और अशुभ जन्मों का कारण है। यह जन्म के आगे जारी रहने वाले आध्यात्मिक क्रम का कथन है। किसी व्यक्ति की जन्म की परिस्थिति देखकर उसके भीतर या पिछले जीवन का पक्का फैसला सुना देना इससे नहीं निकलता। श्लोक कोई जाति, परिवार या विकलांगता की सूची नहीं देता। बंधन का कारण गुणों से जुड़ी आसक्ति है, किसी को अपमानित करने का अधिकार नहीं। अपने लिए एक सीमित तुलना यह हो सकती है कि किसी दशा से चिपकने पर आगे की पसंद उसी ढर्रे में चलती है। जैसे प्रशंसा की चाह के कारण बार बार वही काम चुनना। यह आदत वाला उदाहरण पुनर्जन्म का प्रमाण नहीं है। आज एक दोहरती चाह देखें और पूछें कि क्या वह आपके निर्णय को जरूरत से अधिक चला रही है। फिर वास्तविक दायित्व के अनुसार छोटा विकल्प रखें। अध्ययन का लक्ष्य अपनी पकड़ समझना हो, दूसरों को जन्म के आधार पर नीचा दिखाना नहीं।",
+  "clearEnglish": "Spirit situated in Nature experiences the qualities born of Nature, and attachment to those qualities is said to cause birth in good and bad wombs. The verse belongs to the religious account of continuing embodiment. It does not list inherited groups or authorize conclusions about someone's prior life from their present circumstances, disability, or family. Its causal emphasis is attachment, not a license for contempt. A limited analogy concerns the way clinging to a state shapes repeated choices. Dependence on praise may lead someone to choose the same rewarding activity while overlooking a less visible responsibility. This example illustrates a pattern of attachment; it neither replaces nor proves the rebirth claim. For practice, examine one recurring attraction and the decision it invites. A deliberate alternative may make a neglected obligation more visible. The question should remain directed toward one's own conduct, with appropriate compassion toward others. Spiritual causation cannot responsibly be used as an excuse to abandon people who need support.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Spirit in Nature experiences its qualities; attachment to them is the cause of good and bad births in Krishna's account."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Observing repeated choices is an analogy; no judgment of moral history from social identity, disability, or circumstance follows."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Identify one repeated attraction and choose one responsible action that it tends to displace."
+    }
+  ],
+  "reflectionQuestion": "Which attachment is narrowing the choices I keep making?",
+  "reflectionQuestionHindi": "कौन सी आसक्ति मेरे बार बार किए चुनावों को संकीर्ण कर रही है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

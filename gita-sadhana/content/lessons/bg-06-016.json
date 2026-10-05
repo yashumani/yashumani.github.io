@@ -1,0 +1,75 @@
+{
+  "id": "bg-06-016",
+  "sequenceNumber": 249,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 16,
+  "verseEnd": 16,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "मिताहार, संतुलन, और योग; moderation, balance, and yoga",
+  "context": "In the previous verse Krishna established the mark of a settled mind. Here he gives a practical criterion: Yoga is not served by extremes in eating, sleeping, or alertness. The discipline of meditation requires a balanced life, not a dramatic or self-punishing one.",
+  "contextHindi": "पिछले श्लोक में कृष्ण ने स्थिर मन का संकेत दिया था। यहाँ वे व्यवहारिक कसौटी देते हैं: योग तभी बनता है जब भोजन, नींद और जागरण का रवैया संतुलित हो, किसी भी तरह की अति में नहीं फँसा जाए।",
+  "sanskritDevanagari": "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः |\nन चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन ||६-१६||",
+  "transliteration": "nātyaśnatastu yogo.asti na caikāntamanaśnataḥ .\nna cātisvapnaśīlasya jāgrato naiva cārjuna ||6-16||",
+  "wordByWord": [
+    {
+      "term": "अत्यश्नतः",
+      "meaning": "one who eats too much; over-indulgence in food and sensory comfort."
+    },
+    {
+      "term": "एकान्तमनश्नतः",
+      "meaning": "one who abstains entirely, without balance; excessive deprivation is not the path either."
+    },
+    {
+      "term": "अतिस्वप्नशीलस्य",
+      "meaning": "one who sleeps too much; allowing the body and mind to remain overly dull and untrained."
+    },
+    {
+      "term": "जाग्रतः",
+      "meaning": "one who remains constantly awake and over-stimulated; restless vigilance can also disturb meditation."
+    },
+    {
+      "term": "योगः",
+      "meaning": "union, disciplined practice, inward steadiness; not a mystical mood but a trained state of consciousness."
+    }
+  ],
+  "spokenHindi": "कृष्ण यहाँ अपनी बात को बहुत सीधा और व्यवहारिक बनाते हैं। वे कहते हैं, योग अति के बीच नहीं बनता। अगर कोई बहुत अधिक खाता है, तो उसका मन शारीरिक भारीपन, आलस्य और तंद्रा से घिर जाता है। अगर कोई बिलकुल कुछ नहीं खाता, तो शरीर और मन की शक्ति टूट जाती है। अगर कोई बहुत ज्यादा सोता है, तो उसकी चेतना गहरी नहीं बनती; अगर लगातार जागता रहता है, तो मन व्याकुल रहता है। इन सबकी अति उस सहजता को खत्म कर देती है, जो ध्यान के लिए जरूरी है। इसलिए योग का पाठ यह नहीं है कि जीवन में सब खत्म कर दो, बल्कि जीवन को संतुलित रखो। यही संतुलन मन को भीतर ले जाने में मदद करता है।",
+  "clearEnglish": "This verse is a corrective against two common errors: extremes of indulgence and extremes of deprivation. Krishna is not praising indulgence or romanticizing austerity. He is pointing to the fact that meditation depends on a regulated body and mind. Excess eating leads to heaviness, dullness, and distraction; total abstention can create weakness and irritability. Likewise, oversleeping makes the mind inert, while excessive wakefulness creates agitation. The central principle is moderation, not moralism. A balanced rhythm supports clarity, steadiness, and inner attention. In a modern sense, this is not a rigid schedule imposed from outside but a practical ethics of self-knowledge: enough nourishment, enough rest, enough attention, and enough restraint that the mind can become available for reflection. The real issue is not perfection of lifestyle but the ability to live with discipline without becoming enslaved to extremes.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse says Yoga is not possible for one who eats too much or does not eat at all, or for one who sleeps too much or remains awake."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Meditation requires a humane, sustainable daily pattern; the body and mind are instruments for practice, not enemies to be tortured or indulged."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Meal and rest rhythm",
+      "text": "Eat enough to be steady, not enough to be sluggish; sleep enough to wake clear, not enough to remain in a fog. Notice whether your routine helps concentration or drains it."
+    },
+    {
+      "label": "Balanced attention",
+      "text": "If you are always switched on, take a deliberate pause. If you are constantly exhausted, reduce stimulation and protect your recovery time."
+    }
+  ],
+  "reflectionQuestion": "Which of your current habits most clearly pulls you away from steadiness: excess, deprivation, constant stimulation, or chronic fatigue?",
+  "reflectionQuestionHindi": "आपकी वर्तमान आदतों में से कौन-सी सबसे ज्यादा मन को स्थिरता से दूर ले जाती है—अति, अभाव, निरंतर उत्तेजना, या लगातार थकान?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

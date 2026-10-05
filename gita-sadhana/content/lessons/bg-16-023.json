@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-023",
+  "sequenceNumber": 594,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 23,
+  "verseEnd": 23,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "इच्छा को अंतिम नियम न बनाना / Desire without guidance",
+  "context": "Krishna criticizes setting aside scriptural ordinances and acting solely from desire.",
+  "contextHindi": "कृष्ण शास्त्रीय विधान छोड़कर केवल इच्छा के अनुसार चलने के परिणाम बताते हैं।",
+  "sanskritDevanagari": "यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः |\nन स सिद्धिमवाप्नोति न सुखं न परां गतिम् ||१६-२३||",
+  "transliteration": "yaḥ śāstravidhimutsṛjya vartate kāmakārataḥ .\nna sa siddhimavāpnoti na sukhaṃ na parāṃ gatim ||16-23||",
+  "wordByWord": [
+    {
+      "term": "śāstravidhim",
+      "meaning": "Scriptural ordinance or guidance"
+    },
+    {
+      "term": "utsṛjya",
+      "meaning": "Setting aside"
+    },
+    {
+      "term": "kāmakārataḥ",
+      "meaning": "According to the impulse of desire"
+    },
+    {
+      "term": "siddhim",
+      "meaning": "Perfection or accomplishment"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि शास्त्र के विधान को छोड़कर इच्छा के अनुसार चलने वाला न सिद्धि पाता है, न सुख, न परम गति। यह बात पहले बताए गए काम, क्रोध और लोभ के संदर्भ में आती है। मन की चाह को अंतिम प्रमाण मानना रास्ता बिगाड़ सकता है। श्लोक का धार्मिक आधार शास्त्र है; उसे केवल अपनी पसंद के नैतिक नियम में बदलकर नहीं पढ़ना चाहिए। साथ ही कोई व्यक्ति अपने निजी आदेश को शास्त्र कह दे, तो वह अपने आप भरोसेमंद नहीं हो जाता। सही स्रोत और संदर्भ समझना सीखने का हिस्सा है। आधुनिक अभ्यास में किसी महत्वपूर्ण फैसले पर इच्छा के अलावा जिम्मेदारी का आधार ढूँढ़िए। आप किस नियम, वचन या परिणाम के प्रति जवाबदेह हैं? यदि कोई धार्मिक सलाह आपको नुकसान सहने या जरूरी सहायता छोड़ने को कहती है, तो योग्य और भरोसेमंद मार्गदर्शन लें। आज तुरंत करने की चाह वाला एक काम रोककर उसकी वजह स्पष्ट करें। विचार करने से इच्छा मिटे या न मिटे, उसे निर्णय का अकेला स्वामी बनने से रोका जा सकता है।",
+  "clearEnglish": "Krishna states that one who discards scriptural ordinances and acts under desire's impulse attains neither perfection, happiness, nor the supreme goal. The verse gives scriptural guidance a definite role; replacing it silently with whatever rule a reader prefers would obscure its religious content. At the same time, a contemporary person's claim to represent scripture requires examination of the source and context. Personal authority is not automatically established by using a sacred label. The immediate chapter context concerns desire that evades moral restraint. A responsible application asks what can hold a decision answerable beyond the wish to obtain an outcome. An obligation, a fair procedure, or a carefully understood teaching may reveal a limit desire ignores. Those examples are modern extensions, not the verse's exact wording. Where advice is coercive or harmful, seek trustworthy guidance and necessary support. Before one impulsive decision, identify the authority you are actually relying on and whether you have understood it well enough to act responsibly.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says desire-driven action that sets aside scriptural ordinances fails to attain perfection, happiness, or the supreme goal."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Checking a claimed authority's source and context is a modern safeguard; personal commands are not automatically scripture."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Check the basis",
+      "text": "Before one impulsive choice, name the obligation or carefully understood guidance relevant to it."
+    }
+  ],
+  "reflectionQuestion": "What guides this choice besides my immediate preference?",
+  "reflectionQuestionHindi": "मेरी तत्काल पसंद के अलावा इस निर्णय का आधार क्या है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-14-024",
+  "sequenceNumber": 548,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 24,
+  "verseEnd": 24,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "Equal regard amid pleasure and praise / सुख और प्रशंसा में समता",
+  "context": "Krishna describes steadiness toward pleasure, pain, material objects, affection, criticism, and praise.",
+  "contextHindi": "कृष्ण गुणों से पार व्यक्ति की समता को सुख दुख, वस्तुओं, प्रिय अप्रिय और निंदा प्रशंसा के बीच बताते हैं।",
+  "sanskritDevanagari": "समदुःखसुखः स्वस्थः समलोष्टाश्मकाञ्चनः |\nतुल्यप्रियाप्रियो धीरस्तुल्यनिन्दात्मसंस्तुतिः ||१४-२४||",
+  "transliteration": "samaduḥkhasukhaḥ svasthaḥ samaloṣṭāśmakāñcanaḥ .\ntulyapriyāpriyo dhīrastulyanindātmasaṃstutiḥ ||14-24||",
+  "wordByWord": [
+    {
+      "term": "samaduḥkhasukhaḥ",
+      "meaning": "equal in pain and pleasure"
+    },
+    {
+      "term": "svasthaḥ",
+      "meaning": "established in oneself; अपने आधार में स्थित"
+    },
+    {
+      "term": "dhīraḥ",
+      "meaning": "steady or firm; धीर"
+    },
+    {
+      "term": "tulyanindātmasaṃstutiḥ",
+      "meaning": "equal in blame and praise of oneself"
+    }
+  ],
+  "spokenHindi": "कृष्ण समता के कई रूप रखते हैं: सुख और दुख में समान, अपने आधार में स्थित, मिट्टी के ढेले, पत्थर और सोने के प्रति समान, प्रिय और अप्रिय में तुल्य, तथा निंदा और प्रशंसा में धीर। इसका अर्थ व्यवहार में हर वस्तु की कीमत एक ही मानना नहीं है। सोना सँभालना और मिट्टी उठाना अलग काम हैं। बात उस भीतर की पकड़ पर है जिससे वस्तु या दूसरों की राय हमारा पूरा मूल्य तय करने लगती है। कोई हमारी प्रशंसा करे तो सुनें; आलोचना करे तो तथ्य देखें। उपयोगी सुधार और अपमानजनक व्यवहार के बीच अंतर करना अभी भी जरूरी है। समता संवेदना खोना नहीं। दुख में देखभाल लेना और दूसरों के दुख में साथ देना इसके विरुद्ध नहीं है। आज एक छोटा अभ्यास चुनें: मिली प्रतिक्रिया में तथ्य अलग लिखें और अपनी कीमत के बारे में उठी कहानी अलग। यह आधुनिक अनुप्रयोग है। श्लोक का आदर्श इससे बड़ा है, पर यह अंतर धैर्य से प्रतिक्रिया देने की शुरुआत कर सकता है।",
+  "clearEnglish": "Krishna expands steadiness across several contrasts: pain and pleasure, clod and stone and gold, the liked and disliked, and blame and self-directed praise. The person is established in the self and remains firm. Equal regard does not erase practical distinctions. Gold and soil have different uses, and useful criticism differs from degrading treatment. The description challenges the inner dependence through which objects or reputation dictate one's whole sense of worth. A contemporary application is to separate feedback's factual content from the identity story it triggers. Praise may contain information without requiring inflation; criticism may contain a needed correction without establishing total failure. These applications concern a limited practice of discernment and do not claim the complete attainment named in the chapter. Equanimity can also coexist with compassion and boundaries. Feeling pain, accepting help, and addressing mistreatment remain responsible. The verse's steadiness concerns how the self is anchored amid changing experiences, rather than the suppression of every emotional response.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The described person is equal in pain and pleasure, material contrasts, liking and disliking, and blame and praise, while established in the self."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Separating useful feedback from an identity judgment applies steadiness without erasing practical distinctions or boundaries."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "From one piece of feedback, write its usable fact and the separate story it stirred about your worth."
+    }
+  ],
+  "reflectionQuestion": "Which part of this feedback is information, and which part have I made my identity?",
+  "reflectionQuestionHindi": "इस प्रतिक्रिया में क्या सूचना है और किस हिस्से को मैंने अपनी पहचान बना लिया?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

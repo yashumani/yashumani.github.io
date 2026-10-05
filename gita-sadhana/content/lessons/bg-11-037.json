@@ -1,0 +1,71 @@
+{
+  "id": "bg-11-037",
+  "sequenceNumber": 451,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 37,
+  "verseEnd": 37,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "सृष्टिकर्ता से भी पूर्व / The source before the creator",
+  "context": "Arjuna asks why beings would not bow to Krishna, whom he names as the creator's source and beyond being and nonbeing.",
+  "contextHindi": "अर्जुन कृष्ण को ब्रह्मा के भी आदिकारण और सत असत से परे अक्षर कहकर प्रणाम का कारण बताते हैं।",
+  "sanskritDevanagari": "कस्माच्च ते न नमेरन्महात्मन्\nगरीयसे ब्रह्मणोऽप्यादिकर्त्रे |\nअनन्त देवेश जगन्निवास\nत्वमक्षरं सदसत्तत्परं यत् ||११-३७||",
+  "transliteration": "kasmācca te na nameranmahātman garīyase brahmaṇo.apyādikartre .\nananta deveśa jagannivāsa tvamakṣaraṃ sadasattatparaṃ yat ||11-37||",
+  "wordByWord": [
+    {
+      "term": "आदिकर्त्रे",
+      "meaning": "primal cause or original maker"
+    },
+    {
+      "term": "ब्रह्मणः",
+      "meaning": "of Brahma, the creator in this edition"
+    },
+    {
+      "term": "सत् असत्",
+      "meaning": "being and nonbeing"
+    },
+    {
+      "term": "तत्परम्",
+      "meaning": "beyond that"
+    }
+  ],
+  "spokenHindi": "अर्जुन पूछते हैं कि हे महान आत्मा, सब आपको प्रणाम क्यों न करें, जब आप ब्रह्मा सृष्टिकर्ता के भी मूल कारण हैं? वे कृष्ण को अनंत, देवेश, जगन्निवास, अक्षर और सत तथा असत से परे कहते हैं। यहाँ ब्रह्मणः को दिए गए संस्करण में सृष्टिकर्ता ब्रह्मा से जोड़ा गया है। सत और असत अस्तित्व तथा अनस्तित्व की धार्मिक दार्शनिक भाषा है; उन्हें रोजमर्रा में केवल अच्छे और बुरे व्यक्ति के अर्थ में रख देना संदर्भ खो देगा। स्वामी शिवानंद की टिप्पणी इस महानता और अक्षर स्वरूप के कारण कृष्ण को प्रेम, पूजा और आनंद का योग्य विषय कहती है। वह टिप्पणी का विस्तार है। अर्जुन अभी भी अपने स्वीकार को प्रश्नरूप स्तुति में कह रहे हैं। हमारा उपयोग किसी सम्मान का आधार पूछना हो सकता है। मैं किस क्षमता, योगदान या मूल्य को सम्मान दे रहा हूँ? साधारण व्यक्ति के लिए सीमित सम्मान पर्याप्त है; उसे दिव्य अक्षर घोषित करना जरूरी नहीं। कारण स्पष्ट हो तो प्रशंसा अधिक सटीक और जिम्मेदार बन सकती है।",
+  "clearEnglish": "Arjuna gives a reason for reverence: Krishna is greater even than the creator and is the primal cause of Brahma. He is infinite, the abode of the universe, imperishable, being and nonbeing, and beyond both. The supplied edition reads Brahmanah here with reference to Brahma, the creator. Sat and asat should likewise retain their metaphysical setting rather than being simplified into good people and bad people. The question why would they not bow functions as praise, not as an instruction for a modern listener to demand obeisance from others. Sivananda's commentary associates Krishna's greatness and imperishability with his worthiness of worship, love and delight. That is a named interpretive expansion. A modest application is to make reasons for ordinary respect explicit. Identify a person's real contribution or a value demonstrated, while keeping the judgment bounded. Respect need not become deification. The verse's divine language concerns Krishna's relation to creation, and an ordinary act of appreciation should preserve that difference.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna names Krishna as the creator's source, imperishable and beyond being and nonbeing."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Giving precise reasons for ordinary respect is an application; divine praise does not justify demanding human obeisance."
+    },
+    {
+      "label": "COMMENTARY — Swami Sivananda",
+      "explanation": "Sivananda connects Krishna's greatness and imperishability with being a proper object of worship, love and delight."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "State a reason for respect",
+      "text": "Identify one concrete contribution you respect in someone. Express it specifically, without requiring agreement with every claim they make."
+    }
+  ],
+  "reflectionQuestion": "What exactly am I honoring when I express respect?",
+  "reflectionQuestionHindi": "आदर व्यक्त करते समय मैं वास्तव में किस बात का सम्मान कर रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

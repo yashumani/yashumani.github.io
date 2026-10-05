@@ -1,0 +1,67 @@
+{
+  "id": "bg-12-009",
+  "sequenceNumber": 478,
+  "date": "2026-10-05",
+  "chapter": 12,
+  "verseStart": 9,
+  "verseEnd": 9,
+  "chapterNameSanskrit": "भक्तियोग",
+  "chapterNameEnglish": "Bhakti Yoga",
+  "theme": "स्थिरता कठिन हो तो अभ्यास / Practice when steadiness is difficult",
+  "context": "Krishna offers repeated practice if Arjuna cannot steadily place his mind in him.",
+  "contextHindi": "कृष्ण कहते हैं कि यदि मन उन्हें स्थिर रूप से नहीं दिया जा सकता, तो अभ्यासयोग से उनकी ओर बढ़ें।",
+  "sanskritDevanagari": "अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम् |\nअभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय ||१२-९||",
+  "transliteration": "atha cittaṃ samādhātuṃ na śaknoṣi mayi sthiram .\nabhyāsayogena tato māmicchāptuṃ dhanañjaya ||12-9||",
+  "wordByWord": [
+    {
+      "term": "समाधातुम्",
+      "meaning": "to settle or establish"
+    },
+    {
+      "term": "न शक्नोषि",
+      "meaning": "you are unable"
+    },
+    {
+      "term": "अभ्यासयोगेन",
+      "meaning": "through the yoga of repeated practice"
+    },
+    {
+      "term": "आप्तुम्",
+      "meaning": "to reach or attain"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि यदि तुम मन को मेरे में स्थिर नहीं रख सकते, तो अभ्यासयोग से मुझे पाने की इच्छा करो। यह पिछले सीधे निर्देश के बाद एक नया प्रवेश है। न शक्नोषि में क्षमता की वास्तविक बात है, अपमान नहीं। लक्ष्य बना रहता है, तरीका दोहराए जाने वाले अभ्यास में खुलता है। अभ्यास केवल एक बार बहुत जोर लगाना नहीं; लौटने की दिशा है। इस श्लोक में कोई तय अवधि या गिनती नहीं दी गई। इसलिए हमारा छोटा उपयोग अपनी परिस्थिति के अनुकूल समय चुनना हो सकता है। एक मिनट किसी अर्थपूर्ण स्मरण पर ध्यान दें, मन हटे तो पता लगने पर फिर लौटें। ये हमारी विधि के विवरण हैं, कृष्ण का पूरा शब्दशः कार्यक्रम नहीं। दिन छूट जाए तो कठोर दंड देने के बजाय अगले अवसर पर फिर शुरू करना संभव है। अभ्यास का उद्देश्य संबंध की दिशा याद करना हो, केवल लगातार दिनों का हिसाब नहीं। कृष्ण के उत्तर में कठिनाई के बाद रास्ता बंद नहीं होता। यह लचीला क्रम हमें अपनी वर्तमान क्षमता पहचानते हुए भी सीखते रहने का संकेत देता है।",
+  "clearEnglish": "The conditional instruction responds to difficulty rather than treating it as disqualification. If Arjuna cannot steadily establish his mind in Krishna, he should seek him through the yoga of practice. The goal remains, while the way of approaching it becomes repeated engagement. Abhyasa is not described as one intense effort that must succeed immediately. The verse also does not set a fixed duration, count or punishment for an interruption. A practical inference is to choose a manageable period and return when attention moves. The specific one-minute method is ours, not the verse's entire program. If a day is missed, resume rather than using the lapse as a verdict on personal worth. This preserves the purpose of repetition without making it solely a record of consecutive performances. The surrounding passage will offer other approaches too, so the alternative is part of a flexible sequence. Krishna's stated instruction gives difficulty a next step, and a modern practice should retain that openness instead of adding avoidable pressure.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna offers abhyasa yoga if Arjuna cannot hold the mind steadily in him."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Manageable repetition and resuming after interruption are applications; no numerical or punitive rule is given."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "A manageable return",
+      "text": "Choose one minute of meaningful reflection. When attention moves, return gently; after an interruption, resume at the next suitable opportunity without punishment."
+    }
+  ],
+  "reflectionQuestion": "What small repetition can I sustain without turning it into a harsh score?",
+  "reflectionQuestionHindi": "कौन सा छोटा दोहराव मैं उसे कठोर हिसाब बनाए बिना निभा सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

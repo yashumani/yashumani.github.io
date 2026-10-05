@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-075",
+  "sequenceNumber": 698,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 75,
+  "verseEnd": 75,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Sanjaya credits his hearing to Vyasa / संजय सुनने का श्रेय व्यास को देता है",
+  "context": "Sanjaya explains how he was able to hear the intimate teaching directly as Krishna spoke.",
+  "contextHindi": "संजय बताता है कि कृष्ण के स्वयं कहे गए इस गहन योग को वह किस कृपा से सुन सका।",
+  "sanskritDevanagari": "व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम् |\nयोगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम् ||१८-७५||",
+  "transliteration": "vyāsaprasādācchrutavānetadguhyamahaṃ param .\nyogaṃ yogeśvarātkṛṣṇātsākṣātkathayataḥ svayam ||18-75||",
+  "wordByWord": [
+    {
+      "term": "vyāsa prasādāt",
+      "meaning": "through Vyasa's grace"
+    },
+    {
+      "term": "śrutavān",
+      "meaning": "I heard"
+    },
+    {
+      "term": "guhyam param",
+      "meaning": "supreme, intimate teaching"
+    },
+    {
+      "term": "yogeśvarāt kṛṣṇāt",
+      "meaning": "from Krishna, Lord of Yoga"
+    },
+    {
+      "term": "sākṣāt",
+      "meaning": "directly"
+    }
+  ],
+  "spokenHindi": "संजय आगे कहता है कि व्यास की कृपा से उसने यह परम गुह्य योग सुना, और स्वयं योगेश्वर कृष्ण को इसे कहते हुए सीधे सुना। यहाँ सुनने का श्रेय वह अपनी निजी चतुराई को नहीं देता। व्यासप्रसादात् कथन की कथा के भीतर सुनने की विशेष क्षमता का कारण बताता है। योगेश्वरात् कृष्णात् वक्ता की पहचान स्पष्ट करता है, और साक्षात् सुनने की निकटता पर जोर देता है। यह संजय का वर्णन है, कृष्ण का नया उपदेश नहीं। हमें इसे पढ़ते हुए दो स्तर याद रखने चाहिए: रणभूमि में कृष्ण अर्जुन से बोलते हैं, और संजय धृतराष्ट्र को उस संवाद का वृत्तांत देता है। इस कथात्मक ढाँचे को भूलने से किसी का कथन दूसरे के नाम लग सकता है। आज हम इससे स्रोत के प्रति ईमानदारी का अभ्यास निकाल सकते हैं। जब किसी गहरी बात का वर्णन करें, बताएँ कि हमने उसे स्वयं सुना, किसी से जाना, या किसी पुस्तक में पढ़ा। यह आधुनिक अनुप्रयोग है; श्लोक आधुनिक संदर्भ सूची नहीं बनाता। संजय अपनी पहुँच का कारण बताकर श्रोता को समझने में मदद करता है कि उसकी गवाही कहाँ से आती है।",
+  "clearEnglish": "Sanjaya explains his access to the conversation. Through Vyasa's grace, he says, he heard this supreme and hidden yoga directly from Krishna, the Lord of Yoga, as Krishna himself spoke. The claim belongs to Sanjaya's narration. It is not a fresh command by Krishna to Arjuna, nor a claim that every later reader has Sanjaya's mode of hearing. Several words work together: Vyasa's favor explains the access, sākṣāt stresses immediacy, and yogeśvara identifies the source of the teaching. The passage asks us to keep the narrative layers clear: Krishna addresses Arjuna on the battlefield; Sanjaya reports that exchange to the king. A modern inference is to state how we know what we are recounting. Firsthand experience, a remembered report, and a written source deserve different descriptions. This source honesty protects the listener from misplaced certainty. It need not diminish the value of a tradition or a text. Sanjaya's own humility about the means of hearing helps anchor the closing testimony in its specific story.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Sanjaya attributes his hearing of Krishna's directly spoken supreme yoga to Vyasa's grace."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Being clear about how one received a teaching is an ethical modern use of Sanjaya's stated provenance, not an added claim about how everyone hears."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Name the source / स्रोत बताएँ",
+      "text": "When retelling an important claim, say whether you heard it firsthand, received a report, or read it in a source."
+    }
+  ],
+  "reflectionQuestion": "When I share a powerful story, do I make clear how I learned it?",
+  "reflectionQuestionHindi": "जब मैं कोई असरदार बात सुनाता या सुनाती हूँ, क्या बताता हूँ कि वह मुझे कैसे पता चली?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "bg-05-022",
+  "sequenceNumber": 226,
+  "date": "2026-10-05",
+  "chapter": 5,
+  "verseStart": 22,
+  "verseEnd": 22,
+  "chapterNameSanskrit": "कर्मसंन्यासयोग",
+  "chapterNameEnglish": "Karma Sannyāsa Yoga",
+  "theme": "क्षणभंगुर सुख की पहचान; discernment about pleasures that begin and end.",
+  "context": "After describing happiness found in the Self, Krishna contrasts it with enjoyments arising from contact. He says these are generators of pain, have a beginning and an end, and the wise do not rejoice in them.",
+  "contextHindi": "पिछले श्लोक में कृष्ण ने भीतर के सुख की बात की। अब वे उससे तुलना करते हुए बताते हैं कि इंद्रियों और वस्तुओं के संपर्क से मिलने वाले भोग आरंभ और अंत वाले हैं।",
+  "sanskritDevanagari": "ये हि संस्पर्शजा भोगा दुःखयोनय एव ते |\nआद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः ||५-२२||",
+  "transliteration": "ye hi saṃsparśajā bhogā duḥkhayonaya eva te .\nādyantavantaḥ kaunteya na teṣu ramate budhaḥ ||5-22||",
+  "wordByWord": [
+    {
+      "term": "संस्पर्शजाः",
+      "meaning": "Born of contact, especially the meeting of senses and their objects."
+    },
+    {
+      "term": "भोगाः",
+      "meaning": "Enjoyments or experiences of pleasure; not necessarily every ordinary activity."
+    },
+    {
+      "term": "दुःखयोनयः",
+      "meaning": "Generators of pain only; दुःख के ही जनक।"
+    },
+    {
+      "term": "आद्यन्तवन्तः",
+      "meaning": "Having a beginning and an end, and therefore subject to change."
+    },
+    {
+      "term": "बुधः",
+      "meaning": "The discerning or wise person, who sees the limits of temporary pleasures."
+    }
+  ],
+  "spokenHindi": "पिछले श्लोक में कृष्ण ने आत्मा में मिलने वाले सुख की बात की। इस श्लोक में वे संपर्क से पैदा होने वाले भोगों की बात करते हैं। ‘संस्पर्शज’ का अर्थ है संपर्क से जन्मा। ‘दुःखयोनयः’ का अर्थ है दुःख के ही जनक। कृष्ण का कथन सीधा है: ये भोग दुःख के जनक हैं, इनका आदि और अंत है, और ज्ञानी इनमें आनंद नहीं लेता। ‘आद्यन्तवन्तः’ का अर्थ है जिनका आरंभ और अंत हो। ‘न तेषु रमते बुधः’ का अर्थ है कि ज्ञानी उनमें रमण या आनंद नहीं करता। यह श्लोक का कथन है। इसकी व्यावहारिक व्याख्या में हम कह सकते हैं कि बदलने वाली चीज़ों से स्थायी सुरक्षा की अपेक्षा करना आसक्ति और पीड़ा ला सकता है। यह व्याख्या है, ‘दुःखयोनयः’ का शाब्दिक अर्थ नहीं। श्लोक को इस तरह समझना भी ज़रूरी है कि यह किसी के दुःख को दोष नहीं ठहराता। यह हमें भोगों की सीमित अवधि और उनके दुःखदायी स्वरूप पर विचार करने को कहता है।",
+  "clearEnglish": "In the previous verse, Krishna spoke of happiness found in the Self. Here he speaks of enjoyments born of contact. “Contact-born” means arising from contact; “having a beginning and an end” means temporary. The verse’s direct claims are strong: these enjoyments are generators of pain only, and the wise do not rejoice in them. “The wise do not rejoice in them” does not say merely that wise people avoid depending on them for lasting fulfillment; it says they do not take delight in them. The suggestion that expecting changing things to provide permanent security can bring attachment and distress is a practical interpretation, not the literal definition of “generators of pain.” Nor does the verse warrant shaming anyone who experiences grief. It invites reflection on the limited duration and painful nature of contact-born enjoyments. We can distinguish that direct teaching from further interpretation without turning the verse’s claim into a qualification.",
+  "interpretationPerspectives": [
+    {
+      "label": "Text",
+      "explanation": "The verse says contact-born enjoyments are generators of pain only, have a beginning and an end, and the wise do not rejoice in them."
+    },
+    {
+      "label": "Inference",
+      "explanation": "The suggestion to enjoy temporary experiences without demanding permanence applies the verse to daily life; it is not a claim that all sensory pleasure is harmful."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Enjoy without clinging",
+      "text": "Choose one pleasant moment today and notice it with gratitude, while acknowledging that it will change."
+    },
+    {
+      "label": "Watch the urge to repeat",
+      "text": "When you feel compelled to recreate a pleasure immediately, pause and ask what you are hoping it will secure for you."
+    }
+  ],
+  "reflectionQuestion": "When does a temporary pleasure become something I feel I must have in order to be all right?",
+  "reflectionQuestionHindi": "कब कोई क्षणिक सुख ऐसा बन जाता है जिसके बिना मुझे लगता है कि मैं ठीक नहीं रह सकता?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

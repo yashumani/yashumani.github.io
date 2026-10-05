@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-018",
+  "sequenceNumber": 589,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 18,
+  "verseEnd": 18,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "देहों में ईश्वर का अनादर / Hatred of the indwelling Lord",
+  "context": "Krishna identifies egoism and hostile dispositions as hatred of him in one's own and others' bodies.",
+  "contextHindi": "कृष्ण अहंकार और शत्रुता को अपने तथा दूसरों के शरीर में उपस्थित उनके प्रति द्वेष से जोड़ते हैं।",
+  "sanskritDevanagari": "अहंकारं बलं दर्पं कामं क्रोधं च संश्रिताः |\nमामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयकाः ||१६-१८||",
+  "transliteration": "ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ ca saṃśritāḥ .\nmāmātmaparadeheṣu pradviṣanto.abhyasūyakāḥ ||16-18||",
+  "wordByWord": [
+    {
+      "term": "ahaṃkāram",
+      "meaning": "Egoism"
+    },
+    {
+      "term": "darpam",
+      "meaning": "Haughtiness"
+    },
+    {
+      "term": "ātmaparadeheṣu",
+      "meaning": "In one's own and others' bodies"
+    },
+    {
+      "term": "pradviṣantaḥ",
+      "meaning": "Hating intensely"
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण कहते हैं कि अहंकार, बल, घमंड, कामना और क्रोध पर टिके लोग अपने और दूसरों के शरीर में उनके प्रति द्वेष करते हैं। यह धार्मिक कथन है: कृष्ण अपने को देहों में उपस्थित बताते हैं। उसे केवल सामाजिक शिष्टाचार तक सीमित कर देना अर्थ को छोटा करेगा। साथ ही आधुनिक नैतिक अभ्यास में इस बात से शरीर और व्यक्ति की गरिमा के प्रति सजगता मिल सकती है। जब हम किसी को केवल उपयोग की वस्तु या रुकावट समझते हैं, तो सम्मान की जगह अपनी इच्छा ले लेती है। अपने शरीर के प्रति तिरस्कार भी अभ्यास का आधार नहीं होना चाहिए। जरूरी आराम, भोजन या सहायता को अहंकार कहकर हटाना उचित नहीं। इस श्लोक का प्रसंग क्रूर और द्वेषपूर्ण दिशा है, सामान्य जरूरतें नहीं। आज किसी ऐसे व्यक्ति के साथ व्यवहार देखें जिसे आप छोटा समझने लगे हैं। असहमति रह सकती है, लेकिन अपमान हटाया जा सकता है। सीमा तय करते समय भी उसके जीवन का मूल्य और अपनी सुरक्षा दोनों याद रखें।",
+  "clearEnglish": "Krishna says that people relying on egoism, force, arrogance, desire, and anger hate him in their own bodies and in those of others. This is a theological statement about his presence, not merely a recommendation to be polite. Its ethical significance can be explored without replacing that statement. If another person is viewed solely as an instrument or obstacle, the person's own worth disappears from the decision. The verse's criticism of hatred invites attention to that reduction. A contemporary inference can include respectful treatment of one's own body as well, while avoiding claims that illness or difficulty signals spiritual hostility. Food, rest, care, and protection are legitimate needs. Nor does recognizing dignity mean removing all boundaries or trusting unsafe conduct. In one disagreement, practise naming the objection without reducing the other person to a contemptuous label. Preserve your protection and accountability while examining whether egoism is adding humiliation to an already difficult situation.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes hatred of him in one's own and others' bodies, arising with egoism, force, pride, desire, and anger."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Protecting dignity while retaining appropriate boundaries is an application of this theological statement."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Objection without contempt",
+      "text": "State one disagreement by naming the conduct and needed change, leaving out demeaning labels."
+    }
+  ],
+  "reflectionQuestion": "Where has my objection become contempt for a whole person?",
+  "reflectionQuestionHindi": "कहाँ मेरा विरोध किसी पूरे व्यक्ति के तिरस्कार में बदल गया है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

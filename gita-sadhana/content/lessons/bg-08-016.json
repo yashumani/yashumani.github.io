@@ -1,0 +1,71 @@
+{
+  "id": "bg-08-016",
+  "sequenceNumber": 326,
+  "date": "2026-10-05",
+  "chapter": 8,
+  "verseStart": 16,
+  "verseEnd": 16,
+  "chapterNameSanskrit": "अक्षरब्रह्मयोग",
+  "chapterNameEnglish": "Akṣara Brahma Yoga",
+  "theme": "ब्रह्मलोक तक पुनरावृत्ति | Return even from Brahma's world",
+  "context": "Krishna extends the contrast between rebirth and attaining him to the whole range of worlds.",
+  "contextHindi": "कृष्ण पुनर्जन्म और अपनी प्राप्ति का अंतर सभी लोकों तक फैलाते हैं।",
+  "sanskritDevanagari": "आब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन |\nमामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते ||८-१६||",
+  "transliteration": "ābrahmabhuvanāllokāḥ punarāvartino.arjuna .\nmāmupetya tu kaunteya punarjanma na vidyate ||8-16||",
+  "wordByWord": [
+    {
+      "term": "आब्रह्मभुवनात्",
+      "meaning": "Up to and including the world of Brahma."
+    },
+    {
+      "term": "लोकाः",
+      "meaning": "Worlds or realms."
+    },
+    {
+      "term": "पुनरावर्तिनः",
+      "meaning": "Subject to return."
+    },
+    {
+      "term": "माम् उपेत्य",
+      "meaning": "Having attained me."
+    },
+    {
+      "term": "न विद्यते",
+      "meaning": "Does not exist."
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण कहते हैं कि ब्रह्मा के लोक तक सभी लोकों से लौटना होता है। लेकिन उन्हें प्राप्त करने पर पुनर्जन्म नहीं होता। ब्रह्मा के लोक का उल्लेख यहाँ बहुत ऊँची अवस्था को भी लौटने वाले क्षेत्र में रखता है। ब्रह्मा और ब्रह्म शब्दों को एक ही अर्थ में मिला देना उचित नहीं है। यहाँ सृष्टिकर्ता ब्रह्मा के लोक की बात है। कृष्ण का कथन किसी आधुनिक अंतरिक्ष यात्रा का विवरण नहीं, गीता के लोक और मुक्ति संबंधी दर्शन का हिस्सा है। इसका व्यावहारिक संकेत हम इस तरह ले सकते हैं कि सफलता की ऊँचाई अपने आप स्थायी स्वतंत्रता नहीं बन जाती। कोई सम्मान, सुविधा या पद मिलना बहुत मूल्यवान हो सकता है, फिर भी वह बदलती परिस्थितियों में रहता है। इससे मेहनत छोड़ना ज़रूरी नहीं। बल्कि पूछ सकते हैं कि मेहनत किस गहरे उद्देश्य की सेवा करती है। दूसरों से ऊँचा दिखने के बजाय काम की उपयोगिता को देखना एक छोटा अभ्यास है। यह हमारा आधुनिक निष्कर्ष है; श्लोक स्वयं कृष्ण की प्राप्ति और पुनर्जन्म के अंतर को स्पष्ट करता है।",
+  "clearEnglish": "Even the world of Brahma belongs to the range of worlds from which return occurs. Krishna contrasts that entire range with attaining him, after which rebirth does not exist. Brahma here is the creator whose world is named; it should not be casually confused with Brahman, the imperishable reality discussed earlier. The verse places even exalted cosmic attainment within recurrence. Its claim is religious and metaphysical, not a description of destinations accessible by scientific instruments. For contemporary reflection, the contrast can expose a familiar mistake: assuming that a higher position will finally remove all vulnerability. A promotion or celebrated achievement may change circumstances significantly without becoming an unchanging refuge. This analogy need not discourage effort. It can help us distinguish useful goals from unlimited promises we attach to them. The text's ultimate alternative remains attainment of Krishna, not merely a balanced career. A reader can preserve that distinction while asking whether present ambitions serve meaningful work, relationships, and spiritual commitment rather than an endless need to outrank others.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "All worlds up to Brahma's world involve return; one who attains Krishna has no rebirth."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Even elevated achievements can remain provisional; this analogy can clarify expectations without replacing the verse's theological goal."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Ask what the goal serves",
+      "text": "Choose one ambition and write who or what it serves beyond status."
+    }
+  ],
+  "reflectionQuestion": "What do I expect a higher position to finally solve?",
+  "reflectionQuestionHindi": "किस ऊँचे पद से मैं अपनी कौन-सी समस्या हमेशा के लिए हल होने की अपेक्षा रखता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

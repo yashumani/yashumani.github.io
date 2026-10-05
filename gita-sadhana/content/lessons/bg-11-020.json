@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-020",
+  "sequenceNumber": 434,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 20,
+  "verseEnd": 20,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "विस्मय और भय साथ / Wonder and fear together",
+  "context": "Arjuna says Krishna fills the space and directions, and the three worlds tremble before the wondrous fierce form.",
+  "contextHindi": "अर्जुन कहते हैं कि कृष्ण सारी दिशाएँ भरते हैं और अद्भुत उग्र रूप देखकर तीनों लोक व्यथित हैं।",
+  "sanskritDevanagari": "द्यावापृथिव्योरिदमन्तरं हि\nव्याप्तं त्वयैकेन दिशश्च सर्वाः |\nदृष्ट्वाद्भुतं रूपमुग्रं तवेदं\nलोकत्रयं प्रव्यथितं महात्मन् ||११-२०||",
+  "transliteration": "dyāvāpṛthivyoridamantaraṃ hi vyāptaṃ tvayaikena diśaśca sarvāḥ .\ndṛṣṭvādbhutaṃ rūpamugraṃ tavedaṃ lokatrayaṃ pravyathitaṃ mahātman ||11-20||",
+  "wordByWord": [
+    {
+      "term": "व्याप्तम्",
+      "meaning": "pervaded or filled"
+    },
+    {
+      "term": "दिशः सर्वाः",
+      "meaning": "all directions"
+    },
+    {
+      "term": "अद्भुतम् उग्रम्",
+      "meaning": "wondrous and fierce"
+    },
+    {
+      "term": "प्रव्यथितम्",
+      "meaning": "deeply shaken or terrified"
+    }
+  ],
+  "spokenHindi": "अर्जुन कहते हैं कि पृथ्वी और आकाश के बीच का स्थान और सभी दिशाएँ कृष्ण से भरी हैं। फिर कहते हैं कि इस अद्भुत और उग्र रूप को देखकर तीनों लोक डर से कांप रहे हैं। अद्भुत और उग्र साथ हैं। किसी बड़े अनुभव में विस्मय हो सकता है और भय भी; यहाँ दोनों को वर्णन में जगह मिलती है। तीन लोक धार्मिक विश्ववर्णन की भाषा है, कोई आज का भौगोलिक नक्शा नहीं। अर्जुन केवल अपनी निजी प्रतिक्रिया अभी नहीं कह रहे, पूरे दृश्य की व्यापक व्यथा बता रहे हैं। उनका अपना भय आगे साफ होगा। हमारा उपयोग यह हो सकता है कि किसी जटिल अनुभव को सिर्फ अच्छा या बुरा कहने की जल्दी रोकें। नया अवसर उत्साह और बेचैनी दोनों ला सकता है। यह साधारण उदाहरण दिव्य दर्शन नहीं, लेकिन दो भावों को ईमानदारी से नाम देने का अभ्यास है। जरूरी हो तो सीमित विराम और भरोसेमंद बातचीत लें। किसी की घबराहट को श्रद्धा की कमी कहकर दबाना इस कथा से उचित नहीं निकलता; भय यहाँ कथित दृश्य का वास्तविक हिस्सा है।",
+  "clearEnglish": "Arjuna describes a space entirely filled: between earth and heaven and in every direction. He then says that the three worlds tremble at the wondrous and fierce form. Adbhuta and ugra coexist, so wonder cannot be reduced to simple enjoyment. The three-world language belongs to the religious cosmology of the scene, not a contemporary geographic map. At this point Arjuna speaks about the worlds' response; later he will explicitly include his own fear. The sequence lets the emotional force of the vision develop rather than dismissing it. A practical inference is to allow more than one response to a major event. A new opportunity may bring interest and unease at once. Naming both need not make the person inconsistent. A pause or a conversation with someone trusted may help ordinary decisions remain grounded. That support is our application, not a technique for recreating the vision. Nothing in the verse makes another person's distress evidence of inadequate faith; fear is part of what Arjuna reports.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna says the space and directions are pervaded, and the three worlds are terrified by the wondrous fierce form."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Mixed emotions can be acknowledged; fear is not grounds for accusing someone of insufficient faith."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Name two responses",
+      "text": "For one significant event, name two feelings that coexist. Choose a small next step and appropriate support without demanding that one feeling disappear."
+    }
+  ],
+  "reflectionQuestion": "Can I acknowledge interest and fear without forcing a single label?",
+  "reflectionQuestionHindi": "क्या मैं उत्सुकता और भय दोनों को मान सकता हूँ, एक ही भाव का नाम देने की मजबूरी के बिना?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

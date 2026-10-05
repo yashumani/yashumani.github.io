@@ -1,0 +1,67 @@
+{
+  "id": "bg-03-011",
+  "sequenceNumber": 130,
+  "date": "2026-10-05",
+  "chapter": 3,
+  "verseStart": 11,
+  "verseEnd": 11,
+  "chapterNameSanskrit": "कर्मयोग",
+  "chapterNameEnglish": "Karma Yoga",
+  "theme": "पारस्परिक पोषण और साझा कल्याण / Reciprocal care and shared well-being",
+  "context": "Continuing the teaching about yajña, or action understood as an offering, Krishna describes a relationship of mutual support between people and the devas. The verse presents that relationship as a way toward the highest good.",
+  "contextHindi": "पिछले श्लोक में कृष्ण ने यज्ञ के भाव से कर्म करने की बात कही थी। यहाँ वे मनुष्यों और देवों के बीच परस्पर पोषण का संबंध बताते हैं और कहते हैं कि इससे परम कल्याण की ओर बढ़ा जा सकता है।",
+  "sanskritDevanagari": "देवान्भावयतानेन ते देवा भावयन्तु वः |\nपरस्परं भावयन्तः श्रेयः परमवाप्स्यथ ||३-११||",
+  "transliteration": "devānbhāvayatānena te devā bhāvayantu vaḥ .\nparasparaṃ bhāvayantaḥ śreyaḥ paramavāpsyatha ||3-11||",
+  "wordByWord": [
+    {
+      "term": "देवान् (devān)",
+      "meaning": "The devas, or divine beings in the verse’s religious frame; देवों."
+    },
+    {
+      "term": "भावयत (bhāvayata)",
+      "meaning": "Foster, nourish, or strengthen; यहाँ पोषण और संवर्धन का भाव है."
+    },
+    {
+      "term": "परस्परम् (parasparam)",
+      "meaning": "Mutually, in relation to one another."
+    },
+    {
+      "term": "श्रेयः (śreyaḥ)",
+      "meaning": "The higher good or what is truly beneficial, not merely an immediate gain."
+    }
+  ],
+  "spokenHindi": "इस श्लोक में कृष्ण यज्ञ के भाव से जुड़ी एक पारस्परिकता बताते हैं। वे कहते हैं कि मनुष्य देवों का पोषण करें और देव भी मनुष्यों का पोषण करें; इस तरह एक-दूसरे को सहारा देते हुए परम कल्याण की ओर बढ़ा जा सकता है। यहाँ “भावयत” का अर्थ केवल भोजन देना नहीं, बल्कि संवर्धन करना भी है। “परस्परम्” इस संबंध के दोनों ओर ध्यान दिलाता है, और “श्रेयः” तत्काल लाभ से आगे के कल्याण की ओर संकेत करता है। पाठ के स्तर पर, TEXT, यह एक धार्मिक संसार-दृष्टि है जिसमें यज्ञ और देवों के साथ पारस्परिकता जुड़ी है। यह श्लोक अपने आप में यह नहीं बताता कि कोई खास आधुनिक प्राकृतिक घटना देवों के हस्तक्षेप से सिद्ध होती है। INFERENCE के रूप में, हम इसे इस स्मरण की तरह पढ़ सकते हैं कि जीवन सहयोग और प्राप्तियों के प्रति कृतज्ञता पर निर्भर है। रोज़मर्रा में इसका अर्थ हो सकता है कि हम अपने काम, समय और संसाधनों से उन लोगों तथा साझा व्यवस्थाओं का पोषण करें जिनसे हमारा जीवन जुड़ा है। इसे लेन-देन का हिसाब या किसी की कठिनाई के लिए दोषारोपण न बनाएँ।",
+  "clearEnglish": "Krishna describes a reciprocal pattern: people foster the devas, and the devas in turn foster people. The repeated idea of mutuality matters. This is not a picture of spiritual life as simply asking for benefits; it links receiving with participation and care. “Bhāvayata” can suggest nourishing or helping something flourish, while “śreyaḥ” points beyond a quick reward toward a deeper good. TEXT: the verse speaks within a religious framework in which yajña and relations with devas sustain a shared order. It does not specify a testable mechanism for any particular event, nor does it establish that hardship proves a person has failed in devotion. INFERENCE: a modern reader can take the verse as an invitation to notice that well-being is interdependent. We benefit from people, communities, and the conditions that support life; our choices can also help or harm those shared supports. The application need not erase the verse’s devotional meaning. Someone who understands devas literally may hear a call to reciprocal worship, while another may emphasize gratitude and responsibility. Either way, the verse challenges a purely extractive attitude: receiving well is connected to giving care.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse explicitly describes reciprocal fostering between people and devas and connects it with attaining the highest good."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Reading this as a reminder of human interdependence is a contemporary application, not a claim that the verse names modern institutions or natural processes."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Notice what sustains you",
+      "text": "Name one person or shared resource you relied on today, then offer practical care in return, such as thanks, help, or thoughtful use."
+    }
+  ],
+  "reflectionQuestion": "What supports your life that you could help sustain in return?",
+  "reflectionQuestionHindi": "आज आपके जीवन को कौन-सी सहायता मिली, और आप उसके बदले किस तरह देखभाल कर सकते हैं?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-18-023",
+  "sequenceNumber": 646,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 23,
+  "verseEnd": 23,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "आसक्ति रहित उचित कर्म / Sattvic action",
+  "context": "Krishna defines sattvic action as prescribed, free from attachment, attraction, aversion, and reward-seeking.",
+  "contextHindi": "कृष्ण नियत, आसक्ति रहित और राग, द्वेष तथा फल की चाह बिना किए कर्म को सात्त्विक बताते हैं।",
+  "sanskritDevanagari": "नियतं सङ्गरहितमरागद्वेषतः कृतम् |\nअफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्यते ||१८-२३||",
+  "transliteration": "niyataṃ saṅgarahitamarāgadveṣataḥ kṛtam .\naphalaprepsunā karma yattatsāttvikamucyate ||18-23||",
+  "wordByWord": [
+    {
+      "term": "niyatam",
+      "meaning": "Prescribed or ordained"
+    },
+    {
+      "term": "saṅgarahitam",
+      "meaning": "Free of attachment"
+    },
+    {
+      "term": "arāgadveṣataḥ",
+      "meaning": "Without attraction or aversion"
+    },
+    {
+      "term": "aphalaprepsunā",
+      "meaning": "By one not seeking fruit"
+    }
+  ],
+  "spokenHindi": "अब कृष्ण ज्ञान से कर्म की गुणवत्ता पर आते हैं। सात्त्विक कर्म नियत है, आसक्ति से मुक्त है, राग और द्वेष से नहीं किया गया, और करने वाला फल पाने की चाह से नहीं चला है। इस सूची में केवल बाहर की सफलता नहीं गिनी गई। काम का आधार और भीतर की प्रेरणा भी महत्व रखते हैं। राग और द्वेष से दूरी का मतलब संवेदना या सही विरोध खत्म करना नहीं। आधुनिक जिम्मेदारी में हम किसी व्यक्ति को पसंद करते हों या नहीं, उसके साथ निष्पक्ष तरीके से काम कर सकते हैं। यह अनुप्रयोग है, नियत कर्म की पूरी धार्मिक परिभाषा नहीं। आज किसी साझा काम में अपना तरीका देखें। क्या एक प्रिय व्यक्ति को छूट और अप्रिय व्यक्ति को कठोरता मिल रही है? जहाँ सम्भव हो, एक समान उचित मानक रखें। परिणाम की जांच करते रहें, लेकिन निजी लाभ की मांग से प्रक्रिया न बिगाड़ें। यदि गलती दिखे, तो सुधार करें। शांत प्रेरणा का दावा करने से अधिक भरोसेमंद है निष्पक्ष व्यवहार का वास्तविक प्रमाण।",
+  "clearEnglish": "Krishna defines sattvic action as prescribed, free of attachment, undertaken without attraction or aversion, and performed by someone not seeking its fruit. The classification attends to the act's basis and motive, not merely to a visible success. Freedom from attraction and aversion should not be confused with the absence of ethical concern. A contemporary application may seek fair treatment of people regardless of personal liking. That application does not fully define prescribed action in the religious passage. In a shared responsibility, examine whether affection excuses one person's conduct while dislike exaggerates another's fault. Use an appropriate common standard where the circumstances are comparable. Assess consequences and correct errors, while noticing whether private gain is shaping the method. Non-seeking is not a reason to stop checking usefulness. The practical exercise is modest: make one decision that can be explained by the task's legitimate purpose rather than by preference or a hoped-for personal reward. Observable fairness gives the reflection a concrete place to begin.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies prescribed action without attachment, attraction, aversion, or desire for fruit as sattvic."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Using fair standards despite personal preference is a modern application, not a complete definition of prescribed duty."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "A fair standard",
+      "text": "Check one decision for unequal treatment based on liking or dislike, and apply an appropriate fair standard."
+    }
+  ],
+  "reflectionQuestion": "Would I use the same relevant standard for someone I like less?",
+  "reflectionQuestionHindi": "जिसे कम पसंद करता हूँ, उसके लिए भी क्या यही उचित मानक रखूँगा?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

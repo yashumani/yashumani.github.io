@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-004",
+  "sequenceNumber": 575,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 4,
+  "verseEnd": 4,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "दिखावे का खतरा / The cost of pretence",
+  "context": "After the divine catalogue, Krishna names qualities belonging to the demoniacal disposition.",
+  "contextHindi": "दैवी गुण बताने के बाद कृष्ण आसुरी स्वभाव से जुड़े गुणों की ओर आते हैं।",
+  "sanskritDevanagari": "दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च |\nअज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् ||१६-४||",
+  "transliteration": "dambho darpo.abhimānaśca krodhaḥ pāruṣyameva ca .\najñānaṃ cābhijātasya pārtha sampadamāsurīm ||16-4||",
+  "wordByWord": [
+    {
+      "term": "dambhaḥ",
+      "meaning": "Hypocrisy or pretence"
+    },
+    {
+      "term": "darpaḥ",
+      "meaning": "Arrogance"
+    },
+    {
+      "term": "pāruṣyam",
+      "meaning": "Harshness"
+    },
+    {
+      "term": "ajñānam",
+      "meaning": "Ignorance"
+    }
+  ],
+  "spokenHindi": "अब कृष्ण दूसरी दिशा दिखाते हैं। दम्भ, घमंड, अपने को बड़ा मानना, क्रोध, कठोरता और अज्ञान आसुरी सम्पदा से जुड़े बताए गए हैं। यहाँ दम्भ का विशेष खतरा समझना जरूरी है। व्यक्ति अपने भीतर सुधार किए बिना बाहर धर्म या अच्छाई का रूप दिखा सकता है। तब प्रशंसा मिलती है, लेकिन व्यवहार की समस्या छिपी रहती है। कठोरता केवल तेज आवाज में नहीं आती; किसी की जरूरत को तुच्छ बताना भी कठोर हो सकता है। इस सूची को सुनकर दूसरों को आसुरी घोषित करना आसान है। अधिक उपयोगी प्रश्न यह है कि इन प्रवृत्तियों का कौन सा छोटा रूप मेरे व्यवहार में दिखाई देता है। यह अपने पूरे व्यक्तित्व को दोषी ठहराने का अभ्यास नहीं है। एक व्यवहार पहचाना जा सकता है और बदला जा सकता है। यदि गलती बताने पर हम तुरन्त क्रोधित हो जाते हैं, तो पहले रुककर तथ्य सुनें। फिर जहाँ सुधार जरूरी है, वहाँ कदम लें। सच्ची नम्रता दिखावे से नहीं, गलत बात सुधारने की तैयारी से सामने आती है।",
+  "clearEnglish": "Krishna now names hypocrisy, arrogance, self-conceit, anger, harshness, and ignorance as characteristics of the demoniacal disposition. The word hypocrisy is particularly revealing because religious appearance can coexist with damaging conduct. A person may speak the language of virtue while using status to avoid correction. The verse does not provide a license to diagnose every disliked person as demonic. Its moral contrast can instead support close examination of observable behaviour. Harshness, for example, may appear as contemptuous dismissal as well as an angry outburst. Ignorance in this catalogue belongs to a pattern of distorted judgement; it should not be confused with lack of formal education or with a medical condition. A practical reading asks what happens when one's preferred image meets an inconvenient fact. Do we investigate, or do we attack the messenger? Choose one instance where the wish to look good obstructed the work of becoming more honest. Repair that action without making a total judgement about your worth.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies hypocrisy, arrogance, self-conceit, anger, harshness, and ignorance with the demoniacal disposition."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Using the catalogue for behaviour-based self-examination avoids turning the verse into a label for disliked people."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Repair over appearance",
+      "text": "Acknowledge one specific mistake without defending your reputation, then name the repair."
+    }
+  ],
+  "reflectionQuestion": "Where does protecting my image block a needed correction?",
+  "reflectionQuestionHindi": "कहाँ अपनी छवि बचाने की इच्छा मुझे जरूरी सुधार से रोकती है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

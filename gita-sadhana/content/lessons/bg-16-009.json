@@ -1,0 +1,67 @@
+{
+  "id": "bg-16-009",
+  "sequenceNumber": 580,
+  "date": "2026-10-05",
+  "chapter": 16,
+  "verseStart": 9,
+  "verseEnd": 9,
+  "chapterNameSanskrit": "दैवासुरसम्पद्विभागयोग",
+  "chapterNameEnglish": "Daivāsura Sampad Vibhāga Yoga",
+  "theme": "दृष्टि से कर्म तक / Outlook and consequences",
+  "context": "Krishna connects the previously reported outlook with destructive action.",
+  "contextHindi": "कृष्ण पहले बताए गए आसुरी दृष्टिकोण का संबंध विनाशकारी कर्मों से जोड़ते हैं।",
+  "sanskritDevanagari": "एतां दृष्टिमवष्टभ्य नष्टात्मानोऽल्पबुद्धयः |\nप्रभवन्त्युग्रकर्माणः क्षयाय जगतोऽहिताः ||१६-९||",
+  "transliteration": "etāṃ dṛṣṭimavaṣṭabhya naṣṭātmāno.alpabuddhayaḥ .\nprabhavantyugrakarmāṇaḥ kṣayāya jagato.ahitāḥ ||16-9||",
+  "wordByWord": [
+    {
+      "term": "dṛṣṭim",
+      "meaning": "View or outlook"
+    },
+    {
+      "term": "ugrakarmāṇaḥ",
+      "meaning": "Those performing fierce or cruel actions"
+    },
+    {
+      "term": "kṣayāya",
+      "meaning": "For destruction"
+    },
+    {
+      "term": "ahitāḥ",
+      "meaning": "Harmful; hostile to welfare"
+    }
+  ],
+  "spokenHindi": "कृष्ण यहाँ उस दृष्टि का फल बताते हैं जो नैतिक आधार को नकारती है। उसे पकड़कर रहने वाले लोग उग्र कर्म करते हैं और संसार के अहित की ओर बढ़ते हैं। वर्णन कठोर है, लेकिन उसका केंद्र व्यवहार के परिणाम हैं। किसी विचार का असर केवल मन के भीतर नहीं रहता; वह बताता है कि दूसरे की पीड़ा हमारे लिए कितनी वास्तविक है। यदि शक्ति और इच्छा ही अंतिम मानक बन जाएँ, तो रोकने वाले कारण कमजोर पड़ सकते हैं। इस बात को आज किसी अलग मत वाले व्यक्ति पर आरोप लगाने के लिए इस्तेमाल न करें। पूरा प्रसंग विचार, भ्रम और हानिकारक कर्म की संयुक्त दिशा दिखाता है। हमारे लिए एक उपयोगी जांच यह है कि जिस कारण से हम कोई काम सही कहते हैं, उससे होने वाला नुकसान भी देख रहे हैं या नहीं। किसी योजना में लाभ लिखते समय संभावित हानि भी लिखिए। यदि प्रभावित व्यक्ति की आवाज नहीं सुनी गई है, तो उसे सुनने का रास्ता खोजिए। केवल अच्छे इरादे घोषित करना पर्याप्त नहीं होता।",
+  "clearEnglish": "Krishna follows the reported worldview with its practical consequence: those who cling to it undertake fierce deeds and become harmful to the world. The passage therefore joins outlook and action. Its criticism is not merely that someone has an unconventional opinion, but that a distorted orientation supports destructive conduct. Terms translated as ruined selves and limited understanding are severe evaluative language in this religious discourse; they should not become casual insults or judgements about intelligence or disability. The important reading question is how a justification changes our willingness to notice harm. In a modern project, declaring a goal beneficial can hide the costs borne by people outside the decision-making room. That analogy is an inference rather than a scenario stated in the verse. Before acting, identify who receives the benefit and who bears the risk. Let the answer challenge the original justification. Ethical clarity grows when consequences are allowed to matter as much as the story we tell about our intentions.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says that clinging to the described outlook leads to fierce deeds harmful to the world."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Assessing who bears a project's harm is a modern application of the link between outlook and action."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Name the cost",
+      "text": "List one likely benefit and one possible harm of a planned action, including who bears each."
+    }
+  ],
+  "reflectionQuestion": "Whose experience is missing from my justification?",
+  "reflectionQuestionHindi": "मेरे तर्क में किस प्रभावित व्यक्ति का अनुभव छूट गया है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

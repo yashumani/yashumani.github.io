@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-047",
+  "sequenceNumber": 461,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 47,
+  "verseEnd": 47,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "योग शक्ति से दिखाया रूप / The form disclosed by divine power",
+  "context": "Krishna says he graciously showed Arjuna the radiant infinite primeval cosmic form through his own yoga power.",
+  "contextHindi": "कृष्ण कहते हैं कि उन्होंने प्रसन्न होकर अपनी योग शक्ति से अर्जुन को तेजस्वी अनंत आद्य विश्वरूप दिखाया।",
+  "sanskritDevanagari": "श्रीभगवानुवाच |\nमया प्रसन्नेन तवार्जुनेदं\nरूपं परं दर्शितमात्मयोगात् |\nतेजोमयं विश्वमनन्तमाद्यं\nयन्मे त्वदन्येन न दृष्टपूर्वम् ||११-४७||",
+  "transliteration": "śrībhagavānuvāca .\nmayā prasannena tavārjunedaṃ rūpaṃ paraṃ darśitamātmayogāt .\ntejomayaṃ viśvamanantamādyaṃ yanme tvadanyena na dṛṣṭapūrvam ||11-47||",
+  "wordByWord": [
+    {
+      "term": "प्रसन्नेन",
+      "meaning": "graciously or being pleased"
+    },
+    {
+      "term": "आत्मयोगात्",
+      "meaning": "through one's own yoga power"
+    },
+    {
+      "term": "तेजोमयम्",
+      "meaning": "full of radiance"
+    },
+    {
+      "term": "त्वदन्येन",
+      "meaning": "by someone other than you"
+    }
+  ],
+  "spokenHindi": "कृष्ण फिर बोलते हैं। वे कहते हैं कि प्रसन्न होकर अपनी योग शक्ति से अर्जुन को यह परम, तेजोमय, विश्वव्यापक, अनंत और आद्य रूप दिखाया है। फिर बताते हैं कि अर्जुन के अलावा किसी और ने इसे पहले नहीं देखा। यह उनके द्वारा दिए दर्शन का कथन है, अर्जुन की बनाई कल्पना का नहीं। आत्मयोगात् में कृष्ण की अपनी शक्ति का स्रोत है। अद्वितीयता का दावा इस संवाद में कृष्ण का है; इसे किसी आधुनिक व्यक्ति की विशेष अनुभूति का विज्ञापन बनाने का आधार नहीं बनाना चाहिए। उपहार की भाषा यह भी दिखाती है कि दर्शन को उपलब्धि की प्रतियोगिता में नहीं मापा जा रहा। हमारा उपयोग किसी मदद या अवसर को पूरी तरह अपनी कमाई मानने की आदत देखना हो सकता है। तैयारी और प्रयास महत्वपूर्ण हैं, फिर भी समय, सहयोग और अवसर की भूमिका रहती है। उन्हें स्वीकारने से प्रयास मिटता नहीं, आभार जुड़ता है। यह सीमित मानव तुलना है; दिव्य विश्वरूप को सामान्य सफलता के बराबर नहीं रखती। कृष्ण अर्जुन की मांग के जवाब में अभी दर्शन की विशिष्ट कृपा बताते हैं।",
+  "clearEnglish": "Krishna identifies the disclosure as his own gracious act. Through his yoga power he has shown Arjuna the supreme form, radiant, universal, infinite and primeval, not previously seen by anyone other than Arjuna. The claim of uniqueness belongs to Krishna's statement in this narrative. It should not become a ready endorsement for a contemporary person's assertion of special spiritual status. Atmayogat concerns divine power, so the vision is not described as Arjuna's self-produced image or a prize earned by a measurable performance. A limited application is attention to gifts and opportunities within ordinary life. Effort may prepare someone, yet support, circumstances and timing also contribute to what becomes possible. Acknowledging those factors does not deny effort; it prevents complete ownership of the outcome. That analogy does not equate an ordinary success with the cosmic form. The verse's subject is the exceptional disclosure to Arjuna, and its role is to explain its gracious origin before Krishna discusses the limits of other means.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says his yoga power graciously disclosed the radiant infinite form uniquely to Arjuna."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Recognizing support and opportunity is a limited analogy; unique revelation language does not certify modern spiritual status."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Recognize an opportunity's supports",
+      "text": "Name one opportunity you received and the help or circumstances that made it possible. Acknowledge both your effort and what was given."
+    }
+  ],
+  "reflectionQuestion": "What part of a valued opportunity came through support I did not create?",
+  "reflectionQuestionHindi": "किस मूल्यवान अवसर का कौन सा हिस्सा ऐसे सहारे से आया जिसे मैंने नहीं बनाया?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

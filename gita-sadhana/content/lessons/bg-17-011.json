@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-011",
+  "sequenceNumber": 606,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 11,
+  "verseEnd": 11,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "कर्तव्य की भावना से यज्ञ / Sacrifice without reward-seeking",
+  "context": "Krishna defines sattvic sacrifice by prescribed form, freedom from reward-seeking, and a settled sense of duty.",
+  "contextHindi": "कृष्ण फल की चाह बिना, विधि के अनुसार और कर्तव्य की स्थिर भावना से किए यज्ञ को सात्त्विक बताते हैं।",
+  "sanskritDevanagari": "अफलाङ्क्षिभिर्यज्ञो विधिदृष्टो य इज्यते |\nयष्टव्यमेवेति मनः समाधाय स सात्त्विकः ||१७-११||",
+  "transliteration": "aphalāṅkṣibhiryajño vidhidṛṣṭo ya ijyate .\nyaṣṭavyameveti manaḥ samādhāya sa sāttvikaḥ ||17-11||",
+  "wordByWord": [
+    {
+      "term": "aphalāṅkṣibhiḥ",
+      "meaning": "By those not seeking the fruit; supplied canonical form"
+    },
+    {
+      "term": "vidhidṛṣṭaḥ",
+      "meaning": "As prescribed by ordinance"
+    },
+    {
+      "term": "yaṣṭavyam",
+      "meaning": "It ought to be sacrificed or performed"
+    },
+    {
+      "term": "manaḥ samādhāya",
+      "meaning": "Having settled the mind"
+    }
+  ],
+  "spokenHindi": "कृष्ण सात्त्विक यज्ञ का स्वरूप बताते हैं। वह विधि के अनुसार किया जाता है, करने वाले फल की चाह नहीं रखते, और मन में यह स्थिर है कि इसे करना उचित है। यहाँ तीन बातें साथ हैं: सही तरीका, उद्देश्य की सफाई और मन की स्थिरता। केवल फल की बात न करना पर्याप्त नहीं, यदि तरीका लापरवाह हो। केवल सारी व्यवस्था कर लेना भी पर्याप्त नहीं, यदि भीतर पुरस्कार का सौदा चल रहा हो। यज्ञ धार्मिक कर्म है; उसे हर आधुनिक काम के बराबर कहना पाठ की सीमा बदल देगा। फिर भी एक जिम्मेदारी को समझकर निभाना उपयोगी समानता हो सकती है। आज किसी छोटे काम में यह देखें कि आप उसकी जरूरत से जुड़कर काम कर रहे हैं या प्रशंसा की प्रतीक्षा में। परिणाम की योजना और गुणवत्ता की जांच छोड़ना जरूरी नहीं। पुरस्कार के प्रति पकड़ कम करते हुए भी काम को ठीक पूरा किया जा सकता है। अपना ध्यान तैयारी और योगदान पर लाएँ। अच्छा कर्म दिखाने से पहले उसे सचमुच करने की जगह बनाइए। एक पाठभेद भी ध्यान दें: दिए रोमन और देवनागरी पाठ का पहला पद संक्षिप्त है। स्रोत में उसका पूरा रूप अफलाकाङ्क्षिभिर्यज्ञो है; अगले तप वाले समान प्रयोग में भी पूरा रूप आता है। अर्थ फल की आकांक्षा न रखने का है।",
+  "clearEnglish": "Krishna characterizes sattvic sacrifice as prescribed by ordinance, undertaken without seeking reward, and supported by a settled conviction that it ought to be performed. Form, motive, and steadiness work together. An unpublicized act can still be careless, while correct procedure can still be used to pursue prestige. The verse is specifically about sacrifice, so a modern analogy with ordinary responsibilities should remain labelled as an application. In a shared task, one may act because the contribution is needed rather than because recognition is guaranteed. That does not require abandoning planning, competent execution, or assessment of results. Freedom from reward-seeking concerns the grip of personal gain on the motive. For practice, identify one contribution whose value can be explained independently of praise. Prepare it properly and carry it through. Afterwards, examine whether the work was useful before counting responses. This modest exercise helps distinguish a settled purpose from a transaction in which approval is silently demanded. A wording difference matters: the pinned opening compound is shorter than DLS's Aphalaakaangkshibhiryajno and the parallel aphalākāṅkṣibhiḥ in the supplied austerity passage. The pinned spelling is preserved; the explanation follows the fuller reading, meaning those not seeking fruit.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna defines sattvic sacrifice by prescribed form, non-seeking of fruit, and the settled understanding that it ought to be done."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Doing a needed contribution without demanding praise is a modern analogy, while competent planning remains important."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Needed contribution",
+      "text": "Complete one useful task carefully and evaluate its usefulness before seeking recognition."
+    }
+  ],
+  "reflectionQuestion": "Can I explain this task's value without mentioning praise or reward?",
+  "reflectionQuestionHindi": "क्या मैं इस काम का मूल्य प्रशंसा या इनाम बताए बिना समझा सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-015",
+  "sequenceNumber": 429,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 15,
+  "verseEnd": 15,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "अर्जुन का देखा हुआ संसार / What Arjuna now sees",
+  "context": "Arjuna begins his own account of the vision, naming gods, beings, Brahma, sages and celestial serpents.",
+  "contextHindi": "अब अर्जुन अपने दर्शन का वर्णन करते हैं: देव, प्राणीसमूह, कमल पर ब्रह्मा, ऋषि और दिव्य सर्प।",
+  "sanskritDevanagari": "अर्जुन उवाच |\nपश्यामि देवांस्तव देव देहे\nसर्वांस्तथा भूतविशेषसङ्घान् |\nब्रह्माणमीशं कमलासनस्थ-\nमृषींश्च सर्वानुरगांश्च दिव्यान् ||११-१५||",
+  "transliteration": "arjuna uvāca .\npaśyāmi devāṃstava deva dehe sarvāṃstathā bhūtaviśeṣasaṅghān .\nbrahmāṇamīśaṃ kamalāsanasthaṃ ṛṣīṃśca sarvānuragāṃśca divyān ||11-15||",
+  "wordByWord": [
+    {
+      "term": "पश्यामि",
+      "meaning": "I see"
+    },
+    {
+      "term": "भूतविशेषसङ्घान्",
+      "meaning": "groups of diverse beings"
+    },
+    {
+      "term": "कमलासनस्थम्",
+      "meaning": "seated on the lotus"
+    },
+    {
+      "term": "उरगान् दिव्यान्",
+      "meaning": "celestial serpents"
+    }
+  ],
+  "spokenHindi": "अब अर्जुन बोलते हैं। वे कहते हैं कि आपके शरीर में सभी देव, अनेक प्रकार के प्राणियों के समूह, कमल पर बैठे ब्रह्मा, सभी ऋषि और दिव्य सर्प देखता हूँ। पश्यामि यानी मैं देखता हूँ, पिछले अध्याय में ऋषियों की कही बात से अलग प्रत्यक्ष दर्शन की भाषा है। ब्रह्माणम् यहाँ सृष्टिकर्ता ब्रह्मा का नाम है; इसे निराकार ब्रह्म के साथ बिना भेद मिलाना अर्थ उलझा सकता है। कमलासनस्थ उस नाम के साथ दृश्य विशेषण है। अनेक समूहों का साथ आना पिछले श्लोक की एकता और विविधता को ठोस नाम देता है। दिव्य सर्प धार्मिक दृश्य का हिस्सा हैं; इससे साधारण जीवों के प्रति कोई अपवित्रता या घृणा का नियम नहीं बनता। हमारा उपयोग अपने कथन की सीमा स्पष्ट करना हो सकता है। जो देखा है उसे देखे हुए के रूप में कहें, और जो निष्कर्ष है उसे अलग बताएं। अपने अनुभव पर भरोसा रखना अच्छा है, लेकिन भाषा में उसका स्रोत साफ रखना भी जिम्मेदारी है। अर्जुन अभी कृष्ण को संबोधित करके अपने सामने की विशालता कहते हैं।",
+  "clearEnglish": "Arjuna's first-person account begins with I see. Gods, varied groups of beings, Brahma seated on the lotus, sages and celestial serpents appear within Krishna's body. The change from Sanjaya's narration to Arjuna's testimony should remain clear. Brahmanam here names Brahma, the creator in the supplied edition, rather than simply being interchangeable with every use of the term Brahman. The lotus seat is part of the specific visual description. The groups give detail to the earlier statement of multiplicity gathered in one. Celestial serpents belong to that sacred scene, and their presence does not supply a rule about the ritual status of ordinary animals. A modern application is precision in reporting one's experience. Distinguish what was observed from what one concluded about it, even when both feel compelling. This does not deny the experience; it describes the basis of the claim. The verse itself gives Arjuna's immediate witness account and a devotional address to Krishna, not a general instruction about all reports of unusual experiences.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna says he sees gods, varied beings, Brahma, sages and celestial serpents in Krishna's body."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Separating observation from conclusion helps clear testimony; the scene establishes no animal-purity rule."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Separate observation and conclusion",
+      "text": "Describe one event in two sentences: what you observed and what you inferred. Keep both without presenting them as the same kind of evidence."
+    }
+  ],
+  "reflectionQuestion": "Which part of my account is observed, and which part is my interpretation?",
+  "reflectionQuestionHindi": "मेरे विवरण का कौन सा हिस्सा देखा हुआ है और कौन सा मेरी व्याख्या है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

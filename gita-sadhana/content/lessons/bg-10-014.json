@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-014",
+  "sequenceNumber": 386,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 14,
+  "verseEnd": 14,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "विश्वास के साथ सीमा की पहचान / Trust and the limits of knowing",
+  "context": "Arjuna affirms Krishna's words while recognizing that gods and danavas do not fully know his manifestation.",
+  "contextHindi": "अर्जुन कृष्ण के वचनों को सत्य मानते हैं और उनके प्रकट स्वरूप को जानने की सीमा स्वीकार करते हैं।",
+  "sanskritDevanagari": "सर्वमेतदृतं मन्ये यन्मां वदसि केशव |\nन हि ते भगवन्व्यक्तिं विदुर्देवा न दानवाः ||१०-१४||",
+  "transliteration": "sarvametadṛtaṃ manye yanmāṃ vadasi keśava .\nna hi te bhagavanvyaktiṃ vidurdevā na dānavāḥ ||10-14||",
+  "wordByWord": [
+    {
+      "term": "ऋतम्",
+      "meaning": "true or in accord with truth"
+    },
+    {
+      "term": "मन्ये",
+      "meaning": "I consider or believe"
+    },
+    {
+      "term": "व्यक्तिम्",
+      "meaning": "manifestation or origin in this edition"
+    },
+    {
+      "term": "दानवाः",
+      "meaning": "danavas, a class of mythic beings"
+    }
+  ],
+  "spokenHindi": "अर्जुन कृष्ण से कहते हैं कि जो कुछ आप मुझे बताते हैं, मैं उसे सत्य मानता हूँ। फिर वे कहते हैं कि देव और दानव भी आपके प्रकट होने को नहीं जानते। यह विश्वास और सीमा की पहचान एक साथ है। ऋतम् सत्य की स्वीकृति बताता है, जबकि मन्ये साफ करता है कि यह अर्जुन का कथन है। व्यक्ति शब्द यहाँ आज के व्यक्ति वाले सामान्य अर्थ में नहीं लेना चाहिए; संदर्भ में वह दिव्य प्रकटता या उद्गम से जुड़ा है। देव और दानव की तुलना धार्मिक कथा के प्राणियों की है, किसी वर्तमान समुदाय की नैतिक श्रेणी नहीं। अर्जुन की श्रद्धा बातचीत को रोकती नहीं; वे आगे विवरण पूछेंगे। इससे हम सीमित संकेत ले सकते हैं कि भरोसा रखने और सब जान लेने का दावा करने में अंतर है। किसी मार्गदर्शक की उपयोगी बात स्वीकार करके भी अपनी समझ की अधूरी जगह बताई जा सकती है। लेकिन यह आधुनिक उपयोग है, किसी मनुष्य की हर बात को अंतिम सत्य घोषित करने का श्लोक में आदेश नहीं दिया गया है।",
+  "clearEnglish": "The sentence has two parts that should remain together. Arjuna accepts what Krishna has told him as true, and he acknowledges that even gods and danavas do not know Krishna's manifestation. His trust is not presented as exhaustive comprehension. The verb manye marks an affirmation by Arjuna, while vyakti concerns manifestation or origin in the supplied edition, rather than the modern use of person. The mythic categories likewise should not become labels for present social groups. The dialogue is preparing a request for explanation: affirmation opens a further question. This matters for the practical meaning of trust. One may receive a teaching seriously without claiming to have captured all that it means. That does not justify granting absolute credibility to every statement by a human authority. It is a modest analogy about remaining aware of one's limits. A listener can ask which part of a teaching has been understood, which part is held in faith, and which part still calls for study. Keeping those distinctions makes trust more articulate.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna affirms Krishna's teaching and says gods and danavas do not know his manifestation."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Trust can coexist with acknowledged limits; unrestricted obedience to human authorities is not instructed."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Distinguish your certainty",
+      "text": "Write three short statements: what you understand, what you trust, and what you are still asking. Allow the third statement to remain open."
+    }
+  ],
+  "reflectionQuestion": "Where am I confusing sincere trust with complete understanding?",
+  "reflectionQuestionHindi": "मैं कहाँ सच्चे भरोसे को पूरी समझ होने के बराबर मान रहा हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

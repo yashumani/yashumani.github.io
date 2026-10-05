@@ -1,0 +1,71 @@
+{
+  "id": "bg-14-027",
+  "sequenceNumber": 551,
+  "date": "2026-10-05",
+  "chapter": 14,
+  "verseStart": 27,
+  "verseEnd": 27,
+  "chapterNameSanskrit": "गुणत्रयविभागयोग",
+  "chapterNameEnglish": "Guṇatraya Vibhāga Yoga",
+  "theme": "The ground of lasting fulfilment / स्थायी पूर्णता का आधार",
+  "context": "Krishna closes Chapter 14 by identifying himself as the foundation of Brahman, immortality, eternal dharma, and absolute happiness.",
+  "contextHindi": "अध्याय के अंतिम श्लोक में कृष्ण ब्रह्म, अमृत, शाश्वत धर्म और एकांत सुख का आधार स्वयं को बताते हैं।",
+  "sanskritDevanagari": "ब्रह्मणो हि प्रतिष्ठाहममृतस्याव्ययस्य च |\nशाश्वतस्य च धर्मस्य सुखस्यैकान्तिकस्य च ||१४-२७||",
+  "transliteration": "brahmaṇo hi pratiṣṭhāhamamṛtasyāvyayasya ca .\nśāśvatasya ca dharmasya sukhasyaikāntikasya ca ||14-27||",
+  "wordByWord": [
+    {
+      "term": "pratiṣṭhā",
+      "meaning": "foundation or abode; आधार"
+    },
+    {
+      "term": "amṛtasya",
+      "meaning": "of immortality; अमृत का"
+    },
+    {
+      "term": "avyayasya",
+      "meaning": "of the imperishable"
+    },
+    {
+      "term": "śāśvatasya dharmasya",
+      "meaning": "of everlasting dharma"
+    },
+    {
+      "term": "aikāntikasya sukhasya",
+      "meaning": "of absolute happiness"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि वे ब्रह्म, अमृत और अविनाशी का, शाश्वत धर्म का तथा एकांत सुख का आधार हैं। पिछले श्लोक में भक्ति से ब्रह्मभाव की योग्यता कही गई थी; यह अंतिम कथन उसी मार्ग को दिव्य आधार से जोड़ता है। ‘प्रतिष्ठा’ यहाँ आधार या निवास का अर्थ देती है। अलग दार्शनिक परंपराएँ कृष्ण और ब्रह्म के संबंध की अलग व्याख्या कर सकती हैं, लेकिन दिए गए अंश में उन मतों की तुलना नहीं है। इसलिए किसी एक जटिल मत को बिना स्रोत कृष्ण के शब्दों में न जोड़ें। सुख का उल्लेख भी केवल दिन भर अच्छा महसूस करने की गारंटी नहीं है। यह स्थायी आध्यात्मिक पूर्णता की भाषा है। अपने लिए एक सीमित प्रश्न रखें: मेरी आशा का आधार क्या है, कोई बदलती प्रशंसा या अधिक गहरा मूल्य? उदाहरण के लिए सत्य और करुणा की ओर लौटना आज की दिशा हो सकती है। यह मूल्य वाला अभ्यास श्लोक के ब्रह्म संबंधी कथन को सिद्ध नहीं करता, पर सुनने को जीवन की ईमानदार खोज से जोड़ता है।",
+  "clearEnglish": "The final verse grounds the preceding path of devotion in Krishna's own claim: he is the foundation or abode of Brahman, of the immortal and imperishable, of everlasting dharma, and of absolute happiness. The statement brings together the chapter's concern with freedom beyond the changing qualities and its devotional conclusion. Different philosophical traditions may explain the relation between Krishna and Brahman differently, but the supplied passage does not present that debate. A careful lesson therefore preserves the claim without supplying an unsupported school-specific resolution. Absolute happiness should also not be reduced to a promise of uninterrupted pleasant emotion during ordinary life. Its scope is spiritual fulfilment. For reflection, one may consider what currently supports hope and conduct. Approval and circumstances change; commitment to truthfulness or compassion can offer a steadier practical orientation. This is an application by analogy, not a definition of Brahman. Let the verse open inquiry into a lasting ground while keeping its metaphysical claim distinct from the exercise.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna identifies himself as the foundation of Brahman, immortality, imperishability, eternal dharma, and absolute happiness."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Reflecting on a steadier basis for conduct is a practical analogy; no particular philosophical school's resolution is supplied by the excerpt."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Write one changing source of reassurance and one enduring value you can express in an action today."
+    }
+  ],
+  "reflectionQuestion": "What currently grounds my hope, and how steady is that ground?",
+  "reflectionQuestionHindi": "मेरी आशा अभी किस आधार पर टिकी है, और वह आधार कितना स्थिर है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

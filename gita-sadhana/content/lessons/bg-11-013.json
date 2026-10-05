@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-013",
+  "sequenceNumber": 427,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 13,
+  "verseEnd": 13,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "भिन्न समूह, एक शरीर / Distinct groups within one body",
+  "context": "Sanjaya reports that Arjuna sees the whole universe in many divisions gathered in the divine body.",
+  "contextHindi": "संजय बताते हैं कि अर्जुन ने अनेक रूपों में विभाजित पूरा जगत देवदेव के शरीर में एक साथ देखा।",
+  "sanskritDevanagari": "तत्रैकस्थं जगत्कृत्स्नं प्रविभक्तमनेकधा |\nअपश्यद्देवदेवस्य शरीरे पाण्डवस्तदा ||११-१३||",
+  "transliteration": "tatraikasthaṃ jagatkṛtsnaṃ pravibhaktamanekadhā .\napaśyaddevadevasya śarīre pāṇḍavastadā ||11-13||",
+  "wordByWord": [
+    {
+      "term": "एकस्थम्",
+      "meaning": "gathered in one"
+    },
+    {
+      "term": "प्रविभक्तम् अनेकधा",
+      "meaning": "divided in many ways"
+    },
+    {
+      "term": "अपश्यत्",
+      "meaning": "he saw"
+    },
+    {
+      "term": "देवदेवस्य",
+      "meaning": "of the God of gods"
+    }
+  ],
+  "spokenHindi": "संजय बताते हैं कि अर्जुन ने देवों के देव के शरीर में पूरा जगत एक स्थान पर देखा, जबकि वह अनेक समूहों में अलग भी था। एकस्थम् और प्रविभक्तम् साथ आते हैं। इसलिए एकता का अर्थ भिन्नता को मिटाना नहीं है। दृश्य में अनेक रूप अपनी विविधता के साथ एक में हैं। देखने वाले अर्जुन हैं, बताने वाले संजय; यह अलगाव यहाँ भी याद रहे। पिछली उपमा तेज की थी, यह श्लोक दृष्टि की संरचना बताता है। हमारा सीमित उपयोग किसी समूह को देखते समय लोगों की अलग जरूरतें याद रखना हो सकता है। परिवार, दफ्तर या समुदाय एक नाम से पहचाना जाता है, फिर भी उसके सदस्य एक जैसे नहीं। साझा उद्देश्य और व्यक्तिगत अंतर साथ समझे जा सकते हैं। यह सामाजिक उदाहरण दिव्य दृश्य के पूरे अर्थ के बराबर नहीं है। आज किसी साझा योजना में पूछें कि क्या सबको एक जैसा मान लेने से किसी की खास जरूरत छूट रही है। एकता के प्रति सम्मान तब अधिक जिम्मेदार होगा जब वह वास्तविक अंतर सुनने की जगह भी रखे।",
+  "clearEnglish": "The wording holds together a whole and its divisions. Arjuna sees the entire universe situated in one, yet differentiated in many ways, within the body of the God of gods. Unity is therefore not described by erasing all variety from the scene. Sanjaya remains the narrator, and Arjuna is the one seeing. After the comparison of radiance, the verse turns to the organization of what is disclosed. A contemporary analogy is a group with a common identity whose members still have distinct needs and roles. Recognizing a whole need not require treating each person as interchangeable. That analogy has clear limits: it is an ordinary social application, not an equivalent of the cosmic vision. It can nevertheless guide a small decision. When making a shared plan, ask whether one uniform arrangement overlooks someone affected by it. Understanding difference may make cooperation more faithful to the whole rather than fragment it. The verse itself reports the remarkable coexistence of comprehensive unity and visible multiplicity in Arjuna's vision.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Arjuna sees the whole universe in one divine body while it remains differentiated in many ways."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Shared identity can coexist with distinct needs; this social analogy does not reproduce the vision."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Include a distinct need",
+      "text": "In one shared plan, ask whether someone has a relevant need the standard arrangement misses. Adapt the plan where a reasonable option exists."
+    }
+  ],
+  "reflectionQuestion": "Do I confuse unity with everyone needing the same thing?",
+  "reflectionQuestionHindi": "क्या मैं एकता को सबकी जरूरत एक जैसी होने के बराबर मानता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

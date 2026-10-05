@@ -1,0 +1,67 @@
+{
+  "id": "bg-11-035",
+  "sequenceNumber": 449,
+  "date": "2026-10-05",
+  "chapter": 11,
+  "verseStart": 35,
+  "verseEnd": 35,
+  "chapterNameSanskrit": "विश्वरूपदर्शनयोग",
+  "chapterNameEnglish": "Viśvarūpa Darśana Yoga",
+  "theme": "काँपती आवाज में फिर बोलना / Speaking again while trembling",
+  "context": "Sanjaya narrates Arjuna's fearful response to Krishna's speech before Arjuna begins his praise.",
+  "contextHindi": "संजय बताते हैं कि कृष्ण का वचन सुनकर अर्जुन काँपते हुए हाथ जोड़कर और गद्गद स्वर में फिर बोले।",
+  "sanskritDevanagari": "सञ्जय उवाच |\nएतच्छ्रुत्वा वचनं केशवस्य\nकृताञ्जलिर्वेपमानः किरीटी |\nनमस्कृत्वा भूय एवाह कृष्णं\nसगद्गदं भीतभीतः प्रणम्य ||११-३५||",
+  "transliteration": "sañjaya uvāca .\netacchrutvā vacanaṃ keśavasya kṛtāñjalirvepamānaḥ kirīṭī .\nnamaskṛtvā bhūya evāha kṛṣṇaṃ sagadgadaṃ bhītabhītaḥ praṇamya ||11-35||",
+  "wordByWord": [
+    {
+      "term": "वेपमानः",
+      "meaning": "trembling"
+    },
+    {
+      "term": "किरीटी",
+      "meaning": "the crowned one; Arjuna"
+    },
+    {
+      "term": "सगद्गदम्",
+      "meaning": "with a choked or faltering voice"
+    },
+    {
+      "term": "भीतभीतः",
+      "meaning": "overwhelmed with fear"
+    }
+  ],
+  "spokenHindi": "संजय फिर बोलते हैं। वे बताते हैं कि कृष्ण का वचन सुनकर अर्जुन हाथ जोड़ते हैं, काँप रहे हैं, प्रणाम करते हैं और गद्गद आवाज में फिर कृष्ण से कहते हैं। किरीटी मुकुट वाले अर्जुन का नाम है। भीतभीतः में भय की तीव्रता है; इसे देखकर हम यह दावा नहीं कर सकते कि पिछला आदेश सुनते ही अर्जुन पूरी तरह निश्चिंत हो गए। कथा उनकी प्रतिक्रिया को अधिक जटिल और ईमानदार रखती है। आवाज में रुकावट भी उसी दशा का हिस्सा है। यह कोई निदान करने वाला श्लोक नहीं और बोलने की परीक्षा भी नहीं। हमारा उपयोग कठिन बातचीत में यह याद रखना हो सकता है कि साफ बात कहना हमेशा सहज आवाज में नहीं होता। कोई व्यक्ति काँपते हुए भी महत्वपूर्ण बात कह सकता है। उसे जल्दी बोलने या अपनी हालत छिपाने को मजबूर न करें। अपने लिए भी समय माँगना संभव है। भरोसेमंद बातचीत में कह सकते हैं कि मैं थोड़ा रुककर बात पूरी करना चाहता हूँ। यह हमारी संवाद की विधि है, अर्जुन के दर्शन को सामान्य अनुभव में बदलने का दावा नहीं।",
+  "clearEnglish": "Sanjaya's narration makes the aftermath of Krishna's speech visible. Arjuna joins his palms, trembles, bows and speaks again with a faltering voice, deeply afraid. The crowned one is Arjuna, not a new speaker. These details prevent a simple claim that the command immediately made him calm. The response remains emotionally complex. A choked voice is part of the description, and the verse does not make fluency a condition for meaningful speech or supply a clinical diagnosis. A contemporary application is to make room for a person to speak while unsettled. Important words can arrive slowly, with pauses, and do not lose their relevance because the speaker lacks a composed presentation. If speaking oneself, ask for a moment to continue rather than forcing a performance of calm. This is ordinary communication guidance, not a reproduction of the extraordinary scene. The verse also prepares another voice change: Sanjaya reports the manner of speaking, and Arjuna's actual words follow next.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Sanjaya reports Arjuna trembling, bowing and speaking with a faltering voice after Krishna's declaration."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Unsteady speech can still carry important meaning; the passage does not require performance of calm."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Allow a pause",
+      "text": "In a safe difficult conversation, ask for time to finish your point or offer the other person time. Attend to meaning rather than perfect fluency."
+    }
+  ],
+  "reflectionQuestion": "Do I allow myself or another person to speak imperfectly when the matter is important?",
+  "reflectionQuestionHindi": "महत्वपूर्ण बात में क्या मैं खुद को या दूसरे को बिना पूरी सहजता के बोलने की जगह देता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

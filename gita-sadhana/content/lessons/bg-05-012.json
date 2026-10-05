@@ -1,0 +1,75 @@
+{
+  "id": "bg-05-012",
+  "sequenceNumber": 216,
+  "date": "2026-10-05",
+  "chapter": 5,
+  "verseStart": 12,
+  "verseEnd": 12,
+  "chapterNameSanskrit": "कर्मसंन्यासयोग",
+  "chapterNameEnglish": "Karma Sannyāsa Yoga",
+  "theme": "फल-त्याग से शान्ति: योग का स्थिर स्वरूप।",
+  "context": "The previous verse described action without attachment. This verse makes the contrast explicit: a person who abandons the fruits of action moves toward lasting peace, while a person driven by desire and attachment to outcomes remains bound.",
+  "contextHindi": "पिछले श्लोक में कृष्ण ने बताया कि योगी कर्म करता है, पर फल से नहीं जुड़ता। इस श्लोक में वे स्पष्ट करते हैं कि फल को छोड़ देने वाला शान्ति पाता है, जबकि फल के पीछे दौड़ने वाला बँध जाता है।",
+  "sanskritDevanagari": "युक्तः कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम् |\nअयुक्तः कामकारेण फले सक्तो निबध्यते ||५-१२||",
+  "transliteration": "yuktaḥ karmaphalaṃ tyaktvā śāntimāpnoti naiṣṭhikīm .\nayuktaḥ kāmakāreṇa phale sakto nibadhyate ||5-12||",
+  "wordByWord": [
+    {
+      "term": "युक्तः",
+      "meaning": "yoked, harmonized, established in right inner discipline."
+    },
+    {
+      "term": "कर्मफलं",
+      "meaning": "the fruit of action; result, reward, recognition, or outcome."
+    },
+    {
+      "term": "नैष्ठिकीम्",
+      "meaning": "steadfast, enduring, ultimately settled; the peace of inward steadiness."
+    },
+    {
+      "term": "कामकारेण",
+      "meaning": "by desire-impulse; action driven by craving, not wisdom."
+    },
+    {
+      "term": "निबध्यते",
+      "meaning": "is bound; becomes caught in the cycle of seeking, winning, and losing."
+    }
+  ],
+  "spokenHindi": "यह श्लोक जीवन की एक महत्त्वपूर्ण बात समझाता है। ‘युक्तः कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम्’—जो व्यक्ति कर्म के फल की आसक्ति छोड़ता है, वह स्थिर शान्ति पाता है। ‘नैष्ठिकीम्’ का अर्थ है स्थायी या दृढ़। यहाँ बात काम छोड़ने की नहीं, बल्कि उसके परिणाम को मन से पकड़े रहने की है। ‘अयुक्तः कामकारेण फले सक्तो निबध्यते’—जो मन से स्थिर नहीं है, वह इच्छा से प्रेरित होकर फल से जुड़ता है और बँध जाता है। वह अपने काम के परिणाम पर अटकता है और अपनी अपेक्षाओं के अनुसार नतीजा चाहता है। इससे सुख और दुख परिणाम पर निर्भर हो जाते हैं। यह श्लोक बताता है कि शान्ति का आधार केवल बाहरी सफलता नहीं, बल्कि भीतर का अनुशासन भी है। फल की आसक्ति कम होने पर मन में अधिक स्थिरता आ सकती है।",
+  "clearEnglish": "The contrast here is direct: a harmonized person renounces the fruit of action and gains enduring peace; an unsteady person acts from desire and becomes entangled in outcomes. “Fruit” means the result of an action; it is not limited to money or praise. It can also include the expectation that a task must produce a certain result. Krishna distinguishes between action and attachment to its result. In practical terms, this does not mean becoming indifferent to outcomes in a cold, passive way. Rather, one works with full seriousness while refusing to build personal identity or emotional security around the outcome. Attachment to the result can become a place where ego enters: ‘If I succeed, I am worthy; if I fail, I am diminished.’ The verse points to the trap of tying one’s sense of worth to a result. The steady mind, by contrast, is free from compulsive grasping that can create anxiety, comparison, and disappointment.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse says the disciplined person renounces the fruits of action and attains enduring peace, while the unsteady person becomes bound through desire and attachment to results."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The practical lesson is that peace grows when responsibility is maintained without making success, approval, or failure a personal identity verdict."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Result check",
+      "text": "At the end of a workday, ask: Did I judge my value by the result? If yes, next time I will focus on my effort, attention, and honesty rather than controlling the outcome."
+    },
+    {
+      "label": "Desire audit",
+      "text": "When preparing for an important task, notice whether the driving force is curiosity and responsibility or fear of failure, need for praise, and craving for reward."
+    }
+  ],
+  "reflectionQuestion": "What happens inside you when a task does not go as planned, and how does that reveal your attachment to result?",
+  "reflectionQuestionHindi": "जब कोई काम आपके अनुसार नहीं चलता है, तो आपके भीतर क्या होता है, और इससे आपके परिणाम पर अटके रहने का संकेत कैसे मिलता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

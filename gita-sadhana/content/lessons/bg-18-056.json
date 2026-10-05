@@ -1,0 +1,71 @@
+{
+  "id": "bg-18-056",
+  "sequenceNumber": 679,
+  "date": "2026-10-05",
+  "chapter": 18,
+  "verseStart": 56,
+  "verseEnd": 56,
+  "chapterNameSanskrit": "मोक्षसंन्यासयोग",
+  "chapterNameEnglish": "Mokṣa Sannyāsa Yoga",
+  "theme": "Action under refuge and grace / कर्म के बीच आश्रय",
+  "context": "Krishna returns from the language of realization to the possibility of doing all actions while relying on him.",
+  "contextHindi": "कृष्ण फिर कर्म के बीच लौटते हैं और अपने आश्रय तथा कृपा से शाश्वत पद पाने की बात कहते हैं।",
+  "sanskritDevanagari": "सर्वकर्माण्यपि सदा कुर्वाणो मद्व्यपाश्रयः |\nमत्प्रसादादवाप्नोति शाश्वतं पदमव्ययम् ||१८-५६||",
+  "transliteration": "sarvakarmāṇyapi sadā kurvāṇo madvyapāśrayaḥ .\nmatprasādādavāpnoti śāśvataṃ padamavyayam ||18-56||",
+  "wordByWord": [
+    {
+      "term": "sarvakarmāṇy api",
+      "meaning": "all actions"
+    },
+    {
+      "term": "madvyapāśrayaḥ",
+      "meaning": "one who relies on me"
+    },
+    {
+      "term": "matprasādād",
+      "meaning": "by my grace"
+    },
+    {
+      "term": "śāśvataṃ padam",
+      "meaning": "eternal state or abode"
+    },
+    {
+      "term": "avyayam",
+      "meaning": "imperishable"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि सभी कर्म करते हुए भी, जो उनका आश्रय लेता है, वह उनकी कृपा से शाश्वत और अविनाशी पद पाता है। यह पंक्ति महत्वपूर्ण है क्योंकि पिछले ध्यान और वैराग्य के वर्णन को केवल काम छोड़ने का नियम मानना आसान होता। यहाँ कर्म जारी है, पर व्यक्ति अकेली सफलता के घमंड पर नहीं टिका है। आश्रय का अर्थ जिम्मेदारी किसी अदृश्य शक्ति पर डालकर परिणाम की उपेक्षा करना नहीं है। व्यक्ति अपना काम समझकर करे, असर देखे, गलती सुधारे और फिर कृपा की संभावना के प्रति खुला रहे। कृपा को किसी निश्चित सांसारिक परिणाम की गारंटी बनाना भी इस श्लोक से नहीं निकलता। शाश्वत पद आध्यात्मिक लक्ष्य है, नौकरी या परीक्षा में जीत का वादा नहीं। आज किसी जरूरी काम के पहले मन में याद करें कि आपकी कोशिश सीमित है, फिर पूरा ध्यान देकर काम करें। दूसरों की सहायता स्वीकार करना भी विनम्र आश्रय के अनुकूल हो सकता है। प्रार्थना और व्यवहारिक जवाबदेही साथ चल सकती हैं।",
+  "clearEnglish": "After speaking of knowing and entering him, Krishna makes room for a person who continues to do all actions. The condition named is reliance on him; the attainment of an eternal, imperishable state is attributed to his grace. This matters in the chapter's larger discussion of renunciation: action itself is not erased. The verse does not say that every undertaking will succeed in ordinary terms, or that invoking grace makes careful preparation unnecessary. An inference for contemporary practice is to carry out a real obligation while recognizing the limits of self sufficiency. Prepare, consult when appropriate, notice effects on others, and accept correction. Such conduct can be joined to prayer or remembrance without transferring accountability away from the actor. The eternal state is the verse's spiritual promise, not a promise of career advancement, good health, or protection from every setback. If a result disappoints, do not use the language of grace to blame yourself or someone else for insufficient faith. The text directs attention to refuge amid action and to a goal beyond passing outcomes.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "A person doing all actions while taking refuge in Krishna attains an eternal, imperishable state by his grace."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Refuge can accompany careful work and accountability; grace in the verse is not a guarantee of worldly success."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Today's practice / आज का अभ्यास",
+      "text": "Before a real obligation, pause for remembrance; then prepare, act, and review its effects responsibly."
+    }
+  ],
+  "reflectionQuestion": "Can I accept help and still take responsibility for my part of the work?",
+  "reflectionQuestionHindi": "क्या मैं सहारा स्वीकार करते हुए अपने काम की जिम्मेदारी भी निभा सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

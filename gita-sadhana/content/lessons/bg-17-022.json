@@ -1,0 +1,67 @@
+{
+  "id": "bg-17-022",
+  "sequenceNumber": 617,
+  "date": "2026-10-05",
+  "chapter": 17,
+  "verseStart": 22,
+  "verseEnd": 22,
+  "chapterNameSanskrit": "श्रद्धात्रयविभागयोग",
+  "chapterNameEnglish": "Śraddhātraya Vibhāga Yoga",
+  "theme": "अपमान से दिया दान / Giving without respect",
+  "context": "Krishna describes giving at an unsuitable place or time, to unsuitable recipients, and with disrespect as tamasic.",
+  "contextHindi": "कृष्ण अनुचित स्थान, समय या पात्र को अनादर और अपमान के साथ दिए दान को तामसिक बताते हैं।",
+  "sanskritDevanagari": "अदेशकाले यद्दानमपात्रेभ्यश्च दीयते |\nअसत्कृतमवज्ञातं तत्तामसमुदाहृतम् ||१७-२२||",
+  "transliteration": "adeśakāle yaddānamapātrebhyaśca dīyate .\nasatkṛtamavajñātaṃ tattāmasamudāhṛtam ||17-22||",
+  "wordByWord": [
+    {
+      "term": "adeśakāle",
+      "meaning": "At an unsuitable place and time"
+    },
+    {
+      "term": "apātrebhyaḥ",
+      "meaning": "To unsuitable recipients"
+    },
+    {
+      "term": "asatkṛtam",
+      "meaning": "Without respectful treatment"
+    },
+    {
+      "term": "avajñātam",
+      "meaning": "With contempt or insult"
+    }
+  ],
+  "spokenHindi": "कृष्ण तामसिक दान में गलत स्थान और समय, अनुपयुक्त पात्र, अनादर और अपमान बताते हैं। अंतिम दो शब्द बहुत सीधे हैं। सहायता देकर किसी को नीचा दिखाना सहायता की गुणवत्ता बिगाड़ता है। पात्र की उपयुक्तता वास्तविक परिस्थिति से जांचें; गरीबी, लिंग, पेशा या जन्म देखकर व्यक्ति को कम मूल्य का मानना श्लोक का आवश्यक अर्थ नहीं है। स्रोत की टिप्पणी कुछ पुराने सामाजिक उदाहरण जोड़ती है और साथ में साफ कहती है कि गरीबों को दान देना हतोत्साहित नहीं किया गया है। वे उदाहरण स्वामी शिवानन्द की टिप्पणी हैं, कृष्ण के इस श्लोक में दी गई सूची नहीं। आधुनिक अनुप्रयोग में सुरक्षा, उपयोग और सम्मान देखें। क्या चीज सही समय पर पहुँच रही है? क्या प्राप्तकर्ता की सहमति और निजता बची है? आज कोई छोटी सहायता दें तो उसके साथ सार्वजनिक शर्म या मांग न जोड़ें। मदद न कर सकें तो भी सम्मान से बात कर सकते हैं। विवेक का अर्थ किसी की गरिमा घटाना नहीं, सहायता को वास्तव में उपयोगी बनाना है।",
+  "clearEnglish": "Krishna calls giving tamasic when place or time is unsuitable, recipients are unsuitable, or the gift is offered without respect and with contempt. Disrespect is an explicit part of the verse. Suitability requires discernment, but it should not become a judgement that poverty, gender, occupation, or inherited identity makes someone spiritually inferior. The supplied Sivananda commentary adds period-specific social examples and expressly says that giving alms to the poor is not discouraged. Those additions belong to commentary, not to Krishna's list in this verse. A contemporary application can assess usefulness, timing, safety, consent, and dignity. A gift that exposes private hardship for the giver's publicity may impose a cost the recipient did not agree to bear. That example is an inference. Before offering assistance, consider whether it can be received without humiliation. If resources are limited, a respectful refusal or referral can still preserve dignity. Discernment should improve the help rather than provide a religious-sounding reason to look down on someone.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna describes giving at unsuitable place/time or to unsuitable recipients, without respect or with contempt, as tamasic."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "Assessing usefulness, consent, and dignity applies the verse; period-specific social examples in the supplied commentary are not Krishna's literal list."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Protect dignity",
+      "text": "Ask whether one offered help preserves the recipient's privacy and can be accepted without humiliation."
+    }
+  ],
+  "reflectionQuestion": "Does my manner of helping add a burden of shame?",
+  "reflectionQuestionHindi": "क्या मेरे मदद करने के तरीके से शर्म का अतिरिक्त बोझ पड़ता है?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

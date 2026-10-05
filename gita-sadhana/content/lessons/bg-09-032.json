@@ -1,0 +1,75 @@
+{
+  "id": "bg-09-032",
+  "sequenceNumber": 370,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 32,
+  "verseEnd": 32,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "वंचित माने गए लोगों के लिए भी परम गति | Refuge and the highest goal",
+  "context": "Krishna broadens the assurance to people described through birth and social categories in the supplied edition.",
+  "contextHindi": "कृष्ण जन्म और सामाजिक श्रेणियों से वर्णित लोगों के लिए भी अपनी शरण से परम गति का आश्वासन देते हैं।",
+  "sanskritDevanagari": "मां हि पार्थ व्यपाश्रित्य येऽपि स्युः पापयोनयः |\nस्त्रियो वैश्यास्तथा शूद्रास्तेऽपि यान्ति परां गतिम् ||९-३२||",
+  "transliteration": "māṃ hi pārtha vyapāśritya ye.api syuḥ pāpayonayaḥ .\nstriyo vaiśyāstathā śūdrāste.api yānti parāṃ gatim ||9-32||",
+  "wordByWord": [
+    {
+      "term": "व्यपाश्रित्य",
+      "meaning": "Taking refuge in."
+    },
+    {
+      "term": "पापयोनयः",
+      "meaning": "Of sinful birth; the supplied edition's rendering of a troubling birth descriptor."
+    },
+    {
+      "term": "स्त्रियः",
+      "meaning": "Women."
+    },
+    {
+      "term": "वैश्याः",
+      "meaning": "Vaisyas, a traditional social category."
+    },
+    {
+      "term": "शूद्राः",
+      "meaning": "Sudras, a traditional social category."
+    },
+    {
+      "term": "परां गतिम्",
+      "meaning": "The supreme goal."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि उनकी शरण लेकर पापयोनि कहे गए लोग भी परम गति पाते हैं। पंक्ति में स्त्रियाँ, वैश्य और शूद्र भी नाम से आते हैं। दिए गए संस्करण में पापयोनि का अर्थ पापमय जन्म लिया गया है और इन समूहों को उसी वाक्य में रखा गया है। यह भाषा कठिन है। इसे छिपाकर केवल सभी अच्छे लोग कहना पाठ के सामाजिक संदर्भ को मिटा देगा। लेकिन इसे आज स्त्रियों या किसी जाति की जन्मजात आध्यात्मिक हीनता का प्रमाण मानना भी हमारा उचित नैतिक निष्कर्ष नहीं। श्लोक का सकारात्मक दावा यह है कि ये लोग भी कृष्ण की शरण से परम लक्ष्य प्राप्त करते हैं। सामाजिक समूह, विरासत में मिला दर्जा और वास्तविक आध्यात्मिक आचरण को एक मानना सावधानी के विरुद्ध होगा। यह हमारी वर्तमान व्याख्या है, श्लोक में आधुनिक समानाधिकार नीति का सीधा वाक्य नहीं। अध्ययन में कठिन शब्द और आश्वासन दोनों रखें। व्यवहार में किसी के जन्म या लिंग के कारण सम्मान कम न करें। भक्ति का अवसर अपमान या अनावश्यक प्रवेश रोकने का साधन नहीं बनना चाहिए।",
+  "clearEnglish": "Krishna says that taking refuge in him allows even those described as of sinful birth to reach the supreme goal; women, Vaisyas, and Sudras are named in the passage. The supplied edition places the painful birth descriptor and these social categories together. An honest lesson must not hide that language behind a generic statement about nice people. At the same time, responsible present interpretation must distinguish the historical hierarchy expressed by the wording from a claim that women or a caste have inherently inferior spiritual character. That ethical distinction is our application, not a modern equality clause explicitly written into the verse. The positive theological assertion is attainment of the highest goal through refuge in Krishna, including the groups named. Keeping both the troubling descriptor and the inclusive attainment visible helps readers engage the text critically and reverently. In daily conduct, inherited identity should not replace evidence of someone's actions or justify diminished dignity. A respectful practice can examine where assumptions about birth or gender shape access to learning and participation.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Taking refuge in Krishna, even those termed of sinful birth, with women, Vaisyas and Sudras named in the passage, attain the supreme goal."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The historical hierarchy should not be used to assign inherent spiritual inferiority today; dignity and actual conduct must be distinguished from inherited identity."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Examine an inherited assumption",
+      "text": "Notice one assumption about gender or social background that affects whom you listen to, and assess the person by actual conduct instead."
+    }
+  ],
+  "reflectionQuestion": "Whose learning or devotion do I underestimate because of inherited assumptions?",
+  "reflectionQuestionHindi": "जन्म या लिंग के बारे में पुरानी धारणाओं से मैं किसकी सीखने की क्षमता या भक्ति को कम आँकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

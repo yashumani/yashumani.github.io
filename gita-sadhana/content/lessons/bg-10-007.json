@@ -1,0 +1,67 @@
+{
+  "id": "bg-10-007",
+  "sequenceNumber": 379,
+  "date": "2026-10-05",
+  "chapter": 10,
+  "verseStart": 7,
+  "verseEnd": 7,
+  "chapterNameSanskrit": "विभूतियोग",
+  "chapterNameEnglish": "Vibhūti Yoga",
+  "theme": "विभूति की पहचान, योग की स्थिरता / Recognition and steady yoga",
+  "context": "Krishna links understanding his manifestations and yoga power with a firm relation to him.",
+  "contextHindi": "कृष्ण अपनी विभूति और योग शक्ति को यथार्थ रूप में जानने का संबंध अडिग योग से बताते हैं।",
+  "sanskritDevanagari": "एतां विभूतिं योगं च मम यो वेत्ति तत्त्वतः |\nसोऽविकम्पेन योगेन युज्यते नात्र संशयः ||१०-७||",
+  "transliteration": "etāṃ vibhūtiṃ yogaṃ ca mama yo vetti tattvataḥ .\nso.avikampena yogena yujyate nātra saṃśayaḥ ||10-7||",
+  "wordByWord": [
+    {
+      "term": "विभूतिम्",
+      "meaning": "manifestation or divine glory"
+    },
+    {
+      "term": "योगम्",
+      "meaning": "divine power of connection or manifestation here"
+    },
+    {
+      "term": "तत्त्वतः",
+      "meaning": "in truth; according to reality"
+    },
+    {
+      "term": "अविकम्पेन",
+      "meaning": "unshaken or firm"
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जो उनकी विभूति और योग को तत्त्वतः जानता है, वह अडिग योग से जुड़ता है। विभूति का अर्थ यहाँ संसार में प्रकट उनकी महिमा है। योग इस संदर्भ में उनकी दिव्य शक्ति है, केवल शरीर की कोई मुद्रा नहीं। तत्त्वतः का जोर असली समझ पर है: कोई सुंदर वस्तु देखकर उत्साह भर जाना एक बात है, उसके आधार के बारे में समझ गहरी होना दूसरी। अडिग होना भी हर भावना मिट जाना नहीं है। यह उस संबंध की स्थिरता बताता है जिसके बारे में कृष्ण बोल रहे हैं। हमारी आधुनिक साधना में इसका संकेत यह हो सकता है कि ध्यान का आधार केवल बदलते अनुभवों पर न रखें। सुखद अनुभव आए तो उसे पकड़ने की जल्दी, और कठिन दिन आए तो सब निरर्थक मान लेने की जल्दी देख सकते हैं। यह श्लोक ऐसी प्रक्रिया विस्तार से नहीं बताता; वह समझ और योग का संबंध कहता है। इसलिए छोटे अभ्यास की कीमत उसके बाद मिलने वाली खास अनुभूति से ही न तय करें। समझ को धैर्य से परखते रहने का स्थान खुला रखें।",
+  "clearEnglish": "The important qualification is tattvatah, knowing in truth. Krishna does not merely praise collecting impressive examples of divine greatness. He connects understanding his manifestations and power with an unshaken yoga. The sequence matters: recognition has a stabilizing consequence. Vibhuti names the manifestations that the chapter will describe; yoga here includes the divine power through which that multiplicity is sustained. Reading the word only as a physical exercise would miss the immediate argument. The promise of steadiness also need not be converted into a demand that practitioners never feel uncertainty, grief or distraction. The verse describes a firm spiritual relation, not a modern diagnostic standard for emotions. An application is to examine the basis of practice. If its value depends entirely on a pleasant session, ordinary changes of mood will repeatedly undermine it. Understanding a teaching can give a more durable reason to return. That is a practical inference, and it remains compatible with honest questions and careful study rather than compulsory certainty.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "Krishna says truthful knowledge of his manifestations and yoga power establishes unshaken yoga."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "A practice grounded in understanding may remain meaningful through changing moods; emotional invulnerability is not stated."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Check the basis",
+      "text": "Before a short practice, name why it matters to you. Afterwards, assess whether you returned attentively, without grading it only by pleasant sensations."
+    }
+  ],
+  "reflectionQuestion": "Does my reason to practise survive a day that feels ordinary?",
+  "reflectionQuestionHindi": "क्या साधना का मेरा कारण उस दिन भी बना रहता है जब कुछ खास महसूस नहीं होता?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

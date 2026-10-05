@@ -1,0 +1,71 @@
+{
+  "id": "bg-09-006",
+  "sequenceNumber": 344,
+  "date": "2026-10-05",
+  "chapter": 9,
+  "verseStart": 6,
+  "verseEnd": 6,
+  "chapterNameSanskrit": "राजविद्याराजगुह्ययोग",
+  "chapterNameEnglish": "Rāja Vidyā Rāja Guhya Yoga",
+  "theme": "आकाश में वायु की उपमा | Wind within space",
+  "context": "Krishna gives an analogy for the claim that all beings rest in him.",
+  "contextHindi": "सभी प्राणियों के अपने में स्थित होने को समझाने के लिए कृष्ण वायु और आकाश की उपमा देते हैं।",
+  "sanskritDevanagari": "यथाकाशस्थितो नित्यं वायुः सर्वत्रगो महान् |\nतथा सर्वाणि भूतानि मत्स्थानीत्युपधारय ||९-६||",
+  "transliteration": "yathākāśasthito nityaṃ vāyuḥ sarvatrago mahān .\ntathā sarvāṇi bhūtāni matsthānītyupadhāraya ||9-6||",
+  "wordByWord": [
+    {
+      "term": "आकाशस्थितः",
+      "meaning": "Situated in space or ether."
+    },
+    {
+      "term": "वायुः",
+      "meaning": "Wind."
+    },
+    {
+      "term": "सर्वत्रगः",
+      "meaning": "Moving everywhere."
+    },
+    {
+      "term": "महान्",
+      "meaning": "Great or mighty."
+    },
+    {
+      "term": "उपधारय",
+      "meaning": "Understand or know."
+    }
+  ],
+  "spokenHindi": "कृष्ण कहते हैं कि जैसे सब ओर जाने वाली महान वायु सदा आकाश में स्थित है, वैसे ही सभी प्राणी उनमें स्थित हैं। वायु चलती है, अलग-अलग दिशा में जाती है, फिर भी आकाश से बाहर जाने का उदाहरण नहीं बनती। उपमा से कृष्ण प्राणियों की अपने पर निर्भरता समझाते हैं। यहाँ हर प्राणी को वायु और कृष्ण को भौतिक आकाश घोषित नहीं किया गया। तुलना कुछ समझाने के लिए है, दोनों को पूरी तरह समान करने के लिए नहीं। इसलिए इससे शरीर, मौसम या अंतरिक्ष के बारे में नया वैज्ञानिक सिद्धांत नहीं निकालना चाहिए। अपने अभ्यास में हम इस चित्र को धीरे सुन सकते हैं। गतिविधि और आधार का अंतर सामने आता है। दिन में बहुत-से काम चलते हैं; उनके बीच कोई गहरा आश्रय याद करना हमारा व्यावहारिक निष्कर्ष हो सकता है। इसका अर्थ कर्म रोकना या जिम्मेदारी भूलना नहीं। एक क्षण रुककर अपने चुने हुए आश्रय का स्मरण करें और फिर काम में लौटें। उपमा को इतना ही उपयोग दें कि वह समझ बढ़ाए, अनावश्यक दावे न बनाए।",
+  "clearEnglish": "The image is movement within a sustaining expanse. Mighty wind ranges everywhere yet rests in space; Krishna asks Arjuna to understand all beings as resting in him in a comparable way. The analogy follows a difficult sequence of statements about beings in Krishna and his nonlocation within them. It offers an image, not a complete identity between divine reality and physical space. We should therefore avoid stretching each detail into a scientific assertion or a claim that Krishna is simply the atmosphere. What the comparison directly illustrates is the stated relation of beings to him. A modern contemplative response can notice that activity need not erase a sense of refuge. One may move through tasks and changing situations while recalling a devotional center. That response remains our application, rather than the verse's prescription for managing a workday. Taking a brief pause and returning to responsibilities can express the image's usefulness without requiring withdrawal. The text's analogy is strongest when allowed to illuminate a relationship rather than explain everything.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "As the mighty wind moving everywhere rests in space, Krishna says all beings rest in him."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The image can support remembrance amid activity; it is an analogy rather than an identification of Krishna with physical space."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "Recall the expanse",
+      "text": "Recall the wind-and-space image for a moment, then return to one responsibility with attention."
+    }
+  ],
+  "reflectionQuestion": "What refuge can I remember while my circumstances keep moving?",
+  "reflectionQuestionHindi": "परिस्थितियाँ बदलती रहें तो भी मैं किस आश्रय का स्मरण कर सकता हूँ?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}

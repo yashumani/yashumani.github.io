@@ -1,0 +1,79 @@
+{
+  "id": "bg-06-019",
+  "sequenceNumber": 252,
+  "date": "2026-10-05",
+  "chapter": 6,
+  "verseStart": 19,
+  "verseEnd": 19,
+  "chapterNameSanskrit": "ध्यानयोग",
+  "chapterNameEnglish": "Dhyāna Yoga",
+  "theme": "A steady mind, like a lamp sheltered from wind | हवा से सुरक्षित दीपक जैसा स्थिर मन",
+  "context": "Krishna has been describing the disciplined practice of meditation. He now offers an image for the steadiness of a mind engaged in Yoga: a lamp in a place without wind. The image points to focused practice, not to a claim that every meditation session must feel perfectly still.",
+  "contextHindi": "कृष्ण ध्यान के अनुशासित अभ्यास की बात कर रहे हैं। अब वे योग में लगे मन की स्थिरता समझाने के लिए हवा से सुरक्षित स्थान पर रखे दीपक का उदाहरण देते हैं। यह एकाग्र अभ्यास का संकेत है, यह दावा नहीं कि हर ध्यान-सत्र में मन बिल्कुल शांत ही होगा।",
+  "sanskritDevanagari": "यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता |\nयोगिनो यतचित्तस्य युञ्जतो योगमात्मनः ||६-१९||",
+  "transliteration": "yathā dīpo nivātastho neṅgate sopamā smṛtā .\nyogino yatacittasya yuñjato yogamātmanaḥ ||6-19||",
+  "wordByWord": [
+    {
+      "term": "दीपः (dīpaḥ)",
+      "meaning": "A lamp; the image used to make mental steadiness easier to picture."
+    },
+    {
+      "term": "निवातस्थः (nivātasthaḥ)",
+      "meaning": "Situated where there is no wind; here, a condition in which the flame is not buffeted."
+    },
+    {
+      "term": "नेङ्गते (neṅgate)",
+      "meaning": "Does not waver or move."
+    },
+    {
+      "term": "यतचित्तस्य (yatacittasya)",
+      "meaning": "Of one whose mind is disciplined or brought under guidance."
+    },
+    {
+      "term": "युञ्जतः (yuñjataḥ)",
+      "meaning": "Of one practising or engaging in Yoga."
+    }
+  ],
+  "spokenHindi": "यहाँ कृष्ण ध्यान में लगे योगी के मन को ऐसे दीपक से जोड़ते हैं, जिसे हवा से बचाकर रखा गया हो। लौ का न डोलना उस मन की छवि है जो अभ्यास के बीच हर आकर्षण के पीछे नहीं भागता। इसका अर्थ यह नहीं कि विचार कभी उठेंगे ही नहीं। बात यह है कि साधक बार-बार ध्यान को अपने चुने हुए आधार पर लौटाता है। ‘यतचित्त’ का भाव है मन को साधने वाला; यह किसी ऐसी उपलब्धि का प्रमाणपत्र नहीं कि अब मनुष्य से कोई चूक नहीं होगी। ‘योगमात्मनः’ उस योगाभ्यास की ओर संकेत करता है जो अपने भीतर के आत्मतत्त्व से जुड़ने के लिए किया जा रहा है। **TEXT:** श्लोक दीपक और नियंत्रित मन की उपमा देता है। **INFERENCE:** नियमित अभ्यास से ध्यान में स्थिरता बढ़ सकती है, पर यह हर व्यक्ति के अनुभव की गारंटी नहीं है। स्वामी शिवानंद की दी गई टिप्पणी इस उपमा को एकाग्रता के प्रसंग में समझती है। इसे रोज़मर्रा में अपनाएँ: ध्यान के लिए शांत कोना चुनें, और ध्यान भटके तो बिना झुंझलाए लौटें।",
+  "clearEnglish": "Krishna compares a disciplined meditator’s mind to a lamp whose flame is not disturbed by wind. The force of the image lies in the conditions around the flame: steadiness becomes possible when it is not continually buffeted. In the same way, practice involves giving attention a stable direction instead of letting every distraction take it away. The verse does not say that thoughts must disappear forever, or that a restless moment means failure. “Yatacitta” points to a mind being trained or guided; it need not imply flawless control. “Yunjata” emphasizes someone engaged in the practice of Yoga, while “nivatastha” supplies the sheltered setting that makes the simile vivid. **TEXT:** the verse offers an image of an unwavering lamp for the mind of a practitioner. **INFERENCE:** returning attention patiently may support steadiness over time, though the verse does not promise identical results for everyone. Swami Sivananda’s edition connects the image with concentration. For a practical experiment, reduce one avoidable distraction before meditation and gently resume when attention wanders. The image invites patience, not self-judgment.",
+  "interpretationPerspectives": [
+    {
+      "label": "TEXT",
+      "explanation": "The verse compares a lamp in a windless place, which does not waver, with the mind of a Yoga practitioner whose attention is disciplined."
+    },
+    {
+      "label": "COMMENTARY",
+      "explanation": "Swami Sivananda’s commentary describes the lamp image as one often used to discuss concentration and one-pointedness. This is the edition’s interpretive note, not an additional statement in Krishna’s verse."
+    },
+    {
+      "label": "INFERENCE",
+      "explanation": "The image can encourage patient attention and supportive conditions for practice; it does not establish that thoughts will never arise or that every practitioner will experience the same degree of stillness."
+    }
+  ],
+  "practicalApplication": [
+    {
+      "label": "A steadier setting",
+      "text": "Before meditation, put away one likely distraction and choose a comfortable, reasonably quiet place."
+    },
+    {
+      "label": "Return without blame",
+      "text": "When you notice your attention has wandered, acknowledge it and gently return to your chosen focus instead of criticizing yourself."
+    }
+  ],
+  "reflectionQuestion": "What tends to disturb your attention, and what is one supportive condition you could change without expecting perfection?",
+  "reflectionQuestionHindi": "आपका ध्यान किन बातों से सबसे अधिक भटकता है, और बिना पूर्णता की अपेक्षा किए आप कौन-सी एक सहायक परिस्थिति बदल सकते हैं?",
+  "sourceNotes": [
+    {
+      "label": "Sri Swami Sivananda / The Divine Life Society edition",
+      "url": "https://www.dlshq.org/download2/bgita.pdf",
+      "scope": "Primary reading edition, 701-verse numbering, transliteration, translation, and commentary context."
+    },
+    {
+      "label": "Pinned Sanskrit corpus derived from VedicScriptures data",
+      "url": "https://github.com/ChiragMirani/gita-quotes/blob/cddb2aabcb18b2ddf4ca965a0e673c1eee43146b/docs/data.json",
+      "scope": "Exact Devanagari and Roman transliteration, including the 35-verse Chapter 13 numbering used in this journey."
+    }
+  ],
+  "sequentialStatus": "sequential",
+  "publishedStatus": "published"
+}
